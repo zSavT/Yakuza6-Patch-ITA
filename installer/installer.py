@@ -71,7 +71,7 @@ ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
 CREDITI = "Patch By SavT"
 EXE_NAME = "Yakuza6.exe"
-EXE_SUBFOLDER = "Yakuza 6"
+EXE_SUBFOLDER = "Yakuza 6 - The Song of Life"
 
 LICENZA = """1) La presente patch va utilizzata esclusivamente sul gioco originale legittimamente detenuto per il quale è stata creata.
 2) Questa patch è stata creata senza fini di lucro.
@@ -89,7 +89,7 @@ This patch does not contain copyrighted material, has no functional autonomy, an
 All game rights, intellectual property, logo/names and movies/images are property of Bandai Namco Entertainment Inc.
 """
 YT_URL = "https://www.youtube.com/@zSavT"
-GH_URL = "https://github.com/zSavT/Yakuza5-Patch-ITA"
+GH_URL = "https://github.com/zSavT/Yakuza6-Patch-ITA"
 WEB_URL = "https://savtchannel.altervista.org/"
 DONAZIONI = "https://www.paypal.com/paypalme/verio12"
 
@@ -631,7 +631,7 @@ class WelcomeScreen(QWidget):
         btn_layout.addWidget(self.next_btn)
         
         bottom_info_layout = QHBoxLayout()
-        version_label = QLabel(f"Versione Patch Beta: {VERSIONE}")
+        version_label = QLabel(f"Versione Patch: {VERSIONE}")
         version_label.setObjectName("VersionLabel")
         version_label.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignVCenter)
         
@@ -1047,7 +1047,7 @@ class InstallScreen(QWidget):
                 potential_bases = [os.path.expanduser("~/Library/Application Support/Steam/steamapps/common")]
                 
             found_base = None
-            target_game_folder = "Yakuza 6"
+            target_game_folder = "Yakuza 6 - The Song of Life"
             
             for base_path in potential_bases:
                 if os.path.isdir(os.path.join(base_path, target_game_folder)):
@@ -1134,7 +1134,7 @@ class InstallerWizard(QWidget):
         except Exception as e:
             print(f"Error setting window icon: {e}")
             
-        self.setWindowTitle(f"Installer Patch Beta ITA Yakuza 6 The Song of Life ({VERSIONE})")
+        self.setWindowTitle(f"Installer Patch ITA Yakuza 6 The Song of Life ({VERSIONE})")
         self.setMinimumSize(700, 580)
         
         container = QWidget(self)
