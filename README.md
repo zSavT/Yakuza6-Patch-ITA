@@ -13,9 +13,12 @@ Analizzando i file, mi sono accorto che il gioco utilizza principalmente i file 
 
 # Immagini Patch
 
-![](img/box.jpg)
+![](img/menu.jpg)
 
-![](img/mes.jpg)
+![](img/cutscene1.jpg)
+
+![](img/cutscene2.jpg)
+
 
 # Come installare la patch
 
@@ -31,6 +34,9 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
 
 ![](img/Installer3.png)
 
+## Tool di decodifica
+
+Il tool utilizzato per la traduzione si può trovare [qui](https://github.com/zSavT/Yakuza-6-Localization-Tool.git).
 
 ## Struttura dei file (Noti al momento)
 
