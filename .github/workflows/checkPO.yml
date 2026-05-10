@@ -46,8 +46,8 @@ jobs:
             original_tmp=$(mktemp)
             translated_tmp=$(mktemp)
 
-            grep '^msgctxt "' "$original_file" | sort -u > "$original_tmp"
-            grep '^msgctxt "' "$translated_file" | sort -u > "$translated_tmp"
+            grep '^msgctxt "' "$original_file" | tr -d '\r' | sort -u > "$original_tmp" || true
+            grep '^msgctxt "' "$translated_file" | tr -d '\r' | sort -u > "$translated_tmp" || true
 
             missing_contexts=$(comm -23 "$original_tmp" "$translated_tmp")
 

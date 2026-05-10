@@ -23,12 +23,10 @@ jobs:
       - name: Validate PO Syntax
         run: |
           TARGET_DIR="File Patch/Tradotti"
-          find "$TARGET_DIR" -name "*.po" -print0 | xargs -0 -I {} sh -c '
-            OUTPUT=$(msgfmt -c -o /dev/null "{}" 2>&1)
-            STATUS=$?
-            if [ $STATUS -ne 0 ]; then
-              echo "❌ ERRORE CRITICO: {}"
-              echo "$OUTPUT" | grep -v "warning:"
-              exit 1
+          find "$TARGET_DIR" -name "*.po" -print0 | xargs -0 -I {} bash -c '
+            if ! OUTPUT=$(msgfmt -c -o /dev/null "$1" 2>&1); then
+              echo "❌ ERRORE CRITICO: $1"
+              echo "$OUTPUT"
+              exit 255
             fi
-          '
+          ' _ "{}"
