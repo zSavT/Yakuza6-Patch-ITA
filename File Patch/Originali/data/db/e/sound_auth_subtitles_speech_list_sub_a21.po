@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Ya sounded real good in there, man."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "And the power behind your bat's\r\nclearly comin' from those massive legs of yours."
+msgstr ""
+
+msgctxt "3||||4"
+msgid "I ain't ever seen ya around, though.\r\nYou not a pro, guy?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Nope, I play on an amateur team.\r\nWho exactly are you?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "I'm Norikazu Nakahata. But since I'm as tough\r\nas a wild gorilla, everyone calls me Gori-san."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Gori-san...?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Damn right. Back in my playin' days,\r\nI was real famous-like. Ya don't know me?"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Well, I don't really follow pro sports.\r\nYou're retired, I take it?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Nah, I'm just takin' a little break right now.\r\nI could totally start goin' again whenever I wanted."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "It's been rough, though. The league's kinda\r\nleft me out to dry 'cause of my attitude."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Hm, how am I gonna put this? Let's just say\r\nI talked back to my coaches one too many times."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "I don't think that's a problem.\r\nIt's good to question authority now and then."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Ya got a good head on your shoulders, dude.\r\nYou n' I are gonna get along good."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Oh yeah!\r\nYa said you play amateur ball, right?"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Whaddya think of me joinin' your team?"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "What? Are you sure?"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Sure as shit!\r\nBut don't forget, I'm an ex-pro."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "I've gotta see if you're up to snuff.\r\nMake sure if it's really worth joinin' ya."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Huh. And how are you gonna do that?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Good question, my man.\r\nWhaddya say to a home run competition!?"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "If ya can manage to hit more home runs\r\nthan me, I'll gladly join up with ya."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Good call, guy!\r\nWelp, I'm gonna get this party swingin'!"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Phew, 7's my total.\r\nWasn't half bad."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "C'mon, your turn now. If ya can even\r\nmatch my total, I'll give ya the W."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "The chance to get a guy like this on the Warriors\r\nwon't come along every day. I can't lose."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Huh. Y-Ya sure?"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Meh, whatevs. I'm always hangin' around here,\r\nso come talk to me if ya change your mind."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Oh, ya came. Well?\r\nYa here to try n' beat my score?"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "If ya manage to beat me,\r\nI'll get all up in that team of yours!"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "What a bummer, my man.\r\nI won this time."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Tch..."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Tch..."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Welp, come on back if ya ever wanna go again!"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "If ya can hit 7 or more outta the park,\r\nI'll join your team like promised!"
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Oh, what's up, guy?\r\nYa here to beat my score?"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Let's see what ya got, then."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "If ya can get 7 or more home runs, ya win.\r\nOh n' as promised, I'll join your team."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Hm? How 'bout that."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Ya got moves, buddy!\r\nI totally lose."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Life'll be easy if I'm on a team with a tough guy\r\nlike you. As I promised, I'll join ya."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Anyways, what's your team called?"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "We're the Setouchi Warriors."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "S-Setouchi...?"
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Hold up. Ain't that, uh..."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Oh, sorry. I should've mentioned sooner.\r\nMy team's based in Onomichi down in Hiroshima."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "H-Hiroshima!?\r\nBut... ya don't play in Tokyo!?"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "You heard me.\r\nDon't tell me that's too far for you."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "H-Hmmm..."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Naw, I promised! N' I never break promises!\r\nI'll go to the end of the earth if ya want me to!"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "So you're in?"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Hell yeah! I've been doin' nothin' but practice for ages.\r\nI wanna shake the rust off n' break out the big guns!"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Good.\r\nWell, I'll see you down there, Gori-san."
+msgstr ""
+

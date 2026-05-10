@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||KRU_000||family_name"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2||WAR_000||family_name"
+msgid "Chiba"
+msgstr ""
+
+msgctxt "3||WAR_001||family_name"
+msgid "Miyakoshi"
+msgstr ""
+
+msgctxt "4||WAR_002||family_name"
+msgid "Otsuka"
+msgstr ""
+
+msgctxt "5||WAR_003||family_name"
+msgid "Shimokubo"
+msgstr ""
+
+msgctxt "6||WAR_004||family_name"
+msgid "Kumada"
+msgstr ""
+
+msgctxt "7||WAR_005||family_name"
+msgid "Shindo"
+msgstr ""
+
+msgctxt "8||WAR_006||family_name"
+msgid "Sakai"
+msgstr ""
+
+msgctxt "9||WAR_007||family_name"
+msgid "Iwai"
+msgstr ""
+
+msgctxt "10||WAR_008||family_name"
+msgid "Saeki"
+msgstr ""
+
+msgctxt "11||WAR_009||family_name"
+msgid "Yoshida"
+msgstr ""
+
+msgctxt "12||WAR_010||family_name"
+msgid "Gori-san"
+msgstr ""
+
+msgctxt "13||WAR_011||family_name"
+msgid "Hatakeyama"
+msgstr ""
+
+msgctxt "14||WAR_012||family_name"
+msgid "Kase"
+msgstr ""
+
+msgctxt "15||WAR_013||family_name"
+msgid "Genie"
+msgstr ""
+
+msgctxt "16||WAR_014||family_name"
+msgid "Kuramoto"
+msgstr ""
+
+msgctxt "17||WAR_015||family_name"
+msgid "Maetani"
+msgstr ""
+
+msgctxt "18||WAR_016||family_name"
+msgid "Gen-san"
+msgstr ""
+
+msgctxt "19||WAR_017||family_name"
+msgid "Akiyoshi"
+msgstr ""
+
+msgctxt "20||WAR_018||family_name"
+msgid "Moritsuka"
+msgstr ""
+
+msgctxt "21||WAR_019||family_name"
+msgid "Kawamura"
+msgstr ""
+
+msgctxt "22||WAR_020||family_name"
+msgid "Gorchov"
+msgstr ""
+
+msgctxt "23||THU_B_000||family_name"
+msgid "Iguchi"
+msgstr ""
+
+msgctxt "24||THU_B_001||family_name"
+msgid "Sasaki"
+msgstr ""
+
+msgctxt "25||THU_B_002||family_name"
+msgid "Yanagitani"
+msgstr ""
+
+msgctxt "26||THU_B_003||family_name"
+msgid "Omichi"
+msgstr ""
+
+msgctxt "27||THU_B_004||family_name"
+msgid "Yamagoshi"
+msgstr ""
+
+msgctxt "28||THU_B_005||family_name"
+msgid "Furumiya"
+msgstr ""
+
+msgctxt "29||THU_B_006||family_name"
+msgid "Matsuhira"
+msgstr ""
+
+msgctxt "30||THU_B_007||family_name"
+msgid "Fukuda"
+msgstr ""
+
+msgctxt "31||THU_B_008||family_name"
+msgid "Uchikawa"
+msgstr ""
+
+msgctxt "32||THU_B_009||family_name"
+msgid "Okamura"
+msgstr ""
+
+msgctxt "33||THU_B_010||family_name"
+msgid "Ashikaga"
+msgstr ""
+
+msgctxt "34||THU_B_011||family_name"
+msgid "Kudo"
+msgstr ""
+
+msgctxt "35||THU_A_000||family_name"
+msgid "Hamana"
+msgstr ""
+
+msgctxt "36||THU_A_001||family_name"
+msgid "Yonekura"
+msgstr ""
+
+msgctxt "37||THU_A_002||family_name"
+msgid "Shibahara"
+msgstr ""
+
+msgctxt "38||THU_A_003||family_name"
+msgid "Bomber"
+msgstr ""
+
+msgctxt "39||THU_A_004||family_name"
+msgid "Okubo"
+msgstr ""
+
+msgctxt "40||THU_A_005||family_name"
+msgid "Yueda"
+msgstr ""
+
+msgctxt "41||THU_A_006||family_name"
+msgid "Murasame"
+msgstr ""
+
+msgctxt "42||THU_A_007||family_name"
+msgid "Uchikura"
+msgstr ""
+
+msgctxt "43||THU_A_008||family_name"
+msgid "Wakada"
+msgstr ""
+
+msgctxt "44||THU_A_009||family_name"
+msgid "Shinozaki"
+msgstr ""
+
+msgctxt "45||LEG_000||family_name"
+msgid "Nishi"
+msgstr ""
+
+msgctxt "46||LEG_001||family_name"
+msgid "Sakamoto"
+msgstr ""
+
+msgctxt "47||LEG_002||family_name"
+msgid "Shigenaga"
+msgstr ""
+
+msgctxt "48||LEG_003||family_name"
+msgid "Lu"
+msgstr ""
+
+msgctxt "49||LEG_004||family_name"
+msgid "Matsui"
+msgstr ""
+
+msgctxt "50||LEG_005||family_name"
+msgid "Takabayashi"
+msgstr ""
+
+msgctxt "51||LEG_006||family_name"
+msgid "Shiromachi"
+msgstr ""
+
+msgctxt "52||LEG_007||family_name"
+msgid "Abe"
+msgstr ""
+
+msgctxt "53||LEG_008||family_name"
+msgid "Oshimizu"
+msgstr ""
+
+msgctxt "54||LEG_009||family_name"
+msgid "Harada"
+msgstr ""
+
+msgctxt "55||LEG_010||family_name"
+msgid "Shinohara"
+msgstr ""
+
+msgctxt "56||LEG_011||family_name"
+msgid "Awada"
+msgstr ""
+
+msgctxt "57||LEG_012||family_name"
+msgid "Eguchi"
+msgstr ""
+
+msgctxt "58||LEG_013||family_name"
+msgid "Sugayama"
+msgstr ""
+
+msgctxt "59||LEG_014||family_name"
+msgid "Yamada"
+msgstr ""
+
+msgctxt "60||LEG_015||family_name"
+msgid "Shimohara"
+msgstr ""
+
+msgctxt "61||GOR_000||family_name"
+msgid "Hachiro"
+msgstr ""
+
+msgctxt "62||GOR_001||family_name"
+msgid "Selby"
+msgstr ""
+
+msgctxt "63||GOR_002||family_name"
+msgid "Canoe"
+msgstr ""
+
+msgctxt "64||GOR_003||family_name"
+msgid "Rodrigues"
+msgstr ""
+
+msgctxt "65||GOR_004||family_name"
+msgid "Barber"
+msgstr ""
+
+msgctxt "66||GOR_005||family_name"
+msgid "Sauce"
+msgstr ""
+
+msgctxt "67||GOR_006||family_name"
+msgid "Nakata"
+msgstr ""
+
+msgctxt "68||GOR_007||family_name"
+msgid "Kanamizawa"
+msgstr ""
+
+msgctxt "69||GOR_008||family_name"
+msgid "Joshima"
+msgstr ""
+
+msgctxt "70||GOR_009||family_name"
+msgid "Bowers"
+msgstr ""
+
+msgctxt "71||GOR_010||family_name"
+msgid "Fukutomi"
+msgstr ""
+
+msgctxt "72||GOR_011||family_name"
+msgid "Matsuura"
+msgstr ""
+
+msgctxt "73||GOR_012||family_name"
+msgid "Nishimura"
+msgstr ""
+
+msgctxt "74||GOR_013||family_name"
+msgid "Yu"
+msgstr ""
+
+msgctxt "75||GOR_014||family_name"
+msgid "Zhen"
+msgstr ""
+
+msgctxt "76||GOR_015||family_name"
+msgid "Kozuka"
+msgstr ""
+
+msgctxt "1||KRU_000||first_name"
+msgid "Kazuma"
+msgstr ""
+
+msgctxt "2||WAR_000||first_name"
+msgid "Fuuta"
+msgstr ""
+
+msgctxt "3||WAR_001||first_name"
+msgid "Yuichi"
+msgstr ""
+
+msgctxt "4||WAR_002||first_name"
+msgid "Junji"
+msgstr ""
+
+msgctxt "5||WAR_003||first_name"
+msgid "Toshimasa"
+msgstr ""
+
+msgctxt "6||WAR_004||first_name"
+msgid "Masaharu"
+msgstr ""
+
+msgctxt "7||WAR_005||first_name"
+msgid "Ryuji"
+msgstr ""
+
+msgctxt "8||WAR_006||first_name"
+msgid "Kentaro"
+msgstr ""
+
+msgctxt "9||WAR_007||first_name"
+msgid "Shinjiro"
+msgstr ""
+
+msgctxt "10||WAR_008||first_name"
+msgid "Koshi"
+msgstr ""
+
+msgctxt "11||WAR_009||first_name"
+msgid "Naoya"
+msgstr ""
+
+msgctxt "13||WAR_011||first_name"
+msgid "Takanobu"
+msgstr ""
+
+msgctxt "14||WAR_012||first_name"
+msgid "Haruki"
+msgstr ""
+
+msgctxt "16||WAR_014||first_name"
+msgid "Kenji"
+msgstr ""
+
+msgctxt "17||WAR_015||first_name"
+msgid "Tomokazu"
+msgstr ""
+
+msgctxt "19||WAR_017||first_name"
+msgid "Shunichi"
+msgstr ""
+
+msgctxt "20||WAR_018||first_name"
+msgid "Tadahiko"
+msgstr ""
+
+msgctxt "21||WAR_019||first_name"
+msgid "Takao"
+msgstr ""
+
+msgctxt "23||THU_B_000||first_name"
+msgid "Tadashi"
+msgstr ""
+
+msgctxt "24||THU_B_001||first_name"
+msgid "Toshio"
+msgstr ""
+
+msgctxt "25||THU_B_002||first_name"
+msgid "Manabu"
+msgstr ""
+
+msgctxt "26||THU_B_003||first_name"
+msgid "Hisashi"
+msgstr ""
+
+msgctxt "27||THU_B_004||first_name"
+msgid "Michihiro"
+msgstr ""
+
+msgctxt "28||THU_B_005||first_name"
+msgid "Junya"
+msgstr ""
+
+msgctxt "29||THU_B_006||first_name"
+msgid "Makoto"
+msgstr ""
+
+msgctxt "30||THU_B_007||first_name"
+msgid "Kazuhiro"
+msgstr ""
+
+msgctxt "31||THU_B_008||first_name"
+msgid "Hisami"
+msgstr ""
+
+msgctxt "32||THU_B_009||first_name"
+msgid "Yoshihiko"
+msgstr ""
+
+msgctxt "33||THU_B_010||first_name"
+msgid "Satoshi"
+msgstr ""
+
+msgctxt "34||THU_B_011||first_name"
+msgid "Yuji"
+msgstr ""
+
+msgctxt "35||THU_A_000||first_name"
+msgid "Ryo"
+msgstr ""
+
+msgctxt "36||THU_A_001||first_name"
+msgid "Issei"
+msgstr ""
+
+msgctxt "37||THU_A_002||first_name"
+msgid "Kosuke"
+msgstr ""
+
+msgctxt "39||THU_A_004||first_name"
+msgid "Takatoshi"
+msgstr ""
+
+msgctxt "40||THU_A_005||first_name"
+msgid "Tomoki"
+msgstr ""
+
+msgctxt "41||THU_A_006||first_name"
+msgid "Shuji"
+msgstr ""
+
+msgctxt "42||THU_A_007||first_name"
+msgid "Kenzo"
+msgstr ""
+
+msgctxt "43||THU_A_008||first_name"
+msgid "Toshimitsu"
+msgstr ""
+
+msgctxt "44||THU_A_009||first_name"
+msgid "Shoji"
+msgstr ""
+
+msgctxt "45||LEG_000||first_name"
+msgid "Toshiaki"
+msgstr ""
+
+msgctxt "46||LEG_001||first_name"
+msgid "Hayato"
+msgstr ""
+
+msgctxt "47||LEG_002||first_name"
+msgid "Shigenobu"
+msgstr ""
+
+msgctxt "48||LEG_003||first_name"
+msgid "Sadao"
+msgstr ""
+
+msgctxt "49||LEG_004||first_name"
+msgid "Hideyuki"
+msgstr ""
+
+msgctxt "50||LEG_005||first_name"
+msgid "Yoshiharu"
+msgstr ""
+
+msgctxt "52||LEG_007||first_name"
+msgid "Shintaro"
+msgstr ""
+
+msgctxt "53||LEG_008||first_name"
+msgid "Nobuyuki"
+msgstr ""
+
+msgctxt "54||LEG_009||first_name"
+msgid "Tatsuo"
+msgstr ""
+
+msgctxt "55||LEG_010||first_name"
+msgid "Kazuhisa"
+msgstr ""
+
+msgctxt "56||LEG_011||first_name"
+msgid "Kenichi"
+msgstr ""
+
+msgctxt "57||LEG_012||first_name"
+msgid "Tatsuo"
+msgstr ""
+
+msgctxt "58||LEG_013||first_name"
+msgid "Tomonori"
+msgstr ""
+
+msgctxt "59||LEG_014||first_name"
+msgid "Keita"
+msgstr ""
+
+msgctxt "60||LEG_015||first_name"
+msgid "Kouichi"
+msgstr ""
+
+msgctxt "67||GOR_006||first_name"
+msgid "Noritake"
+msgstr ""
+
+msgctxt "68||GOR_007||first_name"
+msgid "Tsubasa"
+msgstr ""
+
+msgctxt "69||GOR_008||first_name"
+msgid "Tsutomu"
+msgstr ""
+
+msgctxt "71||GOR_010||first_name"
+msgid "Shinsuke"
+msgstr ""
+
+msgctxt "72||GOR_011||first_name"
+msgid "Kazuyoshi"
+msgstr ""
+
+msgctxt "73||GOR_012||first_name"
+msgid "Takeshi"
+msgstr ""
+
+msgctxt "74||GOR_013||first_name"
+msgid "Jian-min"
+msgstr ""
+
+msgctxt "75||GOR_014||first_name"
+msgid "Wei-duan"
+msgstr ""
+
+msgctxt "76||GOR_015||first_name"
+msgid "Masao"
+msgstr ""
+
+msgctxt "1||KRU_000||comment_message"
+msgid "A well-rounded player who not only specializes in outfield roles,\r\nbut can also fill in for all other positions except pitcher.\r\nHe's got a great RBI average, and he's a heavy hitter to boot.\r\nAs the glue of the team, he's the key to victory."
+msgstr ""
+
+msgctxt "2||WAR_000||comment_message"
+msgid "A fast outfielder who's always making contact with the ball.\r\nSpeed is his pride, allowing him to cover a wide range of\r\npositions. His flaw is that sometimes he buckles under\r\npressure. In hopes of overcoming his weakness, he tries to\r\ntrain more mentally than physically."
+msgstr ""
+
+msgctxt "3||WAR_001||comment_message"
+msgid "A strong starting pitcher with good control. The curveball is\r\nhis secret weapon, a throw he learned from his father as a\r\nchild. When the going gets rough, though, he does tend\r\nto get too careful. He hopes to gain more experience and\r\nthe courage to stay cool under pressure."
+msgstr ""
+
+msgctxt "4||WAR_002||comment_message"
+msgid "This catcher is also a real slugger, swinging for the fences\r\nwith every swing. His hits go flying further than anyone else\r\non the team, but his lack of control often leads to strikes.\r\nHe also tends to neglect training his catcher role because\r\nbatting is so much cooler."
+msgstr ""
+
+msgctxt "5||WAR_003||comment_message"
+msgid "An outfielder with a good eye for the ball, giving him a high\r\non-base percentage. He handles fielding and base running\r\nflawlessly as well, making him a near perfect player."
+msgstr ""
+
+msgctxt "6||WAR_004||comment_message"
+msgid "A first baseman with a nice batting average. He was an honor\r\nstudent with a talent for just about everything of course,\r\nand when the bases are loaded, it's his time to shine - he'll\r\naim to bring those runners home and all the glory with it."
+msgstr ""
+
+msgctxt "7||WAR_005||comment_message"
+msgid "Aside from his main position at third base, he excels at\r\nplaying shortstop. People tend to think of him as a fielder,\r\nbut his batting average is nothing to scoff at. A utility player\r\nwho can clean up at the top or create opportunities at the\r\nbottom, you can count on him to get it done."
+msgstr ""
+
+msgctxt "8||WAR_006||comment_message"
+msgid "Although he prefers second base, he's a utility infielder who\r\ncan fill in any role just fine. He tends to get swept up in the\r\nmoment, though. This is great if his team is doing well, but\r\nhe'll suffer if the team is flagging."
+msgstr ""
+
+msgctxt "9||WAR_007||comment_message"
+msgid "A fast infielder who also excels at making contact with the\r\nball. Once he gets on base, he applies immense pressure to\r\nthe opposing team with his sheer speed. But knowing how\r\nfast he is has led to an obsession with running speed, and his\r\nteammates often need to bully him into focusing on his\r\nfielding and batting."
+msgstr ""
+
+msgctxt "10||WAR_008||comment_message"
+msgid "A slugger with a batting average he can take pride in. His\r\nimmense concentration at the plate, even when pinch\r\nhitting, is second to none. Problem is, hitting is all he\r\ncares about, so his fielding and base running averages are\r\npretty subpar."
+msgstr ""
+
+msgctxt "11||WAR_009||comment_message"
+msgid "A reliable catcher who brings out the best in his pitchers.\r\nHe's a great communicator, and understanding the team's\r\nchemistry and quirks makes him ideal for support. He's\r\nnot bad at the plate, either."
+msgstr ""
+
+msgctxt "12||WAR_010||comment_message"
+msgid "The whole team counts on this slugger to step to the plate and\r\nget results, and he often does just that. He's a decent fielder\r\nas well. His downside is drinking too much at post-game parties."
+msgstr ""
+
+msgctxt "13||WAR_011||comment_message"
+msgid "An outfielder who prides himself on both his power and\r\naccuracy. For whatever reason, he's especially reliable at\r\ntipping the game in his favor at the bottom of the 9th.\r\nAlthough his fielding isn't as great as his batting, he does\r\nhave some nice utility in both infield and outfield roles."
+msgstr ""
+
+msgctxt "14||WAR_012||comment_message"
+msgid "A lead-off hitter who loves a challenge. Don't expect any\r\ndistance from him, but if you just need a guy to get on base,\r\nhis excellent control and speed make him your man. He's\r\nthe life of the party too, keeping his team's spirits high when\r\nthey're losing with rowdy shouting and friendly smacks."
+msgstr ""
+
+msgctxt "15||WAR_013||comment_message"
+msgid "If he connects with the ball, you can expect a home run from\r\nthis herculean hitter. People often compare the speed of his\r\nswing to a ceiling fan set on kill. He loves practicing his batting,\r\nbut that's literally the only thing he'll practice."
+msgstr ""
+
+msgctxt "16||WAR_014||comment_message"
+msgid "An outfielder with good speed and strong defense. He's a\r\nfielding enthusiast who traps fly balls like a vice. He's also a\r\npretty accurate hitter, but not an especially powerful one."
+msgstr ""
+
+msgctxt "17||WAR_015||comment_message"
+msgid "An aloof batter who strives to reach baseball zen in his pursuit\r\nof the perfect swing. His dedication to this leads to friction\r\nwith his team, but at the end of the day, they acknowledge\r\nthat he's a great batter. He's also a skilled fielder and runner."
+msgstr ""
+
+msgctxt "18||WAR_016||comment_message"
+msgid "This skilled infielder likes to show off how great he is, which\r\nsometimes leads to errors. He's also got a powerful swing, but\r\nhe tends to make intimidating poses when he gets on base that\r\ncan lead to friction with the opposing team."
+msgstr ""
+
+msgctxt "19||WAR_017||comment_message"
+msgid "A southpaw equipped with a dangerously fast and accurate\r\nfastball. He's practically a strikeout factory when he busts\r\nout his forkballs, but his stamina wears down fast, so it's best\r\nto pull him before he starts giving up runs."
+msgstr ""
+
+msgctxt "20||WAR_018||comment_message"
+msgid "A relief specialist who's got some mean breaking balls.\r\nIt's like he was born to be a relief pitcher, excelling at\r\nlate-game entries and crumbling whenever he starts."
+msgstr ""
+
+msgctxt "21||WAR_019||comment_message"
+msgid "A player with the perfect pitching skill set who can even stay\r\ncool and collected under pressure. Maybe his lack of flaws\r\nis a flaw, in its own way."
+msgstr ""
+
+msgctxt "22||WAR_020||comment_message"
+msgid "An ace rookie with a wealth of hidden talents. Although he\r\nreally devotes himself to practice, he's too young to have\r\nexperienced true failure, so he starts to buckle if he lets a\r\nfew hits go. He'll be one to watch<symbol=em_dash_with_outline>will he rise to greatness,\r\nor remain saddled by his insecurities?"
+msgstr ""
+

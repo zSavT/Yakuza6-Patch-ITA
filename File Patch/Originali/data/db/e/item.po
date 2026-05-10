@@ -1,0 +1,6533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "25||smile_burgar||name"
+msgid "Smile Burger"
+msgstr ""
+
+msgctxt "26||smile_wburgar||name"
+msgid "Double Smile Burger"
+msgstr ""
+
+msgctxt "27||smile_humburger||name"
+msgid "Ham Katsu Burger"
+msgstr ""
+
+msgctxt "28||smile_potatoburger||name"
+msgid "Potato Salad Burger"
+msgstr ""
+
+msgctxt "29||smile_chickenburger||name"
+msgid "Chicken Burger"
+msgstr ""
+
+msgctxt "30||smile_friedpotato||name"
+msgid "French Fries (M)"
+msgstr ""
+
+msgctxt "31||kiwami_drink||name"
+msgid "POWER Drink"
+msgstr ""
+
+msgctxt "89||bracelet_red||name"
+msgid "Red Gem Bracelet"
+msgstr ""
+
+msgctxt "90||bracelet_black||name"
+msgid "Black Gem Bracelet"
+msgstr ""
+
+msgctxt "91||bracelet_white||name"
+msgid "White Gem Bracelet"
+msgstr ""
+
+msgctxt "92||bracelet_blue||name"
+msgid "Blue Gem Bracelet"
+msgstr ""
+
+msgctxt "93||bracelet_leather||name"
+msgid "Leather Bracelet"
+msgstr ""
+
+msgctxt "94||bracelet_luck||name"
+msgid "Beads of Good Fortune"
+msgstr ""
+
+msgctxt "95||bracelet_sp_red||name"
+msgid "Suzaku Bracelet"
+msgstr ""
+
+msgctxt "96||bracelet_sp_blk||name"
+msgid "Genbu Bracelet"
+msgstr ""
+
+msgctxt "97||bracelet_sp_wht||name"
+msgid "Byakko Bracelet"
+msgstr ""
+
+msgctxt "98||bracelet_sp_blu||name"
+msgid "Seiryu Bracelet"
+msgstr ""
+
+msgctxt "99||bracelet_so_max||name"
+msgid "Heavenly Beast Bracelet"
+msgstr ""
+
+msgctxt "100||mouthguard||name"
+msgid "Mouth Guard"
+msgstr ""
+
+msgctxt "101||mouthguard_sp||name"
+msgid "Custom Mouth Guard"
+msgstr ""
+
+msgctxt "102||mouthguard_max||name"
+msgid "Transcendent Mouth Guard"
+msgstr ""
+
+msgctxt "103||sarashi_asagao||name"
+msgid "Morning Glory Waistband"
+msgstr ""
+
+msgctxt "104||sarashi||name"
+msgid "Binding"
+msgstr ""
+
+msgctxt "105||sarashi_kenka||name"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "106||sarashi_kyou||name"
+msgid "Fearless Binding"
+msgstr ""
+
+msgctxt "107||sarashi_chizome||name"
+msgid "Bloody Binding"
+msgstr ""
+
+msgctxt "108||sarashi_dragon||name"
+msgid "Dragon's Binding"
+msgstr ""
+
+msgctxt "109||vest_bltproof||name"
+msgid "Bulletproof Vest"
+msgstr ""
+
+msgctxt "110||vest_bltproof_sp||name"
+msgid "Military-grade Bulletproof Vest"
+msgstr ""
+
+msgctxt "111||vest_knfproof||name"
+msgid "Body Armor"
+msgstr ""
+
+msgctxt "112||vest_knfproof_sp||name"
+msgid "Military-grade Body Armor"
+msgstr ""
+
+msgctxt "113||vest_max||name"
+msgid "Transcendent Body Armor"
+msgstr ""
+
+msgctxt "114||chainmail_lw||name"
+msgid "Rusted Chain Mail"
+msgstr ""
+
+msgctxt "115||chainmail||name"
+msgid "Chain Mail"
+msgstr ""
+
+msgctxt "116||chainmail_bloody||name"
+msgid "Blood-caked Chain Mail"
+msgstr ""
+
+msgctxt "117||belt_vinyl||name"
+msgid "Vinyl Belt"
+msgstr ""
+
+msgctxt "118||belt_cowhide||name"
+msgid "Leather Belt"
+msgstr ""
+
+msgctxt "119||belt_stamina||name"
+msgid "Stamina Belt"
+msgstr ""
+
+msgctxt "120||belt_sotmack||name"
+msgid "Hunger Belt"
+msgstr ""
+
+msgctxt "121||belt_highbland||name"
+msgid "Expensive Leather Belt"
+msgstr ""
+
+msgctxt "122||insole||name"
+msgid "Comfy Insoles"
+msgstr ""
+
+msgctxt "123||insole_sp||name"
+msgid "High-tech Insoles"
+msgstr ""
+
+msgctxt "124||insole_max||name"
+msgid "Transcendent Insoles"
+msgstr ""
+
+msgctxt "125||amulet_health||name"
+msgid "Good Health Amulet"
+msgstr ""
+
+msgctxt "126||amulet_traffic||name"
+msgid "Road Safety Amulet"
+msgstr ""
+
+msgctxt "127||amulet_luck||name"
+msgid "Good Luck Amulet"
+msgstr ""
+
+msgctxt "128||amulet_journey||name"
+msgid "Travel Safety Amulet"
+msgstr ""
+
+msgctxt "129||amulet_love||name"
+msgid "Romance Amulet"
+msgstr ""
+
+msgctxt "130||photo_charisma||name"
+msgid "Charismatic Photo"
+msgstr ""
+
+msgctxt "131||photo_asagao||name"
+msgid "Morning Glory Photo"
+msgstr ""
+
+msgctxt "132||eye_ofthe_dragon||name"
+msgid "Eye of the Dragon"
+msgstr ""
+
+msgctxt "133||amulet_dragon||name"
+msgid "Dragon God Amulet"
+msgstr ""
+
+msgctxt "134||underwear_white||name"
+msgid "Pure White Briefs"
+msgstr ""
+
+msgctxt "135||underwear_boxer||name"
+msgid "Boxer Briefs"
+msgstr ""
+
+msgctxt "136||underwear_trunks||name"
+msgid "Trunks"
+msgstr ""
+
+msgctxt "137||underwear_boomerang||name"
+msgid "Boomerang Briefs"
+msgstr ""
+
+msgctxt "138||hundoshi_6shaku||name"
+msgid "Rokushaku Fundoshi"
+msgstr ""
+
+msgctxt "139||hundoshi_ecchu||name"
+msgid "Etchu Fundoshi"
+msgstr ""
+
+msgctxt "140||underwear_iron||name"
+msgid "Steel Underwear"
+msgstr ""
+
+msgctxt "141||hundoshi_bloody||name"
+msgid "Bloody Fundoshi"
+msgstr ""
+
+msgctxt "142||gypsum_wrist||name"
+msgid "Wrist Training Gear"
+msgstr ""
+
+msgctxt "143||gypsum_ankle||name"
+msgid "Ankle Training Gear"
+msgstr ""
+
+msgctxt "144||gypsum_gokudo||name"
+msgid "Yakuza Training Gear"
+msgstr ""
+
+msgctxt "146||finder_substory||name"
+msgid "Substory Finder"
+msgstr ""
+
+msgctxt "147||finder_safe||name"
+msgid "Safe Finder"
+msgstr ""
+
+msgctxt "172||toughnessz||name"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "173||toughnesszz||name"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "174||toughnessinfinity||name"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "175||tauriner_a||name"
+msgid "Tauriner"
+msgstr ""
+
+msgctxt "176||tauriner_b||name"
+msgid "Tauriner +"
+msgstr ""
+
+msgctxt "177||tauriner_c||name"
+msgid "Tauriner ++"
+msgstr ""
+
+msgctxt "178||tauriner_s||name"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "179||staminan_a||name"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "180||staminan_b||name"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "181||staminan_c||name"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "182||staminan_s||name"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "183||haraheru_half||name"
+msgid "AppStim Half"
+msgstr ""
+
+msgctxt "184||haraheru_rx||name"
+msgid "AppStim RX"
+msgstr ""
+
+msgctxt "185||random_drink01||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "186||random_drink02||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "187||random_drink03||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "188||random_drink04||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "189||random_drink05||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "190||random_drink06||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "191||random_drink07||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "192||random_drink08||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "193||random_drink09||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "194||random_drink10||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "195||random_drink11||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "196||random_drink12||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "197||random_drink13||name"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "198||alps_coffee||name"
+msgid "Blended Coffee"
+msgstr ""
+
+msgctxt "200||alps_moca||name"
+msgid "Mocha"
+msgstr ""
+
+msgctxt "204||alps_cake||name"
+msgid "Special Shortcake"
+msgstr ""
+
+msgctxt "205||alps_montblanc||name"
+msgid "Mont Blanc"
+msgstr ""
+
+msgctxt "206||alps_sandwich||name"
+msgid "Sandwich Set"
+msgstr ""
+
+msgctxt "208||alps_neapolitan||name"
+msgid "Napolitan"
+msgstr ""
+
+msgctxt "209||cafe_cappuccino||name"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "210||cafe_espresso||name"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "219||cafe_sandwich||name"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "220||cafe_croissant||name"
+msgid "Croissant"
+msgstr ""
+
+msgctxt "221||cafe_toast||name"
+msgid "Toast"
+msgstr ""
+
+msgctxt "224||smile_teriburgar||name"
+msgid "Teriyaki Smile Burger"
+msgstr ""
+
+msgctxt "225||smile_king_burgar||name"
+msgid "King Smile Burger"
+msgstr ""
+
+msgctxt "228||smile_potato||name"
+msgid "Smile Fries"
+msgstr ""
+
+msgctxt "229||smile_shake||name"
+msgid "Smile Shake"
+msgstr ""
+
+msgctxt "230||smile_salada||name"
+msgid "Smile Salad"
+msgstr ""
+
+msgctxt "231||smile_m_burgar||name"
+msgid "Limited Millennium Tower Burger"
+msgstr ""
+
+msgctxt "232||wild_burgar||name"
+msgid "Wild Burger"
+msgstr ""
+
+msgctxt "239||ichiban_ramen||name"
+msgid "Kyushu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "240||ichiban_ramen_kakuni||name"
+msgid "Stewed Pork Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "241||ichiban_ramen_charsiu||name"
+msgid "Chashu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "242||ichiban_ramen_tsuke||name"
+msgid "Kyushu Tonkotsu Tsukemen"
+msgstr ""
+
+msgctxt "244||ichiban_charhan||name"
+msgid "Fried Rice"
+msgstr ""
+
+msgctxt "245||ichiban_gyoza||name"
+msgid "Gyoza"
+msgstr ""
+
+msgctxt "246||hanrai_tanshio||name"
+msgid "Salted Tongue"
+msgstr ""
+
+msgctxt "247||hanrai_sp_tanshio||name"
+msgid "Grade A Salted Tongue"
+msgstr ""
+
+msgctxt "248||hanrai_calvi||name"
+msgid "Kalbi"
+msgstr ""
+
+msgctxt "249||hanrai_sp_calvi||name"
+msgid "Grade A Kalbi"
+msgstr ""
+
+msgctxt "250||hanrai_loos||name"
+msgid "Sirloin"
+msgstr ""
+
+msgctxt "251||hanrai_sp_loos||name"
+msgid "Grade A Sirloin"
+msgstr ""
+
+msgctxt "252||hanrai_harami||name"
+msgid "Harami"
+msgstr ""
+
+msgctxt "253||hanrai_sp_harami||name"
+msgid "Grade A Harami"
+msgstr ""
+
+msgctxt "254||hanrai_hormone||name"
+msgid "Tripe BBQ"
+msgstr ""
+
+msgctxt "255||hanrai_kaisenmori||name"
+msgid "Seafood Platter"
+msgstr ""
+
+msgctxt "256||hanrai_kimuchimori||name"
+msgid "Kimchi Combo"
+msgstr ""
+
+msgctxt "257||hanrai_bibimbap||name"
+msgid "Stone-cooked Bibimbap"
+msgstr ""
+
+msgctxt "258||hanrai_yukgaejang||name"
+msgid "Spicy Beef Soup"
+msgstr ""
+
+msgctxt "259||hanrai_yakininniku||name"
+msgid "Grilled Garlic"
+msgstr ""
+
+msgctxt "260||hanrai_salada||name"
+msgid "Kanrai Special Salad"
+msgstr ""
+
+msgctxt "261||sushigin_nishiki||name"
+msgid "Nishiki Set"
+msgstr ""
+
+msgctxt "262||sushigin_miyabi||name"
+msgid "Miyabi Set"
+msgstr ""
+
+msgctxt "263||sushigin_kiwami||name"
+msgid "Kiwami Set"
+msgstr ""
+
+msgctxt "264||sushigin_hanachirashi||name"
+msgid "Flower Chirashi"
+msgstr ""
+
+msgctxt "265||sushigin_kiwamichirashi||name"
+msgid "Kiwami Chirashi"
+msgstr ""
+
+msgctxt "266||sushigin_tekka||name"
+msgid "Tuna Rice Bowl"
+msgstr ""
+
+msgctxt "267||sushigin_kaisen||name"
+msgid "Kiwami Seafood Rice Bowl"
+msgstr ""
+
+msgctxt "268||sushigin_osuimono||name"
+msgid "Osuimono"
+msgstr ""
+
+msgctxt "269||sushigin_ebijiru||name"
+msgid "Lobster Miso Soup"
+msgstr ""
+
+msgctxt "270||sushigin_pudding||name"
+msgid "Chef's Selection Pudding"
+msgstr ""
+
+msgctxt "271||yonetoku_nikunabe||name"
+msgid "Meat Nabe"
+msgstr ""
+
+msgctxt "272||yonetoku_nikomi||name"
+msgid "Stew"
+msgstr ""
+
+msgctxt "273||yonetoku_sharishari||name"
+msgid "Crunchy Shochu Highball"
+msgstr ""
+
+msgctxt "274||yonetoku_takobutsu||name"
+msgid "Takobutsu"
+msgstr ""
+
+msgctxt "275||yonetoku_tukemonomori||name"
+msgid "Pickle Platter"
+msgstr ""
+
+msgctxt "276||yonetoku_edamame||name"
+msgid "Edamame"
+msgstr ""
+
+msgctxt "277||yonetoku_potatosalada||name"
+msgid "Potato Salad"
+msgstr ""
+
+msgctxt "278||yonetoku_beer||name"
+msgid "Draft Beer"
+msgstr ""
+
+msgctxt "280||snack_edamame||name"
+msgid "Edamame"
+msgstr ""
+
+msgctxt "281||snack_oshinko||name"
+msgid "Pickles"
+msgstr ""
+
+msgctxt "282||snack_karaage||name"
+msgid "Chicken Karaage"
+msgstr ""
+
+msgctxt "283||snack_neapolitan||name"
+msgid "Napolitan"
+msgstr ""
+
+msgctxt "284||snack_kimuchicharhan||name"
+msgid "Kimchi Fried Rice"
+msgstr ""
+
+msgctxt "285||snack_omurice||name"
+msgid "Omurice"
+msgstr ""
+
+msgctxt "286||snack_curryrice||name"
+msgid "Curry & Rice"
+msgstr ""
+
+msgctxt "287||snack_chirashi||name"
+msgid "Chirashi Sushi"
+msgstr ""
+
+msgctxt "288||caba_fruitsmori||name"
+msgid "Fruit Platter"
+msgstr ""
+
+msgctxt "289||caba_carbonara||name"
+msgid "Carbonara"
+msgstr ""
+
+msgctxt "290||caba_karaage||name"
+msgid "Chicken Karaage"
+msgstr ""
+
+msgctxt "292||caba_potato||name"
+msgid "Potato Wedges"
+msgstr ""
+
+msgctxt "293||caba_edamame||name"
+msgid "Edamame"
+msgstr ""
+
+msgctxt "295||kaki_yakigaki||name"
+msgid "Grilled Oyster"
+msgstr ""
+
+msgctxt "296||kaki_namagaki||name"
+msgid "Raw Oyster"
+msgstr ""
+
+msgctxt "297||kaki_kakihurai||name"
+msgid "Fried Oysters"
+msgstr ""
+
+msgctxt "298||kaki_kakiomu||name"
+msgid "Oyster Omelette"
+msgstr ""
+
+msgctxt "299||kaki_mebaru||name"
+msgid "Salt Grilled Rockfish"
+msgstr ""
+
+msgctxt "300||kaki_kakidote||name"
+msgid "Oyster Dotenabe"
+msgstr ""
+
+msgctxt "301||kaki_kakimeshi||name"
+msgid "Oyster Rice"
+msgstr ""
+
+msgctxt "302||kaki_ryoushijiru||name"
+msgid "Fisherman Soup"
+msgstr ""
+
+msgctxt "303||kaki_takosashi||name"
+msgid "Octopus Sashimi"
+msgstr ""
+
+msgctxt "304||kaki_ikasashi||name"
+msgid "Squid Sashimi"
+msgstr ""
+
+msgctxt "305||kaki_sashimimori||name"
+msgid "Sashimi Platter"
+msgstr ""
+
+msgctxt "306||akaushi_gyu_nami||name"
+msgid "Beef Bowl (Standard)"
+msgstr ""
+
+msgctxt "307||akaushi_gyu_dai||name"
+msgid "Beef Bowl (Large)"
+msgstr ""
+
+msgctxt "308||akaushi_gyu_toku||name"
+msgid "Beef Bowl (Extra Large)"
+msgstr ""
+
+msgctxt "309||akaushi_gyu_sara||name"
+msgid "Beef Plate"
+msgstr ""
+
+msgctxt "310||akaushi_beer||name"
+msgid "Draft Beer"
+msgstr ""
+
+msgctxt "311||akaushi_misoshiru||name"
+msgid "Miso Soup"
+msgstr ""
+
+msgctxt "312||akaushi_coleslaw||name"
+msgid "Coleslaw Salad"
+msgstr ""
+
+msgctxt "314||lapente_greensalada||name"
+msgid "Specialty Green Salad"
+msgstr ""
+
+msgctxt "315||lapente_ratatouille||name"
+msgid "Ratatouille"
+msgstr ""
+
+msgctxt "316||lapente_rossini||name"
+msgid "Tournedos Rossini"
+msgstr ""
+
+msgctxt "318||lapente_lobster||name"
+msgid "Grilled Lobster"
+msgstr ""
+
+msgctxt "319||lapente_bouillabaisse||name"
+msgid "Bouillabaisse"
+msgstr ""
+
+msgctxt "320||lapente_torimomo||name"
+msgid "Oven-baked Chicken Thigh"
+msgstr ""
+
+msgctxt "321||lapente_kamoniku||name"
+msgid "Roasted Duck"
+msgstr ""
+
+msgctxt "322||lapente_frenchbread||name"
+msgid "Homemade Baguette"
+msgstr ""
+
+msgctxt "331||yamaneko_pudding||name"
+msgid "Onomichi Pudding"
+msgstr ""
+
+msgctxt "332||yamaneko_hiyashi||name"
+msgid "Hiyashiame"
+msgstr ""
+
+msgctxt "333||pokecir_tofu||name"
+msgid "Tofu"
+msgstr ""
+
+msgctxt "334||alps_bluemountain||name"
+msgid "Blue Mountain"
+msgstr ""
+
+msgctxt "335||alps_earlgrey||name"
+msgid "Earl Grey Tea"
+msgstr ""
+
+msgctxt "336||alps_parfaitichigo||name"
+msgid "Strawberry Parfait"
+msgstr ""
+
+msgctxt "337||alps_parfaitchoco||name"
+msgid "Chocolate Parfait"
+msgstr ""
+
+msgctxt "338||alps_beefcurry||name"
+msgid "Original Beef Curry"
+msgstr ""
+
+msgctxt "339||cafe_milktea||name"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "340||cafe_macchalatte||name"
+msgid "Matcha Latte"
+msgstr ""
+
+msgctxt "341||cafe_chococake||name"
+msgid "Chocolate Cake"
+msgstr ""
+
+msgctxt "342||cafe_cheesecake||name"
+msgid "Cheesecake"
+msgstr ""
+
+msgctxt "343||cafe_originalcake||name"
+msgid "Original Cake"
+msgstr ""
+
+msgctxt "344||cafe_specialcake||name"
+msgid "Seasonal Cake"
+msgstr ""
+
+msgctxt "345||cafe_bucketsand||name"
+msgid "Baguette Sandwich"
+msgstr ""
+
+msgctxt "346||cafe_clubsand||name"
+msgid "Club Sandwich"
+msgstr ""
+
+msgctxt "347||cafe_originalpan1||name"
+msgid "Original Bread"
+msgstr ""
+
+msgctxt "348||cafe_originalpan2||name"
+msgid "Special Bread"
+msgstr ""
+
+msgctxt "349||smile_maguroburgar||name"
+msgid "Tuna Burger"
+msgstr ""
+
+msgctxt "350||smile_kakuniburgar||name"
+msgid "Braised Pork Burger"
+msgstr ""
+
+msgctxt "351||wild_aboburgar||name"
+msgid "Wild Avocado Burger"
+msgstr ""
+
+msgctxt "352||wild_chikiburgar||name"
+msgid "Wild Chicken Sandwich"
+msgstr ""
+
+msgctxt "353||wild_friedchicken||name"
+msgid "Wild Fried Chicken"
+msgstr ""
+
+msgctxt "354||wild_hotchicken||name"
+msgid "Wild Hot Chicken"
+msgstr ""
+
+msgctxt "355||wild_orangejuice||name"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "356||wild_oolongtea||name"
+msgid "Oolong Tea"
+msgstr ""
+
+msgctxt "357||ichiban_charsiudon||name"
+msgid "Chashu Rice Bowl"
+msgstr ""
+
+msgctxt "358||yonetoku_oolongtea||name"
+msgid "Oolong Tea"
+msgstr ""
+
+msgctxt "359||lapente_originaldessert01||name"
+msgid "Special Strawberry Shortcake"
+msgstr ""
+
+msgctxt "360||lapente_originaldessert02||name"
+msgid "Chocolate Cake"
+msgstr ""
+
+msgctxt "361||lapente_redwine||name"
+msgid "Red Wine"
+msgstr ""
+
+msgctxt "362||lapente_whitewine||name"
+msgid "White Wine"
+msgstr ""
+
+msgctxt "363||bar_y18||name"
+msgid "Yamazaki 18 Years Old"
+msgstr ""
+
+msgctxt "365||bar_whiskeyold||name"
+msgid "Suntory Old Whisky"
+msgstr ""
+
+msgctxt "370||bar_laphroaig10||name"
+msgid "Laphroaig 10 Years Old"
+msgstr ""
+
+msgctxt "371||bar_maltz||name"
+msgid "The Premium Malt's"
+msgstr ""
+
+msgctxt "372||bar_vsop||name"
+msgid "Suntory Brandy V.S.O.P"
+msgstr ""
+
+msgctxt "374||gindaco_tacoyaki||name"
+msgid "Absolutely Tasty Takoyaki"
+msgstr ""
+
+msgctxt "375||gindaco_cheesetacoyaki||name"
+msgid "Cheese and Spicy Fish Roe"
+msgstr ""
+
+msgctxt "376||gindaco_tentsuyutacoyaki||name"
+msgid "Welsh Onion Takoyaki"
+msgstr ""
+
+msgctxt "378||gindaco_yakisoba||name"
+msgid "Sauce Yakisoba"
+msgstr ""
+
+msgctxt "381||gindaco_premaltz||name"
+msgid "The Premium Malt's Draft"
+msgstr ""
+
+msgctxt "383||gindaco_casiore||name"
+msgid "Fresh Cassis and Orange"
+msgstr ""
+
+msgctxt "388||fujisoba_kake||name"
+msgid "Soba in Hot Broth"
+msgstr ""
+
+msgctxt "389||fujisoba_mori||name"
+msgid "Chilled Soba"
+msgstr ""
+
+msgctxt "390||fujisoba_hiyashitanuki||name"
+msgid "Chilled Tanuki Soba"
+msgstr ""
+
+msgctxt "391||fujisoba_hiyashikitsune||name"
+msgid "Chilled Kitsune Soba"
+msgstr ""
+
+msgctxt "392||fujisoba_tentama||name"
+msgid "Egg & Tempura Soba"
+msgstr ""
+
+msgctxt "393||fujisoba_sp_soba||name"
+msgid "Special Fuji Soba"
+msgstr ""
+
+msgctxt "394||fujisoba_katsudon||name"
+msgid "Katsudon"
+msgstr ""
+
+msgctxt "395||fujisoba_curry||name"
+msgid "Curry & Rice"
+msgstr ""
+
+msgctxt "396||yoro_beer||name"
+msgid "Draft Beer (Medium)"
+msgstr ""
+
+msgctxt "397||yoro_oolongtea||name"
+msgid "Oolong Tea"
+msgstr ""
+
+msgctxt "398||yoro_lemonsour||name"
+msgid "Lemon Sour (Medium)"
+msgstr ""
+
+msgctxt "399||yoro_grapesour||name"
+msgid "Kyoho Grape Sour"
+msgstr ""
+
+msgctxt "400||yoro_grapefruitsour||name"
+msgid "Fresh Grapefruit Sour (Medium)"
+msgstr ""
+
+msgctxt "401||yoro_bakuhai||name"
+msgid "Bakuhai"
+msgstr ""
+
+msgctxt "403||yoro_gyokuro||name"
+msgid "Gyokuro Green Tea Shochu (Medium)"
+msgstr ""
+
+msgctxt "404||yoro_kakuhai||name"
+msgid "Kaku Highball"
+msgstr ""
+
+msgctxt "406||yoro_cassisoolong||name"
+msgid "Cassis Oolong"
+msgstr ""
+
+msgctxt "409||yoro_sashimi7mori||name"
+msgid "Value Sashimi Platter 7 pcs."
+msgstr ""
+
+msgctxt "410||yoro_sashimi3mori||name"
+msgid "Sashimi Platter 3 pcs."
+msgstr ""
+
+msgctxt "411||yoro_aburisimesaba||name"
+msgid "Hand-selected Vinegar Mackerel"
+msgstr ""
+
+msgctxt "412||yoro_choregi||name"
+msgid "Kotchori Salad"
+msgstr ""
+
+msgctxt "413||yoro_edamame||name"
+msgid "Edamame"
+msgstr ""
+
+msgctxt "414||yoro_kushimori||name"
+msgid "Skewer Platter"
+msgstr ""
+
+msgctxt "416||yoro_shishamo||name"
+msgid "Smelt Fish with Roe"
+msgstr ""
+
+msgctxt "418||yoro_shioyakisoba||name"
+msgid "Salted Yakisoba"
+msgstr ""
+
+msgctxt "419||yoro_menchikatsu||name"
+msgid "Juicy Mince Cutlet"
+msgstr ""
+
+msgctxt "420||yoro_moyashi||name"
+msgid "Stir-fried Bean Sprouts"
+msgstr ""
+
+msgctxt "422||ringer_chanpon||name"
+msgid "Nagasaki Champon"
+msgstr ""
+
+msgctxt "423||ringer_yasai||name"
+msgid "Vegetable Champon"
+msgstr ""
+
+msgctxt "424||ringer_pirikara||name"
+msgid "Spicy Champon"
+msgstr ""
+
+msgctxt "426||ringer_sara||name"
+msgid "Nagasaki Saraudon"
+msgstr ""
+
+msgctxt "427||ringer_yasaisara||name"
+msgid "Vegetable Saraudon"
+msgstr ""
+
+msgctxt "428||ringer_hutosara||name"
+msgid "Thick Saraudon"
+msgstr ""
+
+msgctxt "429||ringer_snacksara||name"
+msgid "Light Saraudon"
+msgstr ""
+
+msgctxt "430||ringer_gyoza5||name"
+msgid "Gyoza 5 pcs."
+msgstr ""
+
+msgctxt "434||sushiza_chirashidon||name"
+msgid "Choice Chirashi Bowl"
+msgstr ""
+
+msgctxt "435||sushiza_magurodon||name"
+msgid "Special Bluefin Tuna Bowl"
+msgstr ""
+
+msgctxt "436||sushiza_tokusen||name"
+msgid "Special Sushi Zanmai"
+msgstr ""
+
+msgctxt "437||sushiza_magurozanmai||name"
+msgid "Tuna Zanmai"
+msgstr ""
+
+msgctxt "442||ikinari_fillet||name"
+msgid "Tenderloin Steak 200g"
+msgstr ""
+
+msgctxt "444||ikinari_ribulose||name"
+msgid "Rib-eye Steak 300g"
+msgstr ""
+
+msgctxt "445||ikinari_sirloin||name"
+msgid "Sirloin Steak 200g"
+msgstr ""
+
+msgctxt "449||oosaka_gyoza||name"
+msgid "Original Fried Gyoza"
+msgstr ""
+
+msgctxt "450||oosaka_tenshinhan||name"
+msgid "Soft and Creamy Crab Omelette on Rice"
+msgstr ""
+
+msgctxt "451||oosaka_gomoku||name"
+msgid "Mixed Fried Rice"
+msgstr ""
+
+msgctxt "452||oosaka_chukasoba||name"
+msgid "Ramen"
+msgstr ""
+
+msgctxt "454||oosaka_shisentantan||name"
+msgid "Sichuan Dandan Noodles"
+msgstr ""
+
+msgctxt "455||oosaka_yakisoba||name"
+msgid "Chinese Yakisoba"
+msgstr ""
+
+msgctxt "456||oosaka_ebichili||name"
+msgid "Shrimp in Chili Sauce"
+msgstr ""
+
+msgctxt "457||oosaka_chinjaorosu||name"
+msgid "Pork Pepper Steak"
+msgstr ""
+
+msgctxt "458||oosaka_rebanira||name"
+msgid "Stir-fried Liver and Onion"
+msgstr ""
+
+msgctxt "459||oosaka_subuta||name"
+msgid "Sweet and Sour Pork"
+msgstr ""
+
+msgctxt "460||oosaka_hoikoro||name"
+msgid "Twice-cooked Pork"
+msgstr ""
+
+msgctxt "461||oosaka_mabo||name"
+msgid "Mapo Tofu"
+msgstr ""
+
+msgctxt "462||oosaka_banbanji||name"
+msgid "Banbanji Chicken Salad"
+msgstr ""
+
+msgctxt "463||oosaka_gomadango||name"
+msgid "Sesame Dumplings"
+msgstr ""
+
+msgctxt "469||caba_champagnegold||name"
+msgid "Gold Champagne"
+msgstr ""
+
+msgctxt "470||caba_champagnerose||name"
+msgid "Rosé Champagne"
+msgstr ""
+
+msgctxt "471||caba_champagneblack||name"
+msgid "Black Champagne"
+msgstr ""
+
+msgctxt "473||caba_beer||name"
+msgid "Draft Beer"
+msgstr ""
+
+msgctxt "474||caba_cassisorange||name"
+msgid "Cassis Orange"
+msgstr ""
+
+msgctxt "475||caba_orangejuice||name"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "476||caba_water||name"
+msgid "Water"
+msgstr ""
+
+msgctxt "477||drink_ccremon||name"
+msgid "C.C. Lemon"
+msgstr ""
+
+msgctxt "478||drink_dekabita||name"
+msgid "Dekavita C"
+msgstr ""
+
+msgctxt "480||drink_iemon||name"
+msgid "Iyemon Tokucha Green Tea"
+msgstr ""
+
+msgctxt "482||drink_kurouron||name"
+msgid "Suntory Black Oolong Tea"
+msgstr ""
+
+msgctxt "483||drink_uron||name"
+msgid "Suntory Oolong Tea"
+msgstr ""
+
+msgctxt "484||drink_reinbo||name"
+msgid "BOSS Rainbow Mountain"
+msgstr ""
+
+msgctxt "485||drink_bosu_bito||name"
+msgid "BOSS Light Sugar"
+msgstr ""
+
+msgctxt "486||drink_bosu_muto||name"
+msgid "BOSS Black"
+msgstr ""
+
+msgctxt "489||drink_dakara||name"
+msgid "GREEN DAKARA"
+msgstr ""
+
+msgctxt "490||drink_mizu_minami||name"
+msgid "Suntory Mineral Water (S. Alps)"
+msgstr ""
+
+msgctxt "491||drink_mizu_oku||name"
+msgid "Suntory Mineral Water (Okudaisen)"
+msgstr ""
+
+msgctxt "497||drink_kora||name"
+msgid "Muscle Soda"
+msgstr ""
+
+msgctxt "498||drink_aomidori||name"
+msgid "Aomidorijiru"
+msgstr ""
+
+msgctxt "499||drink_sukusuku||name"
+msgid "Sukusuku Au Lait"
+msgstr ""
+
+msgctxt "500||drink_sengoku||name"
+msgid "Sengoku Coffee"
+msgstr ""
+
+msgctxt "501||drink_shoryu||name"
+msgid "Shoryu Beer"
+msgstr ""
+
+msgctxt "502||drink_koryu||name"
+msgid "Kouryu Beer"
+msgstr ""
+
+msgctxt "503||drink_kiwami||name"
+msgid "Power Drink"
+msgstr ""
+
+msgctxt "504||drink_bitamin_enaji||name"
+msgid "Vitamin C Energy Drink"
+msgstr ""
+
+msgctxt "505||drink_gurepu_500||name"
+msgid "Grape (500 ml)"
+msgstr ""
+
+msgctxt "506||drink_gurepu||name"
+msgid "Grape"
+msgstr ""
+
+msgctxt "507||drink_saida||name"
+msgid "Lemon-lime Soda"
+msgstr ""
+
+msgctxt "508||drink_howaitosoda||name"
+msgid "White Soda"
+msgstr ""
+
+msgctxt "509||drink_remon||name"
+msgid "Lemon Squash"
+msgstr ""
+
+msgctxt "510||drink_mikan||name"
+msgid "Mandarin Orange 100% Juice"
+msgstr ""
+
+msgctxt "511||drink_koiocha_500||name"
+msgid "Rich Tea (500 ml)"
+msgstr ""
+
+msgctxt "512||drink_koiocha||name"
+msgid "Rich Tea (280 ml)"
+msgstr ""
+
+msgctxt "513||drink_ocha||name"
+msgid "Tea"
+msgstr ""
+
+msgctxt "514||drink_houjicha_500||name"
+msgid "Hoji-cha (500 ml)"
+msgstr ""
+
+msgctxt "515||drink_houjicha||name"
+msgid "Hoji-cha (280 ml)"
+msgstr ""
+
+msgctxt "516||drink_genmaicha_500||name"
+msgid "Genmai-cha (500 ml)"
+msgstr ""
+
+msgctxt "517||drink_genmaicha||name"
+msgid "Genmai-cha (280 ml)"
+msgstr ""
+
+msgctxt "518||drink_meron||name"
+msgid "Tropical Ultra Melon"
+msgstr ""
+
+msgctxt "519||drink_kafemoka||name"
+msgid "Coffee Moca"
+msgstr ""
+
+msgctxt "520||drink_rakki||name"
+msgid "Lucky Soda"
+msgstr ""
+
+msgctxt "521||drink_poseidon||name"
+msgid "Poseidon Power"
+msgstr ""
+
+msgctxt "522||drink_kuriamarin||name"
+msgid "Clear Marine"
+msgstr ""
+
+msgctxt "523||drink_yukidoke||name"
+msgid "Forest Meltwater"
+msgstr ""
+
+msgctxt "524||fujisoba_yuzudori||name"
+msgid "Yuzu Chicken & Spinach Soba"
+msgstr ""
+
+msgctxt "525||wette_burgar||name"
+msgid "Wette Burger"
+msgstr ""
+
+msgctxt "526||wette_eggburgar||name"
+msgid "Wette Egg Burger"
+msgstr ""
+
+msgctxt "528||wette_onionring||name"
+msgid "Onion Ring"
+msgstr ""
+
+msgctxt "529||wette_tomatoonion||name"
+msgid "Tomato Onion Soup"
+msgstr ""
+
+msgctxt "530||wette_originalcoffee||name"
+msgid "Wette Original Coffee"
+msgstr ""
+
+msgctxt "531||wette_icelemontea||name"
+msgid "Iced Lemon Tea"
+msgstr ""
+
+msgctxt "532||imuraya_niku||name"
+msgid "Imuraya Steamed Bun"
+msgstr ""
+
+msgctxt "533||imuraya_an||name"
+msgid "Imuraya Bean Paste Bun"
+msgstr ""
+
+msgctxt "534||imuraya_pizza||name"
+msgid "Imuraya Pizza Bun"
+msgstr ""
+
+msgctxt "535||imuraya_goldniku||name"
+msgid "Imuraya Gold Steamed Bun"
+msgstr ""
+
+msgctxt "536||imuraya_goldpizza||name"
+msgid "Imuraya Gold Pizza Bun"
+msgstr ""
+
+msgctxt "537||darts_beginner||name"
+msgid "Beginner Darts"
+msgstr ""
+
+msgctxt "538||darts_middle||name"
+msgid "Intermediate Darts"
+msgstr ""
+
+msgctxt "539||darts_advanced||name"
+msgid "Expert Darts"
+msgstr ""
+
+msgctxt "540||darts_paullim||name"
+msgid "Paul Lim's Darts"
+msgstr ""
+
+msgctxt "541||catfood01||name"
+msgid "Homestyle Chicken Cat Food"
+msgstr ""
+
+msgctxt "542||catfood02||name"
+msgid "Miso Crispy Beef Cat Food"
+msgstr ""
+
+msgctxt "543||catfood03||name"
+msgid "Fresh Tuna Cat Food"
+msgstr ""
+
+msgctxt "544||catfood04||name"
+msgid "Cheese Salmon Paté Cat Food"
+msgstr ""
+
+msgctxt "545||catfood05||name"
+msgid "White Fish and Sardine Cat Food"
+msgstr ""
+
+msgctxt "546||catfood06||name"
+msgid "Bonito Flake Cat Food"
+msgstr ""
+
+msgctxt "547||catfood10||name"
+msgid "Gold Tuna Cat Food"
+msgstr ""
+
+msgctxt "548||risingwave||name"
+msgid "RISINGWAVE Zero Black"
+msgstr ""
+
+msgctxt "549||ikinari_wildsteak||name"
+msgid "Wild Steak 300g"
+msgstr ""
+
+msgctxt "550||ikinari_wildhamburg||name"
+msgid "Wild Hamburg Steak 300g"
+msgstr ""
+
+msgctxt "551||ikinari_salada||name"
+msgid "Salad"
+msgstr ""
+
+msgctxt "552||ikinari_soup||name"
+msgid "Soup"
+msgstr ""
+
+msgctxt "553||smile_smileburgar||name"
+msgid "Smile Burger"
+msgstr ""
+
+msgctxt "554||sushiza_uniikuradon||name"
+msgid "Uni Ikura Bowl"
+msgstr ""
+
+msgctxt "555||sushiza_uruoi||name"
+msgid "Uruoi Set"
+msgstr ""
+
+msgctxt "556||yonetoku_toritoku||name"
+msgid "Toritoku Yakitori Set"
+msgstr ""
+
+msgctxt "558||ringer_genen||name"
+msgid "Reduced Sodium Champon"
+msgstr ""
+
+msgctxt "559||ringer_yasaisoup||name"
+msgid "Veggie-filled Soup"
+msgstr ""
+
+msgctxt "560||ringer_chapolitan||name"
+msgid "Napolitan Champon"
+msgstr ""
+
+msgctxt "561||ringer_charhan||name"
+msgid "Fried Rice"
+msgstr ""
+
+msgctxt "562||juuman_chukasoba||name"
+msgid "Onomichi Ramen"
+msgstr ""
+
+msgctxt "563||juuman_chukasoba_big||name"
+msgid "Large Onomichi Ramen"
+msgstr ""
+
+msgctxt "564||juuman_matayaki||name"
+msgid "Chashu Onomichi Ramen"
+msgstr ""
+
+msgctxt "565||juuman_matayaki_big||name"
+msgid "Large Chashu Onomichi Ramen"
+msgstr ""
+
+msgctxt "566||juuman_karaageset||name"
+msgid "Chicken Karaage Set"
+msgstr ""
+
+msgctxt "567||juuman_karaage||name"
+msgid "Chicken Karaage"
+msgstr ""
+
+msgctxt "568||juuman_rice||name"
+msgid "Rice"
+msgstr ""
+
+msgctxt "569||juuman_musubi2||name"
+msgid "Onigiri (2pcs)"
+msgstr ""
+
+msgctxt "570||juuman_inari2||name"
+msgid "Inari Sushi (2pcs)"
+msgstr ""
+
+msgctxt "571||juuman_egg||name"
+msgid "Boiled Egg"
+msgstr ""
+
+msgctxt "572||gindaco_teritama||name"
+msgid "Teriyaki and Egg"
+msgstr ""
+
+msgctxt "573||gindaco_cheesepepper||name"
+msgid "Delicious Cheese Pepper"
+msgstr ""
+
+msgctxt "574||gindaco_tacoavocado||name"
+msgid "Octopus and Avocado with Yuzu Pepper"
+msgstr ""
+
+msgctxt "575||gindaco_tacokara||name"
+msgid "Spicy Deep-fried Octopus"
+msgstr ""
+
+msgctxt "576||gindaco_potatosourcream||name"
+msgid "Sour Cream Fries"
+msgstr ""
+
+msgctxt "577||gindaco_tubokyu||name"
+msgid "Cucumber Pot"
+msgstr ""
+
+msgctxt "578||gindaco_kakuhai||name"
+msgid "The Kaku Highball"
+msgstr ""
+
+msgctxt "579||gindaco_yamahai||name"
+msgid "Yamazaki Highball"
+msgstr ""
+
+msgctxt "580||gindaco_bloodorange||name"
+msgid "Blood Orange Highball"
+msgstr ""
+
+msgctxt "581||gindaco_ginbeam||name"
+msgid "Jim Beam Highball"
+msgstr ""
+
+msgctxt "582||gindaco_citruslemon||name"
+msgid "Citrus Lemon Highball"
+msgstr ""
+
+msgctxt "583||food_oden||name"
+msgid "Oden"
+msgstr ""
+
+msgctxt "584||food_konbuonigiri||name"
+msgid "Seaweed Onigiri"
+msgstr ""
+
+msgctxt "585||food_tsunaonigiri||name"
+msgid "Tuna Onigiri"
+msgstr ""
+
+msgctxt "586||food_shakeonigiri||name"
+msgid "Salmon Onigiri"
+msgstr ""
+
+msgctxt "587||food_makunouchi||name"
+msgid "Bento Lunch Set"
+msgstr ""
+
+msgctxt "588||food_yakisoba||name"
+msgid "Special Yakisoba"
+msgstr ""
+
+msgctxt "589||food_tonkatsu||name"
+msgid "Bento Lunch Set (Pork)"
+msgstr ""
+
+msgctxt "590||food_healthybento||name"
+msgid "Healthy Balanced Bento"
+msgstr ""
+
+msgctxt "591||food_yakinikubento||name"
+msgid "Luxury Yakiniku Bento"
+msgstr ""
+
+msgctxt "592||food_sushidume||name"
+msgid "Sushi Set"
+msgstr ""
+
+msgctxt "593||food_freshlettucesand||name"
+msgid "Fresh Lettuce Sandwich"
+msgstr ""
+
+msgctxt "594||food_tsunaeggsand||name"
+msgid "Tuna & Egg Sandwich"
+msgstr ""
+
+msgctxt "595||rizap_muscle||name"
+msgid "MUSCLE"
+msgstr ""
+
+msgctxt "596||rizap_fibax||name"
+msgid "FIBAX"
+msgstr ""
+
+msgctxt "597||rizap_limit+||name"
+msgid "LIMIT+"
+msgstr ""
+
+msgctxt "598||rizap_burn+||name"
+msgid "BURN+"
+msgstr ""
+
+msgctxt "599||rizap_quick burner||name"
+msgid "QUICK BURNER"
+msgstr ""
+
+msgctxt "600||exp_manju_muscle||name"
+msgid "Red Bun"
+msgstr ""
+
+msgctxt "601||exp_manju_quickness||name"
+msgid "Blue Bun"
+msgstr ""
+
+msgctxt "602||exp_manju_guts||name"
+msgid "Orange Bun"
+msgstr ""
+
+msgctxt "603||exp_manju_technique||name"
+msgid "Green Bun"
+msgstr ""
+
+msgctxt "604||exp_manju_charm||name"
+msgid "Purple Bun"
+msgstr ""
+
+msgctxt "605||exp_manju_all||name"
+msgid "Rainbow Bun"
+msgstr ""
+
+msgctxt "606||pocket_tissue||name"
+msgid "Pocket Tissues"
+msgstr ""
+
+msgctxt "607||drifters_ryuboku_ex||name"
+msgid "Beautiful Driftwood"
+msgstr ""
+
+msgctxt "608||drifters_ryuboku_ss||name"
+msgid "Small Driftwood"
+msgstr ""
+
+msgctxt "609||drifters_ryuboku_ll||name"
+msgid "Large Driftwood"
+msgstr ""
+
+msgctxt "610||drifters_ryuboku_ltn||name"
+msgid "Decayed Driftwood"
+msgstr ""
+
+msgctxt "611||drifters_shell_ex||name"
+msgid "Beautiful Seashell"
+msgstr ""
+
+msgctxt "612||drifters_shell_dmg||name"
+msgid "Broken Seashell"
+msgstr ""
+
+msgctxt "613||drifters_shell_ss||name"
+msgid "Small Seashell"
+msgstr ""
+
+msgctxt "614||drifters_buoy||name"
+msgid "Buoy"
+msgstr ""
+
+msgctxt "615||drifters_dust||name"
+msgid "Trash"
+msgstr ""
+
+msgctxt "616||drifters_wakame||name"
+msgid "Seaweed"
+msgstr ""
+
+msgctxt "617||suba12_prepaid||name"
+msgid "Prepaid Card"
+msgstr ""
+
+msgctxt "618||caba_salada||name"
+msgid "Coleslaw Salad"
+msgstr ""
+
+msgctxt "619||caba_icecream||name"
+msgid "Ice Cream"
+msgstr ""
+
+msgctxt "620||caba_hakusyu||name"
+msgid "Hakushu 12 Years Old"
+msgstr ""
+
+msgctxt "621||caba_yasaistick||name"
+msgid "Complimentary Vegetables"
+msgstr ""
+
+msgctxt "622||snack_yamazaki18||name"
+msgid "Yamazaki 18 Years Old"
+msgstr ""
+
+msgctxt "623||snack_shochu||name"
+msgid "Shochu"
+msgstr ""
+
+msgctxt "625||snack_nihonshu||name"
+msgid "Sake"
+msgstr ""
+
+msgctxt "626||snack_redwine||name"
+msgid "Red Wine"
+msgstr ""
+
+msgctxt "627||snack_whitewine||name"
+msgid "White Wine"
+msgstr ""
+
+msgctxt "628||snack_orangejuice||name"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "629||snack_water||name"
+msgid "Water"
+msgstr ""
+
+msgctxt "630||necafe_card||name"
+msgid "Internet Café Membership Card"
+msgstr ""
+
+msgctxt "637||book_muscle||name"
+msgid "Strength Tome"
+msgstr ""
+
+msgctxt "638||book_quickness||name"
+msgid "Agility Tome"
+msgstr ""
+
+msgctxt "639||book_technique||name"
+msgid "Technique Tome"
+msgstr ""
+
+msgctxt "640||book_charm||name"
+msgid "Charm Tome"
+msgstr ""
+
+msgctxt "641||book_guts||name"
+msgid "Spirit Tome"
+msgstr ""
+
+msgctxt "642||drink_nihonshu||name"
+msgid "Sake"
+msgstr ""
+
+msgctxt "643||suntory_kakubin||name"
+msgid "Kakubin"
+msgstr ""
+
+msgctxt "644||suntory_maltz||name"
+msgid "The Premium Malt's Master's Dream"
+msgstr ""
+
+msgctxt "645||acecook_supertori||name"
+msgid "Super Cup Soy Sauce Chicken Broth"
+msgstr ""
+
+msgctxt "646||acecook_superika||name"
+msgid "Super Cup Extra Large Squid Yakisoba"
+msgstr ""
+
+msgctxt "647||acecook_janjan||name"
+msgid "JAN JAN Sauce Yakisoba"
+msgstr ""
+
+msgctxt "648||acecook_wakame||name"
+msgid "Wakame Ramen"
+msgstr ""
+
+msgctxt "649||acecook_wantan||name"
+msgid "Soup Harusame: Wonton"
+msgstr ""
+
+msgctxt "650||acecook_foo||name"
+msgid "Chicken Broth Pho"
+msgstr ""
+
+msgctxt "652||spearfishing_standard||name"
+msgid "Standard Speargun"
+msgstr ""
+
+msgctxt "654||spearfishing_stronger||name"
+msgid "High-impact Speargun"
+msgstr ""
+
+msgctxt "655||spearfishing_pluscharge||name"
+msgid "High-capacity Speargun"
+msgstr ""
+
+msgctxt "656||spearfishing_standard_miss||name"
+msgid "Modded Speargun"
+msgstr ""
+
+msgctxt "658||spearfishing_stronger_g||name"
+msgid "Kiwami Speargun"
+msgstr ""
+
+msgctxt "659||spearfishing_pluscharge_g||name"
+msgid "Ahab's Revenge"
+msgstr ""
+
+msgctxt "661||caba_meishi_sora||name"
+msgid "Sora's Business Card"
+msgstr ""
+
+msgctxt "662||caba_meishi_hikaru||name"
+msgid "Hikaru's Business Card"
+msgstr ""
+
+msgctxt "663||caba_meishi_riona||name"
+msgid "Riona's Business Card"
+msgstr ""
+
+msgctxt "664||caba_meishi_saki||name"
+msgid "Saki's Business Card"
+msgstr ""
+
+msgctxt "665||caba_meishi_erina||name"
+msgid "Erina's Business Card"
+msgstr ""
+
+msgctxt "666||snack_maltz||name"
+msgid "The Premium Malt's"
+msgstr ""
+
+msgctxt "667||bar_h12||name"
+msgid "Hakushu 12 Years Old"
+msgstr ""
+
+msgctxt "668||bar_mccarran30||name"
+msgid "The Macallan 30 Years Old"
+msgstr ""
+
+msgctxt "669||bar_hibiki30||name"
+msgid "Hibiki 30 Years Old"
+msgstr ""
+
+msgctxt "670||bar_hibiki17||name"
+msgid "Hibiki 17 Years Old"
+msgstr ""
+
+msgctxt "671||bar_ballantyne30||name"
+msgid "Ballantine's 30 Years Old"
+msgstr ""
+
+msgctxt "672||dish_platinum||name"
+msgid "Platinum Plate"
+msgstr ""
+
+msgctxt "673||dish_gold||name"
+msgid "Gold Plate"
+msgstr ""
+
+msgctxt "674||dish_silver||name"
+msgid "Silver Plate"
+msgstr ""
+
+msgctxt "675||dish_copper||name"
+msgid "Bronze Plate"
+msgstr ""
+
+msgctxt "676||dish_iron||name"
+msgid "Iron Plate"
+msgstr ""
+
+msgctxt "677||dish_paper||name"
+msgid "Paper Plate"
+msgstr ""
+
+msgctxt "678||suba03_harukabromide||name"
+msgid "Haruka's Bromide"
+msgstr ""
+
+msgctxt "679||suba03_haruka_illust||name"
+msgid "Drawing of Haruka"
+msgstr ""
+
+msgctxt "682||yoro_shichiria||name"
+msgid "Cassata"
+msgstr ""
+
+msgctxt "683||quadra_cappuccino||name"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "684||quadra_espresso||name"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "685||quadra_milktea||name"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "686||quadra_chococake||name"
+msgid "Chocolate Cake"
+msgstr ""
+
+msgctxt "687||quadra_cheesecake||name"
+msgid "Cheesecake"
+msgstr ""
+
+msgctxt "688||quadra_sandwich||name"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "689||quadra_croissant||name"
+msgid "Croissant"
+msgstr ""
+
+msgctxt "690||quadra_toast||name"
+msgid "Toast"
+msgstr ""
+
+msgctxt "691||subb06_michio_cd||name"
+msgid "Ono Michio's CD Sample"
+msgstr ""
+
+msgctxt "692||subb07_michio_illust||name"
+msgid "Drawing of Michio"
+msgstr ""
+
+msgctxt "693||picture_kuhi01||name"
+msgid "Poem Picture 1"
+msgstr ""
+
+msgctxt "694||picture_kuhi02||name"
+msgid "Poem Picture 2"
+msgstr ""
+
+msgctxt "695||picture_kuhi03||name"
+msgid "Poem Picture 3"
+msgstr ""
+
+msgctxt "696||picture_kuhi04||name"
+msgid "Poem Picture 4"
+msgstr ""
+
+msgctxt "697||picture_kuhi05||name"
+msgid "Poem Picture 5"
+msgstr ""
+
+msgctxt "698||picture_kuhi06||name"
+msgid "Poem Picture 6"
+msgstr ""
+
+msgctxt "699||picture_kuhi07||name"
+msgid "Poem Picture 7"
+msgstr ""
+
+msgctxt "700||picture_kuhi08||name"
+msgid "Poem Picture 8"
+msgstr ""
+
+msgctxt "701||picture_kuhi09||name"
+msgid "Poem Picture 9"
+msgstr ""
+
+msgctxt "702||memo_ango||name"
+msgid "Memo of the Code"
+msgstr ""
+
+msgctxt "703||suba11_reicopicture01||name"
+msgid "Selfie Photo 1"
+msgstr ""
+
+msgctxt "704||suba11_reicopicture02||name"
+msgid "Selfie Photo 2"
+msgstr ""
+
+msgctxt "705||suba11_reicopicture03||name"
+msgid "Selfie Photo 3"
+msgstr ""
+
+msgctxt "706||safe_key01||name"
+msgid "Safe Key Found on Tenkaichi Street"
+msgstr ""
+
+msgctxt "707||safe_key02||name"
+msgid "Safe Key Found on West Taihei Boulevard"
+msgstr ""
+
+msgctxt "708||safe_key03||name"
+msgid "Safe Key Found at Yoshida Batting Center"
+msgstr ""
+
+msgctxt "709||safe_key04||name"
+msgid "Safe Key Found in Nakamichi Alley"
+msgstr ""
+
+msgctxt "710||safe_key05||name"
+msgid "Safe Key Found on Senryo Avenue"
+msgstr ""
+
+msgctxt "711||safe_key06||name"
+msgid "Safe Key Found at Jingai Ferry Dock"
+msgstr ""
+
+msgctxt "712||safe_key07||name"
+msgid "Safe Key Found on Pedestrian Bridge"
+msgstr ""
+
+msgctxt "713||safe_key08||name"
+msgid "Safe Key Found on Second Hill"
+msgstr ""
+
+msgctxt "714||safe_key09||name"
+msgid "Safe Key Found at Hana-no-kubo"
+msgstr ""
+
+msgctxt "715||safe_key10||name"
+msgid "Safe Key Found at Central Shopping District"
+msgstr ""
+
+msgctxt "716||shinrei_goods01||name"
+msgid "Photo of Osamu Kashiwagi"
+msgstr ""
+
+msgctxt "717||shinrei_goods02||name"
+msgid "Photo of Shintaro Kazama"
+msgstr ""
+
+msgctxt "718||shinrei_goods03||name"
+msgid "Photo of Akira Nishikiyama"
+msgstr ""
+
+msgctxt "719||shinrei_goods04||name"
+msgid "Photo of Yoshitaka Mine"
+msgstr ""
+
+msgctxt "720||shinrei_goods05||name"
+msgid "Photo of Sohei Dojima"
+msgstr ""
+
+msgctxt "721||shinrei_goods06||name"
+msgid "Photo of Shinji Tanaka"
+msgstr ""
+
+msgctxt "722||shinrei_goods07||name"
+msgid "Photo of Yumi Sawamura"
+msgstr ""
+
+msgctxt "723||shinrei_goods08||name"
+msgid "Photo of Lau Ka Long"
+msgstr ""
+
+msgctxt "724||shinrei_goods09||name"
+msgid "Photo of Masaru Ihara"
+msgstr ""
+
+msgctxt "725||shinrei_goods10||name"
+msgid "Photo of Yoshinobu Tokugawa"
+msgstr ""
+
+msgctxt "726||bracelet_ghost||name"
+msgid "Beads of Exorcism"
+msgstr ""
+
+msgctxt "727||finder_ufo||name"
+msgid "UFO Finder"
+msgstr ""
+
+msgctxt "728||amulet_parry||name"
+msgid "Parry Talisman"
+msgstr ""
+
+msgctxt "730||amulet_tosin||name"
+msgid "War God Talisman"
+msgstr ""
+
+msgctxt "731||staminan_d||name"
+msgid "Staminan Royale (Bonus Item)"
+msgstr ""
+
+msgctxt "25||smile_burgar||explanation"
+msgid "Our classic Smile Burger."
+msgstr ""
+
+msgctxt "26||smile_wburgar||explanation"
+msgid "Two times the meat, two times the fun!"
+msgstr ""
+
+msgctxt "27||smile_humburger||explanation"
+msgid "Our original ham cutlet sandwich.\r\nPig out on this Smile Burger classic!"
+msgstr ""
+
+msgctxt "28||smile_potatoburger||explanation"
+msgid "The potato salad on this burger makes it a\r\nhealthier option."
+msgstr ""
+
+msgctxt "29||smile_chickenburger||explanation"
+msgid "A fancy chicken sandwich with all the fixings.\r\nYou'll go cuckoo for it!"
+msgstr ""
+
+msgctxt "30||smile_friedpotato||explanation"
+msgid "No burger is complete without\r\nthese crispy sticks of fried goodness."
+msgstr ""
+
+msgctxt "31||kiwami_drink||explanation"
+msgid "Boost your EXP gain and taste true power!"
+msgstr ""
+
+msgctxt "89||bracelet_red||explanation"
+msgid "A stylish white bracelet dotted with red gems."
+msgstr ""
+
+msgctxt "90||bracelet_black||explanation"
+msgid "A stylish white bracelet dotted with black gems."
+msgstr ""
+
+msgctxt "91||bracelet_white||explanation"
+msgid "A stylish white bracelet dotted with white gems."
+msgstr ""
+
+msgctxt "92||bracelet_blue||explanation"
+msgid "A stylish white bracelet dotted with blue gems."
+msgstr ""
+
+msgctxt "93||bracelet_leather||explanation"
+msgid "A fashionable bracelet that'll make you\r\na little more popular with the ladies."
+msgstr ""
+
+msgctxt "94||bracelet_luck||explanation"
+msgid "Mysterious beads said to ward off\r\nunwanted confrontations."
+msgstr ""
+
+msgctxt "95||bracelet_sp_red||explanation"
+msgid "A gemstone bracelet engraved with an image\r\nof Suzaku, the heavenly phoenix guardian."
+msgstr ""
+
+msgctxt "96||bracelet_sp_blk||explanation"
+msgid "A gemstone bracelet engraved with an image\r\nof Genbu, the heavenly tortoise guardian."
+msgstr ""
+
+msgctxt "97||bracelet_sp_wht||explanation"
+msgid "A gemstone bracelet engraved with an image\r\nof Byakko, the heavenly tiger guardian."
+msgstr ""
+
+msgctxt "98||bracelet_sp_blu||explanation"
+msgid "A gemstone bracelet engraved with an image\r\nof Seiryu, the heavenly dragon guardian."
+msgstr ""
+
+msgctxt "99||bracelet_so_max||explanation"
+msgid "A bracelet blessed with the protection of\r\nSuzaku, Genbu, Byakko, and Seiryu."
+msgstr ""
+
+msgctxt "100||mouthguard||explanation"
+msgid "Helps protect your teeth."
+msgstr ""
+
+msgctxt "101||mouthguard_sp||explanation"
+msgid "Helps protect your teeth while preventing strain."
+msgstr ""
+
+msgctxt "102||mouthguard_max||explanation"
+msgid "Fits perfectly in any set of teeth."
+msgstr ""
+
+msgctxt "103||sarashi_asagao||explanation"
+msgid "Reminds you of home."
+msgstr ""
+
+msgctxt "104||sarashi||explanation"
+msgid "Slightly increases blade resistance."
+msgstr ""
+
+msgctxt "105||sarashi_kenka||explanation"
+msgid "Increases blade resistance."
+msgstr ""
+
+msgctxt "106||sarashi_kyou||explanation"
+msgid "Increases blade resistance."
+msgstr ""
+
+msgctxt "107||sarashi_chizome||explanation"
+msgid "It feels a little strange wrapping someone else's\r\ndried blood around your body."
+msgstr ""
+
+msgctxt "108||sarashi_dragon||explanation"
+msgid "Greatly increases blade resistance."
+msgstr ""
+
+msgctxt "109||vest_bltproof||explanation"
+msgid "Increases gun resistance."
+msgstr ""
+
+msgctxt "110||vest_bltproof_sp||explanation"
+msgid "Greatly increases gun resistance."
+msgstr ""
+
+msgctxt "111||vest_knfproof||explanation"
+msgid "Increases blade resistance."
+msgstr ""
+
+msgctxt "112||vest_knfproof_sp||explanation"
+msgid "Greatly increases blade resistance."
+msgstr ""
+
+msgctxt "113||vest_max||explanation"
+msgid "Greatly increases blade and gun resistance."
+msgstr ""
+
+msgctxt "114||chainmail_lw||explanation"
+msgid "Slightly increases blade and gun resistance,\r\nbut also restricts movement."
+msgstr ""
+
+msgctxt "115||chainmail||explanation"
+msgid "Increases blade and gun resistance,\r\nbut also restricts movement."
+msgstr ""
+
+msgctxt "116||chainmail_bloody||explanation"
+msgid "Greatly increases blade and gun resistance,\r\nbut makes you feel sluggish for some reason."
+msgstr ""
+
+msgctxt "117||belt_vinyl||explanation"
+msgid "Keeps your pants from falling off."
+msgstr ""
+
+msgctxt "118||belt_cowhide||explanation"
+msgid "Fits comfortably and looks good."
+msgstr ""
+
+msgctxt "119||belt_stamina||explanation"
+msgid "Lets you sprint longer without tiring."
+msgstr ""
+
+msgctxt "120||belt_sotmack||explanation"
+msgid "Speeds up your digestion.\r\nHow exactly it does that is unknown."
+msgstr ""
+
+msgctxt "121||belt_highbland||explanation"
+msgid "A confidence-inspiring belt that makes you\r\nmore popular with the ladies."
+msgstr ""
+
+msgctxt "122||insole||explanation"
+msgid "Put a slight bounce in your step."
+msgstr ""
+
+msgctxt "123||insole_sp||explanation"
+msgid "Keep you running comfortably for miles."
+msgstr ""
+
+msgctxt "124||insole_max||explanation"
+msgid "Offer unparalleled arch support for long-term use."
+msgstr ""
+
+msgctxt "125||amulet_health||explanation"
+msgid "A blessing from the heavens that provides you\r\nwith all-around good luck."
+msgstr ""
+
+msgctxt "126||amulet_traffic||explanation"
+msgid "A blessing from the heavens that provides you\r\nwith luck on the road."
+msgstr ""
+
+msgctxt "127||amulet_luck||explanation"
+msgid "A blessing from the heavens that keeps\r\nthe good luck in and the bad luck out."
+msgstr ""
+
+msgctxt "128||amulet_journey||explanation"
+msgid "A blessing from the heavens that provides you\r\nwith peaceful travels."
+msgstr ""
+
+msgctxt "129||amulet_love||explanation"
+msgid "A blessing from the heavens that provides you with\r\ndashing good looks. Makes women like you more."
+msgstr ""
+
+msgctxt "130||photo_charisma||explanation"
+msgid "Somehow makes enemies more likely\r\nto confront you. Gets you every time."
+msgstr ""
+
+msgctxt "131||photo_asagao||explanation"
+msgid "Somehow makes enemies less likely\r\nto confront you. There's a lot of nostalgia here."
+msgstr ""
+
+msgctxt "132||eye_ofthe_dragon||explanation"
+msgid "A stone that emits a bizarre red glow."
+msgstr ""
+
+msgctxt "133||amulet_dragon||explanation"
+msgid "A blessing from the heavens that taps into your\r\nhidden energy reserves to protect you from death."
+msgstr ""
+
+msgctxt "134||underwear_white||explanation"
+msgid "An essential piece of any middle-aged man's wardrobe."
+msgstr ""
+
+msgctxt "135||underwear_boxer||explanation"
+msgid "The snug fit will keep you focused all day long."
+msgstr ""
+
+msgctxt "136||underwear_trunks||explanation"
+msgid "These underwear are comfortable and\r\neasy to move around in."
+msgstr ""
+
+msgctxt "137||underwear_boomerang||explanation"
+msgid "Fills you with fighting spirit."
+msgstr ""
+
+msgctxt "138||hundoshi_6shaku||explanation"
+msgid "A traditional Japanese undergarment\r\nthat's comfortably snug."
+msgstr ""
+
+msgctxt "139||hundoshi_ecchu||explanation"
+msgid "A traditional Japanese undergarment that's\r\ncomfortable and, importantly, easy to take off."
+msgstr ""
+
+msgctxt "140||underwear_iron||explanation"
+msgid "The cold metal against your skin fills you with\r\nfighting spirit. It also increases your defense."
+msgstr ""
+
+msgctxt "141||hundoshi_bloody||explanation"
+msgid "There's an eerie aura surrounding this thing.\r\nNobody knows how exactly it got so bloody..."
+msgstr ""
+
+msgctxt "142||gypsum_wrist||explanation"
+msgid "Weakens you somewhat, but increases your\r\ndigestion rate and EXP gain."
+msgstr ""
+
+msgctxt "143||gypsum_ankle||explanation"
+msgid "Weakens you somewhat, but increases your\r\ndigestion rate and EXP gain."
+msgstr ""
+
+msgctxt "144||gypsum_gokudo||explanation"
+msgid "Drastically weakens you, but greatly increases\r\nyour digestion rate and EXP gain."
+msgstr ""
+
+msgctxt "146||finder_substory||explanation"
+msgid "Displays civilians in need of help on your map."
+msgstr ""
+
+msgctxt "147||finder_safe||explanation"
+msgid "Displays the locations of safes on your map."
+msgstr ""
+
+msgctxt "172||toughnessz||explanation"
+msgid "Useful when you need a little health boost."
+msgstr ""
+
+msgctxt "173||toughnesszz||explanation"
+msgid "Restores your health quite a bit."
+msgstr ""
+
+msgctxt "174||toughnessinfinity||explanation"
+msgid "Restores your health to its maximum."
+msgstr ""
+
+msgctxt "175||tauriner_a||explanation"
+msgid "Charges up your Heat a little."
+msgstr ""
+
+msgctxt "176||tauriner_b||explanation"
+msgid "Charges up your Heat significantly."
+msgstr ""
+
+msgctxt "177||tauriner_c||explanation"
+msgid "Charges up your Heat dramatically."
+msgstr ""
+
+msgctxt "178||tauriner_s||explanation"
+msgid "Charges up your Heat to its maximum level."
+msgstr ""
+
+msgctxt "179||staminan_a||explanation"
+msgid "Charges up your health and Heat a little."
+msgstr ""
+
+msgctxt "180||staminan_b||explanation"
+msgid "Charges up your health and Heat significantly."
+msgstr ""
+
+msgctxt "181||staminan_c||explanation"
+msgid "Charges up your health and Heat dramatically."
+msgstr ""
+
+msgctxt "182||staminan_s||explanation"
+msgid "Charges up your health and Heat to its maximum."
+msgstr ""
+
+msgctxt "183||haraheru_half||explanation"
+msgid "Stimulates your digestive tract,\r\nslightly lowering your Hunger Gauge."
+msgstr ""
+
+msgctxt "184||haraheru_rx||explanation"
+msgid "Stimulates your digestive tract,\r\ngreatly lowering your Hunger Gauge."
+msgstr ""
+
+msgctxt "185||random_drink01||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "186||random_drink02||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "187||random_drink03||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "188||random_drink04||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "189||random_drink05||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "190||random_drink06||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "191||random_drink07||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "192||random_drink08||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "193||random_drink09||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "194||random_drink10||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "195||random_drink11||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "196||random_drink12||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "197||random_drink13||explanation"
+msgid "Only your taste buds can solve this mystery."
+msgstr ""
+
+msgctxt "198||alps_coffee||explanation"
+msgid "A blend of Mandheling and Brazilian beans with\r\na Colombian base."
+msgstr ""
+
+msgctxt "200||alps_moca||explanation"
+msgid "Countless coffee drinkers love mocha-style\r\ncoffee for its rich, bitter flavor."
+msgstr ""
+
+msgctxt "204||alps_cake||explanation"
+msgid "A modestly sweet shortcake topped with fresh\r\nwhipped cream."
+msgstr ""
+
+msgctxt "205||alps_montblanc||explanation"
+msgid "A lavish Mont Blanc made with generous helpings\r\nof chestnuts."
+msgstr ""
+
+msgctxt "206||alps_sandwich||explanation"
+msgid "This set offers a bacon, egg, and lettuce\r\nsandwich on white bread."
+msgstr ""
+
+msgctxt "208||alps_neapolitan||explanation"
+msgid "A nostalgic-tasting Napolitan."
+msgstr ""
+
+msgctxt "209||cafe_cappuccino||explanation"
+msgid "Please enjoy the rich flavor of the espresso\r\nand the fluffy, frothed milk."
+msgstr ""
+
+msgctxt "210||cafe_espresso||explanation"
+msgid "Made with hand-selected fair-trade coffee \r\nbeans for superior taste and aroma."
+msgstr ""
+
+msgctxt "219||cafe_sandwich||explanation"
+msgid "A basic egg sandwich for those days when\r\nyou just need to power through a meal."
+msgstr ""
+
+msgctxt "220||cafe_croissant||explanation"
+msgid "A fluffy croissant made every morning by the\r\nowner himself."
+msgstr ""
+
+msgctxt "221||cafe_toast||explanation"
+msgid "A crispy toast made every morning by the\r\nowner himself."
+msgstr ""
+
+msgctxt "224||smile_teriburgar||explanation"
+msgid "A burger made with teriyaki grilled chicken\r\nbreast."
+msgstr ""
+
+msgctxt "225||smile_king_burgar||explanation"
+msgid "A satisfying burger made with double the meat."
+msgstr ""
+
+msgctxt "228||smile_potato||explanation"
+msgid "The golden-fried standard of french fries,\r\nserved with a smile."
+msgstr ""
+
+msgctxt "229||smile_shake||explanation"
+msgid "A cool, refreshing treat, especially popular\r\nin the summer months."
+msgstr ""
+
+msgctxt "230||smile_salada||explanation"
+msgid "Choosing the healthy alternative to a\r\nburger is always something to smile about."
+msgstr ""
+
+msgctxt "231||smile_m_burgar||explanation"
+msgid "Several patties that absolutely explode with\r\nflavor in this Millennium Tower inspired burger."
+msgstr ""
+
+msgctxt "232||wild_burgar||explanation"
+msgid "A signature menu item of Wild Jackson.\r\nKnown for its thickly sliced tomato and cheese."
+msgstr ""
+
+msgctxt "239||ichiban_ramen||explanation"
+msgid "A standard dish on our menu. This tonkotsu has\r\nthe taste of Kyushu, the home of tonkotsu ramen."
+msgstr ""
+
+msgctxt "240||ichiban_ramen_kakuni||explanation"
+msgid "Our popular tonkotsu ramen, topped with pork\r\nkakuni that's been simmered over a long period."
+msgstr ""
+
+msgctxt "241||ichiban_ramen_charsiu||explanation"
+msgid "Tasty ramen topped with succulent, thin\r\nslices of roast pork."
+msgstr ""
+
+msgctxt "242||ichiban_ramen_tsuke||explanation"
+msgid "This tonkotsu tsukemen is topped with spicy\r\nfish roe straight from Kyushu."
+msgstr ""
+
+msgctxt "244||ichiban_charhan||explanation"
+msgid "Flavorful fried rice cooked with a strong flame.\r\nA heavy meal."
+msgstr ""
+
+msgctxt "245||ichiban_gyoza||explanation"
+msgid "Bite into them carefully, or you might get\r\nburned by an explosion of juicy flavor."
+msgstr ""
+
+msgctxt "246||hanrai_tanshio||explanation"
+msgid "Sliced beef tongue is popular for its unique\r\nflavor and texture."
+msgstr ""
+
+msgctxt "247||hanrai_sp_tanshio||explanation"
+msgid "This carefully selected beef tongue is soft\r\nand rich. Enjoy!"
+msgstr ""
+
+msgctxt "248||hanrai_calvi||explanation"
+msgid "This beef rib meat is popular for its incredibly\r\nrich flavor."
+msgstr ""
+
+msgctxt "249||hanrai_sp_calvi||explanation"
+msgid "This top-grade meat is selected from only the\r\nrarest, choicest cuts of beef rib."
+msgstr ""
+
+msgctxt "250||hanrai_loos||explanation"
+msgid "Enjoy the light flavor and relatively low fat of\r\nthis beef sirloin steak."
+msgstr ""
+
+msgctxt "251||hanrai_sp_loos||explanation"
+msgid "The flavor of this choice sirloin from top-grade\r\nJapanese beef is incredible."
+msgstr ""
+
+msgctxt "252||hanrai_harami||explanation"
+msgid "This beef skirt steak is actually considered\r\noffal, but it's very popular nonetheless."
+msgstr ""
+
+msgctxt "253||hanrai_sp_harami||explanation"
+msgid "This skirt steak from top-grade Japanese beef is\r\nan incredible treat for your taste buds."
+msgstr ""
+
+msgctxt "254||hanrai_hormone||explanation"
+msgid "Some say this choice beef intestine only\r\nfinds its true worth in being burnt black."
+msgstr ""
+
+msgctxt "255||hanrai_kaisenmori||explanation"
+msgid "A platter of the sea's delicious bounty,\r\nincluding shrimp, scallops, and squid."
+msgstr ""
+
+msgctxt "256||hanrai_kimuchimori||explanation"
+msgid "A tantalizing combo dish of kimchi made from\r\nChinese cabbage, cucumbers, daikon, and more."
+msgstr ""
+
+msgctxt "257||hanrai_bibimbap||explanation"
+msgid "Bibimbap with our spicy sweet kochujang sauce.\r\nRoasted to a golden brown for an amazing taste."
+msgstr ""
+
+msgctxt "258||hanrai_yukgaejang||explanation"
+msgid "Spicy beef soup with rice is one of our house\r\nspecialties."
+msgstr ""
+
+msgctxt "259||hanrai_yakininniku||explanation"
+msgid "The unmistakable aroma of grilled garlic\r\nis only topped by its powerful taste."
+msgstr ""
+
+msgctxt "260||hanrai_salada||explanation"
+msgid "A special salad full of vegetables and topped\r\nwith Kanrai's original dressing."
+msgstr ""
+
+msgctxt "261||sushigin_nishiki||explanation"
+msgid "A 4-piece assorted set of the most popular\r\nnigiri-style sushi and cucumber rolls."
+msgstr ""
+
+msgctxt "262||sushigin_miyabi||explanation"
+msgid "A 9-piece assorted set of standard nigiri-style\r\nsushi and cucumber rolls."
+msgstr ""
+
+msgctxt "263||sushigin_kiwami||explanation"
+msgid "An 8-piece assorted set of luxurious\r\nnigiri-style sushi and cucumber rolls."
+msgstr ""
+
+msgctxt "264||sushigin_hanachirashi||explanation"
+msgid "A type of sushi with salmon and eggs scattered\r\nover sushi rice."
+msgstr ""
+
+msgctxt "265||sushigin_kiwamichirashi||explanation"
+msgid "A type of sushi with tuna, squid, and salmon\r\nscattered lavishly over sushi rice."
+msgstr ""
+
+msgctxt "266||sushigin_tekka||explanation"
+msgid "A rice bowl neatly topped with red tuna meat."
+msgstr ""
+
+msgctxt "267||sushigin_kaisen||explanation"
+msgid "A rice bowl neatly topped with luxurious\r\nseafood."
+msgstr ""
+
+msgctxt "268||sushigin_osuimono||explanation"
+msgid "Clear broth with condensed seafood stock."
+msgstr ""
+
+msgctxt "269||sushigin_ebijiru||explanation"
+msgid "Miso soup with the whole head of a Japanese\r\nspiny lobster in it."
+msgstr ""
+
+msgctxt "270||sushigin_pudding||explanation"
+msgid "The Sushi Gin's ultimate pudding created by the\r\nowner using a recipe perfected over many years."
+msgstr ""
+
+msgctxt "271||yonetoku_nikunabe||explanation"
+msgid "Yonetoku's highly recommended dish that includes\r\nbeef, pork, and chicken! Everyone's favorite!"
+msgstr ""
+
+msgctxt "272||yonetoku_nikomi||explanation"
+msgid "A dish that includes intestines, reed tripe, and\r\nMarutani tofu flavored with Fuchu White Miso."
+msgstr ""
+
+msgctxt "273||yonetoku_sharishari||explanation"
+msgid "Frozen shochu in a tankard with fizzling soda\r\npoured in to make this highball!"
+msgstr ""
+
+msgctxt "274||yonetoku_takobutsu||explanation"
+msgid "A simple dish with octopus sashimi chopped and\r\nserved with wasabi."
+msgstr ""
+
+msgctxt "275||yonetoku_tukemonomori||explanation"
+msgid "A platter of pickles. Great with alcohol."
+msgstr ""
+
+msgctxt "276||yonetoku_edamame||explanation"
+msgid "The perfect side for draft beer."
+msgstr ""
+
+msgctxt "277||yonetoku_potatosalada||explanation"
+msgid "A classic and nostalgic taste."
+msgstr ""
+
+msgctxt "278||yonetoku_beer||explanation"
+msgid "Start off with some draft beer!\r\nGoes perfectly with Meat Nabe or Stew!"
+msgstr ""
+
+msgctxt "280||snack_edamame||explanation"
+msgid "The perfect appetizer to pair with a beer."
+msgstr ""
+
+msgctxt "281||snack_oshinko||explanation"
+msgid "Mama says you can always count on\r\npickles to bring flavor to the party."
+msgstr ""
+
+msgctxt "282||snack_karaage||explanation"
+msgid "Mama doesn't give the recipe for her\r\nfried chicken to just anyone."
+msgstr ""
+
+msgctxt "283||snack_neapolitan||explanation"
+msgid "Mama doesn't make the noodles, but\r\nshe makes the sauce, and that's plenty."
+msgstr ""
+
+msgctxt "284||snack_kimuchicharhan||explanation"
+msgid "When Mama makes this, you just might\r\ncatch her sampling some for herself."
+msgstr ""
+
+msgctxt "285||snack_omurice||explanation"
+msgid "A staple of Mama's kitchen."
+msgstr ""
+
+msgctxt "286||snack_curryrice||explanation"
+msgid "Mama makes it a little spicy, but\r\nshe'll tone it down if you ask."
+msgstr ""
+
+msgctxt "287||snack_chirashi||explanation"
+msgid "You never know what Mama will put in\r\nher chirashi, but you know it'll be good."
+msgstr ""
+
+msgctxt "288||caba_fruitsmori||explanation"
+msgid "A fancy fresh fruit platter arrangement.\r\n<symbol=caba_love><symbol=caba_talk><symbol=caba_party><symbol=caba_sexy><symbol=caba_dandy> become 2 Chain."
+msgstr ""
+
+msgctxt "289||caba_carbonara||explanation"
+msgid "Carbonara that's very filling.\r\n<symbol=caba_love><symbol=caba_talk><symbol=caba_party><symbol=caba_sexy><symbol=caba_dandy> become 1 Chain."
+msgstr ""
+
+msgctxt "290||caba_karaage||explanation"
+msgid "Nothing beats juicy fried chicken.\r\n<symbol=caba_sexy> becomes 2 Chain."
+msgstr ""
+
+msgctxt "292||caba_potato||explanation"
+msgid "Lightly salted and fried until golden.\r\n<symbol=caba_party> becomes 2 Chain."
+msgstr ""
+
+msgctxt "293||caba_edamame||explanation"
+msgid "A great drinking snack.\r\n<symbol=caba_dandy> becomes 2 Chain."
+msgstr ""
+
+msgctxt "295||kaki_yakigaki||explanation"
+msgid "This freshly caught oyster grilled whole with\r\nthe shell captures the aroma of the sea."
+msgstr ""
+
+msgctxt "296||kaki_namagaki||explanation"
+msgid "The quality of the raw, freshly caught oyster\r\nmakes this a top-notch dish."
+msgstr ""
+
+msgctxt "297||kaki_kakihurai||explanation"
+msgid "Deep-fried, freshly caught oyster."
+msgstr ""
+
+msgctxt "298||kaki_kakiomu||explanation"
+msgid "Freshly caught raw oyster wrapped in a delicious\r\nomelette."
+msgstr ""
+
+msgctxt "299||kaki_mebaru||explanation"
+msgid "Fresh rockfish bought from the morning fish\r\nmarket and grilled with a dash of salt."
+msgstr ""
+
+msgctxt "300||kaki_kakidote||explanation"
+msgid "Fresh oysters and vegetables stewed in miso.\r\nA local delicacy."
+msgstr ""
+
+msgctxt "301||kaki_kakimeshi||explanation"
+msgid "Seasoned rice infused with the salt-and-sea\r\ntaste of oysters."
+msgstr ""
+
+msgctxt "302||kaki_ryoushijiru||explanation"
+msgid "Miso soup fit for a fisher made using fresh\r\nseafood caught that day."
+msgstr ""
+
+msgctxt "303||kaki_takosashi||explanation"
+msgid "An octopus made into sashimi right after it\r\nwas caught for maximum freshness."
+msgstr ""
+
+msgctxt "304||kaki_ikasashi||explanation"
+msgid "A squid made into sashimi right after it was\r\ncaught for maximum freshness."
+msgstr ""
+
+msgctxt "305||kaki_sashimimori||explanation"
+msgid "A luxurious sashimi platter that is made up of\r\nfresh seafood caught that day."
+msgstr ""
+
+msgctxt "306||akaushi_gyu_nami||explanation"
+msgid "The famous beef bowl that put Akaushimaru\r\non the map!"
+msgstr ""
+
+msgctxt "307||akaushi_gyu_dai||explanation"
+msgid "Heaping portions of beef are sure to satisfy\r\neven the most intense beef bowl cravings."
+msgstr ""
+
+msgctxt "308||akaushi_gyu_toku||explanation"
+msgid "There's so much beef in this bowl, you'll\r\nneed to be rolled out of the store."
+msgstr ""
+
+msgctxt "309||akaushi_gyu_sara||explanation"
+msgid "All the beef, none of the rice. Enjoy\r\nthe pickled ginger."
+msgstr ""
+
+msgctxt "310||akaushi_beer||explanation"
+msgid "The perfect compliment to a beef plate."
+msgstr ""
+
+msgctxt "311||akaushi_misoshiru||explanation"
+msgid "Long green onions and seaweed rest atop\r\nthis steaming miso soup."
+msgstr ""
+
+msgctxt "312||akaushi_coleslaw||explanation"
+msgid "A simple salad made with thinly cut cabbage."
+msgstr ""
+
+msgctxt "314||lapente_greensalada||explanation"
+msgid "The owner hand-picked the ingredients of\r\nthis healthy assortment of vegetables."
+msgstr ""
+
+msgctxt "315||lapente_ratatouille||explanation"
+msgid "A stewed vegetable dish that condenses a variety\r\nof delicious flavors."
+msgstr ""
+
+msgctxt "316||lapente_rossini||explanation"
+msgid "A dish made of quality filet mignon and sautéed\r\nfoie gras. It's garnished with truffle sauce."
+msgstr ""
+
+msgctxt "318||lapente_lobster||explanation"
+msgid "A whole lobster grilled and served with fresh\r\nbasil sauce."
+msgstr ""
+
+msgctxt "319||lapente_bouillabaisse||explanation"
+msgid "Stew that combines fresh seafood and whole\r\nvegetables in a pot."
+msgstr ""
+
+msgctxt "320||lapente_torimomo||explanation"
+msgid "Chicken thighs cooked at a high temperature for\r\na crispy skin."
+msgstr ""
+
+msgctxt "321||lapente_kamoniku||explanation"
+msgid "Slowly roasted duck sliced thin."
+msgstr ""
+
+msgctxt "322||lapente_frenchbread||explanation"
+msgid "Baked fresh each morning by the owner himself."
+msgstr ""
+
+msgctxt "331||yamaneko_pudding||explanation"
+msgid "A Wildcat brand Onomichi Pudding that's so\r\nsweet, you can't help but smile."
+msgstr ""
+
+msgctxt "332||yamaneko_hiyashi||explanation"
+msgid "A sweet and refreshing drink made with \r\nSetoda-grown lemon juice to quench your thirst."
+msgstr ""
+
+msgctxt "333||pokecir_tofu||explanation"
+msgid "Homemade tofu from Pocket Circuit Fighter's\r\nshop, \"Fujisawa Tofu Shop.\""
+msgstr ""
+
+msgctxt "334||alps_bluemountain||explanation"
+msgid "This is the ultimate cup of coffee, made with\r\ntop-grade coffee beans."
+msgstr ""
+
+msgctxt "335||alps_earlgrey||explanation"
+msgid "Enjoy the citrus bergamot fragrance of this tea\r\ngrown in Sri Lanka under an exclusive contract."
+msgstr ""
+
+msgctxt "336||alps_parfaitichigo||explanation"
+msgid "This creamy parfait loaded with fresh\r\nstrawberries is quite filling."
+msgstr ""
+
+msgctxt "337||alps_parfaitchoco||explanation"
+msgid "This parfait made with rich, delicious\r\nchocolate is really filling."
+msgstr ""
+
+msgctxt "338||alps_beefcurry||explanation"
+msgid "The pride of Café Alps and all of Japan, beef\r\ncurry with roux simmered for an entire week."
+msgstr ""
+
+msgctxt "339||cafe_milktea||explanation"
+msgid "Get refreshed with this blend of smooth tea\r\nand creamy milk."
+msgstr ""
+
+msgctxt "340||cafe_macchalatte||explanation"
+msgid "Matcha latte that's made with matcha from Uji.\r\nIt's popular with today's youth."
+msgstr ""
+
+msgctxt "341||cafe_chococake||explanation"
+msgid "The rich taste of chocolate is not overpowered\r\nby any added sugars."
+msgstr ""
+
+msgctxt "342||cafe_cheesecake||explanation"
+msgid "Light, fluffy, and slightly sour filling on\r\na graham-cracker crust."
+msgstr ""
+
+msgctxt "343||cafe_originalcake||explanation"
+msgid "The cafe owner's pride and joy."
+msgstr ""
+
+msgctxt "344||cafe_specialcake||explanation"
+msgid "Made with ripe seasonal ingredients."
+msgstr ""
+
+msgctxt "345||cafe_bucketsand||explanation"
+msgid "Sandwiches become more serious when\r\nserved on fresh baguettes."
+msgstr ""
+
+msgctxt "346||cafe_clubsand||explanation"
+msgid "Club sandwich with pleasant-smelling bacon."
+msgstr ""
+
+msgctxt "347||cafe_originalpan1||explanation"
+msgid "It is a true culinary accomplishment in this\r\nday and age to innovate on bread."
+msgstr ""
+
+msgctxt "348||cafe_originalpan2||explanation"
+msgid "The owner bakes this bread personally,\r\nputting his own twists on the classics."
+msgstr ""
+
+msgctxt "349||smile_maguroburgar||explanation"
+msgid "A healthy hamburger made with a tuna patty."
+msgstr ""
+
+msgctxt "350||smile_kakuniburgar||explanation"
+msgid "The meat on this burger is stewed until tender\r\nand served on a fresh bun."
+msgstr ""
+
+msgctxt "351||wild_aboburgar||explanation"
+msgid "A big, juicy hamburger known for its mayonnaise\r\nand thick slices of avocado."
+msgstr ""
+
+msgctxt "352||wild_chikiburgar||explanation"
+msgid "Deep-fried chicken breast slathered with\r\nWild Jackson's original mayo."
+msgstr ""
+
+msgctxt "353||wild_friedchicken||explanation"
+msgid "Piping hot boneless chicken thighs fried with a\r\ncrispy coating."
+msgstr ""
+
+msgctxt "354||wild_hotchicken||explanation"
+msgid "This spicy chicken is made by kneading original\r\nspices into the Wild Fried Chicken coating."
+msgstr ""
+
+msgctxt "355||wild_orangejuice||explanation"
+msgid "100% pure orange juice."
+msgstr ""
+
+msgctxt "356||wild_oolongtea||explanation"
+msgid "Ice-cold oolong tea. Goes well with anything."
+msgstr ""
+
+msgctxt "357||ichiban_charsiudon||explanation"
+msgid "Thinly sliced chashu pork used in\r\nramen topped straight onto a bowl of rice."
+msgstr ""
+
+msgctxt "358||yonetoku_oolongtea||explanation"
+msgid "Ice-cold oolong tea. Goes well with anything."
+msgstr ""
+
+msgctxt "359||lapente_originaldessert01||explanation"
+msgid "Its delicate sweetness makes for a wonderful\r\ntreat, any time of day."
+msgstr ""
+
+msgctxt "360||lapente_originaldessert02||explanation"
+msgid "Made with bittersweet chocolate for a more\r\nrefined flavor profile."
+msgstr ""
+
+msgctxt "361||lapente_redwine||explanation"
+msgid "A standard red, just bitter enough to cleanse\r\nthe palate."
+msgstr ""
+
+msgctxt "362||lapente_whitewine||explanation"
+msgid "Semi dry with fruit-forward highlights."
+msgstr ""
+
+msgctxt "363||bar_y18||explanation"
+msgid "Fans of Japanese whisky are on the rise, even\r\noverseas, and here's one big reason for it."
+msgstr ""
+
+msgctxt "365||bar_whiskeyold||explanation"
+msgid "This is another extremely popular Japanese\r\nwhisky."
+msgstr ""
+
+msgctxt "370||bar_laphroaig10||explanation"
+msgid "It's safe to say this 10-year Laphroaig is the\r\nstandard of the line."
+msgstr ""
+
+msgctxt "371||bar_maltz||explanation"
+msgid "A premium beer that is manufactured to accent\r\nthe hops and wort for an extravagant flavor."
+msgstr ""
+
+msgctxt "372||bar_vsop||explanation"
+msgid "This is one of Japan's top brandies."
+msgstr ""
+
+msgctxt "374||gindaco_tacoyaki||explanation"
+msgid "Crispy on the outside, but nestled inside is a\r\njuicy nugget of octopus. A Gindaco favorite."
+msgstr ""
+
+msgctxt "375||gindaco_cheesetacoyaki||explanation"
+msgid "Hot takoyaki topped with melted cheese, mayo,\r\nand spicy fish roe. A favorite among females."
+msgstr ""
+
+msgctxt "376||gindaco_tentsuyutacoyaki||explanation"
+msgid "Takoyaki straight off the grill served with\r\ncrisp Welsh onion and tempura dipping sauce.\r\nA classic with enduring popularity."
+msgstr ""
+
+msgctxt "378||gindaco_yakisoba||explanation"
+msgid "Extra-thick noodles, thick-sliced pork, and lots\r\nof bean sprouts are combined with a rich sauce."
+msgstr ""
+
+msgctxt "381||gindaco_premaltz||explanation"
+msgid "A premium beer that is manufactured to accent\r\nthe hops and wort for an extravagant flavor."
+msgstr ""
+
+msgctxt "383||gindaco_casiore||explanation"
+msgid "A refreshing drink full of fresh fruit."
+msgstr ""
+
+msgctxt "388||fujisoba_kake||explanation"
+msgid "This freshly boiled soba with piping-hot soup is\r\na standard dish of the restaurant."
+msgstr ""
+
+msgctxt "389||fujisoba_mori||explanation"
+msgid "Soba chilled with water after being boiled.\r\nYou can taste the care put into this soup."
+msgstr ""
+
+msgctxt "390||fujisoba_hiyashitanuki||explanation"
+msgid "Cold soup poured on freshly boiled soba\r\nand topped with agedama. A popular soba."
+msgstr ""
+
+msgctxt "391||fujisoba_hiyashikitsune||explanation"
+msgid "Cold soup poured on freshly boiled soba and\r\ntopped with fried tofu cut into large pieces."
+msgstr ""
+
+msgctxt "392||fujisoba_tentama||explanation"
+msgid "Hot soba topped with onsen eggs and vegetable\r\ntempura. A long-time favorite of customers."
+msgstr ""
+
+msgctxt "393||fujisoba_sp_soba||explanation"
+msgid "Hot soba topped with agedama, deep-fried tofu,\r\nonsen eggs and kamaboko."
+msgstr ""
+
+msgctxt "394||fujisoba_katsudon||explanation"
+msgid "A signature item that entwines the meaty pork\r\ncutlet with special sauce and fluffy eggs."
+msgstr ""
+
+msgctxt "395||fujisoba_curry||explanation"
+msgid "Curry rice with mild spice. The restaurant's\r\noriginal curry roux mixed with their famous soup."
+msgstr ""
+
+msgctxt "396||yoro_beer||explanation"
+msgid "A medium-sized mug of draft beer that's a good\r\nstart. It has a creamy head and crisp taste."
+msgstr ""
+
+msgctxt "397||yoro_oolongtea||explanation"
+msgid "Oolong tea is the quintessential non-alcoholic\r\ndrink. Enjoy its exquisite fragrance and flavor."
+msgstr ""
+
+msgctxt "398||yoro_lemonsour||explanation"
+msgid "A beverage with a refreshing lemon taste that\r\ncleanses the palate nicely when eating snacks."
+msgstr ""
+
+msgctxt "399||yoro_grapesour||explanation"
+msgid "A drink with an exquisite balance between tangy\r\nundertones and refreshing grape sweetness."
+msgstr ""
+
+msgctxt "400||yoro_grapefruitsour||explanation"
+msgid "Fresh grapefruit juice gives this drink a fruity\r\nflavor and a touch of bitterness."
+msgstr ""
+
+msgctxt "401||yoro_bakuhai||explanation"
+msgid "The Bakuhai is a popular Yoronotaki original\r\ncocktail that blends whisky and beer."
+msgstr ""
+
+msgctxt "403||yoro_gyokuro||explanation"
+msgid "A cocktail made with Gyokuro refined green tea.\r\nIts smooth taste pairs well with any food."
+msgstr ""
+
+msgctxt "404||yoro_kakuhai||explanation"
+msgid "This sweet smelling highball has become a\r\nclassic. The ice cold soda gives it a real zing."
+msgstr ""
+
+msgctxt "406||yoro_cassisoolong||explanation"
+msgid "This old favorite is a mix of cassis liqueur and\r\noolong tea."
+msgstr ""
+
+msgctxt "409||yoro_sashimi7mori||explanation"
+msgid "A platter of sashimi with 7 carefully selected\r\ntypes of fresh seafood. Enjoy!"
+msgstr ""
+
+msgctxt "410||yoro_sashimi3mori||explanation"
+msgid "A platter of sashimi with 3 carefully selected\r\ntypes of fresh seafood. Enjoy!"
+msgstr ""
+
+msgctxt "411||yoro_aburisimesaba||explanation"
+msgid "Hand-selected mackerel with lots of fat.\r\nA recommended menu item of our restaurant."
+msgstr ""
+
+msgctxt "412||yoro_choregi||explanation"
+msgid "Kotchori salad brimming with scallions. The\r\npeppery dressing and onions pair with any drink."
+msgstr ""
+
+msgctxt "413||yoro_edamame||explanation"
+msgid "These soybeans in the pod are pretty much the\r\ndefault snack when drinking."
+msgstr ""
+
+msgctxt "414||yoro_kushimori||explanation"
+msgid "A plate of five different skewers. The secret\r\nto their popularity is the special spicy miso."
+msgstr ""
+
+msgctxt "416||yoro_shishamo||explanation"
+msgid "The burst of flavor from the roe wins over many\r\nwho try this perfectly grilled fish delicacy."
+msgstr ""
+
+msgctxt "418||yoro_shioyakisoba||explanation"
+msgid "This addictive yakisoba mixes a rich, salty\r\nsauce with scallions. Goes great with drinks."
+msgstr ""
+
+msgctxt "419||yoro_menchikatsu||explanation"
+msgid "This popular mince cutlet is packed with meaty\r\ngoodness that fills your mouth with each bite."
+msgstr ""
+
+msgctxt "420||yoro_moyashi||explanation"
+msgid "A simple dish of bean sprouts with a peppery\r\npunch. Once you start eating, it's hard to stop."
+msgstr ""
+
+msgctxt "422||ringer_chanpon||explanation"
+msgid "The taste of Nagasaki. By making abundant use of\r\nquality ingredients, it has a deep, rich flavor."
+msgstr ""
+
+msgctxt "423||ringer_yasai||explanation"
+msgid "Overflowing with 7 types of vegetables!\r\nTwice as many as the Nagasaki Champon!"
+msgstr ""
+
+msgctxt "424||ringer_pirikara||explanation"
+msgid "A stimulating champon using homemade spicy miso."
+msgstr ""
+
+msgctxt "426||ringer_sara||explanation"
+msgid "Thin noodles fried until crunchy, then covered\r\nin hot vegetable topping."
+msgstr ""
+
+msgctxt "427||ringer_yasaisara||explanation"
+msgid "The sister product of the popular Vegetable\r\nChampon. Enjoy with your favorite dressing."
+msgstr ""
+
+msgctxt "428||ringer_hutosara||explanation"
+msgid "Flavorful, soft, thick noodles. Satisfying on an\r\nempty stomach."
+msgstr ""
+
+msgctxt "429||ringer_snacksara||explanation"
+msgid "A small saraudon. Perfect for when you want a\r\nlight snack."
+msgstr ""
+
+msgctxt "430||ringer_gyoza5||explanation"
+msgid "Ringer Hut takes pride in their gyoza.\r\nThe rice flour wrapper is crisp and crunchy."
+msgstr ""
+
+msgctxt "434||sushiza_chirashidon||explanation"
+msgid "A lavish bowl using ample amounts of the best\r\nfish in the store."
+msgstr ""
+
+msgctxt "435||sushiza_magurodon||explanation"
+msgid "A must for tuna-lovers, this bowl is filled\r\nwith fatty tuna."
+msgstr ""
+
+msgctxt "436||sushiza_tokusen||explanation"
+msgid "A 13-piece selection of nigiri-sushi, salad,\r\nand miso soup. Each bite is full of flavor."
+msgstr ""
+
+msgctxt "437||sushiza_magurozanmai||explanation"
+msgid "A set with ootoro, chuutoro, akami, minced tuna,\r\ntuna rolls and seared tuna. A tuna extravaganza!"
+msgstr ""
+
+msgctxt "442||ikinari_fillet||explanation"
+msgid "A light tenderloin steak with not much fat.\r\nThe delicious red meat incites appetite."
+msgstr ""
+
+msgctxt "444||ikinari_ribulose||explanation"
+msgid "This rib-eye steak has a good balance of fat and\r\nred meat. Fine, tender, and very satisfying."
+msgstr ""
+
+msgctxt "445||ikinari_sirloin||explanation"
+msgid "The king of steaks! This sirloin steak has the\r\nperfect balance of red meat and fat."
+msgstr ""
+
+msgctxt "449||oosaka_gyoza||explanation"
+msgid "Our signature fried gyoza, made with 100% fresh\r\ningredients. You won't regret eating these!"
+msgstr ""
+
+msgctxt "450||oosaka_tenshinhan||explanation"
+msgid "While keeping firmness, this fluffy omelette is\r\ncut open and mixed with Chinese-style sauce."
+msgstr ""
+
+msgctxt "451||oosaka_gomoku||explanation"
+msgid "The aromatic taste fills your mouth in one bite."
+msgstr ""
+
+msgctxt "452||oosaka_chukasoba||explanation"
+msgid "A dish that you can keep eating even with its\r\nsimple taste."
+msgstr ""
+
+msgctxt "454||oosaka_shisentantan||explanation"
+msgid "Sichuan Dandan noodles with spicy Japanese\r\npepper. The ground beef whets your appetite."
+msgstr ""
+
+msgctxt "455||oosaka_yakisoba||explanation"
+msgid "A hearty pan-fried yakisoba. The Chinese-style\r\nseasoning is extremely appetizing."
+msgstr ""
+
+msgctxt "456||oosaka_ebichili||explanation"
+msgid "The large shrimp entwined with chili sauce\r\ncreates a delicious flavor."
+msgstr ""
+
+msgctxt "457||oosaka_chinjaorosu||explanation"
+msgid "Pork, green pepper\rs, and bamboo are combined\r\nto form the ultimate trio of flavor."
+msgstr ""
+
+msgctxt "458||oosaka_rebanira||explanation"
+msgid "The liver and vegetables go together perfectly."
+msgstr ""
+
+msgctxt "459||oosaka_subuta||explanation"
+msgid "This entree is made of crispy fried pork and\r\ncrunchy vegetables mixed with sweet vinegar."
+msgstr ""
+
+msgctxt "460||oosaka_hoikoro||explanation"
+msgid "This hearty dish uses lots of cabbage and pork."
+msgstr ""
+
+msgctxt "461||oosaka_mabo||explanation"
+msgid "The spiciness of the Japanese pepper and cayenne\r\npeppers stands out in this dish."
+msgstr ""
+
+msgctxt "462||oosaka_banbanji||explanation"
+msgid "The fresh vegetables and chicken go perfectly with\r\neach other."
+msgstr ""
+
+msgctxt "463||oosaka_gomadango||explanation"
+msgid "Enjoy the fluffy and sticky texture of this\r\nsesame dumpling."
+msgstr ""
+
+msgctxt "469||caba_champagnegold||explanation"
+msgid "Champagne of the finest quality.\r\n<symbol=caba_love><symbol=caba_talk><symbol=caba_party><symbol=caba_sexy><symbol=caba_dandy> become 2 Chain."
+msgstr ""
+
+msgctxt "470||caba_champagnerose||explanation"
+msgid "A champagne nobody would scoff at."
+msgstr ""
+
+msgctxt "471||caba_champagneblack||explanation"
+msgid "A champagne you can find everywhere."
+msgstr ""
+
+msgctxt "473||caba_beer||explanation"
+msgid "A glass of beer with a refined taste."
+msgstr ""
+
+msgctxt "474||caba_cassisorange||explanation"
+msgid "Cassis Orange is popular with young people."
+msgstr ""
+
+msgctxt "475||caba_orangejuice||explanation"
+msgid "100% pure orange juice."
+msgstr ""
+
+msgctxt "476||caba_water||explanation"
+msgid "Cold water."
+msgstr ""
+
+msgctxt "477||drink_ccremon||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "478||drink_dekabita||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "480||drink_iemon||explanation"
+msgid "Boosts Defense."
+msgstr ""
+
+msgctxt "482||drink_kurouron||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "483||drink_uron||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "484||drink_reinbo||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "485||drink_bosu_bito||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "486||drink_bosu_muto||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "489||drink_dakara||explanation"
+msgid "Sprint longer before getting tired."
+msgstr ""
+
+msgctxt "490||drink_mizu_minami||explanation"
+msgid "Sobers you up a little."
+msgstr ""
+
+msgctxt "491||drink_mizu_oku||explanation"
+msgid "Sobers you up a little."
+msgstr ""
+
+msgctxt "497||drink_kora||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "498||drink_aomidori||explanation"
+msgid "Boosts Defense."
+msgstr ""
+
+msgctxt "499||drink_sukusuku||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "500||drink_sengoku||explanation"
+msgid "Boosts money gained."
+msgstr ""
+
+msgctxt "501||drink_shoryu||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "502||drink_koryu||explanation"
+msgid "Boosts Defense."
+msgstr ""
+
+msgctxt "503||drink_kiwami||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "504||drink_bitamin_enaji||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "505||drink_gurepu_500||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "506||drink_gurepu||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "507||drink_saida||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "508||drink_howaitosoda||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "509||drink_remon||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "510||drink_mikan||explanation"
+msgid "Boosts Attack."
+msgstr ""
+
+msgctxt "511||drink_koiocha_500||explanation"
+msgid "Boosts Defense."
+msgstr ""
+
+msgctxt "512||drink_koiocha||explanation"
+msgid "Boosts Defense."
+msgstr ""
+
+msgctxt "513||drink_ocha||explanation"
+msgid "Boosts Defense."
+msgstr ""
+
+msgctxt "514||drink_houjicha_500||explanation"
+msgid "Boosts Defense."
+msgstr ""
+
+msgctxt "515||drink_houjicha||explanation"
+msgid "Boosts Defense."
+msgstr ""
+
+msgctxt "516||drink_genmaicha_500||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "517||drink_genmaicha||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "518||drink_meron||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "519||drink_kafemoka||explanation"
+msgid "Boosts EXP obtained in battle."
+msgstr ""
+
+msgctxt "520||drink_rakki||explanation"
+msgid "Boosts money gained."
+msgstr ""
+
+msgctxt "521||drink_poseidon||explanation"
+msgid "Sprint longer before getting tired."
+msgstr ""
+
+msgctxt "522||drink_kuriamarin||explanation"
+msgid "Sprint longer before getting tired."
+msgstr ""
+
+msgctxt "523||drink_yukidoke||explanation"
+msgid "Sobers you up a little."
+msgstr ""
+
+msgctxt "524||fujisoba_yuzudori||explanation"
+msgid "Enjoy the faintly aromatic yuzu that garnishes\r\nthe hot soba, spinach, and steamed chicken."
+msgstr ""
+
+msgctxt "525||wette_burgar||explanation"
+msgid "The fresh lettuce and chili sauce balance\r\nperfectly in this Wette Kitchen signature item."
+msgstr ""
+
+msgctxt "526||wette_eggburgar||explanation"
+msgid "A heavy burger topped with a sunny-side up egg."
+msgstr ""
+
+msgctxt "528||wette_onionring||explanation"
+msgid "A side item of onions sliced thin\r and fried to\r\na golden brown."
+msgstr ""
+
+msgctxt "529||wette_tomatoonion||explanation"
+msgid "A rich soup made by simmering tomato and\r\nonion slowly at a low temperature."
+msgstr ""
+
+msgctxt "530||wette_originalcoffee||explanation"
+msgid "A Wette Kitchen original coffee made by blending\r\nthe highest quality coffee beans."
+msgstr ""
+
+msgctxt "531||wette_icelemontea||explanation"
+msgid "A popular Wette Kitchen soft drink that smells\r\nof fresh lemon."
+msgstr ""
+
+msgctxt "532||imuraya_niku||explanation"
+msgid "A widely loved staple. When you talk about\r\ngreat steamed buns, this is the one."
+msgstr ""
+
+msgctxt "533||imuraya_an||explanation"
+msgid "A red bean paste bun carefully cooked to accent\r\nthe graininess, thickness, and taste."
+msgstr ""
+
+msgctxt "534||imuraya_pizza||explanation"
+msgid "A pizza bun containing three types of cheese\r\nand delicious tomato."
+msgstr ""
+
+msgctxt "535||imuraya_goldniku||explanation"
+msgid "A quality steamed bun with juicy filling and\r\nflavorful, chewy dough."
+msgstr ""
+
+msgctxt "536||imuraya_goldpizza||explanation"
+msgid "The latest in the Gold Chinese Bun series.\r\nA pizza bun with quality ingredients and flavor."
+msgstr ""
+
+msgctxt "537||darts_beginner||explanation"
+msgid "Completely standard darts. Since they're for\r\ngeneral-use, they have low performance."
+msgstr ""
+
+msgctxt "538||darts_middle||explanation"
+msgid "Darts made for people becoming familiar with the\r\ngame. They have average performance."
+msgstr ""
+
+msgctxt "539||darts_advanced||explanation"
+msgid "Custom-made darts. Since they're designed for\r\nexpert users, they're very high-performance."
+msgstr ""
+
+msgctxt "540||darts_paullim||explanation"
+msgid "Darts given by the legendary player, Paul Lim.\r\nThey have exquisite detail and are easy to use."
+msgstr ""
+
+msgctxt "541||catfood01||explanation"
+msgid "Cats just love this chicken cooked to perfection\r\nand sliced into bite-sized flakes."
+msgstr ""
+
+msgctxt "542||catfood02||explanation"
+msgid "No cat can resist beef slightly charred\r\nand soaked in delicious miso."
+msgstr ""
+
+msgctxt "543||catfood03||explanation"
+msgid "Cats practically beg when the aroma of this\r\nfreshly caught tuna wafts through the air."
+msgstr ""
+
+msgctxt "544||catfood04||explanation"
+msgid "These butter-sautéed salmon flakes mixed with\r\ncheese are a feline delight."
+msgstr ""
+
+msgctxt "545||catfood05||explanation"
+msgid "White meat fish flavored Japanese-style using\r\nkombu soup stock, garnished with dried sardines."
+msgstr ""
+
+msgctxt "546||catfood06||explanation"
+msgid "For a cat who deserves only the best, give them\r\nthis delicacy of flakey fish protein."
+msgstr ""
+
+msgctxt "547||catfood10||explanation"
+msgid "Cat food of impeccable quality made from\r\nthe cheek meat of fresh, premium tuna."
+msgstr ""
+
+msgctxt "548||risingwave||explanation"
+msgid "An eau de toilette perfect for the elegant, refined\r\nKamurocho gentleman. Makes you more popular with the ladies."
+msgstr ""
+
+msgctxt "549||ikinari_wildsteak||explanation"
+msgid "Comes with rice, salad and soup. Charge up your\r\nenergy with a full stomach."
+msgstr ""
+
+msgctxt "550||ikinari_wildhamburg||explanation"
+msgid "Comes with rice, salad, and soup. The kids\r\nlove the house secret \"onion sauce\" with this."
+msgstr ""
+
+msgctxt "551||ikinari_salada||explanation"
+msgid "The crunchy salad goes along well with meat."
+msgstr ""
+
+msgctxt "552||ikinari_soup||explanation"
+msgid "A consommé based soup."
+msgstr ""
+
+msgctxt "553||smile_smileburgar||explanation"
+msgid "The original hamburger known throughout\r\nKamurocho for years."
+msgstr ""
+
+msgctxt "554||sushiza_uniikuradon||explanation"
+msgid "A bowl overflowing with a harmony of ikura and\r\nuni. Salmon roe and sea urchin, respectively."
+msgstr ""
+
+msgctxt "555||sushiza_uruoi||explanation"
+msgid "An economical sushi set of 12-piece nigiri-sushi\r\nand miso soup."
+msgstr ""
+
+msgctxt "556||yonetoku_toritoku||explanation"
+msgid "A 3-piece yakitori set."
+msgstr ""
+
+msgctxt "558||ringer_genen||explanation"
+msgid "The same delicious taste as the Nagasaki Champon,\r\nwith 30% less sodium!"
+msgstr ""
+
+msgctxt "559||ringer_yasaisoup||explanation"
+msgid "Soup with delicious vegetables and ginger. Topped\r\nwith ginger dressing or yuzu pepper dressing."
+msgstr ""
+
+msgctxt "560||ringer_chapolitan||explanation"
+msgid "By combining champon noodles with ketchup,\r\na champon noodle Napolitan is made."
+msgstr ""
+
+msgctxt "561||ringer_charhan||explanation"
+msgid "Ringer Hut is particular with vegetables, and\r\nthey take pride in their homemade fried rice."
+msgstr ""
+
+msgctxt "562||juuman_chukasoba||explanation"
+msgid "The ultimate bowl made through devoted studying\r\nand research since 1989."
+msgstr ""
+
+msgctxt "563||juuman_chukasoba_big||explanation"
+msgid "There are extra noodles and soup.\r\nThe taste and volume are perfect."
+msgstr ""
+
+msgctxt "564||juuman_matayaki||explanation"
+msgid "Onomichi ramen with extra chashu."
+msgstr ""
+
+msgctxt "565||juuman_matayaki_big||explanation"
+msgid "Onomichi ramen with more of everything.\r\nMore chashu, more noodles, and more broth!"
+msgstr ""
+
+msgctxt "566||juuman_karaageset||explanation"
+msgid "A value set of Onomichi ramen, deep-fried\r\nchicken, and rice."
+msgstr ""
+
+msgctxt "567||juuman_karaage||explanation"
+msgid "Five large pieces of deep-fried chicken.\r\nA huge meal."
+msgstr ""
+
+msgctxt "568||juuman_rice||explanation"
+msgid "A perfect compliment to Onomichi ramen and\r\ndeep-fried chicken."
+msgstr ""
+
+msgctxt "569||juuman_musubi2||explanation"
+msgid "Two large rice balls wrapped in crispy seaweed."
+msgstr ""
+
+msgctxt "570||juuman_inari2||explanation"
+msgid "Vinegar rice wrapped in sweet, deep-fried tofu\r\npockets. Goes well with Onomichi ramen."
+msgstr ""
+
+msgctxt "571||juuman_egg||explanation"
+msgid "Boiled egg you can eat as a light snack."
+msgstr ""
+
+msgctxt "572||gindaco_teritama||explanation"
+msgid "Topped with teriyaki sauce and fresh egg salad,\r\nit has a rich flavor and can satisfy any hunger."
+msgstr ""
+
+msgctxt "573||gindaco_cheesepepper||explanation"
+msgid "An extravagant takoyaki topped with bacon and\r\ncheese, giving it a premium, delicious taste."
+msgstr ""
+
+msgctxt "574||gindaco_tacoavocado||explanation"
+msgid "Combines the spicy goodness of yuzu pepper with\r\na hit of wasabi."
+msgstr ""
+
+msgctxt "575||gindaco_tacokara||explanation"
+msgid "Plump, deep-fried octopus covered with super\r\nspicy cayenne pepper and Japanese pepper."
+msgstr ""
+
+msgctxt "576||gindaco_potatosourcream||explanation"
+msgid "Take french fries to the next level with\r\na dollop of fresh and cool sour cream."
+msgstr ""
+
+msgctxt "577||gindaco_tubokyu||explanation"
+msgid "Gindaco Highball's No. 1 side dish that goes\r\nwell with alcohol."
+msgstr ""
+
+msgctxt "578||gindaco_kakuhai||explanation"
+msgid "This icy cold highball goes perfectly with\r\ntakoyaki."
+msgstr ""
+
+msgctxt "579||gindaco_yamahai||explanation"
+msgid "Enjoy the moment with the full-bodied flavor\r\nof this exceptional highball."
+msgstr ""
+
+msgctxt "580||gindaco_bloodorange||explanation"
+msgid "The refreshing citrus taste of blood orange goes\r\nperfectly with the highball."
+msgstr ""
+
+msgctxt "581||gindaco_ginbeam||explanation"
+msgid "A highball with a strong Jim Beam taste."
+msgstr ""
+
+msgctxt "582||gindaco_citruslemon||explanation"
+msgid "The Jim Beam Highball garnished with lemon.\r\nIt has a fresh taste and is easy to drink."
+msgstr ""
+
+msgctxt "583||food_oden||explanation"
+msgid "A hearty stew packed with more than enough\r\nassorted goodies to satisfy your hunger."
+msgstr ""
+
+msgctxt "584||food_konbuonigiri||explanation"
+msgid "Seaweed boiled in soy sauce is at the center of\r\nthis rice ball."
+msgstr ""
+
+msgctxt "585||food_tsunaonigiri||explanation"
+msgid "This rice ball has tuna dressed with\r\nmayonnaise in the middle."
+msgstr ""
+
+msgctxt "586||food_shakeonigiri||explanation"
+msgid "This rice ball has a familiar salmon flake\r\nfilling."
+msgstr ""
+
+msgctxt "587||food_makunouchi||explanation"
+msgid "Your average bento lunch. This is enough to fill\r\nyou up."
+msgstr ""
+
+msgctxt "588||food_yakisoba||explanation"
+msgid "Yakisoba with cabbage and pork. The smell of\r\nthe sauce is simply mouth-watering."
+msgstr ""
+
+msgctxt "589||food_tonkatsu||explanation"
+msgid "This tonkatsu lunch set is made with rich\r\nSatsuma pork."
+msgstr ""
+
+msgctxt "590||food_healthybento||explanation"
+msgid "A healthy bento where you can enjoy ten types\r\nof food. Popular with women."
+msgstr ""
+
+msgctxt "591||food_yakinikubento||explanation"
+msgid "A luxurious yakiniku bento that lavishly uses\r\nmarbled kalbi."
+msgstr ""
+
+msgctxt "592||food_sushidume||explanation"
+msgid "A sushi set filled with a popular selection of\r\nsushi. Popular with all genders and ages."
+msgstr ""
+
+msgctxt "593||food_freshlettucesand||explanation"
+msgid "It's about as filling as you might expect."
+msgstr ""
+
+msgctxt "594||food_tsunaeggsand||explanation"
+msgid "This sandwich features an egg-mayo mix with\r\ntuna on white bread."
+msgstr ""
+
+msgctxt "595||rizap_muscle||explanation"
+msgid "RIZAP original protein with high-grade WPI."
+msgstr ""
+
+msgctxt "596||rizap_fibax||explanation"
+msgid "RIZAP original supplement that accelerates\r\nnutrient absorption."
+msgstr ""
+
+msgctxt "597||rizap_limit+||explanation"
+msgid "RIZAP original supplement that decreases carb\r\nabsorption."
+msgstr ""
+
+msgctxt "598||rizap_burn+||explanation"
+msgid "RIZAP original supplement that helps burn fat.\r\nIt also greatly stimulates appetite."
+msgstr ""
+
+msgctxt "599||rizap_quick burner||explanation"
+msgid "RIZAP original drink supplement that accelerates\r\nmetabolism. It also stimulates appetite."
+msgstr ""
+
+msgctxt "600||exp_manju_muscle||explanation"
+msgid "The legendary confection, Red Bun.\r\nEating this improves your abilities."
+msgstr ""
+
+msgctxt "601||exp_manju_quickness||explanation"
+msgid "The legendary confection, Blue Bun.\r\nEating this improves your abilities."
+msgstr ""
+
+msgctxt "602||exp_manju_guts||explanation"
+msgid "The legendary confection, Orange Bun.\r\nEating this improves your abilities."
+msgstr ""
+
+msgctxt "603||exp_manju_technique||explanation"
+msgid "The legendary confection, Green Bun.\r\nEating this improves your abilities."
+msgstr ""
+
+msgctxt "604||exp_manju_charm||explanation"
+msgid "The legendary confection, Purple Bun.\r\nEating this improves your abilities."
+msgstr ""
+
+msgctxt "605||exp_manju_all||explanation"
+msgid "The legendary confection, Rainbow Bun.\r\nEating this improves your abilities."
+msgstr ""
+
+msgctxt "606||pocket_tissue||explanation"
+msgid "You never know when these might come in handy."
+msgstr ""
+
+msgctxt "607||drifters_ryuboku_ex||explanation"
+msgid "A beautiful-looking piece of driftwood that\r\nhas been polished from its long time drifting."
+msgstr ""
+
+msgctxt "608||drifters_ryuboku_ss||explanation"
+msgid "A small piece of driftwood."
+msgstr ""
+
+msgctxt "609||drifters_ryuboku_ll||explanation"
+msgid "A large piece of driftwood."
+msgstr ""
+
+msgctxt "610||drifters_ryuboku_ltn||explanation"
+msgid "A decayed piece of driftwood, corroded by its\r\nlong time drifting."
+msgstr ""
+
+msgctxt "611||drifters_shell_ex||explanation"
+msgid "A beautiful seashell with a rainbow shine."
+msgstr ""
+
+msgctxt "612||drifters_shell_dmg||explanation"
+msgid "A seashell that is slightly chipped."
+msgstr ""
+
+msgctxt "613||drifters_shell_ss||explanation"
+msgid "A small seashell."
+msgstr ""
+
+msgctxt "614||drifters_buoy||explanation"
+msgid "A buoy that has drifted from somewhere."
+msgstr ""
+
+msgctxt "615||drifters_dust||explanation"
+msgid "Looks like it came from another country."
+msgstr ""
+
+msgctxt "616||drifters_wakame||explanation"
+msgid "Seaweed washed ashore."
+msgstr ""
+
+msgctxt "617||suba12_prepaid||explanation"
+msgid "A prepaid card with 10,000 yen charged on it."
+msgstr ""
+
+msgctxt "618||caba_salada||explanation"
+msgid "A light and crisp salad.\r\n<symbol=caba_talk> becomes 2 Chain."
+msgstr ""
+
+msgctxt "619||caba_icecream||explanation"
+msgid "The perfect dessert for cooling down.\r\n<symbol=caba_love> becomes 2 Chain."
+msgstr ""
+
+msgctxt "620||caba_hakusyu||explanation"
+msgid "A Japanese whisky made at the Suntory Hakushu\r\ndistillery located on Mt. Kaikoma in the Minami Alps."
+msgstr ""
+
+msgctxt "621||caba_yasaistick||explanation"
+msgid "Fresh vegetables chopped into fun sticks."
+msgstr ""
+
+msgctxt "622||snack_yamazaki18||explanation"
+msgid "Fans of Japanese whisky are on the rise, even\r\noverseas, and here's one big reason for it."
+msgstr ""
+
+msgctxt "623||snack_shochu||explanation"
+msgid "Shochu with a mellow taste."
+msgstr ""
+
+msgctxt "625||snack_nihonshu||explanation"
+msgid "Refined sake with a refreshing taste."
+msgstr ""
+
+msgctxt "626||snack_redwine||explanation"
+msgid "Red wine with just the right amount of bitter taste."
+msgstr ""
+
+msgctxt "627||snack_whitewine||explanation"
+msgid "White wine with a fruity taste."
+msgstr ""
+
+msgctxt "628||snack_orangejuice||explanation"
+msgid "100% pure orange juice."
+msgstr ""
+
+msgctxt "629||snack_water||explanation"
+msgid "Cold water."
+msgstr ""
+
+msgctxt "630||necafe_card||explanation"
+msgid "A membership card for the internet café. It\r\nallows use of the facility as often as you want."
+msgstr ""
+
+msgctxt "637||book_muscle||explanation"
+msgid "A mysterious book that boosts your\r\nStrength EXP by 100 when read."
+msgstr ""
+
+msgctxt "638||book_quickness||explanation"
+msgid "A mysterious book that boosts your\r\nAgility EXP by 100 when read."
+msgstr ""
+
+msgctxt "639||book_technique||explanation"
+msgid "A mysterious book that boosts your\r\nTechnique EXP by 100 when read."
+msgstr ""
+
+msgctxt "640||book_charm||explanation"
+msgid "A mysterious book that boosts your\r\nCharm EXP by 100 when read."
+msgstr ""
+
+msgctxt "641||book_guts||explanation"
+msgid "A mysterious book that boosts your\r\nSpirit EXP by 100 when read."
+msgstr ""
+
+msgctxt "642||drink_nihonshu||explanation"
+msgid "This large bottle of sake can be enjoyed heated\r\nor chilled."
+msgstr ""
+
+msgctxt "643||suntory_kakubin||explanation"
+msgid "A whisky known for its sweet scent, deep\r\nrichness, and dry aftertaste."
+msgstr ""
+
+msgctxt "644||suntory_maltz||explanation"
+msgid "Layered and dense. The ultimate beer full of\r\neverything a brewmaster dreams of."
+msgstr ""
+
+msgctxt "645||acecook_supertori||explanation"
+msgid "Using chicken as a base, fat and spices accent\r\nthe rich tasting cup ramen."
+msgstr ""
+
+msgctxt "646||acecook_superika||explanation"
+msgid "This yakisoba blends several types of sauce with\r\npork and fish broth for a sour and rich flavor."
+msgstr ""
+
+msgctxt "647||acecook_janjan||explanation"
+msgid "Yakisoba in a stylish container. The sauce, with\r\nten different fruits and vegetables, is irresistible."
+msgstr ""
+
+msgctxt "648||acecook_wakame||explanation"
+msgid "This smooth-tasting cup ramen mixes organic\r\nmarudaizu sauce with great seafood and spices."
+msgstr ""
+
+msgctxt "649||acecook_wantan||explanation"
+msgid "These glass noodles are made specifically for\r\nsoup by combining mung bean and potato starch."
+msgstr ""
+
+msgctxt "650||acecook_foo||explanation"
+msgid "Authentic pho with a delicious yet simple taste.\r\nIt's low on calories and popular with women."
+msgstr ""
+
+msgctxt "652||spearfishing_standard||explanation"
+msgid "A gun designed for beginning fishermen. It has\r\nlow power, but great aim and spear count."
+msgstr ""
+
+msgctxt "654||spearfishing_stronger||explanation"
+msgid "A powerful weapon perfect for tackling bosses.\r\nHowever, low spear capacity hinders it in normal use."
+msgstr ""
+
+msgctxt "655||spearfishing_pluscharge||explanation"
+msgid "This speargun can load a lot of low damage shots,\r\nso you need to make every shot count."
+msgstr ""
+
+msgctxt "656||spearfishing_standard_miss||explanation"
+msgid "A modified version of the Standard Speargun.\r\nIts high performance doesn't drag down usability."
+msgstr ""
+
+msgctxt "658||spearfishing_stronger_g||explanation"
+msgid "Extremely high damage, but can only load a few\r\nspears at a time. Make sure you don't miss."
+msgstr ""
+
+msgctxt "659||spearfishing_pluscharge_g||explanation"
+msgid "The denizens of the sea will cower before the\r\nhigh damage and spear count of this elite weapon."
+msgstr ""
+
+msgctxt "661||caba_meishi_sora||explanation"
+msgid "A business card from Sora, a hostess."
+msgstr ""
+
+msgctxt "662||caba_meishi_hikaru||explanation"
+msgid "A business card from Hikaru, a hostess."
+msgstr ""
+
+msgctxt "663||caba_meishi_riona||explanation"
+msgid "A business card from Riona, a hostess."
+msgstr ""
+
+msgctxt "664||caba_meishi_saki||explanation"
+msgid "A business card from Saki, a hostess."
+msgstr ""
+
+msgctxt "665||caba_meishi_erina||explanation"
+msgid "A business card from Erina, a hostess."
+msgstr ""
+
+msgctxt "666||snack_maltz||explanation"
+msgid "A premium beer that is manufactured to accent\r\nthe hops and wort for an extravagant flavor."
+msgstr ""
+
+msgctxt "667||bar_h12||explanation"
+msgid "A Japanese whisky made at the Suntory Hakushu\r\ndistillery located on Mt. Kaikoma in the Minami Alps."
+msgstr ""
+
+msgctxt "668||bar_mccarran30||explanation"
+msgid "Unblended whisky that's been aged for at least\r\n30 years in a sherry cask. It's rare worldwide."
+msgstr ""
+
+msgctxt "669||bar_hibiki30||explanation"
+msgid "This is Japan's finest, if not one of the entire\r\nworld's finest whiskies."
+msgstr ""
+
+msgctxt "670||bar_hibiki17||explanation"
+msgid "Japan's world-class premium whisky."
+msgstr ""
+
+msgctxt "671||bar_ballantyne30||explanation"
+msgid "A bottle that is worthy of its titles as the\r\ngreatest Scotch whisky."
+msgstr ""
+
+msgctxt "672||dish_platinum||explanation"
+msgid "Made of some of the rarest metal in the world.\r\nCould fetch you a small fortune at a pawn shop."
+msgstr ""
+
+msgctxt "673||dish_gold||explanation"
+msgid "The gold standard in plates.\r\nCould go for quite a lot at a pawn shop."
+msgstr ""
+
+msgctxt "674||dish_silver||explanation"
+msgid "This well-crafted plate could net you\r\na hefty sum over at a pawn shop."
+msgstr ""
+
+msgctxt "675||dish_copper||explanation"
+msgid "It's not particularly valuable, but it could\r\ngo for a relatively nice price at a pawn shop."
+msgstr ""
+
+msgctxt "676||dish_iron||explanation"
+msgid "It's not too special, but it could go for\r\na decent price at a pawn shop."
+msgstr ""
+
+msgctxt "677||dish_paper||explanation"
+msgid "This thing is practically worthless.\r\nYou could sell it at a pawn shop, if you want."
+msgstr ""
+
+msgctxt "678||suba03_harukabromide||explanation"
+msgid "A bromide of Haruka from her idol days."
+msgstr ""
+
+msgctxt "679||suba03_haruka_illust||explanation"
+msgid "A drawing of Haruka and her friends by Ayaka."
+msgstr ""
+
+msgctxt "682||yoro_shichiria||explanation"
+msgid "An ice cream cake that goes well with rich\r\ncheese and sour blueberry sauce."
+msgstr ""
+
+msgctxt "683||quadra_cappuccino||explanation"
+msgid "Rich espresso crowned with fluffy,\r\nfrothed milk that lingers on the lips."
+msgstr ""
+
+msgctxt "684||quadra_espresso||explanation"
+msgid "Made with hand-selected fair-trade coffee \r\nbeans for superior taste and aroma."
+msgstr ""
+
+msgctxt "685||quadra_milktea||explanation"
+msgid "Get refreshed with this blend of smooth tea\r\nand creamy milk."
+msgstr ""
+
+msgctxt "686||quadra_chococake||explanation"
+msgid "The rich taste of chocolate is not overpowered\r\nby any added sugars."
+msgstr ""
+
+msgctxt "687||quadra_cheesecake||explanation"
+msgid "Light, fluffy, and slightly sour filling on\r\na graham-cracker crust."
+msgstr ""
+
+msgctxt "688||quadra_sandwich||explanation"
+msgid "A basic egg sandwich for those days when\r\nyou just need to power through a meal."
+msgstr ""
+
+msgctxt "689||quadra_croissant||explanation"
+msgid "Buttery, flaky, and served warm if asked."
+msgstr ""
+
+msgctxt "690||quadra_toast||explanation"
+msgid "Warmed to golden brown and toasty."
+msgstr ""
+
+msgctxt "691||subb06_michio_cd||explanation"
+msgid "Ono Michio's sample CD."
+msgstr ""
+
+msgctxt "692||subb07_michio_illust||explanation"
+msgid "A drawing of Michio by Shizuko."
+msgstr ""
+
+msgctxt "693||picture_kuhi01||explanation"
+msgid "A photo of the poem found in Onomichi."
+msgstr ""
+
+msgctxt "694||picture_kuhi02||explanation"
+msgid "A photo of the poem found in Onomichi."
+msgstr ""
+
+msgctxt "695||picture_kuhi03||explanation"
+msgid "A photo of the poem found in Onomichi."
+msgstr ""
+
+msgctxt "696||picture_kuhi04||explanation"
+msgid "A photo of the poem found in Onomichi."
+msgstr ""
+
+msgctxt "697||picture_kuhi05||explanation"
+msgid "A photo of the poem found in Onomichi."
+msgstr ""
+
+msgctxt "698||picture_kuhi06||explanation"
+msgid "A photo of the poem found in Onomichi."
+msgstr ""
+
+msgctxt "699||picture_kuhi07||explanation"
+msgid "A photo of the poem found in Onomichi."
+msgstr ""
+
+msgctxt "700||picture_kuhi08||explanation"
+msgid "A photo of the poem found in Onomichi."
+msgstr ""
+
+msgctxt "701||picture_kuhi09||explanation"
+msgid "A photo of the poem found in Onomichi."
+msgstr ""
+
+msgctxt "702||memo_ango||explanation"
+msgid "A note from Lo with a clue leading toward the\r\nSecret of Onomichi."
+msgstr ""
+
+msgctxt "703||suba11_reicopicture01||explanation"
+msgid "A selfie of a woman named Reiko."
+msgstr ""
+
+msgctxt "704||suba11_reicopicture02||explanation"
+msgid "A selfie of a woman named Reiko."
+msgstr ""
+
+msgctxt "705||suba11_reicopicture03||explanation"
+msgid "A selfie of a woman named Reiko."
+msgstr ""
+
+msgctxt "706||safe_key01||explanation"
+msgid "A safe key found on Tenkaichi Street."
+msgstr ""
+
+msgctxt "707||safe_key02||explanation"
+msgid "A safe key found on West Taihei Boulevard."
+msgstr ""
+
+msgctxt "708||safe_key03||explanation"
+msgid "A safe key found at Yoshida Batting Center."
+msgstr ""
+
+msgctxt "709||safe_key04||explanation"
+msgid "A safe key found in Nakamichi Alley."
+msgstr ""
+
+msgctxt "710||safe_key05||explanation"
+msgid "A safe key found on Senryo Avenue."
+msgstr ""
+
+msgctxt "711||safe_key06||explanation"
+msgid "A safe key found at Jingai Ferry Dock."
+msgstr ""
+
+msgctxt "712||safe_key07||explanation"
+msgid "A safe key found on Pedestrian Bridge."
+msgstr ""
+
+msgctxt "713||safe_key08||explanation"
+msgid "A safe key found on Second Hill."
+msgstr ""
+
+msgctxt "714||safe_key09||explanation"
+msgid "A safe key found at Hana-no-kubo."
+msgstr ""
+
+msgctxt "715||safe_key10||explanation"
+msgid "A safe key found at Central Shopping District."
+msgstr ""
+
+msgctxt "716||shinrei_goods01||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "717||shinrei_goods02||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "718||shinrei_goods03||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "719||shinrei_goods04||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "720||shinrei_goods05||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "721||shinrei_goods06||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "722||shinrei_goods07||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "723||shinrei_goods08||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "724||shinrei_goods09||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "725||shinrei_goods10||explanation"
+msgid "A photo filled with mystery."
+msgstr ""
+
+msgctxt "726||bracelet_ghost||explanation"
+msgid "Mysterious beads said to ward off ghosts."
+msgstr ""
+
+msgctxt "727||finder_ufo||explanation"
+msgid "Helps you find everyone's favorite unexplained\r\nphenomenon, the elusive UFO."
+msgstr ""
+
+msgctxt "728||amulet_parry||explanation"
+msgid "A talisman with a mysterious aura.\r\nAllows you to parry almost any attack."
+msgstr ""
+
+msgctxt "730||amulet_tosin||explanation"
+msgid "While equipped, your Heat Gauge will increase\r\nat all times."
+msgstr ""
+
+msgctxt "731||staminan_d||explanation"
+msgid "Charges up your health and Heat dramatically."
+msgstr ""
+
+msgctxt "25||smile_burgar||name_for_shop"
+msgid "Smile Burger"
+msgstr ""
+
+msgctxt "26||smile_wburgar||name_for_shop"
+msgid "Double Smile Burger"
+msgstr ""
+
+msgctxt "27||smile_humburger||name_for_shop"
+msgid "Ham Katsu Burger"
+msgstr ""
+
+msgctxt "28||smile_potatoburger||name_for_shop"
+msgid "Potato Salad Burger"
+msgstr ""
+
+msgctxt "29||smile_chickenburger||name_for_shop"
+msgid "Chicken Burger"
+msgstr ""
+
+msgctxt "30||smile_friedpotato||name_for_shop"
+msgid "French Fries (M)"
+msgstr ""
+
+msgctxt "31||kiwami_drink||name_for_shop"
+msgid "POWER Drink"
+msgstr ""
+
+msgctxt "89||bracelet_red||name_for_shop"
+msgid "Red Gem Bracelet"
+msgstr ""
+
+msgctxt "90||bracelet_black||name_for_shop"
+msgid "Black Gem Bracelet"
+msgstr ""
+
+msgctxt "91||bracelet_white||name_for_shop"
+msgid "White Gem Bracelet"
+msgstr ""
+
+msgctxt "92||bracelet_blue||name_for_shop"
+msgid "Blue Gem Bracelet"
+msgstr ""
+
+msgctxt "93||bracelet_leather||name_for_shop"
+msgid "Leather Bracelet"
+msgstr ""
+
+msgctxt "94||bracelet_luck||name_for_shop"
+msgid "Beads of Good Fortune"
+msgstr ""
+
+msgctxt "95||bracelet_sp_red||name_for_shop"
+msgid "Suzaku Bracelet"
+msgstr ""
+
+msgctxt "96||bracelet_sp_blk||name_for_shop"
+msgid "Genbu Bracelet"
+msgstr ""
+
+msgctxt "97||bracelet_sp_wht||name_for_shop"
+msgid "Byakko Bracelet"
+msgstr ""
+
+msgctxt "98||bracelet_sp_blu||name_for_shop"
+msgid "Seiryu Bracelet"
+msgstr ""
+
+msgctxt "99||bracelet_so_max||name_for_shop"
+msgid "Heavenly Beast Bracelet"
+msgstr ""
+
+msgctxt "100||mouthguard||name_for_shop"
+msgid "Mouth Guard"
+msgstr ""
+
+msgctxt "101||mouthguard_sp||name_for_shop"
+msgid "Custom Mouth Guard"
+msgstr ""
+
+msgctxt "102||mouthguard_max||name_for_shop"
+msgid "Transcendent Mouth Guard"
+msgstr ""
+
+msgctxt "103||sarashi_asagao||name_for_shop"
+msgid "Morning Glory Waistband"
+msgstr ""
+
+msgctxt "104||sarashi||name_for_shop"
+msgid "Binding"
+msgstr ""
+
+msgctxt "105||sarashi_kenka||name_for_shop"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "106||sarashi_kyou||name_for_shop"
+msgid "Fearless Binding"
+msgstr ""
+
+msgctxt "107||sarashi_chizome||name_for_shop"
+msgid "Bloody Binding"
+msgstr ""
+
+msgctxt "108||sarashi_dragon||name_for_shop"
+msgid "Dragon's Binding"
+msgstr ""
+
+msgctxt "109||vest_bltproof||name_for_shop"
+msgid "Bulletproof Vest"
+msgstr ""
+
+msgctxt "110||vest_bltproof_sp||name_for_shop"
+msgid "Military-grade Bulletproof Vest"
+msgstr ""
+
+msgctxt "111||vest_knfproof||name_for_shop"
+msgid "Body Armor"
+msgstr ""
+
+msgctxt "112||vest_knfproof_sp||name_for_shop"
+msgid "Military-grade Body Armor"
+msgstr ""
+
+msgctxt "113||vest_max||name_for_shop"
+msgid "Transcendent Body Armor"
+msgstr ""
+
+msgctxt "114||chainmail_lw||name_for_shop"
+msgid "Rusted Chain Mail"
+msgstr ""
+
+msgctxt "115||chainmail||name_for_shop"
+msgid "Chain Mail"
+msgstr ""
+
+msgctxt "116||chainmail_bloody||name_for_shop"
+msgid "Blood-caked Chain Mail"
+msgstr ""
+
+msgctxt "117||belt_vinyl||name_for_shop"
+msgid "Vinyl Belt"
+msgstr ""
+
+msgctxt "118||belt_cowhide||name_for_shop"
+msgid "Leather Belt"
+msgstr ""
+
+msgctxt "119||belt_stamina||name_for_shop"
+msgid "Stamina Belt"
+msgstr ""
+
+msgctxt "120||belt_sotmack||name_for_shop"
+msgid "Hunger Belt"
+msgstr ""
+
+msgctxt "121||belt_highbland||name_for_shop"
+msgid "Expensive Leather Belt"
+msgstr ""
+
+msgctxt "122||insole||name_for_shop"
+msgid "Comfy Insoles"
+msgstr ""
+
+msgctxt "123||insole_sp||name_for_shop"
+msgid "High-tech Insoles"
+msgstr ""
+
+msgctxt "124||insole_max||name_for_shop"
+msgid "Transcendent Insoles"
+msgstr ""
+
+msgctxt "125||amulet_health||name_for_shop"
+msgid "Good Health Amulet"
+msgstr ""
+
+msgctxt "126||amulet_traffic||name_for_shop"
+msgid "Road Safety Amulet"
+msgstr ""
+
+msgctxt "127||amulet_luck||name_for_shop"
+msgid "Good Luck Amulet"
+msgstr ""
+
+msgctxt "128||amulet_journey||name_for_shop"
+msgid "Travel Safety Amulet"
+msgstr ""
+
+msgctxt "129||amulet_love||name_for_shop"
+msgid "Romance Amulet"
+msgstr ""
+
+msgctxt "130||photo_charisma||name_for_shop"
+msgid "Charismatic Photo"
+msgstr ""
+
+msgctxt "131||photo_asagao||name_for_shop"
+msgid "Morning Glory Photo"
+msgstr ""
+
+msgctxt "132||eye_ofthe_dragon||name_for_shop"
+msgid "Eye of the Dragon"
+msgstr ""
+
+msgctxt "133||amulet_dragon||name_for_shop"
+msgid "Dragon God Amulet"
+msgstr ""
+
+msgctxt "134||underwear_white||name_for_shop"
+msgid "Pure White Briefs"
+msgstr ""
+
+msgctxt "135||underwear_boxer||name_for_shop"
+msgid "Boxer Briefs"
+msgstr ""
+
+msgctxt "136||underwear_trunks||name_for_shop"
+msgid "Trunks"
+msgstr ""
+
+msgctxt "137||underwear_boomerang||name_for_shop"
+msgid "Boomerang Briefs"
+msgstr ""
+
+msgctxt "138||hundoshi_6shaku||name_for_shop"
+msgid "Rokushaku Fundoshi"
+msgstr ""
+
+msgctxt "139||hundoshi_ecchu||name_for_shop"
+msgid "Etchu Fundoshi"
+msgstr ""
+
+msgctxt "140||underwear_iron||name_for_shop"
+msgid "Steel Underwear"
+msgstr ""
+
+msgctxt "141||hundoshi_bloody||name_for_shop"
+msgid "Bloody Fundoshi"
+msgstr ""
+
+msgctxt "142||gypsum_wrist||name_for_shop"
+msgid "Wrist Training Gear"
+msgstr ""
+
+msgctxt "143||gypsum_ankle||name_for_shop"
+msgid "Ankle Training Gear"
+msgstr ""
+
+msgctxt "144||gypsum_gokudo||name_for_shop"
+msgid "Yakuza Training Gear"
+msgstr ""
+
+msgctxt "146||finder_substory||name_for_shop"
+msgid "Substory Finder"
+msgstr ""
+
+msgctxt "147||finder_safe||name_for_shop"
+msgid "Safe Finder"
+msgstr ""
+
+msgctxt "172||toughnessz||name_for_shop"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "173||toughnesszz||name_for_shop"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "174||toughnessinfinity||name_for_shop"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "175||tauriner_a||name_for_shop"
+msgid "Tauriner"
+msgstr ""
+
+msgctxt "176||tauriner_b||name_for_shop"
+msgid "Tauriner +"
+msgstr ""
+
+msgctxt "177||tauriner_c||name_for_shop"
+msgid "Tauriner ++"
+msgstr ""
+
+msgctxt "178||tauriner_s||name_for_shop"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "179||staminan_a||name_for_shop"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "180||staminan_b||name_for_shop"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "181||staminan_c||name_for_shop"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "182||staminan_s||name_for_shop"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "183||haraheru_half||name_for_shop"
+msgid "AppStim Half"
+msgstr ""
+
+msgctxt "184||haraheru_rx||name_for_shop"
+msgid "AppStim RX"
+msgstr ""
+
+msgctxt "185||random_drink01||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "186||random_drink02||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "187||random_drink03||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "188||random_drink04||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "189||random_drink05||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "190||random_drink06||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "191||random_drink07||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "192||random_drink08||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "193||random_drink09||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "194||random_drink10||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "195||random_drink11||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "196||random_drink12||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "197||random_drink13||name_for_shop"
+msgid "Mystery Drink"
+msgstr ""
+
+msgctxt "198||alps_coffee||name_for_shop"
+msgid "Blended Coffee"
+msgstr ""
+
+msgctxt "200||alps_moca||name_for_shop"
+msgid "Mocha"
+msgstr ""
+
+msgctxt "204||alps_cake||name_for_shop"
+msgid "Special Shortcake"
+msgstr ""
+
+msgctxt "205||alps_montblanc||name_for_shop"
+msgid "Mont Blanc"
+msgstr ""
+
+msgctxt "206||alps_sandwich||name_for_shop"
+msgid "Sandwich Set"
+msgstr ""
+
+msgctxt "208||alps_neapolitan||name_for_shop"
+msgid "Napolitan"
+msgstr ""
+
+msgctxt "209||cafe_cappuccino||name_for_shop"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "210||cafe_espresso||name_for_shop"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "219||cafe_sandwich||name_for_shop"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "220||cafe_croissant||name_for_shop"
+msgid "Croissant"
+msgstr ""
+
+msgctxt "221||cafe_toast||name_for_shop"
+msgid "Toast"
+msgstr ""
+
+msgctxt "224||smile_teriburgar||name_for_shop"
+msgid "Teriyaki Smile Burger"
+msgstr ""
+
+msgctxt "225||smile_king_burgar||name_for_shop"
+msgid "King Smile Burger"
+msgstr ""
+
+msgctxt "228||smile_potato||name_for_shop"
+msgid "Smile Fries"
+msgstr ""
+
+msgctxt "229||smile_shake||name_for_shop"
+msgid "Smile Shake"
+msgstr ""
+
+msgctxt "230||smile_salada||name_for_shop"
+msgid "Smile Salad"
+msgstr ""
+
+msgctxt "231||smile_m_burgar||name_for_shop"
+msgid "Limited Millennium Tower Burger"
+msgstr ""
+
+msgctxt "232||wild_burgar||name_for_shop"
+msgid "Wild Burger"
+msgstr ""
+
+msgctxt "239||ichiban_ramen||name_for_shop"
+msgid "Kyushu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "240||ichiban_ramen_kakuni||name_for_shop"
+msgid "Stewed Pork Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "241||ichiban_ramen_charsiu||name_for_shop"
+msgid "Chashu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "242||ichiban_ramen_tsuke||name_for_shop"
+msgid "Kyushu Tonkotsu Tsukemen"
+msgstr ""
+
+msgctxt "244||ichiban_charhan||name_for_shop"
+msgid "Fried Rice"
+msgstr ""
+
+msgctxt "245||ichiban_gyoza||name_for_shop"
+msgid "Gyoza"
+msgstr ""
+
+msgctxt "246||hanrai_tanshio||name_for_shop"
+msgid "Salted Tongue"
+msgstr ""
+
+msgctxt "247||hanrai_sp_tanshio||name_for_shop"
+msgid "Grade A Salted Tongue"
+msgstr ""
+
+msgctxt "248||hanrai_calvi||name_for_shop"
+msgid "Kalbi"
+msgstr ""
+
+msgctxt "249||hanrai_sp_calvi||name_for_shop"
+msgid "Grade A Kalbi"
+msgstr ""
+
+msgctxt "250||hanrai_loos||name_for_shop"
+msgid "Sirloin"
+msgstr ""
+
+msgctxt "251||hanrai_sp_loos||name_for_shop"
+msgid "Grade A Sirloin"
+msgstr ""
+
+msgctxt "252||hanrai_harami||name_for_shop"
+msgid "Harami"
+msgstr ""
+
+msgctxt "253||hanrai_sp_harami||name_for_shop"
+msgid "Grade A Harami"
+msgstr ""
+
+msgctxt "254||hanrai_hormone||name_for_shop"
+msgid "Tripe BBQ"
+msgstr ""
+
+msgctxt "255||hanrai_kaisenmori||name_for_shop"
+msgid "Seafood Platter"
+msgstr ""
+
+msgctxt "256||hanrai_kimuchimori||name_for_shop"
+msgid "Kimchi Combo"
+msgstr ""
+
+msgctxt "257||hanrai_bibimbap||name_for_shop"
+msgid "Stone-cooked Bibimbap"
+msgstr ""
+
+msgctxt "258||hanrai_yukgaejang||name_for_shop"
+msgid "Spicy Beef Soup"
+msgstr ""
+
+msgctxt "259||hanrai_yakininniku||name_for_shop"
+msgid "Grilled Garlic"
+msgstr ""
+
+msgctxt "260||hanrai_salada||name_for_shop"
+msgid "Kanrai Special Salad"
+msgstr ""
+
+msgctxt "261||sushigin_nishiki||name_for_shop"
+msgid "Nishiki Set"
+msgstr ""
+
+msgctxt "262||sushigin_miyabi||name_for_shop"
+msgid "Miyabi Set"
+msgstr ""
+
+msgctxt "263||sushigin_kiwami||name_for_shop"
+msgid "Kiwami Set"
+msgstr ""
+
+msgctxt "264||sushigin_hanachirashi||name_for_shop"
+msgid "Flower Chirashi"
+msgstr ""
+
+msgctxt "265||sushigin_kiwamichirashi||name_for_shop"
+msgid "Kiwami Chirashi"
+msgstr ""
+
+msgctxt "266||sushigin_tekka||name_for_shop"
+msgid "Tuna Rice Bowl"
+msgstr ""
+
+msgctxt "267||sushigin_kaisen||name_for_shop"
+msgid "Kiwami Seafood Rice Bowl"
+msgstr ""
+
+msgctxt "268||sushigin_osuimono||name_for_shop"
+msgid "Osuimono"
+msgstr ""
+
+msgctxt "269||sushigin_ebijiru||name_for_shop"
+msgid "Lobster Miso Soup"
+msgstr ""
+
+msgctxt "270||sushigin_pudding||name_for_shop"
+msgid "Chef's Selection Pudding"
+msgstr ""
+
+msgctxt "271||yonetoku_nikunabe||name_for_shop"
+msgid "Meat Nabe"
+msgstr ""
+
+msgctxt "272||yonetoku_nikomi||name_for_shop"
+msgid "Stew"
+msgstr ""
+
+msgctxt "273||yonetoku_sharishari||name_for_shop"
+msgid "Crunchy Shochu Highball"
+msgstr ""
+
+msgctxt "274||yonetoku_takobutsu||name_for_shop"
+msgid "Takobutsu"
+msgstr ""
+
+msgctxt "275||yonetoku_tukemonomori||name_for_shop"
+msgid "Pickle Platter"
+msgstr ""
+
+msgctxt "276||yonetoku_edamame||name_for_shop"
+msgid "Edamame"
+msgstr ""
+
+msgctxt "277||yonetoku_potatosalada||name_for_shop"
+msgid "Potato Salad"
+msgstr ""
+
+msgctxt "278||yonetoku_beer||name_for_shop"
+msgid "Draft Beer"
+msgstr ""
+
+msgctxt "280||snack_edamame||name_for_shop"
+msgid "Edamame"
+msgstr ""
+
+msgctxt "281||snack_oshinko||name_for_shop"
+msgid "Pickles"
+msgstr ""
+
+msgctxt "282||snack_karaage||name_for_shop"
+msgid "Chicken Karaage"
+msgstr ""
+
+msgctxt "283||snack_neapolitan||name_for_shop"
+msgid "Napolitan"
+msgstr ""
+
+msgctxt "284||snack_kimuchicharhan||name_for_shop"
+msgid "Kimchi Fried Rice"
+msgstr ""
+
+msgctxt "285||snack_omurice||name_for_shop"
+msgid "Omurice"
+msgstr ""
+
+msgctxt "286||snack_curryrice||name_for_shop"
+msgid "Curry & Rice"
+msgstr ""
+
+msgctxt "287||snack_chirashi||name_for_shop"
+msgid "Chirashi Sushi"
+msgstr ""
+
+msgctxt "288||caba_fruitsmori||name_for_shop"
+msgid "Fruit Platter"
+msgstr ""
+
+msgctxt "289||caba_carbonara||name_for_shop"
+msgid "Carbonara"
+msgstr ""
+
+msgctxt "290||caba_karaage||name_for_shop"
+msgid "Chicken Karaage"
+msgstr ""
+
+msgctxt "292||caba_potato||name_for_shop"
+msgid "Potato Wedges"
+msgstr ""
+
+msgctxt "293||caba_edamame||name_for_shop"
+msgid "Edamame"
+msgstr ""
+
+msgctxt "295||kaki_yakigaki||name_for_shop"
+msgid "Grilled Oyster"
+msgstr ""
+
+msgctxt "296||kaki_namagaki||name_for_shop"
+msgid "Raw Oyster"
+msgstr ""
+
+msgctxt "297||kaki_kakihurai||name_for_shop"
+msgid "Fried Oysters"
+msgstr ""
+
+msgctxt "298||kaki_kakiomu||name_for_shop"
+msgid "Oyster Omelette"
+msgstr ""
+
+msgctxt "299||kaki_mebaru||name_for_shop"
+msgid "Salt Grilled Rockfish"
+msgstr ""
+
+msgctxt "300||kaki_kakidote||name_for_shop"
+msgid "Oyster Dotenabe"
+msgstr ""
+
+msgctxt "301||kaki_kakimeshi||name_for_shop"
+msgid "Oyster Rice"
+msgstr ""
+
+msgctxt "302||kaki_ryoushijiru||name_for_shop"
+msgid "Fisherman Soup"
+msgstr ""
+
+msgctxt "303||kaki_takosashi||name_for_shop"
+msgid "Octopus Sashimi"
+msgstr ""
+
+msgctxt "304||kaki_ikasashi||name_for_shop"
+msgid "Squid Sashimi"
+msgstr ""
+
+msgctxt "305||kaki_sashimimori||name_for_shop"
+msgid "Sashimi Platter"
+msgstr ""
+
+msgctxt "306||akaushi_gyu_nami||name_for_shop"
+msgid "Beef Bowl (Standard)"
+msgstr ""
+
+msgctxt "307||akaushi_gyu_dai||name_for_shop"
+msgid "Beef Bowl (Large)"
+msgstr ""
+
+msgctxt "308||akaushi_gyu_toku||name_for_shop"
+msgid "Beef Bowl (Extra Large)"
+msgstr ""
+
+msgctxt "309||akaushi_gyu_sara||name_for_shop"
+msgid "Beef Plate"
+msgstr ""
+
+msgctxt "310||akaushi_beer||name_for_shop"
+msgid "Draft Beer"
+msgstr ""
+
+msgctxt "311||akaushi_misoshiru||name_for_shop"
+msgid "Miso Soup"
+msgstr ""
+
+msgctxt "312||akaushi_coleslaw||name_for_shop"
+msgid "Coleslaw Salad"
+msgstr ""
+
+msgctxt "314||lapente_greensalada||name_for_shop"
+msgid "Specialty Green Salad"
+msgstr ""
+
+msgctxt "315||lapente_ratatouille||name_for_shop"
+msgid "Ratatouille"
+msgstr ""
+
+msgctxt "316||lapente_rossini||name_for_shop"
+msgid "Tournedos Rossini"
+msgstr ""
+
+msgctxt "318||lapente_lobster||name_for_shop"
+msgid "Grilled Lobster"
+msgstr ""
+
+msgctxt "319||lapente_bouillabaisse||name_for_shop"
+msgid "Bouillabaisse"
+msgstr ""
+
+msgctxt "320||lapente_torimomo||name_for_shop"
+msgid "Oven-baked Chicken Thigh"
+msgstr ""
+
+msgctxt "321||lapente_kamoniku||name_for_shop"
+msgid "Roasted Duck"
+msgstr ""
+
+msgctxt "322||lapente_frenchbread||name_for_shop"
+msgid "Homemade Baguette"
+msgstr ""
+
+msgctxt "331||yamaneko_pudding||name_for_shop"
+msgid "Onomichi Pudding"
+msgstr ""
+
+msgctxt "332||yamaneko_hiyashi||name_for_shop"
+msgid "Hiyashiame"
+msgstr ""
+
+msgctxt "333||pokecir_tofu||name_for_shop"
+msgid "Tofu"
+msgstr ""
+
+msgctxt "334||alps_bluemountain||name_for_shop"
+msgid "Blue Mountain"
+msgstr ""
+
+msgctxt "335||alps_earlgrey||name_for_shop"
+msgid "Earl Grey Tea"
+msgstr ""
+
+msgctxt "336||alps_parfaitichigo||name_for_shop"
+msgid "Strawberry Parfait"
+msgstr ""
+
+msgctxt "337||alps_parfaitchoco||name_for_shop"
+msgid "Chocolate Parfait"
+msgstr ""
+
+msgctxt "338||alps_beefcurry||name_for_shop"
+msgid "Original Beef Curry"
+msgstr ""
+
+msgctxt "339||cafe_milktea||name_for_shop"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "340||cafe_macchalatte||name_for_shop"
+msgid "Matcha Latte"
+msgstr ""
+
+msgctxt "341||cafe_chococake||name_for_shop"
+msgid "Chocolate Cake"
+msgstr ""
+
+msgctxt "342||cafe_cheesecake||name_for_shop"
+msgid "Cheesecake"
+msgstr ""
+
+msgctxt "343||cafe_originalcake||name_for_shop"
+msgid "Original Cake"
+msgstr ""
+
+msgctxt "344||cafe_specialcake||name_for_shop"
+msgid "Seasonal Cake"
+msgstr ""
+
+msgctxt "345||cafe_bucketsand||name_for_shop"
+msgid "Baguette Sandwich"
+msgstr ""
+
+msgctxt "346||cafe_clubsand||name_for_shop"
+msgid "Club Sandwich"
+msgstr ""
+
+msgctxt "347||cafe_originalpan1||name_for_shop"
+msgid "Original Bread"
+msgstr ""
+
+msgctxt "348||cafe_originalpan2||name_for_shop"
+msgid "Special Bread"
+msgstr ""
+
+msgctxt "349||smile_maguroburgar||name_for_shop"
+msgid "Tuna Burger"
+msgstr ""
+
+msgctxt "350||smile_kakuniburgar||name_for_shop"
+msgid "Braised Pork Burger"
+msgstr ""
+
+msgctxt "351||wild_aboburgar||name_for_shop"
+msgid "Wild Avocado Burger"
+msgstr ""
+
+msgctxt "352||wild_chikiburgar||name_for_shop"
+msgid "Wild Chicken Sandwich"
+msgstr ""
+
+msgctxt "353||wild_friedchicken||name_for_shop"
+msgid "Wild Fried Chicken"
+msgstr ""
+
+msgctxt "354||wild_hotchicken||name_for_shop"
+msgid "Wild Hot Chicken"
+msgstr ""
+
+msgctxt "355||wild_orangejuice||name_for_shop"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "356||wild_oolongtea||name_for_shop"
+msgid "Oolong Tea"
+msgstr ""
+
+msgctxt "357||ichiban_charsiudon||name_for_shop"
+msgid "Chashu Rice Bowl"
+msgstr ""
+
+msgctxt "358||yonetoku_oolongtea||name_for_shop"
+msgid "Oolong Tea"
+msgstr ""
+
+msgctxt "359||lapente_originaldessert01||name_for_shop"
+msgid "Special Strawberry Shortcake"
+msgstr ""
+
+msgctxt "360||lapente_originaldessert02||name_for_shop"
+msgid "Chocolate Cake"
+msgstr ""
+
+msgctxt "361||lapente_redwine||name_for_shop"
+msgid "Red Wine"
+msgstr ""
+
+msgctxt "362||lapente_whitewine||name_for_shop"
+msgid "White Wine"
+msgstr ""
+
+msgctxt "363||bar_y18||name_for_shop"
+msgid "Yamazaki 18 Years Old"
+msgstr ""
+
+msgctxt "365||bar_whiskeyold||name_for_shop"
+msgid "Suntory Old Whisky"
+msgstr ""
+
+msgctxt "370||bar_laphroaig10||name_for_shop"
+msgid "Laphroaig 10 Years Old"
+msgstr ""
+
+msgctxt "371||bar_maltz||name_for_shop"
+msgid "The Premium Malt's"
+msgstr ""
+
+msgctxt "372||bar_vsop||name_for_shop"
+msgid "Suntory Brandy V.S.O.P"
+msgstr ""
+
+msgctxt "374||gindaco_tacoyaki||name_for_shop"
+msgid "Absolutely Tasty Takoyaki"
+msgstr ""
+
+msgctxt "375||gindaco_cheesetacoyaki||name_for_shop"
+msgid "Cheese and Spicy Fish Roe"
+msgstr ""
+
+msgctxt "376||gindaco_tentsuyutacoyaki||name_for_shop"
+msgid "Welsh Onion Takoyaki"
+msgstr ""
+
+msgctxt "378||gindaco_yakisoba||name_for_shop"
+msgid "Sauce Yakisoba"
+msgstr ""
+
+msgctxt "381||gindaco_premaltz||name_for_shop"
+msgid "The Premium Malt's Draft"
+msgstr ""
+
+msgctxt "383||gindaco_casiore||name_for_shop"
+msgid "Fresh Cassis and Orange"
+msgstr ""
+
+msgctxt "388||fujisoba_kake||name_for_shop"
+msgid "Soba in Hot Broth"
+msgstr ""
+
+msgctxt "389||fujisoba_mori||name_for_shop"
+msgid "Chilled Soba"
+msgstr ""
+
+msgctxt "390||fujisoba_hiyashitanuki||name_for_shop"
+msgid "Chilled Tanuki Soba"
+msgstr ""
+
+msgctxt "391||fujisoba_hiyashikitsune||name_for_shop"
+msgid "Chilled Kitsune Soba"
+msgstr ""
+
+msgctxt "392||fujisoba_tentama||name_for_shop"
+msgid "Egg & Tempura Soba"
+msgstr ""
+
+msgctxt "393||fujisoba_sp_soba||name_for_shop"
+msgid "Special Fuji Soba"
+msgstr ""
+
+msgctxt "394||fujisoba_katsudon||name_for_shop"
+msgid "Katsudon"
+msgstr ""
+
+msgctxt "395||fujisoba_curry||name_for_shop"
+msgid "Curry & Rice"
+msgstr ""
+
+msgctxt "396||yoro_beer||name_for_shop"
+msgid "Draft Beer (Medium)"
+msgstr ""
+
+msgctxt "397||yoro_oolongtea||name_for_shop"
+msgid "Oolong Tea"
+msgstr ""
+
+msgctxt "398||yoro_lemonsour||name_for_shop"
+msgid "Lemon Sour (Medium)"
+msgstr ""
+
+msgctxt "399||yoro_grapesour||name_for_shop"
+msgid "Kyoho Grape Sour"
+msgstr ""
+
+msgctxt "400||yoro_grapefruitsour||name_for_shop"
+msgid "Fresh Grapefruit Sour (Medium)"
+msgstr ""
+
+msgctxt "401||yoro_bakuhai||name_for_shop"
+msgid "Bakuhai"
+msgstr ""
+
+msgctxt "403||yoro_gyokuro||name_for_shop"
+msgid "Gyokuro Green Tea Shochu (Medium)"
+msgstr ""
+
+msgctxt "404||yoro_kakuhai||name_for_shop"
+msgid "Kaku Highball"
+msgstr ""
+
+msgctxt "406||yoro_cassisoolong||name_for_shop"
+msgid "Cassis Oolong"
+msgstr ""
+
+msgctxt "409||yoro_sashimi7mori||name_for_shop"
+msgid "Value Sashimi Platter 7 pcs."
+msgstr ""
+
+msgctxt "410||yoro_sashimi3mori||name_for_shop"
+msgid "Sashimi Platter 3 pcs."
+msgstr ""
+
+msgctxt "411||yoro_aburisimesaba||name_for_shop"
+msgid "Hand-selected Vinegar Mackerel"
+msgstr ""
+
+msgctxt "412||yoro_choregi||name_for_shop"
+msgid "Kotchori Salad"
+msgstr ""
+
+msgctxt "413||yoro_edamame||name_for_shop"
+msgid "Edamame"
+msgstr ""
+
+msgctxt "414||yoro_kushimori||name_for_shop"
+msgid "Skewer Platter"
+msgstr ""
+
+msgctxt "416||yoro_shishamo||name_for_shop"
+msgid "Smelt Fish with Roe"
+msgstr ""
+
+msgctxt "418||yoro_shioyakisoba||name_for_shop"
+msgid "Salted Yakisoba"
+msgstr ""
+
+msgctxt "419||yoro_menchikatsu||name_for_shop"
+msgid "Juicy Mince Cutlet"
+msgstr ""
+
+msgctxt "420||yoro_moyashi||name_for_shop"
+msgid "Stir-fried Bean Sprouts"
+msgstr ""
+
+msgctxt "422||ringer_chanpon||name_for_shop"
+msgid "Nagasaki Champon"
+msgstr ""
+
+msgctxt "423||ringer_yasai||name_for_shop"
+msgid "Vegetable Champon"
+msgstr ""
+
+msgctxt "424||ringer_pirikara||name_for_shop"
+msgid "Spicy Champon"
+msgstr ""
+
+msgctxt "426||ringer_sara||name_for_shop"
+msgid "Nagasaki Saraudon"
+msgstr ""
+
+msgctxt "427||ringer_yasaisara||name_for_shop"
+msgid "Vegetable Saraudon"
+msgstr ""
+
+msgctxt "428||ringer_hutosara||name_for_shop"
+msgid "Thick Saraudon"
+msgstr ""
+
+msgctxt "429||ringer_snacksara||name_for_shop"
+msgid "Light Saraudon"
+msgstr ""
+
+msgctxt "430||ringer_gyoza5||name_for_shop"
+msgid "Gyoza 5 pcs."
+msgstr ""
+
+msgctxt "434||sushiza_chirashidon||name_for_shop"
+msgid "Choice Chirashi Bowl"
+msgstr ""
+
+msgctxt "435||sushiza_magurodon||name_for_shop"
+msgid "Special Bluefin Tuna Bowl"
+msgstr ""
+
+msgctxt "436||sushiza_tokusen||name_for_shop"
+msgid "Special Sushi Zanmai"
+msgstr ""
+
+msgctxt "437||sushiza_magurozanmai||name_for_shop"
+msgid "Tuna Zanmai"
+msgstr ""
+
+msgctxt "442||ikinari_fillet||name_for_shop"
+msgid "Tenderloin Steak 200g"
+msgstr ""
+
+msgctxt "444||ikinari_ribulose||name_for_shop"
+msgid "Rib-eye Steak 300g"
+msgstr ""
+
+msgctxt "445||ikinari_sirloin||name_for_shop"
+msgid "Sirloin Steak 200g"
+msgstr ""
+
+msgctxt "449||oosaka_gyoza||name_for_shop"
+msgid "Original Fried Gyoza"
+msgstr ""
+
+msgctxt "450||oosaka_tenshinhan||name_for_shop"
+msgid "Soft and Creamy Crab Omelette on Rice"
+msgstr ""
+
+msgctxt "451||oosaka_gomoku||name_for_shop"
+msgid "Mixed Fried Rice"
+msgstr ""
+
+msgctxt "452||oosaka_chukasoba||name_for_shop"
+msgid "Ramen"
+msgstr ""
+
+msgctxt "454||oosaka_shisentantan||name_for_shop"
+msgid "Sichuan Dandan Noodles"
+msgstr ""
+
+msgctxt "455||oosaka_yakisoba||name_for_shop"
+msgid "Chinese Yakisoba"
+msgstr ""
+
+msgctxt "456||oosaka_ebichili||name_for_shop"
+msgid "Shrimp in Chili Sauce"
+msgstr ""
+
+msgctxt "457||oosaka_chinjaorosu||name_for_shop"
+msgid "Pork Pepper Steak"
+msgstr ""
+
+msgctxt "458||oosaka_rebanira||name_for_shop"
+msgid "Stir-fried Liver and Onion"
+msgstr ""
+
+msgctxt "459||oosaka_subuta||name_for_shop"
+msgid "Sweet and Sour Pork"
+msgstr ""
+
+msgctxt "460||oosaka_hoikoro||name_for_shop"
+msgid "Twice-cooked Pork"
+msgstr ""
+
+msgctxt "461||oosaka_mabo||name_for_shop"
+msgid "Mapo Tofu"
+msgstr ""
+
+msgctxt "462||oosaka_banbanji||name_for_shop"
+msgid "Banbanji Chicken Salad"
+msgstr ""
+
+msgctxt "463||oosaka_gomadango||name_for_shop"
+msgid "Sesame Dumplings"
+msgstr ""
+
+msgctxt "469||caba_champagnegold||name_for_shop"
+msgid "Gold Champagne"
+msgstr ""
+
+msgctxt "470||caba_champagnerose||name_for_shop"
+msgid "Rosé Champagne"
+msgstr ""
+
+msgctxt "471||caba_champagneblack||name_for_shop"
+msgid "Black Champagne"
+msgstr ""
+
+msgctxt "473||caba_beer||name_for_shop"
+msgid "Draft Beer"
+msgstr ""
+
+msgctxt "474||caba_cassisorange||name_for_shop"
+msgid "Cassis Orange"
+msgstr ""
+
+msgctxt "475||caba_orangejuice||name_for_shop"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "476||caba_water||name_for_shop"
+msgid "Water"
+msgstr ""
+
+msgctxt "477||drink_ccremon||name_for_shop"
+msgid "C.C. Lemon"
+msgstr ""
+
+msgctxt "478||drink_dekabita||name_for_shop"
+msgid "Dekavita C"
+msgstr ""
+
+msgctxt "480||drink_iemon||name_for_shop"
+msgid "Iyemon Tokucha Green Tea"
+msgstr ""
+
+msgctxt "482||drink_kurouron||name_for_shop"
+msgid "Suntory Black Oolong Tea"
+msgstr ""
+
+msgctxt "483||drink_uron||name_for_shop"
+msgid "Suntory Oolong Tea"
+msgstr ""
+
+msgctxt "484||drink_reinbo||name_for_shop"
+msgid "BOSS Rainbow Mountain"
+msgstr ""
+
+msgctxt "485||drink_bosu_bito||name_for_shop"
+msgid "BOSS Light Sugar"
+msgstr ""
+
+msgctxt "486||drink_bosu_muto||name_for_shop"
+msgid "BOSS Black"
+msgstr ""
+
+msgctxt "489||drink_dakara||name_for_shop"
+msgid "GREEN DAKARA"
+msgstr ""
+
+msgctxt "490||drink_mizu_minami||name_for_shop"
+msgid "Suntory Mineral Water (S. Alps)"
+msgstr ""
+
+msgctxt "491||drink_mizu_oku||name_for_shop"
+msgid "Suntory Mineral Water (Okudaisen)"
+msgstr ""
+
+msgctxt "497||drink_kora||name_for_shop"
+msgid "Muscle Soda"
+msgstr ""
+
+msgctxt "498||drink_aomidori||name_for_shop"
+msgid "Aomidorijiru"
+msgstr ""
+
+msgctxt "499||drink_sukusuku||name_for_shop"
+msgid "Sukusuku Au Lait"
+msgstr ""
+
+msgctxt "500||drink_sengoku||name_for_shop"
+msgid "Sengoku Coffee"
+msgstr ""
+
+msgctxt "501||drink_shoryu||name_for_shop"
+msgid "Shoryu Beer"
+msgstr ""
+
+msgctxt "502||drink_koryu||name_for_shop"
+msgid "Kouryu Beer"
+msgstr ""
+
+msgctxt "503||drink_kiwami||name_for_shop"
+msgid "Power Drink"
+msgstr ""
+
+msgctxt "504||drink_bitamin_enaji||name_for_shop"
+msgid "Vitamin C Energy Drink"
+msgstr ""
+
+msgctxt "505||drink_gurepu_500||name_for_shop"
+msgid "Grape (500 ml)"
+msgstr ""
+
+msgctxt "506||drink_gurepu||name_for_shop"
+msgid "Grape"
+msgstr ""
+
+msgctxt "507||drink_saida||name_for_shop"
+msgid "Lemon-lime Soda"
+msgstr ""
+
+msgctxt "508||drink_howaitosoda||name_for_shop"
+msgid "White Soda"
+msgstr ""
+
+msgctxt "509||drink_remon||name_for_shop"
+msgid "Lemon Squash"
+msgstr ""
+
+msgctxt "510||drink_mikan||name_for_shop"
+msgid "Mandarin Orange 100% Juice"
+msgstr ""
+
+msgctxt "511||drink_koiocha_500||name_for_shop"
+msgid "Rich Tea (500 ml)"
+msgstr ""
+
+msgctxt "512||drink_koiocha||name_for_shop"
+msgid "Rich Tea (280 ml)"
+msgstr ""
+
+msgctxt "513||drink_ocha||name_for_shop"
+msgid "Tea"
+msgstr ""
+
+msgctxt "514||drink_houjicha_500||name_for_shop"
+msgid "Hoji-cha (500 ml)"
+msgstr ""
+
+msgctxt "515||drink_houjicha||name_for_shop"
+msgid "Hoji-cha (280 ml)"
+msgstr ""
+
+msgctxt "516||drink_genmaicha_500||name_for_shop"
+msgid "Genmai-cha (500 ml)"
+msgstr ""
+
+msgctxt "517||drink_genmaicha||name_for_shop"
+msgid "Genmai-cha (280 ml)"
+msgstr ""
+
+msgctxt "518||drink_meron||name_for_shop"
+msgid "Tropical Ultra Melon"
+msgstr ""
+
+msgctxt "519||drink_kafemoka||name_for_shop"
+msgid "Coffee Moca"
+msgstr ""
+
+msgctxt "520||drink_rakki||name_for_shop"
+msgid "Lucky Soda"
+msgstr ""
+
+msgctxt "521||drink_poseidon||name_for_shop"
+msgid "Poseidon Power"
+msgstr ""
+
+msgctxt "522||drink_kuriamarin||name_for_shop"
+msgid "Clear Marine"
+msgstr ""
+
+msgctxt "523||drink_yukidoke||name_for_shop"
+msgid "Forest Meltwater"
+msgstr ""
+
+msgctxt "524||fujisoba_yuzudori||name_for_shop"
+msgid "Yuzu Chicken & Spinach Soba"
+msgstr ""
+
+msgctxt "525||wette_burgar||name_for_shop"
+msgid "Wette Burger"
+msgstr ""
+
+msgctxt "526||wette_eggburgar||name_for_shop"
+msgid "Wette Egg Burger"
+msgstr ""
+
+msgctxt "528||wette_onionring||name_for_shop"
+msgid "Onion Ring"
+msgstr ""
+
+msgctxt "529||wette_tomatoonion||name_for_shop"
+msgid "Tomato Onion Soup"
+msgstr ""
+
+msgctxt "530||wette_originalcoffee||name_for_shop"
+msgid "Wette Original Coffee"
+msgstr ""
+
+msgctxt "531||wette_icelemontea||name_for_shop"
+msgid "Iced Lemon Tea"
+msgstr ""
+
+msgctxt "532||imuraya_niku||name_for_shop"
+msgid "Imuraya Steamed Bun"
+msgstr ""
+
+msgctxt "533||imuraya_an||name_for_shop"
+msgid "Imuraya Bean Paste Bun"
+msgstr ""
+
+msgctxt "534||imuraya_pizza||name_for_shop"
+msgid "Imuraya Pizza Bun"
+msgstr ""
+
+msgctxt "535||imuraya_goldniku||name_for_shop"
+msgid "Imuraya Gold Steamed Bun"
+msgstr ""
+
+msgctxt "536||imuraya_goldpizza||name_for_shop"
+msgid "Imuraya Gold Pizza Bun"
+msgstr ""
+
+msgctxt "537||darts_beginner||name_for_shop"
+msgid "Beginner Darts"
+msgstr ""
+
+msgctxt "538||darts_middle||name_for_shop"
+msgid "Intermediate Darts"
+msgstr ""
+
+msgctxt "539||darts_advanced||name_for_shop"
+msgid "Expert Darts"
+msgstr ""
+
+msgctxt "540||darts_paullim||name_for_shop"
+msgid "Paul Lim's Darts"
+msgstr ""
+
+msgctxt "541||catfood01||name_for_shop"
+msgid "Homestyle Chicken Cat Food"
+msgstr ""
+
+msgctxt "542||catfood02||name_for_shop"
+msgid "Miso Crispy Beef Cat Food"
+msgstr ""
+
+msgctxt "543||catfood03||name_for_shop"
+msgid "Fresh Tuna Cat Food"
+msgstr ""
+
+msgctxt "544||catfood04||name_for_shop"
+msgid "Cheese Salmon Paté Cat Food"
+msgstr ""
+
+msgctxt "545||catfood05||name_for_shop"
+msgid "White Fish and Sardine Cat Food"
+msgstr ""
+
+msgctxt "546||catfood06||name_for_shop"
+msgid "Bonito Flake Cat Food"
+msgstr ""
+
+msgctxt "547||catfood10||name_for_shop"
+msgid "Gold Tuna Cat Food"
+msgstr ""
+
+msgctxt "548||risingwave||name_for_shop"
+msgid "RISINGWAVE Zero Black"
+msgstr ""
+
+msgctxt "549||ikinari_wildsteak||name_for_shop"
+msgid "Wild Steak 300g"
+msgstr ""
+
+msgctxt "550||ikinari_wildhamburg||name_for_shop"
+msgid "Wild Hamburg Steak 300g"
+msgstr ""
+
+msgctxt "551||ikinari_salada||name_for_shop"
+msgid "Salad"
+msgstr ""
+
+msgctxt "552||ikinari_soup||name_for_shop"
+msgid "Soup"
+msgstr ""
+
+msgctxt "553||smile_smileburgar||name_for_shop"
+msgid "Smile Burger"
+msgstr ""
+
+msgctxt "554||sushiza_uniikuradon||name_for_shop"
+msgid "Uni Ikura Bowl"
+msgstr ""
+
+msgctxt "555||sushiza_uruoi||name_for_shop"
+msgid "Uruoi Set"
+msgstr ""
+
+msgctxt "556||yonetoku_toritoku||name_for_shop"
+msgid "Toritoku Yakitori Set"
+msgstr ""
+
+msgctxt "558||ringer_genen||name_for_shop"
+msgid "Reduced Sodium Champon"
+msgstr ""
+
+msgctxt "559||ringer_yasaisoup||name_for_shop"
+msgid "Veggie-filled Soup"
+msgstr ""
+
+msgctxt "560||ringer_chapolitan||name_for_shop"
+msgid "Napolitan Champon"
+msgstr ""
+
+msgctxt "561||ringer_charhan||name_for_shop"
+msgid "Fried Rice"
+msgstr ""
+
+msgctxt "562||juuman_chukasoba||name_for_shop"
+msgid "Onomichi Ramen"
+msgstr ""
+
+msgctxt "563||juuman_chukasoba_big||name_for_shop"
+msgid "Large Onomichi Ramen"
+msgstr ""
+
+msgctxt "564||juuman_matayaki||name_for_shop"
+msgid "Chashu Onomichi Ramen"
+msgstr ""
+
+msgctxt "565||juuman_matayaki_big||name_for_shop"
+msgid "Large Chashu Onomichi Ramen"
+msgstr ""
+
+msgctxt "566||juuman_karaageset||name_for_shop"
+msgid "Chicken Karaage Set"
+msgstr ""
+
+msgctxt "567||juuman_karaage||name_for_shop"
+msgid "Chicken Karaage"
+msgstr ""
+
+msgctxt "568||juuman_rice||name_for_shop"
+msgid "Rice"
+msgstr ""
+
+msgctxt "569||juuman_musubi2||name_for_shop"
+msgid "Onigiri (2pcs)"
+msgstr ""
+
+msgctxt "570||juuman_inari2||name_for_shop"
+msgid "Inari Sushi (2pcs)"
+msgstr ""
+
+msgctxt "571||juuman_egg||name_for_shop"
+msgid "Boiled Egg"
+msgstr ""
+
+msgctxt "572||gindaco_teritama||name_for_shop"
+msgid "Teriyaki and Egg"
+msgstr ""
+
+msgctxt "573||gindaco_cheesepepper||name_for_shop"
+msgid "Delicious Cheese Pepper"
+msgstr ""
+
+msgctxt "574||gindaco_tacoavocado||name_for_shop"
+msgid "Octopus and Avocado with Yuzu Pepper"
+msgstr ""
+
+msgctxt "575||gindaco_tacokara||name_for_shop"
+msgid "Spicy Deep-fried Octopus"
+msgstr ""
+
+msgctxt "576||gindaco_potatosourcream||name_for_shop"
+msgid "Sour Cream Fries"
+msgstr ""
+
+msgctxt "577||gindaco_tubokyu||name_for_shop"
+msgid "Cucumber Pot"
+msgstr ""
+
+msgctxt "578||gindaco_kakuhai||name_for_shop"
+msgid "The Kaku Highball"
+msgstr ""
+
+msgctxt "579||gindaco_yamahai||name_for_shop"
+msgid "Yamazaki Highball"
+msgstr ""
+
+msgctxt "580||gindaco_bloodorange||name_for_shop"
+msgid "Blood Orange Highball"
+msgstr ""
+
+msgctxt "581||gindaco_ginbeam||name_for_shop"
+msgid "Jim Beam Highball"
+msgstr ""
+
+msgctxt "582||gindaco_citruslemon||name_for_shop"
+msgid "Citrus Lemon Highball"
+msgstr ""
+
+msgctxt "583||food_oden||name_for_shop"
+msgid "Oden"
+msgstr ""
+
+msgctxt "584||food_konbuonigiri||name_for_shop"
+msgid "Seaweed Onigiri"
+msgstr ""
+
+msgctxt "585||food_tsunaonigiri||name_for_shop"
+msgid "Tuna Onigiri"
+msgstr ""
+
+msgctxt "586||food_shakeonigiri||name_for_shop"
+msgid "Salmon Onigiri"
+msgstr ""
+
+msgctxt "587||food_makunouchi||name_for_shop"
+msgid "Bento Lunch Set"
+msgstr ""
+
+msgctxt "588||food_yakisoba||name_for_shop"
+msgid "Special Yakisoba"
+msgstr ""
+
+msgctxt "589||food_tonkatsu||name_for_shop"
+msgid "Bento Lunch Set (Pork)"
+msgstr ""
+
+msgctxt "590||food_healthybento||name_for_shop"
+msgid "Healthy Balanced Bento"
+msgstr ""
+
+msgctxt "591||food_yakinikubento||name_for_shop"
+msgid "Luxury Yakiniku Bento"
+msgstr ""
+
+msgctxt "592||food_sushidume||name_for_shop"
+msgid "Sushi Set"
+msgstr ""
+
+msgctxt "593||food_freshlettucesand||name_for_shop"
+msgid "Fresh Lettuce Sandwich"
+msgstr ""
+
+msgctxt "594||food_tsunaeggsand||name_for_shop"
+msgid "Tuna & Egg Sandwich"
+msgstr ""
+
+msgctxt "595||rizap_muscle||name_for_shop"
+msgid "MUSCLE"
+msgstr ""
+
+msgctxt "596||rizap_fibax||name_for_shop"
+msgid "FIBAX"
+msgstr ""
+
+msgctxt "597||rizap_limit+||name_for_shop"
+msgid "LIMIT+"
+msgstr ""
+
+msgctxt "598||rizap_burn+||name_for_shop"
+msgid "BURN+"
+msgstr ""
+
+msgctxt "599||rizap_quick burner||name_for_shop"
+msgid "QUICK BURNER"
+msgstr ""
+
+msgctxt "600||exp_manju_muscle||name_for_shop"
+msgid "Red Bun"
+msgstr ""
+
+msgctxt "601||exp_manju_quickness||name_for_shop"
+msgid "Blue Bun"
+msgstr ""
+
+msgctxt "602||exp_manju_guts||name_for_shop"
+msgid "Orange Bun"
+msgstr ""
+
+msgctxt "603||exp_manju_technique||name_for_shop"
+msgid "Green Bun"
+msgstr ""
+
+msgctxt "604||exp_manju_charm||name_for_shop"
+msgid "Purple Bun"
+msgstr ""
+
+msgctxt "605||exp_manju_all||name_for_shop"
+msgid "Rainbow Bun"
+msgstr ""
+
+msgctxt "606||pocket_tissue||name_for_shop"
+msgid "Pocket Tissues"
+msgstr ""
+
+msgctxt "607||drifters_ryuboku_ex||name_for_shop"
+msgid "Beautiful Driftwood"
+msgstr ""
+
+msgctxt "608||drifters_ryuboku_ss||name_for_shop"
+msgid "Small Driftwood"
+msgstr ""
+
+msgctxt "609||drifters_ryuboku_ll||name_for_shop"
+msgid "Large Driftwood"
+msgstr ""
+
+msgctxt "610||drifters_ryuboku_ltn||name_for_shop"
+msgid "Decayed Driftwood"
+msgstr ""
+
+msgctxt "611||drifters_shell_ex||name_for_shop"
+msgid "Beautiful Seashell"
+msgstr ""
+
+msgctxt "612||drifters_shell_dmg||name_for_shop"
+msgid "Broken Seashell"
+msgstr ""
+
+msgctxt "613||drifters_shell_ss||name_for_shop"
+msgid "Small Seashell"
+msgstr ""
+
+msgctxt "614||drifters_buoy||name_for_shop"
+msgid "Buoy"
+msgstr ""
+
+msgctxt "615||drifters_dust||name_for_shop"
+msgid "Trash"
+msgstr ""
+
+msgctxt "616||drifters_wakame||name_for_shop"
+msgid "Seaweed"
+msgstr ""
+
+msgctxt "617||suba12_prepaid||name_for_shop"
+msgid "Prepaid Card"
+msgstr ""
+
+msgctxt "618||caba_salada||name_for_shop"
+msgid "Coleslaw Salad"
+msgstr ""
+
+msgctxt "619||caba_icecream||name_for_shop"
+msgid "Ice Cream"
+msgstr ""
+
+msgctxt "620||caba_hakusyu||name_for_shop"
+msgid "Hakushu 12 Years Old"
+msgstr ""
+
+msgctxt "621||caba_yasaistick||name_for_shop"
+msgid "Complimentary Vegetables"
+msgstr ""
+
+msgctxt "622||snack_yamazaki18||name_for_shop"
+msgid "Yamazaki 18 Years Old"
+msgstr ""
+
+msgctxt "623||snack_shochu||name_for_shop"
+msgid "Shochu"
+msgstr ""
+
+msgctxt "625||snack_nihonshu||name_for_shop"
+msgid "Sake"
+msgstr ""
+
+msgctxt "626||snack_redwine||name_for_shop"
+msgid "Red Wine"
+msgstr ""
+
+msgctxt "627||snack_whitewine||name_for_shop"
+msgid "White Wine"
+msgstr ""
+
+msgctxt "628||snack_orangejuice||name_for_shop"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "629||snack_water||name_for_shop"
+msgid "Water"
+msgstr ""
+
+msgctxt "630||necafe_card||name_for_shop"
+msgid "Internet Café Membership Card"
+msgstr ""
+
+msgctxt "637||book_muscle||name_for_shop"
+msgid "Strength Tome"
+msgstr ""
+
+msgctxt "638||book_quickness||name_for_shop"
+msgid "Agility Tome"
+msgstr ""
+
+msgctxt "639||book_technique||name_for_shop"
+msgid "Technique Tome"
+msgstr ""
+
+msgctxt "640||book_charm||name_for_shop"
+msgid "Charm Tome"
+msgstr ""
+
+msgctxt "641||book_guts||name_for_shop"
+msgid "Spirit Tome"
+msgstr ""
+
+msgctxt "642||drink_nihonshu||name_for_shop"
+msgid "Sake"
+msgstr ""
+
+msgctxt "643||suntory_kakubin||name_for_shop"
+msgid "Kakubin"
+msgstr ""
+
+msgctxt "644||suntory_maltz||name_for_shop"
+msgid "The Premium Malt's Master's Dream"
+msgstr ""
+
+msgctxt "645||acecook_supertori||name_for_shop"
+msgid "Super Cup Soy Sauce Chicken Broth"
+msgstr ""
+
+msgctxt "646||acecook_superika||name_for_shop"
+msgid "Super Cup Extra Large Squid Yakisoba"
+msgstr ""
+
+msgctxt "647||acecook_janjan||name_for_shop"
+msgid "JAN JAN Sauce Yakisoba"
+msgstr ""
+
+msgctxt "648||acecook_wakame||name_for_shop"
+msgid "Wakame Ramen"
+msgstr ""
+
+msgctxt "649||acecook_wantan||name_for_shop"
+msgid "Soup Harusame: Wonton"
+msgstr ""
+
+msgctxt "650||acecook_foo||name_for_shop"
+msgid "Chicken Broth Pho"
+msgstr ""
+
+msgctxt "652||spearfishing_standard||name_for_shop"
+msgid "Standard Speargun"
+msgstr ""
+
+msgctxt "654||spearfishing_stronger||name_for_shop"
+msgid "High-impact Speargun"
+msgstr ""
+
+msgctxt "655||spearfishing_pluscharge||name_for_shop"
+msgid "High-capacity Speargun"
+msgstr ""
+
+msgctxt "656||spearfishing_standard_miss||name_for_shop"
+msgid "Modded Speargun"
+msgstr ""
+
+msgctxt "658||spearfishing_stronger_g||name_for_shop"
+msgid "Kiwami Speargun"
+msgstr ""
+
+msgctxt "659||spearfishing_pluscharge_g||name_for_shop"
+msgid "Ahab's Revenge"
+msgstr ""
+
+msgctxt "661||caba_meishi_sora||name_for_shop"
+msgid "Sora's Business Card"
+msgstr ""
+
+msgctxt "662||caba_meishi_hikaru||name_for_shop"
+msgid "Hikaru's Business Card"
+msgstr ""
+
+msgctxt "663||caba_meishi_riona||name_for_shop"
+msgid "Riona's Business Card"
+msgstr ""
+
+msgctxt "664||caba_meishi_saki||name_for_shop"
+msgid "Saki's Business Card"
+msgstr ""
+
+msgctxt "665||caba_meishi_erina||name_for_shop"
+msgid "Erina's Business Card"
+msgstr ""
+
+msgctxt "666||snack_maltz||name_for_shop"
+msgid "The Premium Malt's"
+msgstr ""
+
+msgctxt "667||bar_h12||name_for_shop"
+msgid "Hakushu 12 Years Old"
+msgstr ""
+
+msgctxt "668||bar_mccarran30||name_for_shop"
+msgid "The Macallan 30 Years Old"
+msgstr ""
+
+msgctxt "669||bar_hibiki30||name_for_shop"
+msgid "Hibiki 30 Years Old"
+msgstr ""
+
+msgctxt "670||bar_hibiki17||name_for_shop"
+msgid "Hibiki 17 Years Old"
+msgstr ""
+
+msgctxt "671||bar_ballantyne30||name_for_shop"
+msgid "Ballantine's 30 Years Old"
+msgstr ""
+
+msgctxt "672||dish_platinum||name_for_shop"
+msgid "Platinum Plate"
+msgstr ""
+
+msgctxt "673||dish_gold||name_for_shop"
+msgid "Gold Plate"
+msgstr ""
+
+msgctxt "674||dish_silver||name_for_shop"
+msgid "Silver Plate"
+msgstr ""
+
+msgctxt "675||dish_copper||name_for_shop"
+msgid "Bronze Plate"
+msgstr ""
+
+msgctxt "676||dish_iron||name_for_shop"
+msgid "Iron Plate"
+msgstr ""
+
+msgctxt "677||dish_paper||name_for_shop"
+msgid "Paper Plate"
+msgstr ""
+
+msgctxt "678||suba03_harukabromide||name_for_shop"
+msgid "Haruka's Bromide"
+msgstr ""
+
+msgctxt "679||suba03_haruka_illust||name_for_shop"
+msgid "Drawing of Haruka"
+msgstr ""
+
+msgctxt "682||yoro_shichiria||name_for_shop"
+msgid "Cassata"
+msgstr ""
+
+msgctxt "683||quadra_cappuccino||name_for_shop"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "684||quadra_espresso||name_for_shop"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "685||quadra_milktea||name_for_shop"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "686||quadra_chococake||name_for_shop"
+msgid "Chocolate Cake"
+msgstr ""
+
+msgctxt "687||quadra_cheesecake||name_for_shop"
+msgid "Cheesecake"
+msgstr ""
+
+msgctxt "688||quadra_sandwich||name_for_shop"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "689||quadra_croissant||name_for_shop"
+msgid "Croissant"
+msgstr ""
+
+msgctxt "690||quadra_toast||name_for_shop"
+msgid "Toast"
+msgstr ""
+
+msgctxt "691||subb06_michio_cd||name_for_shop"
+msgid "Ono Michio's CD Sample"
+msgstr ""
+
+msgctxt "692||subb07_michio_illust||name_for_shop"
+msgid "Drawing of Michio"
+msgstr ""
+
+msgctxt "693||picture_kuhi01||name_for_shop"
+msgid "Poem Picture 1"
+msgstr ""
+
+msgctxt "694||picture_kuhi02||name_for_shop"
+msgid "Poem Picture 2"
+msgstr ""
+
+msgctxt "695||picture_kuhi03||name_for_shop"
+msgid "Poem Picture 3"
+msgstr ""
+
+msgctxt "696||picture_kuhi04||name_for_shop"
+msgid "Poem Picture 4"
+msgstr ""
+
+msgctxt "697||picture_kuhi05||name_for_shop"
+msgid "Poem Picture 5"
+msgstr ""
+
+msgctxt "698||picture_kuhi06||name_for_shop"
+msgid "Poem Picture 6"
+msgstr ""
+
+msgctxt "699||picture_kuhi07||name_for_shop"
+msgid "Poem Picture 7"
+msgstr ""
+
+msgctxt "700||picture_kuhi08||name_for_shop"
+msgid "Poem Picture 8"
+msgstr ""
+
+msgctxt "701||picture_kuhi09||name_for_shop"
+msgid "Poem Picture 9"
+msgstr ""
+
+msgctxt "702||memo_ango||name_for_shop"
+msgid "Memo of the Code"
+msgstr ""
+
+msgctxt "703||suba11_reicopicture01||name_for_shop"
+msgid "Selfie Photo 1"
+msgstr ""
+
+msgctxt "704||suba11_reicopicture02||name_for_shop"
+msgid "Selfie Photo 2"
+msgstr ""
+
+msgctxt "705||suba11_reicopicture03||name_for_shop"
+msgid "Selfie Photo 3"
+msgstr ""
+
+msgctxt "706||safe_key01||name_for_shop"
+msgid "Safe Key Found on Tenkaichi Street"
+msgstr ""
+
+msgctxt "707||safe_key02||name_for_shop"
+msgid "Safe Key Found on West Taihei Boulevard"
+msgstr ""
+
+msgctxt "708||safe_key03||name_for_shop"
+msgid "Safe Key Found at Yoshida Batting Center"
+msgstr ""
+
+msgctxt "709||safe_key04||name_for_shop"
+msgid "Safe Key Found in Nakamichi Alley"
+msgstr ""
+
+msgctxt "710||safe_key05||name_for_shop"
+msgid "Safe Key Found on Senryo Avenue"
+msgstr ""
+
+msgctxt "711||safe_key06||name_for_shop"
+msgid "Safe Key Found at Jingai Ferry Dock"
+msgstr ""
+
+msgctxt "712||safe_key07||name_for_shop"
+msgid "Safe Key Found on Pedestrian Bridge"
+msgstr ""
+
+msgctxt "713||safe_key08||name_for_shop"
+msgid "Safe Key Found on Second Hill"
+msgstr ""
+
+msgctxt "714||safe_key09||name_for_shop"
+msgid "Safe Key Found at Hana-no-kubo"
+msgstr ""
+
+msgctxt "715||safe_key10||name_for_shop"
+msgid "Safe Key Found at Central Shopping District"
+msgstr ""
+
+msgctxt "716||shinrei_goods01||name_for_shop"
+msgid "Photo of Osamu Kashiwagi"
+msgstr ""
+
+msgctxt "717||shinrei_goods02||name_for_shop"
+msgid "Photo of Shintaro Kazama"
+msgstr ""
+
+msgctxt "718||shinrei_goods03||name_for_shop"
+msgid "Photo of Akira Nishikiyama"
+msgstr ""
+
+msgctxt "719||shinrei_goods04||name_for_shop"
+msgid "Photo of Yoshitaka Mine"
+msgstr ""
+
+msgctxt "720||shinrei_goods05||name_for_shop"
+msgid "Photo of Sohei Dojima"
+msgstr ""
+
+msgctxt "721||shinrei_goods06||name_for_shop"
+msgid "Photo of Shinji Tanaka"
+msgstr ""
+
+msgctxt "722||shinrei_goods07||name_for_shop"
+msgid "Photo of Yumi Sawamura"
+msgstr ""
+
+msgctxt "723||shinrei_goods08||name_for_shop"
+msgid "Photo of Lau Ka Long"
+msgstr ""
+
+msgctxt "724||shinrei_goods09||name_for_shop"
+msgid "Photo of Masaru Ihara"
+msgstr ""
+
+msgctxt "725||shinrei_goods10||name_for_shop"
+msgid "Photo of Yoshinobu Tokugawa"
+msgstr ""
+
+msgctxt "726||bracelet_ghost||name_for_shop"
+msgid "Beads of Exorcism"
+msgstr ""
+
+msgctxt "727||finder_ufo||name_for_shop"
+msgid "UFO Finder"
+msgstr ""
+
+msgctxt "728||amulet_parry||name_for_shop"
+msgid "Parry Talisman"
+msgstr ""
+
+msgctxt "730||amulet_tosin||name_for_shop"
+msgid "War God Talisman"
+msgstr ""
+
+msgctxt "731||staminan_d||name_for_shop"
+msgid "Staminan Royale (Bonus Item)"
+msgstr ""
+
+msgctxt "89||bracelet_red||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "90||bracelet_black||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "91||bracelet_white||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "92||bracelet_blue||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "93||bracelet_leather||special_explanation"
+msgid "Increases hostess\r\naffection rate by 5%."
+msgstr ""
+
+msgctxt "94||bracelet_luck||special_explanation"
+msgid "Decreases probability of\r\ngetting into a fight."
+msgstr ""
+
+msgctxt "95||bracelet_sp_red||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "96||bracelet_sp_blk||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "97||bracelet_sp_wht||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "98||bracelet_sp_blu||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "99||bracelet_so_max||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "100||mouthguard||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "101||mouthguard_sp||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "102||mouthguard_max||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "103||sarashi_asagao||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "104||sarashi||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "105||sarashi_kenka||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "106||sarashi_kyou||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "107||sarashi_chizome||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "108||sarashi_dragon||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "109||vest_bltproof||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "110||vest_bltproof_sp||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "111||vest_knfproof||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "112||vest_knfproof_sp||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "113||vest_max||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "114||chainmail_lw||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "115||chainmail||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "116||chainmail_bloody||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "117||belt_vinyl||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "118||belt_cowhide||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "119||belt_stamina||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "120||belt_sotmack||special_explanation"
+msgid "Increases digestion by 10%."
+msgstr ""
+
+msgctxt "121||belt_highbland||special_explanation"
+msgid "Increases hostess\r\naffection rate by 5%."
+msgstr ""
+
+msgctxt "122||insole||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "123||insole_sp||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "124||insole_max||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "125||amulet_health||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "126||amulet_traffic||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "127||amulet_luck||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "128||amulet_journey||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "129||amulet_love||special_explanation"
+msgid "Increases hostess\r\naffection rate by 5%."
+msgstr ""
+
+msgctxt "130||photo_charisma||special_explanation"
+msgid "Increases probability of\r\ngetting into a fight."
+msgstr ""
+
+msgctxt "131||photo_asagao||special_explanation"
+msgid "Decreases probability of\r\ngetting into a fight."
+msgstr ""
+
+msgctxt "132||eye_ofthe_dragon||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "133||amulet_dragon||special_explanation"
+msgid "Increases Heat gain by 10%\r\nwhen near death."
+msgstr ""
+
+msgctxt "134||underwear_white||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "135||underwear_boxer||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "136||underwear_trunks||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "137||underwear_boomerang||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "138||hundoshi_6shaku||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "139||hundoshi_ecchu||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "140||underwear_iron||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "141||hundoshi_bloody||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "142||gypsum_wrist||special_explanation"
+msgid "Increases digestion by 10%.\r\nIncreases EXP gain by 10%."
+msgstr ""
+
+msgctxt "143||gypsum_ankle||special_explanation"
+msgid "Increases digestion by 10%.\r\nIncreases EXP gain by 10%."
+msgstr ""
+
+msgctxt "144||gypsum_gokudo||special_explanation"
+msgid "Increases digestion by 30%.\r\nIncreases EXP gain by 30%."
+msgstr ""
+
+msgctxt "146||finder_substory||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "147||finder_safe||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "548||risingwave||special_explanation"
+msgid "Increases hostess\r\naffection rate by 5%."
+msgstr ""
+
+msgctxt "726||bracelet_ghost||special_explanation"
+msgid "None"
+msgstr ""
+
+msgctxt "728||amulet_parry||special_explanation"
+msgid "Allows you to parry\r\nalmost any attack."
+msgstr ""
+
+msgctxt "730||amulet_tosin||special_explanation"
+msgid "Increases your Heat Gauge\r\nat all times."
+msgstr ""
+

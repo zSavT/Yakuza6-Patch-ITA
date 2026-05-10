@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "4||drop_kick||name"
+msgid "Dropkick"
+msgstr ""
+
+msgctxt "5||drop_kick_kiwami||name"
+msgid "Ultimate Dropkick"
+msgstr ""
+
+msgctxt "6||diving_head||name"
+msgid "Diving Head"
+msgstr ""
+
+msgctxt "7||diving_head_kiwami||name"
+msgid "Ultimate Diving Head"
+msgstr ""
+
+msgctxt "8||stun_kick||name"
+msgid "Stun Kick"
+msgstr ""
+
+msgctxt "9||stun_kick_kiwami||name"
+msgid "Ultimate Stun Kick"
+msgstr ""
+
+msgctxt "10||kaiten_lariat||name"
+msgid "Spinning Lariat"
+msgstr ""
+
+msgctxt "11||kaiten_lariat_kiwami||name"
+msgid "Ultimate Lariat"
+msgstr ""
+
+msgctxt "12||bakugeki||name"
+msgid "Essence of Grenade"
+msgstr ""
+
+msgctxt "13||Healing||name"
+msgid "Essence of Healing"
+msgstr ""
+
+msgctxt "14||Healing_kiwami||name"
+msgid "True Essence of Healing"
+msgstr ""
+
+msgctxt "15||recovery||name"
+msgid "Essence of Recovery"
+msgstr ""
+
+msgctxt "16||offensive||name"
+msgid "Essence of Offense"
+msgstr ""
+
+msgctxt "17||tyouhatu_A||name"
+msgid "Essence of Vertical Taunt"
+msgstr ""
+
+msgctxt "18||tyouhatu_B||name"
+msgid "Essence of Horizontal Taunt"
+msgstr ""
+
+msgctxt "19||daisyuugou||name"
+msgid "Essence of Grand Gathering"
+msgstr ""
+
+msgctxt "20||bibirase||name"
+msgid "Essence of Surprise"
+msgstr ""
+
+msgctxt "21||muscleparty||name"
+msgid "Muscle Party"
+msgstr ""
+
+msgctxt "22||rain_maker||name"
+msgid "Rainmaker"
+msgstr ""
+
+msgctxt "23||Love_of_the_warrior||name"
+msgid "Warrior of Love"
+msgstr ""
+
+msgctxt "24||tranquilo||name"
+msgid "Tranquilo"
+msgstr ""
+
+msgctxt "25||ytr||name"
+msgid "YTR"
+msgstr ""
+
+msgctxt "26||violent_bull||name"
+msgid "Violent Bull"
+msgstr ""
+
+msgctxt "27||cozy_crash||name"
+msgid "Cozy Crash"
+msgstr ""
+
+msgctxt "28||rolling_slash||name"
+msgid "Demonfire Slash"
+msgstr ""
+
+msgctxt "29||gokurennki_daifugaku||name"
+msgid "Woodsman Chop"
+msgstr ""
+
+msgctxt "30||goutai||name"
+msgid "Essence of Stability"
+msgstr ""
+
+msgctxt "31||offensive_toujoukai||name"
+msgid "Sixth Chairman's Dignity"
+msgstr ""
+
+msgctxt "35||reserve03||name"
+msgid "Reserve 03"
+msgstr ""
+
+msgctxt "36||reserve04||name"
+msgid "Reserve 04"
+msgstr ""
+
+msgctxt "37||reserve05||name"
+msgid "Reserve 05"
+msgstr ""
+
+msgctxt "38||reserve06||name"
+msgid "Reserve 06"
+msgstr ""
+
+msgctxt "39||reserve07||name"
+msgid "Reserve 07"
+msgstr ""
+
+msgctxt "40||reserve08||name"
+msgid "Reserve 08"
+msgstr ""
+
+msgctxt "41||reserve09||name"
+msgid "Reserve 09"
+msgstr ""
+
+msgctxt "42||reserve10||name"
+msgid "Reserve 10"
+msgstr ""
+
+msgctxt "43||reserve11||name"
+msgid "Reserve 11"
+msgstr ""
+
+msgctxt "44||reserve12||name"
+msgid "Reserve 12"
+msgstr ""
+
+msgctxt "45||reserve13||name"
+msgid "Reserve 13"
+msgstr ""
+
+msgctxt "46||reserve14||name"
+msgid "Reserve 14"
+msgstr ""
+
+msgctxt "47||reserve15||name"
+msgid "Reserve 15"
+msgstr ""
+
+msgctxt "48||reserve16||name"
+msgid "Reserve 16"
+msgstr ""
+
+msgctxt "49||reserve17||name"
+msgid "Reserve 17"
+msgstr ""
+
+msgctxt "50||reserve18||name"
+msgid "Reserve 18"
+msgstr ""
+
+msgctxt "51||reserve19||name"
+msgid "Reserve 19"
+msgstr ""
+
+msgctxt "52||reserve20||name"
+msgid "Reserve 20"
+msgstr ""
+
+msgctxt "53||taigun_kiwami||name"
+msgid "Essence of Grand Army"
+msgstr ""
+
+msgctxt "54||rocket_launcher_kiwami||name"
+msgid "Ultimate Rocket Launcher"
+msgstr ""
+
+msgctxt "55||dojima_dragon||name"
+msgid "Dragon of Dojima"
+msgstr ""
+
+msgctxt "4||drop_kick||explanation"
+msgid "Inflict medium damage to enemies in range."
+msgstr ""
+
+msgctxt "5||drop_kick_kiwami||explanation"
+msgid "Inflict major damage to enemies in range."
+msgstr ""
+
+msgctxt "6||diving_head||explanation"
+msgid "Inflict medium damage to enemies in range."
+msgstr ""
+
+msgctxt "7||diving_head_kiwami||explanation"
+msgid "Inflict major damage to enemies in range."
+msgstr ""
+
+msgctxt "8||stun_kick||explanation"
+msgid "Inflict nominal damage and stun enemies in range."
+msgstr ""
+
+msgctxt "9||stun_kick_kiwami||explanation"
+msgid "Inflict small damage and stun enemies in range."
+msgstr ""
+
+msgctxt "10||kaiten_lariat||explanation"
+msgid "Inflict small damage to enemies in range."
+msgstr ""
+
+msgctxt "11||kaiten_lariat_kiwami||explanation"
+msgid "Inflict medium damage to enemies in range."
+msgstr ""
+
+msgctxt "12||bakugeki||explanation"
+msgid "Inflict major damage to enemies in range."
+msgstr ""
+
+msgctxt "13||Healing||explanation"
+msgid "Recover some health for all allies."
+msgstr ""
+
+msgctxt "14||Healing_kiwami||explanation"
+msgid "Recover medium health for all allies."
+msgstr ""
+
+msgctxt "15||recovery||explanation"
+msgid "Fully recover your own health."
+msgstr ""
+
+msgctxt "16||offensive||explanation"
+msgid "Increase the deployment gauge by 70."
+msgstr ""
+
+msgctxt "17||tyouhatu_A||explanation"
+msgid "Text copied from name. Bug."
+msgstr ""
+
+msgctxt "18||tyouhatu_B||explanation"
+msgid "Text copied from name. Bug."
+msgstr ""
+
+msgctxt "19||daisyuugou||explanation"
+msgid "Gather allies within range to your position."
+msgstr ""
+
+msgctxt "20||bibirase||explanation"
+msgid "Stun all enemies and restrict their movement."
+msgstr ""
+
+msgctxt "21||muscleparty||explanation"
+msgid "All allies take no damage for 10 seconds."
+msgstr ""
+
+msgctxt "22||rain_maker||explanation"
+msgid "Inflict tremendous damage and stun enemies in range."
+msgstr ""
+
+msgctxt "23||Love_of_the_warrior||explanation"
+msgid "Resurrect ally leaders and recover some health for all allies."
+msgstr ""
+
+msgctxt "24||tranquilo||explanation"
+msgid "Inflict tremendous damage and restrict movement of enemies in range."
+msgstr ""
+
+msgctxt "25||ytr||explanation"
+msgid "Throw grenades that inflict major damage to enemies in range."
+msgstr ""
+
+msgctxt "26||violent_bull||explanation"
+msgid "Inflict major damage to enemies in range."
+msgstr ""
+
+msgctxt "27||cozy_crash||explanation"
+msgid "Take no damage for 20 seconds."
+msgstr ""
+
+msgctxt "28||rolling_slash||explanation"
+msgid "Inflict major damage and stun enemies in range."
+msgstr ""
+
+msgctxt "29||gokurennki_daifugaku||explanation"
+msgid "Inflict major damage and stun enemies in range."
+msgstr ""
+
+msgctxt "30||goutai||explanation"
+msgid "All allies enter a state of frenzied attack for 10 seconds."
+msgstr ""
+
+msgctxt "31||offensive_toujoukai||explanation"
+msgid "Increase the deployment gauge by 150."
+msgstr ""
+
+msgctxt "35||reserve03||explanation"
+msgid "Reserve 03"
+msgstr ""
+
+msgctxt "36||reserve04||explanation"
+msgid "Reserve 04"
+msgstr ""
+
+msgctxt "37||reserve05||explanation"
+msgid "Reserve 05"
+msgstr ""
+
+msgctxt "38||reserve06||explanation"
+msgid "Reserve 06"
+msgstr ""
+
+msgctxt "39||reserve07||explanation"
+msgid "Reserve 07"
+msgstr ""
+
+msgctxt "40||reserve08||explanation"
+msgid "Reserve 08"
+msgstr ""
+
+msgctxt "41||reserve09||explanation"
+msgid "Reserve 09"
+msgstr ""
+
+msgctxt "42||reserve10||explanation"
+msgid "Reserve 10"
+msgstr ""
+
+msgctxt "43||reserve11||explanation"
+msgid "Reserve 11"
+msgstr ""
+
+msgctxt "44||reserve12||explanation"
+msgid "Reserve 12"
+msgstr ""
+
+msgctxt "45||reserve13||explanation"
+msgid "Reserve 13"
+msgstr ""
+
+msgctxt "46||reserve14||explanation"
+msgid "Reserve 14"
+msgstr ""
+
+msgctxt "47||reserve15||explanation"
+msgid "Reserve 15"
+msgstr ""
+
+msgctxt "48||reserve16||explanation"
+msgid "Reserve 16"
+msgstr ""
+
+msgctxt "49||reserve17||explanation"
+msgid "Reserve 17"
+msgstr ""
+
+msgctxt "50||reserve18||explanation"
+msgid "Reserve 18"
+msgstr ""
+
+msgctxt "51||reserve19||explanation"
+msgid "Reserve 19"
+msgstr ""
+
+msgctxt "52||reserve20||explanation"
+msgid "Reserve 20"
+msgstr ""
+
+msgctxt "53||taigun_kiwami||explanation"
+msgid "Deployment cost of your allies are halved for five seconds."
+msgstr ""
+
+msgctxt "54||rocket_launcher_kiwami||explanation"
+msgid "Inflict major damage on all combatants within range."
+msgstr ""
+
+msgctxt "55||dojima_dragon||explanation"
+msgid "All allies hit 50% harder for 10 seconds and suffer no knockback."
+msgstr ""
+

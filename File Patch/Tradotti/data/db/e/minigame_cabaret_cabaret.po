@@ -1,0 +1,1005 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "4||hostess||table||6||riona||select_name"
+msgid "Riona"
+msgstr ""
+
+msgctxt "4||hostess||table||7||saki||select_name"
+msgid "Saki"
+msgstr ""
+
+msgctxt "4||hostess||table||8||hikaru||select_name"
+msgid "Hikaru"
+msgstr ""
+
+msgctxt "4||hostess||table||9||erina||select_name"
+msgid "Erina"
+msgstr ""
+
+msgctxt "4||hostess||table||10||sora||select_name"
+msgid "Sora"
+msgstr ""
+
+msgctxt "4||hostess||table||6||riona||hobby"
+msgid "Beauty"
+msgstr ""
+
+msgctxt "4||hostess||table||7||saki||hobby"
+msgid "Fantasizing"
+msgstr ""
+
+msgctxt "4||hostess||table||8||hikaru||hobby"
+msgid "Tea parties"
+msgstr ""
+
+msgctxt "4||hostess||table||9||erina||hobby"
+msgid "Movies"
+msgstr ""
+
+msgctxt "4||hostess||table||10||sora||hobby"
+msgid "Cosplay"
+msgstr ""
+
+msgctxt "4||hostess||table||6||riona||skill"
+msgid "Presenting herself"
+msgstr ""
+
+msgctxt "4||hostess||table||7||saki||skill"
+msgid "Cooking"
+msgstr ""
+
+msgctxt "4||hostess||table||8||hikaru||skill"
+msgid "Shoulder massages"
+msgstr ""
+
+msgctxt "4||hostess||table||9||erina||skill"
+msgid "Eating and changing clothes"
+msgstr ""
+
+msgctxt "4||hostess||table||10||sora||skill"
+msgid "Imitating a horse's whinny"
+msgstr ""
+
+msgctxt "4||hostess||table||6||riona||favorite_food"
+msgid "Meat"
+msgstr ""
+
+msgctxt "4||hostess||table||7||saki||favorite_food"
+msgid "Monkfish liver"
+msgstr ""
+
+msgctxt "4||hostess||table||8||hikaru||favorite_food"
+msgid "Dried sweet potatoes and beef jerky"
+msgstr ""
+
+msgctxt "4||hostess||table||9||erina||favorite_food"
+msgid "Ramen"
+msgstr ""
+
+msgctxt "4||hostess||table||10||sora||favorite_food"
+msgid "Ramen and glass noodles"
+msgstr ""
+
+msgctxt "4||hostess||table||6||riona||favorite_music"
+msgid "Western music"
+msgstr ""
+
+msgctxt "4||hostess||table||7||saki||favorite_music"
+msgid "Love songs"
+msgstr ""
+
+msgctxt "4||hostess||table||8||hikaru||favorite_music"
+msgid "Rock"
+msgstr ""
+
+msgctxt "4||hostess||table||9||erina||favorite_music"
+msgid "Rock"
+msgstr ""
+
+msgctxt "4||hostess||table||10||sora||favorite_music"
+msgid "Anime songs"
+msgstr ""
+
+msgctxt "4||hostess||table||6||riona||like_type"
+msgid "Sexy guys"
+msgstr ""
+
+msgctxt "4||hostess||table||7||saki||like_type"
+msgid "People built like gorillas"
+msgstr ""
+
+msgctxt "4||hostess||table||8||hikaru||like_type"
+msgid "Kind people"
+msgstr ""
+
+msgctxt "4||hostess||table||9||erina||like_type"
+msgid "Quiet and intelligent men"
+msgstr ""
+
+msgctxt "4||hostess||table||10||sora||like_type"
+msgid "Serious people"
+msgstr ""
+
+msgctxt "4||hostess||table||6||riona||dream"
+msgid "Ex-hostess TV personality"
+msgstr ""
+
+msgctxt "4||hostess||table||7||saki||dream"
+msgid "Becoming a wife"
+msgstr ""
+
+msgctxt "4||hostess||table||8||hikaru||dream"
+msgid "Becoming an idol"
+msgstr ""
+
+msgctxt "4||hostess||table||9||erina||dream"
+msgid "Starring in a movie"
+msgstr ""
+
+msgctxt "4||hostess||table||10||sora||dream"
+msgid "Succeeding in Japan for her family in Taiwan"
+msgstr ""
+
+msgctxt "4||hostess||table||6||riona||specific_title"
+msgid "Riona's Fans:"
+msgstr ""
+
+msgctxt "4||hostess||table||7||saki||specific_title"
+msgid "Saki in Love:"
+msgstr ""
+
+msgctxt "4||hostess||table||8||hikaru||specific_title"
+msgid "Asks for Affection:"
+msgstr ""
+
+msgctxt "4||hostess||table||9||erina||specific_title"
+msgid "Worries About:"
+msgstr ""
+
+msgctxt "4||hostess||table||10||sora||specific_title"
+msgid "Love Reference:"
+msgstr ""
+
+msgctxt "4||hostess||table||6||riona||specific_item"
+msgid "About 30% are women"
+msgstr ""
+
+msgctxt "4||hostess||table||7||saki||specific_item"
+msgid "Very feminine in love"
+msgstr ""
+
+msgctxt "4||hostess||table||8||hikaru||specific_item"
+msgid "Like a cat"
+msgstr ""
+
+msgctxt "4||hostess||table||9||erina||specific_item"
+msgid "The restaurant bill after she orders everything"
+msgstr ""
+
+msgctxt "4||hostess||table||10||sora||specific_item"
+msgid "Romance games aimed at men"
+msgstr ""
+
+msgctxt "6||love_rank||table||6||platinum||name"
+msgid "Platinum"
+msgstr ""
+
+msgctxt "6||love_rank||table||7||gold||name"
+msgid "Gold"
+msgstr ""
+
+msgctxt "6||love_rank||table||8||silver||name"
+msgid "Silver"
+msgstr ""
+
+msgctxt "6||love_rank||table||9||bronze||name"
+msgid "Bronze"
+msgstr ""
+
+msgctxt "6||love_rank||table||10||none||name"
+msgid "Beginner"
+msgstr ""
+
+msgctxt "6||love_rank||table||11||number_one||name"
+msgid "Diamond"
+msgstr ""
+
+msgctxt "7||message||table||1||change_card||text"
+msgid "<Sign:2> Swap Cards"
+msgstr ""
+
+msgctxt "7||message||table||4||hostess_detail_button||text"
+msgid "<Sign:4>"
+msgstr ""
+
+msgctxt "7||message||table||5||change_card_caption||text"
+msgid "Select card(s) to discard."
+msgstr ""
+
+msgctxt "7||message||table||6||change_card_decide||text"
+msgid "<Sign:2> Swap"
+msgstr ""
+
+msgctxt "7||message||table||7||profile_unknown||text"
+msgid "???"
+msgstr ""
+
+msgctxt "7||message||table||9||status_theme_hobby||text"
+msgid "Hobby:"
+msgstr ""
+
+msgctxt "7||message||table||10||status_theme_skill||text"
+msgid "Special Skill:"
+msgstr ""
+
+msgctxt "7||message||table||11||status_theme_favorite_food||text"
+msgid "Favorite Food:"
+msgstr ""
+
+msgctxt "7||message||table||12||status_theme_favorite_music||text"
+msgid "Favorite Music:"
+msgstr ""
+
+msgctxt "7||message||table||13||status_theme_like_type||text"
+msgid "Likes:"
+msgstr ""
+
+msgctxt "7||message||table||14||status_theme_dream||text"
+msgid "Dream:"
+msgstr ""
+
+msgctxt "7||message||table||15||title_msg_extend||text"
+msgid "Extend the session?"
+msgstr ""
+
+msgctxt "10||talk_card||table||25||card_no_01||text"
+msgid "Got any hobbies?"
+msgstr ""
+
+msgctxt "10||talk_card||table||26||card_no_02||text"
+msgid "How do you spend\r\nyour days off?"
+msgstr ""
+
+msgctxt "10||talk_card||table||27||card_no_03||text"
+msgid "Have you been\r\ndoing this long?"
+msgstr ""
+
+msgctxt "10||talk_card||table||28||card_no_04||text"
+msgid "Where are you from?"
+msgstr ""
+
+msgctxt "10||talk_card||table||29||card_no_05||text"
+msgid "What's your favorite\r\nfood?"
+msgstr ""
+
+msgctxt "10||talk_card||table||30||card_no_06||text"
+msgid "What's your type?"
+msgstr ""
+
+msgctxt "10||talk_card||table||31||card_no_07||text"
+msgid "How do you act when\r\nyou're in love?"
+msgstr ""
+
+msgctxt "10||talk_card||table||32||card_no_08||text"
+msgid "What's your dream\r\nfor the future?"
+msgstr ""
+
+msgctxt "10||talk_card||table||33||card_no_09||text"
+msgid "What were your\r\ndreams as a kid?"
+msgstr ""
+
+msgctxt "10||talk_card||table||34||card_no_10||text"
+msgid "Do you have any\r\nspecial skills?"
+msgstr ""
+
+msgctxt "10||talk_card||table||35||card_no_11||text"
+msgid "Anything interesting\r\nhappen lately?"
+msgstr ""
+
+msgctxt "10||talk_card||table||36||card_no_12||text"
+msgid "Do you have\r\nmany friends?"
+msgstr ""
+
+msgctxt "10||talk_card||table||37||card_no_13||text"
+msgid "Do you play\r\nvideo games?"
+msgstr ""
+
+msgctxt "10||talk_card||table||38||card_no_14||text"
+msgid "I have a secret\r\nto tell you."
+msgstr ""
+
+msgctxt "10||talk_card||table||39||card_no_15||text"
+msgid "What do you think\r\nof tattoos?"
+msgstr ""
+
+msgctxt "10||talk_card||table||40||card_no_16||text"
+msgid "What's your take\r\non alcohol?"
+msgstr ""
+
+msgctxt "10||talk_card||table||41||card_no_17||text"
+msgid "Ever heard of\r\nthe Tojo Clan?"
+msgstr ""
+
+msgctxt "10||talk_card||table||42||card_no_18||text"
+msgid "Ever heard of\r\nHaruka Sawamura?"
+msgstr ""
+
+msgctxt "10||talk_card||table||43||card_no_19||text"
+msgid "Want to hear about\r\nmy adventures?"
+msgstr ""
+
+msgctxt "10||talk_card||table||44||card_no_20||text"
+msgid "Do you cook?"
+msgstr ""
+
+msgctxt "10||talk_card||table||45||card_no_21||text"
+msgid "What's your\r\nblood type?"
+msgstr ""
+
+msgctxt "10||talk_card||table||46||card_no_22||text"
+msgid "How many guys\r\nhave you slept with?"
+msgstr ""
+
+msgctxt "10||talk_card||table||47||card_no_23||text"
+msgid "Do you have\r\na boyfriend?"
+msgstr ""
+
+msgctxt "10||talk_card||table||48||card_no_24||text"
+msgid "What got you\r\ninto this job?"
+msgstr ""
+
+msgctxt "10||talk_card||table||49||card_no_25||text"
+msgid "Let's play the king\r\ngame! I'm the king!"
+msgstr ""
+
+msgctxt "10||talk_card||table||50||card_no_26||text"
+msgid "What kind of music\r\ndo you listen to?"
+msgstr ""
+
+msgctxt "10||talk_card||table||51||card_no_27||text"
+msgid "Today's been fun."
+msgstr ""
+
+msgctxt "10||talk_card||table||52||card_no_28||text"
+msgid "Pretty cold lately..."
+msgstr ""
+
+msgctxt "10||talk_card||table||53||card_no_29||text"
+msgid "You make my\r\ndrink taste better."
+msgstr ""
+
+msgctxt "10||talk_card||table||54||card_no_30||text"
+msgid "I love you..."
+msgstr ""
+
+msgctxt "10||talk_card||table||55||card_no_31||text"
+msgid "Yahoo!"
+msgstr ""
+
+msgctxt "10||talk_card||table||56||card_no_32||text"
+msgid "Hello."
+msgstr ""
+
+msgctxt "10||talk_card||table||57||card_no_33||text"
+msgid "Can I touch you?"
+msgstr ""
+
+msgctxt "10||talk_card||table||58||card_no_34||text"
+msgid "You're as cute\r\nas always today."
+msgstr ""
+
+msgctxt "10||talk_card||table||59||card_no_35||text"
+msgid "Such incredible\r\nbeauty..."
+msgstr ""
+
+msgctxt "10||talk_card||table||60||card_no_36||text"
+msgid "I'll say \"Beautiful\r\nEyes\" ...in English."
+msgstr ""
+
+msgctxt "10||talk_card||table||61||card_no_37||text"
+msgid "You should only\r\nhave eyes for me."
+msgstr ""
+
+msgctxt "10||talk_card||table||62||card_no_38||text"
+msgid "Is there anyone\r\nyou like?"
+msgstr ""
+
+msgctxt "10||talk_card||table||63||card_no_39||text"
+msgid "If you fall for me,\r\nyou'll only get burned."
+msgstr ""
+
+msgctxt "10||talk_card||table||64||card_no_40||text"
+msgid "This is a nice club."
+msgstr ""
+
+msgctxt "10||talk_card||table||65||card_no_41||text"
+msgid "Know any good\r\nrestaurants?"
+msgstr ""
+
+msgctxt "10||talk_card||table||66||card_no_42||text"
+msgid "You know any\r\nof THOSE spots?"
+msgstr ""
+
+msgctxt "10||talk_card||table||67||card_no_43||text"
+msgid "I wrecked a\r\nconvenience store..."
+msgstr ""
+
+msgctxt "10||talk_card||table||68||card_no_44||text"
+msgid "I've committed\r\nsins in my time..."
+msgstr ""
+
+msgctxt "10||talk_card||table||69||card_no_45||text"
+msgid "I had this friend\r\nwho's gone now..."
+msgstr ""
+
+msgctxt "10||talk_card||table||70||card_no_46||text"
+msgid "What's a true\r\nfriend to you?"
+msgstr ""
+
+msgctxt "10||talk_card||table||71||card_no_47||text"
+msgid "I'm good with\r\nbabies."
+msgstr ""
+
+msgctxt "10||talk_card||table||72||card_no_48||text"
+msgid "Fishing is pretty\r\nhard, actually."
+msgstr ""
+
+msgctxt "10||talk_card||table||73||card_no_49||text"
+msgid "I'm a target of\r\nseveral factions."
+msgstr ""
+
+msgctxt "10||talk_card||table||74||card_no_50||text"
+msgid "People pick fights\r\nwith me a lot."
+msgstr ""
+
+msgctxt "10||talk_card||table||75||card_no_51||text"
+msgid "Ever heard of\r\nPocket Circuit?"
+msgstr ""
+
+msgctxt "10||talk_card||table||76||card_no_52||text"
+msgid "I'm hitting the\r\ngym a lot now."
+msgstr ""
+
+msgctxt "10||talk_card||table||77||card_no_53||text"
+msgid "I don't really like\r\nnoisy places."
+msgstr ""
+
+msgctxt "10||talk_card||table||78||card_no_54||text"
+msgid "I'm not aggressive\r\nfor love."
+msgstr ""
+
+msgctxt "10||talk_card||table||79||card_no_55||text"
+msgid "I don't warm up\r\nto people easily."
+msgstr ""
+
+msgctxt "10||talk_card||table||80||card_no_56||text"
+msgid "I prefer high-end\r\nrestaurants for dates."
+msgstr ""
+
+msgctxt "10||talk_card||table||81||card_no_57||text"
+msgid "Want to guess\r\nmy age?"
+msgstr ""
+
+msgctxt "10||talk_card||table||82||card_no_58||text"
+msgid "What do you\r\nthink of me?"
+msgstr ""
+
+msgctxt "10||talk_card||table||83||card_no_59||text"
+msgid "Do you prefer\r\nolder or younger?"
+msgstr ""
+
+msgctxt "10||talk_card||table||84||card_no_60||text"
+msgid "What's your fetish?"
+msgstr ""
+
+msgctxt "10||talk_card||table||85||card_no_61||text"
+msgid "What do you want\r\nmost right now?"
+msgstr ""
+
+msgctxt "10||talk_card||table||86||card_no_62||text"
+msgid "What was your\r\nfirst love like?"
+msgstr ""
+
+msgctxt "10||talk_card||table||87||card_no_63||text"
+msgid "What was your\r\nfirst time like?"
+msgstr ""
+
+msgctxt "10||talk_card||table||88||card_no_64||text"
+msgid "What color are\r\nyour panties?"
+msgstr ""
+
+msgctxt "10||talk_card||table||89||card_no_65||text"
+msgid "Any plans to\r\nget married?"
+msgstr ""
+
+msgctxt "10||talk_card||table||90||card_no_66||text"
+msgid "Your makeup\r\nlooks nice."
+msgstr ""
+
+msgctxt "10||talk_card||table||91||card_no_67||text"
+msgid "Have we met\r\nbefore?"
+msgstr ""
+
+msgctxt "10||talk_card||table||92||card_no_68||text"
+msgid "You've got\r\na great figure!"
+msgstr ""
+
+msgctxt "10||talk_card||table||93||card_no_69||text"
+msgid "What about men\r\nwho cheat?"
+msgstr ""
+
+msgctxt "10||talk_card||table||94||card_no_70||text"
+msgid "An outdoors\r\ndate is best."
+msgstr ""
+
+msgctxt "10||talk_card||table||95||card_no_71||text"
+msgid "Relaxing at home\r\nis the best date."
+msgstr ""
+
+msgctxt "10||talk_card||table||96||card_no_72||text"
+msgid "Play any sports\r\nin school?"
+msgstr ""
+
+msgctxt "10||talk_card||table||97||card_no_73||text"
+msgid "Wash my\r\nunderwear!"
+msgstr ""
+
+msgctxt "10||talk_card||table||98||card_no_74||text"
+msgid "Make miso soup\r\nfor me!"
+msgstr ""
+
+msgctxt "10||talk_card||table||99||card_no_75||text"
+msgid "Young people are\r\nterrible these days."
+msgstr ""
+
+msgctxt "10||talk_card||table||100||card_no_76||text"
+msgid "What do you sing\r\nat karaoke?"
+msgstr ""
+
+msgctxt "10||talk_card||table||101||card_no_77||text"
+msgid "Aren't dangerous\r\nmen attractive?"
+msgstr ""
+
+msgctxt "10||talk_card||table||102||card_no_78||text"
+msgid "I'll tell you about\r\nMajima-san."
+msgstr ""
+
+msgctxt "10||talk_card||table||103||card_no_79||text"
+msgid "I'll tell you about\r\nDate-san."
+msgstr ""
+
+msgctxt "10||talk_card||table||104||card_no_80||text"
+msgid "I'll tell you about\r\nAkiyama."
+msgstr ""
+
+msgctxt "10||talk_card||table||105||card_no_81||text"
+msgid "I'll tell you about\r\nSaejima."
+msgstr ""
+
+msgctxt "10||talk_card||table||106||card_no_82||text"
+msgid "I'll tell you about\r\nDaigo."
+msgstr ""
+
+msgctxt "10||talk_card||table||107||card_no_83||text"
+msgid "I'll tell you about\r\nOnomichi."
+msgstr ""
+
+msgctxt "10||talk_card||table||108||drink1||text"
+msgid "Drink Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||109||drink2||text"
+msgid "Drink Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||110||drink3||text"
+msgid "Drink Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||111||drink4||text"
+msgid "Drink Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||112||drink5||text"
+msgid "Drink Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||113||food1||text"
+msgid "Food Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||114||food2||text"
+msgid "Food Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||115||food3||text"
+msgid "Food Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||116||food4||text"
+msgid "Food Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||117||food5||text"
+msgid "Food Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||25||card_no_01||caption"
+msgid "Got any hobbies?"
+msgstr ""
+
+msgctxt "10||talk_card||table||26||card_no_02||caption"
+msgid "How do you spend\r\nyour days off?"
+msgstr ""
+
+msgctxt "10||talk_card||table||27||card_no_03||caption"
+msgid "Have you been\r\ndoing this long?"
+msgstr ""
+
+msgctxt "10||talk_card||table||28||card_no_04||caption"
+msgid "Where are you from?"
+msgstr ""
+
+msgctxt "10||talk_card||table||29||card_no_05||caption"
+msgid "What's your favorite\r\nfood?"
+msgstr ""
+
+msgctxt "10||talk_card||table||30||card_no_06||caption"
+msgid "What's your type?"
+msgstr ""
+
+msgctxt "10||talk_card||table||31||card_no_07||caption"
+msgid "How do you act when\r\nyou're in love?"
+msgstr ""
+
+msgctxt "10||talk_card||table||32||card_no_08||caption"
+msgid "What's your dream\r\nfor the future?"
+msgstr ""
+
+msgctxt "10||talk_card||table||33||card_no_09||caption"
+msgid "What were your\r\ndreams as a kid?"
+msgstr ""
+
+msgctxt "10||talk_card||table||34||card_no_10||caption"
+msgid "Do you have any\r\nspecial skills?"
+msgstr ""
+
+msgctxt "10||talk_card||table||35||card_no_11||caption"
+msgid "Anything interesting\r\nhappen lately?"
+msgstr ""
+
+msgctxt "10||talk_card||table||36||card_no_12||caption"
+msgid "Do you have\r\nmany friends?"
+msgstr ""
+
+msgctxt "10||talk_card||table||37||card_no_13||caption"
+msgid "Do you play\r\nvideo games?"
+msgstr ""
+
+msgctxt "10||talk_card||table||38||card_no_14||caption"
+msgid "I have a secret\r\nto tell you."
+msgstr ""
+
+msgctxt "10||talk_card||table||39||card_no_15||caption"
+msgid "What do you think\r\nof tattoos?"
+msgstr ""
+
+msgctxt "10||talk_card||table||40||card_no_16||caption"
+msgid "What's your take\r\non alcohol?"
+msgstr ""
+
+msgctxt "10||talk_card||table||41||card_no_17||caption"
+msgid "Ever heard of\r\nthe Tojo Clan?"
+msgstr ""
+
+msgctxt "10||talk_card||table||42||card_no_18||caption"
+msgid "Ever heard of\r\nHaruka Sawamura?"
+msgstr ""
+
+msgctxt "10||talk_card||table||43||card_no_19||caption"
+msgid "Want to hear about\r\nmy adventures?"
+msgstr ""
+
+msgctxt "10||talk_card||table||44||card_no_20||caption"
+msgid "Do you cook?"
+msgstr ""
+
+msgctxt "10||talk_card||table||45||card_no_21||caption"
+msgid "What's your\r\nblood type?"
+msgstr ""
+
+msgctxt "10||talk_card||table||46||card_no_22||caption"
+msgid "How many guys\r\nhave you slept with?"
+msgstr ""
+
+msgctxt "10||talk_card||table||47||card_no_23||caption"
+msgid "Do you have\r\na boyfriend?"
+msgstr ""
+
+msgctxt "10||talk_card||table||48||card_no_24||caption"
+msgid "What got you\r\ninto this job?"
+msgstr ""
+
+msgctxt "10||talk_card||table||49||card_no_25||caption"
+msgid "Let's play the king\r\ngame! I'm the king!"
+msgstr ""
+
+msgctxt "10||talk_card||table||50||card_no_26||caption"
+msgid "What kind of music\r\ndo you listen to?"
+msgstr ""
+
+msgctxt "10||talk_card||table||51||card_no_27||caption"
+msgid "Today's been fun."
+msgstr ""
+
+msgctxt "10||talk_card||table||52||card_no_28||caption"
+msgid "Pretty cold lately..."
+msgstr ""
+
+msgctxt "10||talk_card||table||53||card_no_29||caption"
+msgid "You make my\r\ndrink taste better."
+msgstr ""
+
+msgctxt "10||talk_card||table||54||card_no_30||caption"
+msgid "I love you..."
+msgstr ""
+
+msgctxt "10||talk_card||table||55||card_no_31||caption"
+msgid "Yahoo!"
+msgstr ""
+
+msgctxt "10||talk_card||table||56||card_no_32||caption"
+msgid "Hello."
+msgstr ""
+
+msgctxt "10||talk_card||table||57||card_no_33||caption"
+msgid "Can I touch you?"
+msgstr ""
+
+msgctxt "10||talk_card||table||58||card_no_34||caption"
+msgid "You're as cute\r\nas always today."
+msgstr ""
+
+msgctxt "10||talk_card||table||59||card_no_35||caption"
+msgid "Such incredible\r\nbeauty..."
+msgstr ""
+
+msgctxt "10||talk_card||table||60||card_no_36||caption"
+msgid "I'll say \"Beautiful\r\nEyes\" ...in English."
+msgstr ""
+
+msgctxt "10||talk_card||table||61||card_no_37||caption"
+msgid "You should only\r\nhave eyes for me."
+msgstr ""
+
+msgctxt "10||talk_card||table||62||card_no_38||caption"
+msgid "Is there anyone\r\nyou like?"
+msgstr ""
+
+msgctxt "10||talk_card||table||63||card_no_39||caption"
+msgid "If you fall for me,\r\nyou'll only get burned."
+msgstr ""
+
+msgctxt "10||talk_card||table||64||card_no_40||caption"
+msgid "This is a nice club."
+msgstr ""
+
+msgctxt "10||talk_card||table||65||card_no_41||caption"
+msgid "Know any good\r\nrestaurants?"
+msgstr ""
+
+msgctxt "10||talk_card||table||66||card_no_42||caption"
+msgid "You know any\r\nof THOSE spots?"
+msgstr ""
+
+msgctxt "10||talk_card||table||67||card_no_43||caption"
+msgid "I wrecked a\r\nconvenience store..."
+msgstr ""
+
+msgctxt "10||talk_card||table||68||card_no_44||caption"
+msgid "I've committed\r\nsins in my time..."
+msgstr ""
+
+msgctxt "10||talk_card||table||69||card_no_45||caption"
+msgid "I had this friend\r\nwho's gone now..."
+msgstr ""
+
+msgctxt "10||talk_card||table||70||card_no_46||caption"
+msgid "What's a true\r\nfriend to you?"
+msgstr ""
+
+msgctxt "10||talk_card||table||71||card_no_47||caption"
+msgid "I'm good with\r\nbabies."
+msgstr ""
+
+msgctxt "10||talk_card||table||72||card_no_48||caption"
+msgid "Fishing is pretty\r\nhard, actually."
+msgstr ""
+
+msgctxt "10||talk_card||table||73||card_no_49||caption"
+msgid "I'm a target of\r\nseveral factions."
+msgstr ""
+
+msgctxt "10||talk_card||table||74||card_no_50||caption"
+msgid "People pick fights\r\nwith me a lot."
+msgstr ""
+
+msgctxt "10||talk_card||table||75||card_no_51||caption"
+msgid "Ever heard of\r\nPocket Circuit?"
+msgstr ""
+
+msgctxt "10||talk_card||table||76||card_no_52||caption"
+msgid "I'm hitting the\r\ngym a lot now."
+msgstr ""
+
+msgctxt "10||talk_card||table||77||card_no_53||caption"
+msgid "I don't really like\r\nnoisy places."
+msgstr ""
+
+msgctxt "10||talk_card||table||78||card_no_54||caption"
+msgid "I'm not aggressive\r\nfor love."
+msgstr ""
+
+msgctxt "10||talk_card||table||79||card_no_55||caption"
+msgid "I don't warm up\r\nto people easily."
+msgstr ""
+
+msgctxt "10||talk_card||table||80||card_no_56||caption"
+msgid "I prefer high-end\r\nrestaurants for dates."
+msgstr ""
+
+msgctxt "10||talk_card||table||81||card_no_57||caption"
+msgid "Want to guess\r\nmy age?"
+msgstr ""
+
+msgctxt "10||talk_card||table||82||card_no_58||caption"
+msgid "What do you\r\nthink of me?"
+msgstr ""
+
+msgctxt "10||talk_card||table||83||card_no_59||caption"
+msgid "Do you prefer\r\nolder or younger?"
+msgstr ""
+
+msgctxt "10||talk_card||table||84||card_no_60||caption"
+msgid "What's your fetish?"
+msgstr ""
+
+msgctxt "10||talk_card||table||85||card_no_61||caption"
+msgid "What do you want\r\nmost right now"
+msgstr ""
+
+msgctxt "10||talk_card||table||86||card_no_62||caption"
+msgid "What was your\r\nfirst love like?"
+msgstr ""
+
+msgctxt "10||talk_card||table||87||card_no_63||caption"
+msgid "What was your\r\nfirst time like?"
+msgstr ""
+
+msgctxt "10||talk_card||table||88||card_no_64||caption"
+msgid "What color are\r\nyour panties?"
+msgstr ""
+
+msgctxt "10||talk_card||table||89||card_no_65||caption"
+msgid "Any plans to\r\nget married?"
+msgstr ""
+
+msgctxt "10||talk_card||table||90||card_no_66||caption"
+msgid "Your makeup\r\nlooks nice."
+msgstr ""
+
+msgctxt "10||talk_card||table||91||card_no_67||caption"
+msgid "Have we met\r\nbefore?"
+msgstr ""
+
+msgctxt "10||talk_card||table||92||card_no_68||caption"
+msgid "You've got\r\na great figure!"
+msgstr ""
+
+msgctxt "10||talk_card||table||93||card_no_69||caption"
+msgid "What about men\r\nwho cheat?"
+msgstr ""
+
+msgctxt "10||talk_card||table||94||card_no_70||caption"
+msgid "An outdoors\r\ndate is best."
+msgstr ""
+
+msgctxt "10||talk_card||table||95||card_no_71||caption"
+msgid "Relaxing at home\r\nis the best date."
+msgstr ""
+
+msgctxt "10||talk_card||table||96||card_no_72||caption"
+msgid "Play any sports\r\nin school?"
+msgstr ""
+
+msgctxt "10||talk_card||table||97||card_no_73||caption"
+msgid "Wash my\r\nunderwear!"
+msgstr ""
+
+msgctxt "10||talk_card||table||98||card_no_74||caption"
+msgid "Make miso soup\r\nfor me!"
+msgstr ""
+
+msgctxt "10||talk_card||table||99||card_no_75||caption"
+msgid "Young people are\r\nterrible these days."
+msgstr ""
+
+msgctxt "10||talk_card||table||100||card_no_76||caption"
+msgid "What do you sing\r\nat karaoke?"
+msgstr ""
+
+msgctxt "10||talk_card||table||101||card_no_77||caption"
+msgid "Aren't dangerous\r\nmen attractive?"
+msgstr ""
+
+msgctxt "10||talk_card||table||102||card_no_78||caption"
+msgid "I'll tell you about\r\nMajima-san."
+msgstr ""
+
+msgctxt "10||talk_card||table||103||card_no_79||caption"
+msgid "I'll tell you about\r\nDate-san."
+msgstr ""
+
+msgctxt "10||talk_card||table||104||card_no_80||caption"
+msgid "I'll tell you about\r\nAkiyama."
+msgstr ""
+
+msgctxt "10||talk_card||table||105||card_no_81||caption"
+msgid "I'll tell you about\r\nSaejima."
+msgstr ""
+
+msgctxt "10||talk_card||table||106||card_no_82||caption"
+msgid "I'll tell you about\r\nDaigo."
+msgstr ""
+
+msgctxt "10||talk_card||table||107||card_no_83||caption"
+msgid "I'll tell you about\r\nOnomichi."
+msgstr ""
+
+msgctxt "10||talk_card||table||108||drink1||caption"
+msgid "Drink Card Explanation"
+msgstr ""
+
+msgctxt "10||talk_card||table||109||drink2||caption"
+msgid "Drink Card Explanation"
+msgstr ""
+
+msgctxt "10||talk_card||table||110||drink3||caption"
+msgid "Drink Card Explanation"
+msgstr ""
+
+msgctxt "10||talk_card||table||111||drink4||caption"
+msgid "Drink Card Explanation"
+msgstr ""
+
+msgctxt "10||talk_card||table||112||drink5||caption"
+msgid "Drink Card Explanation"
+msgstr ""
+
+msgctxt "10||talk_card||table||113||food1||caption"
+msgid "Food Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||114||food2||caption"
+msgid "Food Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||115||food3||caption"
+msgid "Food Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||116||food4||caption"
+msgid "Food Card"
+msgstr ""
+
+msgctxt "10||talk_card||table||117||food5||caption"
+msgid "Food Card"
+msgstr ""
+

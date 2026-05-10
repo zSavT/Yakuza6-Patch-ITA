@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hey, you there."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Heh, you interested in a game of darts?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "I'm really itchin' to play. It's all I can think about.\r\nThat's why I'm hangin' around in this bar."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Nobody's been interested in playin' me, though.\r\nBut you seem like you're up for a challenge!"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "This guy is a real piece of work..."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "So, how 'bout it?"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "All right, then.\r\nI guess I have time for a round."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Oh! You're more chill than ya let on, man!\r\nThe name's Akaishizawa. Nice to meet ya."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "I'm Kiryu."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Sweet! C'mon, Kiryu-chi!\r\nLet's get tossin'!"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Sorry, but I'm too busy.\r\nMaybe some other time."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Huhhh? C'mon, man!"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Whatever. I'll be chillin' here for a bit.\r\nJust talk to me if you wanna throw down!"
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Oh! You want some of this?\r\nI'm ready to play if you are!"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "You're damn good, Kiryu-chi!"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Yay! I'm the best!"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Paul-san! Can I get your autograph!?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Please let me shake your hand, Paul-san!"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "What're they so excited about?"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "No way...!\r\nThat's Paul Lim!"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Whoa, it's really him!"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Hey, who <font_kind=yakuza_italic>is</font_kind> this guy?\r\nPaul something or other?"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Huh!? Ya can't be a real dart slinger\r\nif you don't know who Paul Lim is!"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Well, I've never heard of him."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Listen up. I'll tell ya 'bout Paul Lim."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "He was the first person <font_kind=yakuza_italic>ever</font_kind> to throw\r\na perfect game in a major international tourney."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "For anyone into the darts scene, he's like a god.\r\nThis guy's a livin' legend, man!"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Huh. So the old man has some talent, then."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Hey, don't talk about him like that!\r\nWhat if he hears ya mouthin' off!?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Shit shit shit! He's comin' this way!\r\nThis is all your fault, man!"
+msgstr ""
+
+msgctxt "36||||4"
+msgid "[I've been watching you guys play.]"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Is that English...? What's he saying?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Ya serious!?"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Hm? You speak English?"
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Yeah, I actually lived outta the country for a bit.\r\nAin't nobody as good at English as me."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Interesting.\r\nWell then, what did he say?"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Apparently he was keepin'\r\nan eye on our game!"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "[You've got ways to go, but I can tell you,\r\nyou've got a talent for this.]"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Huh!? For real!?"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Hey, what did he say?"
+msgstr ""
+
+msgctxt "46||||4"
+msgid "He was sayin' I'm still inexperienced,\r\nbut I'm gonna be a star someday!"
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Mannn, I can't believe <font_kind=yakuza_italic>the</font_kind> Paul Lim's complimentin' me!\r\nPinch me, I'm dreamin'! Thanks, man!"
+msgstr ""
+
+msgctxt "48||||4"
+msgid "[Ah... Not you.]"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "50||||4"
+msgid "[You.]"
+msgstr ""
+
+msgctxt "51||||4"
+msgid "What? <font_kind=yakuza_italic>Me</font_kind>?"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "[Yes.\r\nWhat's your name?]"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "[Name?]\r\nIt's, uh... Kiryu."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "[You have the potential\r\nto be a great player, Kiryu-san.]"
+msgstr ""
+
+msgctxt "55||||4"
+msgid "[I hope you'll continue to enjoy darts\r\nand keep polishing your skills.]"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "He says ya got some serious potential, man."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Oh, and ya should keep playin' darts\r\nif you wanna get crazy good."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "[I look forward to the day when\r\nwe can have a heated match.]"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "He said he's hopin' you two can square off someday.\r\nOh, and \"hahahahaha\"!"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Hot damn! So freakin' cool, man!\r\nPaul Lim wants to play against <font_kind=yakuza_italic>you</font_kind> of all people!"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "I'm damn jealous of ya!"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Getting complimented by some random old man\r\ndoesn't feel that exciting to me."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "But y'know, I had the same thought when we were playin'.\r\nYou're a goddamn genius, Kiryu-chi."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Really? I'm not sure about that."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "C'mon! If both me <font_kind=yakuza_italic>and</font_kind> Paul think so,\r\nit's gotta be true!"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Oh, I almost forgot.\r\nAs a thanks for playin' me, ya can have these."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "If ya keep practicin', practicin', practicin',\r\nyou're gonna be a pro in no time flat."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Not sure you're ever gonna beat\r\nthe legendary Paul Lim, though!"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "The living legend, Paul Lim..."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "I should play some more if I get the chance.\r\nMaybe someday I can be a darts legend, too..."
+msgstr ""
+

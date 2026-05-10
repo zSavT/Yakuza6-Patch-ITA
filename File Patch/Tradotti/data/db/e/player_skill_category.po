@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||base||name"
+msgid "Stats"
+msgstr ""
+
+msgctxt "2||battle||name"
+msgid "Battle Skills"
+msgstr ""
+
+msgctxt "3||heat||name"
+msgid "Heat Actions"
+msgstr ""
+
+msgctxt "4||other||name"
+msgid "Other Skills"
+msgstr ""
+
+msgctxt "5||equip||name"
+msgid "Equipment"
+msgstr ""
+

@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "45||rarabai_weak00||text"
+msgid "Passionate Tezuka"
+msgstr ""
+
+msgctxt "46||rarabai_weak01||text"
+msgid "Healthy Sugino"
+msgstr ""
+
+msgctxt "47||rarabai_weak02||text"
+msgid "Bargaining Yasui"
+msgstr ""
+
+msgctxt "48||rarabai_weak03||text"
+msgid "Idle Keiko"
+msgstr ""
+
+msgctxt "49||rarabai_weak04||text"
+msgid "Direct Hit Ran-chan"
+msgstr ""
+
+msgctxt "50||rarabai_middle00||text"
+msgid "Gamblin' Toru"
+msgstr ""
+
+msgctxt "51||rarabai_middle01||text"
+msgid "Dynamic Toku-san"
+msgstr ""
+
+msgctxt "52||rarabai_middle02||text"
+msgid "Nocturnal Takashi"
+msgstr ""
+
+msgctxt "53||rarabai_middle03||text"
+msgid "Lucky Ishida"
+msgstr ""
+
+msgctxt "54||rarabai_middle04||text"
+msgid "Leopard Print Yuki"
+msgstr ""
+
+msgctxt "55||kindai_middle00||text"
+msgid "Out-of-luck Hidekazu"
+msgstr ""
+
+msgctxt "56||kindai_middle01||text"
+msgid "Stormbringer Nohara"
+msgstr ""
+
+msgctxt "57||kindai_middle02||text"
+msgid "Habitually Lying Jun"
+msgstr ""
+
+msgctxt "58||kindai_middle03||text"
+msgid "Impeccable Megumi"
+msgstr ""
+
+msgctxt "59||kindai_middle04||text"
+msgid "Lightning Fast Nesumi"
+msgstr ""
+
+msgctxt "60||kindai_strong00||text"
+msgid "Obese Child Kishitani"
+msgstr ""
+
+msgctxt "61||kindai_strong01||text"
+msgid "Tuna Roll Fiend Chin-san"
+msgstr ""
+
+msgctxt "62||kindai_strong02||text"
+msgid "Meow Expert Furanken"
+msgstr ""
+
+msgctxt "63||kindai_strong03||text"
+msgid "Over-the-top Kanoko"
+msgstr ""
+
+msgctxt "64||kindai_strong04||text"
+msgid "Smirking Nanami"
+msgstr ""
+
+msgctxt "65||rarabai_event_00||text"
+msgid "Superbly Skilled Kaido"
+msgstr ""
+
+msgctxt "66||rarabai_event_01||text"
+msgid "The Lullaby Guardian"
+msgstr ""
+
+msgctxt "67||rarabai_event_02||text"
+msgid "Aggressive Sayaka"
+msgstr ""
+
+msgctxt "68||kindai_event_00||text"
+msgid "Demonic Mokufuchi"
+msgstr ""
+
+msgctxt "69||kindai_event_01||text"
+msgid "Old School Fujioka"
+msgstr ""
+
+msgctxt "70||kindai_event_02||text"
+msgid "Fire Summoner Sadako"
+msgstr ""
+

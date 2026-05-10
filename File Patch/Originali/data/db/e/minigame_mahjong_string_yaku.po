@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||pinfu||text"
+msgid "No-Points Hand"
+msgstr ""
+
+msgctxt "2||ton||text"
+msgid "East"
+msgstr ""
+
+msgctxt "3||dabuton||text"
+msgid "Double East"
+msgstr ""
+
+msgctxt "4||nan||text"
+msgid "South"
+msgstr ""
+
+msgctxt "5||dabunan||text"
+msgid "Double South"
+msgstr ""
+
+msgctxt "6||sha||text"
+msgid "West"
+msgstr ""
+
+msgctxt "7||dabusha||text"
+msgid "Double West"
+msgstr ""
+
+msgctxt "8||pe||text"
+msgid "North"
+msgstr ""
+
+msgctxt "9||dabupe||text"
+msgid "Double North"
+msgstr ""
+
+msgctxt "10||haku||text"
+msgid "White Dragon"
+msgstr ""
+
+msgctxt "11||hatsu||text"
+msgid "Green Dragon"
+msgstr ""
+
+msgctxt "12||chun||text"
+msgid "Red Dragon"
+msgstr ""
+
+msgctxt "13||tanyao||text"
+msgid "All Simples"
+msgstr ""
+
+msgctxt "14||iipeiko||text"
+msgid "Identical Sequences"
+msgstr ""
+
+msgctxt "15||riichi||text"
+msgid "Riichi"
+msgstr ""
+
+msgctxt "16||ippatsu||text"
+msgid "Ippatsu"
+msgstr ""
+
+msgctxt "17||tsumo||text"
+msgid "Fully Concealed Hand"
+msgstr ""
+
+msgctxt "18||rinshankaihou||text"
+msgid "Dead Wall Draw"
+msgstr ""
+
+msgctxt "19||haiteiraoyue||text"
+msgid "Last Tile Draw - Tsumo"
+msgstr ""
+
+msgctxt "20||houteiraoyui||text"
+msgid "Last Tile Discard - Ron"
+msgstr ""
+
+msgctxt "21||chanta||text"
+msgid "Mixed Outside Hand"
+msgstr ""
+
+msgctxt "22||honroutou||text"
+msgid "All Terminals and Honors"
+msgstr ""
+
+msgctxt "23||ikkitsuukan||text"
+msgid "Full Straight"
+msgstr ""
+
+msgctxt "24||toitoi||text"
+msgid "All Triplet Hand"
+msgstr ""
+
+msgctxt "25||sanankou||text"
+msgid "Three Concealed Triplets"
+msgstr ""
+
+msgctxt "26||sanrenkou||text"
+msgid "Three Consecutive Pons"
+msgstr ""
+
+msgctxt "27||sankantsu||text"
+msgid "Three Quads"
+msgstr ""
+
+msgctxt "28||chiitoitsu||text"
+msgid "Seven Pairs"
+msgstr ""
+
+msgctxt "29||sanshokudoujyun||text"
+msgid "Three Color Straight"
+msgstr ""
+
+msgctxt "30||sanshokudoukoku||text"
+msgid "Three Color Triplets"
+msgstr ""
+
+msgctxt "31||shousangen||text"
+msgid "Little Three Dragons"
+msgstr ""
+
+msgctxt "32||doubleriichi||text"
+msgid "Double Riichi"
+msgstr ""
+
+msgctxt "33||jyunchan||text"
+msgid "Pure Outside Hand"
+msgstr ""
+
+msgctxt "34||honitsu||text"
+msgid "Half Flush"
+msgstr ""
+
+msgctxt "35||ryanpeikou||text"
+msgid "Double Identical Sequences"
+msgstr ""
+
+msgctxt "36||chinitsu||text"
+msgid "Full Flush"
+msgstr ""
+
+msgctxt "37||tsuuiisou||text"
+msgid "All Honors"
+msgstr ""
+
+msgctxt "38||ryuuiisou||text"
+msgid "All Green"
+msgstr ""
+
+msgctxt "39||chuurenpoutou||text"
+msgid "Nine Gates"
+msgstr ""
+
+msgctxt "40||jyunseichuurenpoutou||text"
+msgid "Pure Nine Gates"
+msgstr ""
+
+msgctxt "41||suuankou||text"
+msgid "Four Concealed Triplets"
+msgstr ""
+
+msgctxt "42||suuankoutanki||text"
+msgid "Four Concealed Triplets w/ Single Wait"
+msgstr ""
+
+msgctxt "43||suukantsu||text"
+msgid "Four Quads"
+msgstr ""
+
+msgctxt "44||daisangen||text"
+msgid "Big Three Dragons"
+msgstr ""
+
+msgctxt "45||daisuusii||text"
+msgid "Big Four Winds"
+msgstr ""
+
+msgctxt "46||shousuusii||text"
+msgid "Little Four Winds"
+msgstr ""
+
+msgctxt "47||chinroutou||text"
+msgid "All Terminals"
+msgstr ""
+
+msgctxt "48||tenho||text"
+msgid "Heavenly Hand"
+msgstr ""
+
+msgctxt "49||chiihou||text"
+msgid "Earthly Hand"
+msgstr ""
+
+msgctxt "50||kokusimusou||text"
+msgid "Thirteen Orphans"
+msgstr ""
+
+msgctxt "51||jyunseikokusimusou||text"
+msgid "Pure Thirteen Orphans"
+msgstr ""
+
+msgctxt "52||siisanpuutaa||text"
+msgid "Broken Thirteen"
+msgstr ""
+
+msgctxt "53||dora||text"
+msgid "Dora"
+msgstr ""
+
+msgctxt "54||renhou||text"
+msgid "Blessing of Man"
+msgstr ""
+
+msgctxt "55||chankan||text"
+msgid "Robbing a Quad"
+msgstr ""
+
+msgctxt "56||daisharin||text"
+msgid "Big Wheel"
+msgstr ""
+
+msgctxt "57||nagasimangan||text"
+msgid "Terminal Discard"
+msgstr ""
+

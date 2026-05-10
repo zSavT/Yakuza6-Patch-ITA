@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||btl_tutorial_01_guard||title"
+msgid "Keeping Your Guard Up"
+msgstr ""
+
+msgctxt "2||btl_tutorial_02_dodge||title"
+msgid "Dodging Attacks"
+msgstr ""
+
+msgctxt "3||btl_tutorial_03_set_up||title"
+msgid "Locking onto Enemies"
+msgstr ""
+
+msgctxt "4||btl_tutorial_04_quick_attack||title"
+msgid "Rush Combo"
+msgstr ""
+
+msgctxt "5||btl_tutorial_05_strong_attack||title"
+msgid "Finishing Blow"
+msgstr ""
+
+msgctxt "6||btl_tutorial_06_down_attack||title"
+msgid "Double Finisher"
+msgstr ""
+
+msgctxt "7||btl_tutorial_07_hact||title"
+msgid "Performing Heat Actions"
+msgstr ""
+
+msgctxt "8||btl_tutorial_08_hact_mode||title"
+msgid "Extreme Heat Mode"
+msgstr ""
+
+msgctxt "9||btl_tutorial_09_encount_btl||title"
+msgid "Street Battle"
+msgstr ""
+
+msgctxt "10||btl_tutorial_10_throw||title"
+msgid "Grabbing and Throwing"
+msgstr ""
+
+msgctxt "11||btl_tutorial_11_weapon||title"
+msgid "Picking Up Weapons"
+msgstr ""
+
+msgctxt "12||btl_tutorial_12_defend_weapon||title"
+msgid "Dangerous Weapons"
+msgstr ""
+
+msgctxt "13||btl_tutorial_13_snatch_weapon||title"
+msgid "Disarming Enemies"
+msgstr ""
+
+msgctxt "15||finished||title"
+msgid "Defeat Your Foes"
+msgstr ""
+
+msgctxt "1||btl_tutorial_01_guard||explanation"
+msgid "With people taking swings at you left and right, you need to know how\r\nto defend yourself. Hold <Sign:6,Combat> to put your guard up and block incoming attacks.\r\n\r\nWatch for openings in an enemy's attacks and strike!"
+msgstr ""
+
+msgctxt "2||btl_tutorial_02_dodge||explanation"
+msgid "Sometimes dodging can be an easier option than guarding.\nPress <Sign:3,Combat> to evade in the direction you're moving in.\n\nDodging is more difficult than guarding, but it makes it easier\nto find openings in the enemy's attacks."
+msgstr ""
+
+msgctxt "3||btl_tutorial_03_set_up||explanation"
+msgid "If you want to keep your eyes on your opponent, hold <Sign:4,Combat> to lock on to them.\r\n\r\nKiryu will always face the enemy regardless of how you move around.\r\nStaying focused on the fight is important on both offense and defense."
+msgstr ""
+
+msgctxt "4||btl_tutorial_04_quick_attack||explanation"
+msgid "Press <Sign:2,Combat> to perform a quick attack. If you want to keep up the pressure,\r\nchain quick attacks together into a Rush Combo by pressing <Sign:2,Combat> up to four times.\r\nGetting in some swift jabs can open up your opponent to other attacks.\r\n\r\n<Sign:2,Combat>/<Sign:2,Combat><Sign:2,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>"
+msgstr ""
+
+msgctxt "5||btl_tutorial_05_strong_attack||explanation"
+msgid "During a Rush Combo, pressing <Sign:1,Combat> will unleash a powerful attack called a\r\nFinishing Blow. Not only does a Finishing Blow cause some serious damage, but\r\nit can also stun whoever winds up on the receiving end.\r\n\r\n<Sign:2,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>"
+msgstr ""
+
+msgctxt "6||btl_tutorial_06_down_attack||explanation"
+msgid "You can follow up a Finishing Blow by pressing <Sign:1,Combat> again to unleash a\r\nDouble Finisher. While it leaves you wide open, landing a Double Finisher\r\ncauses massive damage and blows your enemies away.\r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>"
+msgstr ""
+
+msgctxt "7||btl_tutorial_07_hact||explanation"
+msgid "Successful attacks and blocks will fire up Kiryu and fill your Heat Orbs.\r\nPress <Sign:1,Combat> when the Heat Icon appears to expend a Heat Orb and\r\nactivate a Heat Action. Heat Actions are incredibly powerful special\r\nattacks that will wreak havoc on your unfortunate foes.\r\nHeat Actions you can execute change based on the current conditions of the\r\nfight, so be ready to press <Sign:1,Combat> as soon as you see the Heat Icon!"
+msgstr ""
+
+msgctxt "8||btl_tutorial_08_hact_mode||explanation"
+msgid "Heat Orbs can also be used to enter a special mode called Extreme Heat Mode.\r\nPress <Sign:5,Combat> to burst into flames and awaken the Dragon of Dojima. \r\n\r\nIn this form, your Heat will drain quickly and attacks cost Heat. However,\r\nthere are weapons and special attacks that can only be used in this mode.\r\nPain won't even faze you, so it's perfect for one-on-one fights."
+msgstr ""
+
+msgctxt "9||btl_tutorial_09_encount_btl||explanation"
+msgid "Some nasty thugs just wander around town looking for fights for the hell of it.\r\nYou can ignore them, but you can earn rewards by teaching them a lesson."
+msgstr ""
+
+msgctxt "10||btl_tutorial_10_throw||explanation"
+msgid "When an enemy is guarding, you can grab them out of it with <Sign:0,Combat> and\r\nfollow up with an attack, or press <Sign:0,Combat> again to throw them.\r\n\r\nThrowing enemies is a great tactic for when you're surrounded.\r\n\r\n<Sign:0,Combat><Sign:2,Combat>/<Sign:0,Combat><Sign:1,Combat>/<Sign:0,Combat><Sign:0,Combat>"
+msgstr ""
+
+msgctxt "11||btl_tutorial_11_weapon||explanation"
+msgid "Objects with <symbol=black_down_triangle> displayed above them can be picked up with <Sign:0,Combat> to use as a weapon.\nThe more painful something looks, the more damage it will probably do. \n\nWhen you're in a pinch, checking your surroundings for a weapon can turn\nthe tables on your enemies!"
+msgstr ""
+
+msgctxt "12||btl_tutorial_12_defend_weapon||explanation"
+msgid "Dangerous weapons, like knives or guns, can't be blocked by guarding.\r\nYour only options are dodging with <Sign:3,Combat> or picking up a large object\r\nto defend yourself.\r\n\r\nYou'll have to be careful, as some attacks can't be guarded by small weapons."
+msgstr ""
+
+msgctxt "13||btl_tutorial_13_snatch_weapon||explanation"
+msgid "Enemies wielding weapons can be disarmed by knocking them down or grabbing \r\nthem. Dropped weapons can be picked up, so you should always focus on \r\nenemies with weapons first. Fair is fair when they bring a knife to a fistfight.\r\n\r\nSome enemies are too strong to be disarmed, so you'll have to be cautious."
+msgstr ""
+
+msgctxt "14||get_ability||explanation"
+msgid "You can use EXP to strengthen Kiryu's abilities. \nYou can choose between various ability tabs with <Sign:6,UI>/<Sign:4,UI>,\nbut it's recommended to strengthen Kiryu's basic stats first."
+msgstr ""
+
+msgctxt "15||finished||explanation"
+msgid "You know what to do. Time to beat down your foes however you see fit."
+msgstr ""
+
+msgctxt "1||btl_tutorial_01_guard||command"
+msgid "<symbol=button_l1,Combat>"
+msgstr ""
+
+msgctxt "2||btl_tutorial_02_dodge||command"
+msgid "<symbol=button_batsu,Combat>"
+msgstr ""
+
+msgctxt "3||btl_tutorial_03_set_up||command"
+msgid "<symbol=button_r1,Combat>"
+msgstr ""
+
+msgctxt "4||btl_tutorial_04_quick_attack||command"
+msgid "<symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_shikaku,Combat>"
+msgstr ""
+
+msgctxt "5||btl_tutorial_05_strong_attack||command"
+msgid "<symbol=button_shikaku,Combat><symbol=button_sankaku,Combat>"
+msgstr ""
+
+msgctxt "6||btl_tutorial_06_down_attack||command"
+msgid "<symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_sankaku,Combat><symbol=button_sankaku,Combat>"
+msgstr ""
+
+msgctxt "7||btl_tutorial_07_hact||command"
+msgid "<Sign:1,Combat> when Heat Icon is displayed."
+msgstr ""
+
+msgctxt "8||btl_tutorial_08_hact_mode||command"
+msgid "<symbol=button_r2,Combat>"
+msgstr ""
+
+msgctxt "10||btl_tutorial_10_throw||command"
+msgid "<symbol=button_maru,Combat><symbol=button_maru,Combat>　<symbol=button_maru,Combat><symbol=button_sankaku,Combat>"
+msgstr ""
+
+msgctxt "11||btl_tutorial_11_weapon||command"
+msgid "<symbol=button_maru,Combat> near a weapon you can pick up."
+msgstr ""
+
+msgctxt "12||btl_tutorial_12_defend_weapon||command"
+msgid "<symbol=button_l1,Combat> while holding a weapon."
+msgstr ""
+
+msgctxt "13||btl_tutorial_13_snatch_weapon||command"
+msgid "<symbol=button_shikaku,Combat><symbol=button_sankaku,Combat>　<symbol=button_maru,Combat><symbol=button_sankaku,Combat>"
+msgstr ""
+

@@ -1,0 +1,997 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "3||CLN_03||name"
+msgid "Save Sachiko!"
+msgstr ""
+
+msgctxt "4||CLN_04||name"
+msgid "Battle Against JUSTIS"
+msgstr ""
+
+msgctxt "5||CLN_05||name"
+msgid "The Yano Army Invades!"
+msgstr ""
+
+msgctxt "6||CLN_06||name"
+msgid "Yano's Relentless Assault!"
+msgstr ""
+
+msgctxt "7||CLN_07||name"
+msgid "Toru Yano of the Six Lunatics!"
+msgstr ""
+
+msgctxt "8||CLN_08||name"
+msgid "Naito's Right-hand Men"
+msgstr ""
+
+msgctxt "9||CLN_09||name"
+msgid "Tetsuya Naito, Activated"
+msgstr ""
+
+msgctxt "10||CLN_10||name"
+msgid "Tetsuya Naito of the Six Lunatics!"
+msgstr ""
+
+msgctxt "12||CLN_12||name"
+msgid "Battle Against Tenzan!"
+msgstr ""
+
+msgctxt "13||CLN_13||name"
+msgid "Battle Against Kojima!"
+msgstr ""
+
+msgctxt "14||CLN_14||name"
+msgid "The Fearsome TenCozy Tag"
+msgstr ""
+
+msgctxt "15||CLN_15||name"
+msgid "Tanahashi's Assassins"
+msgstr ""
+
+msgctxt "16||CLN_16||name"
+msgid "Tanahashi's Offensive"
+msgstr ""
+
+msgctxt "17||CLN_17||name"
+msgid "Hiroshi Tanahashi of the Six Lunatics!"
+msgstr ""
+
+msgctxt "19||CLN_19||name"
+msgid "The Rains of Kamurocho"
+msgstr ""
+
+msgctxt "20||CLN_20||name"
+msgid "The Kiryu Clan's Final Battle"
+msgstr ""
+
+msgctxt "21||CLN_ED_01||name"
+msgid "The Terrible Assassins of JUSTIS!"
+msgstr ""
+
+msgctxt "22||CLN_ED_02||name"
+msgid "The Fearsome Assassins of JUSTIS!"
+msgstr ""
+
+msgctxt "23||CLN_ED_03||name"
+msgid "The Deadly Assassins of JUSTIS!"
+msgstr ""
+
+msgctxt "24||CLN_ED_04||name"
+msgid "The Yano Army's Remainders!"
+msgstr ""
+
+msgctxt "25||CLN_ED_05||name"
+msgid "The Naito Army's Remainders!"
+msgstr ""
+
+msgctxt "26||CLN_ED_06||name"
+msgid "The Lethal Assassins of JUSTIS!"
+msgstr ""
+
+msgctxt "27||CLN_ED_07||name"
+msgid "The Savage Assassins of JUSTIS!"
+msgstr ""
+
+msgctxt "28||CLN_ED_08||name"
+msgid "The Fatal Assassins of JUSTIS!"
+msgstr ""
+
+msgctxt "29||CLN_ED_09||name"
+msgid "The TenCozy Army's Remainders!"
+msgstr ""
+
+msgctxt "30||CLN_ED_10||name"
+msgid "The Tanahashi Army's Remainders!"
+msgstr ""
+
+msgctxt "31||CLN_CL_01||name"
+msgid "The Amon Army! Onomichi Part 1"
+msgstr ""
+
+msgctxt "32||CLN_CL_02||name"
+msgid "The Amon Army! Onomichi Part 2"
+msgstr ""
+
+msgctxt "33||CLN_CL_03||name"
+msgid "The Amon Army! Onomichi Part 3"
+msgstr ""
+
+msgctxt "34||CLN_CL_04||name"
+msgid "The Amon Army! Kamurocho Part 1"
+msgstr ""
+
+msgctxt "35||CLN_CL_05||name"
+msgid "The Amon Army! Kamurocho Part 2"
+msgstr ""
+
+msgctxt "36||CLN_CL_06||name"
+msgid "The Amon Army! Kamurocho Part 3"
+msgstr ""
+
+msgctxt "37||test_ai||name"
+msgid "Test Mission_A1"
+msgstr ""
+
+msgctxt "38||test_00||name"
+msgid "Test Mission_01"
+msgstr ""
+
+msgctxt "39||test_01||name"
+msgid "Test Mission_02"
+msgstr ""
+
+msgctxt "40||test_02||name"
+msgid "Test Mission_02"
+msgstr ""
+
+msgctxt "41||test_03||name"
+msgid "Test Mission_03"
+msgstr ""
+
+msgctxt "42||test_04||name"
+msgid "Test Mission_04"
+msgstr ""
+
+msgctxt "43||test_05||name"
+msgid "Test Mission_05"
+msgstr ""
+
+msgctxt "44||CLN_ONLINE_01||name"
+msgid "The First Raid"
+msgstr ""
+
+msgctxt "45||CLN_ONLINE_02||name"
+msgid "The Second Raid"
+msgstr ""
+
+msgctxt "46||CLN_ONLINE_03||name"
+msgid "The Third Raid"
+msgstr ""
+
+msgctxt "48||limited_monday||name"
+msgid "Monday Mission"
+msgstr ""
+
+msgctxt "49||limited_tuesday||name"
+msgid "Tuesday Mission"
+msgstr ""
+
+msgctxt "50||limited_wednesday||name"
+msgid "Wednesday Mission"
+msgstr ""
+
+msgctxt "51||limited_thursday||name"
+msgid "Thursday Mission"
+msgstr ""
+
+msgctxt "52||limited_friday||name"
+msgid "Friday Mission"
+msgstr ""
+
+msgctxt "57||CLN_ONLINE_FRIEND||name"
+msgid "Friend Raid"
+msgstr ""
+
+msgctxt "58||CLN_ONLINE_RANKER||name"
+msgid "Ranked Raid"
+msgstr ""
+
+msgctxt "59||limited_holiday||name"
+msgid "Weekend Mission"
+msgstr ""
+
+msgctxt "60||limited_card||name"
+msgid "Acquire an Uncommon Leader!"
+msgstr ""
+
+msgctxt "61||limited_mosa||name"
+msgid "Elite Invasion!"
+msgstr ""
+
+msgctxt "62||limited_shinnichi||name"
+msgid "New Japan Army Invasion!"
+msgstr ""
+
+msgctxt "63||limited_rokukyoujin||name"
+msgid "The Six Lunatics Invasion!"
+msgstr ""
+
+msgctxt "64||limited_nisekiryu||name"
+msgid "The False Kiryu Clan Invasion!"
+msgstr ""
+
+msgctxt "3||CLN_03||explanation"
+msgid "Sachiko has been abducted by JUSTIS.\r\nMobilize the Kiryu Clan to save her!"
+msgstr ""
+
+msgctxt "4||CLN_04||explanation"
+msgid "JUSTIS, now serious about crushing the Kiryu Clan, continues\r\nits attack on Onomichi. Wipe them out and protect the city."
+msgstr ""
+
+msgctxt "5||CLN_05||explanation"
+msgid "Yano of the Six Lunatics has finally arrived, and his\r\nminions have launched their assault. Wipe them\r\nout and turn the tables!"
+msgstr ""
+
+msgctxt "6||CLN_06||explanation"
+msgid "Yano's underlings have called for reinforcements and\r\nlaunched an all-out attack. Break through their massive\r\narmy and take down the enemy commander!"
+msgstr ""
+
+msgctxt "7||CLN_07||explanation"
+msgid "Yano of the Six Lunatics has finally set foot on the\r\nbattlefield."
+msgstr ""
+
+msgctxt "8||CLN_08||explanation"
+msgid "Naito begins his assault with his personal entourage.\r\nThey seem nothing like the Yano Army, so advance\r\nwith caution!"
+msgstr ""
+
+msgctxt "9||CLN_09||explanation"
+msgid "Naito sets foot on the battlefield, raising the morale of\r\nthe Naito Army. Defend against their attacks and strike\r\nback!"
+msgstr ""
+
+msgctxt "10||CLN_10||explanation"
+msgid "Naito of the Six Lunatics is attacking in earnest now. Win\r\nthis battle against him and drive JUSTIS out of Onomichi."
+msgstr ""
+
+msgctxt "12||CLN_12||explanation"
+msgid "The Six Lunatics have sent in the deadly tag team of Tenzan\r\nand Kojima! Tenzan takes the helm first, so take him down!"
+msgstr ""
+
+msgctxt "13||CLN_13||explanation"
+msgid "The Six Lunatics have sent in the deadly tag team of Tenzan\r\nand Kojima! Kojima's army is up next, so take them out!"
+msgstr ""
+
+msgctxt "14||CLN_14||explanation"
+msgid "Tenzan and Kojima have joined forces in an all-out attack.\r\nThis will be a power unlike anything you have faced yet,\r\nso annihilate them without mercy!"
+msgstr ""
+
+msgctxt "15||CLN_15||explanation"
+msgid "Tanahashi of the Six Lunatics has sent out his men. Bring\r\nthe power of the Kiryu Clan together and wipe them out."
+msgstr ""
+
+msgctxt "16||CLN_16||explanation"
+msgid "Tanahashi of the Six Lunatics is taking matters into his\r\nown hands. Defeat him and prevent the invasion!"
+msgstr ""
+
+msgctxt "17||CLN_17||explanation"
+msgid "This is the final showdown against Tanahashi of the Six\r\nLunatics. Defeat him and discover the dark secret in\r\nOkada's past!"
+msgstr ""
+
+msgctxt "19||CLN_19||explanation"
+msgid "It's the final battle against the leader of JUSTIS,\r\nRainmaker. Part the dark clouds and crush Okada's\r\nambition!"
+msgstr ""
+
+msgctxt "20||CLN_20||explanation"
+msgid "The true masterminds, Satsuki and Komei, have formed\r\nan alliance. The final battle is now. Defeat them and\r\nbring the neon light back to Kamurocho."
+msgstr ""
+
+msgctxt "21||CLN_ED_01||explanation"
+msgid "Defeat the assassins JUSTIS sent to Onomichi!"
+msgstr ""
+
+msgctxt "22||CLN_ED_02||explanation"
+msgid "Defeat the assassins JUSTIS sent to Onomichi!"
+msgstr ""
+
+msgctxt "23||CLN_ED_03||explanation"
+msgid "Defeat the assassins JUSTIS sent to Onomichi!"
+msgstr ""
+
+msgctxt "24||CLN_ED_04||explanation"
+msgid "Wipe out the remainders of the Yano Army!"
+msgstr ""
+
+msgctxt "25||CLN_ED_05||explanation"
+msgid "Wipe out the remainders of the Naito Army!"
+msgstr ""
+
+msgctxt "26||CLN_ED_06||explanation"
+msgid "Defeat the assassins JUSTIS sent out in Kamurocho!"
+msgstr ""
+
+msgctxt "27||CLN_ED_07||explanation"
+msgid "Defeat the assassins JUSTIS sent out in Kamurocho!"
+msgstr ""
+
+msgctxt "28||CLN_ED_08||explanation"
+msgid "Defeat the assassins JUSTIS sent out in Kamurocho!"
+msgstr ""
+
+msgctxt "29||CLN_ED_09||explanation"
+msgid "Wipe out the remainders of the TenCozy Army!"
+msgstr ""
+
+msgctxt "30||CLN_ED_10||explanation"
+msgid "Wipe out the remainders of the Tanahashi Army!"
+msgstr ""
+
+msgctxt "31||CLN_CL_01||explanation"
+msgid "Defeat the mysterious Amon army!"
+msgstr ""
+
+msgctxt "32||CLN_CL_02||explanation"
+msgid "Defeat the mysterious Amon army!"
+msgstr ""
+
+msgctxt "33||CLN_CL_03||explanation"
+msgid "Defeat the mysterious Amon army!"
+msgstr ""
+
+msgctxt "34||CLN_CL_04||explanation"
+msgid "Defeat the mysterious Amon army!"
+msgstr ""
+
+msgctxt "35||CLN_CL_05||explanation"
+msgid "Defeat the mysterious Amon army!"
+msgstr ""
+
+msgctxt "36||CLN_CL_06||explanation"
+msgid "Defeat the mysterious Amon army!"
+msgstr ""
+
+msgctxt "44||CLN_ONLINE_01||explanation"
+msgid "This is round one! Defeat the elites!"
+msgstr ""
+
+msgctxt "45||CLN_ONLINE_02||explanation"
+msgid "This is round two! Defeat the elites!"
+msgstr ""
+
+msgctxt "46||CLN_ONLINE_03||explanation"
+msgid "The third and final round! Brace yourself!"
+msgstr ""
+
+msgctxt "48||limited_monday||explanation"
+msgid "Take out your Monday aggression on some Brawlers!"
+msgstr ""
+
+msgctxt "49||limited_tuesday||explanation"
+msgid "It's only Tuesday!? Defeat these Gunners!"
+msgstr ""
+
+msgctxt "50||limited_wednesday||explanation"
+msgid "Get over the Wednesday hump by hurting these\r\nHeavies!"
+msgstr ""
+
+msgctxt "51||limited_thursday||explanation"
+msgid "Almost through the week! Defeat the Thursday\r\nRushers!"
+msgstr ""
+
+msgctxt "52||limited_friday||explanation"
+msgid "Home alone on a Friday night? That's okay, just\r\ntake out these Grenadiers!"
+msgstr ""
+
+msgctxt "57||CLN_ONLINE_FRIEND||explanation"
+msgid "Battle against a Friend to test the power of the\r\nKiryu Clan!"
+msgstr ""
+
+msgctxt "58||CLN_ONLINE_RANKER||explanation"
+msgid "This battle pits you against the top of the charts!\r\nPrepare for a fight!"
+msgstr ""
+
+msgctxt "59||limited_holiday||explanation"
+msgid "Taste that fresh weekend EXP! Battle on weekends\r\nto really power up the Kiryu Clan!"
+msgstr ""
+
+msgctxt "60||limited_card||explanation"
+msgid "Complete this mission to obtain an uncommon leader.\r\nUse him to expand the Kiryu Clan's dominance!"
+msgstr ""
+
+msgctxt "61||limited_mosa||explanation"
+msgid "The elites have launched an all-out assault! Take a\r\ndeep breath and join the fray!"
+msgstr ""
+
+msgctxt "62||limited_shinnichi||explanation"
+msgid "Assassins from New Japan Pro-Wrestling have launched an\r\nattack! Defeat them with the power of the Kiryu Clan!"
+msgstr ""
+
+msgctxt "63||limited_rokukyoujin||explanation"
+msgid "The Six Lunatics have reunited to launch an attack!\r\nSummon the power of the Kiryu Clan and take them on!"
+msgstr ""
+
+msgctxt "64||limited_nisekiryu||explanation"
+msgid "Who are these imposters!? Show them the power of\r\nthe one true Kiryu Clan!"
+msgstr ""
+
+msgctxt "3||CLN_03||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "4||CLN_04||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "5||CLN_05||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "6||CLN_06||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "7||CLN_07||win_condition_explanation"
+msgid "Defeat Yano!"
+msgstr ""
+
+msgctxt "8||CLN_08||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "9||CLN_09||win_condition_explanation"
+msgid "Defeat Naito!"
+msgstr ""
+
+msgctxt "10||CLN_10||win_condition_explanation"
+msgid "Defeat Naito!"
+msgstr ""
+
+msgctxt "12||CLN_12||win_condition_explanation"
+msgid "Defeat Tenzan!"
+msgstr ""
+
+msgctxt "13||CLN_13||win_condition_explanation"
+msgid "Defeat Kojima!"
+msgstr ""
+
+msgctxt "14||CLN_14||win_condition_explanation"
+msgid "Defeat Tenzan and Kojima!"
+msgstr ""
+
+msgctxt "15||CLN_15||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "16||CLN_16||win_condition_explanation"
+msgid "Defeat Tanahashi!"
+msgstr ""
+
+msgctxt "17||CLN_17||win_condition_explanation"
+msgid "Defeat Tanahashi!"
+msgstr ""
+
+msgctxt "19||CLN_19||win_condition_explanation"
+msgid "Defeat Okada!"
+msgstr ""
+
+msgctxt "20||CLN_20||win_condition_explanation"
+msgid "Defeat Satsuki!"
+msgstr ""
+
+msgctxt "21||CLN_ED_01||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "22||CLN_ED_02||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "23||CLN_ED_03||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "24||CLN_ED_04||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "25||CLN_ED_05||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "26||CLN_ED_06||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "27||CLN_ED_07||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "28||CLN_ED_08||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "29||CLN_ED_09||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "30||CLN_ED_10||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "31||CLN_CL_01||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "32||CLN_CL_02||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "33||CLN_CL_03||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "34||CLN_CL_04||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "35||CLN_CL_05||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "36||CLN_CL_06||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "44||CLN_ONLINE_01||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "45||CLN_ONLINE_02||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "46||CLN_ONLINE_03||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "48||limited_monday||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "49||limited_tuesday||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "50||limited_wednesday||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "51||limited_thursday||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "52||limited_friday||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "57||CLN_ONLINE_FRIEND||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "58||CLN_ONLINE_RANKER||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "59||limited_holiday||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "60||limited_card||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "61||limited_mosa||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "62||limited_shinnichi||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "63||limited_rokukyoujin||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "64||limited_nisekiryu||win_condition_explanation"
+msgid "Wipe out the enemy!"
+msgstr ""
+
+msgctxt "3||CLN_03||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "4||CLN_04||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "5||CLN_05||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "6||CLN_06||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "7||CLN_07||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "8||CLN_08||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "9||CLN_09||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "10||CLN_10||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "12||CLN_12||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "13||CLN_13||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "14||CLN_14||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "15||CLN_15||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "16||CLN_16||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "17||CLN_17||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "19||CLN_19||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "20||CLN_20||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "21||CLN_ED_01||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "22||CLN_ED_02||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "23||CLN_ED_03||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "24||CLN_ED_04||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "25||CLN_ED_05||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "26||CLN_ED_06||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "27||CLN_ED_07||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "28||CLN_ED_08||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "29||CLN_ED_09||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "30||CLN_ED_10||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "31||CLN_CL_01||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "32||CLN_CL_02||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "33||CLN_CL_03||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "34||CLN_CL_04||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "35||CLN_CL_05||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "36||CLN_CL_06||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "44||CLN_ONLINE_01||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "45||CLN_ONLINE_02||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "46||CLN_ONLINE_03||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "48||limited_monday||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "49||limited_tuesday||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "50||limited_wednesday||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "51||limited_thursday||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "52||limited_friday||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "57||CLN_ONLINE_FRIEND||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "58||CLN_ONLINE_RANKER||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "59||limited_holiday||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "60||limited_card||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "61||limited_mosa||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "62||limited_shinnichi||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "63||limited_rokukyoujin||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "64||limited_nisekiryu||lose_condition_explanation"
+msgid "Not fulfilling victory conditions within time limit"
+msgstr ""
+
+msgctxt "3||CLN_03||place_text"
+msgid "Onomichi Jingaicho, Jingai Main St."
+msgstr ""
+
+msgctxt "4||CLN_04||place_text"
+msgid "Onomichi Jingaicho, West National Route 2"
+msgstr ""
+
+msgctxt "5||CLN_05||place_text"
+msgid "Onomichi Jingaicho, East National Route 2"
+msgstr ""
+
+msgctxt "6||CLN_06||place_text"
+msgid "Onomichi Jingaicho, East National Route 2"
+msgstr ""
+
+msgctxt "7||CLN_07||place_text"
+msgid "Onomichi Jingaicho, East Shishido St."
+msgstr ""
+
+msgctxt "8||CLN_08||place_text"
+msgid "Onomichi Jingaicho, First Hill"
+msgstr ""
+
+msgctxt "9||CLN_09||place_text"
+msgid "Onomichi Jingaicho, East Shishido St."
+msgstr ""
+
+msgctxt "10||CLN_10||place_text"
+msgid "Onomichi Jingaicho, West National Route 2"
+msgstr ""
+
+msgctxt "12||CLN_12||place_text"
+msgid "Kamurocho, Tenkaichi St."
+msgstr ""
+
+msgctxt "13||CLN_13||place_text"
+msgid "Kamurocho, Pink St."
+msgstr ""
+
+msgctxt "14||CLN_14||place_text"
+msgid "Kamurocho, Nakamichi St."
+msgstr ""
+
+msgctxt "15||CLN_15||place_text"
+msgid "Kamurocho, West Shichifuku St."
+msgstr ""
+
+msgctxt "16||CLN_16||place_text"
+msgid "Kamurocho, Theater Ave."
+msgstr ""
+
+msgctxt "17||CLN_17||place_text"
+msgid "Kamurocho, Theater Square"
+msgstr ""
+
+msgctxt "19||CLN_19||place_text"
+msgid "Kamurocho, Taihei Blvd."
+msgstr ""
+
+msgctxt "20||CLN_20||place_text"
+msgid "Kamurocho, Tenkaichi St."
+msgstr ""
+
+msgctxt "21||CLN_ED_01||place_text"
+msgid "Onomichi Jingaicho, Jingai Main St."
+msgstr ""
+
+msgctxt "22||CLN_ED_02||place_text"
+msgid "Onomichi Jingaicho, Second Hill"
+msgstr ""
+
+msgctxt "23||CLN_ED_03||place_text"
+msgid "Onomichi Jingaicho, West Shishido St."
+msgstr ""
+
+msgctxt "24||CLN_ED_04||place_text"
+msgid "Onomichi Jingaicho, East Shishido St."
+msgstr ""
+
+msgctxt "25||CLN_ED_05||place_text"
+msgid "Onomichi Jingaicho, East Shishido St."
+msgstr ""
+
+msgctxt "26||CLN_ED_06||place_text"
+msgid "Kamurocho, Nakamichi Alley"
+msgstr ""
+
+msgctxt "27||CLN_ED_07||place_text"
+msgid "Kamurocho, East Taihei Blvd."
+msgstr ""
+
+msgctxt "28||CLN_ED_08||place_text"
+msgid "Kamurocho, Nakamichi St."
+msgstr ""
+
+msgctxt "29||CLN_ED_09||place_text"
+msgid "Kamurocho, Tenkaichi St."
+msgstr ""
+
+msgctxt "30||CLN_ED_10||place_text"
+msgid "Kamurocho, Theater Ave."
+msgstr ""
+
+msgctxt "31||CLN_CL_01||place_text"
+msgid "Onomichi Jingaicho, West National Route 2"
+msgstr ""
+
+msgctxt "32||CLN_CL_02||place_text"
+msgid "Onomichi Jingaicho, East Shishido St."
+msgstr ""
+
+msgctxt "33||CLN_CL_03||place_text"
+msgid "Onomichi Jingaicho, Jingai Main St."
+msgstr ""
+
+msgctxt "34||CLN_CL_04||place_text"
+msgid "Kamurocho, Taihei Blvd."
+msgstr ""
+
+msgctxt "35||CLN_CL_05||place_text"
+msgid "Kamurocho, Senryo Ave."
+msgstr ""
+
+msgctxt "36||CLN_CL_06||place_text"
+msgid "Kamurocho, Theater Square"
+msgstr ""
+
+msgctxt "44||CLN_ONLINE_01||place_text"
+msgid "Kamurocho, Nakamichi St."
+msgstr ""
+
+msgctxt "45||CLN_ONLINE_02||place_text"
+msgid "Kamurocho, Nakamichi St."
+msgstr ""
+
+msgctxt "46||CLN_ONLINE_03||place_text"
+msgid "Kamurocho, Nakamichi St."
+msgstr ""
+
+msgctxt "48||limited_monday||place_text"
+msgid "Onomichi Jingaicho, Jingai Main St."
+msgstr ""
+
+msgctxt "49||limited_tuesday||place_text"
+msgid "Onomichi Jingaicho, First Hill"
+msgstr ""
+
+msgctxt "50||limited_wednesday||place_text"
+msgid "Onomichi Jingaicho, East Shishido St."
+msgstr ""
+
+msgctxt "51||limited_thursday||place_text"
+msgid "Onomichi Jingaicho, West National Route 2"
+msgstr ""
+
+msgctxt "52||limited_friday||place_text"
+msgid "Onomichi Jingaicho, First Hill"
+msgstr ""
+
+msgctxt "57||CLN_ONLINE_FRIEND||place_text"
+msgid "Kamurocho, Nakamichi St."
+msgstr ""
+
+msgctxt "58||CLN_ONLINE_RANKER||place_text"
+msgid "Kamurocho, Nakamichi St."
+msgstr ""
+
+msgctxt "59||limited_holiday||place_text"
+msgid "Onomichi Jingaicho, Jingai Main St."
+msgstr ""
+
+msgctxt "60||limited_card||place_text"
+msgid "Kamurocho, Taihei Blvd."
+msgstr ""
+
+msgctxt "61||limited_mosa||place_text"
+msgid "Kamurocho, Pink St."
+msgstr ""
+
+msgctxt "62||limited_shinnichi||place_text"
+msgid "Kamurocho, Tenkaichi St."
+msgstr ""
+
+msgctxt "63||limited_rokukyoujin||place_text"
+msgid "Kamurocho, Nakamichi St."
+msgstr ""
+
+msgctxt "64||limited_nisekiryu||place_text"
+msgid "Kamurocho, Theater Square"
+msgstr ""
+

@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Oh! Kiryu-san!"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Did I keep you waiting long?\r\nWell, ready to go?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Totally. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "The view's great here...\r\nSo, what did you need to tell me?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Um... Well... I know we've already\r\ntalked so much, Kiryu-san..."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "I feel like I've talked so much about myself though,\r\nand you've never had the chance to reciprocate..."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Hmm. Well, now that you mention it,\r\nmaybe it's been a little one-sided."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "That's why...\r\nI have several questions for you, Kiryu-san."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "No problem.\r\nSo... what do you want to know?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Huh? W-Well... \r\nHow about, um... the type of women you like?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "My type...?\r\nW-Well..."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "I like a woman who's pure\r\nand ladylike, I suppose."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "I see... So kinda like the\r\ntraditional Japanese woman, then?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Yeah. You may be from Taiwan...\r\nBut you're very much my type, Sora."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "M-Me? I'm ladylike?"
+msgstr ""
+
+msgctxt "15||||4"
+msgid "I don't know about that... but you're refined.\r\nAnd you care a lot about your family."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Thank you so much...\r\nI love getting compliments from you..."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "I like a woman who's pure\r\nand energetic."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "I see... So someone who can kind of\r\nbalance out your more reserved style?"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Yeah.\r\nIn a sense, you're my type, Sora."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "M-Me?\r\nI'm energetic?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Yeah. You make the most out of living in\r\na country you hardly know, and that's great."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "On top of that, you're honest and pure."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Thank you so much...\r\nI love getting compliments from you..."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Is there anything else you wanted to ask?"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Yes... Um...\r\nSomething else..."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Whew... The wind's getting chilly."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Yeah, I can't believe it's already winter."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "So true. We probably better head home\r\nbefore we catch cold..."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "...What's wrong?\r\nAre you ready to go?"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Um... Kiryu-san...\r\nIs it okay if I ask one last question?"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Um... Kiryu-san, I feel like you're a\r\nman who's already set on his path."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "But... I can't help but wonder if you're\r\nthe type to ever settle down with a woman."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Hm... Marriage..."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "It might be nice to get married someday, but\r\nI don't have the luxury of thinking about it now."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "I have something I have to finish first..."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Something to finish?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "I can't say much, but...\r\nlike you, I have family I truly care about."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Family... Kiryu-san, are you saying\r\nyou were married before?"
+msgstr ""
+
+msgctxt "40||||4"
+msgid "No, but she may as well be my family.\r\nThere's this girl I consider my daughter."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "She got into an accident recently... and on\r\ntop of everything else, she hasn't woken up..."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "I had no idea..."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "I'm sorry, I didn't know you were dealing with something\r\nso horrible, and here I am talking about marriage..."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "What a joke of a hostess I am..."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "That's not true at all.\r\nIn fact, talking to you has given me courage."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "...Courage?"
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Yeah. When I heard how much you cared for your\r\nfamily... It only strengthened my resolve."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "For her... For my whole family...\r\nI have to be ready to put my life on the line."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Protecting your family, making a life for your family,\r\nrisking your life for your family..."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "I realized how important these seemingly\r\nordinary things are from talking to you."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Thanks... Sora."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "...No, I should be thanking you, Kiryu-san."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "I hope that whatever you need to accomplish...\r\nends up being a spectacular success, Kiryu-san."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Me too."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "By the way, there was something else you\r\nwanted to ask, wasn't there?"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "No, it's fine.\r\nI don't need to ask it anymore."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "You sure?"
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Mhm. I'm glad you're so dense, Kiryu-san."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "But in return...\r\nCan I have just a little more of your time?"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Hm? Sure, I don't mind."
+msgstr ""
+

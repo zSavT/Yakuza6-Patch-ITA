@@ -1,0 +1,957 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||trial||message"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "2||mahjong0||message"
+msgid "Mahjong"
+msgstr ""
+
+msgctxt "3||spear0||message"
+msgid "Spearfishing"
+msgstr ""
+
+msgctxt "4||batting0||message"
+msgid "Batting Center"
+msgstr ""
+
+msgctxt "5||baseball0||message"
+msgid "Baseball"
+msgstr ""
+
+msgctxt "6||snack0||message"
+msgid "New Gaudi"
+msgstr ""
+
+msgctxt "7||cabaret0||message"
+msgid "Cabaret Club"
+msgstr ""
+
+msgctxt "8||darts0||message"
+msgid "Darts"
+msgstr ""
+
+msgctxt "9||gym_bp||message"
+msgid "Bench Presses"
+msgstr ""
+
+msgctxt "10||gym_sq||message"
+msgid "Squats"
+msgstr ""
+
+msgctxt "11||gym_dl||message"
+msgid "Deadlifts"
+msgstr ""
+
+msgctxt "12||gym_sj||message"
+msgid "Jump Squats"
+msgstr ""
+
+msgctxt "13||gym_lp||message"
+msgid "Lat Pulldowns"
+msgstr ""
+
+msgctxt "14||gym_sr||message"
+msgid "Seated Row"
+msgstr ""
+
+msgctxt "15||clan0||message"
+msgid "Clan Creator Battles"
+msgstr ""
+
+msgctxt "16||karaoke0||message"
+msgid "Karaoke"
+msgstr ""
+
+msgctxt "17||baby0||message"
+msgid "Calming Haruto"
+msgstr ""
+
+msgctxt "18||saisen0||message"
+msgid "Donation Box"
+msgstr ""
+
+msgctxt "19||livechat0||message"
+msgid "Live Chat"
+msgstr ""
+
+msgctxt "20||sega_fzn||message"
+msgid "Fantasy Zone"
+msgstr ""
+
+msgctxt "21||sega_hng||message"
+msgid "Super Hang-On"
+msgstr ""
+
+msgctxt "22||sega_otr||message"
+msgid "Out Run"
+msgstr ""
+
+msgctxt "23||sega_sph||message"
+msgid "Space Harrier"
+msgstr ""
+
+msgctxt "24||clan1||message"
+msgid "Clan Creator Menu"
+msgstr ""
+
+msgctxt "25||karaoke1||message"
+msgid "Karaoke Interjections"
+msgstr ""
+
+msgctxt "26||snack1||message"
+msgid "New Gaudi Conversation Events"
+msgstr ""
+
+msgctxt "27||batting1||message"
+msgid "Batting Center"
+msgstr ""
+
+msgctxt "28||snack2||message"
+msgid "New Gaudi Conversation Events"
+msgstr ""
+
+msgctxt "29||mahjong0_b||message"
+msgid "Mahjong"
+msgstr ""
+
+msgctxt "1||trial||buttons||0||||2"
+msgid "Extreme Heat Mode"
+msgstr ""
+
+msgctxt "1||trial||buttons||1||||2"
+msgid "Reset Camera / Disable Heat Actions"
+msgstr ""
+
+msgctxt "1||trial||buttons||2||||2"
+msgid "Guard / Change Grab Type"
+msgstr ""
+
+msgctxt "1||trial||buttons||3||||2"
+msgid "Fighting Stance"
+msgstr ""
+
+msgctxt "1||trial||buttons||4||||2"
+msgid "Strong Attack / Heat Action"
+msgstr ""
+
+msgctxt "1||trial||buttons||5||||2"
+msgid "Weak Attack"
+msgstr ""
+
+msgctxt "1||trial||buttons||6||||2"
+msgid "Grab / Throw"
+msgstr ""
+
+msgctxt "1||trial||buttons||7||||2"
+msgid "Quickstep / Sprint (Outside of Battle)"
+msgstr ""
+
+msgctxt "1||trial||buttons||8||||2"
+msgid "Move Camera"
+msgstr ""
+
+msgctxt "1||trial||buttons||9||||2"
+msgid "Move"
+msgstr ""
+
+msgctxt "1||trial||buttons||10||||2"
+msgid "First Person View (Outside of Battle)"
+msgstr ""
+
+msgctxt "1||trial||buttons||11||||2"
+msgid "Take Out Camera (Outside of Battle)"
+msgstr ""
+
+msgctxt "1||trial||buttons||12||||2"
+msgid "Drop Weapon"
+msgstr ""
+
+msgctxt "1||trial||buttons||13||||2"
+msgid "Check Inbox (Outside of Battle)"
+msgstr ""
+
+msgctxt "1||trial||buttons||14||||2"
+msgid "Open Troublr (Outside of Battle)"
+msgstr ""
+
+msgctxt "1||trial||buttons||15||||2"
+msgid "View Map"
+msgstr ""
+
+msgctxt "1||trial||buttons||16||||2"
+msgid "Open Pause Menu"
+msgstr ""
+
+msgctxt "2||mahjong0||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "2||mahjong0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "2||mahjong0||buttons||2||||2"
+msgid "Select Tile"
+msgstr ""
+
+msgctxt "2||mahjong0||buttons||3||||2"
+msgid "Select Tile"
+msgstr ""
+
+msgctxt "2||mahjong0||buttons||4||||2"
+msgid "Check Discard"
+msgstr ""
+
+msgctxt "2||mahjong0||buttons||5||||2"
+msgid "View Tutorial"
+msgstr ""
+
+msgctxt "2||mahjong0||buttons||6||||2"
+msgid "Toggle Command Display"
+msgstr ""
+
+msgctxt "2||mahjong0||buttons||7||||2"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2||mahjong0||buttons||8||||2"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "3||spear0||buttons||0||||2"
+msgid "Pause/Quit"
+msgstr ""
+
+msgctxt "3||spear0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "3||spear0||buttons||2||||2"
+msgid "Move Cursor"
+msgstr ""
+
+msgctxt "3||spear0||buttons||3||||2"
+msgid "Reload/Cancel"
+msgstr ""
+
+msgctxt "3||spear0||buttons||4||||2"
+msgid "Shoot"
+msgstr ""
+
+msgctxt "3||spear0||buttons||5||||2"
+msgid "Shoot"
+msgstr ""
+
+msgctxt "3||spear0||buttons||6||||2"
+msgid "Reload"
+msgstr ""
+
+msgctxt "4||batting0||buttons||0||||2"
+msgid "Pause / Quit\r\nTouch to Move Swing Cursor\r\nRelease to Swing Bat"
+msgstr ""
+
+msgctxt "4||batting0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "4||batting0||buttons||2||||2"
+msgid "Move Swing Cursor"
+msgstr ""
+
+msgctxt "4||batting0||buttons||3||||2"
+msgid "Rules"
+msgstr ""
+
+msgctxt "4||batting0||buttons||4||||2"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "4||batting0||buttons||5||||2"
+msgid "Swing Bat\r\nConfirm"
+msgstr ""
+
+msgctxt "5||baseball0||buttons||0||||2"
+msgid "Pause / Quit\r\nTouch to Move Swing Cursor\r\nRelease to Swing Bat"
+msgstr ""
+
+msgctxt "5||baseball0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "5||baseball0||buttons||2||||2"
+msgid "Move Swing Cursor"
+msgstr ""
+
+msgctxt "5||baseball0||buttons||3||||2"
+msgid "Move Cursor"
+msgstr ""
+
+msgctxt "5||baseball0||buttons||4||||2"
+msgid "Change Game Speed"
+msgstr ""
+
+msgctxt "5||baseball0||buttons||5||||2"
+msgid "Rules"
+msgstr ""
+
+msgctxt "5||baseball0||buttons||6||||2"
+msgid "Substitute Players"
+msgstr ""
+
+msgctxt "5||baseball0||buttons||7||||2"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "5||baseball0||buttons||8||||2"
+msgid "Swing Bat\r\nConfirm"
+msgstr ""
+
+msgctxt "6||snack0||buttons||0||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "6||snack0||buttons||1||||2"
+msgid "Move"
+msgstr ""
+
+msgctxt "6||snack0||buttons||2||||2"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "6||snack0||buttons||3||||2"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "7||cabaret0||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "7||cabaret0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "7||cabaret0||buttons||2||||2"
+msgid "Select a Card"
+msgstr ""
+
+msgctxt "7||cabaret0||buttons||3||||2"
+msgid "Select a Card"
+msgstr ""
+
+msgctxt "7||cabaret0||buttons||4||||2"
+msgid "Check Profile"
+msgstr ""
+
+msgctxt "7||cabaret0||buttons||5||||2"
+msgid "Exchange Cards"
+msgstr ""
+
+msgctxt "7||cabaret0||buttons||6||||2"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "7||cabaret0||buttons||7||||2"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "8||darts0||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "8||darts0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "8||darts0||buttons||2||||2"
+msgid "Move Cursor"
+msgstr ""
+
+msgctxt "8||darts0||buttons||3||||2"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "8||darts0||buttons||4||||2"
+msgid "Throw / Select"
+msgstr ""
+
+msgctxt "8||darts0||buttons||5||||2"
+msgid "Move Camera (On Opponent's Turn)"
+msgstr ""
+
+msgctxt "9||gym_bp||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "9||gym_bp||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "9||gym_bp||buttons||2||||2"
+msgid "Press Rapidly to Raise Barbell"
+msgstr ""
+
+msgctxt "9||gym_bp||buttons||3||||2"
+msgid "Press Rapidly to Raise Barbell"
+msgstr ""
+
+msgctxt "10||gym_sq||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "10||gym_sq||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "10||gym_sq||buttons||2||||2"
+msgid "Squat"
+msgstr ""
+
+msgctxt "11||gym_dl||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "11||gym_dl||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "11||gym_dl||buttons||2||||2"
+msgid "Mash to Lift"
+msgstr ""
+
+msgctxt "12||gym_sj||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "12||gym_sj||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "12||gym_sj||buttons||2||||2"
+msgid "Jump Squat"
+msgstr ""
+
+msgctxt "12||gym_sj||buttons||3||||2"
+msgid "Jump Squat"
+msgstr ""
+
+msgctxt "12||gym_sj||buttons||4||||2"
+msgid "Jump Squat"
+msgstr ""
+
+msgctxt "12||gym_sj||buttons||5||||2"
+msgid "Jump Squat"
+msgstr ""
+
+msgctxt "13||gym_lp||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "13||gym_lp||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "13||gym_lp||buttons||2||||2"
+msgid "Press the L1 and R1 buttons at\r\nthe same time to raise/lower bar"
+msgstr ""
+
+msgctxt "13||gym_lp||buttons||3||||2"
+msgid "Press the L1 and R1 buttons at\r\nthe same time to raise/lower bar"
+msgstr ""
+
+msgctxt "14||gym_sr||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "14||gym_sr||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "14||gym_sr||buttons||2||||2"
+msgid "Hold to Increase Gauge\r\nRelease to Stop Gauge"
+msgstr ""
+
+msgctxt "15||clan0||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "15||clan0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "15||clan0||buttons||2||||2"
+msgid "Move Cursor"
+msgstr ""
+
+msgctxt "15||clan0||buttons||3||||2"
+msgid "Select Unit"
+msgstr ""
+
+msgctxt "15||clan0||buttons||4||||2"
+msgid "Select Unit"
+msgstr ""
+
+msgctxt "15||clan0||buttons||5||||2"
+msgid "Select Unit"
+msgstr ""
+
+msgctxt "15||clan0||buttons||6||||2"
+msgid "Skill Activation"
+msgstr ""
+
+msgctxt "15||clan0||buttons||7||||2"
+msgid "Snap to Selected Leader"
+msgstr ""
+
+msgctxt "15||clan0||buttons||8||||2"
+msgid "Increase Cursor Speed"
+msgstr ""
+
+msgctxt "15||clan0||buttons||9||||2"
+msgid "Deploy Unit / Move Leader"
+msgstr ""
+
+msgctxt "16||karaoke0||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "16||karaoke0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "16||karaoke0||buttons||2||||2"
+msgid "Press / Rapid Press / Hold to Sing"
+msgstr ""
+
+msgctxt "16||karaoke0||buttons||3||||2"
+msgid "Press / Rapid Press / Hold to Sing"
+msgstr ""
+
+msgctxt "16||karaoke0||buttons||4||||2"
+msgid "Press / Rapid Press / Hold to Sing"
+msgstr ""
+
+msgctxt "16||karaoke0||buttons||5||||2"
+msgid "Press / Rapid Press / Hold to Sing"
+msgstr ""
+
+msgctxt "17||baby0||buttons||0||||2"
+msgid "Controls"
+msgstr ""
+
+msgctxt "17||baby0||buttons||1||||2"
+msgid "Press <symbol=vf5_key_arrow_n8> on both the left\r\nand right sticks to raise Haruto up"
+msgstr ""
+
+msgctxt "17||baby0||buttons||2||||2"
+msgid "Press <symbol=vf5_key_arrow_n8> on both the left\r\nand right sticks to raise Haruto up"
+msgstr ""
+
+msgctxt "17||baby0||buttons||3||||2"
+msgid "Head Rub"
+msgstr ""
+
+msgctxt "17||baby0||buttons||4||||2"
+msgid "Pacify Haruto by shaking the controller up/down and left/right."
+msgstr ""
+
+msgctxt "18||saisen0||buttons||0||||2"
+msgid "Throw Money"
+msgstr ""
+
+msgctxt "18||saisen0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "18||saisen0||buttons||2||||2"
+msgid "Stop Right Reel"
+msgstr ""
+
+msgctxt "18||saisen0||buttons||3||||2"
+msgid "Stop Left Reel"
+msgstr ""
+
+msgctxt "18||saisen0||buttons||4||||2"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "18||saisen0||buttons||5||||2"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "19||livechat0||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "19||livechat0||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "19||livechat0||buttons||2||||2"
+msgid "Enter Message"
+msgstr ""
+
+msgctxt "19||livechat0||buttons||3||||2"
+msgid "Enter Message"
+msgstr ""
+
+msgctxt "19||livechat0||buttons||4||||2"
+msgid "Enter Message"
+msgstr ""
+
+msgctxt "19||livechat0||buttons||5||||2"
+msgid "Enter Message"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||1||||2"
+msgid "Start the Game\r\nView Controls"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||2||||2"
+msgid "Toggle Screen Options"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||3||||2"
+msgid "Add Credit"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||4||||2"
+msgid "Move"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||5||||2"
+msgid "Move"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||6||||2"
+msgid "Shoot / Select Parts"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||7||||2"
+msgid "Bomb / Select Parts"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||8||||2"
+msgid "Rapid Fire"
+msgstr ""
+
+msgctxt "20||sega_fzn||buttons||9||||2"
+msgid "Rapid Bombs"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||1||||2"
+msgid "Start the Game\r\nView Controls"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||2||||2"
+msgid "Toggle Screen Options"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||3||||2"
+msgid "Add Credit"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||4||||2"
+msgid "Move"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||5||||2"
+msgid "Move"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||6||||2"
+msgid "Turbo"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||7||||2"
+msgid "Accelerate / Confirm"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||8||||2"
+msgid "Brake"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||9||||2"
+msgid "Turbo"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||10||||2"
+msgid "Accelerate / Confirm"
+msgstr ""
+
+msgctxt "21||sega_hng||buttons||11||||2"
+msgid "Brake"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||1||||2"
+msgid "Start the Game\r\nView Controls"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||2||||2"
+msgid "Toggle Screen Options"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||3||||2"
+msgid "Add Credit"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||4||||2"
+msgid "Steering Wheel"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||5||||2"
+msgid "Steering Wheel"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||6||||2"
+msgid "Change Gears"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||7||||2"
+msgid "Accelerate / Confirm"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||8||||2"
+msgid "Brake"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||9||||2"
+msgid "Change Gears"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||10||||2"
+msgid "Accelerate / Confirm"
+msgstr ""
+
+msgctxt "22||sega_otr||buttons||11||||2"
+msgid "Brake"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||1||||2"
+msgid "Start the Game\r\nView Controls"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||2||||2"
+msgid "Toggle Screen Options"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||3||||2"
+msgid "Add Credit / Controls"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||4||||2"
+msgid "Move Harrier"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||5||||2"
+msgid "Move Harrier"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||6||||2"
+msgid "Invert Y-axis"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||7||||2"
+msgid "Shoot / Confirm"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||8||||2"
+msgid "Rapid Fire"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||9||||2"
+msgid "Shoot / Confirm"
+msgstr ""
+
+msgctxt "23||sega_sph||buttons||10||||2"
+msgid "Rapid Fire"
+msgstr ""
+
+msgctxt "24||clan1||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "24||clan1||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "24||clan1||buttons||2||||2"
+msgid "Move Cursor"
+msgstr ""
+
+msgctxt "24||clan1||buttons||3||||2"
+msgid "Move Cursor"
+msgstr ""
+
+msgctxt "24||clan1||buttons||4||||2"
+msgid "Display Skill"
+msgstr ""
+
+msgctxt "24||clan1||buttons||5||||2"
+msgid "Remove"
+msgstr ""
+
+msgctxt "24||clan1||buttons||6||||2"
+msgid "Swap"
+msgstr ""
+
+msgctxt "24||clan1||buttons||7||||2"
+msgid "Back"
+msgstr ""
+
+msgctxt "24||clan1||buttons||8||||2"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "25||karaoke1||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "25||karaoke1||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "25||karaoke1||buttons||2||||2"
+msgid "Interject"
+msgstr ""
+
+msgctxt "25||karaoke1||buttons||3||||2"
+msgid "Maracas"
+msgstr ""
+
+msgctxt "25||karaoke1||buttons||4||||2"
+msgid "Tambourine"
+msgstr ""
+
+msgctxt "25||karaoke1||buttons||5||||2"
+msgid "Clap"
+msgstr ""
+
+msgctxt "26||snack1||buttons||0||||2"
+msgid "Pause/Quit"
+msgstr ""
+
+msgctxt "26||snack1||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "26||snack1||buttons||2||||2"
+msgid "Select Response"
+msgstr ""
+
+msgctxt "26||snack1||buttons||3||||2"
+msgid "Select Response"
+msgstr ""
+
+msgctxt "26||snack1||buttons||4||||2"
+msgid "Select Response"
+msgstr ""
+
+msgctxt "26||snack1||buttons||5||||2"
+msgid "Select Response"
+msgstr ""
+
+msgctxt "27||batting1||buttons||0||||2"
+msgid "Pause / Quit\r\nTouch to Move Swing Cursor\r\nRelease to Swing Bat"
+msgstr ""
+
+msgctxt "27||batting1||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "27||batting1||buttons||2||||2"
+msgid "Move Swing Cursor"
+msgstr ""
+
+msgctxt "27||batting1||buttons||3||||2"
+msgid "Rules"
+msgstr ""
+
+msgctxt "27||batting1||buttons||4||||2"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "27||batting1||buttons||5||||2"
+msgid "Swing Bat\r\nConfirm"
+msgstr ""
+
+msgctxt "28||snack2||buttons||0||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "28||snack2||buttons||1||||2"
+msgid "Select Response"
+msgstr ""
+
+msgctxt "28||snack2||buttons||2||||2"
+msgid "Select Response"
+msgstr ""
+
+msgctxt "28||snack2||buttons||3||||2"
+msgid "Select Response"
+msgstr ""
+
+msgctxt "28||snack2||buttons||4||||2"
+msgid "Select Response"
+msgstr ""
+
+msgctxt "29||mahjong0_b||buttons||0||||2"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "29||mahjong0_b||buttons||1||||2"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "29||mahjong0_b||buttons||2||||2"
+msgid "Select Tile"
+msgstr ""
+
+msgctxt "29||mahjong0_b||buttons||3||||2"
+msgid "Select Tile"
+msgstr ""
+
+msgctxt "29||mahjong0_b||buttons||4||||2"
+msgid "Check Discard"
+msgstr ""
+
+msgctxt "29||mahjong0_b||buttons||5||||2"
+msgid "View Tutorial"
+msgstr ""
+
+msgctxt "29||mahjong0_b||buttons||6||||2"
+msgid "Toggle Command Display"
+msgstr ""
+
+msgctxt "29||mahjong0_b||buttons||7||||2"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "29||mahjong0_b||buttons||8||||2"
+msgid "Confirm"
+msgstr ""
+

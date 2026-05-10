@@ -1,0 +1,729 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm...?"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "This isn't a number I recognize.\r\nWho could it be...?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Ah, hi there!\r\nIt's me!"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Hm... Me?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Yup. You know who I am."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "(I wonder who this guy is...\r\nWait, I think I recognize his voice.)"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "(Could it be... Daigo?)"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "(No. Daigo's young, but he's not <font_kind=yakuza_italic>this</font_kind> young.)"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "(It couldn't be Haruto, could it...?)"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "(No, Haruto's too young to stand up\r\non his own, let alone talk on the phone.)"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Is that you... Taichi?"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Yeah! It's me, Taichi!"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "I could barely tell. Do you have a cold\r\nor something? You sound kinda weird."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Yeah, this sore throat is doing a\r\nnumber on my voice!"
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Well, that's no good.\r\nMake sure you get some rest."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "I will. By the way, are you good to talk?\r\nWhere are you right now?"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Hm? Oh, I'm in Kamurocho."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Got it. Kamurocho, then."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Um... I know this is kinda out of the blue,\r\nbut I have something I need to ask."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Hm? What is it?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Well, one of my friends got hurt\r\nreal bad, and it's totally my fault."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "What...!?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "They're asking me to cover both\r\nthe treatment and his hospital bills."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "I don't have that kind of money, though..."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "So, um... I was wondering if you'd\r\nbe able to spot me a bit of cash."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "If you can't, I'll probably end up\r\nsaddled with debt for years to come."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "(Taichi is really in trouble here...)"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "(Wait a second...)"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "(I feel like I've heard about scams\r\nthat sound a little like this.)"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "(I should figure out what's going on here.)"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Taichi, where are you calling me from?\r\nI don't recognize this number."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Oh, I got a new phone.\r\nA new number, too."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Wait, have you ever even owned a phone?\r\nThat's news to me."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Huh? Oh, s-sorry."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Guess I just forgot to tell you.\r\nI actually bought one a little while ago."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "(Hm...)"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "(This is no time to be distrustful.\r\nTaichi needs my help here.)"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Okay, then.\r\nHow much do you need?"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "They said around 200,000..."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "200 grand!?"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Oh, but if that's too much for you,\r\nI'll take whatever you can get your hands on."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "I should be able to scrounge\r\ntogether the rest myself."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "A-All right..."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "I have to wonder, though...\r\nHow did you hurt your friend so badly?"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Well, uh... We got in a terrible accident."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "What? You mean, like a car accident?\r\nYou don't even have a driver's license."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Oh, uh... That's not it at all!\r\nIt was, um... more like a freak accident."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "(What is that even supposed to mean?\r\nI wonder...)"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Have you been wrestling again?"
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Uh, yeah! My friend and I were\r\npretending we were pros..."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Taichi, I don't want to treat you like a kid."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "But that means you need to stop behaving\r\nlike one. Try to act your age, okay?"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "S-Sorry..."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "And your friend?\r\nHow's he doing?"
+msgstr ""
+
+msgctxt "55||||4"
+msgid "W-Well, the doctor said he'll be totally\r\nfine as long as he gets into surgery soon."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "I see."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "So, his surgery is the top priority."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "How do you want me to send the money?\r\nI can't come back to Okinawa right now."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Huh? Okinawa?"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Aren't you still at Morning Glory?\r\nDon't tell me... Did you leave Okinawa, too?"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "U-Uh, oh! Th-That's right! As is the\r\ncustomary greeting in Okinawa, \"mensore\"!"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "(Why would he give me an Okinawan welcome?\r\nI wonder why he's acting so strange...)"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "(With everything that's happened,\r\nhe's probably just looking for a distraction.)"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Taichi. I know things are rough right now,\r\nbut times like this are what make a man."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Yeah... You're right.\r\nI've gotta get a grip here."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "(With everything that's happened,\r\nhe's probably just looking for a distraction.)"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "(I should try to help get his mind off it.)"
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Ah, mensore!"
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Wh-What? What's all that about?"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Anyway, I'm kinda in a hurry here.\r\nCan we get back to the point?"
+msgstr ""
+
+msgctxt "72||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "73||||4"
+msgid "I'm down in Okinawa right now."
+msgstr ""
+
+msgctxt "74||||4"
+msgid "My hurt buddy's dad is apparently\r\nin Tokyo on business, though."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "I'm gonna need you to give him the cash."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "I'll tell him to wait over by\r\nthe Millennium Tower for you."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "You think you'll be able to scrape up\r\nthe money and head over there now?"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "...Yeah, I can do that."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Great! His dad's name is Ishigaki-san,\r\njust so you know. Well, thanks again!"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "All right then, off to the Millennium Tower.\r\nIshigaki-san's waiting for me."
+msgstr ""
+
+msgctxt "81||||4"
+msgid "(This must be someone trying to scam me.)"
+msgstr ""
+
+msgctxt "82||||4"
+msgid "(I can't believe they'd really steal from\r\na random stranger over the phone.)"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "(I should play along and show him what\r\nhappens to people who pull stunts like this.)"
+msgstr ""
+
+msgctxt "84||||4"
+msgid "All right. What do you need me to do?"
+msgstr ""
+
+msgctxt "85||||4"
+msgid "Oh, I actually just heard my friend's dad\r\nis up in Kamurocho right now."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Do, um... Do you think you could\r\ngive him the money for me?"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Wow. That's a pretty amazing coincidence."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Isn't it? His dad's name is Ishigaki-san, by the way.\r\nI'll tell him to wait over by the Millennium Tower."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "Please, can you bring him the money?"
+msgstr ""
+
+msgctxt "90||||4"
+msgid "...Yeah, I can do that."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Really!? Great!\r\nWell, thanks again!"
+msgstr ""
+
+msgctxt "92||||4"
+msgid "All right then, off to the Millennium Tower.\r\nI'm coming for you, you thieving bastard."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "(Is this the father of the kid Taichi hurt?\r\nI'm pretty sure his name is Ishigaki.)"
+msgstr ""
+
+msgctxt "94||||4"
+msgid "So, are you Ishigaki-san?"
+msgstr ""
+
+msgctxt "95||||4"
+msgid "Ah, yes. I'm Akira Ishigaki.\r\nAnd you are?"
+msgstr ""
+
+msgctxt "96||||4"
+msgid "It's Kiryu."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Oh, so you're the guy.\r\nTaichi-kun told me everything."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "I'm sorry he's put your family\r\nthrough so much trouble."
+msgstr ""
+
+msgctxt "99||||4"
+msgid "It's okay. For now, I just want to get\r\nback to my son as soon as possible!"
+msgstr ""
+
+msgctxt "100||||4"
+msgid "Is it all right if you cover\r\nthe treatment fees, Kiryu-san?"
+msgstr ""
+
+msgctxt "101||||4"
+msgid "I don't want to put Taichi-kun in debt,\r\nbut he'll need to pay for it if you can't help."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "(I need to make sure they have enough\r\nto cover their son's hospital bills.)"
+msgstr ""
+
+msgctxt "103||||4"
+msgid "(More importantly, I can't let\r\nTaichi end up in debt!)"
+msgstr ""
+
+msgctxt "104||||4"
+msgid "I'm sorry about this. I didn't have much\r\ntime, so I couldn't get the full amount."
+msgstr ""
+
+msgctxt "105||||4"
+msgid "I see... Okay, then. For now, I'll gladly\r\ntake whatever you have to offer."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Here you are, 200 grand.\r\nPlease use this to save your son."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "Thank you so much.\r\nYou're a good man."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "Well then, it's about time I head\r\nback to Okinawa to help my son!"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "Once he's out of surgery, I'll have\r\nTaichi-kun get in touch with you."
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Okay."
+msgstr ""
+
+msgctxt "111||||4"
+msgid "I hope his son recovers soon."
+msgstr ""
+
+msgctxt "112||||4"
+msgid "I should let Taichi know I gave him the money.\r\nThe number he called me from earlier should work."
+msgstr ""
+
+msgctxt "113||||4"
+msgid "Hm? Damn, voicemail..."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Oh well. I'll just call Morning Glory instead."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "Hello, Ayako? Is Taichi there?\r\nYeah, I need to talk to him for a bit."
+msgstr ""
+
+msgctxt "116||||4"
+msgid "Taichi? I just gave Ishigaki-san the money.\r\nYou don't need to worry."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "Huh? You don't know an Ishigaki?\r\nBut he's the father of the friend you hurt!"
+msgstr ""
+
+msgctxt "118||||4"
+msgid "...What? You didn't hurt any of your friends?"
+msgstr ""
+
+msgctxt "119||||4"
+msgid "By the way, your throat sounds a lot better.\r\nIt's amazing how fast you recovered."
+msgstr ""
+
+msgctxt "120||||4"
+msgid "What do you mean?\r\nAre you messing with me?"
+msgstr ""
+
+msgctxt "121||||4"
+msgid "No, it's just... Yeah.\r\nSorry for all the weird questions."
+msgstr ""
+
+msgctxt "122||||4"
+msgid "R-Right. Talk to you later."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "(Hmm...)"
+msgstr ""
+
+msgctxt "124||||4"
+msgid "Oh yeah. Have you seen the news on all\r\nthose phone scams that've been going around?"
+msgstr ""
+
+msgctxt "125||||4"
+msgid "Yeah, I feel like everyone was talking about them.\r\nThe ones where they pretend to be someone you know."
+msgstr ""
+
+msgctxt "126||||4"
+msgid "I dunno, but wouldn't their voice be different?\r\nWho'd fall for something like that?"
+msgstr ""
+
+msgctxt "127||||4"
+msgid "For real. Anyone dumb enough to get suckered\r\nin by something like that practically deserves it."
+msgstr ""
+
+msgctxt "128||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "129||||4"
+msgid "Let's get out of here."
+msgstr ""
+
+msgctxt "130||||4"
+msgid "R-Right!"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "Dammit. That lesson came at a price."
+msgstr ""
+
+msgctxt "132||||4"
+msgid "(Something seems wrong about this.\r\nIt has to be a scam...)"
+msgstr ""
+
+msgctxt "133||||4"
+msgid "(I should try to catch him in his lie.)"
+msgstr ""
+
+msgctxt "134||||4"
+msgid "Hold on.\r\nCan I actually ask you something first?"
+msgstr ""
+
+msgctxt "135||||4"
+msgid "S-Sure."
+msgstr ""
+
+msgctxt "136||||4"
+msgid "(This must be the guy that fake Taichi told me about.)"
+msgstr ""
+
+msgctxt "137||||4"
+msgid "So, are you Ishigaki-san?"
+msgstr ""
+
+msgctxt "138||||4"
+msgid "Ah, yes. I'm Akira Ishigaki. And you are?"
+msgstr ""
+
+msgctxt "139||||4"
+msgid "The name's Kiryu."
+msgstr ""
+
+msgctxt "140||||4"
+msgid "Oh, so you're the guy.\r\nTaichi-kun told me everything."
+msgstr ""
+
+msgctxt "141||||4"
+msgid "Anyway, about those treatment fees..."
+msgstr ""
+
+msgctxt "142||||4"
+msgid "Actually, can I ask you something first?"
+msgstr ""
+
+msgctxt "143||||4"
+msgid "S-Sure."
+msgstr ""
+
+msgctxt "144||||4"
+msgid "You've... spent some time with\r\nTaichi before, haven't you?"
+msgstr ""
+
+msgctxt "145||||4"
+msgid "Yes, of course."
+msgstr ""
+
+msgctxt "146||||4"
+msgid "Then, you know about the huge burn scar\r\nhe has across the side of his face, right?"
+msgstr ""
+
+msgctxt "147||||4"
+msgid "Has he ever mentioned how it happened?"
+msgstr ""
+
+msgctxt "148||||4"
+msgid "No, he's never brought it up.\r\nIt seemed best not to mention it."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "(Got him.)"
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Kiryu-san? Is something wrong?"
+msgstr ""
+
+msgctxt "151||||4"
+msgid "Not at all. I just didn't think you'd\r\ngive yourself away so easily. Thanks for that."
+msgstr ""
+
+msgctxt "152||||4"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "153||||4"
+msgid "If you knew Taichi, you'd know\r\nhe doesn't have a scar at all."
+msgstr ""
+
+msgctxt "154||||4"
+msgid "Wh-What!?"
+msgstr ""
+
+msgctxt "155||||4"
+msgid "I wasn't expecting it to be that easy.\r\nYou thieves aren't the brightest."
+msgstr ""
+
+msgctxt "156||||4"
+msgid "You fucking prick. I guess I don't have a choice\r\nnow that you caught me. Hey, c'mon out!"
+msgstr ""
+
+msgctxt "157||||4"
+msgid "Man, this old fart figured us out?\r\nWhat a pain in the ass."
+msgstr ""
+
+msgctxt "158||||4"
+msgid "You... You're the one from the phone."
+msgstr ""
+
+msgctxt "159||||4"
+msgid "It's me, Taichi!"
+msgstr ""
+
+msgctxt "160||||4"
+msgid "Heh, guess we're gonna have to do this the hard way.\r\nTime to beat the cash outta you!"
+msgstr ""
+
+msgctxt "161||||4"
+msgid "Hey, gramps! You're finished!"
+msgstr ""
+
+msgctxt "162||||4"
+msgid "P-Please, we've had enough!"
+msgstr ""
+
+msgctxt "163||||4"
+msgid "You better swear... you'll never try to pull\r\nanother one of these ridiculous scams again!"
+msgstr ""
+
+msgctxt "164||||4"
+msgid "O-Okay! We promise, we promise!"
+msgstr ""
+
+msgctxt "165||||4"
+msgid "R-Run away!"
+msgstr ""
+
+msgctxt "166||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "167||||4"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "168||||4"
+msgid "Ah, hi there!\r\nIt's me!"
+msgstr ""
+
+msgctxt "169||||4"
+msgid "Me...?"
+msgstr ""
+
+msgctxt "170||||4"
+msgid "Yeah! It's me, Taichi!"
+msgstr ""
+
+msgctxt "171||||4"
+msgid "It hasn't even been 30 seconds, you little punk.\r\nDo you need me to teach you another lesson!?"
+msgstr ""
+
+msgctxt "172||||4"
+msgid "U-Uncle Kaz, is something wrong?\r\nYou're scaring me."
+msgstr ""
+
+msgctxt "173||||4"
+msgid "Wait, is this really Taichi?"
+msgstr ""
+
+msgctxt "174||||4"
+msgid "I mean, I said it was Taichi, right?"
+msgstr ""
+
+msgctxt "175||||4"
+msgid "I was just calling to say hello.\r\nSorry, are you too busy?"
+msgstr ""
+
+msgctxt "176||||4"
+msgid "O-Oh. No, it's okay."
+msgstr ""
+
+msgctxt "177||||4"
+msgid "Phew. I'm glad I got to hear your voice,\r\nUncle Kaz. Anyway, talk to you later!"
+msgstr ""
+
+msgctxt "178||||4"
+msgid "Right. Say hi to the others for me."
+msgstr ""
+
+msgctxt "179||||4"
+msgid "Scams are everywhere... I've gotta check\r\nwho's on the other end when I answer."
+msgstr ""
+

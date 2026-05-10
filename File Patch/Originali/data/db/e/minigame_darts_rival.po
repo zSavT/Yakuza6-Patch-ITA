@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||rival_random||name"
+msgid "Random-kun (Test)"
+msgstr ""
+
+msgctxt "2||rival_rookie||name"
+msgid "Yuya Akaishizawa"
+msgstr ""
+
+msgctxt "3||rival_intermediate||name"
+msgid "Yuka Kinoshita"
+msgstr ""
+
+msgctxt "4||rival_veteran||name"
+msgid "Reiko Asada"
+msgstr ""
+
+msgctxt "5||rival_paul||name"
+msgid "Paul Lim"
+msgstr ""
+
+msgctxt "6||rival_snack_mama||name"
+msgid "Mama"
+msgstr ""
+
+msgctxt "7||rival_snack_patron||name"
+msgid "Ando-san"
+msgstr ""
+
+msgctxt "8||rival_caba_saki||name"
+msgid "Saki"
+msgstr ""
+
+msgctxt "9||rival_caba_sora||name"
+msgid "Sora"
+msgstr ""
+
+msgctxt "10||rival_caba_hikaru||name"
+msgid "Hikaru"
+msgstr ""
+
+msgctxt "11||rival_caba_erina||name"
+msgid "Erina"
+msgstr ""
+
+msgctxt "12||rival_caba_riona||name"
+msgid "Riona"
+msgstr ""
+
+msgctxt "13||rival_none||name"
+msgid "Play Solo"
+msgstr ""
+

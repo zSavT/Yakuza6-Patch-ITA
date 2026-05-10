@@ -1,0 +1,673 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hmm... Not good..."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Yer darn right..."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "We've been waiting fer ya, Captain!"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "(Oh yeah... One thing lead to another and\r\nnow I'm a baseball team captain.)"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Yo. What's the issue here?\r\nYou guys sounded kind of down."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "We wanted t'get some practice in,\r\nbut we don't even have enough guys..."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "So we were trying t'figure out a way\r\nto practice with so few players!"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "I-I see... I guess it's going to be problematic\r\nuntil we get some new players here, huh?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Right on the nose... But if we don't\r\npractice, my dream of goin' pro is..."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Really? You're trying to go pro?"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Sorta..."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "But yeah, I know all about how tough it is.\r\nI couldn't even make the minors..."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "This is the only team a terrible player\r\nlike me gots any right t'be on..."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "But, if you're going to dream...\r\nMight as well dream big, y'know?"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Heh, that's the truth.\r\nI didn't know baseball was your thing."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Oh no no, it's nothing too big..."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "But back t'reality here, it sucks that we\r\ncan't practice because we're short..."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "You're right...\r\nHow many guys we do have now?"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Nine, including you...\r\nIt'd be nice t'have 'least one more guy."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "We can't even substitute any players\r\nwith a roster like this..."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Hmm... Sounds like the first thing we\r\nhave to do then is recruit new guys."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "But where would I even begin to look..."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "You guys wouldn't happen to know\r\nanyone who'd be interested?"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Umm... Well, maybe there's one..."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Oh? And who'd that be?"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Well... He's uh..."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Chiba-san, you talkin' 'bout Moritsuka-san?"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Moritsuka?"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Yeah, he was on Chiba-san's high school team.\r\nThey were swinging fer the nationals together."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "I heard he even caught a pro ball scout's eye,\r\nbut he dropped out after some trouble."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Huh. Is that so?"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "W-Well, yeah..."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Moritsuka-san's a pitcher,\r\nso it'd be real helpful if he joined."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "I'm the only pitcher we've got now,\r\nand I don't got the endurance t'last..."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Sounds like a second pitcher would be good then.\r\nWhere's this Moritsuka guy at, Chiba?"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Well, if I had to bet, I'd guess he's at a liquor\r\nstore, gettin' into pointless arguments?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "A liquor store...\r\nGuess I'll have to check it out."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "But... I doubt it'll do much good to\r\njust walk up and have a chat."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "He's not... quite what he used t'be."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Chiba...\r\nWhat happened between you?"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Uh, nothing..."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "It's up to you now, Captain Kiryu!"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "(Whatever. I guess I'll see if I spot\r\nhim at any of the local bars...)"
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Moritsuka's probably at a liquor store,\r\ndrinking or arguing about stuff..."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Although... I don't expect jus' talking\r\nt'have any real effect on him..."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Hm? A fight?"
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Damn you!"
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Piece o' shit Moritsuka!"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Fer a guy who wanted to go pro,\r\nyou're pathetic."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Take that!"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Moritsuka? Isn't that the baseball player\r\nChiba mentioned?"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "If y'don't stop picking fights like\r\nthis, yer gonna end up dead!"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "You used t'be the talk o' the town...\r\nNow look at ya. You're a loser, Moritsuka."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "We'll be back fer some more later!"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Damn... assholes..."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "He's in terrible shape...\r\nGuess I'll give this a try."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Are you Moritsuka?"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Huh...? Who the hell're you?"
+msgstr ""
+
+msgctxt "65||||4"
+msgid "My name's Kiryu...\r\nThere's a matter I want to discuss with you."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Discuss? With me?\r\nHey, you right in the head?"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "So, what is it y'wanna talk about?\r\nThis ol' drunk's ears're wide open."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Thing is... I'm the captain of a baseball team\r\ncalled the Setouchi Warriors."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "I won't mince words.\r\nWe need you on the team."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Hell naw."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Why?\r\nYou used to play, didn't you?"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "I don't play baseball anymore...\r\nI hate the game now."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "I've heard you had some sort of trouble...\r\nWhat happened?"
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Heh... Like I'd tell you any o' that."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "Booze... Gimme some damn booze."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "You're pretty drunk already.\r\nI suggest you stop."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Shaddup! What's yer problem, man?"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "I'm pissed off as it is. Lemme hit the\r\nbottle... Or I'm gonna hit you!"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "You're a bulldozer..."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Thought I had ya... Especially one-on-one...\r\nAlways someone stronger though, eh?"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "You're drunk, but you can still throw a punch.\r\nI'd say you're still quite an athlete."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "Maybe so, but that don't\r\nmean I can still play ball..."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "What happened?\r\nYou used to love it, didn't you?"
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Love's an understatement.\r\nBaseball was my entire world..."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "I see... I'd heard some kind of\r\nscandal disbanded the team..."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "Yeah, but I didn't give up on goin' pro.\r\nEven made the minors after high school."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "I was determined... My team was weak,\r\nbut I practiced hard every damn day."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Never got the team a win, but a\r\nscout noticed I had some hustle."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "Even told me I'd make the draft if I kept\r\npostin' up the results I was showing."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Whoa... You were pretty good."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "But then... Some asshole on the team\r\ngoes down on an assault charge."
+msgstr ""
+
+msgctxt "95||||4"
+msgid "Apparently he got drunk and punched\r\na dude out in some downtime..."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "The entire team took the fall fer it..."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Our team was barely scrapin' by to begin\r\nwith, so of course we ended up disbanding..."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "I'm sorry to hear that..."
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Toppin' it all off, the guy who started the\r\nfight was a punk who never liked the game."
+msgstr ""
+
+msgctxt "100||||4"
+msgid "My life went down the shitter...\r\nAll 'cause of that asshole..."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "I've just been drinkin' my sorrows away\r\nsince then, trying t'forget baseball..."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "But in the end... I love that damn game.\r\nI'll never get it outta my head..."
+msgstr ""
+
+msgctxt "104||||4"
+msgid "So please, gimme some booze?\r\nCan't y'see what a mess I am?"
+msgstr ""
+
+msgctxt "105||||4"
+msgid "Moritsuka...\r\nWhat about giving baseball another chance?"
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Too late fer that now..."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "Moritsuka!"
+msgstr ""
+
+msgctxt "108||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "Oh, Chiba? Been a while.\r\nY'here to laugh at me?"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Ya never could hit one of my pitches...\r\nBut lucky you, now y'can get your hits in..."
+msgstr ""
+
+msgctxt "111||||4"
+msgid "Enough... Enough o' this..."
+msgstr ""
+
+msgctxt "112||||4"
+msgid "What'd y'say...?"
+msgstr ""
+
+msgctxt "113||||4"
+msgid "I was always a step behind you...\r\nMoritsuka, the school's ace pitcher..."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "I played every day in hopes of hitting one of\r\nyour pitches... In hopes of being like you..."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "I envied you... You had the raw talent and\r\nphysique for baseball, and I had neither..."
+msgstr ""
+
+msgctxt "116||||4"
+msgid "And yet... You gave up on the sport\r\njust because your team disbanded!?"
+msgstr ""
+
+msgctxt "117||||4"
+msgid "Aren't there other paths to going pro?\r\nWhy'd y'give up so easily!?"
+msgstr ""
+
+msgctxt "118||||4"
+msgid "Chiba..."
+msgstr ""
+
+msgctxt "119||||4"
+msgid "I'm not the only one. How many other\r\nplayers admired you enough to try harder!?"
+msgstr ""
+
+msgctxt "120||||4"
+msgid "But then you go and quit over somethin' so lame,\r\nand drink the day away... What's your problem!?"
+msgstr ""
+
+msgctxt "121||||4"
+msgid "You had the talent and the passion,\r\nbut y'gave up on baseball..."
+msgstr ""
+
+msgctxt "122||||4"
+msgid "As a guy with no talent but the will to keep\r\ngoin', I can't forgive that!"
+msgstr ""
+
+msgctxt "124||||4"
+msgid "Chiba..."
+msgstr ""
+
+msgctxt "125||||4"
+msgid "Moritsuka... Let's play ball again."
+msgstr ""
+
+msgctxt "126||||4"
+msgid "That dream's somewhere down there, right?\r\nDrinkin' isn't gonna make it come true."
+msgstr ""
+
+msgctxt "127||||4"
+msgid "Let's chase the dream together again.\r\nJus' like the old days."
+msgstr ""
+
+msgctxt "128||||4"
+msgid "Go back to being the cool Moritsuka...\r\nThe guy I admired so much..."
+msgstr ""
+
+msgctxt "129||||4"
+msgid "Chiba..."
+msgstr ""
+
+msgctxt "130||||4"
+msgid "Whoa, whoa...\r\nThat wasn't like me at all."
+msgstr ""
+
+msgctxt "131||||4"
+msgid "Nah... It's definitely like you.\r\nY'were always the passionate one."
+msgstr ""
+
+msgctxt "132||||4"
+msgid "Did y'know...\r\nI always admired that?"
+msgstr ""
+
+msgctxt "133||||4"
+msgid "Moritsuka..."
+msgstr ""
+
+msgctxt "134||||4"
+msgid "Kiryu-san... I take back what I said."
+msgstr ""
+
+msgctxt "135||||4"
+msgid "Sign me up...\r\nI wanna be on a team with you n' Chiba."
+msgstr ""
+
+msgctxt "136||||4"
+msgid "You sure?"
+msgstr ""
+
+msgctxt "137||||4"
+msgid "Yeah, my classmate put his heart on the table...\r\nI gotta meet him halfway, right?"
+msgstr ""
+
+msgctxt "138||||4"
+msgid "I haven't worked toward the life I wanted,\r\nand if I don't start, I'll just die with regrets."
+msgstr ""
+
+msgctxt "139||||4"
+msgid "So, it's time to aim for goin' pro again.\r\nBut it all starts with hittin' the field."
+msgstr ""
+
+msgctxt "140||||4"
+msgid "Going pro?\r\nYou sure you can tough it out?"
+msgstr ""
+
+msgctxt "141||||4"
+msgid "Yup. If you're gonna dream,\r\nya might as well dream big."
+msgstr ""
+
+msgctxt "142||||4"
+msgid "Besides... I just really wanna play baseball.\r\nDon't make me say this stupid shit."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "Heh... Nice.\r\nSee you on the field, Moritsuka."
+msgstr ""
+
+msgctxt "144||||4"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "145||||4"
+msgid "Nice t'be back... Chiba."
+msgstr ""
+
+msgctxt "146||||4"
+msgid "Yeah...!"
+msgstr ""
+
+msgctxt "147||||4"
+msgid "There, now we have ten players."
+msgstr ""
+
+msgctxt "148||||4"
+msgid "Our team's gonna be so much better\r\nnow that Moritsuka joined."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "But I've heard people all over Onomichi\r\nhave some experience with baseball."
+msgstr ""
+
+msgctxt "150||||4"
+msgid "If y'could find even a few of 'em,\r\nthat would make us even better!"
+msgstr ""
+
+msgctxt "151||||4"
+msgid "You got it."
+msgstr ""
+
+msgctxt "152||||4"
+msgid "Well, well, if it ain't the Setouchi weaklings."
+msgstr ""
+
+msgctxt "153||||4"
+msgid "Hamana..."
+msgstr ""
+
+msgctxt "154||||4"
+msgid "Oh, you bulkin' the team up?\r\nMoritsuka, you're joining these clowns?"
+msgstr ""
+
+msgctxt "155||||4"
+msgid "A guy with your talent?\r\nIt's wasted on this team."
+msgstr ""
+
+msgctxt "156||||4"
+msgid "Ain't yer business.\r\nY'haven't changed a bit, Hamana."
+msgstr ""
+
+msgctxt "157||||4"
+msgid "More importantly... Our team's bigger now!\r\nIt's time to play a game!"
+msgstr ""
+
+msgctxt "158||||4"
+msgid "You'll play us if we beat your farm team, right?"
+msgstr ""
+
+msgctxt "159||||4"
+msgid "Sure. Where you're at now,\r\nno point even gettin' dressed."
+msgstr ""
+
+msgctxt "160||||4"
+msgid "My boys on the farm team are gettin' bored,\r\nso maybe this'll be the spark they need."
+msgstr ""
+
+msgctxt "161||||4"
+msgid "They may be a farm team, but when you see\r\nthe lightning, the Thunder's comin'."
+msgstr ""
+
+msgctxt "162||||4"
+msgid "Hmph... Bring it on."
+msgstr ""
+
+msgctxt "163||||4"
+msgid "Tell your farm team to bring their best.\r\n...The Warriors are coming."
+msgstr ""
+
+msgctxt "164||||4"
+msgid "Heh... Bold talk.\r\nCaptain Kiryu, was it?"
+msgstr ""
+
+msgctxt "165||||4"
+msgid "A line like that... Hope y'don't\r\nend up eatin' them words."
+msgstr ""
+
+msgctxt "166||||4"
+msgid "The Thunder's gonna boom...\r\nSo hide while y'can."
+msgstr ""
+
+msgctxt "167||||4"
+msgid "See ya'll losers on the field."
+msgstr ""
+
+msgctxt "168||||4"
+msgid "That piece o' shit...\r\nHe ain't changed."
+msgstr ""
+
+msgctxt "169||||4"
+msgid "Yup... So we gotta win here!"
+msgstr ""
+
+msgctxt "170||||4"
+msgid "Yeah... But that means we're gonna\r\nneed t'keep getting bigger."
+msgstr ""
+
+msgctxt "171||||4"
+msgid "If we're gonna play...\r\nWe play to win."
+msgstr ""
+
+msgctxt "172||||4"
+msgid "Agreed!"
+msgstr ""
+
+msgctxt "173||||4"
+msgid "Yeah!"
+msgstr ""
+

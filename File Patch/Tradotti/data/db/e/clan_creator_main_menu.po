@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||mission||name"
+msgid "Missions"
+msgstr ""
+
+msgctxt "2||edit||name"
+msgid "Organization"
+msgstr ""
+
+msgctxt "3||ability||name"
+msgid "Training"
+msgstr ""
+
+msgctxt "4||network||name"
+msgid "Network"
+msgstr ""
+
+msgctxt "5||help||name"
+msgid "Help"
+msgstr ""
+
+msgctxt "7||customize_chart||name"
+msgid "Hierarchy"
+msgstr ""
+
+msgctxt "8||customize_deck||name"
+msgid "Strike Team"
+msgstr ""
+
+msgctxt "9||network_attack||name"
+msgid "Raid"
+msgstr ""
+
+msgctxt "10||network_defense||name"
+msgid "Defense Force"
+msgstr ""
+
+msgctxt "12||network_return||name"
+msgid "Back"
+msgstr ""
+
+msgctxt "13||network_limited||name"
+msgid "Events"
+msgstr ""
+
+msgctxt "14||network_ranker||name"
+msgid "Ranked Raid"
+msgstr ""
+
+msgctxt "15||network_friend||name"
+msgid "Friend Raid"
+msgstr ""
+
+msgctxt "16||network_agreement||name"
+msgid "Terms of Use"
+msgstr ""
+
+msgctxt "1||mission||explanation"
+msgid "Select a mission to begin a Clan Battle."
+msgstr ""
+
+msgctxt "2||edit||explanation"
+msgid "Customize the organization and select a Strike Team."
+msgstr ""
+
+msgctxt "3||ability||explanation"
+msgid "Strengthen your leaders with Kiryu's experience points."
+msgstr ""
+
+msgctxt "4||network||explanation"
+msgid "Play exclusive online content."
+msgstr ""
+
+msgctxt "5||help||explanation"
+msgid "Review Clan Creator tutorials."
+msgstr ""
+
+msgctxt "7||customize_chart||explanation"
+msgid "Restructure the Kiryu Clan."
+msgstr ""
+
+msgctxt "8||customize_deck||explanation"
+msgid "Select leaders to participate in battle."
+msgstr ""
+
+msgctxt "9||network_attack||explanation"
+msgid "Battle against other clans online."
+msgstr ""
+
+msgctxt "10||network_defense||explanation"
+msgid "Upload your team to fight in automatic battles online."
+msgstr ""
+
+msgctxt "12||network_return||explanation"
+msgid "Return to the previous screen."
+msgstr ""
+
+msgctxt "13||network_limited||explanation"
+msgid "Play missions available only for a limited time."
+msgstr ""
+
+msgctxt "14||network_ranker||explanation"
+msgid "Take on the Defense Force of the top 10 players."
+msgstr ""
+
+msgctxt "15||network_friend||explanation"
+msgid "Challenge your Friends on PlayStation™Network.\r\n*EXP and rewards are not given in this mode."
+msgstr ""
+
+msgctxt "16||network_agreement||explanation"
+msgid "Review the terms of use."
+msgstr ""
+

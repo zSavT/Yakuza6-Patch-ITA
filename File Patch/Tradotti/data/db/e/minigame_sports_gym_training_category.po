@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||squat||name"
+msgid "Squats"
+msgstr ""
+
+msgctxt "2||bench_press||name"
+msgid "Bench Press"
+msgstr ""
+
+msgctxt "3||deadlift||name"
+msgid "Deadlifts"
+msgstr ""
+
+msgctxt "6||squat_jump||name"
+msgid "Jump Squats"
+msgstr ""
+
+msgctxt "7||lat_pulldown||name"
+msgid "Lat Pulldowns"
+msgstr ""
+
+msgctxt "8||seated_rowing||name"
+msgid "Seated Row"
+msgstr ""
+
+msgctxt "1||squat||information"
+msgid "Weight training focused on the lower body.\r\nImproves your Spirit and Strength."
+msgstr ""
+
+msgctxt "2||bench_press||information"
+msgid "Weight training focused on the upper body.\r\nImproves your Strength and Spirit."
+msgstr ""
+
+msgctxt "3||deadlift||information"
+msgid "Training done by lifting a large barbell off the ground.\r\nImproves your Strength and Agility."
+msgstr ""
+
+msgctxt "6||squat_jump||information"
+msgid "Training focused on the lower body.\r\nImproves your Agility and Spirit."
+msgstr ""
+
+msgctxt "7||lat_pulldown||information"
+msgid "Training done with a lat machine.\r\nImproves your Spirit and Agility."
+msgstr ""
+
+msgctxt "8||seated_rowing||information"
+msgid "Training done with a rowing machine.\r\nImproves your Agility and Strength."
+msgstr ""
+

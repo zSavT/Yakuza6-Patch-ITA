@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "4||new_game||name"
+msgid "NEW GAME"
+msgstr ""
+
+msgctxt "5||new_game_after_clear||name"
+msgid "NEW GAME"
+msgstr ""
+
+msgctxt "6||continue||name"
+msgid "CONTINUE"
+msgstr ""
+
+msgctxt "7||movie||name"
+msgid "REPLAY"
+msgstr ""
+
+msgctxt "8||past_series||name"
+msgid "MEMORIES"
+msgstr ""
+
+msgctxt "10||new_game_after_clear_main_story||name"
+msgid "NEW GAME"
+msgstr ""
+
+msgctxt "11||new_game_after_clear_padv||name"
+msgid "PREMIUM ADVENTURE"
+msgstr ""
+
+msgctxt "12||difficulty_easy||name"
+msgid "EASY"
+msgstr ""
+
+msgctxt "13||difficulty_normal||name"
+msgid "NORMAL"
+msgstr ""
+
+msgctxt "14||difficulty_hard||name"
+msgid "HARD"
+msgstr ""
+
+msgctxt "15||difficulty_legend||name"
+msgid "LEGEND"
+msgstr ""
+
+msgctxt "16||two_player_game||name"
+msgid "2-PLAYER VS. MINIGAMES"
+msgstr ""
+
+msgctxt "17||two_player_game_puyo||name"
+msgid "Puyo Puyo"
+msgstr ""
+
+msgctxt "18||two_player_game_vf5||name"
+msgid "Virtua Fighter 5 Final Showdown"
+msgstr ""
+
+msgctxt "19||memories_ryu1||name"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "20||memories_ryu2||name"
+msgid "Yakuza 2"
+msgstr ""
+
+msgctxt "21||memories_ryu3||name"
+msgid "Yakuza 3"
+msgstr ""
+
+msgctxt "22||memories_ryu4||name"
+msgid "Yakuza 4"
+msgstr ""
+
+msgctxt "23||memories_ryu5||name"
+msgid "Yakuza 5"
+msgstr ""
+
+msgctxt "25||tgs_start_onomichi||name"
+msgid "ONOMICHI - THE MAIN STORY"
+msgstr ""
+
+msgctxt "26||tgs_start_kamuro||name"
+msgid "KAMUROCHO - FREE PLAY"
+msgstr ""
+
+msgctxt "27||continue_after_clear||name"
+msgid "CONTINUE"
+msgstr ""
+
+msgctxt "28||tgs_game_option||name"
+msgid "GAME SETTINGS"
+msgstr ""
+
+msgctxt "29||tgs_audio_option||name"
+msgid "AUDIO SETTINGS"
+msgstr ""
+
+msgctxt "30||settings||name"
+msgid "SETTINGS"
+msgstr ""
+
+msgctxt "31||quit_game||name"
+msgid "QUIT GAME"
+msgstr ""
+
+msgctxt "32||subsettings_graphics||name"
+msgid "GRAPHICS SETTINGS"
+msgstr ""
+
+msgctxt "33||subsettings_controls||name"
+msgid "CONTROLS"
+msgstr ""
+
+msgctxt "34||subsettings_game||name"
+msgid "GAME SETTINGS"
+msgstr ""
+
+msgctxt "35||subsettings_audio||name"
+msgid "AUDIO SETTINGS"
+msgstr ""
+
+msgctxt "36||license||name"
+msgid "LICENSE"
+msgstr ""
+
+msgctxt "4||new_game||explanation"
+msgid "Start the game from the beginning."
+msgstr ""
+
+msgctxt "5||new_game_after_clear||explanation"
+msgid "Start the game from the beginning."
+msgstr ""
+
+msgctxt "6||continue||explanation"
+msgid "Continue a saved game.\r\nThe autosave feature will overwrite your file as you play."
+msgstr ""
+
+msgctxt "7||movie||explanation"
+msgid "View previously seen story events."
+msgstr ""
+
+msgctxt "8||past_series||explanation"
+msgid "Catch up on the Yakuza series to date."
+msgstr ""
+
+msgctxt "10||new_game_after_clear_main_story||explanation"
+msgid "Start the main story from the beginning."
+msgstr ""
+
+msgctxt "11||new_game_after_clear_padv||explanation"
+msgid "Explore the world without the main story."
+msgstr ""
+
+msgctxt "12||difficulty_easy||explanation"
+msgid "Recommended for players who are new to action games or the Yakuza series."
+msgstr ""
+
+msgctxt "13||difficulty_normal||explanation"
+msgid "This is the standard difficulty level."
+msgstr ""
+
+msgctxt "14||difficulty_hard||explanation"
+msgid "Recommended for players who are skilled at action games."
+msgstr ""
+
+msgctxt "15||difficulty_legend||explanation"
+msgid "A difficulty reserved for true legends of Yakuza."
+msgstr ""
+
+msgctxt "16||two_player_game||explanation"
+msgid "Two players face off in Puyo Puyo or Virtua Fighter 5 Final Showdown.\r\n*Requires two input devices.\r\n*Does not count toward your in-game Awards."
+msgstr ""
+
+msgctxt "17||two_player_game_puyo||explanation"
+msgid "Aim to make the best chains in Puyo-popping mayhem!"
+msgstr ""
+
+msgctxt "18||two_player_game_vf5||explanation"
+msgid "The definitive entry in the Virtua Fighter series!"
+msgstr ""
+
+msgctxt "19||memories_ryu1||explanation"
+msgid "Read a summary of Yakuza, which took place in 2005."
+msgstr ""
+
+msgctxt "20||memories_ryu2||explanation"
+msgid "Read a summary of Yakuza 2, which took place in 2006."
+msgstr ""
+
+msgctxt "21||memories_ryu3||explanation"
+msgid "Read a summary of Yakuza 3, which took place in 2009."
+msgstr ""
+
+msgctxt "22||memories_ryu4||explanation"
+msgid "Read a summary of Yakuza 4, which took place in 2010."
+msgstr ""
+
+msgctxt "23||memories_ryu5||explanation"
+msgid "Read a summary of Yakuza 5, which took place in 2012."
+msgstr ""
+
+msgctxt "25||tgs_start_onomichi||explanation"
+msgid "Experience the main story.\r\n*This option is cutscene heavy."
+msgstr ""
+
+msgctxt "26||tgs_start_kamuro||explanation"
+msgid "Experience life in the city."
+msgstr ""
+
+msgctxt "27||continue_after_clear||explanation"
+msgid "Continue a saved game or start a New Game+ from a clear file.\r\nThe autosave feature will overwrite the autosave file as you play."
+msgstr ""
+
+msgctxt "28||tgs_game_option||explanation"
+msgid "Change settings that affect gameplay."
+msgstr ""
+
+msgctxt "29||tgs_audio_option||explanation"
+msgid "Change audio settings."
+msgstr ""
+
+msgctxt "30||settings||explanation"
+msgid "Customize game settings."
+msgstr ""
+
+msgctxt "31||quit_game||explanation"
+msgid "Exit to desktop."
+msgstr ""
+
+msgctxt "32||subsettings_graphics||explanation"
+msgid "Change graphical options."
+msgstr ""
+
+msgctxt "33||subsettings_controls||explanation"
+msgid "Customize game controls."
+msgstr ""
+
+msgctxt "34||subsettings_game||explanation"
+msgid "Change settings that affect gameplay."
+msgstr ""
+
+msgctxt "35||subsettings_audio||explanation"
+msgid "Change the audio settings."
+msgstr ""
+
+msgctxt "36||license||explanation"
+msgid "Display license information."
+msgstr ""
+
+msgctxt "4||new_game||explanation2"
+msgid "Start the game from the beginning. \r\nYou will need to overwite a save file to proceed. (30 files max.)"
+msgstr ""
+
+msgctxt "5||new_game_after_clear||explanation2"
+msgid "Start the game from the beginning.\r\nYou can explore the world without the main story."
+msgstr ""
+

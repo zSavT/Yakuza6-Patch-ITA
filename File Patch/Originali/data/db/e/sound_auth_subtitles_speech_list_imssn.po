@@ -1,0 +1,9593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "What's your deal!?"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Think you could bring me one of these?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Oh, this is great!"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Yeah, you got it!"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "This is perfect!"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "I don't think I can do that."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "That's right!"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "That's not right..."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "This isn't great..."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Huh? Are you sure?"
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "55||||4"
+msgid "F-Fire!"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "What's your problem, huh!?"
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Think you could bring me one of these?"
+msgstr ""
+
+msgctxt "68||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Oh, this is great!"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Yeah, you got it!"
+msgstr ""
+
+msgctxt "71||||4"
+msgid "This is perfect!"
+msgstr ""
+
+msgctxt "72||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "74||||4"
+msgid "I don't think I can do that."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "That's right!"
+msgstr ""
+
+msgctxt "76||||4"
+msgid "That's not right..."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "This isn't great..."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Huh? Are you sure?"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "83||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "88||||4"
+msgid "F-Fire!"
+msgstr ""
+
+msgctxt "89||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "91||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "95||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "96||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "97||||4"
+msgid "What's your problem, huh!?"
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "100||||4"
+msgid "Think you could bring me one of these?"
+msgstr ""
+
+msgctxt "101||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "Oh, this is great!"
+msgstr ""
+
+msgctxt "103||||4"
+msgid "Yeah, you got it!"
+msgstr ""
+
+msgctxt "104||||4"
+msgid "This is perfect!"
+msgstr ""
+
+msgctxt "105||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "I don't think I can do that."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "That's right!"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "That's not right..."
+msgstr ""
+
+msgctxt "110||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "111||||4"
+msgid "This isn't great..."
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Huh? Are you sure?"
+msgstr ""
+
+msgctxt "113||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "116||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "119||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "120||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "121||||4"
+msgid "F-Fire!"
+msgstr ""
+
+msgctxt "122||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "124||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "125||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "126||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "127||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "128||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "129||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "130||||4"
+msgid "What's your problem, huh!?"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "132||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "133||||4"
+msgid "Think you could bring me one of these?"
+msgstr ""
+
+msgctxt "134||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "135||||4"
+msgid "Oh, this is great!"
+msgstr ""
+
+msgctxt "136||||4"
+msgid "Yeah, you got it!"
+msgstr ""
+
+msgctxt "137||||4"
+msgid "This is perfect!"
+msgstr ""
+
+msgctxt "138||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "139||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "140||||4"
+msgid "I don't think I can do that."
+msgstr ""
+
+msgctxt "141||||4"
+msgid "That's right!"
+msgstr ""
+
+msgctxt "142||||4"
+msgid "That's not right..."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "144||||4"
+msgid "This isn't great..."
+msgstr ""
+
+msgctxt "145||||4"
+msgid "Huh? Are you sure?"
+msgstr ""
+
+msgctxt "146||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "147||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "148||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "150||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "151||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "152||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "153||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "154||||4"
+msgid "F-Fire!"
+msgstr ""
+
+msgctxt "155||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "156||||4"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "157||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "158||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "159||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "160||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "161||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "162||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "163||||4"
+msgid "What's your problem, huh!?"
+msgstr ""
+
+msgctxt "164||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "165||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "166||||4"
+msgid "Think you could bring me one of these?"
+msgstr ""
+
+msgctxt "167||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "168||||4"
+msgid "Oh, this is great!"
+msgstr ""
+
+msgctxt "169||||4"
+msgid "Yeah, you got it!"
+msgstr ""
+
+msgctxt "170||||4"
+msgid "This is perfect!"
+msgstr ""
+
+msgctxt "171||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "172||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "173||||4"
+msgid "I don't think I can do that."
+msgstr ""
+
+msgctxt "174||||4"
+msgid "That's right!"
+msgstr ""
+
+msgctxt "175||||4"
+msgid "That's not right..."
+msgstr ""
+
+msgctxt "176||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "177||||4"
+msgid "This isn't great..."
+msgstr ""
+
+msgctxt "178||||4"
+msgid "Huh? Are you sure?"
+msgstr ""
+
+msgctxt "179||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "180||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "181||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "182||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "183||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "184||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "185||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "186||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "187||||4"
+msgid "F-Fire!"
+msgstr ""
+
+msgctxt "188||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "189||||4"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "190||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "191||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "192||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "193||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "194||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "195||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "196||||4"
+msgid "What's your problem, huh!?"
+msgstr ""
+
+msgctxt "197||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "198||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "199||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "200||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "201||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "202||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "203||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "204||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "205||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "206||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "207||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "208||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "209||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "210||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "211||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "212||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "213||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "214||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "215||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "216||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "217||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "218||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "219||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "220||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "221||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "222||||4"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "223||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "224||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "225||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "226||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "227||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "228||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "229||||4"
+msgid "What's your deal!?"
+msgstr ""
+
+msgctxt "230||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "231||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "232||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "233||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "234||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "235||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "236||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "237||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "238||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "239||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "240||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "241||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "242||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "243||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "244||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "245||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "246||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "247||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "248||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "249||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "250||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "251||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "252||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "253||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "254||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "255||||4"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "256||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "257||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "258||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "259||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "260||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "261||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "262||||4"
+msgid "What's your deal!?"
+msgstr ""
+
+msgctxt "263||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "264||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "265||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "266||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "267||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "268||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "269||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "270||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "271||||4"
+msgid "I'm not sure that's possible."
+msgstr ""
+
+msgctxt "272||||4"
+msgid "You're correct!"
+msgstr ""
+
+msgctxt "273||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "274||||4"
+msgid "How wonderful!"
+msgstr ""
+
+msgctxt "275||||4"
+msgid "I'm not so into this..."
+msgstr ""
+
+msgctxt "276||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "277||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "278||||4"
+msgid "Ouch ouch ouch..."
+msgstr ""
+
+msgctxt "279||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "280||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "281||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "282||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "283||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "284||||4"
+msgid "Where'd they run off to...?"
+msgstr ""
+
+msgctxt "285||||4"
+msgid "Eep! A fire!"
+msgstr ""
+
+msgctxt "286||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "287||||4"
+msgid "Please stop it!"
+msgstr ""
+
+msgctxt "288||||4"
+msgid "What lovely news!"
+msgstr ""
+
+msgctxt "289||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "290||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "291||||4"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "292||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "293||||4"
+msgid "Hey, what the heck!?"
+msgstr ""
+
+msgctxt "294||||4"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "295||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "296||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "297||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "298||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "299||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "300||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "301||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "302||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "303||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "304||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "305||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "306||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "307||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "308||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "309||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "310||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "311||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "312||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "313||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "314||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "315||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "316||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "317||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "318||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "319||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "320||||4"
+msgid "Would you stop that already!?"
+msgstr ""
+
+msgctxt "321||||4"
+msgid "What lovely news!"
+msgstr ""
+
+msgctxt "322||||4"
+msgid "How atrocious!"
+msgstr ""
+
+msgctxt "323||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "324||||4"
+msgid "This isn't good...!"
+msgstr ""
+
+msgctxt "325||||4"
+msgid "Hey, wait up!"
+msgstr ""
+
+msgctxt "326||||4"
+msgid "Hey, what the heck!?"
+msgstr ""
+
+msgctxt "327||||4"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "328||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "329||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "330||||4"
+msgid "Hmm, how about one of these?"
+msgstr ""
+
+msgctxt "331||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "332||||4"
+msgid "Mm, this is it!"
+msgstr ""
+
+msgctxt "333||||4"
+msgid "Mm, you're a smart one!"
+msgstr ""
+
+msgctxt "334||||4"
+msgid "I'm all for this!"
+msgstr ""
+
+msgctxt "335||||4"
+msgid "No, this isn't quite it..."
+msgstr ""
+
+msgctxt "336||||4"
+msgid "No, you missed the mark a bit..."
+msgstr ""
+
+msgctxt "337||||4"
+msgid "That's not happening."
+msgstr ""
+
+msgctxt "338||||4"
+msgid "Ding ding ding!"
+msgstr ""
+
+msgctxt "339||||4"
+msgid "That's totally wrong!"
+msgstr ""
+
+msgctxt "340||||4"
+msgid "So amazing!"
+msgstr ""
+
+msgctxt "341||||4"
+msgid "Could be better."
+msgstr ""
+
+msgctxt "342||||4"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "343||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "344||||4"
+msgid "Ngh..."
+msgstr ""
+
+msgctxt "345||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "346||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "347||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "348||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "349||||4"
+msgid "I'd love some medicine..."
+msgstr ""
+
+msgctxt "350||||4"
+msgid "Where could they have gone...?"
+msgstr ""
+
+msgctxt "351||||4"
+msgid "Eek! Fire!"
+msgstr ""
+
+msgctxt "352||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "353||||4"
+msgid "Quit it!"
+msgstr ""
+
+msgctxt "354||||4"
+msgid "What lovely news!"
+msgstr ""
+
+msgctxt "355||||4"
+msgid "So harsh..."
+msgstr ""
+
+msgctxt "356||||4"
+msgid "Phew, I'm so relieved..."
+msgstr ""
+
+msgctxt "357||||4"
+msgid "This isn't good...!"
+msgstr ""
+
+msgctxt "358||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "359||||4"
+msgid "Hey, what the heck!?"
+msgstr ""
+
+msgctxt "360||||4"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "361||||4"
+msgid "Hey, won't you open this for me?"
+msgstr ""
+
+msgctxt "362||||4"
+msgid "This my thanks."
+msgstr ""
+
+msgctxt "363||||4"
+msgid "Please, you bring me this."
+msgstr ""
+
+msgctxt "364||||4"
+msgid "I hope you bring this..."
+msgstr ""
+
+msgctxt "365||||4"
+msgid "Yes, this right!"
+msgstr ""
+
+msgctxt "366||||4"
+msgid "Yes, this great!"
+msgstr ""
+
+msgctxt "367||||4"
+msgid "This perfect for me!"
+msgstr ""
+
+msgctxt "368||||4"
+msgid "No, this not what I want."
+msgstr ""
+
+msgctxt "369||||4"
+msgid "No, you wrong."
+msgstr ""
+
+msgctxt "370||||4"
+msgid "That not possible for me!"
+msgstr ""
+
+msgctxt "371||||4"
+msgid "You right!"
+msgstr ""
+
+msgctxt "372||||4"
+msgid "You wrong!"
+msgstr ""
+
+msgctxt "373||||4"
+msgid "*his incredible!"
+msgstr ""
+
+msgctxt "374||||4"
+msgid "This not good."
+msgstr ""
+
+msgctxt "375||||4"
+msgid "Huh? You do this for me?"
+msgstr ""
+
+msgctxt "376||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "377||||4"
+msgid "Owowow..."
+msgstr ""
+
+msgctxt "378||||4"
+msgid "My body hurt bad..."
+msgstr ""
+
+msgctxt "379||||4"
+msgid "My stomach hurt bad..."
+msgstr ""
+
+msgctxt "380||||4"
+msgid "My back hurt bad..."
+msgstr ""
+
+msgctxt "381||||4"
+msgid "Pain, pain, pain..."
+msgstr ""
+
+msgctxt "382||||4"
+msgid "Bring medicine, please..."
+msgstr ""
+
+msgctxt "383||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "384||||4"
+msgid "Fire!"
+msgstr ""
+
+msgctxt "385||||4"
+msgid "I'm hungry."
+msgstr ""
+
+msgctxt "386||||4"
+msgid "You stop that!"
+msgstr ""
+
+msgctxt "387||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "388||||4"
+msgid "You so cruel!"
+msgstr ""
+
+msgctxt "389||||4"
+msgid "That make me happy."
+msgstr ""
+
+msgctxt "390||||4"
+msgid "This no good!"
+msgstr ""
+
+msgctxt "391||||4"
+msgid "Hey, you wait!"
+msgstr ""
+
+msgctxt "392||||4"
+msgid "Hey, you in the way!"
+msgstr ""
+
+msgctxt "393||||4"
+msgid "What your problem!?"
+msgstr ""
+
+msgctxt "394||||4"
+msgid "Hey, you open this!"
+msgstr ""
+
+msgctxt "395||||4"
+msgid "You really saved my neck."
+msgstr ""
+
+msgctxt "396||||4"
+msgid "What am I gonna do...?"
+msgstr ""
+
+msgctxt "397||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "398||||4"
+msgid "Ah, h-help me!"
+msgstr ""
+
+msgctxt "399||||4"
+msgid "What're you doing!?"
+msgstr ""
+
+msgctxt "400||||4"
+msgid "I won't do it again, promise."
+msgstr ""
+
+msgctxt "401||||4"
+msgid "I'm sorry! Just please, help me..."
+msgstr ""
+
+msgctxt "402||||4"
+msgid "Get on over here!"
+msgstr ""
+
+msgctxt "403||||4"
+msgid "All right, that's good."
+msgstr ""
+
+msgctxt "404||||4"
+msgid "Fine."
+msgstr ""
+
+msgctxt "405||||4"
+msgid "I've been robbed!"
+msgstr ""
+
+msgctxt "406||||4"
+msgid "Time for you to pay up."
+msgstr ""
+
+msgctxt "407||||4"
+msgid "Hey, don't fuck with me.\r\n*If you don't wanna pay, I'll make you!"
+msgstr ""
+
+msgctxt "408||||4"
+msgid "Thanks for the business!"
+msgstr ""
+
+msgctxt "409||||4"
+msgid "Hey, you're disrupting the shoot! MOVE!"
+msgstr ""
+
+msgctxt "410||||4"
+msgid "You really helped me out there."
+msgstr ""
+
+msgctxt "411||||4"
+msgid "Hmm, what should I do?"
+msgstr ""
+
+msgctxt "412||||4"
+msgid "Th-Thief!"
+msgstr ""
+
+msgctxt "413||||4"
+msgid "Ah, h-help me!"
+msgstr ""
+
+msgctxt "414||||4"
+msgid "What're you doing!?"
+msgstr ""
+
+msgctxt "415||||4"
+msgid "I won't do it again, promise."
+msgstr ""
+
+msgctxt "416||||4"
+msgid "I'm sorry! Just please, help me..."
+msgstr ""
+
+msgctxt "417||||4"
+msgid "Get on over here!"
+msgstr ""
+
+msgctxt "418||||4"
+msgid "All right, that's good."
+msgstr ""
+
+msgctxt "419||||4"
+msgid "Fine."
+msgstr ""
+
+msgctxt "420||||4"
+msgid "Just shut up and hand over the cash!"
+msgstr ""
+
+msgctxt "421||||4"
+msgid "Pipe down!"
+msgstr ""
+
+msgctxt "422||||4"
+msgid "Hey, what're you doing with my woman!?"
+msgstr ""
+
+msgctxt "423||||4"
+msgid "What was that!? I'm done with you, bastard!"
+msgstr ""
+
+msgctxt "424||||4"
+msgid "If you don't wanna get hurt,\r\nhow 'bout you hand over 100k?"
+msgstr ""
+
+msgctxt "425||||4"
+msgid "You're asking for it. Here comes the pain!"
+msgstr ""
+
+msgctxt "426||||4"
+msgid "I'm glad you know what's up."
+msgstr ""
+
+msgctxt "427||||4"
+msgid "If you don't wanna get hurt,\r\nhow 'bout you hand over 50k?"
+msgstr ""
+
+msgctxt "428||||4"
+msgid "If you don't wanna get hurt,\r\nhow 'bout you hand over a cool million?"
+msgstr ""
+
+msgctxt "429||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "430||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "431||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "432||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "433||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "434||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "435||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "436||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "437||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "438||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "439||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "440||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "441||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "442||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "443||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "444||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "445||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "446||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "447||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "448||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "449||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "450||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "451||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "452||||4"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "453||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "454||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "455||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "456||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "457||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "458||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "459||||4"
+msgid "What's your deal!?"
+msgstr ""
+
+msgctxt "460||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "461||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "462||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "463||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "464||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "465||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "466||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "467||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "468||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "469||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "470||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "471||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "472||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "473||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "474||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "475||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "476||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "477||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "478||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "479||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "480||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "481||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "482||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "483||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "484||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "485||||4"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "486||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "487||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "488||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "489||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "490||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "491||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "492||||4"
+msgid "What's your deal!?"
+msgstr ""
+
+msgctxt "493||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "494||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "495||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "496||||4"
+msgid "Wish I had one o' these..."
+msgstr ""
+
+msgctxt "497||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "498||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "499||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "500||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "501||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "502||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "503||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "504||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "505||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "506||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "507||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "508||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "509||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "510||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "511||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "512||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "513||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "514||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "515||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "516||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "517||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "518||||4"
+msgid "Enough o' that!"
+msgstr ""
+
+msgctxt "519||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "520||||4"
+msgid "Yer way too cruel."
+msgstr ""
+
+msgctxt "521||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "522||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "523||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "524||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "525||||4"
+msgid "What's yer problem!?"
+msgstr ""
+
+msgctxt "526||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "527||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "528||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "529||||4"
+msgid "Wish I had one o' these..."
+msgstr ""
+
+msgctxt "530||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "531||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "532||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "533||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "534||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "535||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "536||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "537||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "538||||4"
+msgid "This's damn good!"
+msgstr ""
+
+msgctxt "539||||4"
+msgid "That ain't so good."
+msgstr ""
+
+msgctxt "540||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "541||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "542||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "543||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "544||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "545||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "546||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "547||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "548||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "549||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "550||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "551||||4"
+msgid "Enough o' that!"
+msgstr ""
+
+msgctxt "552||||4"
+msgid "Glad t'hear it!"
+msgstr ""
+
+msgctxt "553||||4"
+msgid "Yer way too cruel."
+msgstr ""
+
+msgctxt "554||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "555||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "556||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "557||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "558||||4"
+msgid "What's wrong with ya!?"
+msgstr ""
+
+msgctxt "559||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "560||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "561||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "562||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "563||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "564||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "565||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "566||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "567||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "568||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "569||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "570||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "571||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "572||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "573||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "574||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "575||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "576||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "577||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "578||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "579||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "580||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "581||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "582||||4"
+msgid "Whoa, th-there's a fire!"
+msgstr ""
+
+msgctxt "583||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "584||||4"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "585||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "586||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "587||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "588||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "589||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "590||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "591||||4"
+msgid "What's your deal!?"
+msgstr ""
+
+msgctxt "592||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "593||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "594||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "595||||4"
+msgid "Wish I could get a hold o' one..."
+msgstr ""
+
+msgctxt "596||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "597||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "598||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "599||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "600||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "601||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "602||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "603||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "604||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "605||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "606||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "607||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "608||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "609||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "610||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "611||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "612||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "613||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "614||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "615||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "616||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "617||||4"
+msgid "Stop that, y'hear!?"
+msgstr ""
+
+msgctxt "618||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "619||||4"
+msgid "Yer way too cruel."
+msgstr ""
+
+msgctxt "620||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "621||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "622||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "623||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "624||||4"
+msgid "What's wrong with ya!?"
+msgstr ""
+
+msgctxt "625||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "626||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "627||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "628||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "629||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "630||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "631||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "632||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "633||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "634||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "635||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "636||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "637||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "638||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "639||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "640||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "641||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "642||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "643||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "644||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "645||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "646||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "647||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "648||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "649||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "650||||4"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "651||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "652||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "653||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "654||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "655||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "656||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "657||||4"
+msgid "What's your deal!?"
+msgstr ""
+
+msgctxt "658||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "659||||4"
+msgid "Here, lemme thank you."
+msgstr ""
+
+msgctxt "660||||4"
+msgid "I was hopin' for one of these."
+msgstr ""
+
+msgctxt "661||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "662||||4"
+msgid "Yup yup, this is the one!"
+msgstr ""
+
+msgctxt "663||||4"
+msgid "Yup yup, you're right on the money!"
+msgstr ""
+
+msgctxt "664||||4"
+msgid "This is wonderful!"
+msgstr ""
+
+msgctxt "665||||4"
+msgid "Naw, this ain't it..."
+msgstr ""
+
+msgctxt "666||||4"
+msgid "Naw, ya got it wrong..."
+msgstr ""
+
+msgctxt "667||||4"
+msgid "No chance that's happenin'."
+msgstr ""
+
+msgctxt "668||||4"
+msgid "Ya got it!"
+msgstr ""
+
+msgctxt "669||||4"
+msgid "Ya got it wrong!"
+msgstr ""
+
+msgctxt "670||||4"
+msgid "So amazing!"
+msgstr ""
+
+msgctxt "671||||4"
+msgid "This ain't so good."
+msgstr ""
+
+msgctxt "672||||4"
+msgid "Huh? Are ya sure?"
+msgstr ""
+
+msgctxt "673||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "674||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "675||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "676||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "677||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "678||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "679||||4"
+msgid "Gimme some meds..."
+msgstr ""
+
+msgctxt "680||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "681||||4"
+msgid "Crap, look at it burn!"
+msgstr ""
+
+msgctxt "682||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "683||||4"
+msgid "Stop that, y'hear!?"
+msgstr ""
+
+msgctxt "684||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "685||||4"
+msgid "That's real terrible..."
+msgstr ""
+
+msgctxt "686||||4"
+msgid "Glad ta hear."
+msgstr ""
+
+msgctxt "687||||4"
+msgid "Holy shitballs!"
+msgstr ""
+
+msgctxt "688||||4"
+msgid "Hey, hold up!"
+msgstr ""
+
+msgctxt "689||||4"
+msgid "Hey, get outta here!"
+msgstr ""
+
+msgctxt "690||||4"
+msgid "Ya wanna tussle!?"
+msgstr ""
+
+msgctxt "691||||4"
+msgid "Hey, won't ya open this?"
+msgstr ""
+
+msgctxt "692||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "693||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "694||||4"
+msgid "Wish I could get a hold o' one..."
+msgstr ""
+
+msgctxt "695||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "696||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "697||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "698||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "699||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "700||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "701||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "702||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "703||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "704||||4"
+msgid "That ain't so good."
+msgstr ""
+
+msgctxt "705||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "706||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "707||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "708||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "709||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "710||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "711||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "712||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "713||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "714||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "715||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "716||||4"
+msgid "Enough o' that!"
+msgstr ""
+
+msgctxt "717||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "718||||4"
+msgid "Yer way too cruel."
+msgstr ""
+
+msgctxt "719||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "720||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "721||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "722||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "723||||4"
+msgid "What's wrong with ya!?"
+msgstr ""
+
+msgctxt "724||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "725||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "726||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "727||||4"
+msgid "Wish I had one o' these..."
+msgstr ""
+
+msgctxt "728||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "729||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "730||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "731||||4"
+msgid "No, y'messed up..."
+msgstr ""
+
+msgctxt "732||||4"
+msgid "No, y'gotta do better..."
+msgstr ""
+
+msgctxt "733||||4"
+msgid "No chance o' that happenin'."
+msgstr ""
+
+msgctxt "734||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "735||||4"
+msgid "That's so wrong!"
+msgstr ""
+
+msgctxt "736||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "737||||4"
+msgid "I dunno about that one."
+msgstr ""
+
+msgctxt "738||||4"
+msgid "Huh? You positive?"
+msgstr ""
+
+msgctxt "739||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "740||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "741||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "742||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "743||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "744||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "745||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "746||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "747||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "748||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "749||||4"
+msgid "Please stop!"
+msgstr ""
+
+msgctxt "750||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "751||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "752||||4"
+msgid "Phew, glad t'hear it."
+msgstr ""
+
+msgctxt "753||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "754||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "755||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "756||||4"
+msgid "What's wrong with ya!?"
+msgstr ""
+
+msgctxt "757||||4"
+msgid "Hey, can I ask ya t'open this?"
+msgstr ""
+
+msgctxt "758||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "759||||4"
+msgid "Think y'could brimg me one o' these?"
+msgstr ""
+
+msgctxt "760||||4"
+msgid "Wish I had one o' these..."
+msgstr ""
+
+msgctxt "761||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "762||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "763||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "764||||4"
+msgid "No, y'messed up..."
+msgstr ""
+
+msgctxt "765||||4"
+msgid "No, y'gotta do better..."
+msgstr ""
+
+msgctxt "766||||4"
+msgid "Ain't a chance in hell."
+msgstr ""
+
+msgctxt "767||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "768||||4"
+msgid "That's so wrong!"
+msgstr ""
+
+msgctxt "769||||4"
+msgid "This's damn good!"
+msgstr ""
+
+msgctxt "770||||4"
+msgid "hat's a bit troubling."
+msgstr ""
+
+msgctxt "771||||4"
+msgid "Huh? N' yer sure about that?"
+msgstr ""
+
+msgctxt "772||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "773||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "774||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "775||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "776||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "777||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "778||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "779||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "780||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "781||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "782||||4"
+msgid "Jus' stop it already!"
+msgstr ""
+
+msgctxt "783||||4"
+msgid "Glad t'hear it!"
+msgstr ""
+
+msgctxt "784||||4"
+msgid "Yer way too cruel."
+msgstr ""
+
+msgctxt "785||||4"
+msgid "Phew, glad t'hear it."
+msgstr ""
+
+msgctxt "786||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "787||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "788||||4"
+msgid "Hey, yer in my way!"
+msgstr ""
+
+msgctxt "789||||4"
+msgid "What's wrong with ya!?"
+msgstr ""
+
+msgctxt "790||||4"
+msgid "Hey, can I ask ya t'open this?"
+msgstr ""
+
+msgctxt "791||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "792||||4"
+msgid "I was wondering if you could\r\nbring me one of these."
+msgstr ""
+
+msgctxt "793||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "794||||4"
+msgid "Yeah, just what I wanted!"
+msgstr ""
+
+msgctxt "795||||4"
+msgid "Yeah, you got it!"
+msgstr ""
+
+msgctxt "796||||4"
+msgid "This is gonna be perfect!"
+msgstr ""
+
+msgctxt "797||||4"
+msgid "No, this isn't really right..."
+msgstr ""
+
+msgctxt "798||||4"
+msgid "No, this is totally wrong..."
+msgstr ""
+
+msgctxt "799||||4"
+msgid "Don't think i can do that."
+msgstr ""
+
+msgctxt "800||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "801||||4"
+msgid "Wrong, wrong, wrong!"
+msgstr ""
+
+msgctxt "802||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "803||||4"
+msgid "Not really what I was looking for."
+msgstr ""
+
+msgctxt "804||||4"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "805||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "806||||4"
+msgid "Owwwie..."
+msgstr ""
+
+msgctxt "807||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "808||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "809||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "810||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "811||||4"
+msgid "I need some medicine..."
+msgstr ""
+
+msgctxt "812||||4"
+msgid "Hey, where'd they go?"
+msgstr ""
+
+msgctxt "813||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "814||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "815||||4"
+msgid "No!"
+msgstr ""
+
+msgctxt "816||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "817||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "818||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "819||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "820||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "821||||4"
+msgid "Hey, move please!"
+msgstr ""
+
+msgctxt "822||||4"
+msgid "Whaddya want!?"
+msgstr ""
+
+msgctxt "823||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "824||||4"
+msgid "Hey, I hope y'can bring me one o' these."
+msgstr ""
+
+msgctxt "825||||4"
+msgid "Wish I had one o' these..."
+msgstr ""
+
+msgctxt "826||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "827||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "828||||4"
+msgid "This is gonna be perfect!"
+msgstr ""
+
+msgctxt "829||||4"
+msgid "No, y'messed up..."
+msgstr ""
+
+msgctxt "830||||4"
+msgid "No, yer straight up wrong..."
+msgstr ""
+
+msgctxt "831||||4"
+msgid "That's plain not possible."
+msgstr ""
+
+msgctxt "832||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "833||||4"
+msgid "So so so wrong!"
+msgstr ""
+
+msgctxt "834||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "835||||4"
+msgid "I dunno about this thing..."
+msgstr ""
+
+msgctxt "836||||4"
+msgid "Huh? Y'really mean it?"
+msgstr ""
+
+msgctxt "837||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "838||||4"
+msgid "Owwwie..."
+msgstr ""
+
+msgctxt "839||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "840||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "841||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "842||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "843||||4"
+msgid "I need medicine..."
+msgstr ""
+
+msgctxt "844||||4"
+msgid "Where'd they get off to...?"
+msgstr ""
+
+msgctxt "845||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "846||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "847||||4"
+msgid "Jus' stop that!"
+msgstr ""
+
+msgctxt "848||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "849||||4"
+msgid "Yer way too cruel."
+msgstr ""
+
+msgctxt "850||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "851||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "852||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "853||||4"
+msgid "Hey, yer in the way!"
+msgstr ""
+
+msgctxt "854||||4"
+msgid "What's yer problem!?"
+msgstr ""
+
+msgctxt "855||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "856||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "857||||4"
+msgid "Think you could bring me one of these?"
+msgstr ""
+
+msgctxt "858||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "859||||4"
+msgid "Yup, ya did good!"
+msgstr ""
+
+msgctxt "860||||4"
+msgid "Yup, ya did great!"
+msgstr ""
+
+msgctxt "861||||4"
+msgid "This's just what I needed!"
+msgstr ""
+
+msgctxt "862||||4"
+msgid "Nah, this ain't right..."
+msgstr ""
+
+msgctxt "863||||4"
+msgid "Naw, ya got it wrong..."
+msgstr ""
+
+msgctxt "864||||4"
+msgid "Not so sure 'bout that."
+msgstr ""
+
+msgctxt "865||||4"
+msgid "Ya got it!"
+msgstr ""
+
+msgctxt "866||||4"
+msgid "Ya didn't get it..."
+msgstr ""
+
+msgctxt "867||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "868||||4"
+msgid "I'm not feelin' this..."
+msgstr ""
+
+msgctxt "869||||4"
+msgid "Huh? Are ya sure about that?"
+msgstr ""
+
+msgctxt "870||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "871||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "872||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "873||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "874||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "875||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "876||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "877||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "878||||4"
+msgid "There's a fire!"
+msgstr ""
+
+msgctxt "879||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "880||||4"
+msgid "Enough of that!"
+msgstr ""
+
+msgctxt "881||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "882||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "883||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "884||||4"
+msgid "This don't look good!"
+msgstr ""
+
+msgctxt "885||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "886||||4"
+msgid "Hey, get outta here!"
+msgstr ""
+
+msgctxt "887||||4"
+msgid "What're ya looking at!?"
+msgstr ""
+
+msgctxt "888||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "889||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "890||||4"
+msgid "Think you could bring me one of these?"
+msgstr ""
+
+msgctxt "891||||4"
+msgid "Wish I could get a hold o' one..."
+msgstr ""
+
+msgctxt "892||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "893||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "894||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "895||||4"
+msgid "No, y'messed up..."
+msgstr ""
+
+msgctxt "896||||4"
+msgid "No, y'gotta do better..."
+msgstr ""
+
+msgctxt "897||||4"
+msgid "No chance o' that happenin'."
+msgstr ""
+
+msgctxt "898||||4"
+msgid "Yer right!"
+msgstr ""
+
+msgctxt "899||||4"
+msgid "Yer wrong..."
+msgstr ""
+
+msgctxt "900||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "901||||4"
+msgid "That ain't gonna work."
+msgstr ""
+
+msgctxt "902||||4"
+msgid "Huh? Y'mean it?"
+msgstr ""
+
+msgctxt "903||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "904||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "905||||4"
+msgid "Stomach's killin' me..."
+msgstr ""
+
+msgctxt "906||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "907||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "908||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "909||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "910||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "911||||4"
+msgid "Hey, fire!"
+msgstr ""
+
+msgctxt "912||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "913||||4"
+msgid "Enough o' yer shit!"
+msgstr ""
+
+msgctxt "914||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "915||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "916||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "917||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "918||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "919||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "920||||4"
+msgid "Y'wanna fight, huh!?"
+msgstr ""
+
+msgctxt "921||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "922||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "923||||4"
+msgid "Think y'could bring one o' these my way?"
+msgstr ""
+
+msgctxt "924||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "925||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "926||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "927||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "928||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "929||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "930||||4"
+msgid "I don't think I can do that."
+msgstr ""
+
+msgctxt "931||||4"
+msgid "Yer right!"
+msgstr ""
+
+msgctxt "932||||4"
+msgid "Yer so wrong..."
+msgstr ""
+
+msgctxt "933||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "934||||4"
+msgid "That ain't gonna work."
+msgstr ""
+
+msgctxt "935||||4"
+msgid "Huh? Y'mean it?"
+msgstr ""
+
+msgctxt "936||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "937||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "938||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "939||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "940||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "941||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "942||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "943||||4"
+msgid "Where'd they get off ta?"
+msgstr ""
+
+msgctxt "944||||4"
+msgid "Hey, fire!"
+msgstr ""
+
+msgctxt "945||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "946||||4"
+msgid "Stop that, y'hear!?"
+msgstr ""
+
+msgctxt "947||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "948||||4"
+msgid "Yer terrible..."
+msgstr ""
+
+msgctxt "949||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "950||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "951||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "952||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "953||||4"
+msgid "What's your problem, huh!?"
+msgstr ""
+
+msgctxt "954||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "955||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "956||||4"
+msgid "Think y'could bring one o' these my way?"
+msgstr ""
+
+msgctxt "957||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "958||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "959||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "960||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "961||||4"
+msgid "No, y'messed up..."
+msgstr ""
+
+msgctxt "962||||4"
+msgid "No, y'gotta do better..."
+msgstr ""
+
+msgctxt "963||||4"
+msgid "Thinkin' that ain't possible."
+msgstr ""
+
+msgctxt "964||||4"
+msgid "Yer right!"
+msgstr ""
+
+msgctxt "965||||4"
+msgid "Yer wrong..."
+msgstr ""
+
+msgctxt "966||||4"
+msgid "So amazing!"
+msgstr ""
+
+msgctxt "967||||4"
+msgid "Ain't nothin' good about that."
+msgstr ""
+
+msgctxt "968||||4"
+msgid "Huh? Y'mean it?"
+msgstr ""
+
+msgctxt "969||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "970||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "971||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "972||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "973||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "974||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "975||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "976||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "977||||4"
+msgid "Hey, fire!"
+msgstr ""
+
+msgctxt "978||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "979||||4"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "980||||4"
+msgid "Nice t'hear it."
+msgstr ""
+
+msgctxt "981||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "982||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "983||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "984||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "985||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "986||||4"
+msgid "Y'wanna fight, huh!?"
+msgstr ""
+
+msgctxt "987||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "988||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "989||||4"
+msgid "Think y'could bring one o' these my way?"
+msgstr ""
+
+msgctxt "990||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "991||||4"
+msgid "Yup, ya did good!"
+msgstr ""
+
+msgctxt "992||||4"
+msgid "Yup, ya did great!"
+msgstr ""
+
+msgctxt "993||||4"
+msgid "This's just what I needed!"
+msgstr ""
+
+msgctxt "994||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "995||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "996||||4"
+msgid "I don't think I can do that."
+msgstr ""
+
+msgctxt "997||||4"
+msgid "That's right!"
+msgstr ""
+
+msgctxt "998||||4"
+msgid "Ya didn't get it..."
+msgstr ""
+
+msgctxt "999||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1000||||4"
+msgid "This ain't so good."
+msgstr ""
+
+msgctxt "1001||||4"
+msgid "Huh? Y'mean it?"
+msgstr ""
+
+msgctxt "1002||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1003||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1004||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1005||||4"
+msgid "Gonna puke..."
+msgstr ""
+
+msgctxt "1006||||4"
+msgid "Back's killin' me."
+msgstr ""
+
+msgctxt "1007||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1008||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1009||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "1010||||4"
+msgid "F-Fire!"
+msgstr ""
+
+msgctxt "1011||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "1012||||4"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "1013||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "1014||||4"
+msgid "Yer terrible..."
+msgstr ""
+
+msgctxt "1015||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1016||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "1017||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "1018||||4"
+msgid "Hey, get outta here!"
+msgstr ""
+
+msgctxt "1019||||4"
+msgid "What're ya looking at!?"
+msgstr ""
+
+msgctxt "1020||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "1021||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1022||||4"
+msgid "Think y'could bring one o' these my way?"
+msgstr ""
+
+msgctxt "1023||||4"
+msgid "Wish I could get a hold o' one..."
+msgstr ""
+
+msgctxt "1024||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "1025||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "1026||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "1027||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "1028||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "1029||||4"
+msgid "Thinkin' that ain't possible."
+msgstr ""
+
+msgctxt "1030||||4"
+msgid "Yer right!"
+msgstr ""
+
+msgctxt "1031||||4"
+msgid "Yer wrong..."
+msgstr ""
+
+msgctxt "1032||||4"
+msgid "This's damn good!"
+msgstr ""
+
+msgctxt "1033||||4"
+msgid "Ain't nothin' good about that."
+msgstr ""
+
+msgctxt "1034||||4"
+msgid "Huh? Y'mean it?"
+msgstr ""
+
+msgctxt "1035||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1036||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1037||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1038||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "1039||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1040||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1041||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1042||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "1043||||4"
+msgid "Hey, fire!"
+msgstr ""
+
+msgctxt "1044||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "1045||||4"
+msgid "Enough o' that!"
+msgstr ""
+
+msgctxt "1046||||4"
+msgid "Nice t'hear it."
+msgstr ""
+
+msgctxt "1047||||4"
+msgid "That's real harsh..."
+msgstr ""
+
+msgctxt "1048||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1049||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1050||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "1051||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "1052||||4"
+msgid "Y'wanna fight, huh!?"
+msgstr ""
+
+msgctxt "1053||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "1054||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1055||||4"
+msgid "Think y'could bring one o' these my way?"
+msgstr ""
+
+msgctxt "1056||||4"
+msgid "Wish I could get a hold o' one..."
+msgstr ""
+
+msgctxt "1057||||4"
+msgid "Yup, ya did good!"
+msgstr ""
+
+msgctxt "1058||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "1059||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "1060||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "1061||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "1062||||4"
+msgid "Thinkin' that ain't possible."
+msgstr ""
+
+msgctxt "1063||||4"
+msgid "Yer right!"
+msgstr ""
+
+msgctxt "1064||||4"
+msgid "Yer wrong..."
+msgstr ""
+
+msgctxt "1065||||4"
+msgid "This's damn good!"
+msgstr ""
+
+msgctxt "1066||||4"
+msgid "I dunno about that one."
+msgstr ""
+
+msgctxt "1067||||4"
+msgid "Huh? Y'mean it?"
+msgstr ""
+
+msgctxt "1068||||4"
+msgid "Urghhh..."
+msgstr ""
+
+msgctxt "1069||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1070||||4"
+msgid "Feel like shit..."
+msgstr ""
+
+msgctxt "1071||||4"
+msgid "Stomach's killin' me..."
+msgstr ""
+
+msgctxt "1072||||4"
+msgid "Back's outta commission..."
+msgstr ""
+
+msgctxt "1073||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1074||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1075||||4"
+msgid "Where'd they end up going?"
+msgstr ""
+
+msgctxt "1076||||4"
+msgid "Hey, fire!"
+msgstr ""
+
+msgctxt "1077||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "1078||||4"
+msgid "Enough of that!"
+msgstr ""
+
+msgctxt "1079||||4"
+msgid "Nice t'hear it."
+msgstr ""
+
+msgctxt "1080||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "1081||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1082||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1083||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "1084||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "1085||||4"
+msgid "What're ya looking at!?"
+msgstr ""
+
+msgctxt "1086||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "1087||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1088||||4"
+msgid "Think y'could bring one o' these my way?"
+msgstr ""
+
+msgctxt "1089||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "1090||||4"
+msgid "Oh, this is great!"
+msgstr ""
+
+msgctxt "1091||||4"
+msgid "Yeah, you got it!"
+msgstr ""
+
+msgctxt "1092||||4"
+msgid "This is perfect!"
+msgstr ""
+
+msgctxt "1093||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "1094||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "1095||||4"
+msgid "I don't think I can do that."
+msgstr ""
+
+msgctxt "1096||||4"
+msgid "That's right!"
+msgstr ""
+
+msgctxt "1097||||4"
+msgid "That's not right..."
+msgstr ""
+
+msgctxt "1098||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1099||||4"
+msgid "This isn't great..."
+msgstr ""
+
+msgctxt "1100||||4"
+msgid "Huh? Are you sure?"
+msgstr ""
+
+msgctxt "1101||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1102||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1103||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1104||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "1105||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1106||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1107||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1108||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "1109||||4"
+msgid "F-Fire!"
+msgstr ""
+
+msgctxt "1110||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "1111||||4"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "1112||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "1113||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "1114||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1115||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "1116||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "1117||||4"
+msgid "Hey, get out of the way!"
+msgstr ""
+
+msgctxt "1118||||4"
+msgid "What's your problem, huh!?"
+msgstr ""
+
+msgctxt "1119||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "1120||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1121||||4"
+msgid "Think y'could bring one o' these my way?"
+msgstr ""
+
+msgctxt "1122||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "1123||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "1124||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "1125||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "1126||||4"
+msgid "No, this isn't right..."
+msgstr ""
+
+msgctxt "1127||||4"
+msgid "No, you got it all wrong..."
+msgstr ""
+
+msgctxt "1128||||4"
+msgid "Thinkin' that ain't possible."
+msgstr ""
+
+msgctxt "1129||||4"
+msgid "Yer right!"
+msgstr ""
+
+msgctxt "1130||||4"
+msgid "Yer wrong..."
+msgstr ""
+
+msgctxt "1131||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1132||||4"
+msgid "Ain't nothin' good about that."
+msgstr ""
+
+msgctxt "1133||||4"
+msgid "Huh? Y'mean it?"
+msgstr ""
+
+msgctxt "1134||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1135||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1136||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1137||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "1138||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1139||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1140||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1141||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "1142||||4"
+msgid "Hey, fire!"
+msgstr ""
+
+msgctxt "1143||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "1144||||4"
+msgid "Enough o' that!"
+msgstr ""
+
+msgctxt "1145||||4"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "1146||||4"
+msgid "So terrible..."
+msgstr ""
+
+msgctxt "1147||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1148||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1149||||4"
+msgid "You, stop!"
+msgstr ""
+
+msgctxt "1150||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "1151||||4"
+msgid "Y'wanna fight, huh!?"
+msgstr ""
+
+msgctxt "1152||||4"
+msgid "Here, open this!"
+msgstr ""
+
+msgctxt "1153||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1154||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "1155||||4"
+msgid "Wish I had one o' these..."
+msgstr ""
+
+msgctxt "1156||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "1157||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "1158||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "1159||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "1160||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "1161||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "1162||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1163||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "1164||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1165||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "1166||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "1167||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1168||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1169||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1170||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "1171||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1172||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1173||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1174||||4"
+msgid "Where're they at...?"
+msgstr ""
+
+msgctxt "1175||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "1176||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "1177||||4"
+msgid "Enough o' yer shit!"
+msgstr ""
+
+msgctxt "1178||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1179||||4"
+msgid "Yer way too cruel."
+msgstr ""
+
+msgctxt "1180||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1181||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1182||||4"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "1183||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "1184||||4"
+msgid "What's wrong with ya!?"
+msgstr ""
+
+msgctxt "1185||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1186||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1187||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "1188||||4"
+msgid "Wish I had one o' these..."
+msgstr ""
+
+msgctxt "1189||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "1190||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "1191||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "1192||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "1193||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "1194||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "1195||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1196||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "1197||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1198||||4"
+msgid "That ain't gonna work."
+msgstr ""
+
+msgctxt "1199||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "1200||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1201||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1202||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1203||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "1204||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1205||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1206||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1207||||4"
+msgid "Where'd they end up going?"
+msgstr ""
+
+msgctxt "1208||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "1209||||4"
+msgid "So hungry..."
+msgstr ""
+
+msgctxt "1210||||4"
+msgid "Enough o' yer shit!"
+msgstr ""
+
+msgctxt "1211||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1212||||4"
+msgid "Yer way too cruel."
+msgstr ""
+
+msgctxt "1213||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1214||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1215||||4"
+msgid "Hey, get yer ass back here!"
+msgstr ""
+
+msgctxt "1216||||4"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "1217||||4"
+msgid "What's wrong with ya!?"
+msgstr ""
+
+msgctxt "1218||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1219||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1220||||4"
+msgid "Could I trouble ya for one of these?"
+msgstr ""
+
+msgctxt "1221||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "1222||||4"
+msgid "Yup, ya did good!"
+msgstr ""
+
+msgctxt "1223||||4"
+msgid "Yup, ya did great!"
+msgstr ""
+
+msgctxt "1224||||4"
+msgid "This's just what I needed!"
+msgstr ""
+
+msgctxt "1225||||4"
+msgid "Nah, this ain't right..."
+msgstr ""
+
+msgctxt "1226||||4"
+msgid "Nah, this ain't the right one..."
+msgstr ""
+
+msgctxt "1227||||4"
+msgid "Not so sure 'bout that."
+msgstr ""
+
+msgctxt "1228||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1229||||4"
+msgid "Nope!"
+msgstr ""
+
+msgctxt "1230||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1231||||4"
+msgid "This ain't so good."
+msgstr ""
+
+msgctxt "1232||||4"
+msgid "Huh? Are ya positive?"
+msgstr ""
+
+msgctxt "1233||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1234||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1235||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1236||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "1237||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1238||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1239||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1240||||4"
+msgid "Where'd they end up going?"
+msgstr ""
+
+msgctxt "1241||||4"
+msgid "Wow, look at it burn!"
+msgstr ""
+
+msgctxt "1242||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "1243||||4"
+msgid "Jus' stop that!"
+msgstr ""
+
+msgctxt "1244||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1245||||4"
+msgid "That's real terrible..."
+msgstr ""
+
+msgctxt "1246||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1247||||4"
+msgid "This don't look good!"
+msgstr ""
+
+msgctxt "1248||||4"
+msgid "Hey, come on back!"
+msgstr ""
+
+msgctxt "1249||||4"
+msgid "Hey, back off!"
+msgstr ""
+
+msgctxt "1250||||4"
+msgid "What are ya thinking!?"
+msgstr ""
+
+msgctxt "1251||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1252||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "1253||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1254||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "1255||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "1256||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "1257||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "1258||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "1259||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "1260||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1261||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "1262||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1263||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "1264||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "1265||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1266||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1267||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1268||||4"
+msgid "Got a stomachache..."
+msgstr ""
+
+msgctxt "1269||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1270||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1271||||4"
+msgid "I need medicine..."
+msgstr ""
+
+msgctxt "1272||||4"
+msgid "Where'd they go runnin' off to?"
+msgstr ""
+
+msgctxt "1273||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "1274||||4"
+msgid "Stomach's empty..."
+msgstr ""
+
+msgctxt "1275||||4"
+msgid "Stop that, y'hear!?"
+msgstr ""
+
+msgctxt "1276||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1277||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "1278||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1279||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1280||||4"
+msgid "Hey, stop!"
+msgstr ""
+
+msgctxt "1281||||4"
+msgid "Hey, move!"
+msgstr ""
+
+msgctxt "1282||||4"
+msgid "The heck's yer problem!?"
+msgstr ""
+
+msgctxt "1283||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1284||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1285||||4"
+msgid "Could I trouble ya for one of these?"
+msgstr ""
+
+msgctxt "1286||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "1287||||4"
+msgid "Yup, ya did good!"
+msgstr ""
+
+msgctxt "1288||||4"
+msgid "Yup, ya did great!"
+msgstr ""
+
+msgctxt "1289||||4"
+msgid "This's just what I needed!"
+msgstr ""
+
+msgctxt "1290||||4"
+msgid "Nah, this ain't right..."
+msgstr ""
+
+msgctxt "1291||||4"
+msgid "Nah, this ain't the right one..."
+msgstr ""
+
+msgctxt "1292||||4"
+msgid "Not so sure 'bout that."
+msgstr ""
+
+msgctxt "1293||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1294||||4"
+msgid "Nope!"
+msgstr ""
+
+msgctxt "1295||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1296||||4"
+msgid "This ain't so good."
+msgstr ""
+
+msgctxt "1297||||4"
+msgid "Huh? Are ya positive?"
+msgstr ""
+
+msgctxt "1298||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1299||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1300||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1301||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "1302||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1303||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1304||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1305||||4"
+msgid "Where'd they end up going?"
+msgstr ""
+
+msgctxt "1306||||4"
+msgid "Wow, look at it burn!"
+msgstr ""
+
+msgctxt "1307||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "1308||||4"
+msgid "Jus' stop that!"
+msgstr ""
+
+msgctxt "1309||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1310||||4"
+msgid "That's real terrible..."
+msgstr ""
+
+msgctxt "1311||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1312||||4"
+msgid "This don't look good!"
+msgstr ""
+
+msgctxt "1313||||4"
+msgid "Hey, come on back!"
+msgstr ""
+
+msgctxt "1314||||4"
+msgid "Hey, back off!"
+msgstr ""
+
+msgctxt "1315||||4"
+msgid "What are ya thinking!?"
+msgstr ""
+
+msgctxt "1316||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1317||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1318||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "1319||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1320||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "1321||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "1322||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "1323||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "1324||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "1325||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "1326||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1327||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "1328||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1329||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "1330||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "1331||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1332||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1333||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1334||||4"
+msgid "Got a stomachache..."
+msgstr ""
+
+msgctxt "1335||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1336||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1337||||4"
+msgid "I need medicine..."
+msgstr ""
+
+msgctxt "1338||||4"
+msgid "Where'd they go runnin' off to?"
+msgstr ""
+
+msgctxt "1339||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "1340||||4"
+msgid "Stomach's empty..."
+msgstr ""
+
+msgctxt "1341||||4"
+msgid "Stop that, y'hear!?"
+msgstr ""
+
+msgctxt "1342||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1343||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "1344||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1345||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1346||||4"
+msgid "Hey, stop!"
+msgstr ""
+
+msgctxt "1347||||4"
+msgid "Hey, move!"
+msgstr ""
+
+msgctxt "1348||||4"
+msgid "The heck's yer problem!?"
+msgstr ""
+
+msgctxt "1349||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1350||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1351||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "1352||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1353||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "1354||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "1355||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "1356||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "1357||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "1358||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "1359||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1360||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "1361||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1362||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "1363||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "1364||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1365||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1366||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1367||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "1368||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1369||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1370||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1371||||4"
+msgid "Where'd they go...?"
+msgstr ""
+
+msgctxt "1372||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "1373||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "1374||||4"
+msgid "Would you stop that already!?"
+msgstr ""
+
+msgctxt "1375||||4"
+msgid "What lovely news!"
+msgstr ""
+
+msgctxt "1376||||4"
+msgid "How atrocious!"
+msgstr ""
+
+msgctxt "1377||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1378||||4"
+msgid "This isn't good...!"
+msgstr ""
+
+msgctxt "1379||||4"
+msgid "Hey, wait up!"
+msgstr ""
+
+msgctxt "1380||||4"
+msgid "Hey, what the heck!?"
+msgstr ""
+
+msgctxt "1381||||4"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "1382||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1383||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1384||||4"
+msgid "Could I trouble ya for one of these?"
+msgstr ""
+
+msgctxt "1385||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "1386||||4"
+msgid "Yup, ya did good!"
+msgstr ""
+
+msgctxt "1387||||4"
+msgid "Yup, ya did great!"
+msgstr ""
+
+msgctxt "1388||||4"
+msgid "This's just what I needed!"
+msgstr ""
+
+msgctxt "1389||||4"
+msgid "Nah, this ain't right..."
+msgstr ""
+
+msgctxt "1390||||4"
+msgid "Nah, this ain't the right one..."
+msgstr ""
+
+msgctxt "1391||||4"
+msgid "Not so sure 'bout that."
+msgstr ""
+
+msgctxt "1392||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1393||||4"
+msgid "Nope!"
+msgstr ""
+
+msgctxt "1394||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1395||||4"
+msgid "This ain't so good."
+msgstr ""
+
+msgctxt "1396||||4"
+msgid "Huh? Are ya positive?"
+msgstr ""
+
+msgctxt "1397||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1398||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1399||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1400||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "1401||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1402||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1403||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1404||||4"
+msgid "Where'd they end up going?"
+msgstr ""
+
+msgctxt "1405||||4"
+msgid "Wow, look at it burn!"
+msgstr ""
+
+msgctxt "1406||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "1407||||4"
+msgid "Jus' stop that!"
+msgstr ""
+
+msgctxt "1408||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1409||||4"
+msgid "That's real terrible..."
+msgstr ""
+
+msgctxt "1410||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1411||||4"
+msgid "This don't look good!"
+msgstr ""
+
+msgctxt "1412||||4"
+msgid "Hey, come on back!"
+msgstr ""
+
+msgctxt "1413||||4"
+msgid "Hey, back off!"
+msgstr ""
+
+msgctxt "1414||||4"
+msgid "What are ya thinking!?"
+msgstr ""
+
+msgctxt "1415||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1416||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1417||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "1418||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1419||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "1420||||4"
+msgid "Yes, that's right!"
+msgstr ""
+
+msgctxt "1421||||4"
+msgid "This is incredible!"
+msgstr ""
+
+msgctxt "1422||||4"
+msgid "No, this isn't what I want..."
+msgstr ""
+
+msgctxt "1423||||4"
+msgid "No, this isn't right at all..."
+msgstr ""
+
+msgctxt "1424||||4"
+msgid "That's just not possible."
+msgstr ""
+
+msgctxt "1425||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1426||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "1427||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1428||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "1429||||4"
+msgid "Huh? Are you sure about this?"
+msgstr ""
+
+msgctxt "1430||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1431||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1432||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1433||||4"
+msgid "Got a stomachache..."
+msgstr ""
+
+msgctxt "1434||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1435||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1436||||4"
+msgid "I need medicine..."
+msgstr ""
+
+msgctxt "1437||||4"
+msgid "Where'd they go runnin' off to?"
+msgstr ""
+
+msgctxt "1438||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "1439||||4"
+msgid "Stomach's empty..."
+msgstr ""
+
+msgctxt "1440||||4"
+msgid "Stop that, y'hear!?"
+msgstr ""
+
+msgctxt "1441||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1442||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "1443||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1444||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1445||||4"
+msgid "Hey, stop!"
+msgstr ""
+
+msgctxt "1446||||4"
+msgid "Hey, move!"
+msgstr ""
+
+msgctxt "1447||||4"
+msgid "The heck's yer problem!?"
+msgstr ""
+
+msgctxt "1448||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1449||||4"
+msgid "Here, this's my thanks."
+msgstr ""
+
+msgctxt "1450||||4"
+msgid "Please! I need one of these real bad!"
+msgstr ""
+
+msgctxt "1451||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1452||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "1453||||4"
+msgid "Yup yup, that's spot-on!"
+msgstr ""
+
+msgctxt "1454||||4"
+msgid "This'll be perfect!"
+msgstr ""
+
+msgctxt "1455||||4"
+msgid "No, this isn't quite it..."
+msgstr ""
+
+msgctxt "1456||||4"
+msgid "No, you missed the mark a bit..."
+msgstr ""
+
+msgctxt "1457||||4"
+msgid "That's not happening."
+msgstr ""
+
+msgctxt "1458||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1459||||4"
+msgid "Not quite right!"
+msgstr ""
+
+msgctxt "1460||||4"
+msgid "So amazing!"
+msgstr ""
+
+msgctxt "1461||||4"
+msgid "Could be better."
+msgstr ""
+
+msgctxt "1462||||4"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "1463||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1464||||4"
+msgid "It hurts..."
+msgstr ""
+
+msgctxt "1465||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1466||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "1467||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1468||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1469||||4"
+msgid "I'd really love some medicine..."
+msgstr ""
+
+msgctxt "1470||||4"
+msgid "Where could they have gone...?"
+msgstr ""
+
+msgctxt "1471||||4"
+msgid "Wow, a fire!"
+msgstr ""
+
+msgctxt "1472||||4"
+msgid "I could use some food..."
+msgstr ""
+
+msgctxt "1473||||4"
+msgid "Leave me alone!"
+msgstr ""
+
+msgctxt "1474||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1475||||4"
+msgid "That's real terrible..."
+msgstr ""
+
+msgctxt "1476||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1477||||4"
+msgid "This isn't good...!"
+msgstr ""
+
+msgctxt "1478||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "1479||||4"
+msgid "Hey, what the heck!?"
+msgstr ""
+
+msgctxt "1480||||4"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "1481||||4"
+msgid "Here, open this for me!"
+msgstr ""
+
+msgctxt "1482||||4"
+msgid "Here, this's my thanks."
+msgstr ""
+
+msgctxt "1483||||4"
+msgid "Please! I need one of these real bad!"
+msgstr ""
+
+msgctxt "1484||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1485||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "1486||||4"
+msgid "Yup yup, that's spot-on!"
+msgstr ""
+
+msgctxt "1487||||4"
+msgid "This'll be perfect!"
+msgstr ""
+
+msgctxt "1488||||4"
+msgid "No, this isn't quite it..."
+msgstr ""
+
+msgctxt "1489||||4"
+msgid "No, you missed the mark a bit..."
+msgstr ""
+
+msgctxt "1490||||4"
+msgid "No chance o' that happenin'."
+msgstr ""
+
+msgctxt "1491||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1492||||4"
+msgid "Ya got it wrong!"
+msgstr ""
+
+msgctxt "1493||||4"
+msgid "So amazing!"
+msgstr ""
+
+msgctxt "1494||||4"
+msgid "That ain't the greatest."
+msgstr ""
+
+msgctxt "1495||||4"
+msgid "Huh? Y'sure?"
+msgstr ""
+
+msgctxt "1496||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1497||||4"
+msgid "It hurts..."
+msgstr ""
+
+msgctxt "1498||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1499||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "1500||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1501||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1502||||4"
+msgid "I'd really love some medicine..."
+msgstr ""
+
+msgctxt "1503||||4"
+msgid "Where'd they go runnin' off to?"
+msgstr ""
+
+msgctxt "1504||||4"
+msgid "Wow, it's burnin' up!"
+msgstr ""
+
+msgctxt "1505||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "1506||||4"
+msgid "Stop that, y'hear!?"
+msgstr ""
+
+msgctxt "1507||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1508||||4"
+msgid "That's real terrible..."
+msgstr ""
+
+msgctxt "1509||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1510||||4"
+msgid "This isn't good...!"
+msgstr ""
+
+msgctxt "1511||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "1512||||4"
+msgid "Hey, what the heck!?"
+msgstr ""
+
+msgctxt "1513||||4"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "1514||||4"
+msgid "Here, open this for me!"
+msgstr ""
+
+msgctxt "1515||||4"
+msgid "Please! I need one of these real bad!"
+msgstr ""
+
+msgctxt "1516||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1517||||4"
+msgid "Yes, this is it!"
+msgstr ""
+
+msgctxt "1518||||4"
+msgid "Yup yup, that's spot-on!"
+msgstr ""
+
+msgctxt "1519||||4"
+msgid "This'll be perfect!"
+msgstr ""
+
+msgctxt "1520||||4"
+msgid "No, this isn't quite it..."
+msgstr ""
+
+msgctxt "1521||||4"
+msgid "No, you missed the mark a bit..."
+msgstr ""
+
+msgctxt "1522||||4"
+msgid "That's not happening."
+msgstr ""
+
+msgctxt "1523||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1524||||4"
+msgid "Not quite right!"
+msgstr ""
+
+msgctxt "1525||||4"
+msgid "So amazing!"
+msgstr ""
+
+msgctxt "1526||||4"
+msgid "Could be better."
+msgstr ""
+
+msgctxt "1527||||4"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "1528||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1529||||4"
+msgid "It hurts..."
+msgstr ""
+
+msgctxt "1530||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1531||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "1532||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1533||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1534||||4"
+msgid "I'd really love some medicine..."
+msgstr ""
+
+msgctxt "1535||||4"
+msgid "Where could they have gone...?"
+msgstr ""
+
+msgctxt "1536||||4"
+msgid "Wow, a fire!"
+msgstr ""
+
+msgctxt "1537||||4"
+msgid "I could use some food..."
+msgstr ""
+
+msgctxt "1538||||4"
+msgid "Leave me alone!"
+msgstr ""
+
+msgctxt "1539||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1540||||4"
+msgid "That's real terrible..."
+msgstr ""
+
+msgctxt "1541||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1542||||4"
+msgid "This isn't good...!"
+msgstr ""
+
+msgctxt "1543||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "1544||||4"
+msgid "Hey, what the heck!?"
+msgstr ""
+
+msgctxt "1545||||4"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "1546||||4"
+msgid "Here, open this for me!"
+msgstr ""
+
+msgctxt "1547||||4"
+msgid "Please! I need one of these real bad!"
+msgstr ""
+
+msgctxt "1548||||4"
+msgid "Wish I had one o' these..."
+msgstr ""
+
+msgctxt "1549||||4"
+msgid "Yeah, y'got it right!"
+msgstr ""
+
+msgctxt "1550||||4"
+msgid "Yeah, yer spot-on!"
+msgstr ""
+
+msgctxt "1551||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "1552||||4"
+msgid "Nah, y'got it wrong..."
+msgstr ""
+
+msgctxt "1553||||4"
+msgid "Nah, this ain't what I'm lookin' fer."
+msgstr ""
+
+msgctxt "1554||||4"
+msgid "That ain't happenin' right now."
+msgstr ""
+
+msgctxt "1555||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1556||||4"
+msgid "Ya got it wrong!"
+msgstr ""
+
+msgctxt "1557||||4"
+msgid "Yer the best!"
+msgstr ""
+
+msgctxt "1558||||4"
+msgid "That ain't the greatest."
+msgstr ""
+
+msgctxt "1559||||4"
+msgid "Huh? Y'mean it?"
+msgstr ""
+
+msgctxt "1560||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1561||||4"
+msgid "It hurts..."
+msgstr ""
+
+msgctxt "1562||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1563||||4"
+msgid "My stomach..."
+msgstr ""
+
+msgctxt "1564||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1565||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1566||||4"
+msgid "I'd really love some medicine..."
+msgstr ""
+
+msgctxt "1567||||4"
+msgid "Where'd they go runnin' off to?"
+msgstr ""
+
+msgctxt "1568||||4"
+msgid "Wow, it's burnin' up!"
+msgstr ""
+
+msgctxt "1569||||4"
+msgid "I could use some food..."
+msgstr ""
+
+msgctxt "1570||||4"
+msgid "Jus' stop it already!"
+msgstr ""
+
+msgctxt "1571||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1572||||4"
+msgid "Yer way too cruel."
+msgstr ""
+
+msgctxt "1573||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1574||||4"
+msgid "This isn't good...!"
+msgstr ""
+
+msgctxt "1575||||4"
+msgid "Hey, y'better stop!"
+msgstr ""
+
+msgctxt "1576||||4"
+msgid "Hey, what the heck!?"
+msgstr ""
+
+msgctxt "1577||||4"
+msgid "What's yer deal!?"
+msgstr ""
+
+msgctxt "1578||||4"
+msgid "Here, open this for me!"
+msgstr ""
+
+msgctxt "1579||||4"
+msgid "I hope you can bring me one of these."
+msgstr ""
+
+msgctxt "1580||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1581||||4"
+msgid "Yeah, just what I wanted!"
+msgstr ""
+
+msgctxt "1582||||4"
+msgid "Yeah, you got it!"
+msgstr ""
+
+msgctxt "1583||||4"
+msgid "This is gonna be perfect!"
+msgstr ""
+
+msgctxt "1584||||4"
+msgid "No, this isn't really right..."
+msgstr ""
+
+msgctxt "1585||||4"
+msgid "No, this is totally wrong..."
+msgstr ""
+
+msgctxt "1586||||4"
+msgid "Don't think i can do that."
+msgstr ""
+
+msgctxt "1587||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1588||||4"
+msgid "Wrong, wrong, wrong!"
+msgstr ""
+
+msgctxt "1589||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1590||||4"
+msgid "Not really what I was looking for."
+msgstr ""
+
+msgctxt "1591||||4"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "1592||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1593||||4"
+msgid "Owwwie..."
+msgstr ""
+
+msgctxt "1594||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1595||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "1596||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1597||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1598||||4"
+msgid "I need medicine..."
+msgstr ""
+
+msgctxt "1599||||4"
+msgid "Hey, where'd they go?"
+msgstr ""
+
+msgctxt "1600||||4"
+msgid "Whoa, it's burning up!"
+msgstr ""
+
+msgctxt "1601||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "1602||||4"
+msgid "Leave me alone!"
+msgstr ""
+
+msgctxt "1603||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1604||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "1605||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1606||||4"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "1607||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "1608||||4"
+msgid "Hey, move please!"
+msgstr ""
+
+msgctxt "1609||||4"
+msgid "The heck's yer problem!?"
+msgstr ""
+
+msgctxt "1610||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1611||||4"
+msgid "Hey, I hope y'can bring me one o' these."
+msgstr ""
+
+msgctxt "1612||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1613||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "1614||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "1615||||4"
+msgid "This is gonna be perfect!"
+msgstr ""
+
+msgctxt "1616||||4"
+msgid "Nah, y'got it wrong..."
+msgstr ""
+
+msgctxt "1617||||4"
+msgid "Nah, this ain't what I'm lookin' fer."
+msgstr ""
+
+msgctxt "1618||||4"
+msgid "No can do."
+msgstr ""
+
+msgctxt "1619||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1620||||4"
+msgid "Ya got it wrong!"
+msgstr ""
+
+msgctxt "1621||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1622||||4"
+msgid "That ain't the greatest."
+msgstr ""
+
+msgctxt "1623||||4"
+msgid "Huh? Y'sure?"
+msgstr ""
+
+msgctxt "1624||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1625||||4"
+msgid "Owwwie..."
+msgstr ""
+
+msgctxt "1626||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1627||||4"
+msgid "Got a stomachache..."
+msgstr ""
+
+msgctxt "1628||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1629||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1630||||4"
+msgid "I need medicine..."
+msgstr ""
+
+msgctxt "1631||||4"
+msgid "Where'd they go runnin' off to?"
+msgstr ""
+
+msgctxt "1632||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "1633||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "1634||||4"
+msgid "Jus' stop that!"
+msgstr ""
+
+msgctxt "1635||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1636||||4"
+msgid "So horrible..."
+msgstr ""
+
+msgctxt "1637||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1638||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1639||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "1640||||4"
+msgid "Hey, yer in my way!"
+msgstr ""
+
+msgctxt "1641||||4"
+msgid "The heck's yer problem!?"
+msgstr ""
+
+msgctxt "1642||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1643||||4"
+msgid "Here, this's my thanks."
+msgstr ""
+
+msgctxt "1644||||4"
+msgid "Hey, can you bring this to me?"
+msgstr ""
+
+msgctxt "1645||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "1646||||4"
+msgid "Mm, this is it!"
+msgstr ""
+
+msgctxt "1647||||4"
+msgid "Mm, you're a smart one!"
+msgstr ""
+
+msgctxt "1648||||4"
+msgid "I'm all for this!"
+msgstr ""
+
+msgctxt "1649||||4"
+msgid "No, this isn't quite it..."
+msgstr ""
+
+msgctxt "1650||||4"
+msgid "No, you missed the mark a bit..."
+msgstr ""
+
+msgctxt "1651||||4"
+msgid "That's not happening."
+msgstr ""
+
+msgctxt "1652||||4"
+msgid "Ding ding ding!"
+msgstr ""
+
+msgctxt "1653||||4"
+msgid "That's totally wrong!"
+msgstr ""
+
+msgctxt "1654||||4"
+msgid "So amazing!"
+msgstr ""
+
+msgctxt "1655||||4"
+msgid "Could be better."
+msgstr ""
+
+msgctxt "1656||||4"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "1657||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1658||||4"
+msgid "Ngh..."
+msgstr ""
+
+msgctxt "1659||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1660||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "1661||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1662||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1663||||4"
+msgid "I'd love some medicine..."
+msgstr ""
+
+msgctxt "1664||||4"
+msgid "Where could they have gone...?"
+msgstr ""
+
+msgctxt "1665||||4"
+msgid "Eek! Fire!"
+msgstr ""
+
+msgctxt "1666||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "1667||||4"
+msgid "Quit it!"
+msgstr ""
+
+msgctxt "1668||||4"
+msgid "What lovely news!"
+msgstr ""
+
+msgctxt "1669||||4"
+msgid "So harsh..."
+msgstr ""
+
+msgctxt "1670||||4"
+msgid "Phew, I'm so relieved..."
+msgstr ""
+
+msgctxt "1671||||4"
+msgid "This isn't good...!"
+msgstr ""
+
+msgctxt "1672||||4"
+msgid "Hey, come back!"
+msgstr ""
+
+msgctxt "1673||||4"
+msgid "Hey, what the heck!?"
+msgstr ""
+
+msgctxt "1674||||4"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "1675||||4"
+msgid "Hey, won't you open this for me?"
+msgstr ""
+
+msgctxt "1676||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1677||||4"
+msgid "Could I trouble ya for one of these?"
+msgstr ""
+
+msgctxt "1678||||4"
+msgid "If only I had one of these..."
+msgstr ""
+
+msgctxt "1679||||4"
+msgid "Yup, ya did good!"
+msgstr ""
+
+msgctxt "1680||||4"
+msgid "Yup, ya did great!"
+msgstr ""
+
+msgctxt "1681||||4"
+msgid "This's just what I needed!"
+msgstr ""
+
+msgctxt "1682||||4"
+msgid "Nah, this ain't right..."
+msgstr ""
+
+msgctxt "1683||||4"
+msgid "Nah, this ain't the right one..."
+msgstr ""
+
+msgctxt "1684||||4"
+msgid "Not so sure 'bout that."
+msgstr ""
+
+msgctxt "1685||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1686||||4"
+msgid "Nope!"
+msgstr ""
+
+msgctxt "1687||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1688||||4"
+msgid "This ain't so good."
+msgstr ""
+
+msgctxt "1689||||4"
+msgid "Huh? Are ya positive?"
+msgstr ""
+
+msgctxt "1690||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1691||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1692||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1693||||4"
+msgid "My stomach hurts so much..."
+msgstr ""
+
+msgctxt "1694||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1695||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1696||||4"
+msgid "Medicine, please..."
+msgstr ""
+
+msgctxt "1697||||4"
+msgid "Where'd they end up going?"
+msgstr ""
+
+msgctxt "1698||||4"
+msgid "Wow, look at it burn!"
+msgstr ""
+
+msgctxt "1699||||4"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "1700||||4"
+msgid "Jus' stop that!"
+msgstr ""
+
+msgctxt "1701||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1702||||4"
+msgid "That's real terrible..."
+msgstr ""
+
+msgctxt "1703||||4"
+msgid "Phew, that's a relief."
+msgstr ""
+
+msgctxt "1704||||4"
+msgid "This don't look good!"
+msgstr ""
+
+msgctxt "1705||||4"
+msgid "Hey, come on back!"
+msgstr ""
+
+msgctxt "1706||||4"
+msgid "Hey, back off!"
+msgstr ""
+
+msgctxt "1707||||4"
+msgid "What are ya thinking!?"
+msgstr ""
+
+msgctxt "1708||||4"
+msgid "Please, open this!"
+msgstr ""
+
+msgctxt "1709||||4"
+msgid "Here, this is how I'm thankin' ya."
+msgstr ""
+
+msgctxt "1710||||4"
+msgid "Y'know, I could really use one o' these."
+msgstr ""
+
+msgctxt "1711||||4"
+msgid "I wish I had one of these..."
+msgstr ""
+
+msgctxt "1712||||4"
+msgid "Yeah, this here's what I want!"
+msgstr ""
+
+msgctxt "1713||||4"
+msgid "Yeah, y'got it!"
+msgstr ""
+
+msgctxt "1714||||4"
+msgid "This's real good!"
+msgstr ""
+
+msgctxt "1715||||4"
+msgid "No, this isn't quite it..."
+msgstr ""
+
+msgctxt "1716||||4"
+msgid "No, you missed the mark a bit..."
+msgstr ""
+
+msgctxt "1717||||4"
+msgid "That ain't happenin' right now."
+msgstr ""
+
+msgctxt "1718||||4"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "1719||||4"
+msgid "So so so wrong!"
+msgstr ""
+
+msgctxt "1720||||4"
+msgid "This is fantastic!"
+msgstr ""
+
+msgctxt "1721||||4"
+msgid "This isn't very good."
+msgstr ""
+
+msgctxt "1722||||4"
+msgid "Huh? Are ya positive?"
+msgstr ""
+
+msgctxt "1723||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "1724||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "1725||||4"
+msgid "I feel sick..."
+msgstr ""
+
+msgctxt "1726||||4"
+msgid "Got a stomachache..."
+msgstr ""
+
+msgctxt "1727||||4"
+msgid "My back..."
+msgstr ""
+
+msgctxt "1728||||4"
+msgid "So much pain..."
+msgstr ""
+
+msgctxt "1729||||4"
+msgid "I need medicine..."
+msgstr ""
+
+msgctxt "1730||||4"
+msgid "Where'd they go runnin' off to?"
+msgstr ""
+
+msgctxt "1731||||4"
+msgid "Whoa, that fire's ragin'!"
+msgstr ""
+
+msgctxt "1732||||4"
+msgid "Stomach's empty..."
+msgstr ""
+
+msgctxt "1733||||4"
+msgid "Stop that, y'hear!?"
+msgstr ""
+
+msgctxt "1734||||4"
+msgid "I'm glad to hear that!"
+msgstr ""
+
+msgctxt "1735||||4"
+msgid "That's real terrible..."
+msgstr ""
+
+msgctxt "1736||||4"
+msgid "Phew, that's great t'hear."
+msgstr ""
+
+msgctxt "1737||||4"
+msgid "This ain't lookin' good fer us!"
+msgstr ""
+
+msgctxt "1738||||4"
+msgid "Hey, hold on a sec!"
+msgstr ""
+
+msgctxt "1739||||4"
+msgid "Hey, step aside!"
+msgstr ""
+
+msgctxt "1740||||4"
+msgid "What's wrong with you!?"
+msgstr ""
+
+msgctxt "1741||||4"
+msgid "Open this fer me, okay?"
+msgstr ""
+
+msgctxt "1742||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1743||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1744||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1745||||4"
+msgid "Hey, help me out here!"
+msgstr ""
+
+msgctxt "1746||||4"
+msgid "The heck're you doing!?"
+msgstr ""
+
+msgctxt "1747||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1748||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1749||||4"
+msgid "Get your butt over here!"
+msgstr ""
+
+msgctxt "1750||||4"
+msgid "All right, that's good."
+msgstr ""
+
+msgctxt "1751||||4"
+msgid "Fine, then."
+msgstr ""
+
+msgctxt "1752||||4"
+msgid "Huh? There's isn't any paper!"
+msgstr ""
+
+msgctxt "1753||||4"
+msgid "Well... This lack of paper is a problem."
+msgstr ""
+
+msgctxt "1754||||4"
+msgid "I'm way too hungry to even move...\r\nYou don't have any food, do you?"
+msgstr ""
+
+msgctxt "1755||||4"
+msgid "I'm gonna fall! Help me!"
+msgstr ""
+
+msgctxt "1756||||4"
+msgid "Stop it! Let me down!"
+msgstr ""
+
+msgctxt "1757||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1758||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1759||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1760||||4"
+msgid "H-Help me, someone!"
+msgstr ""
+
+msgctxt "1761||||4"
+msgid "Whaddya think yer doin'!?"
+msgstr ""
+
+msgctxt "1762||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1763||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1764||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "1765||||4"
+msgid "Mkay, that's good."
+msgstr ""
+
+msgctxt "1766||||4"
+msgid "Yeah, fine."
+msgstr ""
+
+msgctxt "1767||||4"
+msgid "Huh? There's isn't any paper!"
+msgstr ""
+
+msgctxt "1768||||4"
+msgid "Well... This lack o' paper's ruinin' me."
+msgstr ""
+
+msgctxt "1769||||4"
+msgid "I'm so starvin' I can barely move.\r\nYa got anything to eat?"
+msgstr ""
+
+msgctxt "1770||||4"
+msgid "I'm gonna fall! Help me!"
+msgstr ""
+
+msgctxt "1771||||4"
+msgid "Hey, yer interruptin' our shoot! Move!"
+msgstr ""
+
+msgctxt "1772||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1773||||4"
+msgid "You were a huge help."
+msgstr ""
+
+msgctxt "1774||||4"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1775||||4"
+msgid "Here, this is t'thank ya."
+msgstr ""
+
+msgctxt "1776||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1777||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1778||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1779||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1780||||4"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "1781||||4"
+msgid "Here, let me thank you."
+msgstr ""
+
+msgctxt "1782||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1783||||4"
+msgid "Here, this's my thanks."
+msgstr ""
+
+msgctxt "1784||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1785||||4"
+msgid "Here, this's my thanks."
+msgstr ""
+
+msgctxt "1786||||4"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1787||||4"
+msgid "Here, this is a thanks."
+msgstr ""
+
+msgctxt "1788||||4"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "1789||||4"
+msgid "Here, this is t'thank ya."
+msgstr ""
+
+msgctxt "1790||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1791||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1792||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1793||||4"
+msgid "H-Help me, someone!"
+msgstr ""
+
+msgctxt "1794||||4"
+msgid "Whaddya think yer doin'!?"
+msgstr ""
+
+msgctxt "1795||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1796||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1797||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "1798||||4"
+msgid "Mkay, that's good."
+msgstr ""
+
+msgctxt "1799||||4"
+msgid "Yeah, fine."
+msgstr ""
+
+msgctxt "1800||||4"
+msgid "Thanks fer yer cooperation."
+msgstr ""
+
+msgctxt "1801||||4"
+msgid "I gotta get this package on its way..."
+msgstr ""
+
+msgctxt "1802||||4"
+msgid "I'm gonna fall! Help me!"
+msgstr ""
+
+msgctxt "1803||||4"
+msgid "Stop it! Let me down!"
+msgstr ""
+
+msgctxt "1804||||4"
+msgid "You were a huge help."
+msgstr ""
+
+msgctxt "1805||||4"
+msgid "How do I deal with this...?"
+msgstr ""
+
+msgctxt "1806||||4"
+msgid "Th-Thief!"
+msgstr ""
+
+msgctxt "1807||||4"
+msgid "Someone help me!"
+msgstr ""
+
+msgctxt "1808||||4"
+msgid "Hey, what's your deal!?"
+msgstr ""
+
+msgctxt "1809||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1810||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1811||||4"
+msgid "Get your butt over here!"
+msgstr ""
+
+msgctxt "1812||||4"
+msgid "All right, that's good."
+msgstr ""
+
+msgctxt "1813||||4"
+msgid "Fine, then."
+msgstr ""
+
+msgctxt "1814||||4"
+msgid "Huh? No more paper...?"
+msgstr ""
+
+msgctxt "1815||||4"
+msgid "Uh... This lack of  paper's a real mess."
+msgstr ""
+
+msgctxt "1816||||4"
+msgid "Just gimme your wallet already!"
+msgstr ""
+
+msgctxt "1817||||4"
+msgid "Quiet!"
+msgstr ""
+
+msgctxt "1818||||4"
+msgid "Spare a guy some alcohol?"
+msgstr ""
+
+msgctxt "1819||||4"
+msgid "I've gotta get this package delivered fast..."
+msgstr ""
+
+msgctxt "1820||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1821||||4"
+msgid "What now...?"
+msgstr ""
+
+msgctxt "1822||||4"
+msgid "Th-Thief!"
+msgstr ""
+
+msgctxt "1823||||4"
+msgid "H-Help me, someone!"
+msgstr ""
+
+msgctxt "1824||||4"
+msgid "What're ya thinkin'!?"
+msgstr ""
+
+msgctxt "1825||||4"
+msgid "I'm done, I promise..."
+msgstr ""
+
+msgctxt "1826||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1827||||4"
+msgid "Get yer ass over here!"
+msgstr ""
+
+msgctxt "1828||||4"
+msgid "Mm, that's good."
+msgstr ""
+
+msgctxt "1829||||4"
+msgid "Yeah, fine."
+msgstr ""
+
+msgctxt "1830||||4"
+msgid "Huh? I'm outta paper!"
+msgstr ""
+
+msgctxt "1831||||4"
+msgid "Well... This lack o' paper's ruinin' me."
+msgstr ""
+
+msgctxt "1832||||4"
+msgid "Just gimme your wallet already!"
+msgstr ""
+
+msgctxt "1833||||4"
+msgid "Just keep quiet, ya hear!?"
+msgstr ""
+
+msgctxt "1834||||4"
+msgid "How 'bout a bit of booze?"
+msgstr ""
+
+msgctxt "1835||||4"
+msgid "I'm in trouble if I don't deliver this package..."
+msgstr ""
+
+msgctxt "1836||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1837||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1838||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1839||||4"
+msgid "Hey, help me out here!"
+msgstr ""
+
+msgctxt "1840||||4"
+msgid "Whaddya think yer doin'!?"
+msgstr ""
+
+msgctxt "1841||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1842||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1843||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "1844||||4"
+msgid "Mkay, that's good."
+msgstr ""
+
+msgctxt "1845||||4"
+msgid "No skin off my back."
+msgstr ""
+
+msgctxt "1846||||4"
+msgid "Huh? I'm outta paper!"
+msgstr ""
+
+msgctxt "1847||||4"
+msgid "Well... This lack o' paper's ruinin' me."
+msgstr ""
+
+msgctxt "1848||||4"
+msgid "Just gimme your wallet already!"
+msgstr ""
+
+msgctxt "1849||||4"
+msgid "Y'better keep quiet now!"
+msgstr ""
+
+msgctxt "1850||||4"
+msgid "Spare a guy some alcohol?"
+msgstr ""
+
+msgctxt "1851||||4"
+msgid "I gotta get this package on its way..."
+msgstr ""
+
+msgctxt "1852||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1853||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1854||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1855||||4"
+msgid "H-Help me, someone!"
+msgstr ""
+
+msgctxt "1856||||4"
+msgid "What're you doing!?"
+msgstr ""
+
+msgctxt "1857||||4"
+msgid "I'm done, I promise..."
+msgstr ""
+
+msgctxt "1858||||4"
+msgid "H-Help me, please..."
+msgstr ""
+
+msgctxt "1859||||4"
+msgid "Get your butt over here!"
+msgstr ""
+
+msgctxt "1860||||4"
+msgid "Yeah, that's good."
+msgstr ""
+
+msgctxt "1861||||4"
+msgid "Sure."
+msgstr ""
+
+msgctxt "1862||||4"
+msgid "Huh? There's isn't any paper!"
+msgstr ""
+
+msgctxt "1863||||4"
+msgid "Well... This lack of paper is a problem."
+msgstr ""
+
+msgctxt "1864||||4"
+msgid "I got robbed!"
+msgstr ""
+
+msgctxt "1865||||4"
+msgid "I've gotta deliver this fast..."
+msgstr ""
+
+msgctxt "1866||||4"
+msgid "My body's not ready... Need food...\r\nYou don't have anything, do you?"
+msgstr ""
+
+msgctxt "1867||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1868||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1869||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1870||||4"
+msgid "H-Help me, someone!"
+msgstr ""
+
+msgctxt "1871||||4"
+msgid "Whatcha doin'!?"
+msgstr ""
+
+msgctxt "1872||||4"
+msgid "I'm done fer good, promise..."
+msgstr ""
+
+msgctxt "1873||||4"
+msgid "H-Help me, please..."
+msgstr ""
+
+msgctxt "1874||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "1875||||4"
+msgid "Yup, 'at's good."
+msgstr ""
+
+msgctxt "1876||||4"
+msgid "Sure."
+msgstr ""
+
+msgctxt "1877||||4"
+msgid "I'm so starvin' I can barely move.\r\nYa got anything to eat?"
+msgstr ""
+
+msgctxt "1878||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1879||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1880||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1881||||4"
+msgid "Hey, help me out here!"
+msgstr ""
+
+msgctxt "1882||||4"
+msgid "Whaddya think yer doin'!?"
+msgstr ""
+
+msgctxt "1883||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1884||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1885||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "1886||||4"
+msgid "Mkay, that's good."
+msgstr ""
+
+msgctxt "1887||||4"
+msgid "No skin off my back."
+msgstr ""
+
+msgctxt "1888||||4"
+msgid "Stuff gets buried with corpses all the time. Jus' so\r\nhappens that a lot of it ends up bein' pretty pricey."
+msgstr ""
+
+msgctxt "1889||||4"
+msgid "Time fer ya t'pay up."
+msgstr ""
+
+msgctxt "1890||||4"
+msgid "Quit yer goddamn yappin'!\r\n*I'm gonna make you pay me!"
+msgstr ""
+
+msgctxt "1891||||4"
+msgid "'ppreciate the business!"
+msgstr ""
+
+msgctxt "1892||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1893||||4"
+msgid "How do I deal with this...?"
+msgstr ""
+
+msgctxt "1894||||4"
+msgid "Th-Thief!"
+msgstr ""
+
+msgctxt "1895||||4"
+msgid "Hey, help me out here!"
+msgstr ""
+
+msgctxt "1896||||4"
+msgid "The heck're you doing!?"
+msgstr ""
+
+msgctxt "1897||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1898||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1899||||4"
+msgid "Get your butt over here!"
+msgstr ""
+
+msgctxt "1900||||4"
+msgid "All right, that's good."
+msgstr ""
+
+msgctxt "1901||||4"
+msgid "Fine, then."
+msgstr ""
+
+msgctxt "1902||||4"
+msgid "Just gimme your wallet already!"
+msgstr ""
+
+msgctxt "1903||||4"
+msgid "Quiet!"
+msgstr ""
+
+msgctxt "1904||||4"
+msgid "Whaddya think you're doing with my woman!?"
+msgstr ""
+
+msgctxt "1905||||4"
+msgid "What was that!? You're finished, asshole!"
+msgstr ""
+
+msgctxt "1906||||4"
+msgid "If you don't wanna get hurt,\r\nhow 'bout you hand over 100k?"
+msgstr ""
+
+msgctxt "1907||||4"
+msgid "You're asking for it. Here comes the pain!"
+msgstr ""
+
+msgctxt "1908||||4"
+msgid "I'm glad you know what's up."
+msgstr ""
+
+msgctxt "1909||||4"
+msgid "If you don't wanna get hurt,\r\nhow 'bout you hand over 50k?"
+msgstr ""
+
+msgctxt "1910||||4"
+msgid "If you don't wanna get hurt,\r\nhow 'bout you hand over a nice million?"
+msgstr ""
+
+msgctxt "1911||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1912||||4"
+msgid "What am I gonna do?"
+msgstr ""
+
+msgctxt "1913||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1914||||4"
+msgid "Hey, help me out here!"
+msgstr ""
+
+msgctxt "1915||||4"
+msgid "Whaddya think yer doin'!?"
+msgstr ""
+
+msgctxt "1916||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1917||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1918||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "1919||||4"
+msgid "Mkay, that's good."
+msgstr ""
+
+msgctxt "1920||||4"
+msgid "Meh, guess that's fine."
+msgstr ""
+
+msgctxt "1921||||4"
+msgid "Just gimme your wallet already!"
+msgstr ""
+
+msgctxt "1922||||4"
+msgid "Y'better keep quiet now!"
+msgstr ""
+
+msgctxt "1923||||4"
+msgid "Hey, what're y'doin' with my woman!?"
+msgstr ""
+
+msgctxt "1924||||4"
+msgid "What was 'at!? Yer goin' down!"
+msgstr ""
+
+msgctxt "1925||||4"
+msgid "If y'don't wanna get yerself hurt,\r\nyer gonna have t'gimme 100k."
+msgstr ""
+
+msgctxt "1926||||4"
+msgid "You're asking for it. Here comes the pain!"
+msgstr ""
+
+msgctxt "1927||||4"
+msgid "Glad y'understand yer place."
+msgstr ""
+
+msgctxt "1928||||4"
+msgid "If y'don't wanna get yerself hurt,\r\nyer gonna have t'gimme 50k."
+msgstr ""
+
+msgctxt "1929||||4"
+msgid "If y'don't wanna get yerself hurt,\r\nyer gonna have t'gimme a million."
+msgstr ""
+
+msgctxt "1930||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1931||||4"
+msgid "What am I gonna do?"
+msgstr ""
+
+msgctxt "1932||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1933||||4"
+msgid "Hey, help me out here!"
+msgstr ""
+
+msgctxt "1934||||4"
+msgid "What's yer beef!?"
+msgstr ""
+
+msgctxt "1935||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1936||||4"
+msgid "Jus' come help me already!"
+msgstr ""
+
+msgctxt "1937||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "1938||||4"
+msgid "Mkay, that's good."
+msgstr ""
+
+msgctxt "1939||||4"
+msgid "Meh, guess that's fine."
+msgstr ""
+
+msgctxt "1940||||4"
+msgid "I got robbed!"
+msgstr ""
+
+msgctxt "1941||||4"
+msgid "Stuff gets buried with corpses all the time. Jus' so\r\nhappens that a lot of it ends up bein' pretty pricey."
+msgstr ""
+
+msgctxt "1942||||4"
+msgid "Time fer ya t'pay up."
+msgstr ""
+
+msgctxt "1943||||4"
+msgid "Quit yer goddamn yappin'!\r\nI'm gonna make you pay me!"
+msgstr ""
+
+msgctxt "1944||||4"
+msgid "'ppreciate the business!"
+msgstr ""
+
+msgctxt "1945||||4"
+msgid "Hey, yer interruptin' our shoot! Move!"
+msgstr ""
+
+msgctxt "1946||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1947||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1948||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1949||||4"
+msgid "Hey, help me out here!"
+msgstr ""
+
+msgctxt "1950||||4"
+msgid "Whaddya think yer doin'!?"
+msgstr ""
+
+msgctxt "1951||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1952||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1953||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "1954||||4"
+msgid "Mkay, that's good."
+msgstr ""
+
+msgctxt "1955||||4"
+msgid "No skin off my back."
+msgstr ""
+
+msgctxt "1956||||4"
+msgid "Jus' shut yer mouth n' gimme yer money!"
+msgstr ""
+
+msgctxt "1957||||4"
+msgid "I'm gonna tear ya t'pieces!"
+msgstr ""
+
+msgctxt "1958||||4"
+msgid "Stuff gets buried with corpses all the time. Jus' so\r\nhappens that a lot of it ends up bein' pretty pricey."
+msgstr ""
+
+msgctxt "1959||||4"
+msgid "Yo, what're y'doin' with my woman!?"
+msgstr ""
+
+msgctxt "1960||||4"
+msgid "What was 'at!? Yer goin' down!"
+msgstr ""
+
+msgctxt "1961||||4"
+msgid "If you don't wanna get hurt,\r\nhow 'bout you hand over 100k?"
+msgstr ""
+
+msgctxt "1962||||4"
+msgid "Yer asking fer it. Here comes the pain!"
+msgstr ""
+
+msgctxt "1963||||4"
+msgid "Glad y'understand yer place."
+msgstr ""
+
+msgctxt "1964||||4"
+msgid "If you don't wanna get hurt,\r\nhow 'bout you hand over 50k?"
+msgstr ""
+
+msgctxt "1965||||4"
+msgid "If you don't wanna get hurt,\r\nhow 'bout you hand over a sweet million?"
+msgstr ""
+
+msgctxt "1966||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1967||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1968||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1969||||4"
+msgid "Eek! Please help me!"
+msgstr ""
+
+msgctxt "1970||||4"
+msgid "What are you trying to do!?"
+msgstr ""
+
+msgctxt "1971||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1972||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1973||||4"
+msgid "Get your butt over here!"
+msgstr ""
+
+msgctxt "1974||||4"
+msgid "So good."
+msgstr ""
+
+msgctxt "1975||||4"
+msgid "Okay, then."
+msgstr ""
+
+msgctxt "1976||||4"
+msgid "Wait, did I get robbed!?"
+msgstr ""
+
+msgctxt "1977||||4"
+msgid "I appreciate the help."
+msgstr ""
+
+msgctxt "1978||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1979||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1980||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1981||||4"
+msgid "H-Help me, someone!"
+msgstr ""
+
+msgctxt "1982||||4"
+msgid "What are you trying to do!?"
+msgstr ""
+
+msgctxt "1983||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1984||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1985||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "1986||||4"
+msgid "So good."
+msgstr ""
+
+msgctxt "1987||||4"
+msgid "Sure."
+msgstr ""
+
+msgctxt "1988||||4"
+msgid "Wait, did I get robbed!?"
+msgstr ""
+
+msgctxt "1989||||4"
+msgid "I appreciate the help."
+msgstr ""
+
+msgctxt "1990||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "1991||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "1992||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "1993||||4"
+msgid "Eek! Please help me!"
+msgstr ""
+
+msgctxt "1994||||4"
+msgid "What are you trying to do!?"
+msgstr ""
+
+msgctxt "1995||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "1996||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "1997||||4"
+msgid "Get your butt over here!"
+msgstr ""
+
+msgctxt "1998||||4"
+msgid "So good."
+msgstr ""
+
+msgctxt "1999||||4"
+msgid "Okay, then."
+msgstr ""
+
+msgctxt "2000||||4"
+msgid "I took my eyes off him for just a second,\r\nand he straight up disappeared..."
+msgstr ""
+
+msgctxt "2001||||4"
+msgid "Where did he get off to...!?"
+msgstr ""
+
+msgctxt "2002||||4"
+msgid "Here, this is my number. Please, please,\r\nplease let me know if you find him!"
+msgstr ""
+
+msgctxt "2003||||4"
+msgid "What!? You're horrible!"
+msgstr ""
+
+msgctxt "2004||||4"
+msgid "If you want to keep all your teeth aligned,\r\nyou should probably think about paying up."
+msgstr ""
+
+msgctxt "2005||||4"
+msgid "You're asking for it. Here comes the pain!"
+msgstr ""
+
+msgctxt "2006||||4"
+msgid "Glad you know what's what."
+msgstr ""
+
+msgctxt "2007||||4"
+msgid "Hey, this guy tried to drag me off with him!"
+msgstr ""
+
+msgctxt "2008||||4"
+msgid "Someone should come kick his ass!"
+msgstr ""
+
+msgctxt "2009||||4"
+msgid "I-I'm sorry..."
+msgstr ""
+
+msgctxt "2010||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "2011||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "2012||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "2013||||4"
+msgid "Eek! Please help me!"
+msgstr ""
+
+msgctxt "2014||||4"
+msgid "What are you trying to do!?"
+msgstr ""
+
+msgctxt "2015||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "2016||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "2017||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "2018||||4"
+msgid "So good."
+msgstr ""
+
+msgctxt "2019||||4"
+msgid "Sure."
+msgstr ""
+
+msgctxt "2020||||4"
+msgid "I took my eyes off o' him fer jus' a sec,\r\nn' he straight up disappeared..."
+msgstr ""
+
+msgctxt "2021||||4"
+msgid "Where'd he get off to...!?"
+msgstr ""
+
+msgctxt "2022||||4"
+msgid "Here, this's my number. Please, please,\r\nplease lemme know if y'find him!"
+msgstr ""
+
+msgctxt "2023||||4"
+msgid "What!? Yer terrible!"
+msgstr ""
+
+msgctxt "2024||||4"
+msgid "If y'wanna keep all yer teeth aligned,\r\ny'should probly think about payin' up."
+msgstr ""
+
+msgctxt "2025||||4"
+msgid "Yer askin' fer it. Here comes the pain!"
+msgstr ""
+
+msgctxt "2026||||4"
+msgid "Glad y'know what's what."
+msgstr ""
+
+msgctxt "2027||||4"
+msgid "Hey, this guy tried t'drag me off with 'im!"
+msgstr ""
+
+msgctxt "2028||||4"
+msgid "Someone should come kick his ass!"
+msgstr ""
+
+msgctxt "2029||||4"
+msgid "I-I'm sorry..."
+msgstr ""
+
+msgctxt "2030||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "2031||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "2032||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "2033||||4"
+msgid "Eek! Please help me!"
+msgstr ""
+
+msgctxt "2034||||4"
+msgid "What are you trying to do!?"
+msgstr ""
+
+msgctxt "2035||||4"
+msgid "I won't do it again, promise..."
+msgstr ""
+
+msgctxt "2036||||4"
+msgid "P-Please help me..."
+msgstr ""
+
+msgctxt "2037||||4"
+msgid "Get your butt over here!"
+msgstr ""
+
+msgctxt "2038||||4"
+msgid "So good."
+msgstr ""
+
+msgctxt "2039||||4"
+msgid "Okay, then."
+msgstr ""
+
+msgctxt "2040||||4"
+msgid "I took my eyes off him for just a second,\r\nand he straight up disappeared..."
+msgstr ""
+
+msgctxt "2041||||4"
+msgid "Where did he get off to...!?"
+msgstr ""
+
+msgctxt "2042||||4"
+msgid "Here, this is my number. Please, please,\r\nplease let me know if you find him!"
+msgstr ""
+
+msgctxt "2043||||4"
+msgid "Huh? There's isn't any paper!"
+msgstr ""
+
+msgctxt "2044||||4"
+msgid "Well... This lack of paper is a problem."
+msgstr ""
+
+msgctxt "2045||||4"
+msgid "Wait, did I get robbed!?"
+msgstr ""
+
+msgctxt "2046||||4"
+msgid "I'm in the clear thanks to you."
+msgstr ""
+
+msgctxt "2047||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "2048||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "2049||||4"
+msgid "H-Help me, someone!"
+msgstr ""
+
+msgctxt "2050||||4"
+msgid "What're you doing!?"
+msgstr ""
+
+msgctxt "2051||||4"
+msgid "I'm done, I promise..."
+msgstr ""
+
+msgctxt "2052||||4"
+msgid "H-Help me, please..."
+msgstr ""
+
+msgctxt "2053||||4"
+msgid "Get your butt over here!"
+msgstr ""
+
+msgctxt "2054||||4"
+msgid "Yeah, that's good."
+msgstr ""
+
+msgctxt "2055||||4"
+msgid "Sure."
+msgstr ""
+
+msgctxt "2056||||4"
+msgid "I'm too hungry to even think about moving.\r\nDo you have any food you could give me?"
+msgstr ""
+
+msgctxt "2057||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2058||||4"
+msgid "What can I do?"
+msgstr ""
+
+msgctxt "2059||||4"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "2060||||4"
+msgid "H-Help me, someone!"
+msgstr ""
+
+msgctxt "2061||||4"
+msgid "What're you doing!?"
+msgstr ""
+
+msgctxt "2062||||4"
+msgid "I'm done, I promise..."
+msgstr ""
+
+msgctxt "2063||||4"
+msgid "H-Help me, please..."
+msgstr ""
+
+msgctxt "2064||||4"
+msgid "C'mon over here already!"
+msgstr ""
+
+msgctxt "2065||||4"
+msgid "Yeah, that's good."
+msgstr ""
+
+msgctxt "2066||||4"
+msgid "Sure."
+msgstr ""
+
+msgctxt "2067||||4"
+msgid "I'm so hungry I could eat a horse.\r\nY'got any food y'might be able t'give me?"
+msgstr ""
+
+msgctxt "2068||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2069||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2075||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2076||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2077||||4"
+msgid "Thanks!"
+msgstr ""
+
+msgctxt "2078||||4"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "2079||||4"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "2081||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "2082||||4"
+msgid "Right..."
+msgstr ""
+
+msgctxt "2083||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "2084||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "2085||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "2086||||4"
+msgid "I'm gonna give it a shot..."
+msgstr ""
+
+msgctxt "2087||||4"
+msgid "I don't have a choice...!"
+msgstr ""
+
+msgctxt "2088||||4"
+msgid "I just gotta do it..."
+msgstr ""
+
+msgctxt "2089||||4"
+msgid "H-Here I go!"
+msgstr ""
+
+msgctxt "2090||||4"
+msgid "Bring it on!"
+msgstr ""
+
+msgctxt "2091||||4"
+msgid "Apologies."
+msgstr ""
+
+msgctxt "2092||||4"
+msgid "I'm really sorry."
+msgstr ""
+
+msgctxt "2093||||4"
+msgid "My bad."
+msgstr ""
+
+msgctxt "2094||||4"
+msgid "Sorry fer that..."
+msgstr ""
+
+msgctxt "2095||||4"
+msgid "Who the hell are you!?"
+msgstr ""
+
+msgctxt "2096||||4"
+msgid "Whaddya want!?"
+msgstr ""
+
+msgctxt "2097||||4"
+msgid "What're y'lookin' at!?"
+msgstr ""
+
+msgctxt "2098||||4"
+msgid "What!?"
+msgstr ""
+
+msgctxt "2099||||4"
+msgid "Fuckin' shit!"
+msgstr ""
+
+msgctxt "2100||||4"
+msgid "What is it, bastard!?"
+msgstr ""
+
+msgctxt "2101||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "2102||||4"
+msgid "I'm awfully sorry..."
+msgstr ""
+
+msgctxt "2103||||4"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "2104||||4"
+msgid "'At one was on me."
+msgstr ""
+
+msgctxt "2105||||4"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "2106||||4"
+msgid "I'm real sorry."
+msgstr ""
+
+msgctxt "2107||||4"
+msgid "Please, just let me go!"
+msgstr ""
+
+msgctxt "2108||||4"
+msgid "Forgive me!"
+msgstr ""
+
+msgctxt "2109||||4"
+msgid "Gimme a break!"
+msgstr ""
+
+msgctxt "2110||||4"
+msgid "Stop fuckin' around!"
+msgstr ""
+
+msgctxt "2111||||4"
+msgid "What'd y'say!?"
+msgstr ""
+
+msgctxt "2112||||4"
+msgid "Quit messing with me!"
+msgstr ""
+
+msgctxt "2113||||4"
+msgid "Y'better not underestimate me!"
+msgstr ""
+
+msgctxt "2114||||4"
+msgid "Later!"
+msgstr ""
+
+msgctxt "2115||||4"
+msgid "See ya!"
+msgstr ""
+
+msgctxt "2116||||4"
+msgid "I'm outta here!"
+msgstr ""
+
+msgctxt "2117||||4"
+msgid "Peace!"
+msgstr ""
+
+msgctxt "2118||||4"
+msgid "Bye!"
+msgstr ""
+
+msgctxt "2119||||4"
+msgid "Buh-bye!"
+msgstr ""
+
+msgctxt "2120||||4"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "2121||||4"
+msgid "What!?"
+msgstr ""
+
+msgctxt "2122||||4"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "2123||||4"
+msgid "Fer real!?"
+msgstr ""
+
+msgctxt "2124||||4"
+msgid "T'hell with it!"
+msgstr ""
+
+msgctxt "2125||||4"
+msgid "I'm gonna do this, dammit!"
+msgstr ""
+
+msgctxt "2126||||4"
+msgid "I'm doin' it!"
+msgstr ""
+
+msgctxt "2127||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2128||||4"
+msgid "Thank ya very much!"
+msgstr ""
+
+msgctxt "2129||||4"
+msgid "You're really pissing me off!"
+msgstr ""
+
+msgctxt "2130||||4"
+msgid "Eff it!"
+msgstr ""
+
+msgctxt "2131||||4"
+msgid "Shit. I don't have a choice..."
+msgstr ""
+
+msgctxt "2132||||4"
+msgid "Yer gonna regret this!"
+msgstr ""
+
+msgctxt "2133||||4"
+msgid "This's my only option here..."
+msgstr ""
+
+msgctxt "2134||||4"
+msgid "Shit, here we go..."
+msgstr ""
+
+msgctxt "2135||||4"
+msgid "My bad, man..."
+msgstr ""
+
+msgctxt "2136||||4"
+msgid "I'm awful sorry..."
+msgstr ""
+
+msgctxt "2137||||4"
+msgid "Just give me a break..."
+msgstr ""
+
+msgctxt "2138||||4"
+msgid "P-Please lemme go!"
+msgstr ""
+
+msgctxt "2139||||4"
+msgid "Just forgive me!"
+msgstr ""
+
+msgctxt "2140||||4"
+msgid "Please forgive me!"
+msgstr ""
+
+msgctxt "2141||||4"
+msgid "Accept my apology."
+msgstr ""
+
+msgctxt "2142||||4"
+msgid "Sorry fer all this."
+msgstr ""
+
+msgctxt "2143||||4"
+msgid "I really am sorry."
+msgstr ""
+
+msgctxt "2144||||4"
+msgid "I effed up..."
+msgstr ""
+
+msgctxt "2145||||4"
+msgid "I'm sorry for this."
+msgstr ""
+
+msgctxt "2146||||4"
+msgid "Sorry 'bout everythin'."
+msgstr ""
+
+msgctxt "2147||||4"
+msgid "Urghhh..."
+msgstr ""
+
+msgctxt "2148||||4"
+msgid "Urghhh..."
+msgstr ""
+
+msgctxt "2149||||4"
+msgid "Urghhh..."
+msgstr ""
+
+msgctxt "2150||||4"
+msgid "I'm begging you!"
+msgstr ""
+
+msgctxt "2151||||4"
+msgid "Please!"
+msgstr ""
+
+msgctxt "2152||||4"
+msgid "Do it for me, please."
+msgstr ""
+
+msgctxt "2153||||4"
+msgid "I'm counting on ya!"
+msgstr ""
+
+msgctxt "2154||||4"
+msgid "It's up t'you."
+msgstr ""
+
+msgctxt "2155||||4"
+msgid "Pretty please!"
+msgstr ""
+
+msgctxt "2156||||4"
+msgid "Yes."
+msgstr ""
+
+msgctxt "2157||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2158||||4"
+msgid "Yes."
+msgstr ""
+
+msgctxt "2159||||4"
+msgid "Yes."
+msgstr ""
+
+msgctxt "2160||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2161||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2162||||4"
+msgid "Yup."
+msgstr ""
+
+msgctxt "2163||||4"
+msgid "Yup."
+msgstr ""
+
+msgctxt "2164||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2165||||4"
+msgid "Yes."
+msgstr ""
+
+msgctxt "2166||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2167||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2168||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2169||||4"
+msgid "Yes."
+msgstr ""
+
+msgctxt "2170||||4"
+msgid "Yes."
+msgstr ""
+
+msgctxt "2171||||4"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "2172||||4"
+msgid "Thanks a ton, fer real!"
+msgstr ""
+
+msgctxt "2173||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2174||||4"
+msgid "Ya did great!"
+msgstr ""
+
+msgctxt "2175||||4"
+msgid "Thank ya."
+msgstr ""
+
+msgctxt "2176||||4"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2177||||4"
+msgid "Wh-What was 'at?"
+msgstr ""
+
+msgctxt "2178||||4"
+msgid "Yer gonna die here."
+msgstr ""
+
+msgctxt "2179||||4"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "2180||||4"
+msgid "Huh? You wanna pick a fight with me?"
+msgstr ""
+
+msgctxt "2181||||4"
+msgid "Please lemme off the hook."
+msgstr ""
+
+msgctxt "2182||||4"
+msgid "I'm sorry... Forgive me..."
+msgstr ""
+
+msgctxt "2183||||4"
+msgid "Lemme go... Please..."
+msgstr ""
+
+msgctxt "2184||||4"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "2185||||4"
+msgid "Huh? Y'wanna tussle?"
+msgstr ""
+
+msgctxt "2186||||4"
+msgid "You, shit fer brains!"
+msgstr ""
+
+msgctxt "2187||||4"
+msgid "Lemme take a swing at ya!"
+msgstr ""
+
+msgctxt "2188||||4"
+msgid "Y'got a problem, huh!?"
+msgstr ""
+
+msgctxt "2189||||4"
+msgid "Yer gonna regret this once yer dead!"
+msgstr ""
+
+msgctxt "2190||||4"
+msgid "What should I do...!?"
+msgstr ""
+
+msgctxt "2191||||4"
+msgid "How do I handle this...?"
+msgstr ""
+
+msgctxt "2192||||4"
+msgid "What to do...?"
+msgstr ""
+
+msgctxt "2193||||4"
+msgid "Urghhh..."
+msgstr ""
+
+msgctxt "2194||||4"
+msgid "Urghhh..."
+msgstr ""
+
+msgctxt "2195||||4"
+msgid "Urghhh..."
+msgstr ""
+
+msgctxt "2196||||4"
+msgid "Urghhh..."
+msgstr ""
+
+msgctxt "2197||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "2198||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "2199||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "2200||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "2205||||4"
+msgid "Hey, what are you doing?"
+msgstr ""
+
+msgctxt "2206||||4"
+msgid "Here, does this work?"
+msgstr ""
+
+msgctxt "2207||||4"
+msgid "Yeah, I'll see what I can do."
+msgstr ""
+
+msgctxt "2208||||4"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "2209||||4"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "2210||||4"
+msgid "Just give me a minute."
+msgstr ""
+
+msgctxt "2211||||4"
+msgid "All right, that should do it..."
+msgstr ""
+
+msgctxt "2212||||4"
+msgid "I failed..."
+msgstr ""
+
+msgctxt "2213||||4"
+msgid "I made it..."
+msgstr ""
+
+msgctxt "2214||||4"
+msgid "I didn't make it..."
+msgstr ""
+
+msgctxt "2215||||4"
+msgid "I can't touch it with my bare hands.\r\nMaybe I can destroy the source somehow..."
+msgstr ""
+
+msgctxt "2216||||4"
+msgid "Ow, that's hot!"
+msgstr ""
+
+msgctxt "2217||||4"
+msgid "I think it's this way."
+msgstr ""
+
+msgctxt "2218||||4"
+msgid "I think it's that way."
+msgstr ""
+
+msgctxt "2219||||4"
+msgid "I should help out..."
+msgstr ""
+
+msgctxt "2220||||4"
+msgid "I should do something..."
+msgstr ""
+
+msgctxt "2221||||4"
+msgid "I should bring it for them..."
+msgstr ""
+
+msgctxt "2222||||4"
+msgid "Do I have what I need...?"
+msgstr ""
+
+msgctxt "2223||||4"
+msgid "All right, I'll handle it."
+msgstr ""
+
+msgctxt "2224||||4"
+msgid "What's with that guy? He's acting strange..."
+msgstr ""
+
+msgctxt "2225||||4"
+msgid "Hey, you! What are you doing!?"
+msgstr ""
+
+msgctxt "2226||||4"
+msgid "Right, then. Don't ever do it again."
+msgstr ""
+
+msgctxt "2227||||4"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "2228||||4"
+msgid "Hey! You're not getting away!"
+msgstr ""
+
+msgctxt "2229||||4"
+msgid "You can't keep doing things like this."
+msgstr ""
+
+msgctxt "2230||||4"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "2231||||4"
+msgid "Shoot, I messed up..."
+msgstr ""
+
+msgctxt "2232||||4"
+msgid "So I got it right..."
+msgstr ""
+
+msgctxt "2233||||4"
+msgid "Be careful."
+msgstr ""
+
+msgctxt "2234||||4"
+msgid "What...?"
+msgstr ""
+
+msgctxt "2235||||4"
+msgid "What should I do...?"
+msgstr ""
+
+msgctxt "2236||||4"
+msgid "Is there any medicine near here...?"
+msgstr ""
+
+msgctxt "2237||||4"
+msgid "I need to put that fire out..."
+msgstr ""
+
+msgctxt "2238||||4"
+msgid "Phew, it's finally out."
+msgstr ""
+
+msgctxt "2239||||4"
+msgid "They're hurt... It must have been the slasher!"
+msgstr ""
+
+msgctxt "2240||||4"
+msgid "I have to put that fire out..."
+msgstr ""
+
+msgctxt "2241||||4"
+msgid "I have to figure out how to put that fire out..."
+msgstr ""
+
+msgctxt "2242||||4"
+msgid "(I'm hungry. Maybe I should go\r\ngrab something at a restaurant.)"
+msgstr ""
+
+msgctxt "2243||||4"
+msgid "(Mm, that was nice. Satisfying, too.)"
+msgstr ""
+
+msgctxt "2244||||4"
+msgid "(I don't feel great... I should have\r\nsome medicine, though.)"
+msgstr ""
+
+msgctxt "2245||||4"
+msgid "(Ahhh, that worked wonders.\r\nI feel much better now.)"
+msgstr ""
+
+msgctxt "2246||||4"
+msgid "(I'm starving. Maybe I should eat something...)"
+msgstr ""
+
+msgctxt "2247||||4"
+msgid "(As good as I expected.)"
+msgstr ""
+
+msgctxt "2248||||4"
+msgid "(Maybe I should go here...)"
+msgstr ""
+
+msgctxt "2249||||4"
+msgid "All right, this is the place."
+msgstr ""
+
+msgctxt "2250||||4"
+msgid "Exactly as planned..."
+msgstr ""
+
+msgctxt "2251||||4"
+msgid "This is a good piece of info..."
+msgstr ""
+
+msgctxt "2252||||4"
+msgid "Huh!? A pickpocket?"
+msgstr ""
+
+msgctxt "2253||||4"
+msgid "Wait, my wallet's gone!\r\nI must've been pickpocketed!"
+msgstr ""
+
+msgctxt "2254||||4"
+msgid "Hey, you're the one who took my wallet!"
+msgstr ""
+
+msgctxt "2255||||4"
+msgid "Huh!? A shoplifter?"
+msgstr ""
+
+msgctxt "2256||||4"
+msgid "Hey, you're that shoplifter!"
+msgstr ""
+
+msgctxt "2257||||4"
+msgid "Huh!? A burglar!?"
+msgstr ""
+
+msgctxt "2258||||4"
+msgid "Hey, you shouldn't resort to burglary."
+msgstr ""
+
+msgctxt "2259||||4"
+msgid "Huh!? A dine-and-dasher!?"
+msgstr ""
+
+msgctxt "2260||||4"
+msgid "You think you can leave without paying!?"
+msgstr ""
+
+msgctxt "2261||||4"
+msgid "This is... a calling card!?"
+msgstr ""
+
+msgctxt "2262||||4"
+msgid "Did you send that calling card!?"
+msgstr ""
+
+msgctxt "2263||||4"
+msgid "I delivered all the packages you asked me to."
+msgstr ""
+
+msgctxt "2264||||4"
+msgid "(That guy... Is he drawing graffiti over there?)"
+msgstr ""
+
+msgctxt "2265||||4"
+msgid "(It looks like this is pretty rare...)"
+msgstr ""
+
+msgctxt "2266||||4"
+msgid "(This doesn't seem like too much...)"
+msgstr ""
+
+msgctxt "2267||||4"
+msgid "(I think there's something here...)"
+msgstr ""
+
+msgctxt "2268||||4"
+msgid "(What is this...?)"
+msgstr ""
+
+msgctxt "2269||||4"
+msgid "(All right, that's a pretty good shot.)"
+msgstr ""
+
+msgctxt "2270||||4"
+msgid "(I think I messed up...)"
+msgstr ""
+
+msgctxt "2271||||4"
+msgid "(Hm, that's not bad...)"
+msgstr ""
+
+msgctxt "2272||||4"
+msgid "(That's obstruction of traffic...)"
+msgstr ""
+
+msgctxt "2273||||4"
+msgid "Can't you see you're blocking people from\r\ngetting through? You don't own the road, you know."
+msgstr ""
+
+msgctxt "2274||||4"
+msgid "(What is that guy doing there...?)"
+msgstr ""
+
+msgctxt "2275||||4"
+msgid "That kid... He looks a bit lost."
+msgstr ""
+
+msgctxt "2276||||4"
+msgid "What's wrong, little guy? Are you lost?"
+msgstr ""
+
+msgctxt "2277||||4"
+msgid "All right, I should call his parents."
+msgstr ""
+
+msgctxt "2278||||4"
+msgid "That's dangerous... I should go help."
+msgstr ""
+
+msgctxt "2279||||4"
+msgid "I don't have any money for you."
+msgstr ""
+
+msgctxt "2280||||4"
+msgid "All right, how about this?"
+msgstr ""
+
+msgctxt "2281||||4"
+msgid "This is obviously a scam. I'm not going to pay."
+msgstr ""
+
+msgctxt "2282||||4"
+msgid "Fine, I'll pay."
+msgstr ""
+
+msgctxt "2283||||4"
+msgid "That guy... Is he trying to start a fire!?"
+msgstr ""
+
+msgctxt "2284||||4"
+msgid "Hm!? A fire!?"
+msgstr ""
+
+msgctxt "2285||||4"
+msgid "You! You're that pickpocket!"
+msgstr ""
+
+msgctxt "2286||||4"
+msgid "Give me back everything you took."
+msgstr ""
+
+msgctxt "2287||||4"
+msgid "This is what was taken from you, right?"
+msgstr ""
+
+msgctxt "2288||||4"
+msgid "You! You're that burglar!"
+msgstr ""
+
+msgctxt "2289||||4"
+msgid "I've got a package for you."
+msgstr ""
+
+msgctxt "2290||||4"
+msgid "Do I have any food...?"
+msgstr ""
+
+msgctxt "2291||||4"
+msgid "Hey, I don't know what you're trying to do,\r\nbut don't be a nuisance."
+msgstr ""
+
+msgctxt "2292||||4"
+msgid "I should greet him..."
+msgstr ""
+
+msgctxt "2293||||4"
+msgid "Someone's inside... It's probably the person\r\nwho was posting on Troublr."
+msgstr ""
+
+msgctxt "2294||||4"
+msgid "Thank you for all your work."
+msgstr ""
+
+msgctxt "2295||||4"
+msgid "How should I greet him...?"
+msgstr ""
+
+msgctxt "2296||||4"
+msgid "So it turns out he wasn't\r\nreally trying to graffiti the wall..."
+msgstr ""
+
+msgctxt "2297||||4"
+msgid "Shoot, I guess he was just doing his job painting..."
+msgstr ""
+
+msgctxt "2298||||4"
+msgid "These punks were trying to graffiti that wall..."
+msgstr ""
+
+msgctxt "2299||||4"
+msgid "Are you the smuggler?"
+msgstr ""
+
+msgctxt "2300||||4"
+msgid "Shoot! I've gotta do something, fast!"
+msgstr ""
+
+msgctxt "2301||||4"
+msgid "That looks terrible..."
+msgstr ""
+
+msgctxt "2302||||4"
+msgid "Hey, stop it!\r\nLet go of her!"
+msgstr ""
+
+msgctxt "2303||||4"
+msgid "Dammit... I need to help!"
+msgstr ""
+
+msgctxt "2304||||4"
+msgid "(She's being attacked... \r\nI need to step in.)"
+msgstr ""
+
+msgctxt "2305||||4"
+msgid "Are you the sender?"
+msgstr ""
+
+msgctxt "2306||||4"
+msgid "There, there."
+msgstr ""
+
+msgctxt "2307||||4"
+msgid "Now, now."
+msgstr ""
+
+msgctxt "2308||||4"
+msgid "You're a great kid."
+msgstr ""
+
+msgctxt "2309||||4"
+msgid "This is going well."
+msgstr ""
+
+msgctxt "2310||||4"
+msgid "You're a wonderful little guy."
+msgstr ""
+
+msgctxt "2311||||4"
+msgid "He fell asleep..."
+msgstr ""
+
+msgctxt "2312||||4"
+msgid "All that crying tired him out..."
+msgstr ""
+
+msgctxt "2313||||4"
+msgid "Damn, he's crying up a storm."
+msgstr ""
+
+msgctxt "2314||||4"
+msgid "Hey, what's wrong?"
+msgstr ""
+
+msgctxt "2315||||4"
+msgid "Calm down, little man."
+msgstr ""
+
+msgctxt "2316||||4"
+msgid "You'll get through it."
+msgstr ""
+
+msgctxt "2317||||4"
+msgid "No UFO's today..."
+msgstr ""
+
+msgctxt "2318||||4"
+msgid "I'll definitely find one someday though!"
+msgstr ""
+
+msgctxt "2319||||4"
+msgid "Oh, I guess you overheard me.\r\nI'm actually a UFO researcher."
+msgstr ""
+
+msgctxt "2320||||4"
+msgid "Well, it's more accurate to say I'm a UFO hobbyist.\r\nThere are an alarming number of them here in Onomichi."
+msgstr ""
+
+msgctxt "2321||||4"
+msgid "I'd love to get a picture of one, but I've been trying for\r\nthe last ten days straight and still haven't managed..."
+msgstr ""
+
+msgctxt "2322||||4"
+msgid "This might be shameful of me, but I have a favor to ask."
+msgstr ""
+
+msgctxt "2323||||4"
+msgid "If you manage to get a photo of a UFO,\r\nplease let me buy it off you!"
+msgstr ""
+
+msgctxt "2324||||4"
+msgid "Just let m know when you manage to get one.\r\nI'll pay 1,000 yen for a just a single photo."
+msgstr ""
+
+msgctxt "2325||||4"
+msgid "Just let m know when you manage to get one.\r\nI'll pay 10,000 yen for a just a single photo."
+msgstr ""
+
+msgctxt "2326||||4"
+msgid "Just let m know when you manage to get one.\r\nI'll pay 100,000 yen for a just a single photo."
+msgstr ""
+
+msgctxt "2327||||4"
+msgid "I'm counting on you!"
+msgstr ""
+
+msgctxt "2328||||4"
+msgid "Wow, this photo is truly superb!\r\nPlease let me buy it off you!"
+msgstr ""
+
+msgctxt "2329||||4"
+msgid "This isn't quite what I want..."
+msgstr ""
+
+msgctxt "2330||||4"
+msgid "Well, here's the fee we agreed upon."
+msgstr ""
+
+msgctxt "2331||||4"
+msgid "Thanks to you, I got tons of photos!\r\nI can go home in peace now."
+msgstr ""
+
+msgctxt "2332||||4"
+msgid "You have my deepest thanks!"
+msgstr ""
+
+msgctxt "2333||||4"
+msgid "Man, that's some nice wood you have there."
+msgstr ""
+
+msgctxt "2334||||4"
+msgid "Oh, pardon me. I make a hobby of gathering driftwood\r\nand other things that have washed ashore."
+msgstr ""
+
+msgctxt "2335||||4"
+msgid "It excites me to think about the path these objects must\r\nhave traveled over the years. They're potential globetrotters!"
+msgstr ""
+
+msgctxt "2336||||4"
+msgid "I could only dream of living such a free, romantic life."
+msgstr ""
+
+msgctxt "2337||||4"
+msgid "If you ever find any items that have\r\nwashed ashore, please let me know."
+msgstr ""
+
+msgctxt "2338||||4"
+msgid "If you ever find any items that have\r\nwashed ashore, please let me know."
+msgstr ""
+
+msgctxt "2339||||4"
+msgid "I'll give you a good price for them."
+msgstr ""
+
+msgctxt "2340||||4"
+msgid "Well, I can't wait to see what you bring me!"
+msgstr ""
+
+msgctxt "2341||||4"
+msgid "Oh, you brought some stuff for me!\r\nPlease let me take a closer look!"
+msgstr ""
+
+msgctxt "2342||||4"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "2343||||4"
+msgid "By the way..."
+msgstr ""
+
+msgctxt "2344||||4"
+msgid "I'm particularly keen on something like this\r\nat the moment. Please let me know if you find it."
+msgstr ""
+
+msgctxt "2345||||4"
+msgid "This is perfect! Thanks for finding it!"
+msgstr ""
+
+msgctxt "2346||||4"
+msgid "This should be enough wood to last me for a lifetime."
+msgstr ""
+
+msgctxt "2347||||4"
+msgid "Please let me thank you! Well then, I should be going now."
+msgstr ""
+
+msgctxt "2348||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "2349||||4"
+msgid "I can't find anything good..."
+msgstr ""
+
+msgctxt "2350||||4"
+msgid "Oh, Kiryu-san. I have a bit of a favor to ask you..."
+msgstr ""
+
+msgctxt "2351||||4"
+msgid "I got a request to stock up on some more fish, and\r\nI was wondering if you could get them for me. Please!"
+msgstr ""
+
+msgctxt "2352||||4"
+msgid "It would be amazing if you could do this for me.\r\nI'll be counting on you!"
+msgstr ""
+
+msgctxt "2353||||4"
+msgid "Here you go!"
+msgstr ""
+
+msgctxt "2354||||4"
+msgid "Um... Do you have a minute, sir?"
+msgstr ""
+
+msgctxt "2355||||4"
+msgid "You seem to be quite a strong individual,\r\nand... you clearly hold justice in your heart."
+msgstr ""
+
+msgctxt "2356||||4"
+msgid "Your eyes are a dead giveaway."
+msgstr ""
+
+msgctxt "2357||||4"
+msgid "You may even be the one\r\nwho can save this city."
+msgstr ""
+
+msgctxt "2358||||4"
+msgid "I'm getting ahead of myself, though.\r\nI'm Torafuru."
+msgstr ""
+
+msgctxt "2359||||4"
+msgid "This city has gone to the dogs.\r\nViolence and crime are spreading like a plague."
+msgstr ""
+
+msgctxt "2360||||4"
+msgid "Even the police are struggling..."
+msgstr ""
+
+msgctxt "2361||||4"
+msgid "At this rate, we'll hit a point of no return\r\nbefore the police can even act..."
+msgstr ""
+
+msgctxt "2362||||4"
+msgid "Not even civilians are safe now..."
+msgstr ""
+
+msgctxt "2363||||4"
+msgid "So, I set up a social network specifically\r\nto help get things under wraps<symbol=em_dash_with_outline>Troublr."
+msgstr ""
+
+msgctxt "2364||||4"
+msgid "Whenever an incident occurs in town,\r\npeople can post about it and seek help."
+msgstr ""
+
+msgctxt "2365||||4"
+msgid "The more we help, the safer we make our home.\r\nThat's why I was hoping you'd lend us a hand."
+msgstr ""
+
+msgctxt "2366||||4"
+msgid "Kiryu-san, then? Thank you very much."
+msgstr ""
+
+msgctxt "2367||||4"
+msgid "I'll register you on Troublr now...\r\nThere we go!"
+msgstr ""
+
+msgctxt "2368||||4"
+msgid "From now on, you'll get notifications about incidents\r\naround town. Please help out if you have the time."
+msgstr ""
+
+msgctxt "2369||||4"
+msgid "Well, I have high hopes for you.\r\nLet's make Kamurocho a safe place to live again!"
+msgstr ""
+
+msgctxt "2370||||4"
+msgid "Huh? Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "2371||||4"
+msgid "It's me, Torafuru."
+msgstr ""
+
+msgctxt "2372||||4"
+msgid "Funny meeting you in such an isolated place!\r\nThis is actually where my parents live."
+msgstr ""
+
+msgctxt "2373||||4"
+msgid "You know, Onomichi has gotten pretty dangerous\r\nas well, lately... though not quite as bad as Kamurocho."
+msgstr ""
+
+msgctxt "2374||||4"
+msgid "To make sure this sleepy town stays asleep,\r\nI've set up a Troublr network here as well."
+msgstr ""
+
+msgctxt "2375||||4"
+msgid "You'll be getting notifications about incidents in Onomichi\r\nnow, too, so please help out if you have the time."
+msgstr ""
+
+msgctxt "2376||||4"
+msgid "Well, I'll be counting on you. Let's work hard \r\nto make sure Onomichi stays pristine!"
+msgstr ""
+
+msgctxt "2377||||4"
+msgid "I-I'm so sorry. I just got so sick of seeing\r\nthe sorry state Kamurocho finds itself in."
+msgstr ""
+
+msgctxt "2378||||4"
+msgid "I thought there was only one course of action for a rotten\r\ncity like this... It needed to be burned to the ground."
+msgstr ""
+
+msgctxt "2379||||4"
+msgid "But seeing you rush to extinguish my fires every time\r\nmade me think maybe I wasn't doing the right thing..."
+msgstr ""
+
+msgctxt "2380||||4"
+msgid "Thanks to you, I can see the true beauty of this city."
+msgstr ""
+
+msgctxt "2381||||4"
+msgid "Even though not everyone shows it, the people of Kamurocho care\r\ndeeply about their surroundings and want them to improve."
+msgstr ""
+
+msgctxt "2382||||4"
+msgid "I hope you can find it in your heart to forgive me.\r\nFor now though, I'm going to turn myself in to the police."
+msgstr ""
+
+msgctxt "2383||||4"
+msgid "I don't know when I'll be able to come back to this city,\r\nbut I'm going to work hard to improve it once I can."
+msgstr ""
+
+msgctxt "2384||||4"
+msgid "P-Please forgive me..."
+msgstr ""
+
+msgctxt "2385||||4"
+msgid "The thing is, nothing has been going right for me at work.\r\nMy supervisors don't like me, everyone makes fun of me..."
+msgstr ""
+
+msgctxt "2386||||4"
+msgid "The stress was so great that\r\neven my hair started falling out."
+msgstr ""
+
+msgctxt "2387||||4"
+msgid "At first I just wanted to start a little fire..."
+msgstr ""
+
+msgctxt "2388||||4"
+msgid "But as I gazed upon its glowing embers,\r\nfor once in my life I actually felt alive."
+msgstr ""
+
+msgctxt "2389||||4"
+msgid "It was the perfect way to relieve stress.\r\nI couldn't stop myself from starting more and more fires."
+msgstr ""
+
+msgctxt "2390||||4"
+msgid "But thanks to you, I see the truth now."
+msgstr ""
+
+msgctxt "2391||||4"
+msgid "I really appreciate the efforts you went through to stop me."
+msgstr ""
+
+msgctxt "2392||||4"
+msgid "I... I'm going to turn myself in."
+msgstr ""
+
+msgctxt "2393||||4"
+msgid "I know that won't erase the damage I've caused, but I hope\r\nI can at least somewhat atone for my sins. Goodbye, then."
+msgstr ""
+
+msgctxt "2394||||4"
+msgid "L-Listen. I have this important ramen order to deliver,\r\nbut I strained my back right as I was setting out..."
+msgstr ""
+
+msgctxt "2395||||4"
+msgid "It's for a really terrifying customer, though.\r\nThere'll be blood if the noodles are soggy at all."
+msgstr ""
+
+msgctxt "2396||||4"
+msgid "We probably have about two minutes until that happens..."
+msgstr ""
+
+msgctxt "2397||||4"
+msgid "We probably have about three minutes until that happens..."
+msgstr ""
+
+msgctxt "2398||||4"
+msgid "We probably have about four minutes until that happens..."
+msgstr ""
+
+msgctxt "2399||||4"
+msgid "We probably have about five minutes until that happens..."
+msgstr ""
+
+msgctxt "2400||||4"
+msgid "I'm sorry to ask this, but do you think\r\nyou could deliver it for me instead?"
+msgstr ""
+
+msgctxt "2401||||4"
+msgid "I'll send the location to your Troublr.\r\nI'm counting on you!"
+msgstr ""
+
+msgctxt "2402||||4"
+msgid "I'll send the location to your email.\r\nI'm counting on you!"
+msgstr ""
+
+msgctxt "2403||||4"
+msgid "Thank you so much! You were a huge help!"
+msgstr ""
+
+msgctxt "2404||||4"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "2405||||4"
+msgid "I see... Okay, then. I'm Kiryu."
+msgstr ""
+

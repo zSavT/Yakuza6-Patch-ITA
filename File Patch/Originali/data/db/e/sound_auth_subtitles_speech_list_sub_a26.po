@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hold the freakin' phone!\r\nIs that you, Kiryu-san!?"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Wowee! It really <font_kind=yakuza_italic>is</font_kind> you!\r\nIt's been ages, man!"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Wait..."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "C'mon, bro!\r\nYou can't have forgotten <font_kind=yakuza_italic>me</font_kind>!"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "It's me, Sodachi! So, da, chi!\r\nY'know, the head honcho of the Sodachi Dojo!"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Sodachi? Sodachi..."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "<font_kind=yakuza_italic>Yeah</font_kind>!?"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "I have no idea who you are."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "God, you're the worst! Don't you remember\r\nour epic flurry of fists back at the arena?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "It <font_kind=yakuza_italic>was</font_kind> just one time, though.\r\nCan't really blame you for forgetting..."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Sorry, I wish I remembered."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "No worries!\r\nI just gotta give you a little reminder!"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Folks 'round here call me Yasuo Sodachi.\r\nI used to head up the Sodachi Dojo."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "I was real close to your friend\r\nSaejima-san back in the good ol' days."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Oh, you know Saejima?\r\nLet's start over. It's good to meet you."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "I'm not surprised you ran a dojo.\r\nThose muscles are incredible."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Ain't they the best?\r\nBut y'know, I actually closed the dojo down."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "I still miss the ol' stomping grounds...\r\nI've got tons of memories of Saejima-san there."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "That's too bad.\r\nDid... something happen to make you close?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Oh not at all, unless you count the surging\r\nland prices! It was high time to sell, baby!"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "I wasn't keen on doing it, but at that price?\r\nSometimes you gotta make sacrifices."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "And now thanks to a little investment I made\r\nhere at RIZAP, I've got this killer bod!"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "They really <font_kind=yakuza_italic>are</font_kind> good at getting results!"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Wait, you got stronger <font_kind=yakuza_italic>here</font_kind> of all places?\r\nWouldn't running a dojo keep you in shape?"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Not at all! I might've been the master,\r\nbut I was kind of a piss-poor fighter."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "I gotta say though, I made the right call.\r\nThis gym's way better than our dingy dojo."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "And look what it did to my body!\r\nI'm the shining example of buffness!"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Right. Well, I've gotta go."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "But Kiryu-san! Listen to me!\r\nG-G-Get your ass back here!"
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Huh? What do you want?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "So scary...!\r\nC'mon Sodachi, you can do this... And go!"
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Hey there, Kiryu-san! Wait... <font_kind=yakuza_italic>Kiryu</font_kind>!\r\nPlease... Er, I wanna lock fists with you!"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "You want a fight?\r\nWith me?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Damn skippy! I've looked up to strong dudes\r\nlike you and Saejima-san my whole life!"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "I wanna get as strong as you guys someday...\r\nThen beat you! That's my dream."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "I'd given up on that dream for years...\r\nBut things're different now that I'm a beefcake!"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Huh..."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "My power's outta control compared to my past self!\r\nI'm really itching to put it to the test."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "I've gotta see how close I am to\r\nthe one and only Kazuma Kiryu!"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Hey, wait up!\r\nDon't leave!"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "What a pain in the ass.\r\nI'm sorry, but I don't have time for this."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Whatever, man!\r\nIn that case, I'll have to make the first move!"
+msgstr ""
+
+msgctxt "47||||4"
+msgid "No freaking way...\r\nI don't stand a chance against <font_kind=yakuza_italic>you</font_kind>."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "You're strong, but your footwork needs practice.\r\nRight now you're just wasting your strength."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "I know... My dojo training's made me\r\nwell-versed in all that technical stuff."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "But... even though I know what to do,\r\nmy body just ain't quick enough to do it."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Some pickle this is..."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "You should keep practicing.\r\nExperience is the only way to improve."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Yeah, you're right...\r\nAh, I've got it!"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Kiryu-san! I'm gonna practice extra hard\r\nso I can make use of these sweet muscles!"
+msgstr ""
+
+msgctxt "55||||4"
+msgid "And once I'm done, we're gonna tussle again!\r\nI hope you're ready for more!"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Yeah...\r\nWait, what? We're gonna fight <font_kind=yakuza_italic>again</font_kind>?"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Of course we are! Beating you's the only way\r\nto prove I've got the fighting skills to fighting thrill!"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "If I can do that, and show the world\r\nthe hurt I'm packing..."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "I'll be able to make a super dojo\r\nand get stupidly rich!"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "I'm gonna make it rain on these Kamurocho civvies!"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Anyways, I'll be training till next time!\r\nSeeya later, Kiryu-san!"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "What a mess.\r\nHow do I always get wrapped up in this stuff...?"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "65||||4"
+msgid "I've tightened up my stance a bit!\r\nHow 'bout we go another round?"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "I'm really starting to get good!\r\nHow 'bout we go another round?"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "My body's never been this pumped up!\r\nHow 'bout we go another round?"
+msgstr ""
+
+msgctxt "68||||4"
+msgid "I can't right now."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Huh? C'mon, man!\r\nAnyway, lemme know if you change your mind!"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Ah, Kiryu-san!\r\nDo you feel like fighting me now?"
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Yeah, I'll take you on."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Sweet!\r\nThanks a ton!"
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Now, then...\r\nDieee, Kiryuuu!"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Dammittt... I lost again."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "You're definitely stronger than last time, though.\r\nThat's progress."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "You mean it!? All right, then!\r\nThis isn't the last you see of me!"
+msgstr ""
+
+msgctxt "77||||4"
+msgid "No way... I beat Kiryu-san!\r\nI really did it! Yay!"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "I underestimated you.\r\nTurns out you're pretty tough."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "No way were you in tip-top form today,\r\nbut it doesn't matter. A win's a win in my book!"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "And as the winner of our match,\r\nlet me say one thing, Kiryu-san."
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Your luck ran out today!"
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Make sure you're pumped up next time, okay?\r\nBye now!"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Dammit, I should never have underestimated him.\r\nHow embarrassing..."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "Hm...?"
+msgstr ""
+
+msgctxt "85||||4"
+msgid "It's from Sodachi."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "How did he get my contact info...?"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Whatever. I'll head over to the park\r\nand humor him when I have some time."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Yo, Kiryu-san!\r\nThanks for coming all the way out here!"
+msgstr ""
+
+msgctxt "89||||4"
+msgid "It's nothing.\r\nWell? What do you want?"
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Hold up, man!\r\nDidn't you read my freakin' email!?"
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Today's the day we settle this.\r\nJust me... and you."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Well, thanks to all my training at RIZAP,\r\nI've finally unlocked my true potential."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "Anything I imagine, I can make into reality.\r\nThis is, so to speak, my final form!"
+msgstr ""
+
+msgctxt "95||||4"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "So today, I'm gonna whoop you, Kiryu-san!\r\nThe world's gonna see how tough I am!"
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Nobody'll be able to deny my ability once\r\nI've taken down the toughest dude in the world!"
+msgstr ""
+
+msgctxt "98||||4"
+msgid "My new gym's gonna skyrocket to the top!\r\nOh, and I'll make fat stacks off my fighting book, too!"
+msgstr ""
+
+msgctxt "100||||4"
+msgid "Some plan you have there.\r\nI'd rather you didn't use my name, though."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "I won't, man.\r\n<font_kind=yakuza_italic>If</font_kind> you can beat me, that is!"
+msgstr ""
+
+msgctxt "102||||4"
+msgid "Now let's get moving.\r\nThis is our last dance!"
+msgstr ""
+
+msgctxt "103||||4"
+msgid "Dieee, Kazuma Kiryuuu!"
+msgstr ""
+
+msgctxt "104||||4"
+msgid "Dammit, I took him too lightly."
+msgstr ""
+
+msgctxt "105||||4"
+msgid "I-I actually won!\r\nI'm the king of the world!"
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Now that I've laid a whooping on <font_kind=yakuza_italic>the</font_kind> Kazuma Kiryu,\r\nmy gym empire's just a hop and a skip away!"
+msgstr ""
+
+msgctxt "107||||4"
+msgid "Tch..."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "Too bad, Kiryu-san. But I will say,\r\nit's only 'cause of you that I got this strong."
+msgstr ""
+
+msgctxt "109||||4"
+msgid "That's why I'll let you redeem yourself."
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Come back if you think you can beat me in\r\na rematch. I'll take you on as much as you want."
+msgstr ""
+
+msgctxt "111||||4"
+msgid "I've already planned out the fight, though.\r\nYou're gonna fail just as hard as you did this time!"
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Keep coming my way if you wanna die, Kiryu-san!\r\nJust kidding!"
+msgstr ""
+
+msgctxt "114||||4"
+msgid "(This is humiliating... but he <font_kind=yakuza_italic>is</font_kind> strong.\r\nI should put my head down and try again.)"
+msgstr ""
+
+msgctxt "115||||4"
+msgid "Oh, Kiryu-san!\r\nHere for another smackdown?"
+msgstr ""
+
+msgctxt "116||||4"
+msgid "I can't let this end like that.\r\nThis time, it's going to be different."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "What, you <font_kind=yakuza_italic>really</font_kind> think you can beat me?\r\nWell now's your chance to prove it!"
+msgstr ""
+
+msgctxt "118||||4"
+msgid "You're dead meattt, Kiryuuu!"
+msgstr ""
+
+msgctxt "119||||4"
+msgid "I lost..."
+msgstr ""
+
+msgctxt "120||||4"
+msgid "You're a lot stronger, Sodachi."
+msgstr ""
+
+msgctxt "121||||4"
+msgid "Can't disagree with that.\r\nBut the legendary Kiryu's still a cut above."
+msgstr ""
+
+msgctxt "122||||4"
+msgid "I only got this strong thanks to you, man."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "My admiration toward you, my desire to beat you...\r\nThose were the best motivators a guy could ask for."
+msgstr ""
+
+msgctxt "124||||4"
+msgid "That's what helped me get through my training.\r\nI've really gotta thank you for that."
+msgstr ""
+
+msgctxt "125||||4"
+msgid "All I did was smack you around a few times.\r\nYour hard work is what really made you stronger."
+msgstr ""
+
+msgctxt "126||||4"
+msgid "You should be proud."
+msgstr ""
+
+msgctxt "127||||4"
+msgid "Y-You think? Yeah, you're right!\r\nI totally gave it my all!"
+msgstr ""
+
+msgctxt "129||||4"
+msgid "But no matter how much effort I put in,\r\nmy appreciation for you remains unchanged."
+msgstr ""
+
+msgctxt "130||||4"
+msgid "If there's ever anything I can do for you,\r\ndon't hesitate to give me a ring!"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "All right. Will do."
+msgstr ""
+
+msgctxt "132||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "133||||4"
+msgid "Who's that...?"
+msgstr ""
+
+msgctxt "134||||4"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "135||||4"
+msgid "Nah, nah, it's nothing! Just some guy\r\nwho looked like a hidden video game boss!"
+msgstr ""
+
+msgctxt "136||||4"
+msgid "Uh-huh..."
+msgstr ""
+
+msgctxt "137||||4"
+msgid "I'm sure it's nothing to get worked up over.\r\nCan't judge a book by its cover, after all!"
+msgstr ""
+
+msgctxt "138||||4"
+msgid "Right."
+msgstr ""
+
+msgctxt "139||||4"
+msgid "Anyways, I should be outta here."
+msgstr ""
+
+msgctxt "140||||4"
+msgid "I might've lost <font_kind=yakuza_italic>this</font_kind> time, but I'm gonna keep\r\ntraining so I can get to your level, Kiryu-san."
+msgstr ""
+
+msgctxt "141||||4"
+msgid "Gimme another fight someday, yeah?"
+msgstr ""
+
+msgctxt "142||||4"
+msgid "Heh... If I feel like it."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "Good enough! Later!"
+msgstr ""
+
+msgctxt "144||||4"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "145||||4"
+msgid "Kazuma Kiryu..."
+msgstr ""
+

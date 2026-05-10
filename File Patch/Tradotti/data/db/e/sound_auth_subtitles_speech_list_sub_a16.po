@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm? Isn't that... Hikaru?"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Well, shall we be on our way? I must say,\r\nyou're just as cute as the talent judge said."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Thank you. Will the talent judge be\r\ncoming along today, too?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "I hadn't heard. I don't think he's in today?\r\nBut, nothing you have to worry about."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "C'mon, let's roll babe."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Okay. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "I'm not liking what I'm seeing..."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Hey, it's me.\r\nI sent the girl your way."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "She should be there any minute...\r\nYou've got everything ready, right?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Nah, she hasn't caught on at all.\r\nI don't think she suspects a thing."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Yeah... Tonight's gonna be a party, all right.\r\nAll right, talk soon."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "That guy on the phone...\r\nIs Hikaru in danger here?"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "I've heard the stories about idol auditions that\r\njust scam girls into walking into terrible things..."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "It'll be too late if she gets inside.\r\nI better go after Hikaru."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "There! It's Hikaru and that guy."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "We'll be right inside here, sweetheart.\r\nAfter you."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Great. <symbol=note_with_outline>\r\nIs this the office where everyone works?"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "I-I'm not sure...!\r\nI don't think anyone's in today..."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Huh? But didn't you say I'd be meeting\r\neveryone for the first time today?"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Ah, details!\r\nLet's just go inside, shall we!?"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "O-Okay..."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "This guy's as shady as they come.\r\nHikaru's definitely in danger here."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Hey, you."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Why have you been tailing us?\r\nSomething you wanna say?"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "All of you...\r\nWhat are your plans for Hikaru?"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Hikaru?\r\nWe don't have to tell you shit, man."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "You one of those stalkers or something?\r\nEither way, you're gonna be real sorry..."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "You're interfering with business now...\r\nLet's show this dumbass the door!"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Tch... He's a monster..."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Sorry, but I'm going in now."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "...A gunshot!?"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Hikaru!!"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Kiryu-san!?"
+msgstr ""
+
+msgctxt "34||||4"
+msgid "This... What's going on...?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Kiryu-san, thanks for waiting."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Sorry about that. I had no idea they\r\nwould throw you a surprise party..."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "They got me good, too! But don't worry,\r\nthe president laughed it off and forgave you."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "In fact, I think they're trying to\r\nrecruit you as a bodyguard."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "I feel terrible about it..."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "To be honest... I had my doubts about the\r\nlegitimacy of this production company too..."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "I've heard a lot of terrible things about\r\nsuspicious production companies..."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "But thanks to all this,\r\nI'm sure I can trust everyone here!"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Knowing I'm in the hands of a good company...\r\nIt makes me want to really work hard for them."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Yeah, that's great."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "But... what really made me happy...\r\nwas that you were worried about me, Kiryu-san."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "That you risked yourself to protect me...\r\nIt made me feel so appreciated."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "All I did was run in circles..."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "But if you ever find yourself in trouble again,\r\nI'll be there to help, no matter what."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "So you keep chasing your dream\r\nwithout any fear, Hikaru."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Kiryu-san... Thank you."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Um... Kiryu-san...\r\nWould you mind if I gave you a present?"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Hm? What?"
+msgstr ""
+

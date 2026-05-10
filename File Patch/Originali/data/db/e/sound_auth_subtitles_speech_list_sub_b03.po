@@ -1,0 +1,1277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Fine tofu for sale!"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Hey, you there!\r\nHow about some tofu?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Hm? No thanks, I'm good."
+msgstr ""
+
+msgctxt "3||||4"
+msgid "You just don't know how tasty it is!\r\nPlease! Won't you give it a shot?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "I told you I don't want any."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "You'd only have to buy one!\r\nIf you don't, I won't..."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "You're annoying me now."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Hm...? Wait..."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "No way... Pocket Circuit Fighter?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Huh? Wait...\r\nAren't you... Kazuma-kun!?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "It's been too long...\r\nWe met way back in the bubble, so..."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "I guess it's been about 30 years."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Has it been that long?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "It feels like only yesterday that we were\r\nracing Pocket Circuit cars in Kamurocho."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Yeah. It's weird, but I feel the same way.\r\nThose were the days..."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "But man, you've really aged.\r\nI didn't even recognize you."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Heh, likewise. You don't yell with\r\nquite the same gusto you had then."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Hmm, really?\r\nWell, people change."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Never figured I'd run into you in Onomichi...\r\nYou're running a tofu shop?"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Yeah. Not long after I retired,\r\nI came back to Hiroshima, my hometown."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "What about you?\r\nHere to see the sights?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Nah, I'm here on business,\r\nso I'll be around for a while."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "I see. Then, if our schedules line up,\r\nwe should catch up over some<symbol=em_dash_with_outline>"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "[Hey! Daddy!]"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Hm? \"Daddy\"?"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Let me introduce you.\r\nThis is Sakito, my son!"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Pocket Circuit Fighter has a son!?"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Heh... So you finally became a man."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Let's not dwell on that, maybe..."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "[Daddy!] Who is this guy?\r\n[Who is this dandy man?]"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "This guy was one of my racing buddies.\r\nHis name's Kazuma-kun."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Kazuma-san? How do you do?\r\n[Nice to meet you!]"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "[N-Nice to...]\r\nSome kid you've got there."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Surprised? We decided he should\r\nhave daily English lessons."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "English lessons...?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Hm? Wait, Sakito.\r\nDon't you have English class today?"
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Um, well..."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Hm...?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "There you are!"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "[M-Mommy...]"
+msgstr ""
+
+msgctxt "40||||4"
+msgid "You better hurry, or you'll be late for\r\nEnglish class! Don't make this hard for Mommy!"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "[But...] But..."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Don't talk back! Listen, Sakito.\r\nSociety is only going to go more global!"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "If you can't speak English, you'll end up\r\nrunning a tacky tofu shop like your daddy!"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "..."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "[Sorry Mommy...]\r\nI'll go to my English class now..."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "As long as you understand.\r\nNow let's get going."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "As for you! How long are you going to\r\nbe a bad influence on Sakito!?"
+msgstr ""
+
+msgctxt "48||||4"
+msgid "If you have time to lollygag, then you\r\nhave time to sell tofu for his college fund!"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Y-Yes, absolutely..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Sorry, Kazuma-kun. You shouldn't\r\nhave had to see such a pathetic display..."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "It's fine. That was your wife?\r\nShe's pretty intense..."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Haha... Yeeaah...\r\nBut she's good in her own way."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "She'll do whatever it takes to make\r\nsure Sakito grows up good and strong."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "We can't let him take after me, after all..."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "I can't say I agree with that..."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Well, anyway, I need to get back to work.\r\nKazuma-kun, it was great seeing you again."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "If you're still in the area later,\r\nstop by again so we can catch up."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Sure thing.\r\nGood luck with the tofu, Pocket Circuit Fighter."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Hey, Kazuma-kun.\r\nHow about some tofu?"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Thanks a lot.\r\nCome back again."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Come back again."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Oh. Kazuma-san."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Hm? You're Pocket Circuit Fighter's son."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Sakito.\r\n[My name is Sakito.]"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Sorry, that's right.\r\nWhat are you doing here?"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "There's still some time before my English\r\nclass starts, so I was just spacing out."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Is that so?\r\nBy the way, how old are you, Sakito?"
+msgstr ""
+
+msgctxt "69||||4"
+msgid "[Eight years old!]"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "[Eight...] That means \"eight\" right?\r\nYou speak English really well for your age."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "It's nothing special, really.\r\nI don't really care about learning English..."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "You don't?"
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Yeah. I have to go to English class every day.\r\nI'm sick of it."
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Mr. Kazuma-san,\r\nwhat were you like at my age?"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "Hmm. Well, I certainly didn't study as much as you."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Oh really?\r\n...That'd be nice."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "Yeah. I used to hang out with your dad a lot.\r\nAlthough I was already a grown man by then."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Oh yeah, you're friends with Daddy, right?"
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Yeah, sure am."
+msgstr ""
+
+msgctxt "80||||4"
+msgid "We raced Pocket Circuit cars together back then.\r\nEveryone called him Pocket Circuit Fighter!"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Pocket Circuit... Fighter?\r\nWhat did Daddy do back then?"
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Hm? Your dad never told\r\nyou about Pocket Circuit?"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Well... I'm not supposed to talk\r\nto Daddy unless I have to..."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "You're not allowed?\r\nWhy's that?"
+msgstr ""
+
+msgctxt "85||||4"
+msgid "Mommy says if I talk to Daddy,\r\nhe'll be \"a bad inflooenz.\""
+msgstr ""
+
+msgctxt "86||||4"
+msgid "He must mean the Fighter's wife..."
+msgstr ""
+
+msgctxt "87||||4"
+msgid "She was pretty rough on Fighter\r\nwhen I saw them earlier..."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Do your mom and dad\r\nnot get along well?"
+msgstr ""
+
+msgctxt "89||||4"
+msgid "I don't know. Daddy says it wasn't\r\nlike this back in Tokyo..."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "He says when they came back here,\r\nMommy turned to the dark side."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "But she doesn't like it when I talk to\r\nDaddy, especially about his past."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "I get it now... And you just want to be\r\ncloser to your dad, is that right?"
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Yeah... I want to ask Daddy\r\nabout a lot of stuff..."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "We share a house and stuff...\r\nBut I don't even know my daddy."
+msgstr ""
+
+msgctxt "95||||4"
+msgid "Is that even a real family?"
+msgstr ""
+
+msgctxt "96||||4"
+msgid "I understand, I get that."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "If he won't tell you though,\r\nthen I'll tell you about your dad!"
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Huh? Really? You will?"
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Yeah. Pocket Circuit bound us together.\r\nAsk me anything you want."
+msgstr ""
+
+msgctxt "100||||4"
+msgid "Yay! [Thank you,] Mr. Kazuma-san!"
+msgstr ""
+
+msgctxt "101||||4"
+msgid "But, what exactly <font_kind=yakuza_italic>is</font_kind> Pocket Circuit?"
+msgstr ""
+
+msgctxt "102||||4"
+msgid "Right, I should explain that first."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "Pocket Circuit is... Well, you have a little car,\r\nand then there are all these parts..."
+msgstr ""
+
+msgctxt "104||||4"
+msgid "You know what, it might be easier to just\r\nshow you rather than trying to explain it."
+msgstr ""
+
+msgctxt "105||||4"
+msgid "But... Where could I find a Pocket Circuit\r\ncar in this day and age?"
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Oh, I know! Sakito, have you ever seen\r\nany small toy cars at your house?"
+msgstr ""
+
+msgctxt "107||||4"
+msgid "Toy cars? Hmm, I don't think so..."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "Oh! I think I saw a small box with\r\na picture of a car on it in the closet."
+msgstr ""
+
+msgctxt "109||||4"
+msgid "That's probably a Pocket Circuit kit!\r\nSakito, could you bring it to me?"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Yeah, no problem! I'll be right back!\r\nLet's meet up here in a little bit, okay!?"
+msgstr ""
+
+msgctxt "111||||4"
+msgid "Yeah. Just make sure your mom's not watching."
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "113||||4"
+msgid "Oh, Mr. Kazuma-san!"
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Hey, Sakito.\r\nDid you find it?"
+msgstr ""
+
+msgctxt "115||||4"
+msgid "Is this it?\r\nIs this a Pocket Circuit?"
+msgstr ""
+
+msgctxt "116||||4"
+msgid "Yep, that's a Pocket Circuit machine!"
+msgstr ""
+
+msgctxt "117||||4"
+msgid "So this is Pocket Circuit..."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "Yeah. Your dad and I were really into these\r\nwhen we were young. This takes me back..."
+msgstr ""
+
+msgctxt "119||||4"
+msgid "Daddy played with this?"
+msgstr ""
+
+msgctxt "120||||4"
+msgid "Kazuma-san. Will this car still work?\r\nI wanna try playing Pocket Circuit!"
+msgstr ""
+
+msgctxt "121||||4"
+msgid "Maybe it would...!\r\nSure! Wanna put it together?"
+msgstr ""
+
+msgctxt "122||||4"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "123||||4"
+msgid "There, done."
+msgstr ""
+
+msgctxt "124||||4"
+msgid "Wow! That's so cool!\r\nI wanna drive it!"
+msgstr ""
+
+msgctxt "125||||4"
+msgid "Sakito! What are you doing here!?"
+msgstr ""
+
+msgctxt "126||||4"
+msgid "Oh, Daddy!"
+msgstr ""
+
+msgctxt "127||||4"
+msgid "Hey, Fighter.\r\nYou came at a great time!"
+msgstr ""
+
+msgctxt "128||||4"
+msgid "Kazuma-kun? What's going on?\r\nD-Don't tell me that's..."
+msgstr ""
+
+msgctxt "129||||4"
+msgid "Look, look!\r\nI built it with Mr. Kazuma-san!"
+msgstr ""
+
+msgctxt "130||||4"
+msgid "Isn't it cool!?\r\nNow we can play Pocket Circuit...!"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "Stop this tomfoolery! At once!"
+msgstr ""
+
+msgctxt "132||||4"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "133||||4"
+msgid "It's almost time for your English class!\r\nYour mother will blow a fuse if you skip class!"
+msgstr ""
+
+msgctxt "134||||4"
+msgid "And how dare you rifle through my closet!"
+msgstr ""
+
+msgctxt "135||||4"
+msgid "If you have time to play with toys,\r\nyou have time to study your English!"
+msgstr ""
+
+msgctxt "136||||4"
+msgid "Hey, Fighter...\r\nThis is on me."
+msgstr ""
+
+msgctxt "137||||4"
+msgid "D... Da...!"
+msgstr ""
+
+msgctxt "138||||4"
+msgid "D-Daddy, you suck!"
+msgstr ""
+
+msgctxt "139||||4"
+msgid "Hey, Sakito!"
+msgstr ""
+
+msgctxt "140||||4"
+msgid "Fighter, I'm the one who told Sakito\r\nto get a Pocket Circuit kit from your house."
+msgstr ""
+
+msgctxt "141||||4"
+msgid "I apologize for that."
+msgstr ""
+
+msgctxt "142||||4"
+msgid "But... You didn't have to lay\r\ninto him like that, either."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "I hear you, but if he skips English class,\r\nhe'll get an earful from his mother."
+msgstr ""
+
+msgctxt "144||||4"
+msgid "This is best for Sakito. I like you Kazuma-kun, but you\r\nshould stay away if you're going to jeopardize his future."
+msgstr ""
+
+msgctxt "145||||4"
+msgid "Fighter... You've changed."
+msgstr ""
+
+msgctxt "146||||4"
+msgid "Changed... Maybe I have.\r\nBut I don't exactly have a choice."
+msgstr ""
+
+msgctxt "147||||4"
+msgid "If Sakito is going to lead a good life\r\nafter being born to a loser like me..."
+msgstr ""
+
+msgctxt "148||||4"
+msgid "...He has to work twice as\r\nhard as everyone else."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "So... Me and Sakito need to make\r\nmy wife's plan our first priority."
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Your son just wants to know more\r\nabout you, his father."
+msgstr ""
+
+msgctxt "151||||4"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "152||||4"
+msgid "He asked me about you when you were younger.\r\nDid you know he doesn't feel he can talk to you?"
+msgstr ""
+
+msgctxt "153||||4"
+msgid "He just wants to know who you are...\r\nAnd you shouldn't keep that from him."
+msgstr ""
+
+msgctxt "154||||4"
+msgid "B-But... I might be a bad influence on him,\r\nand I'd get in the way of his studies..."
+msgstr ""
+
+msgctxt "155||||4"
+msgid "Fighter. Back in the day, you made so many\r\nkids happy through Pocket Circuit."
+msgstr ""
+
+msgctxt "157||||4"
+msgid "Yes, you were irresponsible, insecure, and clumsy...\r\nBut the kids all trusted you."
+msgstr ""
+
+msgctxt "158||||4"
+msgid "That's because, back then,\r\nyou could see things from their point of view."
+msgstr ""
+
+msgctxt "160||||4"
+msgid "If you could do it back then, you should\r\nhave no problem making your only son smile."
+msgstr ""
+
+msgctxt "161||||4"
+msgid "Am I wrong, Pocket Circuit Fighter?"
+msgstr ""
+
+msgctxt "162||||4"
+msgid "K-Kazuma-kun..."
+msgstr ""
+
+msgctxt "163||||4"
+msgid "I'm just a different person now."
+msgstr ""
+
+msgctxt "164||||4"
+msgid "Back then, I loved being the fighter,\r\nbut it was my job to play that role..."
+msgstr ""
+
+msgctxt "165||||4"
+msgid "So the best I can do for him now is\r\nwatch over him from a distance."
+msgstr ""
+
+msgctxt "166||||4"
+msgid "We're done here.\r\nYou disappoint me."
+msgstr ""
+
+msgctxt "167||||4"
+msgid "I'm worried about Sakito.\r\nI'm gonna go look for him."
+msgstr ""
+
+msgctxt "168||||4"
+msgid "He'll probably go where\r\nhe can see the ocean."
+msgstr ""
+
+msgctxt "169||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "170||||4"
+msgid "Whenever he's down, he goes to\r\nlook at the ocean and mope."
+msgstr ""
+
+msgctxt "171||||4"
+msgid "I see. Thanks."
+msgstr ""
+
+msgctxt "172||||4"
+msgid "Kazuma-kun. I'm really sorry\r\nthat it's you making this right..."
+msgstr ""
+
+msgctxt "174||||4"
+msgid "Sakito's somewhere near the ocean, right?"
+msgstr ""
+
+msgctxt "175||||4"
+msgid "Yeah. Whenever he's down,\r\nhe goes to look at the ocean and mope."
+msgstr ""
+
+msgctxt "176||||4"
+msgid "I see. Thanks."
+msgstr ""
+
+msgctxt "177||||4"
+msgid "Kazuma-kun. I'm really sorry.\r\nPlease make things right..."
+msgstr ""
+
+msgctxt "179||||4"
+msgid "Ow, that stings!"
+msgstr ""
+
+msgctxt "180||||4"
+msgid "Li'l brat!"
+msgstr ""
+
+msgctxt "181||||4"
+msgid "I-I'm sorry..."
+msgstr ""
+
+msgctxt "182||||4"
+msgid "Hm? Isn't that Sakito?"
+msgstr ""
+
+msgctxt "183||||4"
+msgid "Whaddaya think yer doin', running\r\nyer toys into people's feet? Huh!?"
+msgstr ""
+
+msgctxt "184||||4"
+msgid "I-I'm sorry...\r\nI lost control of it for a sec..."
+msgstr ""
+
+msgctxt "185||||4"
+msgid "If apologies fixed everythin',\r\nwe wouldn't have the cops!"
+msgstr ""
+
+msgctxt "186||||4"
+msgid "Yer gonna have t'show\r\nus where y'live, kid!"
+msgstr ""
+
+msgctxt "187||||4"
+msgid "I'd say yer parents owe some\r\ncash to cover a doctor's visit!"
+msgstr ""
+
+msgctxt "188||||4"
+msgid "C-Come on...\r\nIt was just a little bump..."
+msgstr ""
+
+msgctxt "189||||4"
+msgid "The fuck y'say, brat!?\r\nGet your parents, now! Or else..."
+msgstr ""
+
+msgctxt "190||||4"
+msgid "S-Stop it!"
+msgstr ""
+
+msgctxt "191||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "192||||4"
+msgid "That car is part of my daddy's past!\r\nPlease! Please just stop!"
+msgstr ""
+
+msgctxt "193||||4"
+msgid "I just want my daddy to be happy again!"
+msgstr ""
+
+msgctxt "194||||4"
+msgid "Huh? T'hell you sayin?\r\nY'got some nerve, kid!"
+msgstr ""
+
+msgctxt "195||||4"
+msgid "These punks...!"
+msgstr ""
+
+msgctxt "196||||4"
+msgid "Kazuma-kun. Leave this to me."
+msgstr ""
+
+msgctxt "197||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "198||||4"
+msgid "Hey! Back away from that kid!"
+msgstr ""
+
+msgctxt "199||||4"
+msgid "The... hell?"
+msgstr ""
+
+msgctxt "200||||4"
+msgid "Who are you!?"
+msgstr ""
+
+msgctxt "201||||4"
+msgid "I am... Pocket Circuit Fighter!"
+msgstr ""
+
+msgctxt "202||||4"
+msgid "P-Pocket Circuit Fighter?\r\nThe fuck...?"
+msgstr ""
+
+msgctxt "203||||4"
+msgid "D-Daddy!"
+msgstr ""
+
+msgctxt "204||||4"
+msgid "Hm? So you're this brat's daddy!\r\nY'saved us the trouble of findin' ya!"
+msgstr ""
+
+msgctxt "205||||4"
+msgid "No... I have no right to\r\ncall myself his father."
+msgstr ""
+
+msgctxt "206||||4"
+msgid "It's only because I pushed him\r\naway that he's in danger now..."
+msgstr ""
+
+msgctxt "207||||4"
+msgid "I'm so pathetic..."
+msgstr ""
+
+msgctxt "208||||4"
+msgid "What're ya mumblin' about!? Just give\r\nus the cash before we beat it outta ya!"
+msgstr ""
+
+msgctxt "209||||4"
+msgid "I don't have a single yen for\r\nvillains who make children cry!"
+msgstr ""
+
+msgctxt "210||||4"
+msgid "Excuse me?"
+msgstr ""
+
+msgctxt "211||||4"
+msgid "Sakito... I lost my confidence.\r\nThat's why I kept running from you."
+msgstr ""
+
+msgctxt "212||||4"
+msgid "I couldn't bear the thought...\r\nthat you might end up like me."
+msgstr ""
+
+msgctxt "213||||4"
+msgid "Daddy..."
+msgstr ""
+
+msgctxt "214||||4"
+msgid "But... I won't run anymore!"
+msgstr ""
+
+msgctxt "215||||4"
+msgid "Your dad might be a weak, awkward loser,\r\nbut he's gonna give it his all!"
+msgstr ""
+
+msgctxt "216||||4"
+msgid "So... Never forget this moment, Sakito!"
+msgstr ""
+
+msgctxt "217||||4"
+msgid "...Okay!"
+msgstr ""
+
+msgctxt "218||||4"
+msgid "Daddy... No, Father!\r\nYou can beat these guys!"
+msgstr ""
+
+msgctxt "219||||4"
+msgid "Apparently you both wanna die?"
+msgstr ""
+
+msgctxt "220||||4"
+msgid "Aniki! Looks like our back-up\r\ngot here just in time."
+msgstr ""
+
+msgctxt "221||||4"
+msgid "Uh, whoa whoa whoa...\r\nI-Isn't five-on-one kinda unfair..."
+msgstr ""
+
+msgctxt "222||||4"
+msgid "Gonna piss your pants?"
+msgstr ""
+
+msgctxt "223||||4"
+msgid "If you've got your back-up,\r\nit's only fair if I back up Fighter, right?"
+msgstr ""
+
+msgctxt "224||||4"
+msgid "K-Kazuma-kun!"
+msgstr ""
+
+msgctxt "225||||4"
+msgid "Eh? What's your deal?"
+msgstr ""
+
+msgctxt "226||||4"
+msgid "I'm a friend of Fighter's. And anyone who\r\npicks on kids... is on my shit list."
+msgstr ""
+
+msgctxt "227||||4"
+msgid "So you wanna share a grave or somethin'?\r\nCouple'a dumbfucks here, huh?"
+msgstr ""
+
+msgctxt "228||||4"
+msgid "Fine, y'assholes! Y'can die together,\r\nbeing that you're best buds and all!"
+msgstr ""
+
+msgctxt "229||||4"
+msgid "What's up with this guy!?"
+msgstr ""
+
+msgctxt "230||||4"
+msgid "A-Aniki! Let's beat it!\r\nThey're gonna murder us!"
+msgstr ""
+
+msgctxt "231||||4"
+msgid "Kazuma-kun... Thank you!"
+msgstr ""
+
+msgctxt "232||||4"
+msgid "I really am a pathetic father.\r\nI'm all bark and no bite..."
+msgstr ""
+
+msgctxt "233||||4"
+msgid "If you hadn't showed up, I'd have gotten\r\ntoo beat up to even protect Sakito..."
+msgstr ""
+
+msgctxt "234||||4"
+msgid "Fighter... I wouldn't say you're pathetic."
+msgstr ""
+
+msgctxt "235||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "236||||4"
+msgid "Father! Are you okay?"
+msgstr ""
+
+msgctxt "237||||4"
+msgid "Yeah, I'm fine.\r\nAre you okay, Sakito?"
+msgstr ""
+
+msgctxt "238||||4"
+msgid "Yeah! Mr. Kazuma-san and\r\nPocket Circuit Fighter protected me!"
+msgstr ""
+
+msgctxt "239||||4"
+msgid "You're so cool as Pocket Circuit Fighter!"
+msgstr ""
+
+msgctxt "240||||4"
+msgid "I wanna know who Pocket Circuit Fighter really is...\r\nWho my father is!"
+msgstr ""
+
+msgctxt "241||||4"
+msgid "Sakito..."
+msgstr ""
+
+msgctxt "242||||4"
+msgid "Sakito! There you are! \r\nWhat exactly is going on here!?"
+msgstr ""
+
+msgctxt "243||||4"
+msgid "Oh, Mommy..."
+msgstr ""
+
+msgctxt "244||||4"
+msgid "And why are you dressed in\r\nthat stupid old get-up!?"
+msgstr ""
+
+msgctxt "245||||4"
+msgid "You endangered Sakito with\r\nyour stupid antics, didn't you!?"
+msgstr ""
+
+msgctxt "246||||4"
+msgid "I-I..."
+msgstr ""
+
+msgctxt "247||||4"
+msgid "That's wrong, Mommy.\r\nPocket Circuit Fighter protec<symbol=em_dash_with_outline>"
+msgstr ""
+
+msgctxt "248||||4"
+msgid "I've heard enough excuses!"
+msgstr ""
+
+msgctxt "249||||4"
+msgid "We don't have time to discuss this!\r\nYou're already late for English class!"
+msgstr ""
+
+msgctxt "250||||4"
+msgid "What in the world were you all thinking!?\r\nAre you trying to make my life miserable!?"
+msgstr ""
+
+msgctxt "251||||4"
+msgid "Mommy... I...\r\nI don't want to go to English class today!"
+msgstr ""
+
+msgctxt "252||||4"
+msgid "Nonsense! What would you propose is a\r\nbetter use of time than learning English!?"
+msgstr ""
+
+msgctxt "253||||4"
+msgid "I wanna play with my father..."
+msgstr ""
+
+msgctxt "255||||4"
+msgid "Absolutely not! Sakito, don't you care about\r\nyour future? And it's \"daddy\", not \"father!\""
+msgstr ""
+
+msgctxt "256||||4"
+msgid "Look at your daddy!"
+msgstr ""
+
+msgctxt "257||||4"
+msgid "He had no choice but to inherit a tofu shop\r\nbecause he goofed off until he was 50!"
+msgstr ""
+
+msgctxt "258||||4"
+msgid "He's a sad, meek, tofu-hawking loser\r\nwho can't even stand up to his own wife!"
+msgstr ""
+
+msgctxt "259||||4"
+msgid "Is that how you want to end up!?"
+msgstr ""
+
+msgctxt "261||||4"
+msgid "I don't even know whether or\r\nnot I want to be like Daddy."
+msgstr ""
+
+msgctxt "262||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "263||||4"
+msgid "I don't know the first thing about him.\r\nHow could I know if I want to be like him?"
+msgstr ""
+
+msgctxt "264||||4"
+msgid "That's why I want to get to know him.\r\nI wanna be friends with my Daddy."
+msgstr ""
+
+msgctxt "265||||4"
+msgid "And once I know him...\r\nThen I can figure out the future!"
+msgstr ""
+
+msgctxt "266||||4"
+msgid "Sakito! Hold on!\r\nWould you say something to your son!?"
+msgstr ""
+
+msgctxt "267||||4"
+msgid "Sakito... I'm sorry you just had to say all that.\r\nI've really failed you as a father all this time."
+msgstr ""
+
+msgctxt "268||||4"
+msgid "Father..."
+msgstr ""
+
+msgctxt "269||||4"
+msgid "But, I'm gonna be a real dad now."
+msgstr ""
+
+msgctxt "270||||4"
+msgid "I want to raise you with confidence,\r\nlike a real father should."
+msgstr ""
+
+msgctxt "271||||4"
+msgid "Misaki. Call the English school and tell them\r\nhe'll be spending the day with his father."
+msgstr ""
+
+msgctxt "272||||4"
+msgid "Now just one minute!\r\nI refuse to allow such<symbol=em_dash_with_outline>"
+msgstr ""
+
+msgctxt "273||||4"
+msgid "BE QUIET!"
+msgstr ""
+
+msgctxt "275||||4"
+msgid "Sure, I may have been forced into the family\r\nbusiness, and yeah, I suck at making tofu!"
+msgstr ""
+
+msgctxt "276||||4"
+msgid "And, I'm totally whipped by my wife!"
+msgstr ""
+
+msgctxt "277||||4"
+msgid "But! I am his father!\r\nHe wants to spend time with me!"
+msgstr ""
+
+msgctxt "278||||4"
+msgid "If you want me to ignore my son's feelings,\r\nthen... You may as well kill me now!"
+msgstr ""
+
+msgctxt "279||||4"
+msgid "H-Honey..."
+msgstr ""
+
+msgctxt "280||||4"
+msgid "Father..."
+msgstr ""
+
+msgctxt "281||||4"
+msgid "Please, Misaki.\r\nLet me be a father to our son."
+msgstr ""
+
+msgctxt "283||||4"
+msgid "Fine. You have my permission."
+msgstr ""
+
+msgctxt "284||||4"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "285||||4"
+msgid "Huh? I-It's really okay?\r\nEven skipping English...?"
+msgstr ""
+
+msgctxt "286||||4"
+msgid "Yes. But when you come home, you're\r\ncatching up on your lessons. Understood?"
+msgstr ""
+
+msgctxt "287||||4"
+msgid "Y-Yeah! I will!\r\nI promise!"
+msgstr ""
+
+msgctxt "288||||4"
+msgid "I need to relax, don't I? I've just been so\r\nstressed about Sakito's future lately..."
+msgstr ""
+
+msgctxt "289||||4"
+msgid "And..."
+msgstr ""
+
+msgctxt "290||||4"
+msgid "And...?"
+msgstr ""
+
+msgctxt "291||||4"
+msgid "I don't know what just got into you,\r\nbut that was the man I fell in love with."
+msgstr ""
+
+msgctxt "292||||4"
+msgid "Misaki..."
+msgstr ""
+
+msgctxt "293||||4"
+msgid "Well, I'll go call the school."
+msgstr ""
+
+msgctxt "294||||4"
+msgid "Mom... Thank you!"
+msgstr ""
+
+msgctxt "295||||4"
+msgid "Sakito. Your dad was pretty cool, huh?"
+msgstr ""
+
+msgctxt "296||||4"
+msgid "Yeah! Super cool!\r\nI didn't know he could yell so loud!"
+msgstr ""
+
+msgctxt "297||||4"
+msgid "You're embarrassing me..."
+msgstr ""
+
+msgctxt "298||||4"
+msgid "Sakito, I'm sorry I wasn't paying\r\nattention to your feelings!"
+msgstr ""
+
+msgctxt "299||||4"
+msgid "No, it's okay!\r\nYou were there for me when it counted!"
+msgstr ""
+
+msgctxt "300||||4"
+msgid "Sakito... All right!\r\nIt's time for a Pocket Circuit battle!"
+msgstr ""
+
+msgctxt "301||||4"
+msgid "Yeah! I wanna try Pocket Circuit!\r\nYou were really fast, right, Dad?"
+msgstr ""
+
+msgctxt "302||||4"
+msgid "Is there any doubt!?\r\nI'm the one and only... Pocket Circuit Fighter!"
+msgstr ""
+
+msgctxt "304||||4"
+msgid "Okay! Let's have a race to see who\r\ncan get the cars from my closet first!"
+msgstr ""
+
+msgctxt "305||||4"
+msgid "Ready, go!"
+msgstr ""
+
+msgctxt "307||||4"
+msgid "Hey, Kazuma-kun!"
+msgstr ""
+
+msgctxt "308||||4"
+msgid "Hey. How've things with your son\r\nbeen since I saw you last?"
+msgstr ""
+
+msgctxt "309||||4"
+msgid "They're going well, thanks to you.\r\nHe's been getting really into Pocket Circuit."
+msgstr ""
+
+msgctxt "310||||4"
+msgid "That's great. Guess the need\r\nfor speed runs in the family."
+msgstr ""
+
+msgctxt "311||||4"
+msgid "Oh, by the way. I heard you're putting\r\na crew together. Is the rumor true?"
+msgstr ""
+
+msgctxt "312||||4"
+msgid "Oh, by the way. I heard you're putting\r\na crew together. Is the rumor true?"
+msgstr ""
+
+msgctxt "313||||4"
+msgid "Oh, by the way. I heard you're putting\r\na crew together. Is the rumor true?"
+msgstr ""
+
+msgctxt "314||||4"
+msgid "Hm? Yeah, I am."
+msgstr ""
+
+msgctxt "315||||4"
+msgid "If you've got room for one more...\r\nHow about I join you?"
+msgstr ""
+
+msgctxt "316||||4"
+msgid "If you've got room for one more...\r\nHow about I join you?"
+msgstr ""
+
+msgctxt "317||||4"
+msgid "Huh? You? I appreciate it, but this\r\ngroup is pretty dangerous actually..."
+msgstr ""
+
+msgctxt "318||||4"
+msgid "I was just thinking back to that fight,\r\nand as a father, I want to be stronger."
+msgstr ""
+
+msgctxt "319||||4"
+msgid "So, if I go with you,\r\nI know I can get there."
+msgstr ""
+
+msgctxt "320||||4"
+msgid "So, if I go with you,\r\nI know I can get there."
+msgstr ""
+
+msgctxt "321||||4"
+msgid "Besides, it's only natural to help\r\nout your friend when they need it!"
+msgstr ""
+
+msgctxt "322||||4"
+msgid "All right then.\r\nI'll be expecting great things."
+msgstr ""
+
+msgctxt "323||||4"
+msgid "Leave it to me!\r\nLet's do it, Kazuma-kun!"
+msgstr ""
+
+msgctxt "324||||4"
+msgid "Hey, Kazuma-kun.\r\nWant some tofu!?"
+msgstr ""
+
+msgctxt "325||||4"
+msgid "Thanks a lot!\r\nCome back soon, okay!?"
+msgstr ""
+
+msgctxt "326||||4"
+msgid "Come back soon, Kazuma-kun!"
+msgstr ""
+

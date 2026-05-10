@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "50||sub_a11_reiko||table||1||sub_a11_01||1"
+msgid "Ugh, I'm so booored.\r\nI <font_kind=yakuza_italic>am</font_kind> feeling kind of horny, though.\r\nAnyone up for a little romp between the\r\nsheets? Try and find me if you're game.\r\nI'll be waiting! <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "50||sub_a11_reiko||table||2||sub_a11_02||1"
+msgid "Ughhh, why's nobody talking to me!?\r\nMaybe I'll just handle things myself at home.\r\n<font_kind=yakuza_italic>Unlesssss</font_kind> somebody wants to come lend\r\na hand... Or maybe more. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "50||sub_a11_reiko||table||3||sub_a11_03||1"
+msgid "Awww, nobody came to say hello.\r\nI moved somewhere new, though... <symbol=note_with_outline>\r\nCan anyone guess where I am?"
+msgstr ""
+
+msgctxt "50||sub_a11_reiko||table||4||sub_a11_04||1"
+msgid "I'm done waiting around for my white knight. <symbol=note_with_outline>\r\nTime to get moving again! Although, maybe\r\nI'll just go handle things myself at home.\r\nThis is your last chance, so try and find\r\nme at my new spot! I'll be waiting... <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "56||tm_10_kyuubyounin||table||1||start||1"
+msgid "I saw someone keeled over in pain on\r\nEast National Route 2, near the pedestrian\r\nbridge! I can't stop, so I'm hoping someone\r\nhere on Troublr can!"
+msgstr ""
+
+msgctxt "56||tm_10_kyuubyounin||table||2||success||1"
+msgid "My friend just told me that the sick person\r\nwas saved by some good Samaritan who\r\ngave them some medicine. There's hope\r\nfor you yet, Onomichi!"
+msgstr ""
+
+msgctxt "56||tm_10_kyuubyounin||table||3||failure||1"
+msgid "Even though they must have been in\r\nexcruciating pain, no one came to help...\r\nPeople are so heartless..."
+msgstr ""
+
+msgctxt "56||tm_10_kyuubyounin||table||4||accept||1"
+msgid "I'll check it out."
+msgstr ""
+
+msgctxt "57||tm_10_kyuubyounin_k00||table||1||start||1"
+msgid "I just looked out the window of my car\r\nand I think I saw someone in serious pain\r\njust south of the Theater! I can't stop\r\nthere myself, so can someone help!?"
+msgstr ""
+
+msgctxt "57||tm_10_kyuubyounin_k00||table||2||success||1"
+msgid "A friend of mine said someone saved that\r\nsick person. Was it the guy who replied?\r\nWell, they're apparently recovering fine,\r\nthanks to you. Kamurocho is in good hands!"
+msgstr ""
+
+msgctxt "57||tm_10_kyuubyounin_k00||table||3||failure||1"
+msgid "I was finally able to turn around, and\r\nnobody came to help. Kamurocho is such\r\na disappointment. Nobody cares here."
+msgstr ""
+
+msgctxt "57||tm_10_kyuubyounin_k00||table||4||accept||1"
+msgid "I'll look into it."
+msgstr ""
+
+msgctxt "58||tm_11_kami_ga_nai||table||1||start||1"
+msgid "*Urgent: PLEASE SHARE!*\r\nI'm inside the Children's Park bathroom and\r\nit's OUT OF TOILET PAPER! Can you make it\r\nsnappy? I have an important meeting soon!"
+msgstr ""
+
+msgctxt "58||tm_11_kami_ga_nai||table||2||success||1"
+msgid "The patron saint of public restrooms himself\r\nwas able to spare me a square! Thank you,\r\noh benevolent lord of the lavatory!"
+msgstr ""
+
+msgctxt "58||tm_11_kami_ga_nai||table||3||failure||1"
+msgid "Well, please keep my underwear in your\r\nprayers. The dark price was too steep, and\r\nit left this world in about as cruel a way as\r\nany pair of undies could go... I'm so sorry."
+msgstr ""
+
+msgctxt "58||tm_11_kami_ga_nai||table||4||accept||1"
+msgid "......Fine."
+msgstr ""
+
+msgctxt "59||tm_12_houkama||table||1||start||1"
+msgid "There's been an alarming increase in\r\narsons here in Onomichi lately, and I\r\njust saw a suspicious guy near the port.\r\nHe was clearly trying to keep a low\r\nprofile, so I didn't want to approach!"
+msgstr ""
+
+msgctxt "59||tm_12_houkama||table||2||success||1"
+msgid "That person really was an arsonist. Too\r\nbad they got away. Did the guy who\r\nreplied chase them away? If so, great work!"
+msgstr ""
+
+msgctxt "59||tm_12_houkama||table||3||failure||1"
+msgid "A small fire broke out. I saw a firetruck\r\nheading in that direction. I knew I should've\r\ncalled the police sooner."
+msgstr ""
+
+msgctxt "59||tm_12_houkama||table||4||accept||1"
+msgid "Sounds dangerous. I'll check it out."
+msgstr ""
+
+msgctxt "60||tm_21_hittakuri||table||1||start||1"
+msgid "I was minding my own business at the\r\nOyster Shack on Shishido Street, when my\r\neye caught some shady business. I'm not\r\nsure what I saw, but I just want to be sure...\r\nCan anyone check it out? I'm too scared."
+msgstr ""
+
+msgctxt "60||tm_21_hittakuri||table||2||success||1"
+msgid "So it WAS shady! And you stopped a purse-\r\nsnatcher! You've done the world a favor!"
+msgstr ""
+
+msgctxt "60||tm_21_hittakuri||table||3||failure||1"
+msgid "Maybe I was just imagining things... But this\r\nis gonna keep me up at night, I just know it."
+msgstr ""
+
+msgctxt "60||tm_21_hittakuri||table||4||accept||1"
+msgid "I'll get to the bottom of it."
+msgstr ""
+
+msgctxt "62||tm_33_harapeko||table||1||start||1"
+msgid "I saw a little boy squatting in the middle\r\nof the shopping center. Maybe he wasn't\r\nfeeling well? I hope he's all right... I didn't\r\ncheck, but now I'm kicking myself! Can\r\nsomeone look in on him?"
+msgstr ""
+
+msgctxt "62||tm_33_harapeko||table||2||success||1"
+msgid "Apparently that little boy was just really\r\nhungry. He said a nice tourist gave him\r\nsome food. I'm glad he wasn't ill, though!"
+msgstr ""
+
+msgctxt "62||tm_33_harapeko||table||3||failure||1"
+msgid "Apparently that little boy was just really\r\nhungry. He fainted and got hauled away\r\nin an ambulance."
+msgstr ""
+
+msgctxt "62||tm_33_harapeko||table||4||accept||1"
+msgid "I'll see what the problem is."
+msgstr ""
+
+msgctxt "76||tm_31_yopparai||table||1||start||1"
+msgid "There's this drunk in Public Park Three, and\r\nhe's being a nuisance. He's making me and\r\nsome other people pretty uncomfortable...\r\nI wish someone would put a stop to him..."
+msgstr ""
+
+msgctxt "76||tm_31_yopparai||table||2||success||1"
+msgid "Not how I would have solved the problem,\r\nbut I guess giving a drunk more alcohol\r\nworks, as long as it makes him stop\r\nbothering people!"
+msgstr ""
+
+msgctxt "76||tm_31_yopparai||table||3||failure||1"
+msgid "The drunk guy never did budge. He reeked,\r\nand he kept muttering stuff to people...\r\nSometimes Kamurocho feels like a real\r\ndump."
+msgstr ""
+
+msgctxt "76||tm_31_yopparai||table||4||accept||1"
+msgid "I know how to handle this."
+msgstr ""
+
+msgctxt "82||tm_41_missing||table||1||start||1"
+msgid "There was this woman looking pretty\r\nfrantic at the shrine. Apparently she and her\r\nchild got separated. I don't know the area\r\ntoo well... Can anyone swing by?"
+msgstr ""
+
+msgctxt "82||tm_41_missing||table||2||success||1"
+msgid "Thank goodness, the child was found.\r\nConsidering how dangerous it's been\r\ngetting these days, I'm glad this all\r\nworked out okay."
+msgstr ""
+
+msgctxt "82||tm_41_missing||table||3||failure||1"
+msgid "I guess the police eventually found that kid,\r\nand the poor little guy was so exhausted\r\nhe could barely even cry anymore. I'm\r\ntearing up here."
+msgstr ""
+
+msgctxt "82||tm_41_missing||table||4||accept||1"
+msgid "He couldn't have gone far. I'll have a look."
+msgstr ""
+
+msgctxt "83||tm_42_falling||table||1||start||1"
+msgid "I saw someone dangling from the ceiling\r\nof the Central Shopping District. It'll\r\nonly be a matter of time until the person\r\nfalls. Someone help them!"
+msgstr ""
+
+msgctxt "83||tm_42_falling||table||2||success||1"
+msgid "I heard the person was safely rescued.\r\nThey were pretty high up, so if they fell,\r\nit probably would've been bad. I'm\r\nrelieved, so relieved."
+msgstr ""
+
+msgctxt "83||tm_42_falling||table||3||failure||1"
+msgid "The person couldn't hang on anymore and\r\nfell. Apparently they didn't end up with\r\nsevere injuries, but I bet it hurt."
+msgstr ""
+
+msgctxt "83||tm_42_falling||table||4||accept||1"
+msgid "Got it, I'll go help.\r\nWait for me."
+msgstr ""
+
+msgctxt "84||tm_42_falling_k00||table||1||start||1"
+msgid "There's someone hanging on for dear life\r\nfrom the rooftop of the batting center!\r\nI don't want to imagine what'll happen\r\nif they fall! Someone help!"
+msgstr ""
+
+msgctxt "84||tm_42_falling_k00||table||2||success||1"
+msgid "I heard some buff guy pulled the person up\r\nto safety. The world still has some good in it\r\nafter all!"
+msgstr ""
+
+msgctxt "84||tm_42_falling_k00||table||3||failure||1"
+msgid "The person fell to the ground. Luckily, they\r\nweren't severely injured, but I can't believe\r\nno one even tried to help..."
+msgstr ""
+
+msgctxt "84||tm_42_falling_k00||table||4||accept||1"
+msgid "Got it. I'm on my way."
+msgstr ""
+
+msgctxt "88||tm_01_katsuage_a01||table||1||start||1"
+msgid "I've heard there's a bunch of guys shaking\r\npeople down for cash in Theater Alley...\r\nSeems like there's a new victim every\r\nday, too. I wish someone would take care\r\nof those punks..."
+msgstr ""
+
+msgctxt "88||tm_01_katsuage_a01||table||2||success||1"
+msgid "Apparently someone gave those\r\nshakedown guys a proper beat down.\r\nWas it the guy who replied to my post?\r\nIf so, thanks, man. I'm glad Kamurocho\r\nstill has people like you around."
+msgstr ""
+
+msgctxt "88||tm_01_katsuage_a01||table||3||failure||1"
+msgid "They found some guy beaten half to death\r\nnear Theater Square. Word is they might\r\nnot make it... There's no justice in this town\r\nanymore..."
+msgstr ""
+
+msgctxt "88||tm_01_katsuage_a01||table||4||accept||1"
+msgid "Got it. I don't tolerate shakedowns."
+msgstr ""
+
+msgctxt "89||tm_01_katsuage_a02||table||1||start||1"
+msgid "I heard those shakedown guys showed\r\nup northwest of Theater Square.\r\nIf you're still out there... can you do\r\nsomething about them again?"
+msgstr ""
+
+msgctxt "89||tm_01_katsuage_a02||table||2||success||1"
+msgid "Man, whoever you are, you're stronger\r\nthan anyone I know! That should teach\r\nthose punks a lesson. I just hope they\r\nknow better than to come back..."
+msgstr ""
+
+msgctxt "89||tm_01_katsuage_a02||table||3||failure||1"
+msgid "Some people ended up getting hurt...\r\nI heard they were just left to bleed out\r\non the street, too... Shameful."
+msgstr ""
+
+msgctxt "89||tm_01_katsuage_a02||table||4||accept||1"
+msgid "They'll be lucky if they can still walk."
+msgstr ""
+
+msgctxt "90||tm_01_katsuage_a03||table||1||start||1"
+msgid "I saw someone get pulled into a manhole\r\nnear the Hotel District! They're supposedly\r\ntaking victims underground so no one can\r\nsee them shake people down. Please,\r\nsomeone save them!"
+msgstr ""
+
+msgctxt "90||tm_01_katsuage_a03||table||2||success||1"
+msgid "You're so amazing. I think it finally got\r\nthrough to those guys. I heard from a friend\r\nthat they don't think it's worth the pain\r\nanymore. I bet that's the end of that\r\nshakedown problem for our city."
+msgstr ""
+
+msgctxt "90||tm_01_katsuage_a03||table||3||failure||1"
+msgid "Just when I thought they were getting too\r\nscared, they're back to their old tricks and\r\nbragging about making easy money on the\r\nstreets. I wish somebody'd stand up to\r\nthem."
+msgstr ""
+
+msgctxt "90||tm_01_katsuage_a03||table||4||accept||1"
+msgid "Time to flush the rats out of the sewers."
+msgstr ""
+
+msgctxt "91||tm_02_oyajigari_a01||table||1||start||1"
+msgid "I saw a rough-looking crowd harassing a\r\nmiddle-aged guy near the Millennium\r\nTower. I bet these are those dad hunters\r\nI've heard so much about."
+msgstr ""
+
+msgctxt "91||tm_02_oyajigari_a01||table||2||success||1"
+msgid "I saw this dude in a gray suit beating the\r\nliving shit out of those thugs. Was it the guy\r\nwho replied? If so, thanks. It was great\r\nseeing those guys get taken down a peg!"
+msgstr ""
+
+msgctxt "91||tm_02_oyajigari_a01||table||3||failure||1"
+msgid "I just saw those thugs walk out of a\r\nstore with a whole bunch of expensive\r\nelectronics. Guess they got the money\r\nfrom that dude after all..."
+msgstr ""
+
+msgctxt "91||tm_02_oyajigari_a01||table||4||accept||1"
+msgid "They won't get away with it."
+msgstr ""
+
+msgctxt "92||tm_02_oyajigari_a02||table||1||start||1"
+msgid "I heard another middle-aged man was\r\ngetting harassed in Pink Alley. Why are\r\npeople still doing this? If you're still out\r\nthere, Gray-suited Champion of Justice,\r\nwe need you!"
+msgstr ""
+
+msgctxt "92||tm_02_oyajigari_a02||table||2||success||1"
+msgid "The Champion of Justice LIVES!\r\nThose guys were beaten to bloody pulps!\r\nServes 'em right, too! LMAO!"
+msgstr ""
+
+msgctxt "92||tm_02_oyajigari_a02||table||3||failure||1"
+msgid "Just saw a guy walk out of Pink Alley looking\r\ntattered and broken. I guess the Champion\r\nof Justice was too busy."
+msgstr ""
+
+msgctxt "92||tm_02_oyajigari_a02||table||4||accept||1"
+msgid "On it. And no nicknames, please."
+msgstr ""
+
+msgctxt "93||tm_02_oyajigari_a03||table||1||start||1"
+msgid "Those dad-hunter guys are back again on\r\nEast Taihei Boulevard. It's in your hands,\r\nChampion of Justice!"
+msgstr ""
+
+msgctxt "93||tm_02_oyajigari_a03||table||2||success||1"
+msgid "I knew we could depend on you. They\r\nmust've learned their lesson by now. No\r\none's going to bother middle-aged men in\r\nthis city again after what happened to those\r\nguys."
+msgstr ""
+
+msgctxt "93||tm_02_oyajigari_a03||table||3||failure||1"
+msgid "Man, I guess I was naive to expect a\r\nchampion of justice to fix everything.\r\nThat middle-aged man was crying into\r\nhis hands on the curb."
+msgstr ""
+
+msgctxt "93||tm_02_oyajigari_a03||table||4||accept||1"
+msgid "...The \"champion\" is on it. Happy?"
+msgstr ""
+
+msgctxt "94||tm_03_nanpa_a01||table||1||start||1"
+msgid "I saw these gross guys harassing a girl\r\nin front of the Millennium Tower.\r\nI've heard rumors about the terrible\r\nthings these assholes do to those poor\r\nwomen..."
+msgstr ""
+
+msgctxt "94||tm_03_nanpa_a01||table||2||success||1"
+msgid "Those perverts got the beat down they\r\ndeserved. I'd say it was divine punishment\r\nthat the guy who wrecked them was built\r\nlike a bulldozer."
+msgstr ""
+
+msgctxt "94||tm_03_nanpa_a01||table||3||failure||1"
+msgid "Turns out no one wanted to help that poor\r\ngirl... I sure hope she's okay..."
+msgstr ""
+
+msgctxt "94||tm_03_nanpa_a01||table||4||accept||1"
+msgid "Not on my watch."
+msgstr ""
+
+msgctxt "95||tm_03_nanpa_a02||table||1||start||1"
+msgid "Those perverts don't know when to quit.\r\nThey're in front of Theater Square now!\r\nSomeone needs to put these scumbags in\r\ntheir place..."
+msgstr ""
+
+msgctxt "95||tm_03_nanpa_a02||table||2||success||1"
+msgid "ROFLMAO! I saw those guys getting the\r\nbeating of their lives. They were really\r\naggressive to all those girls, and that\r\nreflects poorly on EVERYONE. So, I'm\r\nreally thankful to whoever beat them up!\r\nThat'll do, pig!"
+msgstr ""
+
+msgctxt "95||tm_03_nanpa_a02||table||3||failure||1"
+msgid "No one came to help... People like them\r\ngive Kamurocho the reputation it deserves."
+msgstr ""
+
+msgctxt "95||tm_03_nanpa_a02||table||4||accept||1"
+msgid "I'll shut them down as many times\r\nas it takes."
+msgstr ""
+
+msgctxt "96||tm_03_nanpa_a03||table||1||start||1"
+msgid "Those guys committing sexual assault\r\nseem to have moved their operation into\r\nthe Millennium Tower. I can't believe they\r\nthink they can get away with messing with\r\ngirls just because they're inside. Someone\r\nshould wreck them for good!"
+msgstr ""
+
+msgctxt "96||tm_03_nanpa_a03||table||2||success||1"
+msgid "Those guys just got REKT, LOL. Serves 'em\r\nright, if you ask me! I think they're done\r\nmessing with girls in Kamurocho. Hopefully\r\nthat makes this city at least a little safer for\r\nwomen to walk around in..."
+msgstr ""
+
+msgctxt "96||tm_03_nanpa_a03||table||3||failure||1"
+msgid "Of course people just turn a blind eye to\r\nthis kind of thing. Have been for years. I'm\r\nangry that I'm not strong enough to stop it\r\nmyself, but I'm even angrier that the people\r\nwho are strong enough chose to do nothing!"
+msgstr ""
+
+msgctxt "96||tm_03_nanpa_a03||table||4||accept||1"
+msgid "This is the last straw."
+msgstr ""
+
+msgctxt "97||tm_04_lynch_a01||table||1||start||1"
+msgid "I saw someone being attacked by a mob\r\nin the Hotel District. If nobody comes\r\nsoon, they could be killed..."
+msgstr ""
+
+msgctxt "97||tm_04_lynch_a01||table||2||success||1"
+msgid "I'm sure you just saved a life, buddy. Not\r\nall heroes wear capes, apparently. Some\r\nwear really outdated suits."
+msgstr ""
+
+msgctxt "97||tm_04_lynch_a01||table||3||failure||1"
+msgid "An ambulance just showed up on the scene.\r\nI just hope they pull through..."
+msgstr ""
+
+msgctxt "97||tm_04_lynch_a01||table||4||accept||1"
+msgid "I won't let that happen."
+msgstr ""
+
+msgctxt "98||tm_04_lynch_a02||table||1||start||1"
+msgid "There's another mob getting aggressive\r\non some defenseless person in Theater\r\nSquare. I don't know why they keep doing\r\nthis, but they need to be stopped before\r\nsomeone gets killed."
+msgstr ""
+
+msgctxt "98||tm_04_lynch_a02||table||2||success||1"
+msgid "Someone swooped in to save the victim\r\nfrom that mob. I sure am glad there are\r\ngood people on this network and in the\r\nworld."
+msgstr ""
+
+msgctxt "98||tm_04_lynch_a02||table||3||failure||1"
+msgid "I heard the victim is in critical condition.\r\nThey probably won't even be able to live\r\na normal life after this... I think about how\r\nthis could have been avoided if someone\r\nhad helped them, and it makes me so sad..."
+msgstr ""
+
+msgctxt "98||tm_04_lynch_a02||table||4||accept||1"
+msgid "I won't let anyone die."
+msgstr ""
+
+msgctxt "99||tm_04_lynch_a03||table||1||start||1"
+msgid "A mob is forming in Nakamichi Alley.\r\nI heard it's getting pretty bad. Can't anyone\r\nhelp!?"
+msgstr ""
+
+msgctxt "99||tm_04_lynch_a03||table||2||success||1"
+msgid "I saw that the victim made it out unscathed.\r\nThey told a reporter that a random stranger\r\nrisked his life in an all-out street fight to put\r\nthat mob down. Just goes to show, there are\r\nstill some good people in Kamurocho.\r\nHopefully this means the mobs will die\r\ndown now. And if not... I bet this guy will\r\nshow up to save the day again! Heh."
+msgstr ""
+
+msgctxt "99||tm_04_lynch_a03||table||3||failure||1"
+msgid "The victim's supposedly in pretty bad shape.\r\nThe reporters couldn't even say how badly\r\nthey were hurt... I wonder if someone could\r\nhave stopped this..."
+msgstr ""
+
+msgctxt "99||tm_04_lynch_a03||table||4||accept||1"
+msgid "On my way."
+msgstr ""
+
+msgctxt "100||tm_05_couple_a01||table||1||start||1"
+msgid "There's a group of thugs that hangs out in\r\nNakamichi Alley to harass passing couples.\r\nApparently they take some kind of sick\r\npleasure in making people in love suffer.\r\nHow screwed up is that?"
+msgstr ""
+
+msgctxt "100||tm_05_couple_a01||table||2||success||1"
+msgid "I watched you fight those guys. You beat\r\nthem to a bloody pulp without breaking\r\na sweat! That was awesome!"
+msgstr ""
+
+msgctxt "100||tm_05_couple_a01||table||3||failure||1"
+msgid "No one came to help them. I wonder if\r\nthey're okay? Makes me sick to my\r\nstomach..."
+msgstr ""
+
+msgctxt "100||tm_05_couple_a01||table||4||accept||1"
+msgid "I'm on it. Give me a sec."
+msgstr ""
+
+msgctxt "101||tm_05_couple_a02||table||1||start||1"
+msgid "I heard those jerks are still messing with\r\ncouples. I saw them leering at people\r\naround the Millennium Tower. I kinda\r\nwish they'd just drop dead."
+msgstr ""
+
+msgctxt "101||tm_05_couple_a02||table||2||success||1"
+msgid "HAHAHA! Those guys got absolutely LIT UP.\r\nThat'll teach 'em! Hahaha, I'm dying here!\r\nLOLOL"
+msgstr ""
+
+msgctxt "101||tm_05_couple_a02||table||3||failure||1"
+msgid "Looks like we ended up with two more\r\nvictims. This is disgusting."
+msgstr ""
+
+msgctxt "101||tm_05_couple_a02||table||4||accept||1"
+msgid "I'll see what I can do."
+msgstr ""
+
+msgctxt "102||tm_05_couple_a03||table||1||start||1"
+msgid "Those couple hunters have resurfaced.\r\nThis time, they're dragging couples into\r\nan empty room in the Senryo Building.\r\nSomeone has to help them!"
+msgstr ""
+
+msgctxt "102||tm_05_couple_a03||table||2||success||1"
+msgid "Those guys got so busted up, they could\r\nbarely stumble out of the building. I bet\r\nthose punks couldn't harass another couple\r\nif they tried! Whoever did all this... Love\r\nhas won, thanks to you!"
+msgstr ""
+
+msgctxt "102||tm_05_couple_a03||table||3||failure||1"
+msgid "Looks like another couple is on the way to\r\nthe ER. When will this nightmare end?"
+msgstr ""
+
+msgctxt "102||tm_05_couple_a03||table||4||accept||1"
+msgid "Sit tight, I'm on it."
+msgstr ""
+
+msgctxt "105||tm_35_suri||table||1||start||1"
+msgid "I heard there's a pickpocket who's been\r\nhanging around Hana-no-kubo. That's\r\nwhere all the tourists hang out, so this\r\nis going to escalate quickly..."
+msgstr ""
+
+msgctxt "105||tm_35_suri||table||2||success||1"
+msgid "Looks like the pickpocket got his hand in\r\nthe wrong pocket. I heard he got the\r\ncrap kicked out of him."
+msgstr ""
+
+msgctxt "105||tm_35_suri||table||3||failure||1"
+msgid "It seems that pickpocket is really cleaning\r\nup out there... Onomichi's reputation is as\r\ngood as ruined."
+msgstr ""
+
+msgctxt "105||tm_35_suri||table||4||accept||1"
+msgid "I'll put a stop to it."
+msgstr ""
+
+msgctxt "106||tm_36_hakaarashi||table||1||start||1"
+msgid "I've heard a creepy rumor that some grave\r\nrobbers have been sighted in the cemetery.\r\nGeez, talk about feudal-era crimes, right?\r\nI'd check, but... hell no, man. Hell no."
+msgstr ""
+
+msgctxt "106||tm_36_hakaarashi||table||2||success||1"
+msgid "I guess some dude rolled up into the\r\ncemetery and took out the whole gang of\r\ngrave robbers. You, sir, have bigger balls\r\nthan I do."
+msgstr ""
+
+msgctxt "106||tm_36_hakaarashi||table||3||failure||1"
+msgid "Sounds like a whole bunch of graves got dug\r\nup and a ton of valuables went missing. It's\r\ndisgusting, in so many ways."
+msgstr ""
+
+msgctxt "106||tm_36_hakaarashi||table||4||accept||1"
+msgid "The dead don't deserve that. I'll check it out."
+msgstr ""
+
+msgctxt "107||tm_17_ramen||table||1||start||1"
+msgid "My chronic back pain has the worst timing!\r\nIt flared up during my ramen delivery! This\r\ncustomer will raise hell if his ramen is late\r\nor his noodles are soggy too! Let's just say...\r\nUdon wanna mess with him!\r\n\r\nI'm by Kyushu No. 1 Star if you can help!"
+msgstr ""
+
+msgctxt "107||tm_17_ramen||table||2||place||1"
+msgid "I got the order from Lullaby Mahjong!\r\nPlease, run like the round wind!"
+msgstr ""
+
+msgctxt "107||tm_17_ramen||table||3||success||1"
+msgid "This scary but also kind of sweet guy\r\nmade my delivery for me! My back was\r\nhurting soba'd..."
+msgstr ""
+
+msgctxt "107||tm_17_ramen||table||4||failure||1"
+msgid "I couldn't get the delivery out... The phone\r\nat the restaurant won't stop ringing, either.\r\nSorry to be a wet noodle, but I think I'm\r\ngonna skip town..."
+msgstr ""
+
+msgctxt "107||tm_17_ramen||table||5||accept||1"
+msgid "Not sure why, but I'll help."
+msgstr ""
+
+msgctxt "108||tm_19_kazi_k_01||table||1||start||1"
+msgid "I can see smoke coming from a rooftop\r\nin Nakamichi Alley. Something's gotta be\r\non fire. If it doesn't get put out soon, it'll\r\ntear through the streets!"
+msgstr ""
+
+msgctxt "108||tm_19_kazi_k_01||table||2||success||1"
+msgid "Looks like someone extinguished that fire.\r\nI'm glad we didn't have to go through\r\nanother big fire in the city! Thanks to the\r\none who made it over there in time!"
+msgstr ""
+
+msgctxt "108||tm_19_kazi_k_01||table||3||failure||1"
+msgid "I think that fire must have burned out on\r\nits own. We sure got lucky this time..."
+msgstr ""
+
+msgctxt "108||tm_19_kazi_k_01||table||4||accept||1"
+msgid "Got it, I'll go check."
+msgstr ""
+
+msgctxt "109||tm_20_kazi_k_02||table||1||start||1"
+msgid "There's smoke coming from a building on\r\nSenryo Avenue! It's gotta be another fire.\r\nIs anyone close enough to put it out!?"
+msgstr ""
+
+msgctxt "109||tm_20_kazi_k_02||table||2||success||1"
+msgid "I heard you went in with a fire extinguisher\r\nand put out that fire single-handedly!\r\nYou're incredible!"
+msgstr ""
+
+msgctxt "109||tm_20_kazi_k_02||table||3||failure||1"
+msgid "The building burned down... Luckily, the fire\r\nwent out with it. Hard to believe nobody\r\ntried to put it out, but... What can you\r\nexpect from Kamurocho?"
+msgstr ""
+
+msgctxt "109||tm_20_kazi_k_02||table||4||accept||1"
+msgid "I'll see what I can do."
+msgstr ""
+
+msgctxt "110||tm_21_kazi_k_03||table||1||start||1"
+msgid "I can see smoke billowing from the roof\r\nof the batting cages. It better not be\r\nanother big fire..."
+msgstr ""
+
+msgctxt "110||tm_21_kazi_k_03||table||2||success||1"
+msgid "The smoke stopped. Did the guy who\r\nsaid he'd put it out really get to it in time?\r\nIf so, you're the man, anon!"
+msgstr ""
+
+msgctxt "110||tm_21_kazi_k_03||table||3||failure||1"
+msgid "The smoke's gone, but... I think all it\r\ndid was burn itself out. There's probably\r\nsome pretty bad damage..."
+msgstr ""
+
+msgctxt "110||tm_21_kazi_k_03||table||4||accept||1"
+msgid "I'll make sure it doesn't spread."
+msgstr ""
+
+msgctxt "111||tm_27_burningcar||table||1||start||1"
+msgid "FIRE: Jingai Main Street! A CAR IS ON FIRE!!!\r\nThe owner is screaming about how\r\nsomething important is trapped in the car!\r\nBut the car will never last until the fire truck\r\ncan get here!"
+msgstr ""
+
+msgctxt "111||tm_27_burningcar||table||2||success||1"
+msgid "Thank goodness someone had a fire\r\nextinguisher! I'm sure that car's owner\r\nreally appreciates you, buddy. And so do\r\nwe!"
+msgstr ""
+
+msgctxt "111||tm_27_burningcar||table||3||failure||1"
+msgid "I guess sometimes fate takes what's\r\nimportant to you. But still, what a disaster.\r\nIsn't there any way this could have been\r\navoided?"
+msgstr ""
+
+msgctxt "111||tm_27_burningcar||table||4||accept||1"
+msgid "I'll go. Wait for me."
+msgstr ""
+
+msgctxt "112||tm_32_hankouyokoku2||table||1||start||1"
+msgid "Kiryu-san,\r\nIt's me, Torafuru. This is a DM, so only you\r\ncan see it. I traced that serial bomber's IP,\r\nand it seems like he's posting to Troublr\r\nfrom an internet café. Maybe you could\r\ncatch him if you dropped in at the right\r\ncafé!"
+msgstr ""
+
+msgctxt "112||tm_32_hankouyokoku2||table||2||success||1"
+msgid "You did it, Kiryu-san. I knew you could.\r\nThat guy was pretty terrible, huh?"
+msgstr ""
+
+msgctxt "112||tm_32_hankouyokoku2||table||3||failure||1"
+msgid "It looks like he signed off, so that must\r\nmean he left the café. He got away this\r\ntime, but let's hope there's another chance!"
+msgstr ""
+
+msgctxt "112||tm_32_hankouyokoku2||table||4||progress1||1"
+msgid "Kiryu-san, if the serial bomber's patterns\r\nare anything to go on, he'll be leaving the\r\ncafé in about five minutes. If you're going\r\nto get him, now would be the time!"
+msgstr ""
+
+msgctxt "112||tm_32_hankouyokoku2||table||5||progress2||1"
+msgid "Kiryu-san, we're down to about two\r\nminutes before the serial bomber leaves\r\nthe café! Can you get to him in time!?"
+msgstr ""
+
+msgctxt "112||tm_32_hankouyokoku2||table||6||accept||1"
+msgid "Yeah, this guy needs to be stopped."
+msgstr ""
+
+msgctxt "113||tm_35_hankouyokoku||table||1||start||1"
+msgid "The clock is ticking in Kamurocho...\r\nI've set up a bomb, and my challenge to you\r\nis this: Can you find it in the ten minutes\r\nbefore it blows?"
+msgstr ""
+
+msgctxt "113||tm_35_hankouyokoku||table||2||success||1"
+msgid "Not bad. You deserve some credit, I\r\nsuppose... But this isn't over by a long shot."
+msgstr ""
+
+msgctxt "113||tm_35_hankouyokoku||table||3||failure||1"
+msgid "You disappoint me. You masquerade as\r\njustice incarnate, but fall short of the mark\r\nwhen it really counts. Pathetic."
+msgstr ""
+
+msgctxt "113||tm_35_hankouyokoku||table||4||hint1||1"
+msgid "Here's the bomb! HaHaHa!\r\nDo you know this city well enough to figure\r\nout where it is?"
+msgstr ""
+
+msgctxt "113||tm_35_hankouyokoku||table||5||hint2||1"
+msgid "Aww, are you struggling to find it in\r\na city you claim to know? Here's the hint I\r\nsnapped in case you turned out to be an idiot."
+msgstr ""
+
+msgctxt "113||tm_35_hankouyokoku||table||6||hint3||1"
+msgid "Still lost? I knew you were stupid, but man,\r\nwhat a moron! Here's the final hint before\r\nthe KaBOOM!"
+msgstr ""
+
+msgctxt "113||tm_35_hankouyokoku||table||7||accept||1"
+msgid "Challenge accepted. You can't hurt this city."
+msgstr ""
+
+msgctxt "114||tm_22_kazi_k_04||table||1||start||1"
+msgid "I see a lot of smoke coming from a\r\nbuilding on Tenkaichi Street! Is this\r\nanother arson attempt!? What if it\r\nspreads!?"
+msgstr ""
+
+msgctxt "114||tm_22_kazi_k_04||table||2||success||1"
+msgid "I hear the fire got put out and they\r\neven caught they guy who did it!\r\nTroublr is going nuts saying the guy\r\nwho posted solved everything!\r\nWay to go!"
+msgstr ""
+
+msgctxt "114||tm_22_kazi_k_04||table||3||failure||1"
+msgid "I guess you couldn't get there in time.\r\nStill no idea who the arsonist is,\r\neither. I bet the fires won't stop here."
+msgstr ""
+
+msgctxt "114||tm_22_kazi_k_04||table||4||accept||1"
+msgid "I'll put it out before that happens."
+msgstr ""
+
+msgctxt "115||tm_torafuru_reaction||table||1||torafuru_tm35_hint||1"
+msgid "Kiryu-san! I got some information from\r\na friend! Red, cut the red!"
+msgstr ""
+
+msgctxt "116||tm_24_kazi_o_02||table||1||start||1"
+msgid "There's smoke coming from an alley on\r\nCemetery Lane. Think it's the arsonist who's\r\nbeen starting all those fires? Someone\r\nshould check it out."
+msgstr ""
+
+msgctxt "116||tm_24_kazi_o_02||table||2||success||1"
+msgid "Sounds like we really are dealing with an\r\narsonist. But I guess the guy who responded\r\nmust have put out the fire. I'm glad you\r\nstopped it before it did any real damage."
+msgstr ""
+
+msgctxt "116||tm_24_kazi_o_02||table||3||failure||1"
+msgid "Looks like the fire burnt out on its own, but\r\nwe really got lucky this time. I guess nobody\r\nhad time to check it out."
+msgstr ""
+
+msgctxt "116||tm_24_kazi_o_02||table||4||accept||1"
+msgid "I've had it with fires. I'm on it."
+msgstr ""
+
+msgctxt "117||tm_25_kazi_o_03||table||1||start||1"
+msgid "There's smoke coming from the Navy\r\nApartments. That stupid arsonist strikes\r\nagain! Can someone get down there!?"
+msgstr ""
+
+msgctxt "117||tm_25_kazi_o_03||table||2||success||1"
+msgid "Looks like it was another arson attempt, but\r\nsomeone got to it with a fire extinguisher\r\nbefore it got out of hand. Was it the guy\r\nwho replied?"
+msgstr ""
+
+msgctxt "117||tm_25_kazi_o_03||table||3||failure||1"
+msgid "It must have been the same arsonist, but\r\nsince no one came, I guess we'll never know\r\nfor sure. At least the fire's out... Not like all\r\nyou cold-blooded reptiles care."
+msgstr ""
+
+msgctxt "117||tm_25_kazi_o_03||table||4||accept||1"
+msgid "That's close to home. I'll go."
+msgstr ""
+
+msgctxt "118||tm_26_kazi_o_04||table||1||start||1"
+msgid "I see smoke coming from a house in\r\nHana-no-kubo! I think it's coming from the\r\nbalcony, or somewhere above ground,\r\nanyway. The houses out there are all made\r\nof wood, so someone needs to get up there\r\nfast!"
+msgstr ""
+
+msgctxt "118||tm_26_kazi_o_04||table||2||success||1"
+msgid "It really WAS arson. This is becoming a real\r\nproblem. Thank you, whoever put it out!"
+msgstr ""
+
+msgctxt "118||tm_26_kazi_o_04||table||3||failure||1"
+msgid "No one went to look. The fire didn't spread,\r\nbut I'll never forget the day you all turned\r\nyour back on this city..."
+msgstr ""
+
+msgctxt "118||tm_26_kazi_o_04||table||4||accept||1"
+msgid "Sounds dangerous. I'm on it."
+msgstr ""
+
+msgctxt "119||tm_18_houkama_k||table||1||start||1"
+msgid "Ever since that fire in Little Asia,\r\nthere's been an increase in arsons across\r\nKamurocho. I saw this shady guy on the\r\neast side of Taihei Boulevard and I can't\r\nhelp but think it's related. Pretty creepy!"
+msgstr ""
+
+msgctxt "119||tm_18_houkama_k||table||2||success||1"
+msgid "I really DID see an arsonist. Someone said\r\nhe got away, but maybe it was because the\r\nguy who replied chased him off? Good job!"
+msgstr ""
+
+msgctxt "119||tm_18_houkama_k||table||3||failure||1"
+msgid "I can't believe another fire broke out in\r\nKamurocho. Good thing the fire trucks\r\nmade it before it got out of hand..."
+msgstr ""
+
+msgctxt "119||tm_18_houkama_k||table||4||accept||1"
+msgid "I'll go have a look."
+msgstr ""
+

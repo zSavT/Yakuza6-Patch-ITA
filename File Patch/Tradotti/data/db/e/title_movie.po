@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||SCN01_015||title"
+msgid "An Open Air Tussle"
+msgstr ""
+
+msgctxt "2||SCN01_020||title"
+msgid "Too Busy For This"
+msgstr ""
+
+msgctxt "3||SCN01_045||title"
+msgid "Kiryu's Arrest"
+msgstr ""
+
+msgctxt "4||SCN01_060||title"
+msgid "Meeting"
+msgstr ""
+
+msgctxt "5||SCN01_070||title"
+msgid "Awaiting His Return"
+msgstr ""
+
+msgctxt "6||SCN01_075||title"
+msgid "Regret"
+msgstr ""
+
+msgctxt "7||SCN01_076||title"
+msgid "Haruka's Decision"
+msgstr ""
+
+msgctxt "8||SCN01_090||title"
+msgid "Back in Okinawa"
+msgstr ""
+
+msgctxt "9||SCN01_100||title"
+msgid "Vanished"
+msgstr ""
+
+msgctxt "10||SCN01_110||title"
+msgid "To Kamurocho"
+msgstr ""
+
+msgctxt "11||SCN01_120||title"
+msgid "Tojo Threatened"
+msgstr ""
+
+msgctxt "12||SCN01_130||title"
+msgid "House Call"
+msgstr ""
+
+msgctxt "13||SCN01_140||title"
+msgid "News of the Accident"
+msgstr ""
+
+msgctxt "14||SCN01_150||title"
+msgid "A Nightmare Situation"
+msgstr ""
+
+msgctxt "15||SCN01_160||title"
+msgid "Mysterious Child"
+msgstr ""
+
+msgctxt "16||SCN02_010||title"
+msgid "Haruto Sawamura"
+msgstr ""
+
+msgctxt "17||PRE01_010||title"
+msgid "In a Certain Bar"
+msgstr ""
+
+msgctxt "18||PRE01_030||title"
+msgid "A Strange Combination"
+msgstr ""
+
+msgctxt "19||PRE01_040||title"
+msgid "Events of 2012"
+msgstr ""
+
+msgctxt "20||PRE01_079||title"
+msgid "Wandering"
+msgstr ""
+
+msgctxt "21||SCN02_020||title"
+msgid "Step Aside"
+msgstr ""
+
+msgctxt "22||SCN02_030||title"
+msgid "Acting Chairman Sugai"
+msgstr ""
+
+msgctxt "23||SCN02_040||title"
+msgid "Showdown with Akiyama"
+msgstr ""
+
+msgctxt "25||SCN02_060||title"
+msgid "Who's the Father?"
+msgstr ""
+
+msgctxt "26||PRE03_005||title"
+msgid "Jingaicho, Onomichi"
+msgstr ""
+
+msgctxt "27||SCN03_020||title"
+msgid "Tears"
+msgstr ""
+
+msgctxt "28||SCN03_030||title"
+msgid "The Dragon In Despair"
+msgstr ""
+
+msgctxt "29||SCN03_040||title"
+msgid "You're On Our Turf Now"
+msgstr ""
+
+msgctxt "30||SCN03_050||title"
+msgid "Hit By Pitcher"
+msgstr ""
+
+msgctxt "33||SCN03_080||title"
+msgid "Nagumo's Pride"
+msgstr ""
+
+msgctxt "34||SCN03_090||title"
+msgid "Love Thy Fellow Man"
+msgstr ""
+
+msgctxt "35||SCN04_010||title"
+msgid "A Casual Patriarch"
+msgstr ""
+
+msgctxt "36||SCN04_020||title"
+msgid "Welcome To Jingaicho"
+msgstr ""
+
+msgctxt "37||SCN04_030||title"
+msgid "Terrible Liars"
+msgstr ""
+
+msgctxt "38||SCN04_040||title"
+msgid "They're Not So Bad"
+msgstr ""
+
+msgctxt "39||SCN04_045||title"
+msgid "Captain Koshimizu"
+msgstr ""
+
+msgctxt "41||SCN04_060||title"
+msgid "Friends of Haruka"
+msgstr ""
+
+msgctxt "42||SCN05_010||title"
+msgid "Changing Diapers"
+msgstr ""
+
+msgctxt "43||PRE05_020||title"
+msgid "Memories of Haruka"
+msgstr ""
+
+msgctxt "44||SCN05_030||title"
+msgid "A Surprise Visitor"
+msgstr ""
+
+msgctxt "45||SCN05_040||title"
+msgid "Kiyomi Kidnapped"
+msgstr ""
+
+msgctxt "46||SCN05_050||title"
+msgid "Cover Yourselves"
+msgstr ""
+
+msgctxt "47||SCN05_060||title"
+msgid "The Masked Heroes Arrive"
+msgstr ""
+
+msgctxt "48||SCN05_070||title"
+msgid "In the Sauna"
+msgstr ""
+
+msgctxt "49||SCN05_080||title"
+msgid "Old vs. New"
+msgstr ""
+
+msgctxt "50||SCN05_090||title"
+msgid "The Man of Legend"
+msgstr ""
+
+msgctxt "51||SCN05_110||title"
+msgid "Haruto's Dad"
+msgstr ""
+
+msgctxt "52||SCN06_010||title"
+msgid "We're Off to Kamurocho"
+msgstr ""
+
+msgctxt "54||SCN06_030||title"
+msgid "Enter Joon-gi Han"
+msgstr ""
+
+msgctxt "55||SCN06_040||title"
+msgid "The Eden of Tokyo"
+msgstr ""
+
+msgctxt "58||SCN06_070||title"
+msgid "Tatsukawa's Fate"
+msgstr ""
+
+msgctxt "59||SCN07_020||title"
+msgid "Reunion with Ed"
+msgstr ""
+
+msgctxt "60||SCN07_030||title"
+msgid "A Familiar Face"
+msgstr ""
+
+msgctxt "61||SCN07_035||title"
+msgid "Saio Triad Leader, Big Lo"
+msgstr ""
+
+msgctxt "62||PRE07_040||title"
+msgid "The Secret Of Onomichi"
+msgstr ""
+
+msgctxt "63||PRE08_005||title"
+msgid "Rage"
+msgstr ""
+
+msgctxt "64||SCN08_020||title"
+msgid "Someya's Plot"
+msgstr ""
+
+msgctxt "65||SCN08_030||title"
+msgid "At His Mercy"
+msgstr ""
+
+msgctxt "66||SCN08_035||title"
+msgid "Haruto Missing"
+msgstr ""
+
+msgctxt "67||SCN09_010||title"
+msgid "Someya and Kiyomi"
+msgstr ""
+
+msgctxt "68||SCN09_020||title"
+msgid "All For Love"
+msgstr ""
+
+msgctxt "69||SCN09_030||title"
+msgid "A Hiroshima Throwdown"
+msgstr ""
+
+msgctxt "70||SCN09_040||title"
+msgid "Missing No Longer"
+msgstr ""
+
+msgctxt "71||SCN09_050||title"
+msgid "Haruto's Real Father"
+msgstr ""
+
+msgctxt "72||SCN10_010||title"
+msgid "Haruka And Yuta"
+msgstr ""
+
+msgctxt "73||PRE10_020||title"
+msgid "Masuzoe Confesses"
+msgstr ""
+
+msgctxt "74||SCN10_030||title"
+msgid "Surprise Attack"
+msgstr ""
+
+msgctxt "75||SCN10_040||title"
+msgid "Upsy-Daisy"
+msgstr ""
+
+msgctxt "76||SCN10_050||title"
+msgid "Iron Fist"
+msgstr ""
+
+msgctxt "77||SCN10_060||title"
+msgid "Yuta's Determination"
+msgstr ""
+
+msgctxt "78||PRE10_070||title"
+msgid "The Accident"
+msgstr ""
+
+msgctxt "79||PRE10_090||title"
+msgid "Han's Death"
+msgstr ""
+
+msgctxt "80||SCN11_010||title"
+msgid "Father-Son Time"
+msgstr ""
+
+msgctxt "81||SCN11_015||title"
+msgid "Abandon"
+msgstr ""
+
+msgctxt "82||SCN11_030||title"
+msgid "Little Asia Up in Flames"
+msgstr ""
+
+msgctxt "83||SCN11_040||title"
+msgid "In the Fire"
+msgstr ""
+
+msgctxt "84||PRE11_050||title"
+msgid "A Tragic Family"
+msgstr ""
+
+msgctxt "85||SCN11_060||title"
+msgid "The Burden of Life"
+msgstr ""
+
+msgctxt "86||SCN11_070||title"
+msgid "Hirose's Identity"
+msgstr ""
+
+msgctxt "87||PRE11_080||title"
+msgid "The Truth Revealed"
+msgstr ""
+
+msgctxt "88||PRE12_010||title"
+msgid "Kurusu And Hirose"
+msgstr ""
+
+msgctxt "90||SCN12_040||title"
+msgid "A Deadly Duel"
+msgstr ""
+
+msgctxt "91||PRE12_060||title"
+msgid "The Secret Revealed"
+msgstr ""
+
+msgctxt "92||SCN12_070||title"
+msgid "Hirose's Boss"
+msgstr ""
+
+msgctxt "93||SCN12_080||title"
+msgid "Hirose Confesses"
+msgstr ""
+
+msgctxt "94||SCN12_090||title"
+msgid "How It All Began"
+msgstr ""
+
+msgctxt "95||PRE12_100||title"
+msgid "Hirose's Final Breath"
+msgstr ""
+
+msgctxt "96||SCN13_010||title"
+msgid "Like Father, Like Son"
+msgstr ""
+
+msgctxt "97||SCN13_020||title"
+msgid "Farewell"
+msgstr ""
+
+msgctxt "98||SCN13_030||title"
+msgid "Meeting with Daidoji"
+msgstr ""
+
+msgctxt "99||SCN13_040||title"
+msgid "Haruka Awakens"
+msgstr ""
+
+msgctxt "100||SCN13_050||title"
+msgid "Reunited"
+msgstr ""
+
+msgctxt "101||PRE13_060||title"
+msgid "We'll Show Ourselves Up"
+msgstr ""
+
+msgctxt "102||PRE13_070||title"
+msgid "Someya Loses Control"
+msgstr ""
+
+msgctxt "103||PRE13_080||title"
+msgid "My Life For Hers"
+msgstr ""
+
+msgctxt "104||PRE13_090||title"
+msgid "Terminus"
+msgstr ""
+
+msgctxt "105||PRE13_100||title"
+msgid "An End to It All"
+msgstr ""
+
+msgctxt "106||PRE13_110||title"
+msgid "For the People I Love"
+msgstr ""
+
+msgctxt "107||PRE13_120||title"
+msgid "Mother and Daughter"
+msgstr ""
+
+msgctxt "108||SCN13_130||title"
+msgid "The Sixth Chairman Returns"
+msgstr ""
+
+msgctxt "109||PRE13_140||title"
+msgid "The Letter"
+msgstr ""
+
+msgctxt "110||SCN13_150||title"
+msgid "His Father's Will"
+msgstr ""
+
+msgctxt "111||PRE13_160||title"
+msgid "Toward the Future"
+msgstr ""
+
+msgctxt "112||PRE02_050||title"
+msgid "A Helping Hand"
+msgstr ""
+
+msgctxt "113||PRE03_060||title"
+msgid "Recurrence"
+msgstr ""
+
+msgctxt "114||PRE06_020||title"
+msgid "A Lesson in Manners"
+msgstr ""
+
+msgctxt "115||PRE06_050||title"
+msgid "Instinct Laid Bare"
+msgstr ""
+
+msgctxt "116||PRE06_060||title"
+msgid "Sportsmanship"
+msgstr ""
+
+msgctxt "117||PRE12_020||title"
+msgid "The Night Of The Fire"
+msgstr ""
+

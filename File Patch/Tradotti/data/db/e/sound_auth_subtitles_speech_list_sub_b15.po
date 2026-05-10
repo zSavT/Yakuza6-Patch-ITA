@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Kiryu-san... It's finally time t'play\r\nOnomichi's best team, the Legends."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Hey guys!"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Ah, Champ!"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Maaan, isn't the weather just great?\r\nIt's a perfect day for baseball."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "I agree. We're excited t'\r\nplay against you guys today!"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Let's play fair and square...\r\nfer the title of Onomichi's best!"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "We're excited to play against\r\nyou guys as well, Warriors."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Lu-san, how are you feeling today?\r\nGonna pound some home today?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Yeah, Shige-san.\r\nI feel like swingin' for the fences."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Ah, that's great to hear. Lookin' forward\r\nto seeing 'em fly over the wall."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Yup."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Kiryu-san, as long as they've got players like\r\nChamp and Lu-san, we can't expect a shutout."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "That said, we need to make this a real\r\nslugfest and play to out bat 'em!"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Yeah, good call."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Let me know when you're ready,\r\nand we'll get the team in position!"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Kiryu-san! Let's win another today!"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Th-They really are pros...\r\nWe didn't stand a chance..."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Hmm, that's a pity."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "I thought the Warriors would have a\r\nlittle more finesse than that. How disappointing..."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Well, don't get too discouraged. We can play\r\nagain, and maybe you'll be better next time?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Right on, Shige-san."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Kiryu-san... Let's train the team, build it up,\r\nand take 'em on again!"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "W-We did it!\r\nWe won, Kiryu-san!"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Yeah...!"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "We did it! Chiba! Kiryu-san!"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Maaan, you guys are tough!\r\nWe got stomped."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "You guys played just as hard."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "No no, don't play the pity card.\r\nYou beat us, fair and square..."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "But remember, Legends never die...!"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "I can't believe we beat the Legends,\r\nthe best team in Onomichi..."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Woohoo!\r\nYeaaahhh, we did it!"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "The Legends are Onomichi's best?\r\nThat statement doesn't hold water."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Hm...?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Maybe the Legends were good once...\r\nBut now Kanamizawa Gorgeous reigns supreme."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Who're you?"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Ah, forgive me... My name is Tsubasa Kanamizawa,\r\nheir and president of the Kanamizawa Group."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Th-The Kanamizawa Group is a major\r\ncorporation in these parts...!"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "I suppose even the uncultured peons of the\r\nregion heard of my company, then."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "And, yes<symbol=em_dash_with_outline> We are an elite corporation\r\nwith annual revenues north of 60 billion."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Wow. And what could such a hotshot\r\nCEO possibly want from us?"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "I don't like your tone, sir... You dare to mock\r\nthe captain of Onomichi's number one baseball team?"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Number one team?\r\nI thought that was the Legends..."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Operative word, \"was.\"\r\nRight, Shige-san?"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "I-I suppose..."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "The thing is, I find baseball a charming affair,\r\nso I put together my own little team."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "And I named it... Kanamizawa Gorgeous...!"
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Kanamizawa Gorgeous..."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Yes, and naturally I excel\r\nat everything I do..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Which meant putting together a team\r\nof overwhelming power and grace."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "So I used my extensive financial clout to recruit\r\nactive professional players from across the globe."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "[Hey! Come on, everyone!]"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Who the hell are these guys...?"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "These are players I've scouted from\r\nevery professional league in the world."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Together, they are Kanamizawa Gorgeous."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "A-Amazing... Rodriguez and Bowers...!\r\nThese guys are all top players!"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Hmm... Is that so?"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Thanks to their skill,\r\nI had no trouble forming an unstoppable team."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "And when I tested them against the Legends,\r\nthe so-called best Onomichi had to offer..."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Our victory was astounding.\r\nThe Legends never stood a chance."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "What? N-No way...\r\nThe Legends?"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Yes, I'd heard they were all former professionals,\r\nbut they went down swinging, the dotards."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Truly... It was almost a letdown\r\nto crush them like overripe fruit."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Mmm... That's disheartening..."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "It's hardly any fun playing unless the opponent\r\ncan provide some semblance of challenge..."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "So, Warriors...\r\nWe'd like you to play the role of that team."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "...I'd take you down whether you asked or not."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Then it's decided... Our next game is for\r\nthe title of Onomichi's strongest team."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Bring it on!"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Oh! Right, there's a great idea\r\nI'd been mulling around..."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Great idea...?"
+msgstr ""
+
+msgctxt "72||||4"
+msgid "I've actually been considering\r\nacquiring this little hovel of a field..."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Acquiring it?"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Yes, I'd like to purchase this field to use\r\nas my team's personal training ground."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "What!? But if you did that,\r\nthere'd be nowhere else to play in Onomichi!"
+msgstr ""
+
+msgctxt "76||||4"
+msgid "True... But it's not like anyone in Onomichi\r\nstands a chance of beating us, correct?"
+msgstr ""
+
+msgctxt "77||||4"
+msgid "What is the point of allowing teams\r\nto play if they can never hope to win?"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "It would be put to better use by us,\r\nso we can expand to Shikoku, Kyushu, and then nationals!"
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Wouldn't you agree it would be a\r\nmore worthy purpose for this sandlot?"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Yeah, you've made yourself clear.\r\nBut you wanna get to the point?"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "If you guys defeat us...\r\nI will abandon my pursuit."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "But if you lose...\r\nIt moves forward as I've described."
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Sound good? Don't the stakes make\r\nfor a more exciting game?"
+msgstr ""
+
+msgctxt "84||||4"
+msgid "Just makes you an asshole."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "Fine then! I'll give you a handicap.\r\nYou can challenge us as many times as you like."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "If you can win before the field is mine,\r\nI'll put a hard stop on my plans."
+msgstr ""
+
+msgctxt "87||||4"
+msgid "How's that? That should give you some\r\nmotivation to at least attempt to stop me."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "But... No matter how many times you add zero\r\nto zero... It's still zero."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "We'll do it.\r\nWe'll put a stop to your plans."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Think you will entertain us?"
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Well then, farewell everyone..."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "We're about t'face our toughest\r\nopponent yet..."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "Kiryu-san, we're counting on you here.\r\nIt'd be awful if Onomichi lost this field."
+msgstr ""
+
+msgctxt "95||||4"
+msgid "It's fine for us old guys, but the kids who dream\r\nof going pro someday would be crushed..."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "No matter what, we can't let that happen..."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Shige-san..."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "I jus' heard the news."
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Hamana!"
+msgstr ""
+
+msgctxt "100||||4"
+msgid "Fer what it's worth, you've got my faith too,\r\nconsiderin' how ya surpassed us like y'did."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "C'mon... Y'gotta stop him for all of us!"
+msgstr ""
+
+msgctxt "102||||4"
+msgid "You got it."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "That said... We'd wear Warriors colors too if it\r\nmeans fightin' them off. Whaddaya think of that?"
+msgstr ""
+
+msgctxt "104||||4"
+msgid "Ooh! We could combine our three teams and win\r\nwith one big super team! What do you think?"
+msgstr ""
+
+msgctxt "105||||4"
+msgid "I appreciate the gesture... \r\nBut I'll have to pass."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "What? Why?"
+msgstr ""
+
+msgctxt "107||||4"
+msgid "We'd be no different from them if all we\r\ndid was cherry-pick the best players."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "I'll put my faith in the same team that\r\ncarried us all to where we're standing."
+msgstr ""
+
+msgctxt "109||||4"
+msgid "I want to play with those guys 'til the end.\r\nAnd I think... We can beat them if we stick together."
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Mhm... That's really great.\r\nToo good, even. Yeah..."
+msgstr ""
+
+msgctxt "113||||4"
+msgid "You're too damn cool, Kiryu-san..."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Still... We need to practice harder and\r\ncome as our best if we want to beat them."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "If you want to help... Then practice with us.\r\nTake us to the top by training alongside us."
+msgstr ""
+
+msgctxt "116||||4"
+msgid "You got it. We can handle that, Kiryu-san."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "Good plan!"
+msgstr ""
+
+msgctxt "118||||4"
+msgid "Nice... Let's all work together t'take 'em down!"
+msgstr ""
+
+msgctxt "119||||4"
+msgid "We'll protect this field of memories\r\nfor the future of Onomichi's baseball!"
+msgstr ""
+
+msgctxt "120||||4"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "121||||4"
+msgid "All right!"
+msgstr ""
+
+msgctxt "122||||4"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "123||||4"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "124||||4"
+msgid "(Kanamizawa Gorgeous...\r\nWe have to win this!)"
+msgstr ""
+

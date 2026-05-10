@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||content"
+msgid "Bravo, you did it!\r\nMost dishes don't have such a high quality of lobster!\r\nLet's hold our bodies to even higher standards than\r\nthat lobster was held to!"
+msgstr ""
+
+msgctxt "1||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Lobster Miso Soup!\r\nThe key ingredient is the high-quality lobster!\r\nPlease give it a try when you have a chance!"
+msgstr ""
+
+msgctxt "2||||content"
+msgid "Bravo, you did it!\r\nThe wonderful harmony of meat, rice, and egg!\r\nI could eat this forever! Oh, speaking of Katsudon,\r\nhave you heard of this Katsudon Prince guy...?\r\n...Or was it Kabedon?"
+msgstr ""
+
+msgctxt "3||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten Katsudon!\r\nThe rice, meat, and egg create a perfect harmony,\r\nso you should eat a Katsudon whenever you can in\r\norder to build strength!"
+msgstr ""
+
+msgctxt "4||||content"
+msgid "Bravo, you did it!\r\nBuckwheat noodles are good for a quick meal when\r\nyou're a bit hungry! Wasn't the Egg & Tempura Soba\r\ndelicious and easy to eat?"
+msgstr ""
+
+msgctxt "5||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Egg & Tempura Soba!\r\nIt's crazy how both the buckwheat noodles and\r\nthe egg are so simple, and yet so delicious!"
+msgstr ""
+
+msgctxt "6||||content"
+msgid "Bravo, you did it!\r\nHow did you like the Chashu Rice Bowl?\r\nChashu is the best topping when it comes to rice!\r\nLet's focus on turning all the weight that comes\r\nfrom it into muscle!"
+msgstr ""
+
+msgctxt "7||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Chashu Rice Bowl!\r\nChashu is the best topping when it comes to rice!\r\nYou should try chashu in noodle dishes, too."
+msgstr ""
+
+msgctxt "8||||content"
+msgid "Bravo, you did it!\r\nYou were able to finish the Wild Hamburg Steak 300g!\r\nYoung or old, people will always love hamburg steak!\r\nIt's my favorite food, even to this day!"
+msgstr ""
+
+msgctxt "9||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Wild Hamburg Steak 300g!\r\nHamburg Steaks are a childhood favorite!\r\nI mean, it's my favorite even as an adult!"
+msgstr ""
+
+msgctxt "10||||content"
+msgid "Bravo, you did it!\r\nYou were able to finish the Sirloin Steak 200g!\r\nSirloin is the king of meats! You're one step\r\ncloser to a muscular body after consuming a\r\nhefty amount of protein!"
+msgstr ""
+
+msgctxt "11||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Sirloin Steak 200g!\r\nSirloin is the king of meats! Meat is great for\r\nincreasing muscle mass, so you should eat some\r\nwhenever you train!"
+msgstr ""
+
+msgctxt "12||||content"
+msgid "Bravo, you did it!\r\nA Beef Plate is like a beef bowl without the rice!\r\nIt's a great dish for when you can't eat carbs.\r\nThe simplicity and cheap price are fantastic!"
+msgstr ""
+
+msgctxt "13||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Beef Plate!\r\nIt's a perfect, light meal with lots of beef.\r\nIt includes pickled ginger and has no carbs!"
+msgstr ""
+
+msgctxt "14||||content"
+msgid "Bravo, you did it!\r\nWhen you think of the best fast food\r\njoints, Smile Burger is number one!\r\nTheir King Smile Burger is the one that comes\r\nwith double the meat of the rest of their burgers!"
+msgstr ""
+
+msgctxt "15||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the King Smile Burger!\r\nWhen you think of the best fast food\r\njoints, Smile Burger is number one!\r\nWhen you want double meat, the\r\nKing Smile Burger is the way to go!"
+msgstr ""
+
+msgctxt "16||||content"
+msgid "Bravo, you did it!\r\nCrisp, fresh salad is loaded with nutrients!\r\nProper intake of nutrients is required to\r\nmaintain a constantly fresh body!"
+msgstr ""
+
+msgctxt "17||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Smile Salad!\r\nWhen you think of the best fast food\r\njoints, Smile Burger is number one!\r\nTheir Smile Salad is their only dish\r\nthat's all greens!"
+msgstr ""
+
+msgctxt "18||||content"
+msgid "Bravo, you did it!\r\nFor a well-rounded meal, you can't beat the round\r\ntakoyaki from Gindaco Highball Tavern!\r\nWomen love the Cheese and Spicy Fish Roe!"
+msgstr ""
+
+msgctxt "19||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Cheese and Spicy Fish Roe!\r\nWomen love it!"
+msgstr ""
+
+msgctxt "20||||content"
+msgid "Bravo, you did it!\r\nSirloin has an amazing meaty flavor!\r\nThe limited amount of fat is good news for\r\nyour body, too!\r\nLet's both aim for a similar, fat-less body!"
+msgstr ""
+
+msgctxt "21||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Sirloin!\r\nYakiniku is when you grill meat on a metal grate!\r\nThe Sirloin is the best when it comes to meat with\r\nnot much fat!"
+msgstr ""
+
+msgctxt "22||||content"
+msgid "Bravo, you did it!\r\nHarami is a popular yakiniku dish!\r\nAlthough kalbi and sirloin are popular,\r\nharami is quite popular as well!"
+msgstr ""
+
+msgctxt "23||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the harami!\r\nPart of the diaphragm, it's considered offal\r\nand is just as popular as other yakiniku meats\r\nlike kalbi and sirloin!"
+msgstr ""
+
+msgctxt "24||||content"
+msgid "Bravo, you did it!\r\nThere's no fish more popular in Japan than tuna!\r\nWith Tuna Zanmai, you can sample\r\nvarious types of tuna dishes in one meal!"
+msgstr ""
+
+msgctxt "25||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten Tuna Zanmai!\r\nThere's no fish more popular in Japan than tuna!\r\nWith Tuna Zanmai, you can sample\r\nvarious types of tuna dishes in one meal!"
+msgstr ""
+
+msgctxt "26||||content"
+msgid "Bravo, you did it!\r\nThe Sandwich Set is the go-to light meal!\r\nIt's a great way to easily combine different types\r\nof ingredients into one quick food!"
+msgstr ""
+
+msgctxt "27||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Sandwich Set!\r\nSandwiches are standard when it comes\r\nto light meals or breakfast!"
+msgstr ""
+
+msgctxt "28||||content"
+msgid "Bravo, you did it!\r\nA Skewer platter is great for when you feel\r\nlike having a bunch of different hot foods!\r\nWe should work toward being as colorful as\r\nthese skewers!"
+msgstr ""
+
+msgctxt "29||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten Grilled Skewers!\r\nThere's a variety of hot foods on each skewers!\r\nThe Skewer Platter from Yoronotaki has five\r\nflavors in one dish!"
+msgstr ""
+
+msgctxt "30||||content"
+msgid "Bravo, you did it!\r\nNothing goes to waste with this dish!\r\nEvery part of the fish is used, even its eggs!\r\nLet's be as efficient as this Smelt Fish with Roe!"
+msgstr ""
+
+msgctxt "31||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Smelt Fish with Roe!\r\nEvery part of the fish is used, even its eggs!\r\nYou're going to be hooked by the texture!"
+msgstr ""
+
+msgctxt "32||||content"
+msgid "Bravo, you did it!\r\nA scallion-filled Kotchori Salad!\r\nThe spice from the scallions may tempt you to\r\ndrink alcohol, but that's strictly prohibited\r\nduring training!"
+msgstr ""
+
+msgctxt "33||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Kotchori Salad!\r\nYou usually associate lettuce with salad,\r\nbut Yoronotaki's has lots of scallions!"
+msgstr ""
+
+msgctxt "34||||content"
+msgid "Bravo, you did it!\r\nWild Fried Chicken uses boneless chicken thighs!\r\nIt's nothing but chicken! Now go turn all that\r\nprotein into muscle!"
+msgstr ""
+
+msgctxt "35||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Wild Fried Chicken!\r\nPlain chicken is a great protein-heavy meal\r\nfor training!"
+msgstr ""
+
+msgctxt "36||||content"
+msgid "Bravo, you did it!\r\nHamburgers; the staple of fast food!\r\nThis one comes with a sunny-side up egg!\r\nI hope you savored every bite!"
+msgstr ""
+
+msgctxt "37||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Wette Egg Burger!\r\nHamburgers are the ultimate fast food!\r\nSunny-side up is the ultimate form of egg!\r\nPut them together for the ultimate meal!"
+msgstr ""
+
+msgctxt "38||||content"
+msgid "Bravo, you did it!\r\nWhen you think of Japan's national food,\r\nit has to be curry or ramen!\r\nAnd when it comes to the national beef dish,\r\nyou bet it's beef curry!"
+msgstr ""
+
+msgctxt "39||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten Original Beef Curry!\r\nBoth curry and ramen are typical Japanese fare,\r\nbut the beef curry is the one that uses beef!"
+msgstr ""
+
+msgctxt "40||||content"
+msgid "Bravo, you did it!\r\nChampon is the ultimate Nagasaki specialty!\r\nRinger Hut's Vegetable Champon gives you\r\ncarbs and veggies at the same time!"
+msgstr ""
+
+msgctxt "41||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Vegetable Champon!\r\nChampon is the ultimate Nagasaki specialty!\r\nRinger Hut's Vegetable Champon gives you\r\ncarbs and veggies at the same time!"
+msgstr ""
+
+msgctxt "42||||content"
+msgid "Bravo, you did it!\r\nIt was very clever of you to get your veggies\r\nin a soup with all the digestive benefits\r\na ginger-based dressing could provide!"
+msgstr ""
+
+msgctxt "43||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Veggie-filled Soup!\r\nRinger Hut has a lot of veggie dishes, but the\r\nbest way to get the digestive benefits of ginger\r\nwas in a soup!"
+msgstr ""
+
+msgctxt "44||||content"
+msgid "Bravo, you did it!\r\nWhen it comes to vegetable protein made of\r\nsoybean, tofu can't be beat!\r\nWhen people think spicy, they think Mapo Tofu!"
+msgstr ""
+
+msgctxt "45||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten Mapo Tofu!\r\nWhen it comes to vegetable protein made of\r\nsoybean, tofu can't be beat!\r\nWhen people think spicy, they think Mapo Tofu!"
+msgstr ""
+
+msgctxt "46||||content"
+msgid "Bravo, you did it!\r\nCabbage and pork are used when we cook\r\nTwice-cooked Pork in Japan!\r\nThe Twice-cooked Pork from Osaka King\r\nwas filling and delicious, right!?"
+msgstr ""
+
+msgctxt "47||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten the Twice-cooked Pork!\r\nIt's the most popular dish that has\r\nboth pork and cabbage!"
+msgstr ""
+
+msgctxt "48||||content"
+msgid "Bravo, you did it!\r\nYou ate Banbanji Salad!\r\nBanbanji Salad has both vegetables and steamed\r\nchicken breast!\r\nYou get a great balance of vitamins and protein!"
+msgstr ""
+
+msgctxt "49||||content"
+msgid "Bummer! That was the wrong dish...\r\nYou should have eaten Banbanji Salad!\r\nIt has both vegetables and steamed chicken breast!\r\nIt's perfect for training!"
+msgstr ""
+

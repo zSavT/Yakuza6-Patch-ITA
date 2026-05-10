@@ -1,0 +1,781 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||k_poppo_t||name"
+msgid "Poppo (Tenkaichi St.)"
+msgstr ""
+
+msgctxt "5||k_akaushi_h||name"
+msgid "Akaushimaru (Hotel District)"
+msgstr ""
+
+msgctxt "6||k_akaushi_t||name"
+msgid "Akaushimaru (Tenkaichi St.)"
+msgstr ""
+
+msgctxt "7||k_alps||name"
+msgid "Café Alps"
+msgstr ""
+
+msgctxt "8||k_bantam||name"
+msgid "Bantam"
+msgstr ""
+
+msgctxt "10||k_fujisoba||name"
+msgid "Fuji Soba"
+msgstr ""
+
+msgctxt "11||k_gindaco||name"
+msgid "Gindaco Highball Tavern"
+msgstr ""
+
+msgctxt "12||k_hanrai||name"
+msgid "Kanrai"
+msgstr ""
+
+msgctxt "13||k_ichibanboshi||name"
+msgid "Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "14||k_ikinari_steak||name"
+msgid "Ikinari Steak"
+msgstr ""
+
+msgctxt "15||k_M_SIDE_CAFE||name"
+msgid "M Side Cafe"
+msgstr ""
+
+msgctxt "16||k_osaka_ohsho||name"
+msgid "Osaka King"
+msgstr ""
+
+msgctxt "17||k_ringerhut||name"
+msgid "Ringer Hut"
+msgstr ""
+
+msgctxt "18||k_smileburgar||name"
+msgid "Smile Burger (Nakamichi St.)"
+msgstr ""
+
+msgctxt "19||k_sushigin||name"
+msgid "Sushi Gin"
+msgstr ""
+
+msgctxt "20||k_sushizanmai||name"
+msgid "Sushi Zanmai"
+msgstr ""
+
+msgctxt "21||k_wettekitchen_tw||name"
+msgid "Wette Kitchen (W Taihei Blvd.)"
+msgstr ""
+
+msgctxt "23||k_wildjackson_me||name"
+msgid "Wild Jackson (E Millennium Tower St.)"
+msgstr ""
+
+msgctxt "24||k_wildjackson_t||name"
+msgid "Wild Jackson (Tenkaichi St.)"
+msgstr ""
+
+msgctxt "25||k_yoronotaki||name"
+msgid "Yoronotaki"
+msgstr ""
+
+msgctxt "26||k_donki||name"
+msgid "Don Quijote"
+msgstr ""
+
+msgctxt "27||k_ebisuya||name"
+msgid "Ebisu Pawn"
+msgstr ""
+
+msgctxt "28||k_poppo_7e||name"
+msgid "Poppo (E Shichifuku St.)"
+msgstr ""
+
+msgctxt "29||k_poppo_7w||name"
+msgid "Poppo (W Shichifuku St.)"
+msgstr ""
+
+msgctxt "30||k_poppo_s||name"
+msgid "Poppo (Showa St.)"
+msgstr ""
+
+msgctxt "31||o_juumangoku||name"
+msgid "Jumangoku Chinese Soba"
+msgstr ""
+
+msgctxt "32||o_kakikoya||name"
+msgid "Oyster Shack"
+msgstr ""
+
+msgctxt "33||o_La_Pente||name"
+msgid "La Pente"
+msgstr ""
+
+msgctxt "34||o_yonetoku||name"
+msgid "Yonetoku"
+msgstr ""
+
+msgctxt "35||o_otafukuya||name"
+msgid "Otafuku Pawn"
+msgstr ""
+
+msgctxt "36||o_nagiyakkyoku||name"
+msgid "Nagi Pharmacy"
+msgstr ""
+
+msgctxt "37||o_poke_tofuya||name"
+msgid "Fujisawa Tofu"
+msgstr ""
+
+msgctxt "38||o_yamaneko||name"
+msgid "Snacks and Wildcats"
+msgstr ""
+
+msgctxt "39||k_taxi_tenkairi||name"
+msgid "Tenkaichi St. Entrance"
+msgstr ""
+
+msgctxt "40||k_taxi_pinkiri||name"
+msgid "Pink St. Entrance"
+msgstr ""
+
+msgctxt "41||k_taxi_shichifukunishi||name"
+msgid "W Shichifuku St."
+msgstr ""
+
+msgctxt "42||k_taxi_taiherihigashi||name"
+msgid "E Taihei Blvd."
+msgstr ""
+
+msgctxt "43||st_h_geihinkan_1f||name"
+msgid "Hotel 1F"
+msgstr ""
+
+msgctxt "44||st_h_geihinkan_2f||name"
+msgid "Hotel 2F"
+msgstr ""
+
+msgctxt "45||st_h_geihinkan_3f||name"
+msgid "Hotel 3F"
+msgstr ""
+
+msgctxt "46||st_h_geihinkan_4f||name"
+msgid "Hotel 4F"
+msgstr ""
+
+msgctxt "47||st_h_geihinkan_5f||name"
+msgid "Hotel 5F"
+msgstr ""
+
+msgctxt "48||k_street_gekijohokusei||name"
+msgid "NW Theater Square"
+msgstr ""
+
+msgctxt "49||k_street_gekijomae||name"
+msgid "Theater Ave."
+msgstr ""
+
+msgctxt "50||k_street_gekijomaehiroba||name"
+msgid "Theater Square"
+msgstr ""
+
+msgctxt "51||k_street_gekijomaehirobaura||name"
+msgid "Theater Alley"
+msgstr ""
+
+msgctxt "52||k_street_hotel||name"
+msgid "Hotel District"
+msgstr ""
+
+msgctxt "53||k_street_mtowerhigashi||name"
+msgid "E Millennium Tower St."
+msgstr ""
+
+msgctxt "54||k_street_nakamichi||name"
+msgid "Nakamichi St."
+msgstr ""
+
+msgctxt "55||k_street_nakamichiura||name"
+msgid "Nakamichi Alley"
+msgstr ""
+
+msgctxt "56||k_street_pink||name"
+msgid "Pink St."
+msgstr ""
+
+msgctxt "57||k_street_pinkkita||name"
+msgid "N Pink St."
+msgstr ""
+
+msgctxt "58||k_street_pinkura||name"
+msgid "Pink Alley"
+msgstr ""
+
+msgctxt "59||k_street_senryo||name"
+msgid "Senryo Ave."
+msgstr ""
+
+msgctxt "60||k_street_senryokita||name"
+msgid "N Senryo Ave."
+msgstr ""
+
+msgctxt "61||k_street_serenaura||name"
+msgid "New Serena Alley"
+msgstr ""
+
+msgctxt "62||k_street_shitifuku||name"
+msgid "Shichifuku St."
+msgstr ""
+
+msgctxt "63||k_street_shitifukuhigashi||name"
+msgid "E Shichifuku St."
+msgstr ""
+
+msgctxt "64||k_street_shitifukunishi||name"
+msgid "W Shichifuku St."
+msgstr ""
+
+msgctxt "65||k_street_showa||name"
+msgid "Showa St."
+msgstr ""
+
+msgctxt "66||k_street_showahigashi||name"
+msgid "E Showa St."
+msgstr ""
+
+msgctxt "67||k_street_showanishi||name"
+msgid "W Showa St."
+msgstr ""
+
+msgctxt "68||k_street_suppon||name"
+msgid "Suppon St."
+msgstr ""
+
+msgctxt "69||k_street_taihei||name"
+msgid "Taihei Blvd."
+msgstr ""
+
+msgctxt "70||k_street_taiheihigashi||name"
+msgid "E Taihei Blvd."
+msgstr ""
+
+msgctxt "71||k_street_taiheinishi||name"
+msgid "W Taihei Blvd."
+msgstr ""
+
+msgctxt "72||k_street_tenka||name"
+msgid "Tenkaichi St."
+msgstr ""
+
+msgctxt "73||k_street_tenkaura||name"
+msgid "Tenkaichi Alley"
+msgstr ""
+
+msgctxt "74||k_smileburgar_g||name"
+msgid "Smile Burger (NW Theater Square)"
+msgstr ""
+
+msgctxt "75||k_QUADRA_GARDEN||name"
+msgid "Quadra Garden"
+msgstr ""
+
+msgctxt "76||k_rizap||name"
+msgid "RIZAP Kamurocho"
+msgstr ""
+
+msgctxt "77||k_yamishonin||name"
+msgid "Black Market Merchant"
+msgstr ""
+
+msgctxt "78||o_yamishonin||name"
+msgid "Black Market Merchant"
+msgstr ""
+
+msgctxt "79||k_playspot_karaokekan||name"
+msgid "Karaokekan"
+msgstr ""
+
+msgctxt "80||k_playspot_caba||name"
+msgid "Club Shine"
+msgstr ""
+
+msgctxt "81||k_playspot_DARTSLIVE_bantam||name"
+msgid "DARTSLIVE (Bantam)"
+msgstr ""
+
+msgctxt "82||k_playspot_mahjong_lullaby||name"
+msgid "Lullaby Mahjong"
+msgstr ""
+
+msgctxt "83||k_playspot_nekocafe||name"
+msgid "Nyan Nyan Café"
+msgstr ""
+
+msgctxt "84||k_playspot_batting||name"
+msgid "Yoshida Batting Center"
+msgstr ""
+
+msgctxt "85||k_playspot_DARTSLIVE_sega||name"
+msgid "DARTSLIVE (Club SEGA Theater Square)"
+msgstr ""
+
+msgctxt "86||k_playspot_mahjong_kindai||name"
+msgid "Modern Mahjong"
+msgstr ""
+
+msgctxt "87||k_playspot_rizap||name"
+msgid "RIZAP Kamurocho"
+msgstr ""
+
+msgctxt "88||k_playspot_sega_nakamichi||name"
+msgid "Club SEGA (Nakamichi St.)"
+msgstr ""
+
+msgctxt "89||k_playspot_sega_gekijomae||name"
+msgid "Club SEGA (Theater Square)"
+msgstr ""
+
+msgctxt "90||k_playspot_livechat1||name"
+msgid "Mantai Internet Café (Theater Square)"
+msgstr ""
+
+msgctxt "91||k_playspot_livechat2||name"
+msgid "Mantai Internet Café (Nakamichi St.)"
+msgstr ""
+
+msgctxt "92||k_playspot_livechat3||name"
+msgid "Mantai Internet Café (Senryo Ave.)"
+msgstr ""
+
+msgctxt "93||o_playspot_osonae||name"
+msgid "Ryunan Shrine Jizo Statues"
+msgstr ""
+
+msgctxt "94||o_playspot_omikuji||name"
+msgid "Senkoji Fortune Box"
+msgstr ""
+
+msgctxt "95||o_playspot_osaisen||name"
+msgid "Senkoji Donation Box"
+msgstr ""
+
+msgctxt "96||o_playspot_sandlot||name"
+msgid "Baseball Field"
+msgstr ""
+
+msgctxt "97||o_playspot_snack||name"
+msgid "New Gaudi"
+msgstr ""
+
+msgctxt "98||o_playspot_skindiving||name"
+msgid "Spearfishing"
+msgstr ""
+
+msgctxt "99||k_street_china||name"
+msgid "Little Asia"
+msgstr ""
+
+msgctxt "100||k_street_nakamichiiriguchi||name"
+msgid "Nakamichi St. Entrance"
+msgstr ""
+
+msgctxt "101||k_street_pinkiriguchi||name"
+msgid "Pink St. Entrance"
+msgstr ""
+
+msgctxt "102||k_street_tenkairiguchi||name"
+msgid "Tenkaichi St. Entrance"
+msgstr ""
+
+msgctxt "103||o_street_001||name"
+msgid "Ryunan Shrine Alley"
+msgstr ""
+
+msgctxt "104||o_street_002||name"
+msgid "Ryunan Shrine Stairway"
+msgstr ""
+
+msgctxt "105||o_street_003||name"
+msgid "Ropeway Station"
+msgstr ""
+
+msgctxt "106||o_street_004||name"
+msgid "Pedestrian Footbridge"
+msgstr ""
+
+msgctxt "107||o_street_005||name"
+msgid "Second Hill"
+msgstr ""
+
+msgctxt "108||o_street_006||name"
+msgid "Hilltop Path"
+msgstr ""
+
+msgctxt "109||o_street_007||name"
+msgid "First Hill"
+msgstr ""
+
+msgctxt "110||o_street_008||name"
+msgid "W National Route 2"
+msgstr ""
+
+msgctxt "111||o_street_009||name"
+msgid "E National Route 2"
+msgstr ""
+
+msgctxt "112||o_street_010||name"
+msgid "N Hana-no-kubo"
+msgstr ""
+
+msgctxt "113||o_street_011||name"
+msgid "Jingai Main St."
+msgstr ""
+
+msgctxt "114||o_street_012||name"
+msgid "Central Shopping District"
+msgstr ""
+
+msgctxt "115||o_street_013||name"
+msgid "Shops Alley"
+msgstr ""
+
+msgctxt "116||o_street_014||name"
+msgid "W Shishido St."
+msgstr ""
+
+msgctxt "117||o_street_015||name"
+msgid "E Shishido St."
+msgstr ""
+
+msgctxt "118||o_street_016||name"
+msgid "Jingai Ferry Dock"
+msgstr ""
+
+msgctxt "119||o_street_017||name"
+msgid "Hana-no-kubo"
+msgstr ""
+
+msgctxt "120||o_street_018||name"
+msgid "Cemetery Lane"
+msgstr ""
+
+msgctxt "123||o_taxi_001||name"
+msgid "E Shishido St."
+msgstr ""
+
+msgctxt "124||o_taxi_002||name"
+msgid "West National Route 2"
+msgstr ""
+
+msgctxt "125||o_taxi_003||name"
+msgid "Ropeway Station"
+msgstr ""
+
+msgctxt "126||o_seaside_ajito_1f||name"
+msgid "Navy Apartments"
+msgstr ""
+
+msgctxt "127||o_seaside_ajito_2f||name"
+msgid "Navy Apartments Terrace"
+msgstr ""
+
+msgctxt "128||o_snack_kiyomi||name"
+msgid "Snack Kiyomi"
+msgstr ""
+
+msgctxt "129||o_hirose_1f||name"
+msgid "Hirose Family Office 1F"
+msgstr ""
+
+msgctxt "130||o_hirose_2f||name"
+msgid "Hirose Family Office 2F"
+msgstr ""
+
+msgctxt "131||k_street_senryomae||name"
+msgid "Senryo Ave. Entrance"
+msgstr ""
+
+msgctxt "132||k_building_mtowerb1||name"
+msgid "Millennium Tower B1"
+msgstr ""
+
+msgctxt "133||k_building_kamurot1f||name"
+msgid "Kamuro Theater 1F"
+msgstr ""
+
+msgctxt "134||k_building_apa1f||name"
+msgid "APA Hotel Theater Square 1F"
+msgstr ""
+
+msgctxt "135||k_building_apa2f||name"
+msgid "APA Hotel Theater Square 2F"
+msgstr ""
+
+msgctxt "136||k_building_haireru_tenka1F||name"
+msgid "Tenkaichi First Building 1F"
+msgstr ""
+
+msgctxt "137||k_building_haireru_tenka2F||name"
+msgid "Tenkaichi First Building 2F"
+msgstr ""
+
+msgctxt "138||k_building_haireru_tenka3F||name"
+msgid "Tenkaichi First Building 3F"
+msgstr ""
+
+msgctxt "139||k_building_haireru_tenka4F||name"
+msgid "Tenkaichi First Building 4F"
+msgstr ""
+
+msgctxt "140||k_building_serena||name"
+msgid "New Serena"
+msgstr ""
+
+msgctxt "141||k_building_haireru_nakamichi1F||name"
+msgid "Nakamichi Commerce Building 1F"
+msgstr ""
+
+msgctxt "142||k_building_haireru_nakamichi2F||name"
+msgid "Nakamichi Commerce Building 2F"
+msgstr ""
+
+msgctxt "143||k_building_haireru_nakamichi3F||name"
+msgid "Nakamichi Commerce Building 3F"
+msgstr ""
+
+msgctxt "144||k_building_haireru_nakamichi4F||name"
+msgid "Nakamichi Commerce Building 4F"
+msgstr ""
+
+msgctxt "145||k_building_haireru_senryo1F||name"
+msgid "Senryo Building 1F"
+msgstr ""
+
+msgctxt "146||k_building_haireru_senryo2F||name"
+msgid "Senryo Building 2F"
+msgstr ""
+
+msgctxt "147||k_building_haireru_senryo3F||name"
+msgid "Senryo Building 3F"
+msgstr ""
+
+msgctxt "148||k_building_haireru_senryo4F||name"
+msgid "Senryo Building 4F"
+msgstr ""
+
+msgctxt "149||k_building_haireru_senryo5F||name"
+msgid "Senryo Building Roof"
+msgstr ""
+
+msgctxt "150||o_arcade_roof_a_rf_roof01||name"
+msgid "Arcade Roof"
+msgstr ""
+
+msgctxt "151||o_snack_moreno_1f||name"
+msgid "Moreno"
+msgstr ""
+
+msgctxt "152||k_alps_u||name"
+msgid "Café Alps Alley"
+msgstr ""
+
+msgctxt "153||k_poppo_n||name"
+msgid "Poppo (Nakamichi Alley)"
+msgstr ""
+
+msgctxt "154||k_building_mtower1f||name"
+msgid "Millennium Tower 1F"
+msgstr ""
+
+msgctxt "155||k_building_kamurot3f||name"
+msgid "Kamuro Theater Rooftop Garden"
+msgstr ""
+
+msgctxt "156||k_building_kamurotb1||name"
+msgid "Kamuro Theater B1"
+msgstr ""
+
+msgctxt "157||k_building_apa6f||name"
+msgid "APA Hotel Theater Square 6F"
+msgstr ""
+
+msgctxt "158||k_building_haireru_tenka5F||name"
+msgid "Tenkaichi First Building Roof"
+msgstr ""
+
+msgctxt "159||k_building_haireru_taihei2F||name"
+msgid "Taihei Commerce Building 2F"
+msgstr ""
+
+msgctxt "160||k_gesuido||name"
+msgid "Sewers"
+msgstr ""
+
+msgctxt "161||k_asia_edoshop1f||name"
+msgid "Saio Triad Headquarters 1F"
+msgstr ""
+
+msgctxt "162||k_asia_edoshop2f||name"
+msgid "Saio Triad Headquarters 2F"
+msgstr ""
+
+msgctxt "163||k_asia_edoshop3f||name"
+msgid "Saio Triad Headquarters 3F"
+msgstr ""
+
+msgctxt "164||k_asia_edoshop4f||name"
+msgid "Saio Triad Headquarters 4F"
+msgstr ""
+
+msgctxt "165||k_asia_edoshop5f||name"
+msgid "Lo's Room, Saio Triad Headquarters"
+msgstr ""
+
+msgctxt "166||k_asia_souko1f||name"
+msgid "Culinary Storehouse 1F"
+msgstr ""
+
+msgctxt "167||k_asia_souko2f||name"
+msgid "Culinary Storehouse 2F"
+msgstr ""
+
+msgctxt "168||k_asia_souko3f||name"
+msgid "Culinary Storehouse 3F"
+msgstr ""
+
+msgctxt "169||k_asia_beijing3f||name"
+msgid "Beijing Garden 3F"
+msgstr ""
+
+msgctxt "170||k_asia_beijing4f||name"
+msgid "Beijing Garden 4F"
+msgstr ""
+
+msgctxt "171||k_asia_beijing5f||name"
+msgid "Beijing Garden Roof"
+msgstr ""
+
+msgctxt "172||k_meb||name"
+msgid "MEB"
+msgstr ""
+
+msgctxt "173||k_annaijo||name"
+msgid "Nightlife Guide"
+msgstr ""
+
+msgctxt "174||k_jungleboy||name"
+msgid "Jungle Boy Manga Café Roof"
+msgstr ""
+
+msgctxt "175||k_tenkaichi5f||name"
+msgid "Tenkaichi Commerce Building Roof"
+msgstr ""
+
+msgctxt "176||o_ryonanshine||name"
+msgid "Ryunan Shrine"
+msgstr ""
+
+msgctxt "177||o_bochi||name"
+msgid "Cemetery"
+msgstr ""
+
+msgctxt "178||o_ropeway||name"
+msgid "Mt. Senkoji Ropeway Station"
+msgstr ""
+
+msgctxt "179||o_ropeway01||name"
+msgid "Mt. Senkoji Observation Deck"
+msgstr ""
+
+msgctxt "180||k_touto||name"
+msgid "Touto Hospital Pediatric Ward"
+msgstr ""
+
+msgctxt "181||k_tougen1f||name"
+msgid "Shangri-La 1F"
+msgstr ""
+
+msgctxt "182||k_tougen2f||name"
+msgid "Shangri-La 2F"
+msgstr ""
+
+msgctxt "183||k_tougen3f||name"
+msgid "Shangri-La 3F"
+msgstr ""
+
+msgctxt "184||k_tougen4f||name"
+msgid "Shangri-La 4F"
+msgstr ""
+
+msgctxt "185||k_stardust||name"
+msgid "Stardust"
+msgstr ""
+
+msgctxt "186||k_mtower001||name"
+msgid "Millennium Tower"
+msgstr ""
+
+msgctxt "187||k_mtowervip||name"
+msgid "Millennium Tower VIP Room"
+msgstr ""
+
+msgctxt "188||o_jimu||name"
+msgid "Facility Interior"
+msgstr ""
+
+msgctxt "189||o_ground||name"
+msgid "Baseball Field"
+msgstr ""
+
+msgctxt "190||o_senkouji||name"
+msgid "Senkoji Temple"
+msgstr ""
+
+msgctxt "191||k_amon||name"
+msgid "???"
+msgstr ""
+
+msgctxt "192||o_asagao||name"
+msgid "Morning Glory"
+msgstr ""
+
+msgctxt "193||o_iwami||name"
+msgid "Iwami Shipyard"
+msgstr ""
+
+msgctxt "194||o_dockyard||name"
+msgid "Iwami Shipyard Dock"
+msgstr ""
+
+msgctxt "195||h_island||name"
+msgid "Floating Island"
+msgstr ""
+
+msgctxt "196||k_dai3||name"
+msgid "Public Park Three"
+msgstr ""
+
+msgctxt "197||k_jidou||name"
+msgid "Children's Park"
+msgstr ""
+
+msgctxt "198||k_shichifukup||name"
+msgid "Shichifuku Parking Lot"
+msgstr ""
+
+msgctxt "199||k_mtowermae||name"
+msgid "Millennium Tower"
+msgstr ""
+
+msgctxt "200||k_building_serena3F||name"
+msgid "New Serena Roof"
+msgstr ""
+

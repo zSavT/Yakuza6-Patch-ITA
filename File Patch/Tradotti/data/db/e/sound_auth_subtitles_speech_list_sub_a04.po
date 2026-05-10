@@ -1,0 +1,765 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm? What just whizzed past me...?"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "W-Wait for meee!"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Hey, is everything okay?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "I-If I don't stop Soji,\r\nI... I'm ruined..."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Slow down there.\r\nYou're not making much sense."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "S-Sorry, you're right."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Feeling a bit better now?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Yeah, sitting down really helped.\r\nEven so, Soji's still at large...!"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "That's what you were saying earlier.\r\nWho is this Soji you keep talking about?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Soji is the name of my cleaning robot."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "A cleaning... robot?"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Yeah, they've been incredibly popular lately.\r\nThey'll clean your room, all on their own!"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "But mine escaped from my apartment...\r\nI'm out here chasing after him now."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "A cleaning robot? Listen..."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "This sounds like it's\r\nstraight out of a manga!"
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Now then, why are you lying to me?"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "You can't fool me that easily. Even a guy like\r\nme knows those kinds of things don't exist."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "W-Wait, wait, wait!\r\nThey really do."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "He zoomed by you earlier.\r\nYou saw him, didn't you?"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "You mean that round thing?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Exactly!\r\nThat's what vacuums look like nowadays."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "What? Seriously!?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Oh, haven't you turned on a TV lately?\r\nThey're always showing ads for them."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "I had no idea..."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "When I think of robots, I imagine something\r\na bit more human-shaped and metallic."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Oh, so something more like RoboCop."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Are we really living in a time where\r\nrobots do our cleaning for us?"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Yeah! The trend came totally\r\nout of nowhere, but it's really caught on."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "I see. Society has sure advanced quickly..."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Maybe the robot uprising they keep writing\r\nmanga about isn't so far off after all."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Um, I think you might have the wrong idea."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Think back to that little round thing that passed\r\nin front of you earlier. You remember him, right?"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "That's my cleaning robot."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Seriously? I was expecting something\r\na bit more human-shaped and metallic."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Oh, no.\r\nSoji's not like RoboCop or anything."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Right..."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Well, I'm off. I hope you manage\r\nto find this Soji of yours."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "H-Hold on a minute, please!"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "What is it?\r\nSorry, but I don't have time for this."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Oh... You don't believe me, do you?\r\nPlease, I'm telling you the truth."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Who would believe that crap? You claim you're\r\nchasing a runaway robot that vacuums your room."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "You might be going through a rough patch right now,\r\nbut you're going to have to face reality eventually."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Wait, but this IS reality!\r\nI think you might have the wrong idea."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Think back to that little round thing that passed\r\nin front of you earlier. You remember him, right?"
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Y-Yeah. Now that you mention it,\r\nI remember that pretty clearly."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Th-That was Soji!\r\nThat's what vacuums look like nowadays."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Seriously? I was expecting something\r\na bit more human-shaped and metallic."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Oh, no.\r\nSoji's not like RoboCop or anything."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Either way, vacuum tech is really cutting edge.\r\nI can't believe they actually clean your room."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Cutting edge is right. Once he's done cleaning,\r\nhe even plugs himself into a charging station."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "So this cleaning robot... Soji.\r\nWhy exactly did it run away from you?"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Isn't it designed to clean your room?"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "I'm actually not too sure myself."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "I was having him clean my room this morning,\r\nbut he suddenly decided to up and ditch me."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Maybe the sensor broke somehow... I've been extra\r\ncareful since my girlfriend gave him to me, though."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Huh. So it was a present from your girlfriend."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Yeah... She said I'm too messy for her to handle."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "But I always pick up the trash in my room before setting\r\nSoji loose. Don't want him eating anything nasty!"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "He's precious to me!"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "I guess you're not as shady as I thought."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "It makes sense that it was a gift from your girlfriend.\r\nThat explains why you're so desperate to get it back."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "I mean, that's one of the reasons,\r\nbut there's actually more to the story."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Soji, well... He sucked up my engagement ring\r\nbefore going on this rampage!"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "What...?"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "I was thinking about proposing to my girlfriend.\r\nGot a ring ready six months ago just in case."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "I kept getting cold feet about the proposal, though.\r\nI'd carry the ring with me, but I never actually proposed."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "But today...\r\nToday was going to be the day!"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "While I was rehearsing this morning, I got so nervous\r\nthat my hands started shaking and I dropped the ring."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Then I guess since Soji's sensor was busted,\r\nhe sucked it up and fled to the outside world."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Hard to believe that really happened..."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Right?\r\nBut it did, to me, this morning."
+msgstr ""
+
+msgctxt "74||||4"
+msgid "You've certainly got your problems."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "U-Um..."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "I know we just met and all, so this is\r\na little embarrassing to ask of you..."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "But could you please find Soji for me!?"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Me!?"
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Yeah. Soji's sensor went haywire,\r\nso he's just running all over the city now."
+msgstr ""
+
+msgctxt "80||||4"
+msgid "With how quick his motors are,\r\nthere's no way I could ever catch up."
+msgstr ""
+
+msgctxt "81||||4"
+msgid "And if I don't have the ring,\r\nI can't propose..."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Sorry, but I'm a little too busy right now."
+msgstr ""
+
+msgctxt "83||||4"
+msgid "R-Right. Okay, then.\r\nMy bad for asking such a big favor of you."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "I can't believe you're getting jerked around by a vacuum.\r\nMaybe humanity should lay off the fancy technology."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "I know, I know.\r\nI'm sorry for the trouble."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Oh well. All I have to do is catch\r\nthat little round thing, right?"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Wait, you'll find him for me!?\r\nThank you so much!"
+msgstr ""
+
+msgctxt "88||||4"
+msgid "This is a little late, but my name's Fujita."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "I'm Kiryu.\r\nI'll let you know once I find it."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Okay.\r\nThank you again for this."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "There's no way I can catch Soji by myself...\r\nDo you think you'd be able to help me out?"
+msgstr ""
+
+msgctxt "92||||4"
+msgid "Kiryu-san! I hate to nag you about this,\r\nbut please catch Soji for me."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Right. I'll have him back soon."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "Dirt detected. Dirt detected."
+msgstr ""
+
+msgctxt "95||||4"
+msgid "Hey, who the hell's this thing callin' dirt?"
+msgstr ""
+
+msgctxt "96||||4"
+msgid "Better not be talkin' about us."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Dirt detected. Dirt detected."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Is this little asshole talking shit on us!?"
+msgstr ""
+
+msgctxt "99||||4"
+msgid "I've had a real crap day so far, but this's perfect.\r\nI'm gonna cheer myself up by wreckin' it!"
+msgstr ""
+
+msgctxt "100||||4"
+msgid "Hey."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "Please wait!"
+msgstr ""
+
+msgctxt "102||||4"
+msgid "Fujita..."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "The hell do you think you are?"
+msgstr ""
+
+msgctxt "104||||4"
+msgid "That's my robot.\r\nMay I please have it back?"
+msgstr ""
+
+msgctxt "105||||4"
+msgid "Huh?\r\nYou got some kinda proof it's yours?"
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Look on the bottom! Soji's serial number\r\nis QF026848614554. Just look, please!"
+msgstr ""
+
+msgctxt "107||||4"
+msgid "How'd you even remember that...?"
+msgstr ""
+
+msgctxt "108||||4"
+msgid "That's how important it is!"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "Shut your face! Even if you got it right,\r\nthat wouldn't prove a goddamn thing!"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Huh...? No!"
+msgstr ""
+
+msgctxt "111||||4"
+msgid "Take this!"
+msgstr ""
+
+msgctxt "113||||4"
+msgid "Man, this little shit's even weaker than he looks.\r\nProbly 'cause he gets machines to do everything for him."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Please... Please give it back!"
+msgstr ""
+
+msgctxt "115||||4"
+msgid "Ow!"
+msgstr ""
+
+msgctxt "116||||4"
+msgid "Dirt detected. Dirt detected."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "Soji?"
+msgstr ""
+
+msgctxt "118||||4"
+msgid "Hm. Your little friend is right, Fujita."
+msgstr ""
+
+msgctxt "119||||4"
+msgid "Kiryu-san?"
+msgstr ""
+
+msgctxt "120||||4"
+msgid "I can sense it, too. These three\r\nare clearly a bunch of dirtbags."
+msgstr ""
+
+msgctxt "121||||4"
+msgid "The hell're you sayin', grampa!?"
+msgstr ""
+
+msgctxt "122||||4"
+msgid "Stand up, Fujita.\r\nYou're joining me."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "124||||4"
+msgid "If you think Soji's that important, take it back.\r\nProve how much it means to you."
+msgstr ""
+
+msgctxt "125||||4"
+msgid "...Okay!"
+msgstr ""
+
+msgctxt "126||||4"
+msgid "You two ain't gonna talk so big\r\nonce we're through with you!"
+msgstr ""
+
+msgctxt "127||||4"
+msgid "That's our cue.\r\nLet's go!"
+msgstr ""
+
+msgctxt "129||||4"
+msgid "You did well for yourself, Fujita."
+msgstr ""
+
+msgctxt "130||||4"
+msgid "Now go get your ring back.\r\nYou'll be able to propose with pride after this."
+msgstr ""
+
+msgctxt "131||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "132||||4"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "133||||4"
+msgid "I'm just some schmuck who got his engagement ring sucked\r\nup by a vacuum cleaner. What right do I have to propose?"
+msgstr ""
+
+msgctxt "134||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "135||||4"
+msgid "I was so set on proposing to my girlfriend today,\r\nbut I'm having second thoughts after all this."
+msgstr ""
+
+msgctxt "136||||4"
+msgid "In the end I couldn't even solve my own problem.\r\nI'm pretty pitiful, huh?"
+msgstr ""
+
+msgctxt "137||||4"
+msgid "My battery is running low.\r\nMy battery is running low."
+msgstr ""
+
+msgctxt "138||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "139||||4"
+msgid "Huh? Toshihiko-kun?"
+msgstr ""
+
+msgctxt "140||||4"
+msgid "O-Oh, Kotomi-san!\r\nWhat are you doing here!?"
+msgstr ""
+
+msgctxt "141||||4"
+msgid "I was walking by when I heard the cleaning robot\r\nI gave you. More importantly, you're hurt!"
+msgstr ""
+
+msgctxt "142||||4"
+msgid "Oh, that's..."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "And this is?"
+msgstr ""
+
+msgctxt "144||||4"
+msgid "Her name is Kotomi-san.\r\nShe's my girlfriend."
+msgstr ""
+
+msgctxt "145||||4"
+msgid "So this is the girl..."
+msgstr ""
+
+msgctxt "146||||4"
+msgid "And who's this old man?\r\nA friend of yours?"
+msgstr ""
+
+msgctxt "147||||4"
+msgid "Uh, yeah.\r\nThis is Kiryu-san."
+msgstr ""
+
+msgctxt "148||||4"
+msgid "It's nice to meet you.\r\nI'm Kotomi."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "Anyway, is that really Soji-chan?"
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Y-Yeah.\r\nHe's been acting a bit funny lately..."
+msgstr ""
+
+msgctxt "151||||4"
+msgid "Is it running off again!?"
+msgstr ""
+
+msgctxt "152||||4"
+msgid "Huh? What's wrong, Soji-chan?"
+msgstr ""
+
+msgctxt "153||||4"
+msgid "What could this be?"
+msgstr ""
+
+msgctxt "154||||4"
+msgid "A ring...?\r\nWhy would Soji-chan have something like this?"
+msgstr ""
+
+msgctxt "155||||4"
+msgid "Oh, uh, that's..."
+msgstr ""
+
+msgctxt "156||||4"
+msgid "Toshihiko-kun?"
+msgstr ""
+
+msgctxt "157||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "158||||4"
+msgid "Fujita. To put it lightly,\r\nyou can be a real fool sometimes."
+msgstr ""
+
+msgctxt "159||||4"
+msgid "First you got your ring stolen by a vacuum cleaner."
+msgstr ""
+
+msgctxt "160||||4"
+msgid "Then you ran all around the city chasing it.\r\nMost people would throw in the towel there."
+msgstr ""
+
+msgctxt "162||||4"
+msgid "But Fujita... you're a strong guy. You risked\r\nyour life to protect what's important to you."
+msgstr ""
+
+msgctxt "163||||4"
+msgid "I saw that strength with my own two eyes.\r\nBelieve in yourself."
+msgstr ""
+
+msgctxt "164||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "165||||4"
+msgid "Well?"
+msgstr ""
+
+msgctxt "166||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "167||||4"
+msgid "Kotomi-san!"
+msgstr ""
+
+msgctxt "168||||4"
+msgid "Y-Yes!"
+msgstr ""
+
+msgctxt "169||||4"
+msgid "That ring is something I've been planning\r\nto give you for the past six months now."
+msgstr ""
+
+msgctxt "170||||4"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "171||||4"
+msgid "It's kind of a long story..."
+msgstr ""
+
+msgctxt "172||||4"
+msgid "But Soji sucked that ring up and\r\nfled out into the open air of the city."
+msgstr ""
+
+msgctxt "173||||4"
+msgid "Then somehow, he found his way\r\nto you and dropped it right at your feet."
+msgstr ""
+
+msgctxt "174||||4"
+msgid "I know, it's not the most believable story."
+msgstr ""
+
+msgctxt "175||||4"
+msgid "But, listen.\r\nThere's something I really want to say to you."
+msgstr ""
+
+msgctxt "176||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "177||||4"
+msgid "Kotomi-san, I love you!\r\nPlease... Please marry me!"
+msgstr ""
+
+msgctxt "178||||4"
+msgid "Toshihiko-kun..."
+msgstr ""
+
+msgctxt "179||||4"
+msgid "Fujita..."
+msgstr ""
+
+msgctxt "180||||4"
+msgid "It's about time you asked."
+msgstr ""
+
+msgctxt "181||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "182||||4"
+msgid "Well, I've been waiting for this.\r\nI knew you'd propose to me someday."
+msgstr ""
+
+msgctxt "183||||4"
+msgid "I didn't realize you've been planning\r\nit for the past six months, though."
+msgstr ""
+
+msgctxt "184||||4"
+msgid "Kotomi-san... I'm sorry."
+msgstr ""
+
+msgctxt "185||||4"
+msgid "Maybe Soji-chan brought me that ring because\r\nit knew just how I felt about you. Amazing."
+msgstr ""
+
+msgctxt "186||||4"
+msgid "So that means..."
+msgstr ""
+
+msgctxt "187||||4"
+msgid "I can't wait to spend our lives together,\r\nToshihiko-kun!"
+msgstr ""
+
+msgctxt "188||||4"
+msgid "...OoOoooOoOoh yeahhhh!!!"
+msgstr ""
+
+msgctxt "189||||4"
+msgid "So that broken vacuum turned out\r\nto be a modern-day cupid..."
+msgstr ""
+
+msgctxt "190||||4"
+msgid "Task completed!"
+msgstr ""
+
+msgctxt "191||||4"
+msgid "Hmph.\r\nMaybe technology isn't so bad after all."
+msgstr ""
+

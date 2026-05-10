@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||move_to_dining_part||message"
+msgid "Receive Meal Plan"
+msgstr ""
+
+msgctxt "3||sec||message"
+msgid "seconds"
+msgstr ""
+
+msgctxt "4||eat_between_meal||message"
+msgid "P.S. Avoid snacking as much as possible!"
+msgstr ""
+
+msgctxt "5||rizap_challenge||message"
+msgid "RIZAP Challenge Session #"
+msgstr ""
+
+msgctxt "6||etc||message"
+msgid "\r\nEtc."
+msgstr ""
+

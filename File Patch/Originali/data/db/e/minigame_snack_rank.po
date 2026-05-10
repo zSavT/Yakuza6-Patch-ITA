@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||rank_f||rank_title"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "2||rank_e||rank_title"
+msgid "Occasional Customer"
+msgstr ""
+
+msgctxt "3||rank_d||rank_title"
+msgid "Frequent Customer"
+msgstr ""
+
+msgctxt "4||rank_c||rank_title"
+msgid "Regular Customer"
+msgstr ""
+
+msgctxt "5||rank_b||rank_title"
+msgid "Beloved Customer"
+msgstr ""
+
+msgctxt "6||rank_a||rank_title"
+msgid "King of New Gaudi"
+msgstr ""
+
+msgctxt "1||rank_f||mamas_comment"
+msgid "Nobody really knows you right now.\r\nStart off by making a friend or two."
+msgstr ""
+
+msgctxt "2||rank_e||mamas_comment"
+msgid "You're still not too important here.\r\nShow off your darts and karaoke skills!"
+msgstr ""
+
+msgctxt "3||rank_d||mamas_comment"
+msgid "Everyone at least knows who you are now.\r\nTry and get a little closer with our less outgoing patrons!"
+msgstr ""
+
+msgctxt "4||rank_c||mamas_comment"
+msgid "Looks like you made friends with everyone!\r\nKeep up that socializing, Kiryu-san."
+msgstr ""
+
+msgctxt "5||rank_b||mamas_comment"
+msgid "You're really popular around here.\r\nEveryone loves when you stop by, Kiryu-san!"
+msgstr ""
+
+msgctxt "6||rank_a||mamas_comment"
+msgid "You're like some kind of bargoing legend!\r\nWell, at least in this bar."
+msgstr ""
+

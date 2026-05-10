@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||paper_fortune_s||open_msg"
+msgid "A supreme blessing!?"
+msgstr ""
+
+msgctxt "2||paper_fortune_a||open_msg"
+msgid "A great blessing!"
+msgstr ""
+
+msgctxt "3||paper_fortune_b||open_msg"
+msgid "A good blessing!"
+msgstr ""
+
+msgctxt "4||paper_fortune_c||open_msg"
+msgid "A regular blessing."
+msgstr ""
+
+msgctxt "5||paper_fortune_d||open_msg"
+msgid "A poor blessing..."
+msgstr ""
+
+msgctxt "6||paper_fortune_e||open_msg"
+msgid "A curse..."
+msgstr ""
+
+msgctxt "1||paper_fortune_s||info_exp_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next 9 battles."
+msgstr ""
+
+msgctxt "2||paper_fortune_a||info_exp_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next 6 battles."
+msgstr ""
+
+msgctxt "3||paper_fortune_b||info_exp_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next 3 battles."
+msgstr ""
+
+msgctxt "4||paper_fortune_c||info_exp_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next 2 battles."
+msgstr ""
+
+msgctxt "5||paper_fortune_d||info_exp_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next battle."
+msgstr ""
+
+msgctxt "6||paper_fortune_e||info_exp_msg"
+msgid "All current boosts have disappeared..."
+msgstr ""
+
+msgctxt "1||paper_fortune_s||info_atk_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next 9 attacks."
+msgstr ""
+
+msgctxt "2||paper_fortune_a||info_atk_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next 6 attacks."
+msgstr ""
+
+msgctxt "3||paper_fortune_b||info_atk_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next 3 attacks."
+msgstr ""
+
+msgctxt "4||paper_fortune_c||info_atk_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next 2 attacks."
+msgstr ""
+
+msgctxt "5||paper_fortune_d||info_atk_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next attack."
+msgstr ""
+
+msgctxt "6||paper_fortune_e||info_atk_msg"
+msgid "All current boosts have disappeared..."
+msgstr ""
+
+msgctxt "1||paper_fortune_s||info_mny_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next 9 battles."
+msgstr ""
+
+msgctxt "2||paper_fortune_a||info_mny_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next 6 battles."
+msgstr ""
+
+msgctxt "3||paper_fortune_b||info_mny_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next 3 battles."
+msgstr ""
+
+msgctxt "4||paper_fortune_c||info_mny_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next 2 battles."
+msgstr ""
+
+msgctxt "5||paper_fortune_d||info_mny_msg"
+msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next battle."
+msgstr ""
+
+msgctxt "6||paper_fortune_e||info_mny_msg"
+msgid "All current boosts have disappeared..."
+msgstr ""
+
+msgctxt "1||paper_fortune_s||effect_msg"
+msgid "I'm on top of the world...!"
+msgstr ""
+
+msgctxt "2||paper_fortune_a||effect_msg"
+msgid "Things are looking up for me."
+msgstr ""
+
+msgctxt "3||paper_fortune_b||effect_msg"
+msgid "Things are looking up for me."
+msgstr ""
+
+msgctxt "4||paper_fortune_c||effect_msg"
+msgid "Hm, this isn't so bad."
+msgstr ""
+
+msgctxt "5||paper_fortune_d||effect_msg"
+msgid "Hm, this isn't so bad."
+msgstr ""
+
+msgctxt "6||paper_fortune_e||effect_msg"
+msgid "I'm not feeling good about this..."
+msgstr ""
+

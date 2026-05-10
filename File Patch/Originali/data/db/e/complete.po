@@ -1,0 +1,2289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "31||sub_a_adv01||name"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "32||talk_to_person1||name"
+msgid "Talk to people 10 times"
+msgstr ""
+
+msgctxt "33||talk_to_person2||name"
+msgid "Talk to people 30 times"
+msgstr ""
+
+msgctxt "34||talk_to_person3||name"
+msgid "Talk to people 50 times"
+msgstr ""
+
+msgctxt "35||eat_food1||name"
+msgid "Eat 5 food items"
+msgstr ""
+
+msgctxt "36||eat_food2||name"
+msgid "Eat 15 food items"
+msgstr ""
+
+msgctxt "37||eat_food3||name"
+msgid "Eat 30 food items"
+msgstr ""
+
+msgctxt "38||use_medicine1||name"
+msgid "Use 5 medicine items"
+msgstr ""
+
+msgctxt "39||use_medicine2||name"
+msgid "Use 15 medicine items"
+msgstr ""
+
+msgctxt "40||use_medicine3||name"
+msgid "Use 30 medicine items"
+msgstr ""
+
+msgctxt "41||use_taxi1||name"
+msgid "Travel by taxi 5 times"
+msgstr ""
+
+msgctxt "42||use_taxi2||name"
+msgid "Travel by taxi 10 times"
+msgstr ""
+
+msgctxt "43||use_taxi3||name"
+msgid "Travel by taxi 20 times"
+msgstr ""
+
+msgctxt "44||walk1||name"
+msgid "Travel 20 km on foot"
+msgstr ""
+
+msgctxt "45||walk2||name"
+msgid "Travel 50 km on foot"
+msgstr ""
+
+msgctxt "46||walk3||name"
+msgid "Travel 100 km on foot"
+msgstr ""
+
+msgctxt "47||dash1||name"
+msgid "Travel 2 km by dashing"
+msgstr ""
+
+msgctxt "48||dash2||name"
+msgid "Travel 5 km by dashing"
+msgstr ""
+
+msgctxt "49||dash3||name"
+msgid "Travel 10 km by dashing"
+msgstr ""
+
+msgctxt "50||make_money1||name"
+msgid "Earn a total of \\200,000"
+msgstr ""
+
+msgctxt "51||make_money2||name"
+msgid "Earn a total of \\500,000"
+msgstr ""
+
+msgctxt "52||make_money3||name"
+msgid "Earn a total of \\1,000,000"
+msgstr ""
+
+msgctxt "53||make_money4||name"
+msgid "Earn a total of \\3,000,000"
+msgstr ""
+
+msgctxt "54||make_money5||name"
+msgid "Earn a total of \\5,000,000"
+msgstr ""
+
+msgctxt "62||take_picture1||name"
+msgid "Take 10 photos"
+msgstr ""
+
+msgctxt "63||take_picture2||name"
+msgid "Take 30 photos"
+msgstr ""
+
+msgctxt "67||drink1||name"
+msgid "Drink from vending machine 10 times"
+msgstr ""
+
+msgctxt "68||drink2||name"
+msgid "Drink from vending machine 30 times"
+msgstr ""
+
+msgctxt "69||drink_make_hit||name"
+msgid "Drink all Mystery Drinks from the vending machine"
+msgstr ""
+
+msgctxt "73||open_safe1||name"
+msgid "Open 3 safes using keys"
+msgstr ""
+
+msgctxt "74||open_safe2||name"
+msgid "Open 10 safes using keys"
+msgstr ""
+
+msgctxt "75||eat_food_at_restaurant1||name"
+msgid "Dine at eateries 5 times"
+msgstr ""
+
+msgctxt "76||eat_food_at_restaurant2||name"
+msgid "Dine at eateries 10 times"
+msgstr ""
+
+msgctxt "77||eat_food_at_restaurant3||name"
+msgid "Dine at eateries 20 times"
+msgstr ""
+
+msgctxt "78||eat_food_at_restaurant4||name"
+msgid "Dine at eateries 30 times"
+msgstr ""
+
+msgctxt "103||bonus_at_restaurant1||name"
+msgid "Discover 3 types of menu combinations"
+msgstr ""
+
+msgctxt "104||bonus_at_restaurant2||name"
+msgid "Discover 10 types of menu combinations"
+msgstr ""
+
+msgctxt "105||bonus_at_restaurant3||name"
+msgid "Discover all types of menu combinations"
+msgstr ""
+
+msgctxt "110||kill_enemy1||name"
+msgid "Defeat 50 enemies on the street"
+msgstr ""
+
+msgctxt "111||kill_enemy2||name"
+msgid "Defeat 100 enemies on the street"
+msgstr ""
+
+msgctxt "112||kill_enemy3||name"
+msgid "Defeat 150 enemies on the street"
+msgstr ""
+
+msgctxt "113||kill_enemy4||name"
+msgid "Defeat 200 enemies on the street"
+msgstr ""
+
+msgctxt "114||kill_enemy_by_heat_mode1||name"
+msgid "Defeat 5 people in Extreme Heat Mode"
+msgstr ""
+
+msgctxt "115||kill_enemy_by_heat_mode2||name"
+msgid "Defeat 20 people in Extreme Heat Mode"
+msgstr ""
+
+msgctxt "116||kill_enemy_by_heat_mode3||name"
+msgid "Defeat 50 people in Extreme Heat Mode"
+msgstr ""
+
+msgctxt "117||break_object1||name"
+msgid "Destroy 10 objects during battle"
+msgstr ""
+
+msgctxt "118||break_object2||name"
+msgid "Destroy 30 objects during battle"
+msgstr ""
+
+msgctxt "119||break_object3||name"
+msgid "Destroy 50 objects during battle"
+msgstr ""
+
+msgctxt "120||kill_enemy_by_weapon1||name"
+msgid "Defeat 10 enemies using a weapon"
+msgstr ""
+
+msgctxt "121||kill_enemy_by_weapon2||name"
+msgid "Defeat 30 enemies using a weapon"
+msgstr ""
+
+msgctxt "122||kill_enemy_by_weapon3||name"
+msgid "Defeat 50 enemies using a weapon"
+msgstr ""
+
+msgctxt "133||use_hact1||name"
+msgid "Use Heat Actions 10 times"
+msgstr ""
+
+msgctxt "134||use_hact2||name"
+msgid "Use Heat Actions 30 times"
+msgstr ""
+
+msgctxt "135||use_hact3||name"
+msgid "Use Heat Actions 50 times"
+msgstr ""
+
+msgctxt "144||get_accessory1||name"
+msgid "Acquire 10 different gear items"
+msgstr ""
+
+msgctxt "145||get_accessory2||name"
+msgid "Acquire 20 different gear items"
+msgstr ""
+
+msgctxt "146||get_accessory3||name"
+msgid "Acquire 30 different gear items"
+msgstr ""
+
+msgctxt "177||clan_get_member1||name"
+msgid "Scout 1 leader"
+msgstr ""
+
+msgctxt "178||clan_get_member2||name"
+msgid "Scout 5 leaders"
+msgstr ""
+
+msgctxt "179||clan_get_member3||name"
+msgid "Scout 8 leaders"
+msgstr ""
+
+msgctxt "180||clan_get_member4||name"
+msgid "Scout 10 leaders"
+msgstr ""
+
+msgctxt "182||clan_win1||name"
+msgid "Win 3 Clan Battles"
+msgstr ""
+
+msgctxt "183||clan_win2||name"
+msgid "Win 10 Clan Battles"
+msgstr ""
+
+msgctxt "184||clan_win3||name"
+msgid "Win 15 Clan Battles"
+msgstr ""
+
+msgctxt "185||clan_win4||name"
+msgid "Win 20 Clan Battles"
+msgstr ""
+
+msgctxt "186||clan_win5||name"
+msgid "Win 30 Clan Battles"
+msgstr ""
+
+msgctxt "187||clan_win6||name"
+msgid "Win 50 Clan Battles"
+msgstr ""
+
+msgctxt "188||clan_kill_enemy1||name"
+msgid "Defeat 10 enemies in Clan Battles"
+msgstr ""
+
+msgctxt "189||clan_kill_enemy2||name"
+msgid "Defeat 50 enemies in Clan Battles"
+msgstr ""
+
+msgctxt "190||clan_kill_enemy3||name"
+msgid "Defeat 100 enemies in Clan Battles"
+msgstr ""
+
+msgctxt "191||clan_kill_enemy4||name"
+msgid "Defeat 300 enemies in Clan Battles"
+msgstr ""
+
+msgctxt "192||clan_kill_enemy5||name"
+msgid "Defeat 500 enemies in Clan Battles"
+msgstr ""
+
+msgctxt "193||clan_kill_enemy6||name"
+msgid "Defeat 700 enemies in Clan Battles"
+msgstr ""
+
+msgctxt "194||clan_clear_mission1||name"
+msgid "Complete 10 Clan Missions"
+msgstr ""
+
+msgctxt "195||clan_clear_mission2||name"
+msgid "Complete 20 Clan Missions"
+msgstr ""
+
+msgctxt "196||clan_clear_mission3||name"
+msgid "Complete all Clan Missions"
+msgstr ""
+
+msgctxt "197||sub_a_adv02||name"
+msgid "Hey, It's Me!"
+msgstr ""
+
+msgctxt "198||sub_a_adv03||name"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "199||sub_a_adv04||name"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "200||sub_a_adv05||name"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "201||sub_a_adv06||name"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "202||sub_a_adv07||name"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "203||sub_a_adv08||name"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "204||sub_a_adv09||name"
+msgid "A Rivalry Reborn"
+msgstr ""
+
+msgctxt "206||sub_a_adv11||name"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "207||sub_a_adv12||name"
+msgid "A Favor for an Old Friend"
+msgstr ""
+
+msgctxt "208||playspot_play1||name"
+msgid "Entertain yourself 5 times"
+msgstr ""
+
+msgctxt "209||playspot_play2||name"
+msgid "Entertain yourself 10 times"
+msgstr ""
+
+msgctxt "210||playspot_play3||name"
+msgid "Entertain yourself 20 times"
+msgstr ""
+
+msgctxt "211||playspot_play4||name"
+msgid "Entertain yourself 30 times"
+msgstr ""
+
+msgctxt "212||karaoke_high_score1||name"
+msgid "Get a score of over 90 at karaoke"
+msgstr ""
+
+msgctxt "213||karaoke_high_score2||name"
+msgid "Get a score of over 90 for 3 songs at karaoke"
+msgstr ""
+
+msgctxt "214||karaoke_high_score3||name"
+msgid "Get a score of over 90 for 5 songs at karaoke"
+msgstr ""
+
+msgctxt "218||sumoguri_get_fish1||name"
+msgid "Catch a total of 10 fish in spearfishing"
+msgstr ""
+
+msgctxt "219||sumoguri_get_fish2||name"
+msgid "Catch a total of 30 fish in spearfishing"
+msgstr ""
+
+msgctxt "220||sumoguri_get_fish3||name"
+msgid "Catch a total of 50 fish in spearfishing"
+msgstr ""
+
+msgctxt "239||baseball_total_win1||name"
+msgid "Win a total of 10 victories with the Warriors"
+msgstr ""
+
+msgctxt "240||baseball_total_win2||name"
+msgid "Win a total of 20 victories with the Warriors"
+msgstr ""
+
+msgctxt "241||baseball_total_win3||name"
+msgid "Win a total of 30 victories with the Warriors"
+msgstr ""
+
+msgctxt "242||baseball_make_pitcher_10_win||name"
+msgid "Earn double-digit wins on a pitcher in baseball"
+msgstr ""
+
+msgctxt "243||baseball_make_batter_10_home_run||name"
+msgid "Earn double-digit home runs on a player in baseball"
+msgstr ""
+
+msgctxt "244||baseball_make_batter_100_rbi||name"
+msgid "Earn 100 hits on a player in baseball"
+msgstr ""
+
+msgctxt "247||batting_clear_mission_easy||name"
+msgid "Complete all Beginner Challenge Courses"
+msgstr ""
+
+msgctxt "248||batting_clear_mission_normal||name"
+msgid "Complete all Intermediate Challenge Courses"
+msgstr ""
+
+msgctxt "249||batting_clear_mission_hard||name"
+msgid "Complete all Advanced Challenge Courses"
+msgstr ""
+
+msgctxt "251||batting_hit_home_run_at_home_run_course1||name"
+msgid "Hit a total of 10 home runs in the Home Run Course"
+msgstr ""
+
+msgctxt "252||batting_hit_home_run_at_home_run_course2||name"
+msgid "Hit a total of 30 home runs in the Home Run Course"
+msgstr ""
+
+msgctxt "253||batting_hit_home_run_at_home_run_course3||name"
+msgid "Hit a total of 50 home runs in the Home Run Course"
+msgstr ""
+
+msgctxt "279||temple_osonae1||name"
+msgid "Give an offering to the Jizo statues 5 times"
+msgstr ""
+
+msgctxt "280||temple_osonae2||name"
+msgid "Give an offering to the Jizo statues 10 times"
+msgstr ""
+
+msgctxt "281||temple_osonae3||name"
+msgid "Give an offering to the Jizo statues 20 times"
+msgstr ""
+
+msgctxt "317||sub_b_adv01||name"
+msgid "The Fools Who Dream"
+msgstr ""
+
+msgctxt "318||sub_a_adv13||name"
+msgid "The Legendary Paul Lim"
+msgstr ""
+
+msgctxt "319||sub_a_adv14||name"
+msgid "Showdown with Paul Lim"
+msgstr ""
+
+msgctxt "320||sub_a_adv15||name"
+msgid "Face Your Fears"
+msgstr ""
+
+msgctxt "321||sub_a_adv16||name"
+msgid "A Shady Business"
+msgstr ""
+
+msgctxt "322||sub_a_adv17||name"
+msgid "Listen to Your Heart"
+msgstr ""
+
+msgctxt "323||sub_a_adv18||name"
+msgid "Caught in a Love Triangle"
+msgstr ""
+
+msgctxt "324||sub_a_adv19||name"
+msgid "The Hostess with a Heart of Gold"
+msgstr ""
+
+msgctxt "325||sub_a_adv20||name"
+msgid "Step Up to the Plate"
+msgstr ""
+
+msgctxt "326||sub_a_adv21||name"
+msgid "A Promise Between Men"
+msgstr ""
+
+msgctxt "328||sub_a_adv23||name"
+msgid "Look What the Dragon Dragged In"
+msgstr ""
+
+msgctxt "329||sub_a_adv24||name"
+msgid "The Temptation of Live Chat"
+msgstr ""
+
+msgctxt "330||sub_a_adv25||name"
+msgid "We're Committed to Results"
+msgstr ""
+
+msgctxt "331||sub_a_adv26||name"
+msgid "A Man Rises Up"
+msgstr ""
+
+msgctxt "333||sports_gym_get_challenge_rank_a1||name"
+msgid "Get an A rank or above in the RIZAP Challenge once"
+msgstr ""
+
+msgctxt "334||sports_gym_get_challenge_rank_a2||name"
+msgid "Get an A rank or above in the RIZAP Challenge twice"
+msgstr ""
+
+msgctxt "335||sports_gym_get_challenge_rank_a3||name"
+msgid "Get an A rank or above in the RIZAP Challenge three times"
+msgstr ""
+
+msgctxt "338||darts_hattrick1||name"
+msgid "Perform a hat trick 3 times in darts"
+msgstr ""
+
+msgctxt "339||darts_hattrick2||name"
+msgid "Perform a hat trick 5 times in darts"
+msgstr ""
+
+msgctxt "340||live_chat_input_success1||name"
+msgid "Succeed in live chat 10 times"
+msgstr ""
+
+msgctxt "341||live_chat_input_success2||name"
+msgid "Succeed in live chat 30 times"
+msgstr ""
+
+msgctxt "343||sports_gym_play_menu_all||name"
+msgid "Complete all 12 RIZAP Challenges"
+msgstr ""
+
+msgctxt "344||darts_win1||name"
+msgid "Win a total of 10 matches in darts"
+msgstr ""
+
+msgctxt "345||live_chat_make_two_shot_love_with_girl_all||name"
+msgid "Complete all girls in live chat"
+msgstr ""
+
+msgctxt "346||baseball_add_teammete1||name"
+msgid "Gather 3 baseball team members"
+msgstr ""
+
+msgctxt "347||baseball_add_teammete2||name"
+msgid "Gather all baseball team members"
+msgstr ""
+
+msgctxt "348||take_picture3||name"
+msgid "Take 50 photos"
+msgstr ""
+
+msgctxt "349||drink3||name"
+msgid "Drink from vending machine 50 times"
+msgstr ""
+
+msgctxt "350||caba_make_no1_cast_saki||name"
+msgid "Raise Saki's Rank to Diamond"
+msgstr ""
+
+msgctxt "351||caba_make_no1_cast_riona||name"
+msgid "Raise Riona's Rank to Diamond"
+msgstr ""
+
+msgctxt "352||caba_make_no1_cast_erina||name"
+msgid "Raise Erina's Rank to Diamond"
+msgstr ""
+
+msgctxt "353||caba_make_no1_cast_hikaru||name"
+msgid "Raise Hikaru's Rank to Diamond"
+msgstr ""
+
+msgctxt "354||caba_make_no1_cast_sora||name"
+msgid "Raise Sora's Rank to Diamond"
+msgstr ""
+
+msgctxt "355||caba_get_very_good1||name"
+msgid "Rank high at the Cabaret Club 5 times"
+msgstr ""
+
+msgctxt "356||caba_get_very_good2||name"
+msgid "Rank high at the Cabaret Club 15 times"
+msgstr ""
+
+msgctxt "357||caba_get_very_good3||name"
+msgid "Rank high at the Cabaret Club 30 times"
+msgstr ""
+
+msgctxt "358||snack_make_friend_hatoyama||name"
+msgid "Become friends with Hatakeyama-san"
+msgstr ""
+
+msgctxt "359||snack_make_friend_akiyoshi||name"
+msgid "Become friends with Akiyoshi-san"
+msgstr ""
+
+msgctxt "360||snack_make_friend_gen||name"
+msgid "Become friends with Gen-san"
+msgstr ""
+
+msgctxt "361||snack_make_friend_andou||name"
+msgid "Become friends with Ando-san"
+msgstr ""
+
+msgctxt "362||snack_make_friend_kaneko||name"
+msgid "Become friends with Kaneko-san"
+msgstr ""
+
+msgctxt "363||snack_make_friend_mama||name"
+msgid "Become friends with Mama"
+msgstr ""
+
+msgctxt "364||snack_enter1||name"
+msgid "Visit New Gaudi 5 times"
+msgstr ""
+
+msgctxt "365||snack_enter2||name"
+msgid "Visit New Gaudi 20 times"
+msgstr ""
+
+msgctxt "366||snack_enter3||name"
+msgid "Visit New Gaudi 30 times"
+msgstr ""
+
+msgctxt "367||sumoguri_level_max||name"
+msgid "Reach max level in spearfishing"
+msgstr ""
+
+msgctxt "368||mahjong_ron_or_tsumo1||name"
+msgid "Go out in mahjong with ron or tsumo 5 times"
+msgstr ""
+
+msgctxt "369||mahjong_ron_or_tsumo2||name"
+msgid "Go out in mahjong with ron or tsumo 10 times"
+msgstr ""
+
+msgctxt "370||mahjong_ron_or_tsumo3||name"
+msgid "Go out in mahjong with ron or tsumo 30 times"
+msgstr ""
+
+msgctxt "371||cat_cafe_make_friend_kamuro0||name"
+msgid "Become friendly with Viola (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "372||cat_cafe_make_friend_kamuro1||name"
+msgid "Become friendly with Musashi (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "373||cat_cafe_make_friend_kamuro2||name"
+msgid "Become friendly with Kotetsu (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "374||cat_cafe_make_friend_kamuro3||name"
+msgid "Become friendly with Fuku (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "375||cat_cafe_make_friend_kamuro4||name"
+msgid "Become friendly with Milk (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "376||cat_cafe_make_friend_kamuro5||name"
+msgid "Become friendly with Shizuku (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "377||cat_cafe_make_friend_kamuro6||name"
+msgid "Become friendly with Leon (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "378||cat_cafe_make_friend_kamuro7||name"
+msgid "Become friendly with Maron (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "379||cat_cafe_make_friend_kamuro8||name"
+msgid "Become friendly with Victoria (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "381||cat_cafe_make_friend_onomichi0||name"
+msgid "Become friendly with Tora (cat) in Onomichi"
+msgstr ""
+
+msgctxt "382||cat_cafe_make_friend_onomichi1||name"
+msgid "Become friendly with Nana (cat) in Onomichi"
+msgstr ""
+
+msgctxt "383||cat_cafe_make_friend_onomichi2||name"
+msgid "Become friendly with Tama (cat) in Onomichi"
+msgstr ""
+
+msgctxt "384||cat_cafe_make_friend_onomichi3||name"
+msgid "Become friendly with Hime (cat) in Onomichi"
+msgstr ""
+
+msgctxt "385||cat_cafe_make_friend_onomichi4||name"
+msgid "Become friendly with Mike (cat) in Onomichi"
+msgstr ""
+
+msgctxt "386||cat_cafe_make_friend_onomichi5||name"
+msgid "Become friendly with Rin (cat) in Onomichi"
+msgstr ""
+
+msgctxt "387||cat_cafe_make_friend_onomichi6||name"
+msgid "Become friendly with Kuro (cat) in Onomichi"
+msgstr ""
+
+msgctxt "388||cat_cafe_make_friend_onomichi7||name"
+msgid "Become friendly with Shiro (cat) in Onomichi"
+msgstr ""
+
+msgctxt "389||cat_cafe_make_friend_onomichi8||name"
+msgid "Become friendly with Koko (cat) in Onomichi"
+msgstr ""
+
+msgctxt "390||cat_cafe_make_friend_onomichi9||name"
+msgid "Become friendly with Kai (cat) in Onomichi"
+msgstr ""
+
+msgctxt "391||cat_cafe_give_food1||name"
+msgid "Feed cats 5 times"
+msgstr ""
+
+msgctxt "392||cat_cafe_give_food2||name"
+msgid "Feed cats 10 times"
+msgstr ""
+
+msgctxt "393||cat_cafe_give_food3||name"
+msgid "Feed cats 20 times"
+msgstr ""
+
+msgctxt "394||cat_cafe_give_food4||name"
+msgid "Feed cats 30 times"
+msgstr ""
+
+msgctxt "395||temple_omikuji1||name"
+msgid "Pull 5 fortunes"
+msgstr ""
+
+msgctxt "396||temple_omikuji2||name"
+msgid "Pull 10 fortunes"
+msgstr ""
+
+msgctxt "397||temple_omikuji3||name"
+msgid "Pull 30 fortunes"
+msgstr ""
+
+msgctxt "404||vf5fs_win1||name"
+msgid "Win a total of 10 matches in Virtua Fighter 5 FS"
+msgstr ""
+
+msgctxt "405||vf5fs_win2||name"
+msgid "Win a total of 30 matches in Virtua Fighter 5 FS"
+msgstr ""
+
+msgctxt "406||puyo_win1||name"
+msgid "Win a total of 10 matches in Puyo Puyo"
+msgstr ""
+
+msgctxt "407||puyo_win2||name"
+msgid "Win a total of 20 matches in Puyo Puyo"
+msgstr ""
+
+msgctxt "408||puyo_win3||name"
+msgid "Win a total of 30 matches in Puyo Puyo"
+msgstr ""
+
+msgctxt "409||segaages_space_harrier_high_score||name"
+msgid "Get over 2,000,000 points in Space Harrier"
+msgstr ""
+
+msgctxt "410||segeages_outrun_high_score||name"
+msgid "Get over 3,000,000 points in Out Run"
+msgstr ""
+
+msgctxt "411||segeages_fantasy_zone_score||name"
+msgid "Get over 50,000 points in Fantasy Zone"
+msgstr ""
+
+msgctxt "412||segeages_super_hang_on_high_score||name"
+msgid "Get over 4,000,000 points in Super Hang-On"
+msgstr ""
+
+msgctxt "413||kill_enemy_sega1||name"
+msgid "Defeat Sega 1 Time"
+msgstr ""
+
+msgctxt "414||kill_enemy_sega2||name"
+msgid "Defeat Sega 5 Times"
+msgstr ""
+
+msgctxt "415||drink_all1||name"
+msgid "Drink 5 types of vending machine drinks"
+msgstr ""
+
+msgctxt "416||drink_all2||name"
+msgid "Drink 10 types of vending machine drinks"
+msgstr ""
+
+msgctxt "417||drink_all3||name"
+msgid "Drink all types of vending machine drinks"
+msgstr ""
+
+msgctxt "418||sports_gym_get_exercise_rank_a1||name"
+msgid "Get an A rank or above in one training program"
+msgstr ""
+
+msgctxt "419||sports_gym_get_exercise_rank_a2||name"
+msgid "Get an A rank or above in three training programs"
+msgstr ""
+
+msgctxt "420||sports_gym_get_exercise_rank_a3||name"
+msgid "Get an A rank or above in all training programs"
+msgstr ""
+
+msgctxt "421||clear_instant_mission_all1||name"
+msgid "Complete 5 different Trouble Missions"
+msgstr ""
+
+msgctxt "422||clear_instant_mission_all2||name"
+msgid "Complete 10 different Trouble Missions"
+msgstr ""
+
+msgctxt "423||clear_instant_mission_all3||name"
+msgid "Complete all Trouble Missions"
+msgstr ""
+
+msgctxt "424||caba_profile_saki||name"
+msgid "Complete Saki's profile information"
+msgstr ""
+
+msgctxt "425||caba_profile_riona||name"
+msgid "Complete Riona's profile information"
+msgstr ""
+
+msgctxt "426||caba_profile_erina||name"
+msgid "Complete Erina's profile information"
+msgstr ""
+
+msgctxt "427||caba_profile_hikaru||name"
+msgid "Complete Hikaru's profile information"
+msgstr ""
+
+msgctxt "428||caba_profile_sora||name"
+msgid "Complete Sora's profile information"
+msgstr ""
+
+msgctxt "429||snack_talk_rank_a1||name"
+msgid "Obtain a high rank in 3 bar conversations"
+msgstr ""
+
+msgctxt "430||snack_talk_rank_a2||name"
+msgid "Obtain a high rank in all bar conversations"
+msgstr ""
+
+msgctxt "431||sandlot_baseball_clear_mission1||name"
+msgid "Complete 5 baseball missions"
+msgstr ""
+
+msgctxt "432||sandlot_baseball_clear_mission2||name"
+msgid "Complete 10 baseball missions"
+msgstr ""
+
+msgctxt "433||sandlot_baseball_clear_mission3||name"
+msgid "Complete all baseball missions"
+msgstr ""
+
+msgctxt "434||sumoguri_clear_all||name"
+msgid "Complete all stages in spearfishing"
+msgstr ""
+
+msgctxt "435||sumoguri_get_all||name"
+msgid "Catch all types of fish in spearfishing"
+msgstr ""
+
+msgctxt "436||darts_play_all_rule||name"
+msgid "Play darts with every ruleset"
+msgstr ""
+
+msgctxt "437||darts_win_all_rival||name"
+msgid "Defeat all rivals in darts"
+msgstr ""
+
+msgctxt "438||mahjong_get_no1_all||name"
+msgid "Get first place at all tables and tournaments in mahjong"
+msgstr ""
+
+msgctxt "439||vf5fs_clear_stage1||name"
+msgid "Clear 3 stages in Virtua Fighter 5 FS"
+msgstr ""
+
+msgctxt "440||vf5fs_clear_stage2||name"
+msgid "Clear 5 stages in Virtua Fighter 5 FS"
+msgstr ""
+
+msgctxt "441||vf5fs_clear_stage3||name"
+msgid "Clear all stages in Virtua Fighter 5 FS"
+msgstr ""
+
+msgctxt "442||vf5fs_clear_stage4||name"
+msgid "Win a match with all characters in Virtua Fighter 5 FS"
+msgstr ""
+
+msgctxt "443||puyo_win_rival1||name"
+msgid "Defeat 5 rivals in Puyo Puyo"
+msgstr ""
+
+msgctxt "444||puyo_win_rival2||name"
+msgid "Defeat all rivals in Puyo Puyo"
+msgstr ""
+
+msgctxt "445||temple_saisen1||name"
+msgid "Use a total of \\1,000 at the offering box"
+msgstr ""
+
+msgctxt "446||temple_saisen2||name"
+msgid "Use a total of \\5,000 at the offering box"
+msgstr ""
+
+msgctxt "447||temple_saisen3||name"
+msgid "Use a total of \\10,000 at the offering box"
+msgstr ""
+
+msgctxt "448||shop_eat_all_k_gindaco||name"
+msgid "Complete Gindaco Highball Tavern"
+msgstr ""
+
+msgctxt "450||shop_eat_all_k_ringerhut||name"
+msgid "Complete Ringer Hut"
+msgstr ""
+
+msgctxt "451||shop_eat_all_k_fujisoba||name"
+msgid "Complete Fuji Soba"
+msgstr ""
+
+msgctxt "452||shop_eat_all_k_akaushi||name"
+msgid "Complete Akaushimaru"
+msgstr ""
+
+msgctxt "454||shop_eat_all_k_sushigin||name"
+msgid "Complete Sushi Gin"
+msgstr ""
+
+msgctxt "455||shop_eat_all_k_alps||name"
+msgid "Complete Café Alps"
+msgstr ""
+
+msgctxt "457||shop_eat_all_k_smileburger||name"
+msgid "Complete Smile Burger"
+msgstr ""
+
+msgctxt "472||complete_adventures||name"
+msgid "Complete Adventure Awards"
+msgstr ""
+
+msgctxt "473||complete_battles||name"
+msgid "Complete Battle Awards"
+msgstr ""
+
+msgctxt "474||sub_b_adv15||name"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "475||complete_substories||name"
+msgid "Complete Substory Awards"
+msgstr ""
+
+msgctxt "476||complete_playspots||name"
+msgid "Complete Minigame Awards"
+msgstr ""
+
+msgctxt "477||sub_b_adv02||name"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "478||sub_b_adv03||name"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "479||sub_b_adv04||name"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "480||sub_b_adv05||name"
+msgid "Oh No! It's Ono Michio!"
+msgstr ""
+
+msgctxt "481||sub_b_adv06||name"
+msgid "The Ono Michio Show"
+msgstr ""
+
+msgctxt "482||sub_b_adv07||name"
+msgid "Putting on a Brave Face"
+msgstr ""
+
+msgctxt "483||sub_b_adv08||name"
+msgid "The Girl Who Leapt Through Time?"
+msgstr ""
+
+msgctxt "484||sub_b_adv09||name"
+msgid "A Freaky Situation"
+msgstr ""
+
+msgctxt "486||sub_b_adv11||name"
+msgid "Assemble the Team"
+msgstr ""
+
+msgctxt "487||sub_b_adv12||name"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "488||sub_b_adv13||name"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "489||sub_b_adv14||name"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "490||sub_b_adv16||name"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "491||sub_b_adv17||name"
+msgid "What's the Matter with Kids Today?"
+msgstr ""
+
+msgctxt "492||sub_b_adv18||name"
+msgid "Powerful Memories"
+msgstr ""
+
+msgctxt "493||sub_b_adv19||name"
+msgid "Tech Support"
+msgstr ""
+
+msgctxt "494||sub_b_adv20||name"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "495||sub_b_adv21||name"
+msgid "Kaneko's Resolve"
+msgstr ""
+
+msgctxt "496||sub_b_adv22||name"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "497||sub_b_adv23||name"
+msgid "The Old Man and the Sea"
+msgstr ""
+
+msgctxt "498||sub_b_adv24||name"
+msgid "World's Best Octopus"
+msgstr ""
+
+msgctxt "499||sub_b_adv25||name"
+msgid "Deep Blue Sea"
+msgstr ""
+
+msgctxt "500||sub_b_adv26||name"
+msgid "Crisis Management Professional"
+msgstr ""
+
+msgctxt "501||sub_b_adv27||name"
+msgid "The Joys of Adulthood"
+msgstr ""
+
+msgctxt "503||shop_eat_all_k_ikinari_steak||name"
+msgid "Complete Ikinari Steak"
+msgstr ""
+
+msgctxt "504||shop_eat_all_k_bantam||name"
+msgid "Complete Bantam"
+msgstr ""
+
+msgctxt "505||shop_eat_all_k_ichibanboshi||name"
+msgid "Complete Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "506||shop_eat_all_k_M_SIDE_CAFE||name"
+msgid "Complete M Side Cafe"
+msgstr ""
+
+msgctxt "507||shop_eat_all_k_osaka_ohsho||name"
+msgid "Complete Osaka King"
+msgstr ""
+
+msgctxt "508||shop_eat_all_k_quadra||name"
+msgid "Complete Quadra Garden"
+msgstr ""
+
+msgctxt "509||shop_eat_all_k_sushizanmai||name"
+msgid "Complete Sushi Zanmai"
+msgstr ""
+
+msgctxt "510||shop_eat_all_k_wettekitchen_tw||name"
+msgid "Complete Wette Kitchen"
+msgstr ""
+
+msgctxt "512||shop_eat_all_o_juumangoku||name"
+msgid "Complete Jumangoku Chinese Soba"
+msgstr ""
+
+msgctxt "513||shop_eat_all_o_kakikoya||name"
+msgid "Complete Oyster Shack"
+msgstr ""
+
+msgctxt "514||shop_eat_all_o_La_Pente||name"
+msgid "Complete La Pente"
+msgstr ""
+
+msgctxt "515||shop_eat_all_o_yonetoku||name"
+msgid "Complete Yonetoku"
+msgstr ""
+
+msgctxt "517||shop_eat_all_k_wildjackson||name"
+msgid "Complete Wild Jackson"
+msgstr ""
+
+msgctxt "519||make_exp1||name"
+msgid "Earn a total of 1,000 EXP"
+msgstr ""
+
+msgctxt "520||make_exp2||name"
+msgid "Earn a total of 10,000 EXP"
+msgstr ""
+
+msgctxt "521||make_exp3||name"
+msgid "Earn a total of 100,000 EXP"
+msgstr ""
+
+msgctxt "522||shop_eat_all_k_yoronotaki||name"
+msgid "Complete Yoronotaki"
+msgstr ""
+
+msgctxt "523||shop_eat_all_k_hanrai||name"
+msgid "Complete Kanrai"
+msgstr ""
+
+msgctxt "524||sub_a_adv99||name"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "31||sub_a_adv01||explanation"
+msgid "I protected Takayama from some\r\npunks. So I'm the Kabedon King, huh?\r\nThat doesn't sound so bad."
+msgstr ""
+
+msgctxt "32||talk_to_person1||explanation"
+msgid "Talk to people in the city 10 times"
+msgstr ""
+
+msgctxt "33||talk_to_person2||explanation"
+msgid "Talk to people in the city 30 times"
+msgstr ""
+
+msgctxt "34||talk_to_person3||explanation"
+msgid "Talk to people in the city 50 times"
+msgstr ""
+
+msgctxt "35||eat_food1||explanation"
+msgid "Eat 5 food items"
+msgstr ""
+
+msgctxt "36||eat_food2||explanation"
+msgid "Eat 15 food items"
+msgstr ""
+
+msgctxt "37||eat_food3||explanation"
+msgid "Eat 30 food items"
+msgstr ""
+
+msgctxt "38||use_medicine1||explanation"
+msgid "Use 5 medicine items"
+msgstr ""
+
+msgctxt "39||use_medicine2||explanation"
+msgid "Use 15 medicine items"
+msgstr ""
+
+msgctxt "40||use_medicine3||explanation"
+msgid "Use 30 medicine items"
+msgstr ""
+
+msgctxt "41||use_taxi1||explanation"
+msgid "Travel by taxi 5 times"
+msgstr ""
+
+msgctxt "42||use_taxi2||explanation"
+msgid "Travel by taxi 10 times"
+msgstr ""
+
+msgctxt "43||use_taxi3||explanation"
+msgid "Travel by taxi 20 times"
+msgstr ""
+
+msgctxt "44||walk1||explanation"
+msgid "Travel 20 km on foot"
+msgstr ""
+
+msgctxt "45||walk2||explanation"
+msgid "Travel 50 km on foot"
+msgstr ""
+
+msgctxt "46||walk3||explanation"
+msgid "Travel 100 km on foot"
+msgstr ""
+
+msgctxt "47||dash1||explanation"
+msgid "Travel 2 km by dashing"
+msgstr ""
+
+msgctxt "48||dash2||explanation"
+msgid "Travel 5 km by dashing"
+msgstr ""
+
+msgctxt "49||dash3||explanation"
+msgid "Travel 10 km by dashing"
+msgstr ""
+
+msgctxt "50||make_money1||explanation"
+msgid "Earn a total of \\200,000"
+msgstr ""
+
+msgctxt "51||make_money2||explanation"
+msgid "Earn a total of \\500,000"
+msgstr ""
+
+msgctxt "52||make_money3||explanation"
+msgid "Earn a total of \\1,000,000"
+msgstr ""
+
+msgctxt "53||make_money4||explanation"
+msgid "Earn a total of \\3,000,000"
+msgstr ""
+
+msgctxt "54||make_money5||explanation"
+msgid "Earn a total of \\5,000,000"
+msgstr ""
+
+msgctxt "62||take_picture1||explanation"
+msgid "Take 10 photos with your smartphone camera"
+msgstr ""
+
+msgctxt "63||take_picture2||explanation"
+msgid "Take 30 photos with your smartphone camera"
+msgstr ""
+
+msgctxt "67||drink1||explanation"
+msgid "Drink a total of 10 drinks from the\r\nvending machine"
+msgstr ""
+
+msgctxt "68||drink2||explanation"
+msgid "Drink a total of 30 drinks from the\r\nvending machine"
+msgstr ""
+
+msgctxt "69||drink_make_hit||explanation"
+msgid "Drink all Mystery Drinks from the\r\nvending machine"
+msgstr ""
+
+msgctxt "73||open_safe1||explanation"
+msgid "Open 3 safes using keys"
+msgstr ""
+
+msgctxt "74||open_safe2||explanation"
+msgid "Open 10 safes using keys"
+msgstr ""
+
+msgctxt "75||eat_food_at_restaurant1||explanation"
+msgid "Dine at eateries 5 times"
+msgstr ""
+
+msgctxt "76||eat_food_at_restaurant2||explanation"
+msgid "Dine at eateries 10 times"
+msgstr ""
+
+msgctxt "77||eat_food_at_restaurant3||explanation"
+msgid "Dine at eateries 20 times"
+msgstr ""
+
+msgctxt "78||eat_food_at_restaurant4||explanation"
+msgid "Dine at eateries 30 times"
+msgstr ""
+
+msgctxt "103||bonus_at_restaurant1||explanation"
+msgid "Discover 3 types of menu combinations at\r\neateries"
+msgstr ""
+
+msgctxt "104||bonus_at_restaurant2||explanation"
+msgid "Discover 10 types of menu combinations at\r\neateries"
+msgstr ""
+
+msgctxt "105||bonus_at_restaurant3||explanation"
+msgid "Discover all types of menu combinations at\r\neateries"
+msgstr ""
+
+msgctxt "110||kill_enemy1||explanation"
+msgid "Defeat 50 enemies on the street"
+msgstr ""
+
+msgctxt "111||kill_enemy2||explanation"
+msgid "Defeat 100 enemies on the street"
+msgstr ""
+
+msgctxt "112||kill_enemy3||explanation"
+msgid "Defeat 150 enemies on the street"
+msgstr ""
+
+msgctxt "113||kill_enemy4||explanation"
+msgid "Defeat 200 enemies on the street"
+msgstr ""
+
+msgctxt "114||kill_enemy_by_heat_mode1||explanation"
+msgid "Defeat 5 people in Extreme Heat Mode"
+msgstr ""
+
+msgctxt "115||kill_enemy_by_heat_mode2||explanation"
+msgid "Defeat 20 people in Extreme Heat Mode"
+msgstr ""
+
+msgctxt "116||kill_enemy_by_heat_mode3||explanation"
+msgid "Defeat 50 people in Extreme Heat Mode"
+msgstr ""
+
+msgctxt "117||break_object1||explanation"
+msgid "Destroy 10 objects during battle"
+msgstr ""
+
+msgctxt "118||break_object2||explanation"
+msgid "Destroy 30 objects during battle"
+msgstr ""
+
+msgctxt "119||break_object3||explanation"
+msgid "Destroy 50 objects during battle"
+msgstr ""
+
+msgctxt "120||kill_enemy_by_weapon1||explanation"
+msgid "Defeat 10 enemies using a weapon"
+msgstr ""
+
+msgctxt "121||kill_enemy_by_weapon2||explanation"
+msgid "Defeat 30 enemies using a weapon"
+msgstr ""
+
+msgctxt "122||kill_enemy_by_weapon3||explanation"
+msgid "Defeat 50 enemies using a weapon"
+msgstr ""
+
+msgctxt "133||use_hact1||explanation"
+msgid "Use Heat Actions 10 times"
+msgstr ""
+
+msgctxt "134||use_hact2||explanation"
+msgid "Use Heat Actions 30 times"
+msgstr ""
+
+msgctxt "135||use_hact3||explanation"
+msgid "Use Heat Actions 50 times"
+msgstr ""
+
+msgctxt "144||get_accessory1||explanation"
+msgid "Acquire 10 different gear items"
+msgstr ""
+
+msgctxt "145||get_accessory2||explanation"
+msgid "Acquire 20 different gear items"
+msgstr ""
+
+msgctxt "146||get_accessory3||explanation"
+msgid "Acquire 30 different gear items"
+msgstr ""
+
+msgctxt "177||clan_get_member1||explanation"
+msgid "Scout 1 leader"
+msgstr ""
+
+msgctxt "178||clan_get_member2||explanation"
+msgid "Scout 5 leaders"
+msgstr ""
+
+msgctxt "179||clan_get_member3||explanation"
+msgid "Scout 8 leaders"
+msgstr ""
+
+msgctxt "180||clan_get_member4||explanation"
+msgid "Scout 10 leaders"
+msgstr ""
+
+msgctxt "182||clan_win1||explanation"
+msgid "Win 3 Clan Battles"
+msgstr ""
+
+msgctxt "183||clan_win2||explanation"
+msgid "Win 10 Clan Battles"
+msgstr ""
+
+msgctxt "184||clan_win3||explanation"
+msgid "Win 15 Clan Battles"
+msgstr ""
+
+msgctxt "185||clan_win4||explanation"
+msgid "Win 20 Clan Battles"
+msgstr ""
+
+msgctxt "186||clan_win5||explanation"
+msgid "Win 30 Clan Battles"
+msgstr ""
+
+msgctxt "187||clan_win6||explanation"
+msgid "Win 50 Clan Battles"
+msgstr ""
+
+msgctxt "188||clan_kill_enemy1||explanation"
+msgid "Defeat a total of 10 enemies in\r\nClan Battles"
+msgstr ""
+
+msgctxt "189||clan_kill_enemy2||explanation"
+msgid "Defeat a total of 50 enemies in\r\nClan Battles"
+msgstr ""
+
+msgctxt "190||clan_kill_enemy3||explanation"
+msgid "Defeat a total of 100 enemies in\r\nClan Battles"
+msgstr ""
+
+msgctxt "191||clan_kill_enemy4||explanation"
+msgid "Defeat a total of 300 enemies in\r\nClan Battles"
+msgstr ""
+
+msgctxt "192||clan_kill_enemy5||explanation"
+msgid "Defeat a total of 500 enemies in\r\nClan Battles"
+msgstr ""
+
+msgctxt "193||clan_kill_enemy6||explanation"
+msgid "Defeat a total of 700 enemies in\r\nClan Battles"
+msgstr ""
+
+msgctxt "194||clan_clear_mission1||explanation"
+msgid "Complete 10 Clan Missions"
+msgstr ""
+
+msgctxt "195||clan_clear_mission2||explanation"
+msgid "Complete 20 Clan Missions"
+msgstr ""
+
+msgctxt "196||clan_clear_mission3||explanation"
+msgid "Complete all Clan Missions"
+msgstr ""
+
+msgctxt "197||sub_a_adv02||explanation"
+msgid "The scammers never stop figuring out\r\nnew ways to part an idiot from his money."
+msgstr ""
+
+msgctxt "198||sub_a_adv03||explanation"
+msgid "Ayaka was happy about the Haruka\r\nmerchandise I gave her. I definitely\r\nneed to show Haruka that picture."
+msgstr ""
+
+msgctxt "199||sub_a_adv04||explanation"
+msgid "I didn't think I'd ever have to chase down\r\na cleaning robot. It's kinda romantic that\r\nthe little thing brought those two\r\ntogether, though."
+msgstr ""
+
+msgctxt "200||sub_a_adv05||explanation"
+msgid "The digital personal assistant, \"Hiji\"...\r\nShe was convenient, but I don't like a\r\nmachine making me do things without my\r\nconsent."
+msgstr ""
+
+msgctxt "201||sub_a_adv06||explanation"
+msgid "It's fine to take a risk by posting videos\r\nonline, but it's not okay to cause trouble\r\nfor other people. Well, I'm sure he\r\nlearned his lesson."
+msgstr ""
+
+msgctxt "202||sub_a_adv07||explanation"
+msgid "Using a drone to gather information...\r\nTechnology is moving too fast."
+msgstr ""
+
+msgctxt "203||sub_a_adv08||explanation"
+msgid "To think someone from the Snake Flower\r\nTriad was still in this city... It's\r\nprobably best for me to lay low with\r\nhow Kamurocho currently is."
+msgstr ""
+
+msgctxt "204||sub_a_adv09||explanation"
+msgid "The remnants of the Snake Flower Triad had\r\nsuch an elaborate plan. But now with this, that\r\ngroup should be quiet for a while."
+msgstr ""
+
+msgctxt "206||sub_a_adv11||explanation"
+msgid "Someone was running a blackmail scheme\r\nthrough Troublr. Some things really are\r\ntoo good to be true..."
+msgstr ""
+
+msgctxt "207||sub_a_adv12||explanation"
+msgid "Date-san's account was hijacked...\r\nThere are so many ways to commit fraud,\r\nI need to stay aware of them."
+msgstr ""
+
+msgctxt "208||playspot_play1||explanation"
+msgid "Enjoy yourself at an entertainment\r\nvenue 5 times"
+msgstr ""
+
+msgctxt "209||playspot_play2||explanation"
+msgid "Enjoy yourself at an entertainment\r\nvenue 10 times"
+msgstr ""
+
+msgctxt "210||playspot_play3||explanation"
+msgid "Enjoy yourself at an entertainment\r\nvenue 20 times"
+msgstr ""
+
+msgctxt "211||playspot_play4||explanation"
+msgid "Enjoy yourself at an entertainment\r\nvenue 30 times"
+msgstr ""
+
+msgctxt "212||karaoke_high_score1||explanation"
+msgid "Get a score of over 90 at karaoke"
+msgstr ""
+
+msgctxt "213||karaoke_high_score2||explanation"
+msgid "Get a score of over 90 for 3 songs at\r\nkaraoke"
+msgstr ""
+
+msgctxt "214||karaoke_high_score3||explanation"
+msgid "Get a score of over 90 for 5 songs at\r\nkaraoke"
+msgstr ""
+
+msgctxt "218||sumoguri_get_fish1||explanation"
+msgid "Catch a total of 10 fish in spearfishing"
+msgstr ""
+
+msgctxt "219||sumoguri_get_fish2||explanation"
+msgid "Catch a total of 30 fish in spearfishing"
+msgstr ""
+
+msgctxt "220||sumoguri_get_fish3||explanation"
+msgid "Catch a total of 50 fish in spearfishing"
+msgstr ""
+
+msgctxt "239||baseball_total_win1||explanation"
+msgid "Win a total of 10 games with the Warriors"
+msgstr ""
+
+msgctxt "240||baseball_total_win2||explanation"
+msgid "Win a total of 20 games with the Warriors"
+msgstr ""
+
+msgctxt "241||baseball_total_win3||explanation"
+msgid "Win a total of 30 games with the Warriors"
+msgstr ""
+
+msgctxt "242||baseball_make_pitcher_10_win||explanation"
+msgid "Earn double-digit wins on a single pitcher\r\nin baseball"
+msgstr ""
+
+msgctxt "243||baseball_make_batter_10_home_run||explanation"
+msgid "Earn double-digit home runs on a single\r\nplayer in baseball"
+msgstr ""
+
+msgctxt "244||baseball_make_batter_100_rbi||explanation"
+msgid "Earn 100 hits on a single player in\r\nbaseball"
+msgstr ""
+
+msgctxt "247||batting_clear_mission_easy||explanation"
+msgid "Complete all Beginner Challenge\r\nCourses at the batting center"
+msgstr ""
+
+msgctxt "248||batting_clear_mission_normal||explanation"
+msgid "Complete all Intermediate Challenge\r\nCourses at the batting center"
+msgstr ""
+
+msgctxt "249||batting_clear_mission_hard||explanation"
+msgid "Complete all Advanced Challenge\r\nCourses at the batting center"
+msgstr ""
+
+msgctxt "251||batting_hit_home_run_at_home_run_course1||explanation"
+msgid "Hit a total of 10 home runs in\r\nthe Home Run Course"
+msgstr ""
+
+msgctxt "252||batting_hit_home_run_at_home_run_course2||explanation"
+msgid "Hit a total of 30 home runs in\r\nthe Home Run Course"
+msgstr ""
+
+msgctxt "253||batting_hit_home_run_at_home_run_course3||explanation"
+msgid "Hit a total of 50 home runs in\r\nthe Home Run Course"
+msgstr ""
+
+msgctxt "279||temple_osonae1||explanation"
+msgid "Give an offering to the Jizo statues\r\n5 times"
+msgstr ""
+
+msgctxt "280||temple_osonae2||explanation"
+msgid "Give an offering to the Jizo statues\r\n10 times"
+msgstr ""
+
+msgctxt "281||temple_osonae3||explanation"
+msgid "Give an offering to the Jizo statues\r\n20 times"
+msgstr ""
+
+msgctxt "317||sub_b_adv01||explanation"
+msgid "I'm sure there will be lots of trials\r\nahead of you, but you'll become a great\r\nidol in Tokyo, Misa."
+msgstr ""
+
+msgctxt "318||sub_a_adv13||explanation"
+msgid "I met the legendary darts player,\r\nPaul Lim. It might not hurt to polish\r\nmy darts skills when I get a chance."
+msgstr ""
+
+msgctxt "319||sub_a_adv14||explanation"
+msgid "I took on Paul Lim in a darts match and he\r\nwas indeed amazing. I'll ask him for\r\nanother match sometime."
+msgstr ""
+
+msgctxt "320||sub_a_adv15||explanation"
+msgid "Saki is a great professional wrestler and\r\ngives courage to her fans. I'm cheering\r\nyou on too. Keep doing your best."
+msgstr ""
+
+msgctxt "321||sub_a_adv16||explanation"
+msgid "While there was a lot of fuss, it helped\r\nme get to know Hikaru a little better.\r\nI'm still going to support and protect\r\nher however I can."
+msgstr ""
+
+msgctxt "322||sub_a_adv17||explanation"
+msgid "I was able to have a nice long talk with\r\nSora so we could get to know each other\r\nbetter. She taught me the importance of\r\nthinking about my family."
+msgstr ""
+
+msgctxt "323||sub_a_adv18||explanation"
+msgid "Erina won't have to worry about that\r\nstalker anymore. Always stay true to\r\nwho you are, Erina."
+msgstr ""
+
+msgctxt "324||sub_a_adv19||explanation"
+msgid "Everyone loves Riona because of the\r\nstandards she holds herself to as a\r\nhostess. She's really quite something."
+msgstr ""
+
+msgctxt "325||sub_a_adv20||explanation"
+msgid "I became friends with Manager Yoshida from\r\nthe Batting Center and he joined my\r\nbaseball team. His knowledge of the game\r\nmight prove to be pretty useful!"
+msgstr ""
+
+msgctxt "326||sub_a_adv21||explanation"
+msgid "Gori-san promised to join our team in\r\nHiroshima after I won his Home Run\r\ncontest. I'm excited to see how he plays."
+msgstr ""
+
+msgctxt "328||sub_a_adv23||explanation"
+msgid "Finding cats for the cat café, eh? I guess\r\nI'm doing it. I'll contact the owner\r\nwhenever a cat becomes friendly with me."
+msgstr ""
+
+msgctxt "329||sub_a_adv24||explanation"
+msgid "Something called a \"Live Chat\" is popular\r\nnowadays. Well, it's important to know the\r\ntrends. I should visit an internet café to\r\ncheck it out when I have some free time."
+msgstr ""
+
+msgctxt "330||sub_a_adv25||explanation"
+msgid "Committed to results, huh? If I train\r\nhere, I'm sure my body will stay fit.\r\nI'll make use of this place regularly."
+msgstr ""
+
+msgctxt "331||sub_a_adv26||explanation"
+msgid "Sodachi is committed to results as well.\r\nHe said he wants to fight me again..."
+msgstr ""
+
+msgctxt "333||sports_gym_get_challenge_rank_a1||explanation"
+msgid "Get an A rank or above in the RIZAP Challenge\r\nonce"
+msgstr ""
+
+msgctxt "334||sports_gym_get_challenge_rank_a2||explanation"
+msgid "Get an A rank or above in the RIZAP Challenge\r\ntwice"
+msgstr ""
+
+msgctxt "335||sports_gym_get_challenge_rank_a3||explanation"
+msgid "Get an A rank or above in the RIZAP Challenge\r\nthree times"
+msgstr ""
+
+msgctxt "338||darts_hattrick1||explanation"
+msgid "Perform a hat trick 3 times in darts"
+msgstr ""
+
+msgctxt "339||darts_hattrick2||explanation"
+msgid "Perform a hat trick 5 times in darts"
+msgstr ""
+
+msgctxt "340||live_chat_input_success1||explanation"
+msgid "Succeed in live chat 10 times"
+msgstr ""
+
+msgctxt "341||live_chat_input_success2||explanation"
+msgid "Succeed in live chat 30 times"
+msgstr ""
+
+msgctxt "343||sports_gym_play_menu_all||explanation"
+msgid "Complete all 12 RIZAP Challenges"
+msgstr ""
+
+msgctxt "344||darts_win1||explanation"
+msgid "Win a total of 10 matches in darts"
+msgstr ""
+
+msgctxt "345||live_chat_make_two_shot_love_with_girl_all||explanation"
+msgid "Complete all girls in live chat"
+msgstr ""
+
+msgctxt "346||baseball_add_teammete1||explanation"
+msgid "Gather 3 baseball team members"
+msgstr ""
+
+msgctxt "347||baseball_add_teammete2||explanation"
+msgid "Gather all baseball team members"
+msgstr ""
+
+msgctxt "348||take_picture3||explanation"
+msgid "Take 50 photos with your smartphone camera"
+msgstr ""
+
+msgctxt "349||drink3||explanation"
+msgid "Drink a total of 50 drinks from the\r\nvending machine"
+msgstr ""
+
+msgctxt "350||caba_make_no1_cast_saki||explanation"
+msgid "Raise Saki's Hostess Rank to Diamond at\r\nthe cabaret club"
+msgstr ""
+
+msgctxt "351||caba_make_no1_cast_riona||explanation"
+msgid "Raise Riona's Hostess Rank to Diamond at\r\nthe cabaret club"
+msgstr ""
+
+msgctxt "352||caba_make_no1_cast_erina||explanation"
+msgid "Raise Erina's Hostess Rank to Diamond at\r\nthe cabaret club"
+msgstr ""
+
+msgctxt "353||caba_make_no1_cast_hikaru||explanation"
+msgid "Raise Hikaru's Hostess Rank to Diamond at\r\nthe cabaret club"
+msgstr ""
+
+msgctxt "354||caba_make_no1_cast_sora||explanation"
+msgid "Raise Sora's Hostess Rank to Diamond at\r\nthe cabaret club"
+msgstr ""
+
+msgctxt "355||caba_get_very_good1||explanation"
+msgid "Rank Very Good or higher 5 times\r\nat the Cabaret Club"
+msgstr ""
+
+msgctxt "356||caba_get_very_good2||explanation"
+msgid "Rank Very Good or higher 15 times\r\nat the Cabaret Club"
+msgstr ""
+
+msgctxt "357||caba_get_very_good3||explanation"
+msgid "Rank Very Good or higher 30 times\r\nat the Cabaret Club"
+msgstr ""
+
+msgctxt "358||snack_make_friend_hatoyama||explanation"
+msgid "Become friends with Hatakeyama-san\r\nat the New Gaudi bar"
+msgstr ""
+
+msgctxt "359||snack_make_friend_akiyoshi||explanation"
+msgid "Become friends with Akiyoshi-san\r\nat the New Gaudi bar"
+msgstr ""
+
+msgctxt "360||snack_make_friend_gen||explanation"
+msgid "Become friends with Gen-san\r\nat the New Gaudi bar"
+msgstr ""
+
+msgctxt "361||snack_make_friend_andou||explanation"
+msgid "Become friends with Ando-san\r\nat the New Gaudi bar"
+msgstr ""
+
+msgctxt "362||snack_make_friend_kaneko||explanation"
+msgid "Become friends with Kaneko-san\r\nat the New Gaudi bar"
+msgstr ""
+
+msgctxt "363||snack_make_friend_mama||explanation"
+msgid "Become friends with Mama\r\nat the New Gaudi bar"
+msgstr ""
+
+msgctxt "364||snack_enter1||explanation"
+msgid "Visit the New Gaudi bar\r\na total of 5 times"
+msgstr ""
+
+msgctxt "365||snack_enter2||explanation"
+msgid "Visit the New Gaudi bar\r\na total of 20 times"
+msgstr ""
+
+msgctxt "366||snack_enter3||explanation"
+msgid "Visit the New Gaudi bar\r\na total of 30 times"
+msgstr ""
+
+msgctxt "367||sumoguri_level_max||explanation"
+msgid "Reach max level in spearfishing"
+msgstr ""
+
+msgctxt "368||mahjong_ron_or_tsumo1||explanation"
+msgid "Go out in mahjong with ron or tsumo\r\n5 times"
+msgstr ""
+
+msgctxt "369||mahjong_ron_or_tsumo2||explanation"
+msgid "Go out in mahjong with ron or tsumo\r\n10 times"
+msgstr ""
+
+msgctxt "370||mahjong_ron_or_tsumo3||explanation"
+msgid "Go out in mahjong with ron or tsumo\r\n30 times"
+msgstr ""
+
+msgctxt "371||cat_cafe_make_friend_kamuro0||explanation"
+msgid "Become friendly with\r\nViola (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "372||cat_cafe_make_friend_kamuro1||explanation"
+msgid "Become friendly with\r\nMusashi (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "373||cat_cafe_make_friend_kamuro2||explanation"
+msgid "Become friendly with\r\nKotetsu (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "374||cat_cafe_make_friend_kamuro3||explanation"
+msgid "Become friendly with\r\nFuku (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "375||cat_cafe_make_friend_kamuro4||explanation"
+msgid "Become friendly with\r\nMilk (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "376||cat_cafe_make_friend_kamuro5||explanation"
+msgid "Become friendly with\r\nShizuku (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "377||cat_cafe_make_friend_kamuro6||explanation"
+msgid "Become friendly with\r\nLeon (cat) in Kamuorcho"
+msgstr ""
+
+msgctxt "378||cat_cafe_make_friend_kamuro7||explanation"
+msgid "Become friendly with\r\nMaron (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "379||cat_cafe_make_friend_kamuro8||explanation"
+msgid "Become friendly with\r\nVictoria (cat) in Kamurocho"
+msgstr ""
+
+msgctxt "381||cat_cafe_make_friend_onomichi0||explanation"
+msgid "Become friendly with\r\nTora (cat) in Onomichi"
+msgstr ""
+
+msgctxt "382||cat_cafe_make_friend_onomichi1||explanation"
+msgid "Become friendly with\r\nNana (cat) in Onomichi"
+msgstr ""
+
+msgctxt "383||cat_cafe_make_friend_onomichi2||explanation"
+msgid "Become friendly with\r\nTama (cat) in Onomichi"
+msgstr ""
+
+msgctxt "384||cat_cafe_make_friend_onomichi3||explanation"
+msgid "Become friendly with\r\nHime (cat) in Onomichi"
+msgstr ""
+
+msgctxt "385||cat_cafe_make_friend_onomichi4||explanation"
+msgid "Become friendly with\r\nMike (cat) in Onomichi"
+msgstr ""
+
+msgctxt "386||cat_cafe_make_friend_onomichi5||explanation"
+msgid "Become friendly with\r\nRin (cat) in Onomichi"
+msgstr ""
+
+msgctxt "387||cat_cafe_make_friend_onomichi6||explanation"
+msgid "Become friendly with\r\nKuro (cat) in Onomichi"
+msgstr ""
+
+msgctxt "388||cat_cafe_make_friend_onomichi7||explanation"
+msgid "Become friendly with\r\nShiro (cat) in Onomichi"
+msgstr ""
+
+msgctxt "389||cat_cafe_make_friend_onomichi8||explanation"
+msgid "Become friendly with\r\nKoko (cat) in Onomichi"
+msgstr ""
+
+msgctxt "390||cat_cafe_make_friend_onomichi9||explanation"
+msgid "Become friendly with\r\nKai (cat) in Onomichi"
+msgstr ""
+
+msgctxt "391||cat_cafe_give_food1||explanation"
+msgid "Feed cats 5 times"
+msgstr ""
+
+msgctxt "392||cat_cafe_give_food2||explanation"
+msgid "Feed cats 10 times"
+msgstr ""
+
+msgctxt "393||cat_cafe_give_food3||explanation"
+msgid "Feed cats 20 times"
+msgstr ""
+
+msgctxt "394||cat_cafe_give_food4||explanation"
+msgid "Feed cats 30 times"
+msgstr ""
+
+msgctxt "395||temple_omikuji1||explanation"
+msgid "Pull a total of 5 fortunes"
+msgstr ""
+
+msgctxt "396||temple_omikuji2||explanation"
+msgid "Pull a total of 10 fortunes"
+msgstr ""
+
+msgctxt "397||temple_omikuji3||explanation"
+msgid "Pull a total of 30 fortunes"
+msgstr ""
+
+msgctxt "404||vf5fs_win1||explanation"
+msgid "Win a total of 10 matches in\r\nVirtua Fighter 5 Final Showdown"
+msgstr ""
+
+msgctxt "405||vf5fs_win2||explanation"
+msgid "Win a total of 30 matches in\r\nVirtua Fighter 5 Final Showdown"
+msgstr ""
+
+msgctxt "406||puyo_win1||explanation"
+msgid "Win a total of 10 matches in Puyo Puyo"
+msgstr ""
+
+msgctxt "407||puyo_win2||explanation"
+msgid "Win a total of 20 matches in Puyo Puyo"
+msgstr ""
+
+msgctxt "408||puyo_win3||explanation"
+msgid "Win a total of 30 matches in Puyo Puyo"
+msgstr ""
+
+msgctxt "409||segaages_space_harrier_high_score||explanation"
+msgid "Get over 2,000,000 points in Space Harrier"
+msgstr ""
+
+msgctxt "410||segeages_outrun_high_score||explanation"
+msgid "Get over 3,000,000 points in Out Run"
+msgstr ""
+
+msgctxt "411||segeages_fantasy_zone_score||explanation"
+msgid "Get over 50,000 points in Fantasy Zone"
+msgstr ""
+
+msgctxt "412||segeages_super_hang_on_high_score||explanation"
+msgid "Get over 4,000,000 points in Super Hang-On"
+msgstr ""
+
+msgctxt "413||kill_enemy_sega1||explanation"
+msgid "Defeat an enemy with the rare last\r\nname \"Sega\" 1 time"
+msgstr ""
+
+msgctxt "414||kill_enemy_sega2||explanation"
+msgid "Defeat an enemy with the rare last\r\nname \"Sega\" 5 times"
+msgstr ""
+
+msgctxt "415||drink_all1||explanation"
+msgid "Drink 5 types of vending machine drinks"
+msgstr ""
+
+msgctxt "416||drink_all2||explanation"
+msgid "Drink 10 types of vending machine drinks"
+msgstr ""
+
+msgctxt "417||drink_all3||explanation"
+msgid "Drink all types of vending machine drinks"
+msgstr ""
+
+msgctxt "418||sports_gym_get_exercise_rank_a1||explanation"
+msgid "Get an A rank or above in one training\r\nprogram"
+msgstr ""
+
+msgctxt "419||sports_gym_get_exercise_rank_a2||explanation"
+msgid "Get an A rank or above in three training\r\nprograms"
+msgstr ""
+
+msgctxt "420||sports_gym_get_exercise_rank_a3||explanation"
+msgid "Get an A rank or above in all training\r\nprograms"
+msgstr ""
+
+msgctxt "421||clear_instant_mission_all1||explanation"
+msgid "Complete 5 different Trouble Missions"
+msgstr ""
+
+msgctxt "422||clear_instant_mission_all2||explanation"
+msgid "Complete 10 different Trouble Missions"
+msgstr ""
+
+msgctxt "423||clear_instant_mission_all3||explanation"
+msgid "Complete all Trouble Missions"
+msgstr ""
+
+msgctxt "424||caba_profile_saki||explanation"
+msgid "Completely fill out Saki's profile\r\ninformation"
+msgstr ""
+
+msgctxt "425||caba_profile_riona||explanation"
+msgid "Completely fill out Riona's profile\r\ninformation"
+msgstr ""
+
+msgctxt "426||caba_profile_erina||explanation"
+msgid "Completely fill out Erina's profile\r\ninformation"
+msgstr ""
+
+msgctxt "427||caba_profile_hikaru||explanation"
+msgid "Completely fill out Hikaru's profile\r\ninformation"
+msgstr ""
+
+msgctxt "428||caba_profile_sora||explanation"
+msgid "Completely fill out Sora's profile\r\ninformation"
+msgstr ""
+
+msgctxt "429||snack_talk_rank_a1||explanation"
+msgid "Rank \"Good Listener\" or higher in\r\n3 bar conversations"
+msgstr ""
+
+msgctxt "430||snack_talk_rank_a2||explanation"
+msgid "Rank \"Good Listener\" or higher in\r\nall bar conversations"
+msgstr ""
+
+msgctxt "431||sandlot_baseball_clear_mission1||explanation"
+msgid "Complete 5 baseball missions"
+msgstr ""
+
+msgctxt "432||sandlot_baseball_clear_mission2||explanation"
+msgid "Complete 10 baseball missions"
+msgstr ""
+
+msgctxt "433||sandlot_baseball_clear_mission3||explanation"
+msgid "Complete all baseball missions"
+msgstr ""
+
+msgctxt "434||sumoguri_clear_all||explanation"
+msgid "Complete all stages in spearfishing"
+msgstr ""
+
+msgctxt "435||sumoguri_get_all||explanation"
+msgid "Catch all types of fish in spearfishing"
+msgstr ""
+
+msgctxt "436||darts_play_all_rule||explanation"
+msgid "Play darts with every ruleset"
+msgstr ""
+
+msgctxt "437||darts_win_all_rival||explanation"
+msgid "Defeat all rivals in darts"
+msgstr ""
+
+msgctxt "438||mahjong_get_no1_all||explanation"
+msgid "Get first place at all tables and\r\ntournaments in mahjong"
+msgstr ""
+
+msgctxt "439||vf5fs_clear_stage1||explanation"
+msgid "Clear 3 stages in Virtua Fighter 5 Final\r\nShowdown"
+msgstr ""
+
+msgctxt "440||vf5fs_clear_stage2||explanation"
+msgid "Clear 5 stages in Virtua Fighter 5 Final\r\nShowdown"
+msgstr ""
+
+msgctxt "441||vf5fs_clear_stage3||explanation"
+msgid "Clear all stages in Virtua Fighter 5 Final\r\nShowdown"
+msgstr ""
+
+msgctxt "442||vf5fs_clear_stage4||explanation"
+msgid "Win a match with all characters in\r\nVirtua Fighter 5 Final Showdown"
+msgstr ""
+
+msgctxt "443||puyo_win_rival1||explanation"
+msgid "Defeat 5 rivals in Puyo Puyo"
+msgstr ""
+
+msgctxt "444||puyo_win_rival2||explanation"
+msgid "Defeat all rivals in Puyo Puyo"
+msgstr ""
+
+msgctxt "445||temple_saisen1||explanation"
+msgid "Use a total of \\1,000 at the offering box"
+msgstr ""
+
+msgctxt "446||temple_saisen2||explanation"
+msgid "Use a total of \\5,000 at the offering box"
+msgstr ""
+
+msgctxt "447||temple_saisen3||explanation"
+msgid "Use a total of \\10,000 at the offering box"
+msgstr ""
+
+msgctxt "448||shop_eat_all_k_gindaco||explanation"
+msgid "Eat everything on the menu at\r\nGindaco Highball Tavern"
+msgstr ""
+
+msgctxt "450||shop_eat_all_k_ringerhut||explanation"
+msgid "Eat everything on the menu at Ringer Hut"
+msgstr ""
+
+msgctxt "451||shop_eat_all_k_fujisoba||explanation"
+msgid "Eat everything on the menu at Fuji Soba"
+msgstr ""
+
+msgctxt "452||shop_eat_all_k_akaushi||explanation"
+msgid "Eat everything on the menu at Akaushimaru"
+msgstr ""
+
+msgctxt "454||shop_eat_all_k_sushigin||explanation"
+msgid "Eat everything on the menu at Sushi Gin"
+msgstr ""
+
+msgctxt "455||shop_eat_all_k_alps||explanation"
+msgid "Eat everything on the menu at Café Alps"
+msgstr ""
+
+msgctxt "457||shop_eat_all_k_smileburger||explanation"
+msgid "Eat everything on the menu at Smile Burger"
+msgstr ""
+
+msgctxt "472||complete_adventures||explanation"
+msgid "Complete all Awards listed under Adventure"
+msgstr ""
+
+msgctxt "473||complete_battles||explanation"
+msgid "Complete all Awards listed under Battle"
+msgstr ""
+
+msgctxt "474||sub_b_adv15||explanation"
+msgid "We beat the Onomichi Legends! Next up is\r\nthe best team in the league, the Kanamizawa\r\nGorgeous. We have to win to protect our\r\nprecious field!"
+msgstr ""
+
+msgctxt "475||complete_substories||explanation"
+msgid "Complete all Awards from Substories"
+msgstr ""
+
+msgctxt "476||complete_playspots||explanation"
+msgid "Complete all Awards from Minigames"
+msgstr ""
+
+msgctxt "477||sub_b_adv02||explanation"
+msgid "Old man Suzuki may have founded a bogus\r\ncult, but anyone who decides to atone for\r\nhis sins properly is a good person in my\r\nbook."
+msgstr ""
+
+msgctxt "478||sub_b_adv03||explanation"
+msgid "Pocket Circuit Fighter has a nice life as\r\na tofu store owner and a father. I hope I\r\ncan have a Pocket Circuit match with him\r\nagain one day."
+msgstr ""
+
+msgctxt "479||sub_b_adv04||explanation"
+msgid "An odd, old man... Pirate ghosts... Was it\r\nall just some weird hallucination? I feel\r\na little uneasy after all of that."
+msgstr ""
+
+msgctxt "480||sub_b_adv05||explanation"
+msgid "Well, it might not be bad to experience\r\nwearing a mascot costume once in my life.\r\nAlthough I get the feeling that this\r\nisn't the last of Ono Michio-kun."
+msgstr ""
+
+msgctxt "481||sub_b_adv06||explanation"
+msgid "To think I'd have to become Ono Michio\r\nagain for a concert... Ono Michio is\r\nbecoming a beloved mascot!"
+msgstr ""
+
+msgctxt "482||sub_b_adv07||explanation"
+msgid "I became Ono Michio to give a girl the\r\ncourage to go through surgery. Mascots\r\nhave the power to give more than just\r\nsmiles; they can give strength."
+msgstr ""
+
+msgctxt "483||sub_b_adv08||explanation"
+msgid "That girl claims she's from the future...\r\nHeh, if we meet again, I should have her\r\nbet on a horse race for me."
+msgstr ""
+
+msgctxt "484||sub_b_adv09||explanation"
+msgid "It seems Kazuo and Kazumi are going to\r\nkeep up the body swap act... But I'm\r\nsure it'll work out. I hope they find\r\nhappiness."
+msgstr ""
+
+msgctxt "486||sub_b_adv11||explanation"
+msgid "I've become the captain of the\r\nSetouchi Warriors thanks to Chiba.\r\nI have no idea how this is going\r\nto turn out..."
+msgstr ""
+
+msgctxt "487||sub_b_adv12||explanation"
+msgid "We recruited Moritsuka and we'll be going\r\nagainst the Jingai Thunders' second team.\r\nWe'll still need some more players for\r\nthe match."
+msgstr ""
+
+msgctxt "488||sub_b_adv13||explanation"
+msgid "The Setouchi Warriors were able to seize\r\ntheir first victory. We can't lose our\r\nnext match against the Thunders' primary\r\nteam!"
+msgstr ""
+
+msgctxt "489||sub_b_adv14||explanation"
+msgid "We beat the Jingai Thunders, but then we\r\nwere challenged to a game against the\r\nOnomichi Legends. They're supposed to be\r\nan amazing team, but we're getting better\r\neach day. Let's give them everything we've\r\ngot!"
+msgstr ""
+
+msgctxt "490||sub_b_adv16||explanation"
+msgid "We won against the Kanamizawa Gorgeous\r\nand protected our home turf.\r\nSetouchi Warriors... You've really\r\nbecome an incredible team."
+msgstr ""
+
+msgctxt "491||sub_b_adv17||explanation"
+msgid "Hatakeyama-san, make sure to value the\r\ntime you spend with your daughter."
+msgstr ""
+
+msgctxt "492||sub_b_adv18||explanation"
+msgid "We convinced Akiyoshi-san to go to his\r\nreunion. But I wonder what kind of\r\nperson his teacher is..."
+msgstr ""
+
+msgctxt "493||sub_b_adv19||explanation"
+msgid "Gen-san went from being afraid of high\r\ntech items to being obsessed with them.\r\nI'm just glad he's back to doing karaoke."
+msgstr ""
+
+msgctxt "494||sub_b_adv20||explanation"
+msgid "I'm glad Ando-san was able to get back\r\nwith his wife. I wasn't sure how things\r\nwould end, but everything worked out."
+msgstr ""
+
+msgctxt "495||sub_b_adv21||explanation"
+msgid "I'm glad Kaneko-san could come to terms\r\nwith his past and take a new step forward."
+msgstr ""
+
+msgctxt "496||sub_b_adv22||explanation"
+msgid "I told Mama how grateful I was for all\r\nshe's done. Having a drink is great, but\r\neven greater when you have it with\r\nfriends."
+msgstr ""
+
+msgctxt "497||sub_b_adv23||explanation"
+msgid "I never imagined I'd go spearfishing at\r\nsome point in my life... But there's a\r\nsurprising amount of depth to it. I'll\r\ngo out to sea again when I have time."
+msgstr ""
+
+msgctxt "498||sub_b_adv24||explanation"
+msgid "I caught a Delicious Octopus because\r\nKenji Gorchov, the baseball player, begged\r\nfor it. I wonder what else I can catch out\r\nhere with such a unique flavor."
+msgstr ""
+
+msgctxt "499||sub_b_adv25||explanation"
+msgid "I managed to defeat the Bloody Shark and\r\neveryone is able to fish again. I should\r\ncome back to this special place to fish\r\nagain sometime."
+msgstr ""
+
+msgctxt "500||sub_b_adv26||explanation"
+msgid "I'm going to be battling with Saigo, a\r\ncrisis management professional, from now\r\non. He's an odd man, but I'll learn what I\r\ncan from him."
+msgstr ""
+
+msgctxt "501||sub_b_adv27||explanation"
+msgid "A bar... It might be nice to have a drink\r\nand enjoy some small talk. I'd like to sit\r\nback and relax every now and then."
+msgstr ""
+
+msgctxt "503||shop_eat_all_k_ikinari_steak||explanation"
+msgid "Eat everything on the menu at Ikinari Steak"
+msgstr ""
+
+msgctxt "504||shop_eat_all_k_bantam||explanation"
+msgid "Eat everything on the menu at Bantam"
+msgstr ""
+
+msgctxt "505||shop_eat_all_k_ichibanboshi||explanation"
+msgid "Eat everything on the menu at\r\nKyushu No. 1 Star"
+msgstr ""
+
+msgctxt "506||shop_eat_all_k_M_SIDE_CAFE||explanation"
+msgid "Eat everything on the menu at M Side Cafe"
+msgstr ""
+
+msgctxt "507||shop_eat_all_k_osaka_ohsho||explanation"
+msgid "Eat everything on the menu at Osaka King"
+msgstr ""
+
+msgctxt "508||shop_eat_all_k_quadra||explanation"
+msgid "Eat everything on the menu at\r\nQuadra Garden"
+msgstr ""
+
+msgctxt "509||shop_eat_all_k_sushizanmai||explanation"
+msgid "Eat everything on the menu at Sushi Zanmai"
+msgstr ""
+
+msgctxt "510||shop_eat_all_k_wettekitchen_tw||explanation"
+msgid "Eat everything on the menu at\r\nWette Kitchen"
+msgstr ""
+
+msgctxt "512||shop_eat_all_o_juumangoku||explanation"
+msgid "Eat everything on the menu at\r\nJumangoku Chinese Soba"
+msgstr ""
+
+msgctxt "513||shop_eat_all_o_kakikoya||explanation"
+msgid "Eat everything on the menu at Oyster Shack"
+msgstr ""
+
+msgctxt "514||shop_eat_all_o_La_Pente||explanation"
+msgid "Eat everything on the menu at La Pente"
+msgstr ""
+
+msgctxt "515||shop_eat_all_o_yonetoku||explanation"
+msgid "Eat everything on the menu at Yonetoku"
+msgstr ""
+
+msgctxt "517||shop_eat_all_k_wildjackson||explanation"
+msgid "Eat everything on the menu at Wild Jackson"
+msgstr ""
+
+msgctxt "519||make_exp1||explanation"
+msgid "Earn a total of 1,000 EXP"
+msgstr ""
+
+msgctxt "520||make_exp2||explanation"
+msgid "Earn a total of 10,000 EXP"
+msgstr ""
+
+msgctxt "521||make_exp3||explanation"
+msgid "Earn a total of 100,000 EXP"
+msgstr ""
+
+msgctxt "522||shop_eat_all_k_yoronotaki||explanation"
+msgid "Eat everything on the menu at Yoronotaki"
+msgstr ""
+
+msgctxt "523||shop_eat_all_k_hanrai||explanation"
+msgid "Eat everything on the menu at Kanrai"
+msgstr ""
+
+msgctxt "524||sub_a_adv99||explanation"
+msgid "I have defeated Amon."
+msgstr ""
+

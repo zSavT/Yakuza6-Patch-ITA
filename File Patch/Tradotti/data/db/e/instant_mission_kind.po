@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||sample||title"
+msgid "Do something!"
+msgstr ""
+
+msgctxt "2||sample_pattern||title"
+msgid "Spotted a shakedown!"
+msgstr ""
+
+msgctxt "4||haruto_dandle||title"
+msgid "Calm Haruto"
+msgstr ""
+
+msgctxt "10||test_encount_boss||title"
+msgid "Spotted an encount boss!"
+msgstr ""
+
+msgctxt "11||i_09_ikinari_shikaku||title"
+msgid "An Assassin Appears"
+msgstr ""
+
+msgctxt "12||i_11_kami_ga_nai||title"
+msgid "Wiped Out"
+msgstr ""
+
+msgctxt "13||i_25_kuinige||title"
+msgid "Dine and Dash"
+msgstr ""
+
+msgctxt "15||i_01_katsuage_01||title"
+msgid "Mugging"
+msgstr ""
+
+msgctxt "16||i_encboss_k_01||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "17||i_encboss_k_02||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "18||i_encboss_k_03||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "19||i_encboss_k_04||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "20||i_encboss_k_05||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "21||i_encboss_k_06||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "22||i_encboss_k_07||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "23||i_encboss_k_08||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "24||i_encboss_k_max01||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "25||i_encboss_k_max02||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "26||i_encboss_k_max03||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "27||i_encboss_k_max04||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "28||i_encboss_k_max05||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "29||i_encboss_o_01||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "30||i_encboss_o_02||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "31||i_encboss_o_03||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "32||i_encboss_o_04||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "33||i_encboss_o_05||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "34||i_encboss_o_06||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "35||i_encboss_o_07||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "36||i_encboss_o_08||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "37||i_encboss_o_max01||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "38||i_encboss_o_max02||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "39||i_encboss_o_max03||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "40||i_encboss_o_max04||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "41||i_encboss_o_max05||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "42||sample_event_encount_01||title"
+msgid "sample_event encount"
+msgstr ""
+
+msgctxt "43||i_01_event_encount_A01||title"
+msgid "Shake Up the Shakedown Squad"
+msgstr ""
+
+msgctxt "44||i_01_event_encount_A02||title"
+msgid "Shake Up the Shakedown Squad 2"
+msgstr ""
+
+msgctxt "45||i_01_event_encount_A03||title"
+msgid "Shake Up the Shakedown Squad 3"
+msgstr ""
+
+msgctxt "46||i_02_event_encount_A01||title"
+msgid "Menace to the Middle-aged"
+msgstr ""
+
+msgctxt "47||i_02_event_encount_A02||title"
+msgid "Menace to the Middle-aged 2"
+msgstr ""
+
+msgctxt "48||i_02_event_encount_A03||title"
+msgid "Menace to the Middle-aged 3"
+msgstr ""
+
+msgctxt "49||i_03_event_encount_A01||title"
+msgid "In Defense of Chivalry"
+msgstr ""
+
+msgctxt "50||i_03_event_encount_A02||title"
+msgid "In Defense of Chivalry 2"
+msgstr ""
+
+msgctxt "51||i_03_event_encount_A03||title"
+msgid "In Defense of Chivalry 3"
+msgstr ""
+
+msgctxt "52||i_04_event_encount_A01||title"
+msgid "Keeping the Peace"
+msgstr ""
+
+msgctxt "53||i_04_event_encount_A02||title"
+msgid "Keeping the Peace 2"
+msgstr ""
+
+msgctxt "54||i_04_event_encount_A03||title"
+msgid "Keeping the Peace 3"
+msgstr ""
+
+msgctxt "55||i_05_event_encount_A01||title"
+msgid "A Danger to Dating"
+msgstr ""
+
+msgctxt "56||i_05_event_encount_A02||title"
+msgid "A Danger to Dating 2"
+msgstr ""
+
+msgctxt "57||i_05_event_encount_A03||title"
+msgid "A Danger to Dating 3"
+msgstr ""
+
+msgctxt "59||i_10_kyuubyounin||title"
+msgid "An Onomichi Illness"
+msgstr ""
+
+msgctxt "60||i_12_houkama||title"
+msgid "The Flames of Vengeance"
+msgstr ""
+
+msgctxt "61||i_21_hittakuri||title"
+msgid "Rumblings in Onomichi"
+msgstr ""
+
+msgctxt "62||i_33_harapeko||title"
+msgid "Starving"
+msgstr ""
+
+msgctxt "63||haruto_dandle_access||title"
+msgid "Calm Haruto"
+msgstr ""
+
+msgctxt "64||test_lynch||title"
+msgid "Spotted a shakedown!"
+msgstr ""
+
+msgctxt "85||i_13_tourima||title"
+msgid "The Slasher Appears"
+msgstr ""
+
+msgctxt "86||i_14_kaji||title"
+msgid "Put Out the Fire"
+msgstr ""
+
+msgctxt "91||i_22_suri||title"
+msgid "Pocket Protector"
+msgstr ""
+
+msgctxt "92||i_23_manbiki||title"
+msgid "A Shoplifter Appears"
+msgstr ""
+
+msgctxt "93||i_24_goutou||title"
+msgid "A Thief Appears"
+msgstr ""
+
+msgctxt "94||i_27_twitter||title"
+msgid "In Deep Troublr"
+msgstr ""
+
+msgctxt "96||i_29_sos||title"
+msgid "SOS"
+msgstr ""
+
+msgctxt "98||i_31_yopparai||title"
+msgid "A Sauced-Up Sod"
+msgstr ""
+
+msgctxt "100||i_34_rakugaki||title"
+msgid "Graffiti Suspicion"
+msgstr ""
+
+msgctxt "101||i_38_toritetsu||title"
+msgid "Railway Enthusiast"
+msgstr ""
+
+msgctxt "102||i_39_seafood||title"
+msgid "Freshly Caught Fish"
+msgstr ""
+
+msgctxt "103||i_40_tombraider||title"
+msgid "Graveyard Man"
+msgstr ""
+
+msgctxt "104||i_41_missing||title"
+msgid "Lost and Found"
+msgstr ""
+
+msgctxt "105||i_46_fire||title"
+msgid "Building Fire"
+msgstr ""
+
+msgctxt "106||i_47_tsutsumotase||title"
+msgid "Beware the Beauty"
+msgstr ""
+
+msgctxt "107||i_48_spam||title"
+msgid "Suspicions"
+msgstr ""
+
+msgctxt "108||haruto_dandle_c03||title"
+msgid "Calm Haruto"
+msgstr ""
+
+msgctxt "109||sample_talk||title"
+msgid "sample_conversation"
+msgstr ""
+
+msgctxt "111||i_42_falling||title"
+msgid "On the Edge: Onomichi"
+msgstr ""
+
+msgctxt "112||i_10_kyuubyounin_k00||title"
+msgid "Queasy in Kamurocho"
+msgstr ""
+
+msgctxt "113||i_42_falling_k00||title"
+msgid "On the Edge: Kamurocho"
+msgstr ""
+
+msgctxt "119||i_35_suri||title"
+msgid "Pocket Protector"
+msgstr ""
+
+msgctxt "120||i_36_hakaarashi||title"
+msgid "A Grave Incident"
+msgstr ""
+
+msgctxt "121||i_17_ramen||title"
+msgid "In Hot Water"
+msgstr ""
+
+msgctxt "131||i_tm18_houkama_k01||title"
+msgid "The Flames of Justice"
+msgstr ""
+
+msgctxt "132||i_tm19_kaji_k02||title"
+msgid "Kamurocho Alight"
+msgstr ""
+
+msgctxt "133||i_tm20_kaji_k03||title"
+msgid "Kamurocho Alight 2"
+msgstr ""
+
+msgctxt "134||i_tm21_kaji_k04||title"
+msgid "Kamurocho Alight 3"
+msgstr ""
+
+msgctxt "135||i_tm22_kaji_k05||title"
+msgid "Turn Down the Burndown"
+msgstr ""
+
+msgctxt "136||i_tm24_kaji_o02||title"
+msgid "Onomichi Alight"
+msgstr ""
+
+msgctxt "137||i_tm25_kaji_o03||title"
+msgid "Onomichi Alight 2"
+msgstr ""
+
+msgctxt "138||i_tm26_kaji_o04||title"
+msgid "Onomichi Alight 3"
+msgstr ""
+
+msgctxt "139||i_tm27_kaji_o05||title"
+msgid "Fuel to the Fire"
+msgstr ""
+
+msgctxt "141||i_tm35_hankouyokoku||title"
+msgid "An Explosive Game"
+msgstr ""
+
+msgctxt "142||i_tm32_hankouyokoku2||title"
+msgid "An Explosive End"
+msgstr ""
+
+msgctxt "1||sample||message_select_maru"
+msgid "Talk"
+msgstr ""
+
+msgctxt "1||sample||message_select_batsu"
+msgid "Watch"
+msgstr ""
+
+msgctxt "1||sample||message_select_shikaku"
+msgid "Punch"
+msgstr ""
+

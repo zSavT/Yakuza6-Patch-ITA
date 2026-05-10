@@ -1,0 +1,1049 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "47||rarabai_weak00||ゲーム中の独り言_4"
+msgid "I'll fight till the end!"
+msgstr ""
+
+msgctxt "48||rarabai_weak01||ゲーム中の独り言_4"
+msgid "Ah, nicely played."
+msgstr ""
+
+msgctxt "49||rarabai_weak02||ゲーム中の独り言_4"
+msgid "I can't lose."
+msgstr ""
+
+msgctxt "50||rarabai_weak03||ゲーム中の独り言_4"
+msgid "Gimme some tea!"
+msgstr ""
+
+msgctxt "51||rarabai_weak04||ゲーム中の独り言_4"
+msgid "I could use a vacation."
+msgstr ""
+
+msgctxt "52||rarabai_middle00||ゲーム中の独り言_4"
+msgid "Right, let's play."
+msgstr ""
+
+msgctxt "53||rarabai_middle01||ゲーム中の独り言_4"
+msgid "Man, too far..."
+msgstr ""
+
+msgctxt "54||rarabai_middle02||ゲーム中の独り言_4"
+msgid "Not too bad."
+msgstr ""
+
+msgctxt "55||rarabai_middle03||ゲーム中の独り言_4"
+msgid "Can go for tenpai with this."
+msgstr ""
+
+msgctxt "56||rarabai_middle04||ゲーム中の独り言_4"
+msgid "Where'd I put that candy?"
+msgstr ""
+
+msgctxt "57||kindai_middle00||ゲーム中の独り言_4"
+msgid "Wow, I'm doing great!"
+msgstr ""
+
+msgctxt "58||kindai_middle01||ゲーム中の独り言_4"
+msgid "Got a good feelin'!"
+msgstr ""
+
+msgctxt "59||kindai_middle02||ゲーム中の独り言_4"
+msgid "These draws are garbage."
+msgstr ""
+
+msgctxt "60||kindai_middle03||ゲーム中の独り言_4"
+msgid "What to have for dinner...?"
+msgstr ""
+
+msgctxt "61||kindai_middle04||ゲーム中の独り言_4"
+msgid "Is this table rigged?"
+msgstr ""
+
+msgctxt "62||kindai_strong00||ゲーム中の独り言_4"
+msgid "This is not a game of luck."
+msgstr ""
+
+msgctxt "63||kindai_strong01||ゲーム中の独り言_4"
+msgid "I'm getting in the groove."
+msgstr ""
+
+msgctxt "64||kindai_strong02||ゲーム中の独り言_4"
+msgid "Mahjong is my life."
+msgstr ""
+
+msgctxt "65||kindai_strong03||ゲーム中の独り言_4"
+msgid "Don't ya think mahjong's the best?"
+msgstr ""
+
+msgctxt "66||kindai_strong04||ゲーム中の独り言_4"
+msgid "I have a good feeling about this!"
+msgstr ""
+
+msgctxt "67||rarabai_event_00||ゲーム中の独り言_4"
+msgid "Don't be so cocksure, kid."
+msgstr ""
+
+msgctxt "68||rarabai_event_01||ゲーム中の独り言_4"
+msgid "Gotta make a change..."
+msgstr ""
+
+msgctxt "69||rarabai_event_02||ゲーム中の独り言_4"
+msgid "I might even win!"
+msgstr ""
+
+msgctxt "70||kindai_event_00||ゲーム中の独り言_4"
+msgid "I have only just begun..."
+msgstr ""
+
+msgctxt "71||kindai_event_01||ゲーム中の独り言_4"
+msgid "It's time for me to shine."
+msgstr ""
+
+msgctxt "72||kindai_event_02||ゲーム中の独り言_4"
+msgid "The air is thick with anticipation."
+msgstr ""
+
+msgctxt "47||rarabai_weak00||ゲーム中の独り言_2"
+msgid "Can't stop me now!"
+msgstr ""
+
+msgctxt "48||rarabai_weak01||ゲーム中の独り言_2"
+msgid "Not sure what to do."
+msgstr ""
+
+msgctxt "49||rarabai_weak02||ゲーム中の独り言_2"
+msgid "Easy peasy."
+msgstr ""
+
+msgctxt "50||rarabai_weak03||ゲーム中の独り言_2"
+msgid "His wife's useless..."
+msgstr ""
+
+msgctxt "51||rarabai_weak04||ゲーム中の独り言_2"
+msgid "Oh, this is good."
+msgstr ""
+
+msgctxt "52||rarabai_middle00||ゲーム中の独り言_2"
+msgid "Someone tell me a joke."
+msgstr ""
+
+msgctxt "53||rarabai_middle01||ゲーム中の独り言_2"
+msgid "Oh boy..."
+msgstr ""
+
+msgctxt "54||rarabai_middle02||ゲーム中の独り言_2"
+msgid "How's it goin'?"
+msgstr ""
+
+msgctxt "55||rarabai_middle03||ゲーム中の独り言_2"
+msgid "Not a bad draw."
+msgstr ""
+
+msgctxt "56||rarabai_middle04||ゲーム中の独り言_2"
+msgid "My salary's peanuts..."
+msgstr ""
+
+msgctxt "57||kindai_middle00||ゲーム中の独り言_2"
+msgid "Crap, luck's not on my side..."
+msgstr ""
+
+msgctxt "58||kindai_middle01||ゲーム中の独り言_2"
+msgid "Gettin' bored here."
+msgstr ""
+
+msgctxt "59||kindai_middle02||ゲーム中の独り言_2"
+msgid "Going well..."
+msgstr ""
+
+msgctxt "60||kindai_middle03||ゲーム中の独り言_2"
+msgid "Now that's a good draw."
+msgstr ""
+
+msgctxt "61||kindai_middle04||ゲーム中の独り言_2"
+msgid "This game's all mine."
+msgstr ""
+
+msgctxt "62||kindai_strong00||ゲーム中の独り言_2"
+msgid "I'll eat you alive."
+msgstr ""
+
+msgctxt "63||kindai_strong01||ゲーム中の独り言_2"
+msgid "I can't give up just yet."
+msgstr ""
+
+msgctxt "64||kindai_strong02||ゲーム中の独り言_2"
+msgid "I will stay in this until the end."
+msgstr ""
+
+msgctxt "65||kindai_strong03||ゲーム中の独り言_2"
+msgid "Which am I gonna get rid of...?"
+msgstr ""
+
+msgctxt "66||kindai_strong04||ゲーム中の独り言_2"
+msgid "I hope I can win this one..."
+msgstr ""
+
+msgctxt "67||rarabai_event_00||ゲーム中の独り言_2"
+msgid "What've we got here?"
+msgstr ""
+
+msgctxt "68||rarabai_event_01||ゲーム中の独り言_2"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "69||rarabai_event_02||ゲーム中の独り言_2"
+msgid "I hate to lose..."
+msgstr ""
+
+msgctxt "70||kindai_event_00||ゲーム中の独り言_2"
+msgid "Silence. We are locked in battle."
+msgstr ""
+
+msgctxt "71||kindai_event_01||ゲーム中の独り言_2"
+msgid "Things're getting good now."
+msgstr ""
+
+msgctxt "72||kindai_event_02||ゲーム中の独り言_2"
+msgid "I wonder, how is this going to play out?"
+msgstr ""
+
+msgctxt "47||rarabai_weak00||桐生リーチ時_3"
+msgid "Oh, I see!"
+msgstr ""
+
+msgctxt "48||rarabai_weak01||桐生リーチ時_3"
+msgid "Huh, already?"
+msgstr ""
+
+msgctxt "49||rarabai_weak02||桐生リーチ時_3"
+msgid "Now we're talking."
+msgstr ""
+
+msgctxt "50||rarabai_weak03||桐生リーチ時_3"
+msgid "Think you can beat me?"
+msgstr ""
+
+msgctxt "51||rarabai_weak04||桐生リーチ時_3"
+msgid "Come on, relax a little."
+msgstr ""
+
+msgctxt "52||rarabai_middle00||桐生リーチ時_3"
+msgid "So what?"
+msgstr ""
+
+msgctxt "53||rarabai_middle01||桐生リーチ時_3"
+msgid "Good move."
+msgstr ""
+
+msgctxt "54||rarabai_middle02||桐生リーチ時_3"
+msgid "That your move? I see."
+msgstr ""
+
+msgctxt "55||rarabai_middle03||桐生リーチ時_3"
+msgid "Aha! I see."
+msgstr ""
+
+msgctxt "56||rarabai_middle04||桐生リーチ時_3"
+msgid "Don't be like that."
+msgstr ""
+
+msgctxt "57||kindai_middle00||桐生リーチ時_3"
+msgid "Man, you're lucky."
+msgstr ""
+
+msgctxt "58||kindai_middle01||桐生リーチ時_3"
+msgid "That's no fair!"
+msgstr ""
+
+msgctxt "59||kindai_middle02||桐生リーチ時_3"
+msgid "Whoa, take it easy."
+msgstr ""
+
+msgctxt "60||kindai_middle03||桐生リーチ時_3"
+msgid "Aren't you aggressive?"
+msgstr ""
+
+msgctxt "61||kindai_middle04||桐生リーチ時_3"
+msgid "Too easy."
+msgstr ""
+
+msgctxt "62||kindai_strong00||桐生リーチ時_3"
+msgid "So that's your move..."
+msgstr ""
+
+msgctxt "63||kindai_strong01||桐生リーチ時_3"
+msgid "Well that's a problem."
+msgstr ""
+
+msgctxt "64||kindai_strong02||桐生リーチ時_3"
+msgid "How did you riichi so soon!?"
+msgstr ""
+
+msgctxt "65||kindai_strong03||桐生リーチ時_3"
+msgid "Oooh, nice riichi!"
+msgstr ""
+
+msgctxt "66||kindai_strong04||桐生リーチ時_3"
+msgid "My heart's gonna pop!"
+msgstr ""
+
+msgctxt "67||rarabai_event_00||桐生リーチ時_3"
+msgid "We're just getting started."
+msgstr ""
+
+msgctxt "68||rarabai_event_01||桐生リーチ時_3"
+msgid "Don't get cocky."
+msgstr ""
+
+msgctxt "69||rarabai_event_02||桐生リーチ時_3"
+msgid "This is so exciting!"
+msgstr ""
+
+msgctxt "70||kindai_event_00||桐生リーチ時_3"
+msgid "Enough of your insolence."
+msgstr ""
+
+msgctxt "71||kindai_event_01||桐生リーチ時_3"
+msgid "That's a bold move."
+msgstr ""
+
+msgctxt "72||kindai_event_02||桐生リーチ時_3"
+msgid "The suspense is tearing me up!"
+msgstr ""
+
+msgctxt "47||rarabai_weak00||桐生が長考_1"
+msgid "Hurry it up."
+msgstr ""
+
+msgctxt "48||rarabai_weak01||桐生が長考_1"
+msgid "Don't make me wait."
+msgstr ""
+
+msgctxt "49||rarabai_weak02||桐生が長考_1"
+msgid "Ahem. I'm waiting."
+msgstr ""
+
+msgctxt "50||rarabai_weak03||桐生が長考_1"
+msgid "I'll teach you some manners."
+msgstr ""
+
+msgctxt "51||rarabai_weak04||桐生が長考_1"
+msgid "We don't have all day."
+msgstr ""
+
+msgctxt "52||rarabai_middle00||桐生が長考_1"
+msgid "We're waitin', dumbass."
+msgstr ""
+
+msgctxt "53||rarabai_middle01||桐生が長考_1"
+msgid "Hurry up already."
+msgstr ""
+
+msgctxt "54||rarabai_middle02||桐生が長考_1"
+msgid "Time is money, pal."
+msgstr ""
+
+msgctxt "55||rarabai_middle03||桐生が長考_1"
+msgid "You got that good a hand?"
+msgstr ""
+
+msgctxt "56||rarabai_middle04||桐生が長考_1"
+msgid "Hurry it up, will ya?"
+msgstr ""
+
+msgctxt "57||kindai_middle00||桐生が長考_1"
+msgid "You don't need to overthink it."
+msgstr ""
+
+msgctxt "58||kindai_middle01||桐生が長考_1"
+msgid "Didja pass out?"
+msgstr ""
+
+msgctxt "59||kindai_middle02||桐生が長考_1"
+msgid "Ho hum..."
+msgstr ""
+
+msgctxt "60||kindai_middle03||桐生が長考_1"
+msgid "I've got a date after this."
+msgstr ""
+
+msgctxt "61||kindai_middle04||桐生が長考_1"
+msgid "Time is money, you know."
+msgstr ""
+
+msgctxt "62||kindai_strong00||桐生が長考_1"
+msgid "I could eat a horse."
+msgstr ""
+
+msgctxt "63||kindai_strong01||桐生が長考_1"
+msgid "You're screwing with my rhythm."
+msgstr ""
+
+msgctxt "64||kindai_strong02||桐生が長考_1"
+msgid "I sincerely hope you're still awake."
+msgstr ""
+
+msgctxt "65||kindai_strong03||桐生が長考_1"
+msgid "Hey, do I get to go yet?"
+msgstr ""
+
+msgctxt "66||kindai_strong04||桐生が長考_1"
+msgid "What a downer."
+msgstr ""
+
+msgctxt "67||rarabai_event_00||桐生が長考_1"
+msgid "Get a move on."
+msgstr ""
+
+msgctxt "68||rarabai_event_01||桐生が長考_1"
+msgid "Thinking won't help."
+msgstr ""
+
+msgctxt "69||rarabai_event_02||桐生が長考_1"
+msgid "Hey, are you asleep?"
+msgstr ""
+
+msgctxt "70||kindai_event_00||桐生が長考_1"
+msgid "Time is not an infinite resource."
+msgstr ""
+
+msgctxt "71||kindai_event_01||桐生が長考_1"
+msgid "Thinking won't help you now."
+msgstr ""
+
+msgctxt "72||kindai_event_02||桐生が長考_1"
+msgid "This is pretty annoying."
+msgstr ""
+
+msgctxt "47||rarabai_weak00||開始時_3"
+msgid "I like a good challenge."
+msgstr ""
+
+msgctxt "48||rarabai_weak01||開始時_3"
+msgid "I'll go easy on you."
+msgstr ""
+
+msgctxt "49||rarabai_weak02||開始時_3"
+msgid "Time for some fun."
+msgstr ""
+
+msgctxt "50||rarabai_weak03||開始時_3"
+msgid "I'll show you how it's done."
+msgstr ""
+
+msgctxt "51||rarabai_weak04||開始時_3"
+msgid "I'm so going to enjoy this."
+msgstr ""
+
+msgctxt "52||rarabai_middle00||開始時_3"
+msgid "Imma make ya cry."
+msgstr ""
+
+msgctxt "53||rarabai_middle01||開始時_3"
+msgid "Here I go!"
+msgstr ""
+
+msgctxt "54||rarabai_middle02||開始時_3"
+msgid "It's all luck in the end."
+msgstr ""
+
+msgctxt "55||rarabai_middle03||開始時_3"
+msgid "Gonna win this one."
+msgstr ""
+
+msgctxt "56||rarabai_middle04||開始時_3"
+msgid "My tiles are just peachy!"
+msgstr ""
+
+msgctxt "57||kindai_middle00||開始時_3"
+msgid "Hope I can get lucky..."
+msgstr ""
+
+msgctxt "58||kindai_middle01||開始時_3"
+msgid "Uh oh. You got Nine Gates?"
+msgstr ""
+
+msgctxt "59||kindai_middle02||開始時_3"
+msgid "This'll be a long game..."
+msgstr ""
+
+msgctxt "60||kindai_middle03||開始時_3"
+msgid "Think I'm easy? Wrong!"
+msgstr ""
+
+msgctxt "61||kindai_middle04||開始時_3"
+msgid "Getting interesting."
+msgstr ""
+
+msgctxt "62||kindai_strong00||開始時_3"
+msgid "I wonder if anyone can stop me."
+msgstr ""
+
+msgctxt "63||kindai_strong01||開始時_3"
+msgid "I don't wanna lose this one."
+msgstr ""
+
+msgctxt "64||kindai_strong02||開始時_3"
+msgid "The fire of mahjong burns within me."
+msgstr ""
+
+msgctxt "65||kindai_strong03||開始時_3"
+msgid "Yayayay, it's time for some fun!"
+msgstr ""
+
+msgctxt "66||kindai_strong04||開始時_3"
+msgid "Maybe I can win this one!"
+msgstr ""
+
+msgctxt "67||rarabai_event_00||開始時_3"
+msgid "I'll destroy you now."
+msgstr ""
+
+msgctxt "68||rarabai_event_01||開始時_3"
+msgid "You're going down."
+msgstr ""
+
+msgctxt "69||rarabai_event_02||開始時_3"
+msgid "I'll play it safe for now."
+msgstr ""
+
+msgctxt "70||kindai_event_00||開始時_3"
+msgid "Well then, let us commence."
+msgstr ""
+
+msgctxt "71||kindai_event_01||開始時_3"
+msgid "I wonder if you can beat me."
+msgstr ""
+
+msgctxt "72||kindai_event_02||開始時_3"
+msgid "I think this game will be mine."
+msgstr ""
+
+msgctxt "47||rarabai_weak00||桐生がツモ_3"
+msgid "Who do you take me for!?"
+msgstr ""
+
+msgctxt "48||rarabai_weak01||桐生がツモ_3"
+msgid "Good tiles."
+msgstr ""
+
+msgctxt "49||rarabai_weak02||桐生がツモ_3"
+msgid "That can't be right."
+msgstr ""
+
+msgctxt "50||rarabai_weak03||桐生がツモ_3"
+msgid "Got to be on my toes..."
+msgstr ""
+
+msgctxt "51||rarabai_weak04||桐生がツモ_3"
+msgid "Keep me entertained."
+msgstr ""
+
+msgctxt "52||rarabai_middle00||桐生がツモ_3"
+msgid "Learn some tact, dimwit."
+msgstr ""
+
+msgctxt "53||rarabai_middle01||桐生がツモ_3"
+msgid "Hold on a sec!"
+msgstr ""
+
+msgctxt "54||rarabai_middle02||桐生がツモ_3"
+msgid "Gimme a share of your luck."
+msgstr ""
+
+msgctxt "55||rarabai_middle03||桐生がツモ_3"
+msgid "Time for tsumo?"
+msgstr ""
+
+msgctxt "56||rarabai_middle04||桐生がツモ_3"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "57||kindai_middle00||桐生がツモ_3"
+msgid "Booo."
+msgstr ""
+
+msgctxt "58||kindai_middle01||桐生がツモ_3"
+msgid "Almost had a heart attack!"
+msgstr ""
+
+msgctxt "59||kindai_middle02||桐生がツモ_3"
+msgid "That one, huh?"
+msgstr ""
+
+msgctxt "60||kindai_middle03||桐生がツモ_3"
+msgid "That was close..."
+msgstr ""
+
+msgctxt "61||kindai_middle04||桐生がツモ_3"
+msgid "Let's see how it goes."
+msgstr ""
+
+msgctxt "62||kindai_strong00||桐生がツモ_3"
+msgid "You're unbreakable..."
+msgstr ""
+
+msgctxt "63||kindai_strong01||桐生がツモ_3"
+msgid "This has gotta be a fluke..."
+msgstr ""
+
+msgctxt "64||kindai_strong02||桐生がツモ_3"
+msgid "You are the victor."
+msgstr ""
+
+msgctxt "65||kindai_strong03||桐生がツモ_3"
+msgid "Whaaat, you already got a tsumo?"
+msgstr ""
+
+msgctxt "66||kindai_strong04||桐生がツモ_3"
+msgid "Such a bummer."
+msgstr ""
+
+msgctxt "67||rarabai_event_00||桐生がツモ_3"
+msgid "You're not that bad."
+msgstr ""
+
+msgctxt "68||rarabai_event_01||桐生がツモ_3"
+msgid "Oh, damn it."
+msgstr ""
+
+msgctxt "69||rarabai_event_02||桐生がツモ_3"
+msgid "Got lucky!"
+msgstr ""
+
+msgctxt "70||kindai_event_00||桐生がツモ_3"
+msgid "...You are quite strong indeed."
+msgstr ""
+
+msgctxt "71||kindai_event_01||桐生がツモ_3"
+msgid "Lady Luck is with you now."
+msgstr ""
+
+msgctxt "72||kindai_event_02||桐生がツモ_3"
+msgid "I'll resent you for this..."
+msgstr ""
+
+msgctxt "47||rarabai_weak00||振込み時_2"
+msgid "Seriously!?"
+msgstr ""
+
+msgctxt "48||rarabai_weak01||振込み時_2"
+msgid "Don't be mean."
+msgstr ""
+
+msgctxt "49||rarabai_weak02||振込み時_2"
+msgid "Where'd I go wrong?"
+msgstr ""
+
+msgctxt "50||rarabai_weak03||振込み時_2"
+msgid "Trying to make me look bad!?"
+msgstr ""
+
+msgctxt "51||rarabai_weak04||振込み時_2"
+msgid "No way..."
+msgstr ""
+
+msgctxt "52||rarabai_middle00||振込み時_2"
+msgid "Pick on someone else."
+msgstr ""
+
+msgctxt "53||rarabai_middle01||振込み時_2"
+msgid "For crap's sake..."
+msgstr ""
+
+msgctxt "54||rarabai_middle02||振込み時_2"
+msgid "Did my luck run out?"
+msgstr ""
+
+msgctxt "55||rarabai_middle03||振込み時_2"
+msgid "Huh. Not too sharp..."
+msgstr ""
+
+msgctxt "56||rarabai_middle04||振込み時_2"
+msgid "Gotta be kiddin' me!"
+msgstr ""
+
+msgctxt "57||kindai_middle00||振込み時_2"
+msgid "Ouch..."
+msgstr ""
+
+msgctxt "58||kindai_middle01||振込み時_2"
+msgid "What the<symbol=em_dash_with_outline>!"
+msgstr ""
+
+msgctxt "59||kindai_middle02||振込み時_2"
+msgid "Oh... I see."
+msgstr ""
+
+msgctxt "60||kindai_middle03||振込み時_2"
+msgid "Wish I could undo that."
+msgstr ""
+
+msgctxt "61||kindai_middle04||振込み時_2"
+msgid "Yeah, saw it coming."
+msgstr ""
+
+msgctxt "62||kindai_strong00||振込み時_2"
+msgid "No, it can't be the end...!"
+msgstr ""
+
+msgctxt "63||kindai_strong01||振込み時_2"
+msgid "Huh!? That's far out, man."
+msgstr ""
+
+msgctxt "64||kindai_strong02||振込み時_2"
+msgid "This simply can't be right."
+msgstr ""
+
+msgctxt "65||kindai_strong03||振込み時_2"
+msgid "Nooo, you're so mean!"
+msgstr ""
+
+msgctxt "66||kindai_strong04||振込み時_2"
+msgid "Crap, I blew it!"
+msgstr ""
+
+msgctxt "67||rarabai_event_00||振込み時_2"
+msgid "My luck ran out."
+msgstr ""
+
+msgctxt "68||rarabai_event_01||振込み時_2"
+msgid "Heh, shit happens."
+msgstr ""
+
+msgctxt "69||rarabai_event_02||振込み時_2"
+msgid "You could've let it slide!"
+msgstr ""
+
+msgctxt "70||kindai_event_00||振込み時_2"
+msgid "This is the end for me..."
+msgstr ""
+
+msgctxt "71||kindai_event_01||振込み時_2"
+msgid "Eh, it's just one of those days."
+msgstr ""
+
+msgctxt "72||kindai_event_02||振込み時_2"
+msgid "I'm completely out of luck today."
+msgstr ""
+
+msgctxt "47||rarabai_weak00||アガリ時_2"
+msgid "This is great!"
+msgstr ""
+
+msgctxt "48||rarabai_weak01||アガリ時_2"
+msgid "Things are getting good."
+msgstr ""
+
+msgctxt "49||rarabai_weak02||アガリ時_2"
+msgid "I got skill AND luck."
+msgstr ""
+
+msgctxt "50||rarabai_weak03||アガリ時_2"
+msgid "I'll let you off easy."
+msgstr ""
+
+msgctxt "51||rarabai_weak04||アガリ時_2"
+msgid "Was that not enough for you?"
+msgstr ""
+
+msgctxt "52||rarabai_middle00||アガリ時_2"
+msgid "Sweet! Pay up, buddy."
+msgstr ""
+
+msgctxt "53||rarabai_middle01||アガリ時_2"
+msgid "Muahaha!"
+msgstr ""
+
+msgctxt "54||rarabai_middle02||アガリ時_2"
+msgid "Gonna strike it rich!"
+msgstr ""
+
+msgctxt "55||rarabai_middle03||アガリ時_2"
+msgid "I can live with that."
+msgstr ""
+
+msgctxt "56||rarabai_middle04||アガリ時_2"
+msgid "Sorry, heh."
+msgstr ""
+
+msgctxt "57||kindai_middle00||アガリ時_2"
+msgid "I'm really grooving now!"
+msgstr ""
+
+msgctxt "58||kindai_middle01||アガリ時_2"
+msgid "Luck's on my side!"
+msgstr ""
+
+msgctxt "59||kindai_middle02||アガリ時_2"
+msgid "Got lucky!"
+msgstr ""
+
+msgctxt "60||kindai_middle03||アガリ時_2"
+msgid "Aw, I'm sorry for you."
+msgstr ""
+
+msgctxt "61||kindai_middle04||アガリ時_2"
+msgid "Sorry about the cheap win."
+msgstr ""
+
+msgctxt "62||kindai_strong00||アガリ時_2"
+msgid "I'm super excited right now."
+msgstr ""
+
+msgctxt "63||kindai_strong01||アガリ時_2"
+msgid "I'm flexing my mahjong muscle."
+msgstr ""
+
+msgctxt "64||kindai_strong02||アガリ時_2"
+msgid "I win! I win!"
+msgstr ""
+
+msgctxt "65||kindai_strong03||アガリ時_2"
+msgid "Super lucky! So amazing!"
+msgstr ""
+
+msgctxt "66||kindai_strong04||アガリ時_2"
+msgid "Aha, this is my win!"
+msgstr ""
+
+msgctxt "67||rarabai_event_00||アガリ時_2"
+msgid "You'll never beat me."
+msgstr ""
+
+msgctxt "68||rarabai_event_01||アガリ時_2"
+msgid "Looking good now."
+msgstr ""
+
+msgctxt "69||rarabai_event_02||アガリ時_2"
+msgid "Nothing personal."
+msgstr ""
+
+msgctxt "70||kindai_event_00||アガリ時_2"
+msgid "Pardon me."
+msgstr ""
+
+msgctxt "71||kindai_event_01||アガリ時_2"
+msgid "I'm a mahjong genius."
+msgstr ""
+
+msgctxt "72||kindai_event_02||アガリ時_2"
+msgid "Hehehe... I win."
+msgstr ""
+
+msgctxt "47||rarabai_weak00||汎用　喜び_2"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "48||rarabai_weak01||汎用　喜び_2"
+msgid "Teeheeheehee!"
+msgstr ""
+
+msgctxt "49||rarabai_weak02||汎用　喜び_2"
+msgid "Take that!"
+msgstr ""
+
+msgctxt "50||rarabai_weak03||汎用　喜び_2"
+msgid "Hey, not bad!"
+msgstr ""
+
+msgctxt "51||rarabai_weak04||汎用　喜び_2"
+msgid "That's about right."
+msgstr ""
+
+msgctxt "52||rarabai_middle00||汎用　喜び_2"
+msgid "Did it!"
+msgstr ""
+
+msgctxt "53||rarabai_middle01||汎用　喜び_2"
+msgid "All right!"
+msgstr ""
+
+msgctxt "54||rarabai_middle02||汎用　喜び_2"
+msgid "Can't stop laughin'!"
+msgstr ""
+
+msgctxt "55||rarabai_middle03||汎用　喜び_2"
+msgid "Oh yeah!"
+msgstr ""
+
+msgctxt "56||rarabai_middle04||汎用　喜び_2"
+msgid "Sweet!"
+msgstr ""
+
+msgctxt "57||kindai_middle00||汎用　喜び_2"
+msgid "Here we go!"
+msgstr ""
+
+msgctxt "58||kindai_middle01||汎用　喜び_2"
+msgid "All righty!"
+msgstr ""
+
+msgctxt "59||kindai_middle02||汎用　喜び_2"
+msgid "Oh yes, yes, yes!"
+msgstr ""
+
+msgctxt "60||kindai_middle03||汎用　喜び_2"
+msgid "I did it!"
+msgstr ""
+
+msgctxt "61||kindai_middle04||汎用　喜び_2"
+msgid "Perfect."
+msgstr ""
+
+msgctxt "62||kindai_strong00||汎用　喜び_2"
+msgid "I'm on top of the world."
+msgstr ""
+
+msgctxt "63||kindai_strong01||汎用　喜び_2"
+msgid "I freaking did it!"
+msgstr ""
+
+msgctxt "64||kindai_strong02||汎用　喜び_2"
+msgid "Ahahahahahaha!"
+msgstr ""
+
+msgctxt "65||kindai_strong03||汎用　喜び_2"
+msgid "Yayyy, this is the best!"
+msgstr ""
+
+msgctxt "66||kindai_strong04||汎用　喜び_2"
+msgid "That was awesome!"
+msgstr ""
+
+msgctxt "67||rarabai_event_00||汎用　喜び_2"
+msgid "All right!"
+msgstr ""
+
+msgctxt "68||rarabai_event_01||汎用　喜び_2"
+msgid "Not bad, not bad."
+msgstr ""
+
+msgctxt "69||rarabai_event_02||汎用　喜び_2"
+msgid "Heh, going well."
+msgstr ""
+
+msgctxt "70||kindai_event_00||汎用　喜び_2"
+msgid "Thank goodness."
+msgstr ""
+
+msgctxt "71||kindai_event_01||汎用　喜び_2"
+msgid "Niiice."
+msgstr ""
+
+msgctxt "72||kindai_event_02||汎用　喜び_2"
+msgid "Hehehehehe..."
+msgstr ""
+
+msgctxt "47||rarabai_weak00||汎用　悔しい_2"
+msgid "Can't believe it."
+msgstr ""
+
+msgctxt "48||rarabai_weak01||汎用　悔しい_2"
+msgid "I hate this game!"
+msgstr ""
+
+msgctxt "49||rarabai_weak02||汎用　悔しい_2"
+msgid "What a letdown."
+msgstr ""
+
+msgctxt "50||rarabai_weak03||汎用　悔しい_2"
+msgid "This isn't fair!"
+msgstr ""
+
+msgctxt "51||rarabai_weak04||汎用　悔しい_2"
+msgid "Oh, damn."
+msgstr ""
+
+msgctxt "52||rarabai_middle00||汎用　悔しい_2"
+msgid "Unbelievable..."
+msgstr ""
+
+msgctxt "53||rarabai_middle01||汎用　悔しい_2"
+msgid "Damn it."
+msgstr ""
+
+msgctxt "54||rarabai_middle02||汎用　悔しい_2"
+msgid "Oh crap!"
+msgstr ""
+
+msgctxt "55||rarabai_middle03||汎用　悔しい_2"
+msgid "Well, that was crap."
+msgstr ""
+
+msgctxt "56||rarabai_middle04||汎用　悔しい_2"
+msgid "How's that happen!?"
+msgstr ""
+
+msgctxt "57||kindai_middle00||汎用　悔しい_2"
+msgid "No good."
+msgstr ""
+
+msgctxt "58||kindai_middle01||汎用　悔しい_2"
+msgid "I'm outta luck, I guess."
+msgstr ""
+
+msgctxt "59||kindai_middle02||汎用　悔しい_2"
+msgid "N-No, hold on!"
+msgstr ""
+
+msgctxt "60||kindai_middle03||汎用　悔しい_2"
+msgid "This game sucks..."
+msgstr ""
+
+msgctxt "61||kindai_middle04||汎用　悔しい_2"
+msgid "Damn..."
+msgstr ""
+
+msgctxt "62||kindai_strong00||汎用　悔しい_2"
+msgid "What in the world!?"
+msgstr ""
+
+msgctxt "63||kindai_strong01||汎用　悔しい_2"
+msgid "This is looking bleak..."
+msgstr ""
+
+msgctxt "64||kindai_strong02||汎用　悔しい_2"
+msgid "...Preposterous."
+msgstr ""
+
+msgctxt "65||kindai_strong03||汎用　悔しい_2"
+msgid "Why!? This sucks!"
+msgstr ""
+
+msgctxt "66||kindai_strong04||汎用　悔しい_2"
+msgid "Huh? This can't be..."
+msgstr ""
+
+msgctxt "67||rarabai_event_00||汎用　悔しい_2"
+msgid "I don't get it..."
+msgstr ""
+
+msgctxt "68||rarabai_event_01||汎用　悔しい_2"
+msgid "The hell..."
+msgstr ""
+
+msgctxt "69||rarabai_event_02||汎用　悔しい_2"
+msgid "How's that possible!?"
+msgstr ""
+
+msgctxt "70||kindai_event_00||汎用　悔しい_2"
+msgid "Quite unfortunate."
+msgstr ""
+
+msgctxt "71||kindai_event_01||汎用　悔しい_2"
+msgid "I'm so over this."
+msgstr ""
+
+msgctxt "72||kindai_event_02||汎用　悔しい_2"
+msgid "Ugh, that's a shock."
+msgstr ""
+

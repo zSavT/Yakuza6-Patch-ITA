@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||QGameState_Default||name"
+msgid "Adventure"
+msgstr ""
+
+msgctxt "2||QGameState_Combat||name"
+msgid "Battle"
+msgstr ""
+
+msgctxt "3||QGameState_Minigame_BattingCenter||name"
+msgid "Minigame : Batting Center"
+msgstr ""
+
+msgctxt "6||QGameState_Minigame_ClanCreator||name"
+msgid "Minigame : Clan Creator"
+msgstr ""
+
+msgctxt "7||QGameState_Minigame_Darts||name"
+msgid "Minigame : Darts"
+msgstr ""
+
+msgctxt "9||QGameState_Minigame_Karaoke||name"
+msgid "Minigame : Karaoke"
+msgstr ""
+
+msgctxt "11||QGameState_Minigame_Mahjong||name"
+msgid "Minigame : Mahjong"
+msgstr ""
+
+msgctxt "18||QGameState_Minigame_VirtualFighter_P1||name"
+msgid "Minigame : Virtua Fighter 5 FS (P1)"
+msgstr ""
+
+msgctxt "19||QGameState_Minigame_VirtualFighter_P2||name"
+msgid "Minigame : Virtua Fighter 5 FS (P2)"
+msgstr ""
+
+msgctxt "24||QGameState_Minigame_LiveChat||name"
+msgid "Minigame : Live Chat"
+msgstr ""
+
+msgctxt "25||QGameState_Minigame_Gym_Squats||name"
+msgid "Minigame : Gym Squats"
+msgstr ""
+
+msgctxt "26||QGameState_Minigame_Gym_JumpSquats||name"
+msgid "Minigame : Gym Jump Squats"
+msgstr ""
+
+msgctxt "27||QGameState_Minigame_Gym_BenchPress||name"
+msgid "Minigame : Gym Bench Press"
+msgstr ""
+
+msgctxt "28||QGameState_Minigame_Gym_DeadLift||name"
+msgid "Minigame : Gym Deadlifts"
+msgstr ""
+
+msgctxt "29||QGameState_Minigame_Gym_LatPulldowns||name"
+msgid "Minigame : Gym Lat Pulldowns"
+msgstr ""
+
+msgctxt "30||QGameState_Minigame_Gym_SeatedRow||name"
+msgid "Minigame : Gym Seated Row"
+msgstr ""
+
+msgctxt "31||QGameState_Minigame_SpearFishing||name"
+msgid "Minigame : Spearfishing"
+msgstr ""
+
+msgctxt "32||QGameState_Minigame_DandleBaby||name"
+msgid "Minigame : Calming Haruto"
+msgstr ""
+
+msgctxt "37||QGameState_Minigame_NewGaudiBar||name"
+msgid "Minigame : New Gaudi Bar"
+msgstr ""
+
+msgctxt "39||QGameState_Minigame_OfferityBox||name"
+msgid "Minigame : Temple Offering"
+msgstr ""
+
+msgctxt "42||QGameState_Minigame_FantasyZone||name"
+msgid "Minigame : Fantasy Zone"
+msgstr ""
+
+msgctxt "43||QGameState_Minigame_OutRun||name"
+msgid "Minigame : Out Run"
+msgstr ""
+
+msgctxt "44||QGameState_Minigame_SpaceHarrier||name"
+msgid "Minigame : Space Harrier"
+msgstr ""
+
+msgctxt "45||QGameState_Minigame_SuperHangOn||name"
+msgid "Minigame : Super Hang-On"
+msgstr ""
+
+msgctxt "48||QGameState_Minigame_PuyoPuyo_P1||name"
+msgid "Minigame : Puyo Puyo (P1)"
+msgstr ""
+
+msgctxt "49||QGameState_Minigame_PuyoPuyo_P2||name"
+msgid "Minigame : Puyo Puyo (P2)"
+msgstr ""
+
+msgctxt "50||QGameState_Minigame_CabaretClub||name"
+msgid "Minigame : Cabaret Club"
+msgstr ""
+
+msgctxt "51||QGameState_Minigame_SandlotBaseball||name"
+msgid "Minigame : Baseball"
+msgstr ""
+
+msgctxt "52||QGameState_Minigame_NewGaudiBar_Conversation||name"
+msgid "Minigame : New Gaudi Bar - Conversation"
+msgstr ""
+

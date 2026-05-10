@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||han||text"
+msgid "Han"
+msgstr ""
+
+msgctxt "2||fu||text"
+msgid "Fu"
+msgstr ""
+
+msgctxt "3||ten||text"
+msgid "Pts."
+msgstr ""
+
+msgctxt "4||kurai||text"
+msgid "Rank"
+msgstr ""
+
+msgctxt "5||dora||text"
+msgid "Dora"
+msgstr ""
+
+msgctxt "6||uradora||text"
+msgid "Ura-Dora"
+msgstr ""
+
+msgctxt "7||total_tenbou||text"
+msgid "Total Points"
+msgstr ""
+
+msgctxt "8||cancel||text"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "9||close_window||text"
+msgid "<Sign:2> Hide Window"
+msgstr ""
+
+msgctxt "10||winning_streak||text"
+msgid "Current Winning Streak: ${count}"
+msgstr ""
+
+msgctxt "11||winning||text"
+msgid "Winning Streak: ${count}"
+msgstr ""
+
+msgctxt "12||max_winning||text"
+msgid "Highest Winning Streak: ${count}"
+msgstr ""
+
+msgctxt "13||rule||text"
+msgid "Rules"
+msgstr ""
+
+msgctxt "14||yaku_list||text"
+msgid "Hands"
+msgstr ""
+
+msgctxt "15||kyuushukyuuhai||text"
+msgid "Declare nine terminals and redraw the hand?"
+msgstr ""
+
+msgctxt "16||agari_cancel||text"
+msgid "End game?"
+msgstr ""
+

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||option||name"
+msgid "Game Settings"
+msgstr ""
+
+msgctxt "2||save||name"
+msgid "Save"
+msgstr ""
+
+msgctxt "3||load||name"
+msgid "Load"
+msgstr ""
+
+msgctxt "4||return_to_title||name"
+msgid "Quit Game"
+msgstr ""
+
+msgctxt "5||audio_option||name"
+msgid "Audio Settings"
+msgstr ""
+
+msgctxt "6||profile||name"
+msgid "Character Profiles"
+msgstr ""
+
+msgctxt "7||controller_guide||name"
+msgid "Controls"
+msgstr ""
+
+msgctxt "8||pause_graphics_settings||name"
+msgid "Graphics Settings"
+msgstr ""
+
+msgctxt "9||pause_controls_settings||name"
+msgid "Controls"
+msgstr ""
+
+msgctxt "1||option||explanation"
+msgid "Change settings related to gameplay."
+msgstr ""
+
+msgctxt "2||save||explanation"
+msgid "Select the file you would like to save current game progress to."
+msgstr ""
+
+msgctxt "3||load||explanation"
+msgid "Load Game."
+msgstr ""
+
+msgctxt "4||return_to_title||explanation"
+msgid "Quit playing and return to the title screen."
+msgstr ""
+
+msgctxt "5||audio_option||explanation"
+msgid "Change settings related to audio."
+msgstr ""
+
+msgctxt "6||profile||explanation"
+msgid "View information on primary characters."
+msgstr ""
+
+msgctxt "7||controller_guide||explanation"
+msgid "Check how to use the controls."
+msgstr ""
+
+msgctxt "8||pause_graphics_settings||explanation"
+msgid "Configure graphics settings."
+msgstr ""
+
+msgctxt "9||pause_controls_settings||explanation"
+msgid "Customize game controls."
+msgstr ""
+

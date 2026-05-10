@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||gun0||name"
+msgid "Standard Speargun"
+msgstr ""
+
+msgctxt "2||gun1||name"
+msgid "High-impact Speargun"
+msgstr ""
+
+msgctxt "3||gun2||name"
+msgid "High-capacity Speargun"
+msgstr ""
+
+msgctxt "4||gun3||name"
+msgid "Modded Speargun"
+msgstr ""
+
+msgctxt "5||gun4||name"
+msgid "Kiwami Speargun"
+msgstr ""
+
+msgctxt "6||gun5||name"
+msgid "Ahab's Revenge"
+msgstr ""
+
+msgctxt "1||gun0||information"
+msgid "A gun designed for beginning fishermen. It has\r\nlow power, but great aim and spear count."
+msgstr ""
+
+msgctxt "2||gun1||information"
+msgid "A powerful weapon perfect for tackling bosses.\r\nHowever, low spear capacity hinders it in normal use."
+msgstr ""
+
+msgctxt "3||gun2||information"
+msgid "This speargun can load a lot of low damage shots,\r\nso you need to make every shot count."
+msgstr ""
+
+msgctxt "4||gun3||information"
+msgid "A modified version of the Standard Speargun.\r\nIts high performance doesn't drag down usability."
+msgstr ""
+
+msgctxt "5||gun4||information"
+msgid "Extremely high damage, but can only load a few\r\nspears at a time. Make sure you don't miss."
+msgstr ""
+
+msgctxt "6||gun5||information"
+msgid "The denizens of the sea will cower before the\r\nhigh damage and spear count of this elite weapon."
+msgstr ""
+

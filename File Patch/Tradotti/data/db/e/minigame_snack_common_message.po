@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "8||event_result_excite_00||message"
+msgid "Life of the Party"
+msgstr ""
+
+msgctxt "9||event_result_excite_01||message"
+msgid "Expert Communicator"
+msgstr ""
+
+msgctxt "10||event_result_excite_02||message"
+msgid "Good Listener"
+msgstr ""
+
+msgctxt "11||event_result_excite_03||message"
+msgid "Poor Speaker"
+msgstr ""
+
+msgctxt "12||event_result_excite_04||message"
+msgid "Out of the Loop"
+msgstr ""
+
+msgctxt "22||event_result_topic_mama||message"
+msgid "Bars are the best place to relax..."
+msgstr ""
+
+msgctxt "23||event_result_topic_a||message"
+msgid "The daughter's new boyfriend..."
+msgstr ""
+
+msgctxt "24||event_result_topic_b||message"
+msgid "Whether to go to the class reunion..."
+msgstr ""
+
+msgctxt "25||event_result_topic_c||message"
+msgid "Afraid of new technology..."
+msgstr ""
+
+msgctxt "26||event_result_topic_d||message"
+msgid "Getting his wife back..."
+msgstr ""
+
+msgctxt "27||event_result_topic_e||message"
+msgid "Being a professional boxer..."
+msgstr ""
+
+msgctxt "28||rankup_info||message"
+msgid "Became Kindred Spirits with ${name} and rose to ${rank}!"
+msgstr ""
+
+msgctxt "29||soukanzu_rank_0||message"
+msgid "Familiar"
+msgstr ""
+
+msgctxt "30||soukanzu_rank_1||message"
+msgid "Acquaintances"
+msgstr ""
+
+msgctxt "31||soukanzu_rank_2||message"
+msgid "Good Friends"
+msgstr ""
+
+msgctxt "32||soukanzu_rank_3||message"
+msgid "Close Friends"
+msgstr ""
+
+msgctxt "33||soukanzu_rank_4||message"
+msgid "Kindred Spirits"
+msgstr ""
+
+msgctxt "34||soukanzu_rankup_info||message"
+msgid "You are now ${rank} with ${name}."
+msgstr ""
+
+msgctxt "35||soukanzu_info_dont_know||message"
+msgid "You can become closer to this person."
+msgstr ""
+
+msgctxt "36||soukanzu_info_mama_0||message"
+msgid "That's me.\r\nI still don't know much about you. \r\nLet's talk more at the bar, okay?"
+msgstr ""
+
+msgctxt "37||soukanzu_info_mama_1||message"
+msgid "That's me.\r\nI'm glad you come to the bar a lot lately.\r\nWe have darts and karaoke, so have some fun."
+msgstr ""
+
+msgctxt "38||soukanzu_info_mama_2||message"
+msgid "That's me.\r\nIt makes me really happy when you come visit.\r\nI'm sure everyone else thinks the same thing."
+msgstr ""
+
+msgctxt "39||soukanzu_info_mama_3||message"
+msgid "That's me. \r\nWhen you don't come by, I get a little sad.\r\nI'm always here, so make some time for me!"
+msgstr ""
+
+msgctxt "40||soukanzu_info_mama_4||message"
+msgid "That's me. \r\nThank you for the wonderful letter, I loved it.\r\nI hope we continue to get closer, Kiryu-san."
+msgstr ""
+
+msgctxt "41||soukanzu_info_guest_a_0||message"
+msgid "That's Hatakeyama-san.\r\nHe's owns the oyster restaurant in Onomichi.\r\nHe's always selling oysters in the streets."
+msgstr ""
+
+msgctxt "42||soukanzu_info_guest_a_1||message"
+msgid "That's Hatakeyama-san.\r\nHe cares deeply about people and sells oysters.\r\nI'm sure he'll open up to you very quickly."
+msgstr ""
+
+msgctxt "43||soukanzu_info_guest_a_2||message"
+msgid "That's Hatakeyama-san. \r\nHe seems to be troubled over something lately.\r\nI wonder what's wrong..."
+msgstr ""
+
+msgctxt "44||soukanzu_info_guest_a_3||message"
+msgid "That's Hatakeyama-san.\r\nHe always talked about his daughter, but lately\r\nhe hasn't at all. I wonder if they had a fight."
+msgstr ""
+
+msgctxt "45||soukanzu_info_guest_a_4||message"
+msgid "That's Hatakeyama-san.\r\nHe was depressed over his daughter getting\r\na boyfriend... But things seem better now!"
+msgstr ""
+
+msgctxt "46||soukanzu_info_guest_b_0||message"
+msgid "That's Akiyoshi-kun.\r\nHe's the youngest of the regulars. He's kinda\r\nintroverted, but you'll be friends in no time."
+msgstr ""
+
+msgctxt "47||soukanzu_info_guest_b_1||message"
+msgid "That's Akiyoshi-kun. \r\nHe said he's been having fun drinking with\r\nKiryu-san lately. Look after him, okay?"
+msgstr ""
+
+msgctxt "48||soukanzu_info_guest_b_2||message"
+msgid "That's Akiyoshi-kun.\r\nApparently he used to play baseball.\r\nI heard he did pretty well in big games, too."
+msgstr ""
+
+msgctxt "49||soukanzu_info_guest_b_3||message"
+msgid "That's Akiyoshi-kun.\r\nHe's been staring anxiously at a yearbook.\r\nI wonder why he'd bring that to a bar."
+msgstr ""
+
+msgctxt "50||soukanzu_info_guest_b_4||message"
+msgid "That's Akiyoshi-kun.\r\nHe seems psyched to get back into playing\r\nbaseball! Maybe I'll go watch his games."
+msgstr ""
+
+msgctxt "51||soukanzu_info_guest_c_0||message"
+msgid "That's Gen-san. \r\nThat man loves his karaoke. If you like\r\nkaraoke, too, you might get along well!"
+msgstr ""
+
+msgctxt "52||soukanzu_info_guest_c_1||message"
+msgid "That's Gen-san.\r\nHe works out every day to improve his vocals.\r\nThat well-built body is entirely for karaoke."
+msgstr ""
+
+msgctxt "53||soukanzu_info_guest_c_2||message"
+msgid "That's Gen-san. \r\nHe's actually a carpenter. But I think he\r\nhandles a mic more often than a hammer..."
+msgstr ""
+
+msgctxt "54||soukanzu_info_guest_c_3||message"
+msgid "That's Gen-san.\r\nHe loves karaoke... Or so I thought.\r\nBut he hasn't sung at all lately."
+msgstr ""
+
+msgctxt "55||soukanzu_info_guest_c_4||message"
+msgid "That's Gen-san.\r\nHe really fell in love with technology...\r\nNow he's singing and fiddling with his phone."
+msgstr ""
+
+msgctxt "56||soukanzu_info_guest_d_0||message"
+msgid "That's Ando-san.\r\nHe runs the Otafuku Pawn Shop in Onomichi.\r\nHe's a little shy, but he has a good heart."
+msgstr ""
+
+msgctxt "57||soukanzu_info_guest_d_1||message"
+msgid "That's Ando-san.\r\nHe's a pretty fashionable man. He loves darts,\r\nso I'm sure he'd love to play a game with you."
+msgstr ""
+
+msgctxt "58||soukanzu_info_guest_d_2||message"
+msgid "That's Ando-san.\r\nI hear he used to live in Tokyo. He said he\r\nquit being a businessman to open his pawn shop."
+msgstr ""
+
+msgctxt "59||soukanzu_info_guest_d_3||message"
+msgid "That's Ando-san.\r\nHe keeps looking at his texts and smiling.\r\nI wonder who's cheering him up."
+msgstr ""
+
+msgctxt "60||soukanzu_info_guest_d_4||message"
+msgid "That's Ando-san.\r\nA lot happened, but I'm glad he got his wife\r\nback. Watching those two fills my heart."
+msgstr ""
+
+msgctxt "61||soukanzu_info_guest_e_0||message"
+msgid "That's Kaneko-san.\r\nHe can be a little difficult, but he's\r\nhonest. I'm sure he'll like you, Kiryu-san."
+msgstr ""
+
+msgctxt "62||soukanzu_info_guest_e_1||message"
+msgid "That's Kaneko-san.\r\nHe works at a city office. He may not look like\r\nit, but he takes good care of his subordinates."
+msgstr ""
+
+msgctxt "63||soukanzu_info_guest_e_2||message"
+msgid "That's Kaneko-san.\r\nHe was complimenting you on your good manners.\r\nMaybe the two of you have some things in common."
+msgstr ""
+
+msgctxt "64||soukanzu_info_guest_e_3||message"
+msgid "That's Kaneko-san.\r\nHe usually drinks here happily, but sometimes\r\nhe looks a little lonely. It bothers me."
+msgstr ""
+
+msgctxt "65||soukanzu_info_guest_e_4||message"
+msgid "That's Kaneko-san.\r\nHe looks like a weight has been lifted off him.\r\nWould you know anything about that, Kiryu-san?"
+msgstr ""
+

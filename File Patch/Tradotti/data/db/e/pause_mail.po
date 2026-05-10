@@ -1,0 +1,2725 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||kiryu||name"
+msgid "Kazuma Kiryu"
+msgstr ""
+
+msgctxt "5||rizap||name"
+msgid "Makuta"
+msgstr ""
+
+msgctxt "6||cabaret_erina||name"
+msgid "Erina"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||name"
+msgid "Hikaru"
+msgstr ""
+
+msgctxt "8||cabaret_riona||name"
+msgid "Riona"
+msgstr ""
+
+msgctxt "9||cabaret_saki||name"
+msgid "Saki"
+msgstr ""
+
+msgctxt "10||cabaret_sora||name"
+msgid "Sora"
+msgstr ""
+
+msgctxt "11||sub_a26_00||name"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "12||sub_b26_00||name"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "13||sub_b19_gen||name"
+msgid "Gen-san"
+msgstr ""
+
+msgctxt "14||sub_a12_00||name"
+msgid "Makoto Date"
+msgstr ""
+
+msgctxt "15||sub_a23_00||name"
+msgid "Cat Café Owner"
+msgstr ""
+
+msgctxt "16||sub_a99_00||name"
+msgid "Amon"
+msgstr ""
+
+msgctxt "17||tips_system||name"
+msgid "Tips Text"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||name"
+msgid "Battle Master"
+msgstr ""
+
+msgctxt "19||trouble_mail||name"
+msgid "Torafuru"
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||name"
+msgid "Kamurocho Newsletter"
+msgstr ""
+
+msgctxt "21||cln_32_00||name"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "22||cln_32_01||name"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "5||rizap||table||1||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||3||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||4||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||5||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||7||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||8||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||9||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||10||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||11||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||13||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||16||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||17||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||18||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||19||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||20||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||21||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||22||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||23||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||24||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||25||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||26||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||27||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||28||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||29||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||30||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||31||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||32||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||33||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||34||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||35||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||36||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||38||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||39||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||40||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||41||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||42||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||43||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||44||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||45||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||46||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||47||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||48||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||49||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||50||||1"
+msgid "You've finished the RIZAP Challenge!"
+msgstr ""
+
+msgctxt "5||rizap||table||51||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||52||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||53||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||54||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||55||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||56||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||57||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||58||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||59||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||60||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||61||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||62||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||63||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||64||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||65||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||66||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||67||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||68||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||69||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||70||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||71||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||72||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||73||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||74||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||75||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||76||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||77||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||78||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||79||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||80||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||81||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||82||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||83||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||84||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||85||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||86||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||87||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||88||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||89||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||90||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||91||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||92||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||93||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||94||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||95||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||96||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||97||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||98||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||99||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||100||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||101||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||102||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||103||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||104||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||105||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||106||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "5||rizap||table||107||||1"
+msgid "Here's your meal plan!"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||1||||1"
+msgid "I had fun today! <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||1||||1"
+msgid "Wanna Hang Out?"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||1||||1"
+msgid "Thanks for before <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||1||||1"
+msgid "If you're free <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||1||||1"
+msgid "Together with you... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "11||sub_a26_00||table||1||||1"
+msgid "The Strongest Emerges!"
+msgstr ""
+
+msgctxt "12||sub_b26_00||table||1||||1"
+msgid "This Truly is the Final Attack"
+msgstr ""
+
+msgctxt "13||sub_b19_gen||table||1||||1"
+msgid "This is the best"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||1||||1"
+msgid "Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||2||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||3||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||4||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||5||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||6||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||7||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||8||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||9||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||10||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||11||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||12||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||13||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||14||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||15||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||16||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||17||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||18||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||19||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||20||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||21||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||22||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||23||||1"
+msgid "RE: Are you free?"
+msgstr ""
+
+msgctxt "16||sub_a99_00||table||1||||1"
+msgid "The Challenge is Made"
+msgstr ""
+
+msgctxt "17||tips_system||table||2||||1"
+msgid "Nice to Meet You!"
+msgstr ""
+
+msgctxt "17||tips_system||table||13||||1"
+msgid "Saving the Game"
+msgstr ""
+
+msgctxt "17||tips_system||table||14||||1"
+msgid "Staying on the Map"
+msgstr ""
+
+msgctxt "17||tips_system||table||15||||1"
+msgid "Sprinting"
+msgstr ""
+
+msgctxt "17||tips_system||table||16||||1"
+msgid "Another Perspective"
+msgstr ""
+
+msgctxt "17||tips_system||table||17||||1"
+msgid "Awards App"
+msgstr ""
+
+msgctxt "17||tips_system||table||18||||1"
+msgid "The Importance of Regular Meals"
+msgstr ""
+
+msgctxt "17||tips_system||table||19||||1"
+msgid "Changing the Time of Day"
+msgstr ""
+
+msgctxt "17||tips_system||table||20||||1"
+msgid "Pros and Cons of Getting Drunk"
+msgstr ""
+
+msgctxt "17||tips_system||table||21||||1"
+msgid "Valuable Information"
+msgstr ""
+
+msgctxt "17||tips_system||table||22||||1"
+msgid "Accessing DLC"
+msgstr ""
+
+msgctxt "17||tips_system||table||123||||1"
+msgid "Changing Clothes"
+msgstr ""
+
+msgctxt "17||tips_system||table||134||||1"
+msgid "Congrats on the 100% Completion!"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||2||||1"
+msgid "Battle Coaching"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||13||||1"
+msgid "Battle Basics"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||24||||1"
+msgid "Using Equipment"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||35||||1"
+msgid "Power Up with Ability Upgrades"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||46||||1"
+msgid "Advanced Techniques"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||57||||1"
+msgid "Use Heat Actions"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||68||||1"
+msgid "Extreme Heat Mode"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||79||||1"
+msgid "Aim for Further Heights"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||1||||1"
+msgid "Shakedown Squad Taken Down"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||12||||1"
+msgid "Dad Hunters Taken Down"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||23||||1"
+msgid "Pick-up Artists Taken Down"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||34||||1"
+msgid "Keeping the Peace"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||45||||1"
+msgid "A Danger to Dating"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||56||||1"
+msgid "It Looked Good On You!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||67||||1"
+msgid "Kamurocho Arsonist Thwarted"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||78||||1"
+msgid "Onomichi Arsonist Foiled"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||89||||1"
+msgid "Definitely a Problem LOL"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||100||||1"
+msgid "Serial Stabber Stopped"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||111||||1"
+msgid "Purse-Snatcher Nabbed"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||122||||1"
+msgid "Pickpocket Sent Packing"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||133||||1"
+msgid "Bomber Disarmed"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||144||||1"
+msgid "Time to Say Goodbye"
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||1||||1"
+msgid "Kamurocho Information"
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||12||||1"
+msgid "Kamurocho Information"
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||23||||1"
+msgid "Kamurocho Information"
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||34||||1"
+msgid "Kamurocho Information"
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||45||||1"
+msgid "Kamurocho Information"
+msgstr ""
+
+msgctxt "21||cln_32_00||table||1||||1"
+msgid "Onomichi's Back-alley Merchant"
+msgstr ""
+
+msgctxt "22||cln_32_01||table||1||||1"
+msgid "Kamurocho's Back-alley Merchant"
+msgstr ""
+
+msgctxt "5||rizap||table||1||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||3||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||4||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||5||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||7||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||8||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||9||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||10||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||11||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||13||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||16||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||17||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||18||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||19||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||20||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||21||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||22||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||23||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||24||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||25||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||26||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||27||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||28||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||29||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||30||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||31||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||32||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||33||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||34||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||35||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||36||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||38||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||39||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||40||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||41||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||42||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||43||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||44||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||45||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||46||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||47||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||48||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||49||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||50||||2"
+msgid "Good work, Kiryu-san! I have the results of\r\nyour current RIZAP Challenge. Please stop by\r\nRIZAP whenever you have a chance!"
+msgstr ""
+
+msgctxt "5||rizap||table||51||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||52||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||53||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||54||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||55||||2"
+msgid "Please eat a beef plate! It's like a beef bowl\r\nwithout rice. A delicious way to cut carbs and\r\nsugar!"
+msgstr ""
+
+msgctxt "5||rizap||table||56||||2"
+msgid "Please eat ramen!"
+msgstr ""
+
+msgctxt "5||rizap||table||57||||2"
+msgid "Please eat a burger!"
+msgstr ""
+
+msgctxt "5||rizap||table||58||||2"
+msgid "Please eat high quality beef!"
+msgstr ""
+
+msgctxt "5||rizap||table||59||||2"
+msgid "This time, please eat steak!\r\nI recommend a lean cut!"
+msgstr ""
+
+msgctxt "5||rizap||table||60||||2"
+msgid "This time, please eat yakiniku! I recommend\r\nmeat that doesn't have too much fat!"
+msgstr ""
+
+msgctxt "5||rizap||table||61||||2"
+msgid "This time, please eat some quality yakiniku!\r\nI request that you go with meat that doesn't\r\nhave much fat!"
+msgstr ""
+
+msgctxt "5||rizap||table||62||||2"
+msgid "This time, please eat sashimi! Avoid eating\r\nsushi since it contains rice!"
+msgstr ""
+
+msgctxt "5||rizap||table||63||||2"
+msgid "This time, please eat saraudon! Since the\r\nobjective is to bulk up, noodles are good\r\ntoday!"
+msgstr ""
+
+msgctxt "5||rizap||table||64||||2"
+msgid "This time, please eat gyoza!"
+msgstr ""
+
+msgctxt "5||rizap||table||65||||2"
+msgid "This time, please eat fried rice! Since the\r\nobjective is to bulk up, carbs are a-okay!"
+msgstr ""
+
+msgctxt "5||rizap||table||66||||2"
+msgid "This time, please eat soba! Find your nearest\r\nsoba restaurant and go!"
+msgstr ""
+
+msgctxt "5||rizap||table||67||||2"
+msgid "This time, please eat champon! They serve\r\nit at that one place. Just go eat it!"
+msgstr ""
+
+msgctxt "5||rizap||table||68||||2"
+msgid "This time, please eat a beef bowl! Since the\r\nobjective is to bulk up, carbs are a-okay!"
+msgstr ""
+
+msgctxt "5||rizap||table||69||||2"
+msgid "This time, please eat seafood! Any assortment\r\nwould be great!"
+msgstr ""
+
+msgctxt "5||rizap||table||70||||2"
+msgid "This time, please eat some avocado! It could\r\nbe called nature's butter!"
+msgstr ""
+
+msgctxt "5||rizap||table||71||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||72||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||73||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||74||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||75||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||76||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||77||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||78||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||79||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||80||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||81||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||82||||2"
+msgid "Currently making changes"
+msgstr ""
+
+msgctxt "5||rizap||table||83||||2"
+msgid "Hi there, Kiryu-san! This time, let's go for a\r\ndish low in sugar and high in protein. Oh,\r\nyeah... I suggest a nutritious dish that's\r\npacked with lobster! Well then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||84||||2"
+msgid "Hi there, Kiryu-san! This time, let's go for a\r\nbulk-up meal. Let's see... I suggest a dish\r\nwhere you can consume rice, pork, and egg\r\nall together! Well then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||85||||2"
+msgid "Hi there, Kiryu-san! This time, let's go for a\r\nwell-balanced meal. Okay... I suggest a quick\r\nmeal that has carbs, eggs, and veggies! It's at\r\na place you'd stop by when you just need a\r\nlight meal! Their homemade soup has a great\r\nflavor! Well then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||86||||2"
+msgid "Hi there, Kiryu-san! Now, let's go for a\r\nbulk-up meal. Hmm... I suggest a rice dish\r\ntopped with lots of thin pork slices! These pork\r\nslices are often used in some noodle dishes too!\r\nWell then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||87||||2"
+msgid "Hi there, Kiryu-san! This time, let's go for a\r\ndish that's a big hit with kids. Let's see...\r\nMaybe something that's packed with juicy meat\r\nand cooked on a hot iron plate! I suggest you\r\neat around 300 grams of it! Well then, best of\r\nluck!"
+msgstr ""
+
+msgctxt "5||rizap||table||88||||2"
+msgid "Hi there, Kiryu-san! Now for a go-to training\r\ndish! You should eat high quality meat with a\r\ngood balance of fat and red meat. Eat plenty\r\nof it! Well then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||89||||2"
+msgid "Hi there, Kiryu-san! This time, let's avoid\r\ncarbs. You should go for that one dish\r\nconsisting of just beef! Oh, you're free to eat\r\npickled red ginger with it too! Well then, best\r\nof luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||90||||2"
+msgid "Hi there, Kiryu-san! Now, let's go for a\r\nbulk-up menu! Let's see... I suggest you go\r\nto a fast food chain and order something that\r\noffers double the average amount of meat.\r\nThat'll put a smile on your face! Well then,\r\nbest of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||91||||2"
+msgid "Hi there, Kiryu-san! This time, let's cut calories\r\nand focus on nutrient intake! Let's see... You\r\nshould go to a fast food chain and only have\r\nvegetables. It's one of their standard dishes.\r\nWell then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||92||||2"
+msgid "Hi there, Kiryu-san! This time, let's try \r\nsomething out of the ordinary. Let's see...\r\nHow about a round food that comes with\r\ncheese on top? It's apparently most popular\r\nwith women. You can eat it at a counter!\r\nWell then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||93||||2"
+msgid "Hi there, Kiryu-san! This time, let's go meat\r\nonly! Meat is the best for building muscle!\r\nI'm suggesting something that's relatively low\r\nin fat! It's best when cooked on a grill. Well\r\nthen, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||94||||2"
+msgid "Hi there, Kiryu-san! You can't go wrong with\r\nmeat after a workout! Just this one time, I'll\r\nlet you have some popular yakiniku! Well then,\r\nbest of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||95||||2"
+msgid "Hi there, Kiryu-san! You should eat some fish\r\nonce in a while! Let's have that one fish\r\nJapanese people just love! How about a dish\r\nthat allows you to enjoy various parts of it?\r\nWell then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||96||||2"
+msgid "Hi there, Kiryu-san! This time, we'll aim for a\r\ndish that'll bulk you up, but is also easy to eat!\r\nA standard light meal that includes eggs, meat,\r\nand vegetables would be good! A meal like that\r\nis usually offered in the morning. Well then,\r\nbest of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||97||||2"
+msgid "Hi there, Kiryu-san! This time, we'll go with a\r\ndish that consists of meat and vegetables! Let's\r\nsee... How about one where you can enjoy five\r\ndifferent types of it? It all comes served on a\r\nskewer! Well then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||98||||2"
+msgid "Hi there, Kiryu-san! Let's try an unusual dish\r\nthis time! I suggest some bite-sized grilled\r\nfish. It's chock-full of calcium and protein!\r\nThe flavorful roe will have you hooked! Well\r\nthen, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||99||||2"
+msgid "Hi there, Kiryu-san! This time, let's focus more\r\non nutrition! How about a dish that contains a\r\nlot of scallions? You'll be tempted to drink\r\nalcohol, but please try your best to resist it.\r\nWell then, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||100||||2"
+msgid "Hi there, Kiryu-san! Now, we'll focus heavily\r\non protein! Let's see... You should eat an\r\nentire, delicious chicken thigh! They're great\r\nto eat after training, but keep it mild! Well\r\nthen, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||101||||2"
+msgid "Hi there, Kiryu-san! You should eat some junk\r\nfood once in a while to bulk up! Let's see...\r\nHow about a fast food place where you can eat\r\na good, old-fashioned, sunny-side up egg? Well\r\nthen, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||102||||2"
+msgid "Hi there, Kiryu-san! This time, let's go with a\r\nbulk-up menu that'll have you consume plenty\r\nof carbs! It's the national dish that everyone\r\nloves! Please get the one with beef! Well then,\r\nbest of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||103||||2"
+msgid "Hi there, Kiryu-san! This time, you should\r\nconsume carbs and vegetables! Make sure\r\nit's heavy on the vegetables! This meal is\r\nfamous as a Nagasaki specialty! Well then,\r\nbest of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||104||||2"
+msgid "Hi there, Kiryu-san! This time, we'll focus on\r\nveggies! Did you know ginger also has tons\r\nof digestive health benefits? I want you to\r\ncombine a ton of veggies with ginger!\r\n\r\nThere's a popular chain that's been in town\r\nfor years that serves up some great veggie\r\ndishes."
+msgstr ""
+
+msgctxt "5||rizap||table||105||||2"
+msgid "Hi there, Kiryu-san! This time, protein will be\r\nour main focus! I suggest a meal that offers a\r\nlot of vegetable protein! It might be good for\r\nthe appetite if it's on the spicier side. Well\r\nthen, best of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||106||||2"
+msgid "Hi there, Kiryu-san! Now, let's go with a dish\r\nthat contains both pork and veggies! Make\r\nsure it's something that'll fill you up! Cabbage\r\nwould be good for the vegetable! Well then,\r\nbest of luck!"
+msgstr ""
+
+msgctxt "5||rizap||table||107||||2"
+msgid "Hi there, Kiryu-san! This time, let's maintain a\r\ngood balance of vitamins and protein! I suggest\r\ngoing for vegetables and chicken! Steamed\r\nchicken breasts would be ideal! Well then, best\r\nof luck!"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||1||||2"
+msgid "I'd love to talk with you more. <symbol=note_with_outline> Want to meet\r\nup outside the club? Anywhere's fine, as long as\r\nwe can relax or get some exercise! <symbol=heart_with_outline>\r\n\r\nSend me the invitation sticker if you're up for\r\nit! <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||2||||2"
+msgid "I'm so happy you invited me out! <symbol=heart_with_outline>\r\nI'm really really really looking forward to it!\r\nI'll be waiting at Theater Square. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||3||||2"
+msgid "Oh, uh, not this sticker. I need that invitation\r\nsticker! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||4||||2"
+msgid "Huh? I'm confused. Are you mad?"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||5||||2"
+msgid "In a good mood? <symbol=note_with_outline> If you want to meet up,\r\nsend me the invitation sticker! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||6||||2"
+msgid "Did I catch you off guard? Well, if you send me\r\nthe invitation sticker, we can meet up! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||7||||2"
+msgid "That one's cute! But it's not the invitation\r\nsticker I'm looking for..."
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||8||||2"
+msgid "Are you sad? Maybe it would feel better to have\r\nsome fun? Just send me the invitation sticker if\r\nyou want to..."
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||9||||2"
+msgid "Don't worry, you! <symbol=note_with_outline> Send me the invitation\r\nsticker and you'll be fine! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||10||||2"
+msgid "No need to thank me! If you send the invitation\r\nsticker, we can meet up! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "6||cabaret_erina||table||11||||2"
+msgid "Huh? Are you okay?"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||1||||2"
+msgid "Wouldn't it be fun to hang out outside the club?\r\n<symbol=note_with_outline> I'd love it if you took me somewhere I don't\r\nusually go... Send me an invitation sticker if\r\nyou're up for it! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||2||||2"
+msgid "Thanks for the invitation! <symbol=note_with_outline>\r\nI'll be waiting at Theater Square.<symbol=heart_with_outline>\r\nExcited to see where we'll go! <symbol=heart_with_outline><symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||3||||2"
+msgid "Okay? <symbol=heart_with_outline> Be more clear! If you send me an\r\ninvitation sticker, I'll tell you where to\r\nmeet me...<symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||4||||2"
+msgid "...Did I make you mad?"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||5||||2"
+msgid "Is that a hint? Send me the invitation sticker if\r\nyou want to hang out! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||6||||2"
+msgid "Is this all too sudden, maybe?"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||7||||2"
+msgid "That sticker's so cute! But if you want to hang \r\nout, send me the invitation sticker, okay? <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||8||||2"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||9||||2"
+msgid "Are you confused? <symbol=heart_with_outline> If you send me the\r\ninvitation sticker, I promise we'll get together\r\nsoon! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||10||||2"
+msgid "You don't have to thank me... <symbol=heart_with_outline>\r\nJust invite me with an invitation sticker! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "7||cabaret_hikaru||table||11||||2"
+msgid "Huh? Are you okay?"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||1||||2"
+msgid "Would you like to hang out sometime? No rush,\r\nwhenever you're free. I just want to talk to you\r\nmore. Send me the invitation sticker whenever\r\nyou're feeling up to it! ^^"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||2||||2"
+msgid "I'm so happy you invited me out! <symbol=heart_with_outline>\r\nWonder where you'll take me?\r\nI'll meet you at Theater Square. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||3||||2"
+msgid "I'm so happy! If you send me the invitation\r\nsticker, I'll tell you where to meet me... ;)"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||4||||2"
+msgid "...What does that mean?\r\nYou don't want to meet up?"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||5||||2"
+msgid "Oh, just send me the invitation sticker already,\r\nwould you? <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||6||||2"
+msgid "lol, did I surprise you?"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||7||||2"
+msgid "That's so cute! ^_^  Send me the invitation\r\nsticker and we can meet up. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||8||||2"
+msgid "...Are you sad?"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||9||||2"
+msgid "Don't worry!"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||10||||2"
+msgid "You're so polite, Kiryu-san. <symbol=note_with_outline> Send me the\r\ninvitation sticker whenever you're ready. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "8||cabaret_riona||table||11||||2"
+msgid "Um... Are you okay?"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||1||||2"
+msgid "I don't go out with too many guys, but I\r\nwouldn't mind hanging out with you, Kiryu-san.\r\nIf you're up to it, send me the invitation\r\nsticker, okay? I'll wait by the phone. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||2||||2"
+msgid "Thanks a ton! I'm pretty excited... <symbol=heart_with_outline>\r\nI'll meet you at Theater Square! <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||3||||2"
+msgid "Nice. <symbol=heart_with_outline> Send me the invitation sticker if you\r\nwant to meet up, though. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||4||||2"
+msgid "Huh? Are you busy?"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||5||||2"
+msgid "Omg, invitation sticker already, plz. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||6||||2"
+msgid "LOL, did I surprise you?"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||7||||2"
+msgid "Aww, you're cheering for me? <symbol=heart_with_outline> If you send\r\nme the invitation sticker, we can meet up! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||8||||2"
+msgid "...Are you sad? What happened?"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||9||||2"
+msgid "What's there to worry about? <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||10||||2"
+msgid "lol, so old-fashioned, Kiryu-san! <symbol=note_with_outline>\r\nJust send the invitation sticker. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "9||cabaret_saki||table||11||||2"
+msgid "You okay!?"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||1||||2"
+msgid "I'm feeling like karaoke or something!\r\nI've got dibs on the anime songs, tho. <symbol=note_with_outline>\r\nOr we can do something else? Whatever you\r\nwant! If you're up to it, just send me the\r\ninvitation sticker, okay? <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||2||||2"
+msgid "Yay, this is gonna be so fun! <symbol=note_with_outline>\r\nLet's meet at Theater Square. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||3||||2"
+msgid "Okay! <symbol=note_with_outline> If you send me the invitation sticker,\r\nwe can totally meet up. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||4||||2"
+msgid "I don't get why you're upset..."
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||5||||2"
+msgid "Yay! Don't tease me, though! Send me that\r\ninvitation sticker! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||6||||2"
+msgid "Why so surprised? If you send me the invitation\r\nsticker, we can meet up, honest! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||7||||2"
+msgid "SO CUUUUUTEEEEE!!!"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||8||||2"
+msgid "Oh, what's wrong?"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||9||||2"
+msgid "Nothing to be scared of! <symbol=note_with_outline> If you send me the\r\ninvitation sticker, I'll be waiting for you. You'll\r\nfind me, I promise. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||10||||2"
+msgid "lol, why are you thanking me?\r\nSend me the invitation sticker! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "10||cabaret_sora||table||11||||2"
+msgid "Huh? Are you okay?"
+msgstr ""
+
+msgctxt "11||sub_a26_00||table||1||||2"
+msgid "Kiryu-san!\r\nIt's Sodachi. I've finally gotten strong enough\r\nto earn the title of the strongest. I'll be waiting\r\nat the Children's Park. You haven't even seen\r\nmy final form!"
+msgstr ""
+
+msgctxt "12||sub_b26_00||table||1||||2"
+msgid "I've finally figured out the ultimate self-defense\r\ntechnique. However, it's not complete yet. I\r\nneed to defeat you with it to truly complete it,\r\nKiryu-san. Please accept this challenge. I'll be\r\nwaiting at the Ropeway Station."
+msgstr ""
+
+msgctxt "13||sub_b19_gen||table||1||||2"
+msgid "Smartphones are so useful! I'm at New Gaudi\r\nright now. You should come on over, too,\r\nKiryu-san!"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||1||||2"
+msgid "Hey, are you free?\r\nI could use a hand with something."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||2||||2"
+msgid "Can you head over to a convenience store\r\nand buy me some prepaid cards?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||3||||2"
+msgid "Don't worry what they are.\r\nJust get them for me."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||4||||2"
+msgid "Good. Buy five \\10,000 cards."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||5||||2"
+msgid "Tell me when you have them."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||6||||2"
+msgid "Good. Now send me photos of the numbers on\r\neach one."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||7||||2"
+msgid "Family issues."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||8||||2"
+msgid "Kamurocho."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||9||||2"
+msgid "Just send them already.\r\nI'm in a hurry here."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||10||||2"
+msgid "Fine. Let's meet up."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||11||||2"
+msgid "The roof of the Senryo Building."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||12||||2"
+msgid "What the hell's going on, Kiryu!?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||13||||2"
+msgid "Kiryu, you've been had!\r\nMy account got hacked the other day!"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||14||||2"
+msgid "That wasn't me you were talking to!"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||15||||2"
+msgid "Your 50 grand could be anywhere by now!"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||16||||2"
+msgid "No, dammit!"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||17||||2"
+msgid "I'll see what I can do.\r\nThat scammer's not getting away with this."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||18||||2"
+msgid "Sorry, 50 grand's a lot to lose.\r\nI'll buy you a drink sometime to make up for it."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||19||||2"
+msgid "Kiryu, I just found out my account got hacked!"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||20||||2"
+msgid "You \"handled\" it? How?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||21||||2"
+msgid "You ran into some criminals? Where?"
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||22||||2"
+msgid "I'll send some guys to clean this up."
+msgstr ""
+
+msgctxt "14||sub_a12_00||table||23||||2"
+msgid "Spare me the details, but it sounds like I owe \r\nyou a drink."
+msgstr ""
+
+msgctxt "16||sub_a99_00||table||1||||2"
+msgid "Kazuma Kiryu, my eternal rival.\r\nThe time has come yet again.\r\n\r\nI await you on my floating island.\r\n-Jo Amon"
+msgstr ""
+
+msgctxt "17||tips_system||table||2||||2"
+msgid "Nice to meet you! My name's Hiro. I distribute\r\nthe Tips Newsletter!\r\n\r\nThis newsletter will tell you everything you\r\nneed to know to get the most out of your\r\ngame. \r\n\r\nIf there's something you don't understand, I\r\nhope you'll look to us for help!"
+msgstr ""
+
+msgctxt "17||tips_system||table||3||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||4||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||5||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||6||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||7||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||8||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||9||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||10||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||11||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||12||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||13||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nToday we'll talk about saving. This game has \r\nan auto-save function, so you don't need to\r\nfind phone booths. It's 2016, right? Keep in\r\nmind, when the save mark is being displayed,\r\ndon't turn off the system as it could corrupt\r\nyour data.\r\n\r\nIf you'd rather manually save the game, select\r\n\"Settings\" from your phone and you'll find the\r\noption there. You can't manually save during\r\nevents or battles. \r\n\r\nYour save data acts as a bookmark so you can\r\npick up the game from wherever you left off.\r\nContinue a saved game by selecting \"Continue\"\r\nfrom the Title Screen.\r\n"
+msgstr ""
+
+msgctxt "17||tips_system||table||14||||2"
+msgid "This is Hiro from the Tips Newsletter!\n\nThis newsletter is all about the map. The mini\nmap is displayed in the lower-left corner,\nshowing your surroundings, points of interest,\nand enemies. Just press <Action=View_Map,Adventure> \nto display the entire map, which you can create\nwaypoint markers on! Use both maps to figure\nout where you're headed and how to get there!"
+msgstr ""
+
+msgctxt "17||tips_system||table||15||||2"
+msgid "This is Hiro from the Tips Newsletter!\n\nWhile wandering out in the world, you can\nsprint by holding down <Sign:9,Adventure>.\nCompared to your normal speed, you'll run \na lot faster. However, if you run for too long,\nyou'll become winded.\nLet go of <Sign:9,Adventure> and catch your breath\nwhen needed. Pacing yourself is important! If\nyou want to sprint for longer stretches, there\nare upgrades for that in the Stats Menu."
+msgstr ""
+
+msgctxt "17||tips_system||table||16||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nWhen you press <Sign:8,Adventure> while you have control of\r\nKiryu, you'll shift to a first-person perspective.\r\nIt can feel very immersive to see the world\r\nthrough Kiryu's eyes. You may even find secrets\r\nwhile in the first-person point of view that\r\nyou wouldn't have seen otherwise. However, if\r\nyou get in a fight or start a conversation, you'll\r\nswitch back to third-person view."
+msgstr ""
+
+msgctxt "17||tips_system||table||17||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nI want to tell you about an app called \"Awards\"\r\non your smartphone. You'll earn some valuable\r\nEXP for objectives you complete here. Clearing\r\nsome easy objectives is a good way to get EXP\r\nearly on. New objectives become available as\r\nyou clear previous ones, so keep at them as\r\nmuch as you can."
+msgstr ""
+
+msgctxt "17||tips_system||table||18||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nThere are some great local restaurants to check\r\nout when you just want to relax, recover lost\r\nhealth, and gain a bit of EXP. Certain meal\r\ncombinations may even give you bonus EXP. \r\n\r\nBut don't go too crazy! Eating after you're\r\nalready full will recover health, but not grant\r\nEXP. How do you get hungry again? By burning\r\ncalories, silly! Whether it's running around the\r\ncity or beating up street trash, you're sure to\r\nwork up an appetite doing what you do best!"
+msgstr ""
+
+msgctxt "17||tips_system||table||19||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nDid you know you can change the time of day\r\nby accessing either the waiting room door of\r\nNew Serena in Kamurocho, or the futon at the\r\nNavy Apartments when you're in Onomichi?\r\nKeep in mind, you won't be able to change the\r\ntime of day at certain points in the story. You\r\ncan choose either Day or Night in Kamurocho,\r\nand Day, Dusk, or Night in Onomichi. Certain\r\nevents only happen during specific times, so be\r\nsure to explore at all different times."
+msgstr ""
+
+msgctxt "17||tips_system||table||20||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nJust like real life, if you consume too much\r\nalcohol, you'll get drunk. You can sober up\r\nby drinking water or even just letting it wear\r\noff as time passes. When you're drunk, people\r\naround the city are more likely to pick a fight\r\nwith you. At the same time, your Heat Orbs\r\nwill fill faster, so sometimes you may want to\r\nget drunk."
+msgstr ""
+
+msgctxt "17||tips_system||table||21||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nAs you advance through the story, you'll find\r\nitems that are considered Valuables. Valuables\r\nhave their own tab in the Items Menu where\r\nyou can read descriptions of each one.\r\nValuables are often items that are important\r\nto the story. You cannot throw away or sell\r\nValuables."
+msgstr ""
+
+msgctxt "17||tips_system||table||22||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nWhen you obtain DLC, a cardboard box will be\r\ndelivered to either New Serena in Kamurocho\r\nor the Navy Apartments in Onomichi. Check\r\nthe box to unlock your DLC. You can only\r\nunlock DLC once per save file."
+msgstr ""
+
+msgctxt "17||tips_system||table||23||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||24||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||25||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||26||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||27||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||28||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||29||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||30||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||31||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||32||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||33||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||34||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||35||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||36||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||37||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||38||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||39||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||40||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||41||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||42||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||43||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||44||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||45||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||46||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||47||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||48||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||49||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||50||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||51||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||52||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||53||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||54||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||55||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||56||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||57||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||58||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||59||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||60||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||61||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||62||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||63||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||64||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||65||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||66||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||67||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||68||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||69||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||70||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||71||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||72||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||73||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||74||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||75||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||76||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||77||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||78||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||79||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||80||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||81||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||82||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||83||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||84||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||85||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||86||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||87||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||88||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||89||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||90||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||91||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||92||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||93||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||94||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||95||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||96||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||97||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||98||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||99||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||100||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||101||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||102||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||103||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||104||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||105||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||106||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||107||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||108||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||109||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||110||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||111||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||112||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||113||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||114||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||115||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||116||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||117||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||118||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||119||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||120||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||121||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||122||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||123||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nIf you obtain a new outfit, you can change into\r\nit at New Serena in Kamurocho or the Navy\r\nApartments in Onomichi. Note that you can\r\nonly change your outfit in Premium Adventure\r\nmode."
+msgstr ""
+
+msgctxt "17||tips_system||table||124||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||125||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||126||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||127||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||128||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||129||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||130||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||131||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||132||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||133||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "17||tips_system||table||134||||2"
+msgid "This is Hiro from the Tips Newsletter!\r\n\r\nCongratulations! All award objectives have\r\nbeen cleared! To show our gratitude for your\r\ndedication, we at Tips Newsletter would like\r\nto present you with a congratulatory item called\r\nthe \"War God Talisman\"!\r\n\r\nA box containing the talisman will be delivered\r\nto New Serena in Kamurocho or the Navy\r\nApartments in Onomichi. On behalf of all of us,\r\nthank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||135||||2"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17||tips_system||table||136||||2"
+msgid "Huh? Are you angry?"
+msgstr ""
+
+msgctxt "17||tips_system||table||137||||2"
+msgid "Haha, thank you."
+msgstr ""
+
+msgctxt "17||tips_system||table||138||||2"
+msgid "I'm sorry to surprise you."
+msgstr ""
+
+msgctxt "17||tips_system||table||139||||2"
+msgid "I'm glad you're happy."
+msgstr ""
+
+msgctxt "17||tips_system||table||140||||2"
+msgid "What!? Are you okay?"
+msgstr ""
+
+msgctxt "17||tips_system||table||141||||2"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "17||tips_system||table||142||||2"
+msgid "I'm excited to talk to you, too."
+msgstr ""
+
+msgctxt "17||tips_system||table||143||||2"
+msgid "Do you still not understand?"
+msgstr ""
+
+msgctxt "17||tips_system||table||144||||2"
+msgid "Hahaha! That's impossible. Although, I'd\r\nlove to grab a drink with you if I could."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||2||||2"
+msgid "Do you want to become stronger? Sure, we all\r\ndo. So, read my emails to find out just how\r\neasy it is. First we have to get you used to\r\nperforming simple attacks. \r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n\r\n - Battle Master"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||3||||2"
+msgid "You got that quick.\r\nKeep at it just like that."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||4||||2"
+msgid "Unleash that anger of yours in the heat of\r\nbattle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||5||||2"
+msgid "You seem to be happy."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||6||||2"
+msgid "What are you surprised about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||7||||2"
+msgid "Smiles are pointless in battle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||8||||2"
+msgid "What are you so down about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||9||||2"
+msgid "You seem restless."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||10||||2"
+msgid "Don't let it get to you."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||11||||2"
+msgid "Read it again."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||12||||2"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||13||||2"
+msgid "It looks like you're pretty out of shape. So, I'll\r\nneed to teach you the basics again. Sure,\r\nattacking is important in a fight, but defense\r\ncan be even more crucial. Practice using all\r\nof the following defenses: \r\n\r\nHold <Sign:4,Combat> while moving to strafe around an\r\nenemy.\r\n\r\nHold <Sign:6,Combat> to guard against enemy attacks.\r\n\r\nPress <Sign: 3,Combat> to Quickstep.\r\n\r\nIf you can do those, just wait for an opening\r\nand then unleash your attacks.\r\n\r\n - Battle Master"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||14||||2"
+msgid "You got that quick.\r\nKeep at it just like that."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||15||||2"
+msgid "Unleash that anger of yours in the heat of\r\nbattle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||16||||2"
+msgid "You seem to be happy."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||17||||2"
+msgid "What are you surprised about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||18||||2"
+msgid "Smiles are pointless in battle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||19||||2"
+msgid "What are you so down about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||20||||2"
+msgid "You seem restless."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||21||||2"
+msgid "Don't let it get to you."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||22||||2"
+msgid "Read it again."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||23||||2"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||24||||2"
+msgid "Have you gotten any new gear yet? The gear\nyou get can be equipped by selecting \"Stats\"\nin the Pause Menu, then pressing <Sign:6,UI>\nor <Sign:4,UI> to toggle to \"Equip.\"\nEquipping better gear will enhance your stats,\nand strong enough gear can even give you\nan edge over strong foes.\n\n- Battle Master"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||25||||2"
+msgid "You got that quick.\r\nKeep at it just like that."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||26||||2"
+msgid "Unleash that anger of yours in the heat of\r\nbattle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||27||||2"
+msgid "You seem to be happy."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||28||||2"
+msgid "What are you surprised about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||29||||2"
+msgid "Smiles are pointless in battle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||30||||2"
+msgid "What are you so down about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||31||||2"
+msgid "You seem restless."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||32||||2"
+msgid "Don't let it get to you."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||33||||2"
+msgid "Read it again."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||34||||2"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||35||||2"
+msgid "After obtaining some experience points (EXP),\r\nselect Stats in the Pause Menu to spend them on\r\nincreasing your stats and learning new skills.\r\nYou should first increase your Basic Stats. Once\r\nyou've raised your Basic Stats a bit, the rest\r\nis completely up to you. Learn skills that shape\r\nyour own personal fighting style.\r\nRemember: When you get EXP, use it!\r\n\r\n - Battle Master"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||36||||2"
+msgid "You got that quick.\r\nKeep at it just like that."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||37||||2"
+msgid "Unleash that anger of yours in the heat of\r\nbattle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||38||||2"
+msgid "You seem to be happy."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||39||||2"
+msgid "What are you surprised about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||40||||2"
+msgid "Smiles are pointless in battle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||41||||2"
+msgid "What are you so down about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||42||||2"
+msgid "You seem restless."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||43||||2"
+msgid "Don't let it get to you."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||44||||2"
+msgid "Read it again."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||45||||2"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||46||||2"
+msgid "So you're probably getting used to battles by\r\nnow. That's great! But, don't you hate being\r\nsurrounded by enemies and assaulted from all\r\nsides? Don't worry! In those situations, grab an\r\nenemy with <Sign:0,Combat>, then press <Sign:0,Combat> again to throw\r\nthem. You can do this to knock down\r\nsurrounding enemies as well.  \r\n\r\nHave you ever had a difficult time with speedy\r\nenemies? For quick foes, grab them using <Sign:0,Combat>,\r\nthen perform a grab attack by pressing <Sign:2,Combat> or\r\n<Sign:1,Combat>. Stopping an enemy's movement is the most\r\nsurefire way to cause damage.\r\n\r\nYou can also pick up weapons lying around\r\ntown with <Sign:0,Combat>. Weapons like knives and firearms\r\ncan't be guarded against, so use them whenever\r\nyou can. You have to be prepared to defend\r\nyourself against people who don't fight fair.\r\n\r\n - Battle Master"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||47||||2"
+msgid "You got that quick.\r\nKeep at it just like that."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||48||||2"
+msgid "Unleash that anger of yours in the heat of\r\nbattle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||49||||2"
+msgid "You seem to be happy."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||50||||2"
+msgid "What are you surprised about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||51||||2"
+msgid "Smiles are pointless in battle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||52||||2"
+msgid "What are you so down about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||53||||2"
+msgid "You seem restless."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||54||||2"
+msgid "Don't let it get to you."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||55||||2"
+msgid "Read it again."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||56||||2"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||57||||2"
+msgid "As you land attacks during battle, you'll notice\r\nthat the Heat Orbs near your Health Bar will\r\nfill up. Once an Orb fills up, you can use it\r\nto perform a special attack known as a Heat\r\nAction. When the Heat Icon shows up, press\r\n<Sign:1,Combat> to unleash a furious Heat Action. However,\r\neach Heat Action can only be activated under\r\ncertain conditions. You'll have to experiment\r\nand learn when you can use each Heat Action.\r\n\r\n - Battle Master"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||58||||2"
+msgid "You got that quick.\r\nKeep at it just like that."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||59||||2"
+msgid "Unleash that anger of yours in the heat of\r\nbattle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||60||||2"
+msgid "You seem to be happy."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||61||||2"
+msgid "What are you surprised about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||62||||2"
+msgid "Smiles are pointless in battle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||63||||2"
+msgid "What are you so down about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||64||||2"
+msgid "You seem restless."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||65||||2"
+msgid "Don't let it get to you."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||66||||2"
+msgid "Read it again."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||67||||2"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||68||||2"
+msgid "It looks like a lot of your fighting instincts\r\nhave returned, so now I can teach you about\r\na special state called Extreme Heat Mode. After\r\ngathering several Heat Orbs, press <Sign:5,Combat> to enter\r\nExtreme Heat Mode. During Extreme Heat Mode,\r\nyou'll have a blue aura surrounding you. Not\r\nonly will your attack power increase, but you\r\ncan activate special Heat Actions that are\r\nexclusive to this mode.\r\n\r\nHow long Extreme Heat Mode lasts depends on\r\nhow many Heat Orbs you've filled up. The more\r\nOrbs, the longer it lasts. When fighting a\r\nstrong enemy, conserve your Heat Orbs and\r\noverwhelm them with Extreme Heat Mode.\r\n\r\nI look forward to the day I can fight you.\r\n\r\n - Battle Master"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||69||||2"
+msgid "You got that quick.\r\nKeep at it just like that."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||70||||2"
+msgid "Unleash that anger of yours in the heat of\r\nbattle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||71||||2"
+msgid "You seem to be happy."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||72||||2"
+msgid "What are you surprised about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||73||||2"
+msgid "Smiles are pointless in battle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||74||||2"
+msgid "What are you so down about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||75||||2"
+msgid "You seem restless."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||76||||2"
+msgid "Don't let it get to you."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||77||||2"
+msgid "Read it again."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||78||||2"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||79||||2"
+msgid "Long time no see. I've watched you for a while,\r\nand it seems your fighting skills are pretty top\r\nnotch now. Therefore, this will be my final\r\nadvice to you.\r\n\r\nAs the Dragon of Dojima, you must understand\r\nthat training can only take you so far. If you\r\nhaven't yet, master your Basic Stats to the max.\r\nOnly then can you push beyond your limits.\r\n\r\nI'll contact you again... when the time is right.\r\n\r\nUntil then, keep on training.\r\n\r\n - Battle Master"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||80||||2"
+msgid "You got that quick.\r\nKeep at it just like that."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||81||||2"
+msgid "Unleash that anger of yours in the heat of\r\nbattle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||82||||2"
+msgid "You seem to be happy."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||83||||2"
+msgid "What are you surprised about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||84||||2"
+msgid "Smiles are pointless in battle."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||85||||2"
+msgid "What are you so down about?"
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||86||||2"
+msgid "You seem restless."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||87||||2"
+msgid "Don't let it get to you."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||88||||2"
+msgid "Read it again."
+msgstr ""
+
+msgctxt "18||tips_btlmaster||table||89||||2"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||1||||2"
+msgid "This is Torafuru.\r\n\r\nI knew you could do it, Kiryu-san! Looks like\r\nyou drove the shakedown army out of the\r\ncity. They don't want to mess with you again.\r\nYou've brought this town one step closer to\r\npeace. Thank you!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||12||||2"
+msgid "This is Torafuru.\r\n\r\nWow! What an incredible job, Kiryu-san!\r\nThose guys were seeking out middle-aged\r\nmen to assault, but you sent them packing!\r\nPlease continue to help however you can!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||23||||2"
+msgid "This is Torafuru.\r\n\r\nThose pick-up artists were going around\r\ntricking a lot of girls. Thankfully, they\r\nshouldn't con anyone else now that you've\r\ntaught them some manners. You're really\r\nturning this town around for the better.\r\nThank you!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||34||||2"
+msgid "This is Torafuru.\r\n\r\nIt turns out those guys had committed a lot\r\nof assaults as a mob in this city. \r\n\r\nYou inspired some courage in people who\r\nsaw you fight without any fear against guys\r\nlike that, Kiryu-san. Thank you!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||45||||2"
+msgid "This is Torafuru.\r\n\r\nThose guys were notorious as monsters who\r\ntarget couples. What do you think warped their\r\nhearts? Oh well. We don't have to worry about\r\nthem. They won't show their faces around here\r\nanymore. Thank you so much!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||56||||2"
+msgid "This is Torafuru.\r\n\r\nI'm sorry, but I had to laugh. I never thought I\r\nwould see you deliver ramen. It might have\r\nbeen a pain in the ass, but I'm sure you saved\r\nthat restaurant... lol. You're doing great work!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||67||||2"
+msgid "This is Torafuru.\r\n\r\nThat settles the series of arsons that had been\r\nhappening in Kamurocho. If it weren't for you,\r\nthere could have been a serious disaster in this\r\ncity. You really saved us all. Thank you!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||78||||2"
+msgid "This is Torafuru.\r\n\r\nThat settles the series of arsons that had\r\nbeen happening in Onomichi. If it weren't\r\nfor Troublr, we might not have been able\r\nto stop it. I'm thinking of taking this system\r\nnationwide. Let's work together to keep the\r\npeace in this city. I can't thank you enough!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||89||||2"
+msgid "This is Torafuru.\r\n\r\nI guess you could say you're in big trouble if\r\nyou run out of toilet paper... lol. I'm in awe of\r\nyour kindness! It's nice to solve small problems\r\nlike this once in a while for a change of pace."
+msgstr ""
+
+msgctxt "19||trouble_mail||table||100||||2"
+msgid "This is Torafuru.\r\n\r\nThat was a really dangerous criminal. I wish\r\nthe police would catch people like that and\r\nkeep them off the streets. You've done a\r\ngreat service to your fellow man, Kiryu-san.\r\nThank you so much!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||111||||2"
+msgid "This is Torafuru.\r\n\r\nThere's a correlation between the crime rate\r\nin a city and the amount of purse-snatchers.\r\nWithout any witnesses, victims generally have\r\nno option but to give up. You were able to\r\ncatch them in the act of the crime, though.\r\nThank you!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||122||||2"
+msgid "This is Torafuru.\r\n\r\nI think this city is still very dangerous. The\r\nguy who was caught was apparently an infamous\r\npickpocket according to the police. Looks like\r\nhe was outclassed this time. LOL. Thank you,\r\nKiryu-san!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||133||||2"
+msgid "This is Torafuru.\r\n\r\nYou really saved us. He might have been the\r\nmost terrifying threat so far. You can make\r\nbombs so easily nowadays... So we can't rule\r\nout the possibility that more bombers might\r\nappear later. I'll keep a look out. Thank you!"
+msgstr ""
+
+msgctxt "19||trouble_mail||table||144||||2"
+msgid "This is Torafuru.\r\n\r\nThanks to you, this city has become much\r\nmore peaceful. I think as long as we keep an\r\neye on Troublr, we'll be able to manage. \r\n\r\nYou're an inspiration, Kiryu-san. I want to\r\nbecome strong like you. I want to protect\r\nthis city with my own strength, rather than\r\nalways depending on others.\r\n\r\nThat's how I feel now. I'll keep working at it.\r\nThank you for everything. Goodbye."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||1||||2"
+msgid "This is the Kamurocho Information Service.\r\n\r\nThis service will automatically distribute\r\nupdates on Kamurocho's facilities and road\r\nconditions.\r\n\r\n***NOTICE***\r\nAccess to Park Boulevard is limited due to\r\nmajor construction on the sewers on the north\r\nside of Shichifuku Street. Pedestrians and\r\ndrivers should exercise caution while in the\r\narea."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||2||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||3||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||4||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||5||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||6||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||7||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||8||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||9||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||10||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||11||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||12||||2"
+msgid "This is the Kamurocho Information Service.\r\n\r\n***NOTICE***\r\nThe Champion District is undergoing renovation\r\nto address the deterioration of buildings within\r\nthe area. Please stay alert and yield to\r\nconstruction crews."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||13||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||14||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||15||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||16||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||17||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||18||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||19||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||20||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||21||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||22||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||23||||2"
+msgid "This is the Kamurocho Information Service.\r\n\r\n***NOTICE***\r\nA building is currently on fire in Kamurocho,\r\nand reports indicate that the fire department's\r\nresponse has been delayed. If you are in the\r\narea, please evacuate immediately."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||24||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||25||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||26||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||27||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||28||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||29||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||30||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||31||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||32||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||33||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||34||||2"
+msgid "This is the Kamurocho Information Service.\r\n\r\n***NOTICE***\r\nWe have just received an eyewitness report of a\r\nmassive UFO in the skies above Kamurocho and\r\nOnomichi! Apparently you can see it if you\r\nequip an item called the UFO Finder! If you are\r\nin Kamurocho, look toward the Millennium Tower\r\nfrom the roof of a building. If you are in\r\nOnomichi, find some high ground and look up at\r\nthe sky."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||35||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||36||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||37||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||38||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||39||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||40||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||41||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||42||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||43||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||44||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||45||||2"
+msgid "This is the Kamurocho Information \rService.\r\n\r\n***NOTICE***\r\nHave you heard? A rumor has been spreading\r\nthat you can take pictures of ghosts in\r\nKamurocho. Reports say the phenomenon is\r\ntied to some mysterious photographs. If you\r\nhold one of these photographs, you might feel\r\nyourself shudder as you pass by a certain\r\nlocation. Try taking a picture there, and you\r\nmight see something that's not meant to be\r\nseen..."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||46||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||47||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||48||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||49||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||50||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||51||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||52||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||53||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||54||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "20||kamuinfo_mail||table||55||||2"
+msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
+msgstr ""
+
+msgctxt "21||cln_32_00||table||1||||2"
+msgid "Kiryu-san,\r\n\r\nThat back-alley merchant that I talked to you\r\nabout the other day gave me a call. He said it\r\nwas okay for me to tell you about him, so if\r\nyou want to meet him, you should check out the\r\nvacant lot in Hana-no-kubo."
+msgstr ""
+
+msgctxt "22||cln_32_01||table||1||||2"
+msgid "Yo Kiryu-san,\r\nIt's been a while. You remember the back-alley\r\nmerchant in Onomichi mentioning his counterpart\r\nin Kamurocho?\r\n\r\nWell I got word that he's already heard about\r\nyou, so you should go introduce yourself when\r\nyou get a chance. I hear he hangs out deep in\r\nthe sewer system."
+msgstr ""
+

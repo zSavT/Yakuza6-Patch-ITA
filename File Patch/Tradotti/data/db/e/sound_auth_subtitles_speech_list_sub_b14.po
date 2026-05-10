@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Kiryu-san... It's finally time for us\r\nt'take on the Thunders' main roster."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Oh, whadda we got here?\r\nIf it ain't the Setouchi scrubs."
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Hamana..."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Think you're really ready t'play us?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Of course! And we'll win this time too,\r\njust like our last game!"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Heh, don't count yer chickens just yet.\r\nWhoopin' our farm team means nothin'."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "We'll crush you without breakin' a sweat,\r\njust t'show you how out of yer league we are."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Not gonna happen. If y'think we're the same\r\nWarriors as before, y'better think again."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Our team has changed ever since\r\nCaptain Kiryu came along!"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Right, Kiryu-san!?"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Hm? Y-Yeah..."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Y'really think bringin' on one amateur\r\nchanges the game? We'll see..."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "We were just lookin' for some boys t'practice\r\non so we can take down the Legends or the Gorgeous."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Hamana-san, this is that Kiryu guy?"
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "He's our relief ace, Shinozaki."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Craaap!\r\nShinozaki's here today...?"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Kiryu-san, he's a pretty well-known\r\nrelief pitcher here in Onomichi."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "They swap him in toward the end so he\r\ncan put the final nail in the other team's coffin..."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "That's how he came t'be known as\r\nthe \"Reaper of Onomichi\"...!"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "The Reaper of Onomichi..."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Let's have a good game, eh?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Kiryu-san, if they get a lead and Shinozaki enters\r\nthe game, our chances are good as shot!"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "We need t'score some runs and gain\r\na good lead early on if we wanna hold it!"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "All right, let's do it."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Let me know when you're good to go!\r\nThen we'll get the team ready t'play!"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Kiryu-san!\r\nLet's win this one!"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "So strong..."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Y'all were tootin' so much hot air, but\r\nnow y'see how much yer team just blows."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "What happened t'your big shot Captain\r\nKiryu makin' ya'll stronger, hm?"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Damn..."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Well, it was a nice warm-up for us\r\nall the same. Challenge us any time!"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "As long as y'don't expect different results!"
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Kiryu-san... Let's train harder, gather more\r\nplayers, and take them on again."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "I'd die of shame if we never beat them!"
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Yeah... We won't lose again."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Impossible...\r\nHow'd we lose to this buncha clowns?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "We did it!\r\nWe won, Kiryu-san!"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "We'll never take down the Legends if\r\nwe can't even take down the Warriors..."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Bravo! Not too shabby."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Hm? Who're you?"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Ch-Champ!"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Champ...?"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Y'don't recognize a former pro ball champion?\r\nHe's Champ Shigenaga-san."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Man, I didn't expect the Warriors to win.\r\nThat was a great game. Right, Lu-san?"
+msgstr ""
+
+msgctxt "47||||4"
+msgid "I agree."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "We actually play on an amateur baseball\r\nteam called the \"Onomichi Legends.\""
+msgstr ""
+
+msgctxt "49||||4"
+msgid "And we've been looking for a team to play,\r\nsince the Thunders seem to have gone silent."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Wanna play us sometime?\r\nWhat do you think, Warriors?"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "What!? P-Play against the Legends...?\r\nThe best team in Onomichi!?"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Sure, I mean, you're clearly better than\r\nthe Thunders, so what have you got to lose?"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Wh-What should we do, Kiryu-san...?"
+msgstr ""
+
+msgctxt "55||||4"
+msgid "There's no reason to say no."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "If anything, we should be honored that such\r\na skilled team would even challenge us."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Y-You are so right!"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "That fearless attitude in the\r\nface of adversity..."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Hmmm. I like it."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Well, I say we call it a day."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "I prefer games when both teams are at their best,\r\nso rest well from trouncing the Thunders."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Let's go, Lu-san."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "I-Isn't this exciting, Kiryu-san!? Let's keep this\r\nmomentum going and take down the Legends too!"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Yeah, let's do it."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Y'damn boneheads...\r\nNot even we could squeeze a win out 'gainst them..."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Defeatin' us don't mean dirt. The Legends are\r\nall former pros in a league of their own..."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "A-Are they really that good?"
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Yeah, Shigenaga needs no explanation, but that\r\nLu guy is a real slugger... Y'better watch him."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "In his last game, he was a beast unchained.\r\nIn four at-bats, he knocked four outta the park."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "F-Four back-to-back...!?"
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Feh... Consider it a victory if y'don't\r\nhave t'forfeit on account of the mercy rule..."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "I guess even though they're retired,\r\nthey'd still be pretty skilled..."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Yeah... But, we've been improving little by\r\nlittle too. We can at least take them on."
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Th-That's true...!\r\nLet's show them our Warriors spirit!"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "Right."
+msgstr ""
+

@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "2||anri_01||name"
+msgid "Anri"
+msgstr ""
+
+msgctxt "3||yua_01||name"
+msgid "Yua"
+msgstr ""
+
+msgctxt "2||anri_01||message"
+msgid "Let's have some fun..."
+msgstr ""
+
+msgctxt "3||yua_01||message"
+msgid "<symbol=note_with_outline>Yua's Room<symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "2||anri_01||category"
+msgid "Sexy"
+msgstr ""
+
+msgctxt "3||yua_01||category"
+msgid "Cute"
+msgstr ""
+

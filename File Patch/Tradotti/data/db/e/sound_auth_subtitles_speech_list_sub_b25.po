@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "I ain't doin' it!"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "But I'm begging you!"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "No means no!"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "But...!"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "What is it, you two?\r\nAnother argument?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Ah, Kiryu-san..."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "What's wrong this time?\r\nDoes the world's tastiest salmon live here, too?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "It... came back."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "The salmon?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "No... It's a shark."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "There's a huge man-eatin' terror that roams\r\n'round these parts... The Bloody Shark."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "The Bloody Shark..."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Yup. It's a real frightenin' sight,\r\nwith rows o' teeth n' huge blood-red eyes."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "It used t'wreak havoc 'round here years back,\r\nbut it disappeared... 'til lately, that is."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "That thing's what wrecked my leg, too.\r\nIt's a monster."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Sounds like it..."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "I'm lucky t'have got off this easy, though.\r\nTons o' other fishermen fell victim to that thing."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Includin' Amano's old man."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Guy was one o' the best fishermen in town.\r\nOne o' my closest friends, too."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "But one day, he met that monster out on the water.\r\nN' that was the last we saw o' him..."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "That's horrible..."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "That's why... That's why I need to fight!\r\nI have to avenge my father's death!"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "I'm begging you, Isao-san!\r\nTake me to where this monster is!"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Y'ain't goin' nowhere!\r\nYer never gonna win against that thing!"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "A girl like ya without a shred o' experience\r\nwould get swallowed whole out there!"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Think o' how yer old man'd feel\r\nif that happened to ya!"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "But... But..."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "I ain't lettin' up!\r\nEnough's enough!"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Geez... That girl's even more\r\nstubborn than her old man was."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "What about this Bloody Shark?\r\nIs it <font_kind=yakuza_italic>really</font_kind> that dangerous?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Yup, it's jus' like I told ya.\r\nScariest thing in the ocean, if ya ask me."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "But... if we don't do somethin' fast,\r\nwe might have another victim on our hands."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "What a mess..."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "S'pose all we can do is wait 'til it leaves..."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Y'better stay outta the water too, Kiryu-san.\r\nThing's dangerous, y'hear?"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "No... I'm going. \r\nI'll chase that beast away."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Huh!?\r\nWait... Y'can't be serious!"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "I am. Who knows how many more fishermen\r\ncould fall victim to that monster if I don't."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "And if that happened, even more kids\r\nwould end up just like Amano."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "It hurts to lose a father... I understand that.\r\nAnd I want to help others avoid that pain."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Besides, this thing took Amano's father from her.\r\nShe deserves a little bit of closure."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "And for Amano, I'd gladly provide it."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Sheesh, yer a real charmer.\r\nI'd fall fer ya if I was a woman..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "A-Anyways!\r\nC'mon, I'll take ya over t'that thing's lair."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "It's leagues stronger than yer other opponents, though.\r\nMake sure yer spear and yer mind're sharp first."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Right."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "If ya died out there, Kiryu-san,\r\nAmano'd have one more thing t'be sad about..."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "N' if that happened, I'd never forgive ya."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "You really care for Amano, huh?"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "'Course I do! Anyways, I'll prep the boat\r\nwhen yer good n' ready. Jus' lemme know."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Got it."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Yo, Kiryu-san. Y'ready to head out?"
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Come talk to me if y'wanna set sail."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "All right, let's get movin'!\r\nY'can do it, Kiryu-san!"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "I never shoulda doubted ya, Kiryu-san!\r\nY'kicked the stuffin' outta that thing!"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Yer really somethin' else!\r\nHow 'bout a drink t'celebrate!?"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Sure."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Oh, Amano."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Listen t'this, Amano!\r\nKiryu-san got revenge fer yer old man!"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Idiot!"
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Huh? Hey, what's 'at fer!?\r\nKiryu-san did this fer you!"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "You left without even saying goodbye...\r\nI was so worried..."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "I thought you were gonna meet\r\nthe same end my father did, Kiryu-san..."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Amano..."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Don't be ridiculous."
+msgstr ""
+
+msgctxt "74||||4"
+msgid "I wouldn't die on you."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "You should know by now...\r\nI can handle anything the ocean throws at me."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Besides, Isao-san would never forgive me\r\nif I made you sad again."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Enough of the tears now, okay?\r\nSmiling suits you far better."
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Mkay, we're done with the sobbin', then!\r\nWe took down that monster, after all!"
+msgstr ""
+
+msgctxt "82||||4"
+msgid "It's time t'celebrate!\r\nWe gotta get ready, Amano!"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Right!"
+msgstr ""
+
+msgctxt "84||||4"
+msgid "Ahhh, I jus' love drinkin' with you two!\r\nAin't it great, Kiryu-san?"
+msgstr ""
+
+msgctxt "85||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Oh, Kiryu-san!\r\nThis is your payment for today!"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "This is even more than usual.\r\nAre you sure about this?"
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Darn tootin'.\r\nThe other fishermen pitched in."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "What...?"
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Everyone's free t'fish again now that ya\r\nspeared that giant shark. This is yer thanks."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "It's not much of a reward fer riskin' yer life,\r\nbut it's all fer you."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "Got it. I'll gladly accept."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "I ain't finished, though.\r\nYa've been a real lifesaver 'round here."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "Lemme thank ya again, Kiryu-san."
+msgstr ""
+
+msgctxt "95||||4"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "96||||4"
+msgid "It was nothing. I'm thankful\r\nfor all our time together, too."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Um... By the way, Kiryu-san...\r\nhow would you feel about fishing with us some more?"
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Yeah, c'mon!\r\nY'should stick around 'til I'm all healed up!"
+msgstr ""
+
+msgctxt "99||||4"
+msgid "I appreciate the offer, but I really\r\ndon't know how long I'll be in this town."
+msgstr ""
+
+msgctxt "100||||4"
+msgid "There's something else I need to do."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "Oh... I guess I'm not surprised."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "This place means a lot to me, though.\r\nI promise to keep coming back as long as I can."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "That okay with you?"
+msgstr ""
+
+msgctxt "104||||4"
+msgid "Y-Yes, of course it is!\r\nRight, Isao-san!?"
+msgstr ""
+
+msgctxt "105||||4"
+msgid "Y'don't even gotta ask.\r\nWe're gonna pull up some huge hauls, Kiryu-san!"
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "Anyways, let's pull ourselves together\r\nn' go fer another round!"
+msgstr ""
+
+msgctxt "108||||4"
+msgid "Huh? I think I've had enough for today!"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "What're ya sayin'!?\r\nKiryu-san's never gonna go fer a lightweight like you!"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "G-Go for me...?\r\nWh-Wh-What're you talking about!? Geez!"
+msgstr ""
+
+msgctxt "113||||4"
+msgid "Ya did good out there. Amano ain't around,\r\nso I'll be givin' ya yer reward today."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "See ya next time."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "\r\nRumor has is another shark's been hangin' around...\r\nNear identical t'the one from before."
+msgstr ""
+
+msgctxt "116||||4"
+msgid "Don't wanna pressure ya, but I was hopin'\r\ny'could get rid o' this one, too."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "Hey, don't make it sound so simple."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "C'mon, it should be a piece o' cake fer ya!\r\nAnyways, good luck out there!"
+msgstr ""
+
+msgctxt "119||||4"
+msgid "Sheesh. Some friend you are..."
+msgstr ""
+

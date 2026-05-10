@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||kiryu||name"
+msgid "Kazuma Kiryu"
+msgstr ""
+
+msgctxt "2||akiyama||name"
+msgid "Shun Akiyama"
+msgstr ""
+
+msgctxt "3||big||name"
+msgid "Big Lo"
+msgstr ""
+
+msgctxt "4||saejima||name"
+msgid "Taiga Saejima"
+msgstr ""
+
+msgctxt "5||majima||name"
+msgid "Goro Majima"
+msgstr ""
+
+msgctxt "6||sugai||name"
+msgid "Katsumi Sugai"
+msgstr ""
+
+msgctxt "7||someya||name"
+msgid "Takumi Someya"
+msgstr ""
+
+msgctxt "8||edo||name"
+msgid "Ed"
+msgstr ""
+
+msgctxt "9||jimy||name"
+msgid "Jimmy Lo"
+msgstr ""
+
+msgctxt "10||nagumo||name"
+msgid "Tsuyoshi Nagumo"
+msgstr ""
+
+msgctxt "11||yuta||name"
+msgid "Yuta Usami"
+msgstr ""
+
+msgctxt "12||matsunga||name"
+msgid "Takaaki Matsunaga"
+msgstr ""
+
+msgctxt "13||hirose||name"
+msgid "Toru Hirose"
+msgstr ""
+
+msgctxt "14||tagashira||name"
+msgid "Naoto Tagashira"
+msgstr ""
+
+msgctxt "15||masuzoe||name"
+msgid "Koji Masuzoe"
+msgstr ""
+
+msgctxt "16||koshimizu||name"
+msgid "Kanji Koshimizu"
+msgstr ""
+
+msgctxt "17||kurusu||name"
+msgid "Takeru Kurusu"
+msgstr ""
+
+msgctxt "18||iwamit||name"
+msgid "Tsuneo Iwami"
+msgstr ""
+
+msgctxt "19||tatukawa||name"
+msgid "Shu Tatsukawa"
+msgstr ""
+
+msgctxt "20||date||name"
+msgid "Makoto Date"
+msgstr ""
+
+msgctxt "21||honjo||name"
+msgid "Jiro Honjo"
+msgstr ""
+
+msgctxt "22||haruka||name"
+msgid "Haruka Sawamura"
+msgstr ""
+
+msgctxt "23||haruto||name"
+msgid "Haruto Sawamura"
+msgstr ""
+
+msgctxt "24||asagao||name"
+msgid "Children of Morning Glory"
+msgstr ""
+
+msgctxt "25||jyungi||name"
+msgid "Joon-gi Han"
+msgstr ""
+
+msgctxt "26||daidouji||name"
+msgid "Minoru Daidoji"
+msgstr ""
+
+msgctxt "27||kasahara||name"
+msgid "Kiyomi Kasahara"
+msgstr ""
+
+msgctxt "28||iino||name"
+msgid "Ino"
+msgstr ""
+
+msgctxt "29||daigo||name"
+msgid "Daigo Dojima"
+msgstr ""
+
+msgctxt "1||kiryu||explanation"
+msgid "The former 4th chairman of the Tojo Clan, a yakuza organization in control of \r\neastern Japan. Kiryu is a legend in the Japanese underworld, known throughout as\r\nthe Dragon of Dojima. He left the yakuza life behind to run the Morning Glory \r\norphanage in Okinawa alongside Haruka Sawamura, the daughter of his late love, \r\nYumi. However, his pursuit of a peaceful life was continuously disrupted by his \r\nyakuza days catching up to him. In 2012, he was a central figure in the \r\nnationwide conflict over who would be the next chairman of the Omi Alliance."
+msgstr ""
+
+msgctxt "2||akiyama||explanation"
+msgid "The man behind Sky Finance, a loan company in Kamurocho. Known as the \"Lifeline\r\nof Kamurocho,\" he presents those looking for money with a condition they must \r\nmeet before he approves a loan. He met Kiryu through Saejima's stepsister, \r\nYasuko. In 2012, he went to Sotenbori, Osaka to open a branch office and \r\nreunited with Haruka, who was in the entertainment industry at the time. He \r\nhelped her when the president of her talent agency died under mysterious \r\ncircumstances.\r\n"
+msgstr ""
+
+msgctxt "3||big||explanation"
+msgid "The leader of the Saio Triad, who quickly rebuilt Little Asia after the huge \r\nfire and has made it his home base. His son Jimmy Lo was murdered while fighting\r\nthe Tojo Clan for control of Kamurocho. Lo seems to have some sort of deep \r\nconnection with Onomichi, as he has been sending undocumented Chinese people, \r\nsuch as Masuzoe and Tatsukawa, into the Yomei Alliance for many years."
+msgstr ""
+
+msgctxt "4||saejima||explanation"
+msgid "A legendary yakuza, Saejima spent 25 years in prison for murdering 18 enemy \r\nyakuza. After doing his time, he returned to the Tojo Clan intending to set up \r\nhis own family. He decided he needed to cleanse himself of all past sins to \r\naccomplish this, voluntarily going back to prison. However, after hearing the \r\nrumors that Goro Majima had died, he was targeted by a conspiracy\r\norchestrated by the 7th chairman of the Omi Alliance. He decided to escape from \r\nprison and helped put a stop to the conflict, but in doing so, became a fugitive."
+msgstr ""
+
+msgctxt "5||majima||explanation"
+msgid "The unpredictably violent yakuza known as the Mad Dog of Shimano, once \r\nfeared across the criminal underworld. Sworn brother of Taiga Saejima, he \r\nis a man of his own code who yearns to fight against those who claim to be\r\nstrong. Majima views himself as Kiryu's greatest rival, having battled him\r\ncountless times over the years. In 2012, there were rumors of his demise,\r\nbut in reality he was working with Daigo Dojima to end the yakuza conflict."
+msgstr ""
+
+msgctxt "6||sugai||explanation"
+msgid "A veteran member of the Tojo Clan relegated to an advisory role for years before\r\nascending to acting chairman. His rise to power was made possible by the arrest \r\nof key Tojo Clan figures, Daigo Dojima, Goro Majima, and Taiga Saejima. He has \r\nslowly brought the whole clan under his control in order to wage war against a \r\nChinese mafia organization called the Saio Triad."
+msgstr ""
+
+msgctxt "7||someya||explanation"
+msgid "A confidant of Sugai, the acting 6th chairman of the Tojo Clan. He used the \r\nconflict between the Tojo Clan and the Saio Triad to his advantage and rose to \r\nbe a direct patriarch despite only being in his thirties."
+msgstr ""
+
+msgctxt "8||edo||explanation"
+msgid "An officer of the Saio Triad who is one of the few to have the privilege of \r\ntalking directly to their boss. Ed is an alias; his real name is unknown.\r\nHis weapon of choice is a Southeast Asian knife called a karambit. Ed is an \r\nintimidating, giant man who kills without hesitation."
+msgstr ""
+
+msgctxt "9||jimy||explanation"
+msgid "The son of the leader of the Saio Triad and successor to the organization. He \r\nwas found dead three months ago in Kamurocho. It's believed that he was murdered\r\nby members of the Tojo Clan, which intensified the conflict in Kamurocho."
+msgstr ""
+
+msgctxt "10||nagumo||explanation"
+msgid "The captain of the Hirose Family, a small subsidiary of the Masuzoe Family\r\nwithin the Yomei Alliance that controls all of Hiroshima. Nagumo is a\r\nsmall-town yakuza who's impulsive and outspoken. The run-down bar district\r\nof Onomichi is his territory, but he never seems to get much done outside\r\nof drinking all day."
+msgstr ""
+
+msgctxt "11||yuta||explanation"
+msgid "One of the five members of the Hirose Family. Even though Yuta was raised in \r\nOnomichi, he speaks with only a light Hiroshiman accent. He shows little\r\nrespect for Nagumo because of the captain's irresponsible nature. As a result, \r\nYuta often talks back to Nagumo at the risk of getting smacked."
+msgstr ""
+
+msgctxt "12||matsunga||explanation"
+msgid "A member of the Hirose Family who is next in rank after Nagumo. He is easygoing\r\nand speaks with a plain Hiroshima accent."
+msgstr ""
+
+msgctxt "13||hirose||explanation"
+msgid "The elderly patriarch of the Hirose Family. Despite being a veteran yakuza,\r\nhe lives a retired lifestyle and earns cash from insurance fraud.\r\nAll of the duties of running the family are left completely to his captain,\r\nNagumo. It's rumored that, in his younger days, he fought on the front\r\nlines in the conflict with the Omi Alliance, though no one knows whether\r\nto believe that."
+msgstr ""
+
+msgctxt "14||tagashira||explanation"
+msgid "One of the five Hirose Family members. Tagashira is far more knowledgeable\r\nabout the internet and social media than the others. Rather than Nagumo, he\r\nlooks up to the responsible Matsunaga to learn the ways of being a yakuza.\r\nWhile he respects Matsunaga, he also secretly feels the need to look after\r\nhim, as Matsunaga is not the sharpest tool in the shed."
+msgstr ""
+
+msgctxt "15||masuzoe||explanation"
+msgid "The patriarch of the Masuzoe Family within the Yomei Alliance. He is known\r\nto be a man of small caliber; oppressive toward the weak, and a coward\r\naround those stronger than he is. He's especially harsh toward the\r\nHirose Family for not earning much."
+msgstr ""
+
+msgctxt "16||koshimizu||explanation"
+msgid "The second most powerful yakuza in Hiroshima under Takeru Kurusu, the\r\nchairman of the Yomei Alliance. He places utmost importance on Iwami\r\nShipbuilding, a top-class company that has turned Onomichi into a corporate\r\ncastle town. Because of that, he shows up to settle a score with the Hirose\r\nFamily for Matsunaga punching an Iwami Shipbuilding worker. He recognized\r\nKiryu with just one look, and as the captain of the Yomei Alliance, he doesn't\r\nthink much of the Tojo Clan."
+msgstr ""
+
+msgctxt "17||kurusu||explanation"
+msgid "Founder and chairman of the mysterious Yomei Alliance which acts independently　\r\nand stays distant from all other yakuza organizations in Japan. Although they \r\nare the third largest organization after the Omi Alliance and Tojo Clan, they \r\nhave never failed to drive away invaders and their inner workings are shrouded \r\nin secrecy. Takeru Kurusu is his yakuza name; his public persona is Heizo Iwami,\r\nchairman of Iwami Shipbuilding. Using those two identities, he controls all of\r\nHiroshima both publicly and from the shadows."
+msgstr ""
+
+msgctxt "18||iwamit||explanation"
+msgid "The CEO of Iwami Shipbuilding, inherited from his father, Heizo Iwami, who\r\nfounded the world-class company. As Heizo's son, the members of the Yomei\r\nAlliance below Koshimizu bow down to him, and he often takes advantage of\r\nthat by throwing his weight around. He has the temperament of a cool-headed\r\nbusinessman, also an inheritance from his father. Many businesses in Hiroshima\r\nwere started by Tsuneo, and it's said that there isn't a soul in Hiroshima not\r\nassociated with the Iwami Group in some fashion."
+msgstr ""
+
+msgctxt "19||tatukawa||explanation"
+msgid "A former yakuza who left the Hirose Family six months ago and became a host\r\nin Kamurocho. He is a young man around the same age as Yuta and Tagashira,\r\nand he is rumored to be the father of Haruto."
+msgstr ""
+
+msgctxt "20||date||explanation"
+msgid "Date has been an ally to Kiryu over the years ever since the Ten Billion Yen \r\nIncident of 2005, and there is a strong bond of trust between them. He had \r\nretired from detective work to chase political cases as a journalist, but he's \r\nreturned to his position as a police officer. Younger officers respect him as a \r\nsophisticated, veteran detective. His relationship with the Mama of New Serena \r\nseems to be going well."
+msgstr ""
+
+msgctxt "21||honjo||explanation"
+msgid "When Haruka was involved with the hit-and-run in Kamurocho, he was the first to\r\nnotify Date about the accident. He's an experienced detective and is \r\nknowledgeable about Kamurocho's underworld. However, he believes in upholding \r\nthe law above all else, so he disapproves of Date and Kiryu's relationship, \r\nseeing it as collusion."
+msgstr ""
+
+msgctxt "22||haruka||explanation"
+msgid "The daughter of the late Yumi Sawamura, Kiryu's love. After the Ten Billion Yen \r\nIncident, she moved to Okinawa with Kiryu and began living with the children at \r\nthe Morning Glory orphanage. She became an idol after being scouted by the Osaka\r\ntalent agency Dyna Chair, but the president of the firm, Mirei Park, died after \r\ngetting caught up in a conflict between the yakuza. Afterwards, she publicly \r\nrecognized Kiryu as her family while on stage at the Japan Dome and retired on \r\nthe spot."
+msgstr ""
+
+msgctxt "23||haruto||explanation"
+msgid "Haruka's baby, who Haruka risked her own life to protect during the hit-and-run\r\nin Kamurocho. He looks to be under a year old."
+msgstr ""
+
+msgctxt "24||asagao||explanation"
+msgid "The children of Morning Glory, an orphanage in Okinawa, who Kiryu takes care of.\r\nThe oldest is Ayako, followed by Taichi, Koji, Mitsuo, Eri, Shiro, Riona and \r\nIzumi. When Haruka became an idol, Kiryu left Morning Glory and tried to bury \r\nhis past as a yakuza for Haruka's sake. He worked as a taxi driver for some time,\r\nsending the money he made to the children."
+msgstr ""
+
+msgctxt "25||jyungi||explanation"
+msgid "The young leader of the Jingweon Mafia, a Korean mafia organization which Kiryu\r\ndestroyed in 2006. Now, the Jingweon Mafia has changed hands to the younger\r\ngeneration, who no longer holds a grudge against Kiryu. They are in the \r\nprocess of expanding into Kamurocho's sex industry using their vast financial \r\nresources, exemplified by buying out Club Stardust."
+msgstr ""
+
+msgctxt "26||daidouji||explanation"
+msgid "The man who became known as the Fixer for his political backroom dealings after\r\nthe end of World War II. As a former imperial navy officer, he ordered Iwami \r\nShipbuilding to construct the Yamato Mk. II without government sanction. \r\nHowever, the war ended just before it was to be completed, and he covered up the\r\nexistence of the battleship for his own protection. When he later made a name \r\nfor himself as a politician, he colluded with Takeru Kurusu in order to hide the\r\nbattleship, referred to as the secret of Onomichi. However, when the secret was \r\nrevealed, he cut ties with Kurusu and ordered Kurusu's son, Tsuneo Iwami, to get\r\nrid of Kiryu."
+msgstr ""
+
+msgctxt "27||kasahara||explanation"
+msgid "Kiyomi runs a small bar in the run-down bar district of Onomichi. She welcomes \r\nKiryu, who was taking care of baby Haruto, and tries to help him out in any way \r\nshe can."
+msgstr ""
+
+msgctxt "28||iino||explanation"
+msgid "The manager of the Navy Apartments who has connections to the Jingaicho \r\nneighborhood association. Ino is a childhood friend of Nagumo and Kiyomi<symbol=em_dash_with_outline>he and \r\nNagumo are rivals for Kiyomi's affection. He runs an amateur baseball team that \r\nalways struggles with a lack of members."
+msgstr ""
+
+msgctxt "29||daigo||explanation"
+msgid "The 6th chairman of the Tojo Clan and only son of Dojima Family\r patriarch,\r\nSohei Dojima. Daigo tried to stay out of the yakuza lifestyle, but after the\r\ndeath of the 5th chairman, Yukio Terada, Kiryu put the Tojo Clan in his hands.\r\nDuring the 2012 Omi Alliance conflict, he worked hard to bring all yakuza\r\norganizations across Japan together, leading the conflict to its conclusion."
+msgstr ""
+

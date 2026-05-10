@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hello, and welcome to SEGA!"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "We have lots of retro arcade games\r\nfor you to enjoy."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Hello, and welcome to SEGA!"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "We have the hottest arcade hits, like\r\nVirtua Fighter and Puyo Puyo."
+msgstr ""
+

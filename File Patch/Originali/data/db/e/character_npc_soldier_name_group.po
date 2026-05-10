@@ -1,0 +1,2789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||encount_zako||table||1||||1"
+msgid "Sato"
+msgstr ""
+
+msgctxt "1||encount_zako||table||2||||1"
+msgid "Ito"
+msgstr ""
+
+msgctxt "1||encount_zako||table||3||||1"
+msgid "Yamamoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||4||||1"
+msgid "Watanabe"
+msgstr ""
+
+msgctxt "1||encount_zako||table||5||||1"
+msgid "Nakamura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||6||||1"
+msgid "Kobayashi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||7||||1"
+msgid "Kato"
+msgstr ""
+
+msgctxt "1||encount_zako||table||8||||1"
+msgid "Yoshida"
+msgstr ""
+
+msgctxt "1||encount_zako||table||9||||1"
+msgid "Yamada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||10||||1"
+msgid "Sasaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||11||||1"
+msgid "Yamaguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||12||||1"
+msgid "Matsumoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||13||||1"
+msgid "Inoue"
+msgstr ""
+
+msgctxt "1||encount_zako||table||14||||1"
+msgid "Saito"
+msgstr ""
+
+msgctxt "1||encount_zako||table||15||||1"
+msgid "Shimizu"
+msgstr ""
+
+msgctxt "1||encount_zako||table||16||||1"
+msgid "Yamazaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||17||||1"
+msgid "Mori"
+msgstr ""
+
+msgctxt "1||encount_zako||table||18||||1"
+msgid "Ikeda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||19||||1"
+msgid "Hashimoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||20||||1"
+msgid "Yamashita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||21||||1"
+msgid "Ishikawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||22||||1"
+msgid "Nakajima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||23||||1"
+msgid "Maeda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||24||||1"
+msgid "Fujita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||25||||1"
+msgid "Ogawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||26||||1"
+msgid "Goto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||27||||1"
+msgid "Okada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||28||||1"
+msgid "Hasegawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||29||||1"
+msgid "Murakami"
+msgstr ""
+
+msgctxt "1||encount_zako||table||30||||1"
+msgid "Ishii"
+msgstr ""
+
+msgctxt "1||encount_zako||table||31||||1"
+msgid "Kondo"
+msgstr ""
+
+msgctxt "1||encount_zako||table||32||||1"
+msgid "Sakamoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||33||||1"
+msgid "Endo"
+msgstr ""
+
+msgctxt "1||encount_zako||table||34||||1"
+msgid "Fujii"
+msgstr ""
+
+msgctxt "1||encount_zako||table||35||||1"
+msgid "Nishimura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||36||||1"
+msgid "Fukuda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||37||||1"
+msgid "Ota"
+msgstr ""
+
+msgctxt "1||encount_zako||table||38||||1"
+msgid "Fujihara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||39||||1"
+msgid "Miura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||40||||1"
+msgid "Okamoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||41||||1"
+msgid "Matsuda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||42||||1"
+msgid "Nakagawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||43||||1"
+msgid "Nakano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||44||||1"
+msgid "Ono"
+msgstr ""
+
+msgctxt "1||encount_zako||table||45||||1"
+msgid "Harada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||46||||1"
+msgid "Takeuchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||47||||1"
+msgid "Kaneko"
+msgstr ""
+
+msgctxt "1||encount_zako||table||48||||1"
+msgid "Nakayama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||49||||1"
+msgid "Ishida"
+msgstr ""
+
+msgctxt "1||encount_zako||table||50||||1"
+msgid "Ueda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||51||||1"
+msgid "Morita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||52||||1"
+msgid "Hara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||53||||1"
+msgid "Yokoyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||54||||1"
+msgid "Miyazaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||55||||1"
+msgid "Kudo"
+msgstr ""
+
+msgctxt "1||encount_zako||table||56||||1"
+msgid "Miyamoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||57||||1"
+msgid "Uchida"
+msgstr ""
+
+msgctxt "1||encount_zako||table||58||||1"
+msgid "Takagi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||59||||1"
+msgid "Taniguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||60||||1"
+msgid "Ando"
+msgstr ""
+
+msgctxt "1||encount_zako||table||61||||1"
+msgid "Maruyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||62||||1"
+msgid "Imai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||63||||1"
+msgid "Takada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||64||||1"
+msgid "Fujimoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||65||||1"
+msgid "Kawano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||67||||1"
+msgid "Murata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||68||||1"
+msgid "Takeda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||69||||1"
+msgid "Sugiyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||70||||1"
+msgid "Masuda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||71||||1"
+msgid "Hirano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||72||||1"
+msgid "Sugawara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||73||||1"
+msgid "Koyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||74||||1"
+msgid "Kubo"
+msgstr ""
+
+msgctxt "1||encount_zako||table||75||||1"
+msgid "Otsuka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||76||||1"
+msgid "Chiba"
+msgstr ""
+
+msgctxt "1||encount_zako||table||77||||1"
+msgid "Matsui"
+msgstr ""
+
+msgctxt "1||encount_zako||table||78||||1"
+msgid "Iwasaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||79||||1"
+msgid "Kinoshita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||80||||1"
+msgid "Matsuo"
+msgstr ""
+
+msgctxt "1||encount_zako||table||81||||1"
+msgid "Noguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||82||||1"
+msgid "Nomura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||83||||1"
+msgid "Sano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||84||||1"
+msgid "Kikuchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||85||||1"
+msgid "Watanabe"
+msgstr ""
+
+msgctxt "1||encount_zako||table||86||||1"
+msgid "Onishi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||87||||1"
+msgid "Sugimoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||88||||1"
+msgid "Furukawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||89||||1"
+msgid "Sakurai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||90||||1"
+msgid "Komatsu"
+msgstr ""
+
+msgctxt "1||encount_zako||table||91||||1"
+msgid "Ichikawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||92||||1"
+msgid "Mizuno"
+msgstr ""
+
+msgctxt "1||encount_zako||table||93||||1"
+msgid "Takano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||94||||1"
+msgid "Shimada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||95||||1"
+msgid "Yoshikawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||96||||1"
+msgid "Yamauchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||97||||1"
+msgid "Kikuchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||98||||1"
+msgid "Nishikawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||99||||1"
+msgid "Kitamura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||100||||1"
+msgid "Nakata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||101||||1"
+msgid "Higashi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||102||||1"
+msgid "Hamada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||103||||1"
+msgid "Kawaguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||104||||1"
+msgid "Kawasaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||105||||1"
+msgid "Honda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||106||||1"
+msgid "Yoshimura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||107||||1"
+msgid "Nakanishi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||108||||1"
+msgid "Tsuji"
+msgstr ""
+
+msgctxt "1||encount_zako||table||109||||1"
+msgid "Iwata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||110||||1"
+msgid "Hattori"
+msgstr ""
+
+msgctxt "1||encount_zako||table||111||||1"
+msgid "Matsuoka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||112||||1"
+msgid "Kawakami"
+msgstr ""
+
+msgctxt "1||encount_zako||table||113||||1"
+msgid "Fukushima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||114||||1"
+msgid "Higuchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||115||||1"
+msgid "Seki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||116||||1"
+msgid "Nagai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||117||||1"
+msgid "Yamanaka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||118||||1"
+msgid "Morimoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||119||||1"
+msgid "Yano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||120||||1"
+msgid "Taguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||121||||1"
+msgid "Tsuchiya"
+msgstr ""
+
+msgctxt "1||encount_zako||table||122||||1"
+msgid "Matsushita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||123||||1"
+msgid "Ishihara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||124||||1"
+msgid "Ohashi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||125||||1"
+msgid "Yoshioka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||126||||1"
+msgid "Matsuura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||127||||1"
+msgid "Araki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||128||||1"
+msgid "Koike"
+msgstr ""
+
+msgctxt "1||encount_zako||table||129||||1"
+msgid "Asano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||130||||1"
+msgid "Kumatani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||131||||1"
+msgid "Noda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||132||||1"
+msgid "Okubo"
+msgstr ""
+
+msgctxt "1||encount_zako||table||133||||1"
+msgid "Kawamura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||134||||1"
+msgid "Hoshino"
+msgstr ""
+
+msgctxt "1||encount_zako||table||135||||1"
+msgid "Otani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||136||||1"
+msgid "Ozaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||137||||1"
+msgid "Kuroda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||138||||1"
+msgid "Nagata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||140||||1"
+msgid "Matsumura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||141||||1"
+msgid "Hori"
+msgstr ""
+
+msgctxt "1||encount_zako||table||142||||1"
+msgid "Naito"
+msgstr ""
+
+msgctxt "1||encount_zako||table||143||||1"
+msgid "Mochizuki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||144||||1"
+msgid "Tanabe"
+msgstr ""
+
+msgctxt "1||encount_zako||table||145||||1"
+msgid "Sugano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||146||||1"
+msgid "Nishiyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||147||||1"
+msgid "Hirai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||148||||1"
+msgid "Iwamoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||149||||1"
+msgid "Katayama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||150||||1"
+msgid "Hayakawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||151||||1"
+msgid "Yokoda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||152||||1"
+msgid "Okazaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||153||||1"
+msgid "Honma"
+msgstr ""
+
+msgctxt "1||encount_zako||table||154||||1"
+msgid "Kamata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||155||||1"
+msgid "Oda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||156||||1"
+msgid "Oishi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||157||||1"
+msgid "Miyata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||158||||1"
+msgid "Narita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||159||||1"
+msgid "Arai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||160||||1"
+msgid "Sawada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||161||||1"
+msgid "Ishibashi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||162||||1"
+msgid "Shinohara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||163||||1"
+msgid "Konishi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||164||||1"
+msgid "Hagiwara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||165||||1"
+msgid "Takayama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||166||||1"
+msgid "Matsubara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||167||||1"
+msgid "Ito"
+msgstr ""
+
+msgctxt "1||encount_zako||table||168||||1"
+msgid "Miyake"
+msgstr ""
+
+msgctxt "1||encount_zako||table||169||||1"
+msgid "Kurihara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||170||||1"
+msgid "Fukui"
+msgstr ""
+
+msgctxt "1||encount_zako||table||171||||1"
+msgid "Kuwabara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||172||||1"
+msgid "Omori"
+msgstr ""
+
+msgctxt "1||encount_zako||table||174||||1"
+msgid "Kataoka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||175||||1"
+msgid "Oka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||176||||1"
+msgid "Uchiyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||177||||1"
+msgid "Kitagawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||178||||1"
+msgid "Sekiguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||179||||1"
+msgid "Ozawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||180||||1"
+msgid "Tomida"
+msgstr ""
+
+msgctxt "1||encount_zako||table||181||||1"
+msgid "Yagi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||182||||1"
+msgid "Koga"
+msgstr ""
+
+msgctxt "1||encount_zako||table||183||||1"
+msgid "Kamimura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||184||||1"
+msgid "Uehara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||185||||1"
+msgid "Yoshino"
+msgstr ""
+
+msgctxt "1||encount_zako||table||186||||1"
+msgid "Imamura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||187||||1"
+msgid "Nakao"
+msgstr ""
+
+msgctxt "1||encount_zako||table||188||||1"
+msgid "Shiraishi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||189||||1"
+msgid "Sakaguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||190||||1"
+msgid "Kawashima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||191||||1"
+msgid "Koizumi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||192||||1"
+msgid "Makino"
+msgstr ""
+
+msgctxt "1||encount_zako||table||193||||1"
+msgid "Hirayama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||194||||1"
+msgid "Okamura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||195||||1"
+msgid "Kawai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||196||||1"
+msgid "Shibutani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||197||||1"
+msgid "Kodama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||198||||1"
+msgid "Tada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||199||||1"
+msgid "Nishi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||200||||1"
+msgid "Oyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||201||||1"
+msgid "Onodera"
+msgstr ""
+
+msgctxt "1||encount_zako||table||202||||1"
+msgid "Miyashita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||203||||1"
+msgid "Takeda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||204||||1"
+msgid "Ogura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||205||||1"
+msgid "Okumura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||206||||1"
+msgid "Adachi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||207||||1"
+msgid "Ogasawara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||208||||1"
+msgid "Sakai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||209||||1"
+msgid "Murayama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||210||||1"
+msgid "Amano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||211||||1"
+msgid "Sugiura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||212||||1"
+msgid "Okuda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||213||||1"
+msgid "Obara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||214||||1"
+msgid "Toyoda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||215||||1"
+msgid "Mizutani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||216||||1"
+msgid "Morishita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||217||||1"
+msgid "Komura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||218||||1"
+msgid "Sakata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||219||||1"
+msgid "Tsunoda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||220||||1"
+msgid "Muto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||221||||1"
+msgid "Ueda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||222||||1"
+msgid "Nemoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||223||||1"
+msgid "Maekawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||224||||1"
+msgid "Tsukamoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||225||||1"
+msgid "Sekine"
+msgstr ""
+
+msgctxt "1||encount_zako||table||226||||1"
+msgid "Tajima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||227||||1"
+msgid "Izuka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||228||||1"
+msgid "Abe"
+msgstr ""
+
+msgctxt "1||encount_zako||table||229||||1"
+msgid "Yamane"
+msgstr ""
+
+msgctxt "1||encount_zako||table||230||||1"
+msgid "Asai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||231||||1"
+msgid "Miyakawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||232||||1"
+msgid "Sakuma"
+msgstr ""
+
+msgctxt "1||encount_zako||table||233||||1"
+msgid "Shirai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||234||||1"
+msgid "Okawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||235||||1"
+msgid "Osada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||236||||1"
+msgid "Tani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||237||||1"
+msgid "Horiuchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||238||||1"
+msgid "Nakatani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||239||||1"
+msgid "Inagaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||240||||1"
+msgid "Wakabayashi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||241||||1"
+msgid "Matsuzaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||242||||1"
+msgid "Kamiya"
+msgstr ""
+
+msgctxt "1||encount_zako||table||243||||1"
+msgid "Moriyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||244||||1"
+msgid "Hosokawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||245||||1"
+msgid "Hanayama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||246||||1"
+msgid "Oikawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||247||||1"
+msgid "Enomoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||248||||1"
+msgid "Eguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||249||||1"
+msgid "Nishio"
+msgstr ""
+
+msgctxt "1||encount_zako||table||250||||1"
+msgid "Mikami"
+msgstr ""
+
+msgctxt "1||encount_zako||table||251||||1"
+msgid "Imano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||252||||1"
+msgid "Adachi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||253||||1"
+msgid "Doi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||254||||1"
+msgid "Tashiro"
+msgstr ""
+
+msgctxt "1||encount_zako||table||255||||1"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||256||||1"
+msgid "Tsuda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||257||||1"
+msgid "Kishimoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||258||||1"
+msgid "Nakazawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||259||||1"
+msgid "Ishizuka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||260||||1"
+msgid "Toda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||261||||1"
+msgid "Nagao"
+msgstr ""
+
+msgctxt "1||encount_zako||table||262||||1"
+msgid "Arakawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||263||||1"
+msgid "Ijima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||264||||1"
+msgid "Morikawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||265||||1"
+msgid "Hotta"
+msgstr ""
+
+msgctxt "1||encount_zako||table||266||||1"
+msgid "Miyoshi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||267||||1"
+msgid "Okano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||268||||1"
+msgid "Matsuyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||269||||1"
+msgid "Kai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||270||||1"
+msgid "Nishioka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||271||||1"
+msgid "Inaba"
+msgstr ""
+
+msgctxt "1||encount_zako||table||272||||1"
+msgid "Iwai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||273||||1"
+msgid "Hoshi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||274||||1"
+msgid "Saeki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||275||||1"
+msgid "Kuroki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||276||||1"
+msgid "Kanda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||277||||1"
+msgid "Nozaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||278||||1"
+msgid "Nishino"
+msgstr ""
+
+msgctxt "1||encount_zako||table||279||||1"
+msgid "Tsutsumi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||280||||1"
+msgid "Horita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||281||||1"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||282||||1"
+msgid "Tokunaga"
+msgstr ""
+
+msgctxt "1||encount_zako||table||283||||1"
+msgid "Machida"
+msgstr ""
+
+msgctxt "1||encount_zako||table||284||||1"
+msgid "Yamagishi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||285||||1"
+msgid "Nitta"
+msgstr ""
+
+msgctxt "1||encount_zako||table||286||||1"
+msgid "Furuta"
+msgstr ""
+
+msgctxt "1||encount_zako||table||287||||1"
+msgid "Saito"
+msgstr ""
+
+msgctxt "1||encount_zako||table||288||||1"
+msgid "Kawata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||289||||1"
+msgid "Yamakawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||290||||1"
+msgid "Tsuchida"
+msgstr ""
+
+msgctxt "1||encount_zako||table||291||||1"
+msgid "Sugita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||292||||1"
+msgid "Kasahara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||293||||1"
+msgid "Takizawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||294||||1"
+msgid "Miki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||295||||1"
+msgid "Suda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||296||||1"
+msgid "Umeda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||297||||1"
+msgid "Nonaka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||298||||1"
+msgid "Otake"
+msgstr ""
+
+msgctxt "1||encount_zako||table||299||||1"
+msgid "Kanazawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||300||||1"
+msgid "Kawahashi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||301||||1"
+msgid "Kajihara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||302||||1"
+msgid "Omura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||303||||1"
+msgid "Hidaka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||304||||1"
+msgid "Kishi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||305||||1"
+msgid "Nishimoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||306||||1"
+msgid "Mukai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||307||||1"
+msgid "Fujisawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||308||||1"
+msgid "Kawahara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||309||||1"
+msgid "Hirota"
+msgstr ""
+
+msgctxt "1||encount_zako||table||310||||1"
+msgid "Oki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||311||||1"
+msgid "Iguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||312||||1"
+msgid "Sakakibara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||313||||1"
+msgid "Takenaka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||314||||1"
+msgid "Fujikawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||315||||1"
+msgid "Yasui"
+msgstr ""
+
+msgctxt "1||encount_zako||table||316||||1"
+msgid "Yoshimoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||317||||1"
+msgid "Oba"
+msgstr ""
+
+msgctxt "1||encount_zako||table||318||||1"
+msgid "Matsushima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||319||||1"
+msgid "Yoshiwara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||320||||1"
+msgid "Ouchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||321||||1"
+msgid "Takeshita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||322||||1"
+msgid "Fujioka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||323||||1"
+msgid "Shoji"
+msgstr ""
+
+msgctxt "1||encount_zako||table||324||||1"
+msgid "Fukumoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||325||||1"
+msgid "Kotani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||326||||1"
+msgid "Tanikawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||327||||1"
+msgid "Takemoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||328||||1"
+msgid "Okuyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||329||||1"
+msgid "Fujimura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||330||||1"
+msgid "Tsukada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||331||||1"
+msgid "Kitano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||332||||1"
+msgid "Miyauchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||333||||1"
+msgid "Shimoda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||334||||1"
+msgid "Ogata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||335||||1"
+msgid "Kubota"
+msgstr ""
+
+msgctxt "1||encount_zako||table||336||||1"
+msgid "Yanagizawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||337||||1"
+msgid "Ishikuro"
+msgstr ""
+
+msgctxt "1||encount_zako||table||338||||1"
+msgid "Kurita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||339||||1"
+msgid "Nagasawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||340||||1"
+msgid "Yamamura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||341||||1"
+msgid "Fujino"
+msgstr ""
+
+msgctxt "1||encount_zako||table||342||||1"
+msgid "Miyazawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||343||||1"
+msgid "Nagano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||344||||1"
+msgid "Shimomura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||345||||1"
+msgid "Niwa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||346||||1"
+msgid "Miwa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||347||||1"
+msgid "Kawamoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||348||||1"
+msgid "Miyahara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||349||||1"
+msgid "Shimata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||350||||1"
+msgid "Mogi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||351||||1"
+msgid "Ideguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||352||||1"
+msgid "Takai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||353||||1"
+msgid "Furuya"
+msgstr ""
+
+msgctxt "1||encount_zako||table||354||||1"
+msgid "Takemura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||355||||1"
+msgid "Nagashima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||356||||1"
+msgid "Ogino"
+msgstr ""
+
+msgctxt "1||encount_zako||table||357||||1"
+msgid "Aoyagi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||358||||1"
+msgid "Komori"
+msgstr ""
+
+msgctxt "1||encount_zako||table||359||||1"
+msgid "Tahara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||360||||1"
+msgid "Ota"
+msgstr ""
+
+msgctxt "1||encount_zako||table||361||||1"
+msgid "Yoshizawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||362||||1"
+msgid "Inada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||363||||1"
+msgid "Takase"
+msgstr ""
+
+msgctxt "1||encount_zako||table||364||||1"
+msgid "Tsutsui"
+msgstr ""
+
+msgctxt "1||encount_zako||table||365||||1"
+msgid "Fukuoka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||366||||1"
+msgid "Mizoguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||367||||1"
+msgid "Yokoi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||368||||1"
+msgid "Hayashida"
+msgstr ""
+
+msgctxt "1||encount_zako||table||369||||1"
+msgid "Ohira"
+msgstr ""
+
+msgctxt "1||encount_zako||table||370||||1"
+msgid "Oshiro"
+msgstr ""
+
+msgctxt "1||encount_zako||table||371||||1"
+msgid "Fukunaga"
+msgstr ""
+
+msgctxt "1||encount_zako||table||372||||1"
+msgid "Okuno"
+msgstr ""
+
+msgctxt "1||encount_zako||table||373||||1"
+msgid "Hiramatsu"
+msgstr ""
+
+msgctxt "1||encount_zako||table||374||||1"
+msgid "Ohara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||375||||1"
+msgid "Kurozawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||376||||1"
+msgid "Tominaga"
+msgstr ""
+
+msgctxt "1||encount_zako||table||377||||1"
+msgid "Nagaoka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||378||||1"
+msgid "Miyagi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||379||||1"
+msgid "Shinozaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||380||||1"
+msgid "Kitahara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||381||||1"
+msgid "Nagano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||382||||1"
+msgid "Ochi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||383||||1"
+msgid "Kaneshiro"
+msgstr ""
+
+msgctxt "1||encount_zako||table||384||||1"
+msgid "Tsuruta"
+msgstr ""
+
+msgctxt "1||encount_zako||table||385||||1"
+msgid "Asada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||386||||1"
+msgid "Irie"
+msgstr ""
+
+msgctxt "1||encount_zako||table||387||||1"
+msgid "Yanagida"
+msgstr ""
+
+msgctxt "1||encount_zako||table||388||||1"
+msgid "Takei"
+msgstr ""
+
+msgctxt "1||encount_zako||table||389||||1"
+msgid "Haraguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||390||||1"
+msgid "Sonoda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||391||||1"
+msgid "Yuasa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||392||||1"
+msgid "Horikawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||393||||1"
+msgid "Ishiyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||394||||1"
+msgid "Soma"
+msgstr ""
+
+msgctxt "1||encount_zako||table||395||||1"
+msgid "Ninomiya"
+msgstr ""
+
+msgctxt "1||encount_zako||table||396||||1"
+msgid "Takamatsu"
+msgstr ""
+
+msgctxt "1||encount_zako||table||397||||1"
+msgid "Seto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||398||||1"
+msgid "Tezuka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||399||||1"
+msgid "Usui"
+msgstr ""
+
+msgctxt "1||encount_zako||table||400||||1"
+msgid "Kawano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||401||||1"
+msgid "Hamaguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||402||||1"
+msgid "Koide"
+msgstr ""
+
+msgctxt "1||encount_zako||table||403||||1"
+msgid "Hiraoka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||404||||1"
+msgid "Tanimoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||405||||1"
+msgid "Ikegami"
+msgstr ""
+
+msgctxt "1||encount_zako||table||406||||1"
+msgid "Nishizawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||407||||1"
+msgid "Numata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||408||||1"
+msgid "Shinoda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||409||||1"
+msgid "Hanada"
+msgstr ""
+
+msgctxt "1||encount_zako||table||410||||1"
+msgid "Ishizaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||411||||1"
+msgid "Higa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||412||||1"
+msgid "Tomita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||413||||1"
+msgid "Sugihara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||414||||1"
+msgid "Hino"
+msgstr ""
+
+msgctxt "1||encount_zako||table||415||||1"
+msgid "Tabata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||416||||1"
+msgid "Kasai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||417||||1"
+msgid "Nishihara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||418||||1"
+msgid "Negishi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||419||||1"
+msgid "Katakiri"
+msgstr ""
+
+msgctxt "1||encount_zako||table||420||||1"
+msgid "Horiguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||421||||1"
+msgid "Shimura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||422||||1"
+msgid "Kano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||423||||1"
+msgid "Kosaka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||424||||1"
+msgid "Fukazawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||425||||1"
+msgid "Kurata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||426||||1"
+msgid "Senda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||427||||1"
+msgid "Otsuki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||428||||1"
+msgid "Fukuhara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||429||||1"
+msgid "Matsuno"
+msgstr ""
+
+msgctxt "1||encount_zako||table||430||||1"
+msgid "Nozawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||431||||1"
+msgid "Aratani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||432||||1"
+msgid "Kawahara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||433||||1"
+msgid "Murase"
+msgstr ""
+
+msgctxt "1||encount_zako||table||434||||1"
+msgid "Tagami"
+msgstr ""
+
+msgctxt "1||encount_zako||table||435||||1"
+msgid "Suga"
+msgstr ""
+
+msgctxt "1||encount_zako||table||436||||1"
+msgid "Tokuda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||437||||1"
+msgid "Morioka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||438||||1"
+msgid "Yajima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||439||||1"
+msgid "Yoshi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||440||||1"
+msgid "Shimazaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||441||||1"
+msgid "Hatanaka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||442||||1"
+msgid "Nakamoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||443||||1"
+msgid "Mitani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||444||||1"
+msgid "Kitajima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||445||||1"
+msgid "Utsumi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||446||||1"
+msgid "Iwase"
+msgstr ""
+
+msgctxt "1||encount_zako||table||447||||1"
+msgid "Koyanagi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||448||||1"
+msgid "Oozaki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||449||||1"
+msgid "Akita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||450||||1"
+msgid "Hamano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||451||||1"
+msgid "Kihara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||452||||1"
+msgid "Oi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||453||||1"
+msgid "Yoneyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||454||||1"
+msgid "Kawabata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||455||||1"
+msgid "Ide"
+msgstr ""
+
+msgctxt "1||encount_zako||table||456||||1"
+msgid "Tsujimoto"
+msgstr ""
+
+msgctxt "1||encount_zako||table||457||||1"
+msgid "Nanba"
+msgstr ""
+
+msgctxt "1||encount_zako||table||458||||1"
+msgid "Kozawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||459||||1"
+msgid "Iwashita"
+msgstr ""
+
+msgctxt "1||encount_zako||table||460||||1"
+msgid "Tsuboi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||461||||1"
+msgid "Yoshinaga"
+msgstr ""
+
+msgctxt "1||encount_zako||table||462||||1"
+msgid "Ueki"
+msgstr ""
+
+msgctxt "1||encount_zako||table||463||||1"
+msgid "Kawauchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||464||||1"
+msgid "Mitsui"
+msgstr ""
+
+msgctxt "1||encount_zako||table||465||||1"
+msgid "Nagai"
+msgstr ""
+
+msgctxt "1||encount_zako||table||466||||1"
+msgid "Imaizumi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||467||||1"
+msgid "Kishida"
+msgstr ""
+
+msgctxt "1||encount_zako||table||468||||1"
+msgid "Isobe"
+msgstr ""
+
+msgctxt "1||encount_zako||table||469||||1"
+msgid "Shioda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||470||||1"
+msgid "Minagawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||471||||1"
+msgid "Otsubo"
+msgstr ""
+
+msgctxt "1||encount_zako||table||472||||1"
+msgid "Hatake"
+msgstr ""
+
+msgctxt "1||encount_zako||table||473||||1"
+msgid "Kawase"
+msgstr ""
+
+msgctxt "1||encount_zako||table||474||||1"
+msgid "Ogihara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||475||||1"
+msgid "Uemura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||476||||1"
+msgid "Hosotani"
+msgstr ""
+
+msgctxt "1||encount_zako||table||477||||1"
+msgid "Hosoda"
+msgstr ""
+
+msgctxt "1||encount_zako||table||478||||1"
+msgid "Satake"
+msgstr ""
+
+msgctxt "1||encount_zako||table||479||||1"
+msgid "Hashiguchi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||480||||1"
+msgid "Wakamatsu"
+msgstr ""
+
+msgctxt "1||encount_zako||table||481||||1"
+msgid "Otomo"
+msgstr ""
+
+msgctxt "1||encount_zako||table||482||||1"
+msgid "Furuya"
+msgstr ""
+
+msgctxt "1||encount_zako||table||483||||1"
+msgid "Mimura"
+msgstr ""
+
+msgctxt "1||encount_zako||table||484||||1"
+msgid "Toyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||485||||1"
+msgid "Muraoka"
+msgstr ""
+
+msgctxt "1||encount_zako||table||486||||1"
+msgid "Matsukawa"
+msgstr ""
+
+msgctxt "1||encount_zako||table||487||||1"
+msgid "Mishima"
+msgstr ""
+
+msgctxt "1||encount_zako||table||488||||1"
+msgid "Hirabayashi"
+msgstr ""
+
+msgctxt "1||encount_zako||table||489||||1"
+msgid "Kawata"
+msgstr ""
+
+msgctxt "1||encount_zako||table||490||||1"
+msgid "Kuriyama"
+msgstr ""
+
+msgctxt "1||encount_zako||table||491||||1"
+msgid "Kusano"
+msgstr ""
+
+msgctxt "1||encount_zako||table||492||||1"
+msgid "Aihara"
+msgstr ""
+
+msgctxt "1||encount_zako||table||494||||1"
+msgid "Tachibana"
+msgstr ""
+
+msgctxt "1||encount_zako||table||495||||1"
+msgid "Sega"
+msgstr ""
+
+msgctxt "1||encount_zako||table||496||||1"
+msgid "Sega"
+msgstr ""
+
+msgctxt "1||encount_zako||table||497||||1"
+msgid "Sega"
+msgstr ""
+
+msgctxt "1||encount_zako||table||498||||1"
+msgid "Sega"
+msgstr ""
+
+msgctxt "1||encount_zako||table||499||||1"
+msgid "Sega"
+msgstr ""
+
+msgctxt "2||china||table||1||||1"
+msgid "Wang"
+msgstr ""
+
+msgctxt "2||china||table||2||||1"
+msgid "Zhang"
+msgstr ""
+
+msgctxt "2||china||table||3||||1"
+msgid "Chen"
+msgstr ""
+
+msgctxt "2||china||table||4||||1"
+msgid "Yang"
+msgstr ""
+
+msgctxt "2||china||table||5||||1"
+msgid "Huang"
+msgstr ""
+
+msgctxt "2||china||table||6||||1"
+msgid "Zhao"
+msgstr ""
+
+msgctxt "2||china||table||7||||1"
+msgid "Wu"
+msgstr ""
+
+msgctxt "2||china||table||8||||1"
+msgid "Zhou"
+msgstr ""
+
+msgctxt "2||china||table||9||||1"
+msgid "Sun"
+msgstr ""
+
+msgctxt "2||china||table||10||||1"
+msgid "Xu"
+msgstr ""
+
+msgctxt "2||china||table||11||||1"
+msgid "Ma"
+msgstr ""
+
+msgctxt "2||china||table||12||||1"
+msgid "Zhu"
+msgstr ""
+
+msgctxt "2||china||table||13||||1"
+msgid "Hu"
+msgstr ""
+
+msgctxt "2||china||table||14||||1"
+msgid "Guo"
+msgstr ""
+
+msgctxt "2||china||table||15||||1"
+msgid "Luo"
+msgstr ""
+
+msgctxt "2||china||table||16||||1"
+msgid "Liu"
+msgstr ""
+
+msgctxt "2||china||table||17||||1"
+msgid "He"
+msgstr ""
+
+msgctxt "2||china||table||18||||1"
+msgid "Gao"
+msgstr ""
+
+msgctxt "2||china||table||19||||1"
+msgid "Lin"
+msgstr ""
+
+msgctxt "2||china||table||20||||1"
+msgid "Zheng"
+msgstr ""
+
+msgctxt "2||china||table||21||||1"
+msgid "Liang"
+msgstr ""
+
+msgctxt "2||china||table||22||||1"
+msgid "Xie"
+msgstr ""
+
+msgctxt "2||china||table||23||||1"
+msgid "Song"
+msgstr ""
+
+msgctxt "2||china||table||24||||1"
+msgid "Tang"
+msgstr ""
+
+msgctxt "2||china||table||25||||1"
+msgid "Xu"
+msgstr ""
+
+msgctxt "2||china||table||26||||1"
+msgid "Han"
+msgstr ""
+
+msgctxt "2||china||table||27||||1"
+msgid "Feng"
+msgstr ""
+
+msgctxt "2||china||table||28||||1"
+msgid "Cao"
+msgstr ""
+
+msgctxt "2||china||table||29||||1"
+msgid "Peng"
+msgstr ""
+
+msgctxt "2||china||table||30||||1"
+msgid "Zeng"
+msgstr ""
+
+msgctxt "2||china||table||31||||1"
+msgid "Xiao"
+msgstr ""
+
+msgctxt "2||china||table||32||||1"
+msgid "Tian"
+msgstr ""
+
+msgctxt "2||china||table||33||||1"
+msgid "Dong"
+msgstr ""
+
+msgctxt "2||china||table||34||||1"
+msgid "Yuan"
+msgstr ""
+
+msgctxt "2||china||table||35||||1"
+msgid "Pan"
+msgstr ""
+
+msgctxt "2||china||table||36||||1"
+msgid "Yu"
+msgstr ""
+
+msgctxt "2||china||table||37||||1"
+msgid "Jiang"
+msgstr ""
+
+msgctxt "2||china||table||38||||1"
+msgid "Cai"
+msgstr ""
+
+msgctxt "2||china||table||39||||1"
+msgid "Yu"
+msgstr ""
+
+msgctxt "2||china||table||40||||1"
+msgid "Du"
+msgstr ""
+
+msgctxt "2||china||table||41||||1"
+msgid "Ye"
+msgstr ""
+
+msgctxt "2||china||table||42||||1"
+msgid "Cheng"
+msgstr ""
+
+msgctxt "2||china||table||43||||1"
+msgid "Su"
+msgstr ""
+
+msgctxt "2||china||table||44||||1"
+msgid "Wei"
+msgstr ""
+
+msgctxt "2||china||table||45||||1"
+msgid "Lu"
+msgstr ""
+
+msgctxt "2||china||table||46||||1"
+msgid "Ren"
+msgstr ""
+
+msgctxt "2||china||table||47||||1"
+msgid "Shen"
+msgstr ""
+
+msgctxt "2||china||table||48||||1"
+msgid "Yao"
+msgstr ""
+
+msgctxt "2||china||table||49||||1"
+msgid "Lu"
+msgstr ""
+
+msgctxt "2||china||table||50||||1"
+msgid "Jiang"
+msgstr ""
+
+msgctxt "2||china||table||51||||1"
+msgid "Cui"
+msgstr ""
+
+msgctxt "2||china||table||52||||1"
+msgid "Zhong"
+msgstr ""
+
+msgctxt "2||china||table||53||||1"
+msgid "Tan"
+msgstr ""
+
+msgctxt "2||china||table||54||||1"
+msgid "Lu"
+msgstr ""
+
+msgctxt "2||china||table||55||||1"
+msgid "Wang"
+msgstr ""
+
+msgctxt "2||china||table||56||||1"
+msgid "Fan"
+msgstr ""
+
+msgctxt "2||china||table||57||||1"
+msgid "Jin"
+msgstr ""
+
+msgctxt "2||china||table||58||||1"
+msgid "Shi"
+msgstr ""
+
+msgctxt "2||china||table||59||||1"
+msgid "Liao"
+msgstr ""
+
+msgctxt "2||china||table||60||||1"
+msgid "Jia"
+msgstr ""
+
+msgctxt "2||china||table||61||||1"
+msgid "Xia"
+msgstr ""
+
+msgctxt "2||china||table||62||||1"
+msgid "Wei"
+msgstr ""
+
+msgctxt "2||china||table||63||||1"
+msgid "Fu"
+msgstr ""
+
+msgctxt "2||china||table||64||||1"
+msgid "Fang"
+msgstr ""
+
+msgctxt "2||china||table||65||||1"
+msgid "Bai"
+msgstr ""
+
+msgctxt "2||china||table||66||||1"
+msgid "Zou"
+msgstr ""
+
+msgctxt "2||china||table||67||||1"
+msgid "Meng"
+msgstr ""
+
+msgctxt "2||china||table||68||||1"
+msgid "Xiong"
+msgstr ""
+
+msgctxt "2||china||table||69||||1"
+msgid "Qin"
+msgstr ""
+
+msgctxt "2||china||table||70||||1"
+msgid "Qiu"
+msgstr ""
+
+msgctxt "2||china||table||71||||1"
+msgid "Jiang"
+msgstr ""
+
+msgctxt "2||china||table||72||||1"
+msgid "Yin"
+msgstr ""
+
+msgctxt "2||china||table||73||||1"
+msgid "Xue"
+msgstr ""
+
+msgctxt "2||china||table||74||||1"
+msgid "Yan"
+msgstr ""
+
+msgctxt "2||china||table||75||||1"
+msgid "Duan"
+msgstr ""
+
+msgctxt "2||china||table||76||||1"
+msgid "Lei"
+msgstr ""
+
+msgctxt "2||china||table||77||||1"
+msgid "Hou"
+msgstr ""
+
+msgctxt "2||china||table||78||||1"
+msgid "Long"
+msgstr ""
+
+msgctxt "2||china||table||79||||1"
+msgid "Shi"
+msgstr ""
+
+msgctxt "2||china||table||80||||1"
+msgid "Tao"
+msgstr ""
+
+msgctxt "2||china||table||81||||1"
+msgid "Li"
+msgstr ""
+
+msgctxt "2||china||table||82||||1"
+msgid "He"
+msgstr ""
+
+msgctxt "2||china||table||83||||1"
+msgid "Gu"
+msgstr ""
+
+msgctxt "2||china||table||84||||1"
+msgid "Mao"
+msgstr ""
+
+msgctxt "2||china||table||85||||1"
+msgid "Shao"
+msgstr ""
+
+msgctxt "2||china||table||86||||1"
+msgid "Wan"
+msgstr ""
+
+msgctxt "2||china||table||87||||1"
+msgid "Jian"
+msgstr ""
+
+msgctxt "2||china||table||88||||1"
+msgid "Yan"
+msgstr ""
+
+msgctxt "2||china||table||89||||1"
+msgid "Tan"
+msgstr ""
+
+msgctxt "2||china||table||90||||1"
+msgid "Wu"
+msgstr ""
+
+msgctxt "2||china||table||91||||1"
+msgid "Dai"
+msgstr ""
+
+msgctxt "2||china||table||92||||1"
+msgid "Mo"
+msgstr ""
+
+msgctxt "2||china||table||93||||1"
+msgid "Kong"
+msgstr ""
+
+msgctxt "2||china||table||94||||1"
+msgid "Xiang"
+msgstr ""
+
+msgctxt "2||china||table||95||||1"
+msgid "Tang"
+msgstr ""
+
+msgctxt "4||main||table||1||||1"
+msgid "Shun Akiyama"
+msgstr ""
+
+msgctxt "4||main||table||2||||1"
+msgid "Makoto Date"
+msgstr ""
+
+msgctxt "4||main||table||3||||1"
+msgid "Goro Majima"
+msgstr ""
+
+msgctxt "4||main||table||4||||1"
+msgid "Taiga Saejima"
+msgstr ""
+
+msgctxt "4||main||table||5||||1"
+msgid "Daigo Dojima"
+msgstr ""
+
+msgctxt "4||main||table||6||||1"
+msgid "Takumi Someya"
+msgstr ""
+
+msgctxt "4||main||table||7||||1"
+msgid "Katsumi Sugai"
+msgstr ""
+
+msgctxt "4||main||table||8||||1"
+msgid "Takeru Kurusu"
+msgstr ""
+
+msgctxt "4||main||table||9||||1"
+msgid "Tsuneo Iwami"
+msgstr ""
+
+msgctxt "4||main||table||10||||1"
+msgid "Kanji Koshimizu"
+msgstr ""
+
+msgctxt "4||main||table||11||||1"
+msgid "Koji Masuzoe"
+msgstr ""
+
+msgctxt "4||main||table||12||||1"
+msgid "Tsuyoshi Nagumo"
+msgstr ""
+
+msgctxt "4||main||table||13||||1"
+msgid "Toru Hirose"
+msgstr ""
+
+msgctxt "4||main||table||14||||1"
+msgid "Yuta Usami"
+msgstr ""
+
+msgctxt "4||main||table||15||||1"
+msgid "Takaaki Matsunaga"
+msgstr ""
+
+msgctxt "4||main||table||16||||1"
+msgid "Naoto Tagashira"
+msgstr ""
+
+msgctxt "4||main||table||17||||1"
+msgid "Ino"
+msgstr ""
+
+msgctxt "4||main||table||18||||1"
+msgid "Joon-gi Han"
+msgstr ""
+
+msgctxt "4||main||table||19||||1"
+msgid "Lo"
+msgstr ""
+
+msgctxt "4||main||table||20||||1"
+msgid "Honjo"
+msgstr ""
+
+msgctxt "4||main||table||21||||1"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "4||main||table||22||||1"
+msgid "Ed"
+msgstr ""
+
+msgctxt "4||main||table||23||||1"
+msgid "C Hakoyama"
+msgstr ""
+
+msgctxt "4||main||table||24||||1"
+msgid "SS Maimoto"
+msgstr ""
+
+msgctxt "4||main||table||25||||1"
+msgid "3B Tokoro"
+msgstr ""
+
+msgctxt "4||main||table||26||||1"
+msgid "RF Miyata"
+msgstr ""
+
+msgctxt "4||main||table||27||||1"
+msgid "CF Tomosaki"
+msgstr ""
+
+msgctxt "4||main||table||28||||1"
+msgid "LF Nakagami"
+msgstr ""
+
+msgctxt "4||main||table||29||||1"
+msgid "Hangman"
+msgstr ""
+
+msgctxt "4||main||table||30||||1"
+msgid "Yasuo Sodachi"
+msgstr ""
+
+msgctxt "4||main||table||31||||1"
+msgid "Toru Yano"
+msgstr ""
+
+msgctxt "4||main||table||32||||1"
+msgid "Tetsuya Naito"
+msgstr ""
+
+msgctxt "4||main||table||33||||1"
+msgid "Satoshi Kojima"
+msgstr ""
+
+msgctxt "4||main||table||34||||1"
+msgid "Hiroyoshi Tenzan"
+msgstr ""
+
+msgctxt "4||main||table||35||||1"
+msgid "Hiroshi Tanahashi"
+msgstr ""
+
+msgctxt "4||main||table||36||||1"
+msgid "Kazuchika Okada"
+msgstr ""
+
+msgctxt "4||main||table||37||||1"
+msgid "Satsuki"
+msgstr ""
+
+msgctxt "4||main||table||38||||1"
+msgid "Komei"
+msgstr ""
+
+msgctxt "4||main||table||39||||1"
+msgid "Tamotsu"
+msgstr ""
+
+msgctxt "4||main||table||40||||1"
+msgid "Yasu"
+msgstr ""
+
+msgctxt "4||main||table||41||||1"
+msgid "Dobashi"
+msgstr ""
+
+msgctxt "4||main||table||42||||1"
+msgid "Tanogami"
+msgstr ""
+
+msgctxt "4||main||table||43||||1"
+msgid "Nogami"
+msgstr ""
+
+msgctxt "4||main||table||44||||1"
+msgid "Samurai"
+msgstr ""
+
+msgctxt "4||main||table||45||||1"
+msgid "Obara"
+msgstr ""
+
+msgctxt "4||main||table||46||||1"
+msgid "Jono"
+msgstr ""
+
+msgctxt "4||main||table||47||||1"
+msgid "Fujitake"
+msgstr ""
+
+msgctxt "4||main||table||48||||1"
+msgid "Hashimoto"
+msgstr ""
+
+msgctxt "4||main||table||49||||1"
+msgid "Joe"
+msgstr ""
+
+msgctxt "4||main||table||50||||1"
+msgid "Masao"
+msgstr ""
+
+msgctxt "6||instant||table||1||||1"
+msgid "Yasuo Sodachi"
+msgstr ""
+
+msgctxt "6||instant||table||2||||1"
+msgid "Daijiro Saigo"
+msgstr ""
+
+msgctxt "6||instant||table||3||||1"
+msgid "Wakita"
+msgstr ""
+
+msgctxt "6||instant||table||4||||1"
+msgid "Usui"
+msgstr ""
+
+msgctxt "6||instant||table||5||||1"
+msgid "Hiruta"
+msgstr ""
+
+msgctxt "6||instant||table||6||||1"
+msgid "Igarashi"
+msgstr ""
+
+msgctxt "6||instant||table||7||||1"
+msgid "Kato"
+msgstr ""
+
+msgctxt "6||instant||table||8||||1"
+msgid "Takahashi"
+msgstr ""
+
+msgctxt "6||instant||table||9||||1"
+msgid "Torite"
+msgstr ""
+
+msgctxt "6||instant||table||10||||1"
+msgid "Tada"
+msgstr ""
+
+msgctxt "7||sub||table||1||||1"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "7||sub||table||2||||1"
+msgid "Ishigaki"
+msgstr ""
+
+msgctxt "7||sub||table||3||||1"
+msgid "Munan Akamatsu"
+msgstr ""
+
+msgctxt "7||sub||table||4||||1"
+msgid "Pocket Circuit Fighter"
+msgstr ""
+
+msgctxt "7||sub||table||5||||1"
+msgid "\"Taichi\""
+msgstr ""
+
+msgctxt "7||sub||table||6||||1"
+msgid "Moritsuka"
+msgstr ""
+
+msgctxt "7||sub||table||7||||1"
+msgid "Muranaka"
+msgstr ""
+
+msgctxt "7||sub||table||8||||1"
+msgid "Ghost?"
+msgstr ""
+
+msgctxt "8||korea||table||1||||1"
+msgid "Kim"
+msgstr ""
+
+msgctxt "8||korea||table||2||||1"
+msgid "Lee"
+msgstr ""
+
+msgctxt "8||korea||table||3||||1"
+msgid "Park"
+msgstr ""
+
+msgctxt "8||korea||table||4||||1"
+msgid "Choi"
+msgstr ""
+
+msgctxt "8||korea||table||5||||1"
+msgid "Jeong"
+msgstr ""
+
+msgctxt "8||korea||table||6||||1"
+msgid "Kang"
+msgstr ""
+
+msgctxt "8||korea||table||7||||1"
+msgid "Cho"
+msgstr ""
+
+msgctxt "8||korea||table||8||||1"
+msgid "Yun"
+msgstr ""
+
+msgctxt "8||korea||table||9||||1"
+msgid "Jang"
+msgstr ""
+
+msgctxt "8||korea||table||10||||1"
+msgid "Im"
+msgstr ""
+
+msgctxt "8||korea||table||11||||1"
+msgid "Han"
+msgstr ""
+
+msgctxt "8||korea||table||12||||1"
+msgid "Shin"
+msgstr ""
+
+msgctxt "8||korea||table||13||||1"
+msgid "Seo"
+msgstr ""
+
+msgctxt "8||korea||table||14||||1"
+msgid "Kwon"
+msgstr ""
+
+msgctxt "8||korea||table||15||||1"
+msgid "Ahn"
+msgstr ""
+
+msgctxt "8||korea||table||16||||1"
+msgid "Song"
+msgstr ""
+
+msgctxt "8||korea||table||17||||1"
+msgid "Yu"
+msgstr ""
+
+msgctxt "8||korea||table||18||||1"
+msgid "Hong"
+msgstr ""
+
+msgctxt "8||korea||table||19||||1"
+msgid "Jeon"
+msgstr ""
+
+msgctxt "8||korea||table||20||||1"
+msgid "Ko"
+msgstr ""
+
+msgctxt "8||korea||table||21||||1"
+msgid "Moon"
+msgstr ""
+
+msgctxt "8||korea||table||22||||1"
+msgid "Son"
+msgstr ""
+
+msgctxt "8||korea||table||23||||1"
+msgid "Yang"
+msgstr ""
+
+msgctxt "8||korea||table||24||||1"
+msgid "Paek"
+msgstr ""
+
+msgctxt "8||korea||table||25||||1"
+msgid "Heo"
+msgstr ""
+
+msgctxt "8||korea||table||26||||1"
+msgid "Nam"
+msgstr ""
+
+msgctxt "8||korea||table||27||||1"
+msgid "Sim"
+msgstr ""
+
+msgctxt "8||korea||table||28||||1"
+msgid "Jung"
+msgstr ""
+
+msgctxt "8||korea||table||29||||1"
+msgid "No"
+msgstr ""
+
+msgctxt "8||korea||table||30||||1"
+msgid "Ha"
+msgstr ""
+
+msgctxt "9||clan||table||1||||1"
+msgid "Brawler"
+msgstr ""
+
+msgctxt "9||clan||table||2||||1"
+msgid "Gunner"
+msgstr ""
+
+msgctxt "9||clan||table||3||||1"
+msgid "Heavy"
+msgstr ""
+
+msgctxt "9||clan||table||4||||1"
+msgid "Rusher"
+msgstr ""
+
+msgctxt "9||clan||table||5||||1"
+msgid "Grenadier"
+msgstr ""
+
+msgctxt "9||clan||table||6||||1"
+msgid "Ally Leader"
+msgstr ""
+
+msgctxt "9||clan||table||7||||1"
+msgid "Enemy Leader"
+msgstr ""
+

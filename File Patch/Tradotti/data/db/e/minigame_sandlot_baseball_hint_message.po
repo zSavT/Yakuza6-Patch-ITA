@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||fishing||text"
+msgid "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\r\n\r\nHow about <color=batting_pitch_yellow>scouting</color> to power up the team?\r\nCome to think of it, I think I saw a baseball player arguing\r\nwith a <color=batting_pitch_yellow>fisherman</color> down by the beach the other day!"
+msgstr ""
+
+msgctxt "2||snack||text"
+msgid "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\r\n\r\nPerhaps you need some <color=batting_pitch_yellow>new members</color>?\r\nI overheard some conversation about baseball at <color=batting_pitch_yellow>New Gaudi</color>, you know!"
+msgstr ""
+
+msgctxt "3||ticket||text"
+msgid "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\r\n\r\nYour team is kinda hurting out there...\r\nWhy don't you use a <color=batting_pitch_yellow>Training Ticket</color> to whip those guys into shape?"
+msgstr ""
+
+msgctxt "4||earned_runs||text"
+msgid "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\r\n\r\nYou're really giving up runs out there!\r\nYou've gotta <color=batting_pitch_yellow>switch out pitchers when their stamina runs out</color>."
+msgstr ""
+
+msgctxt "5||batting||text"
+msgid "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\r\n\r\nSeems like you're still kind of feeling your team out. Are you\r\nhaving trouble getting <color=batting_pitch_yellow>on base</color>? Your <color=batting_pitch_yellow>team's strength</color>\r\nwill go up if you get a hit during critical moments in the game."
+msgstr ""
+
+msgctxt "6||condition||text"
+msgid "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\r\n\r\nYour batters are going downhill here. Have you tried changing the lineup?\r\n Switching the lineup based on the player's <color=batting_pitch_yellow>condition</color> is one way to do it."
+msgstr ""
+

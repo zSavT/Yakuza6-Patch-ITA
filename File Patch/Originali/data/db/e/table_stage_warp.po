@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "6||o_taxi_sandlot||name"
+msgid "Baseball Field"
+msgstr ""
+
+msgctxt "7||k_taxi_kamuro_01_001||name"
+msgid "West Shichifuku Street"
+msgstr ""
+
+msgctxt "8||k_taxi_kamuro_01_002||name"
+msgid "East Taihei Boulevard"
+msgstr ""
+
+msgctxt "9||k_taxi_kamuro_01_003||name"
+msgid "Tenkaichi Street Entrance"
+msgstr ""
+
+msgctxt "10||k_taxi_kamuro_01_004||name"
+msgid "Pink Street Entrance"
+msgstr ""
+
+msgctxt "11||k_taxi_kamuro_02_001||name"
+msgid "East Shichifuku Street"
+msgstr ""
+
+msgctxt "12||k_taxi_kamuro_02_002||name"
+msgid "Theater Avenue"
+msgstr ""
+
+msgctxt "13||k_taxi_kamuro_02_003||name"
+msgid "Theater Alley"
+msgstr ""
+
+msgctxt "14||k_taxi_kamuro_02_004||name"
+msgid "Millennium Tower"
+msgstr ""
+
+msgctxt "15||k_taxi_kamuro_02_005||name"
+msgid "Tenkaichi Street"
+msgstr ""
+
+msgctxt "16||k_taxi_kamuro_02_006||name"
+msgid "Pink Street"
+msgstr ""
+
+msgctxt "17||o_taxi_onomichi_01_001||name"
+msgid "East Shishido Street"
+msgstr ""
+
+msgctxt "18||o_taxi_onomichi_01_002||name"
+msgid "West National Route 2"
+msgstr ""
+
+msgctxt "19||o_taxi_onomichi_01_003||name"
+msgid "Ropeway Station"
+msgstr ""
+
+msgctxt "20||o_taxi_onomichi_02_001||name"
+msgid "West Shishido Street"
+msgstr ""
+
+msgctxt "21||o_taxi_onomichi_02_002||name"
+msgid "Jingai Main Street"
+msgstr ""
+
+msgctxt "22||o_taxi_onomichi_02_003||name"
+msgid "Hana-no-kubo"
+msgstr ""
+
+msgctxt "23||o_taxi_onomichi_02_004||name"
+msgid "First Hill"
+msgstr ""
+
+msgctxt "24||o_taxi_onomichi_02_005||name"
+msgid "Cemetery Lane"
+msgstr ""
+
+msgctxt "25||a_taxi_amonstage||name"
+msgid "Amon's Island"
+msgstr ""
+
+msgctxt "28||o_taxi_senkouji||name"
+msgid "Senkoji"
+msgstr ""
+
+msgctxt "29||k_taxi_touto||name"
+msgid "Touto Hospital"
+msgstr ""
+
+msgctxt "30||k_taxi_tojo||name"
+msgid "Tojo Clan Headquarters"
+msgstr ""
+
+msgctxt "51||o_taxi_onomichi_st||name"
+msgid "Taxi to Onomichi"
+msgstr ""
+
+msgctxt "52||k_taxi_kamuro_st||name"
+msgid "Taxi to Kamurocho"
+msgstr ""
+
+msgctxt "53||k_taxi_hospital||name"
+msgid "Police Hospital"
+msgstr ""
+

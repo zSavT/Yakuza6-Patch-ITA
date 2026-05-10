@@ -1,0 +1,1185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||shop||table||1||||1"
+msgid "You don't have enough money."
+msgstr ""
+
+msgctxt "1||shop||table||2||||1"
+msgid "RESULT"
+msgstr ""
+
+msgctxt "1||shop||table||3||||1"
+msgid "Confirm your order?"
+msgstr ""
+
+msgctxt "1||shop||table||4||||1"
+msgid "Cancel your order?"
+msgstr ""
+
+msgctxt "1||shop||table||6||||1"
+msgid "Purchase"
+msgstr ""
+
+msgctxt "1||shop||table||7||||1"
+msgid "Order"
+msgstr ""
+
+msgctxt "1||shop||table||8||||1"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "1||shop||table||12||||1"
+msgid "You cannot choose any more."
+msgstr ""
+
+msgctxt "1||shop||table||13||||1"
+msgid "Kiryu will be full if he eats any more. Eating while\r\nfull will replenish health, but will not grant\r\nextra effects like EXP or bonuses from menu\r\ncombinations."
+msgstr ""
+
+msgctxt "1||shop||table||14||||1"
+msgid "Please select a product."
+msgstr ""
+
+msgctxt "1||shop||table||15||||1"
+msgid "You don't have enough money."
+msgstr ""
+
+msgctxt "1||shop||table||17||||1"
+msgid "Purchase the ${item_name}?"
+msgstr ""
+
+msgctxt "1||shop||table||18||||1"
+msgid "Sell"
+msgstr ""
+
+msgctxt "1||shop||table||19||||1"
+msgid "Proceed with purchase?"
+msgstr ""
+
+msgctxt "1||shop||table||20||||1"
+msgid "Proceed with sale?"
+msgstr ""
+
+msgctxt "1||shop||table||21||||1"
+msgid "You cannot buy items with a full inventory."
+msgstr ""
+
+msgctxt "1||shop||table||22||||1"
+msgid "Cancel your purchase?"
+msgstr ""
+
+msgctxt "1||shop||table||23||||1"
+msgid "Cancel your sale?"
+msgstr ""
+
+msgctxt "1||shop||table||24||||1"
+msgid "You have no more to sell."
+msgstr ""
+
+msgctxt "1||shop||table||25||||1"
+msgid "(I can't drink another drop...)"
+msgstr ""
+
+msgctxt "1||shop||table||26||||1"
+msgid "(I can't drink another drop...)"
+msgstr ""
+
+msgctxt "2||continue||table||12||||1"
+msgid "Do you want to continue?"
+msgstr ""
+
+msgctxt "2||continue||table||13||||1"
+msgid "Yes"
+msgstr ""
+
+msgctxt "2||continue||table||14||||1"
+msgid "Return to Title"
+msgstr ""
+
+msgctxt "2||continue||table||15||||1"
+msgid "Load Save Data"
+msgstr ""
+
+msgctxt "2||continue||table||16||||1"
+msgid "Exit Game"
+msgstr ""
+
+msgctxt "2||continue||table||17||||1"
+msgid "Continue on Easy difficulty?"
+msgstr ""
+
+msgctxt "2||continue||table||18||||1"
+msgid "Defeat the enemy with <symbol=button_r2,Combat> Extreme Heat Mode!"
+msgstr ""
+
+msgctxt "2||continue||table||19||||1"
+msgid "Quit the game?"
+msgstr ""
+
+msgctxt "3||common||table||1||||1"
+msgid "Yes"
+msgstr ""
+
+msgctxt "3||common||table||2||||1"
+msgid "No"
+msgstr ""
+
+msgctxt "3||common||table||3||||1"
+msgid "OK"
+msgstr ""
+
+msgctxt "3||common||table||4||||1"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "3||common||table||5||||1"
+msgid "OK"
+msgstr ""
+
+msgctxt "3||common||table||6||||1"
+msgid "Back"
+msgstr ""
+
+msgctxt "3||common||table||7||||1"
+msgid "Forward"
+msgstr ""
+
+msgctxt "3||common||table||8||||1"
+msgid "Previous"
+msgstr ""
+
+msgctxt "3||common||table||9||||1"
+msgid "Close"
+msgstr ""
+
+msgctxt "3||common||table||10||||1"
+msgid "Exit"
+msgstr ""
+
+msgctxt "3||common||table||11||||1"
+msgid "Next"
+msgstr ""
+
+msgctxt "4||money||table||1||||1"
+msgid "\\"
+msgstr ""
+
+msgctxt "4||money||table||2||||1"
+msgid "0"
+msgstr ""
+
+msgctxt "4||money||table||3||||1"
+msgid "0"
+msgstr ""
+
+msgctxt "4||money||table||4||||1"
+msgid "0"
+msgstr ""
+
+msgctxt "5||option||table||2||||1"
+msgid "Reset to default game settings? (Excludes Difficulty)"
+msgstr ""
+
+msgctxt "5||option||table||3||||1"
+msgid "Reset to default audio settings?"
+msgstr ""
+
+msgctxt "5||option||table||4||||1"
+msgid "Reset to default game settings?"
+msgstr ""
+
+msgctxt "5||option||table||5||||1"
+msgid "Reset to default graphics settings?"
+msgstr ""
+
+msgctxt "5||option||table||6||||1"
+msgid "Save current graphics settings?"
+msgstr ""
+
+msgctxt "5||option||table||7||||1"
+msgid "Reset to default settings?"
+msgstr ""
+
+msgctxt "5||option||table||8||||1"
+msgid "[Press a key...]"
+msgstr ""
+
+msgctxt "5||option||table||9||||1"
+msgid "[Press a button...]"
+msgstr ""
+
+msgctxt "5||option||table||10||||1"
+msgid "[Press a button or move analog stick...]"
+msgstr ""
+
+msgctxt "5||option||table||11||||1"
+msgid "Keyboard & Mouse"
+msgstr ""
+
+msgctxt "5||option||table||12||||1"
+msgid "Controller"
+msgstr ""
+
+msgctxt "5||option||table||13||||1"
+msgid "Controller Sensitivity"
+msgstr ""
+
+msgctxt "5||option||table||14||||1"
+msgid "Mouse Sensitivity"
+msgstr ""
+
+msgctxt "5||option||table||15||||1"
+msgid "Do you want to leave the settings with unsaved changes?"
+msgstr ""
+
+msgctxt "5||option||table||16||||1"
+msgid "Save current graphics settings?\r\n${timer}"
+msgstr ""
+
+msgctxt "5||option||table||17||||1"
+msgid "Controller Vibration"
+msgstr ""
+
+msgctxt "5||option||table||18||||1"
+msgid "On"
+msgstr ""
+
+msgctxt "5||option||table||19||||1"
+msgid "Off"
+msgstr ""
+
+msgctxt "5||option||table||20||||1"
+msgid "Mouse Cursor"
+msgstr ""
+
+msgctxt "5||option||table||21||||1"
+msgid "Game Cursor"
+msgstr ""
+
+msgctxt "5||option||table||22||||1"
+msgid "System Cursor"
+msgstr ""
+
+msgctxt "6||pause||table||1||||1"
+msgid "Quit and return to the title screen?"
+msgstr ""
+
+msgctxt "6||pause||table||2||||1"
+msgid "If you have not saved manually, it is\r\nrecommended that you do so in order\r\nto avoid losing any progress. Continue?"
+msgstr ""
+
+msgctxt "6||pause||table||3||||1"
+msgid "No mission currently in progress."
+msgstr ""
+
+msgctxt "6||pause||table||4||||1"
+msgid "${name}"
+msgstr ""
+
+msgctxt "6||pause||table||5||||1"
+msgid "Learn skill?"
+msgstr ""
+
+msgctxt "6||pause||table||6||||1"
+msgid "Health recovered by ${reconver_point}."
+msgstr ""
+
+msgctxt "6||pause||table||8||||1"
+msgid "Use ${item_name}?"
+msgstr ""
+
+msgctxt "6||pause||table||9||||1"
+msgid "You've already learned this skill."
+msgstr ""
+
+msgctxt "6||pause||table||10||||1"
+msgid "Delete this image?"
+msgstr ""
+
+msgctxt "6||pause||table||11||||1"
+msgid "You don't have enough EXP."
+msgstr ""
+
+msgctxt "6||pause||table||12||||1"
+msgid "??????"
+msgstr ""
+
+msgctxt "6||pause||table||13||||1"
+msgid "Your inbox is empty."
+msgstr ""
+
+msgctxt "6||pause||table||14||||1"
+msgid "Hand over the ${item_name}?"
+msgstr ""
+
+msgctxt "6||pause||table||15||||1"
+msgid "None"
+msgstr ""
+
+msgctxt "6||pause||table||16||||1"
+msgid "Skip?"
+msgstr ""
+
+msgctxt "6||pause||table||17||||1"
+msgid "1P"
+msgstr ""
+
+msgctxt "6||pause||table||18||||1"
+msgid "2P"
+msgstr ""
+
+msgctxt "6||pause||table||20||||1"
+msgid "..."
+msgstr ""
+
+msgctxt "6||pause||table||21||||1"
+msgid "You have nothing to equip.\r\nAcquire equipment at shops or as rewards."
+msgstr ""
+
+msgctxt "6||pause||table||22||||1"
+msgid "You can't raise this stat any further."
+msgstr ""
+
+msgctxt "6||pause||table||23||||1"
+msgid "This skill is not unlocked yet."
+msgstr ""
+
+msgctxt "6||pause||table||24||||1"
+msgid "${value} km"
+msgstr ""
+
+msgctxt "6||pause||table||25||||1"
+msgid "${value}0,000 yen"
+msgstr ""
+
+msgctxt "6||pause||table||26||||1"
+msgid "${value} yen"
+msgstr ""
+
+msgctxt "6||pause||table||27||||1"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "6||pause||table||28||||1"
+msgid "?"
+msgstr ""
+
+msgctxt "6||pause||table||29||||1"
+msgid "(I can't drink another drop...)"
+msgstr ""
+
+msgctxt "6||pause||table||30||||1"
+msgid "You can purchase skills in the full game."
+msgstr ""
+
+msgctxt "6||pause||table||31||||1"
+msgid "This is the max level for the demo."
+msgstr ""
+
+msgctxt "6||pause||table||32||||1"
+msgid "Are you sure you want to use ${item_name}?\r\n(Kiryu is too full to gain EXP.)"
+msgstr ""
+
+msgctxt "6||pause||table||33||||1"
+msgid "You are currently at full health.\r\nAre you sure you want to use ${item_name}?"
+msgstr ""
+
+msgctxt "6||pause||table||34||||1"
+msgid "You are currently at full health.\r\nAre you sure you want to use ${item_name}?\r\n(Kiryu is too full to gain EXP.)"
+msgstr ""
+
+msgctxt "6||pause||table||35||||1"
+msgid "Your Heat Gauge is currently full.\r\nAre you sure you want to use ${item_name}?"
+msgstr ""
+
+msgctxt "6||pause||table||36||||1"
+msgid "Your Heat Gauge is currently full.\r\nAre you sure you want to use ${item_name}?\r\n(Kiryu is too full to gain EXP.)"
+msgstr ""
+
+msgctxt "6||pause||table||37||||1"
+msgid "You are currently at full health and Heat.\r\nAre you sure you want to use ${item_name}?"
+msgstr ""
+
+msgctxt "6||pause||table||38||||1"
+msgid "You are currently at full health and Heat.\r\nAre you sure you want to use ${item_name}?\r\n(Kiryu is too full to gain EXP.)"
+msgstr ""
+
+msgctxt "6||pause||table||39||||1"
+msgid "Heat cannot be replenished while in Extreme Heat Mode.\r\nAre you sure you want to use ${item_name}?"
+msgstr ""
+
+msgctxt "6||pause||table||40||||1"
+msgid "Heat cannot be replenished while in Extreme Heat Mode.\r\nAre you sure you want to use ${item_name}?\r\n(Kiryu is too full to gain EXP.)"
+msgstr ""
+
+msgctxt "6||pause||table||41||||1"
+msgid "You are currently at full health.\r\nAre you sure you want to use ${item_name}?\r\n(Heat cannot be replenished while in Extreme Heat Mode.)"
+msgstr ""
+
+msgctxt "6||pause||table||42||||1"
+msgid "You are currently at full health and Heat.\r\nAre you sure you want to use ${item_name}?\r\n(Kiryu is too full to gain EXP.)"
+msgstr ""
+
+msgctxt "6||pause||table||43||||1"
+msgid "Your inventory is full."
+msgstr ""
+
+msgctxt "6||pause||table||44||||1"
+msgid "The controller was disconnected.\r\nPlease reconnect it or use a different controller to resume playing."
+msgstr ""
+
+msgctxt "6||pause||table||45||||1"
+msgid "The keyboard or mouse was disconnected.\r\nPlease reconnect it to resume playing."
+msgstr ""
+
+msgctxt "6||pause||table||46||||1"
+msgid "If you have not saved manually, it is\r\nrecommended that you do so in order\r\nto avoid losing any progress.\r\nPress ALT+F4 again to quit, press any other key to go back to game"
+msgstr ""
+
+msgctxt "7||point||table||1||||1"
+msgid "Pts."
+msgstr ""
+
+msgctxt "7||point||table||2||||1"
+msgid "Han"
+msgstr ""
+
+msgctxt "9||app||table||1||||1"
+msgid "YAKUZA 6: The Song of Life"
+msgstr ""
+
+msgctxt "10||save_data||table||1||||1"
+msgid "System Data"
+msgstr ""
+
+msgctxt "10||save_data||table||2||||1"
+msgid "${title} system data."
+msgstr ""
+
+msgctxt "10||save_data||table||3||||1"
+msgid "${save_id} ${chapter_title}"
+msgstr ""
+
+msgctxt "10||save_data||table||4||||1"
+msgid "Difficulty: ${difficulty}\r\n                                 Total Play Time: ${play_time}\r\n                                 Money: ${money}\r\n[Stats]                    Overall: ${abillity_total}\r\n                                 Stats: ${abillity_skill_base}\r\n                                 Health: ${abillity_hit_point}\r\n                                 Attack: ${abillity_attack}\r\n                                 Defense: ${abillity_defence}\r\n                                 Evasion: ${abillity_agility}\r\n                                 Heat Gauge: ${abillity_heat_gauge}\r\n                                 Battle Skills: ${abillity_skill_battle}\r\n                                 Heat Actions: ${abillity_skill_heat}\r\n                                 Other Skills: ${abillity_skill_other}"
+msgstr ""
+
+msgctxt "10||save_data||table||5||||1"
+msgid "New Save Data"
+msgstr ""
+
+msgctxt "10||save_data||table||9||||1"
+msgid "Saving..."
+msgstr ""
+
+msgctxt "10||save_data||table||10||||1"
+msgid "Loading..."
+msgstr ""
+
+msgctxt "10||save_data||table||19||||1"
+msgid "Could not save data. Continue without saving?"
+msgstr ""
+
+msgctxt "10||save_data||table||20||||1"
+msgid "Unused"
+msgstr ""
+
+msgctxt "10||save_data||table||21||||1"
+msgid "In order to load this save data, the game must be fully installed."
+msgstr ""
+
+msgctxt "10||save_data||table||22||||1"
+msgid "Use this save file to start a new game? Select \"No\" to continue\r\nexploring the world at your leisure."
+msgstr ""
+
+msgctxt "10||save_data||table||23||||1"
+msgid "This game uses an autosave feature. When the autosave icon is displayed,\r\nplease do not quit the game or turn power off."
+msgstr ""
+
+msgctxt "10||save_data||table||24||||1"
+msgid "This save data is not compatible with the trial version."
+msgstr ""
+
+msgctxt "10||save_data||table||25||||1"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "10||save_data||table||26||||1"
+msgid "Play Time"
+msgstr ""
+
+msgctxt "10||save_data||table||27||||1"
+msgid "Date"
+msgstr ""
+
+msgctxt "10||save_data||table||28||||1"
+msgid "Autosave"
+msgstr ""
+
+msgctxt "10||save_data||table||29||||1"
+msgid "Manual"
+msgstr ""
+
+msgctxt "10||save_data||table||30||||1"
+msgid "Create New"
+msgstr ""
+
+msgctxt "10||save_data||table||31||||1"
+msgid "Unsaved data will be lost. Are you sure?"
+msgstr ""
+
+msgctxt "10||save_data||table||32||||1"
+msgid "Do you want to save? Content will be lost if overwritting."
+msgstr ""
+
+msgctxt "10||save_data||table||33||||1"
+msgid "Are you sure you want to delete this data?"
+msgstr ""
+
+msgctxt "10||save_data||table||34||||1"
+msgid "Load"
+msgstr ""
+
+msgctxt "10||save_data||table||35||||1"
+msgid "Save"
+msgstr ""
+
+msgctxt "10||save_data||table||36||||1"
+msgid "Return"
+msgstr ""
+
+msgctxt "10||save_data||table||37||||1"
+msgid "Delete"
+msgstr ""
+
+msgctxt "10||save_data||table||38||||1"
+msgid "Failed to load data!"
+msgstr ""
+
+msgctxt "10||save_data||table||39||||1"
+msgid "Saving is complete."
+msgstr ""
+
+msgctxt "10||save_data||table||40||||1"
+msgid "Failed to save data!"
+msgstr ""
+
+msgctxt "10||save_data||table||41||||1"
+msgid "Failed to save data! Not enough space!"
+msgstr ""
+
+msgctxt "10||save_data||table||42||||1"
+msgid "Data deleted"
+msgstr ""
+
+msgctxt "10||save_data||table||43||||1"
+msgid "Failed to delete"
+msgstr ""
+
+msgctxt "10||save_data||table||44||||1"
+msgid "Autosave complete"
+msgstr ""
+
+msgctxt "11||minigame_abort||table||1||||1"
+msgid "Exit minigame?"
+msgstr ""
+
+msgctxt "11||minigame_abort||table||2||||1"
+msgid "Yes"
+msgstr ""
+
+msgctxt "11||minigame_abort||table||3||||1"
+msgid "No"
+msgstr ""
+
+msgctxt "11||minigame_abort||table||4||||1"
+msgid "Are you sure you want to exit the minigame?"
+msgstr ""
+
+msgctxt "12||objective||table||1||||1"
+msgid "Drank ${item_name}"
+msgstr ""
+
+msgctxt "12||objective||table||2||||1"
+msgid "Relaxed with cats"
+msgstr ""
+
+msgctxt "12||objective||table||3||||1"
+msgid "Made some gains"
+msgstr ""
+
+msgctxt "12||objective||table||4||||1"
+msgid "The training results are clear"
+msgstr ""
+
+msgctxt "12||objective||table||5||||1"
+msgid "Clan Creator victory"
+msgstr ""
+
+msgctxt "12||objective||table||6||||1"
+msgid "Obtained EXP"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||4||||1"
+msgid "${number}"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||5||||1"
+msgid "${number}"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||6||||1"
+msgid "BRAND NEW STAGE"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||7||||1"
+msgid "Like a Butterfly"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||8||||1"
+msgid "Today is a Diamond"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||9||||1"
+msgid "Fork in the Road"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||10||||1"
+msgid "TONIGHT"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||11||||1"
+msgid "Kiwami Kazumasa"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||12||||1"
+msgid "Lee Ree"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||13||||1"
+msgid "Ryo Kojima"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||14||||1"
+msgid "Yasuo Sodachi"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||15||||1"
+msgid "Chiba Hiro"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||16||||1"
+msgid "J-Fan"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||17||||1"
+msgid "San Du'fur"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||18||||1"
+msgid "Matsushita@Congrats on Marriage"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||19||||1"
+msgid "Pocket Circuit Fighter"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||20||||1"
+msgid "Yuzo Wada"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||21||||1"
+msgid "hands"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||22||||1"
+msgid "Kakegaenai kono hibi wo..."
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||23||||1"
+msgid "Yoku ni obore wana ni hamari"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||24||||1"
+msgid "Eien ni kawaranai no ka"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||25||||1"
+msgid "Saenai michigusa kirei to hirotta"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||26||||1"
+msgid "Muchuu de tsuranuita itsuwari no JUSTICE"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||27||||1"
+msgid "Shinya ni ji kinitsu na LOOP"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||28||||1"
+msgid "Do you want to quit karaoke?"
+msgstr ""
+
+msgctxt "13||minigame_karaoke||table||29||||1"
+msgid "Leave"
+msgstr ""
+
+msgctxt "15||clan_creator||table||1||||1"
+msgid "There are no missions at this time."
+msgstr ""
+
+msgctxt "15||clan_creator||table||2||||1"
+msgid "Level up?"
+msgstr ""
+
+msgctxt "15||clan_creator||table||3||||1"
+msgid "Lv. ${level}"
+msgstr ""
+
+msgctxt "15||clan_creator||table||4||||1"
+msgid "Not enough EXP."
+msgstr ""
+
+msgctxt "15||clan_creator||table||5||||1"
+msgid "${member_num} members"
+msgstr ""
+
+msgctxt "15||clan_creator||table||6||||1"
+msgid "Select a member to strengthen."
+msgstr ""
+
+msgctxt "15||clan_creator||table||7||||1"
+msgid "${member_name} has joined the Kiryu Clan."
+msgstr ""
+
+msgctxt "15||clan_creator||table||8||||1"
+msgid "Connecting. Just a moment..."
+msgstr ""
+
+msgctxt "15||clan_creator||table||9||||1"
+msgid "Enter a code."
+msgstr ""
+
+msgctxt "15||clan_creator||table||11||||1"
+msgid "The code you entered is incorrect."
+msgstr ""
+
+msgctxt "15||clan_creator||table||12||||1"
+msgid "You already have this leader in the clan."
+msgstr ""
+
+msgctxt "15||clan_creator||table||14||||1"
+msgid "${num} times"
+msgstr ""
+
+msgctxt "15||clan_creator||table||15||||1"
+msgid "${ratio}%"
+msgstr ""
+
+msgctxt "15||clan_creator||table||16||||1"
+msgid "${ratio}%"
+msgstr ""
+
+msgctxt "15||clan_creator||table||17||||1"
+msgid "${ratio}%"
+msgstr ""
+
+msgctxt "15||clan_creator||table||18||||1"
+msgid "Upload your current Defense Force?"
+msgstr ""
+
+msgctxt "15||clan_creator||table||19||||1"
+msgid "This Defense Force will replace the one currently uploaded.\r\nProceed?"
+msgstr ""
+
+msgctxt "15||clan_creator||table||20||||1"
+msgid "The process did not complete due to cancellation or a connection error."
+msgstr ""
+
+msgctxt "15||clan_creator||table||21||||1"
+msgid "Defense Force upload complete.\r\n(Your changes may not be reflected immediately.)"
+msgstr ""
+
+msgctxt "15||clan_creator||table||22||||1"
+msgid "Unable to find an opponent."
+msgstr ""
+
+msgctxt "15||clan_creator||table||23||||1"
+msgid "Round 1"
+msgstr ""
+
+msgctxt "15||clan_creator||table||24||||1"
+msgid "Round 2"
+msgstr ""
+
+msgctxt "15||clan_creator||table||25||||1"
+msgid "Round 3"
+msgstr ""
+
+msgctxt "15||clan_creator||table||26||||1"
+msgid "1st Win"
+msgstr ""
+
+msgctxt "15||clan_creator||table||27||||1"
+msgid "2nd Win"
+msgstr ""
+
+msgctxt "15||clan_creator||table||28||||1"
+msgid "3rd Win"
+msgstr ""
+
+msgctxt "15||clan_creator||table||29||||1"
+msgid "Your current Defense Force will be discarded.\r\nProceed?"
+msgstr ""
+
+msgctxt "15||clan_creator||table||30||||1"
+msgid "Rank: ${rank}"
+msgstr ""
+
+msgctxt "15||clan_creator||table||31||||1"
+msgid "You do not have enough leaders in your Defense Force."
+msgstr ""
+
+msgctxt "15||clan_creator||table||32||||1"
+msgid "A change was made to your saved Defense Force,\r\nso your online Defense Force has been updated accordingly."
+msgstr ""
+
+msgctxt "15||clan_creator||table||33||||1"
+msgid "EXP Acquired: ${get_exp}"
+msgstr ""
+
+msgctxt "15||clan_creator||table||34||||1"
+msgid "???"
+msgstr ""
+
+msgctxt "15||clan_creator||table||35||||1"
+msgid "None"
+msgstr ""
+
+msgctxt "15||clan_creator||table||36||||1"
+msgid "There are no missions at this time."
+msgstr ""
+
+msgctxt "15||clan_creator||table||37||||1"
+msgid "${explanation}\r\nDeadline: ${duration}"
+msgstr ""
+
+msgctxt "15||clan_creator||table||38||||1"
+msgid "${day}:${time}"
+msgstr ""
+
+msgctxt "15||clan_creator||table||39||||1"
+msgid "${time}"
+msgstr ""
+
+msgctxt "15||clan_creator||table||40||||1"
+msgid "End"
+msgstr ""
+
+msgctxt "15||clan_creator||table||41||||1"
+msgid "This mission's deadline has passed. Sorry."
+msgstr ""
+
+msgctxt "15||clan_creator||table||42||||1"
+msgid "This member has no skills."
+msgstr ""
+
+msgctxt "15||clan_creator||table||43||||1"
+msgid "-"
+msgstr ""
+
+msgctxt "15||clan_creator||table||44||||1"
+msgid "You have no members who can be deployed."
+msgstr ""
+
+msgctxt "15||clan_creator||table||45||||1"
+msgid "You cannot deploy with the same leaders."
+msgstr ""
+
+msgctxt "15||clan_creator||table||46||||1"
+msgid "In order to play online, you must accept the EULA."
+msgstr ""
+
+msgctxt "15||clan_creator||table||47||||1"
+msgid "There are no PlayStation™Network friends available.\r\nAsk them to set up a Defense Force in order to play!"
+msgstr ""
+
+msgctxt "15||clan_creator||table||48||||1"
+msgid "Your consecutive win bonus streak will be discarded.\r\nAre you sure?"
+msgstr ""
+
+msgctxt "15||clan_creator||table||49||||1"
+msgid "You lost the Raid. New opponents will be chosen."
+msgstr ""
+
+msgctxt "15||clan_creator||table||50||||1"
+msgid "You won the Raid. New opponents will be chosen."
+msgstr ""
+
+msgctxt "15||clan_creator||table||51||||1"
+msgid "${win_count} win(s) ${lose_count} loss(es)"
+msgstr ""
+
+msgctxt "15||clan_creator||table||53||||1"
+msgid "Victory"
+msgstr ""
+
+msgctxt "15||clan_creator||table||54||||1"
+msgid "Defeat"
+msgstr ""
+
+msgctxt "15||clan_creator||table||55||||1"
+msgid "Your Defense Force engaged in a Raid. Here's the results."
+msgstr ""
+
+msgctxt "15||clan_creator||table||56||||1"
+msgid "You defeated a ranked player. You cannot play against this\r\nplayer for 24 hours."
+msgstr ""
+
+msgctxt "15||clan_creator||table||57||||1"
+msgid "MAX"
+msgstr ""
+
+msgctxt "15||clan_creator||table||58||||1"
+msgid "THIS SOFTWARE IS LICENSED, NOT SOLD. Sega Corporation and its affiliated \r\ncompanies (collectively, \"SEGA\" or \"We\") reserves all rights not expressly \r\ngranted to you. The product that is subject to this license is referred to\r\nin this license as the \"Game Software.\"\r\n\r\nIf you have any questions about this agreement, you can reach SEGA at SEGA\r\nof America, Inc. 250 East Olive Avenue, Suite 200 Burbank, CA 91502. Legal \r\nDepartment.\r\n\r\nThis is a legal agreement between you and SEGA. Please review this End User \r\nLicense Agreement (\"Agreement\") carefully before installing, accessing or \r\nutilizing the game you have just purchased (\"GAME SOFTWARE\") and please \r\ninquire about anything you do not understand. If you are not eighteen (18) \r\nyears of age, have your parents review this Agreement. By installing, copying \r\nand/or otherwise using the Game Software you are signifying your \r\nacknowledgement, acceptance and agreement to this Agreement.\r\n\r\nIMPORTANT - READ CAREFULLY:\r\nBY INSTALLING, COPYING AND/OR OTHERWISE USING THIS GAME SOFTWARE, YOU\r\nAGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT AND THE TERMS SET FORTH\r\nBELOW. THE \"GAME SOFTWARE\" INCLUDES ALL SOFTWARE INCLUDED WITH THE VIDEO\r\nGAME, THE ASSOCIATED MEDIA, ANY UPDATES AND UPGRADES THAT REPLACE OR\r\nSUPPLEMENT THE SOFTWARE THAT ARE NOT DISTRIBUTED WITH A SEPARATE LICENSE,\r\nTHE ASSOCIATED MEDIA, ANY SOFTWARE ASSOCIATED WITH THE ONLINE MODE OF THE\r\nVIDEO GAME, ANY PRINTED MATERIALS, ANY ONLINE OR ELECTRONIC DOCUMENTATION,\r\nAND ANY AND ALL COPIES OF SUCH SOFTWARE AND MATERIALS. THE AGREEMENT, AS\r\nAMENDED FROM TIME TO TIME AND PUBLISHED AT WWW.SEGA.COM/LEGAL, INCORPORATES\r\nTHE SEGA PRIVACY POLICY (PUBLISHED AT WWW.SEGA.COM/LEGAL/PRIVACY).\r\nBY OPENING THE GAME SOFTWARE, INSTALLING, AND/OR USING THE GAME SOFTWARE\r\nAND ANY OTHER MATERIALS INCLUDED WITH THE GAME SOFTWARE, AND ANY UPDATES\r\nAND UPGRADES THERETO, YOU HEREBY ACCEPT THE TERMS OF THIS AGREEMENT WITH\r\nSEGA. THE AGREEMENT APPLIES TO ALL USERS OF THE GAME SOFTWARE, INCLUDING\r\nUSERS WHO ARE ALSO CONTRIBUTORS OF CONTENT, INFORMATION, AND OTHER\r\nMATERIALS OR SOFTWARE. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT,\r\nYOU ARE NOT PERMITTED TO INSTALL, COPY OR OTHERWISE USE THE GAME SOFTWARE.\r\nYOUR REMEDY FOR DISSATISFACTION WITH THE GAME SOFTWARE OR ANY PRODUCTS,\r\nCONTENT, OR OTHER INFORMATION MADE AVAILABLE BY OR THROUGH SEGA, IS TO\r\nSTOP USING THE GAME SOFTWARE. YOUR AGREEMENT WITH SEGA REGARDING\r\nCOMPLIANCE WITH THE AGREEMENT BECOMES EFFECTIVE IMMEDIATELY UPON\r\nCOMMENCEMENT OF YOUR USE OF THE GAME SOFTWARE. IF YOU DO NOT AGREE TO\r\nTHE TERMS SET FORTH IN THIS AGREEMENT, DO NOT DOWNLOAD OR USE THE GAME\r\nSOFTWARE, AND SEGA SHALL NOT GRANT TO YOU THE LICENSE TO INSTALL AND USE\r\nTHE GAME SOFTWARE.\r\n\r\n1. USER'S ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS\r\nThe Game Software is offered subject to your compliance with all of the terms \r\nand conditions contained herein and all other operating rules, policies and \r\nprocedures. In addition, some applications offered through or in connection \r\nwith the Game Software may be subject to additional terms and conditions \r\npromulgated by SEGA from time to time. Any material modifications to the \r\nAgreement will also be brought to your attention by posting on\r\nWWW.SEGA.COM/LEGAL. Such material modifications will be effective immediately,\r\nand will apply to disputes arising under the Agreement from the date of\r\nposting forward. Your continued use of the Game Software after a modification\r\nhas been made to the Agreement constitutes your acceptance of such modification.\r\n\r\n2. LIMITED USE LICENSE\r\nSubject to your compliance with the terms and conditions of the Agreement, \r\nSEGA hereby grants you a non-exclusive, non-transferable, limited right and \r\nlicense to install and use one (1) copy of the Game Software solely and \r\nexclusively for your personal and non-commercial use. This Agreement shall \r\nalso apply to any patches or updates you may obtain for the Software. IN \r\nACCORDANCE WITH AND NOT INTENDING TO LIMIT ANY OF THE PROVISIONS\r\nOR PROTECTIONS SET FORTH HEREIN, DUPLICATION, COPYING OR ANY FORM OF \r\nREPRODUCTION OF THE GAME SOFTWARE OR RELATED INFORMATION, MATERIALS\r\nOR OTHER CONTENT TO ANY OTHER SERVER OR LOCATION FOR THE PURPOSES OF\r\nDUPLICATION, COPYING OR ANY OTHER FORM OF REPRODUCTION IS EXPRESSLY\r\nAND EXPLICITLY PROHIBITED. This license does not give you any title or ownership\r\nin the Game Software, and should not be construed as a sale or transfer of any \r\nintellectual property rights to the Game Software. All rights not specifically\r\ngranted under this Agreement are hereby reserved by Sega and, as applicable,\r\nby its licensors.\r\n\r\n3. NO RIGHT TO OWNERSHIP\r\nYOU ACKNOWLEDGE AND AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER\r\nPROPERTY INTEREST IN THE GAME SOFTWARE, AND YOU FURTHER ACKNOWLEDGE\r\nAND AGREE THAT ALL SUCH RIGHTS ARE AND SHALL FOREVER BE OWNED BY AND\r\nINURE TO THE BENEFIT OF SEGA. Except as expressly licensed to you herein,\r\nall right, title, and interest in and to the Game Software and any and all\r\nassociated copyrights, trademarks and intellectual properties therein and/or\r\nrelated thereto and all copies thereof (including, but not limited to, any\r\npatches, updates, copies, derivative works, titles, computer code, themes,\r\nobjects, characters, character names, stories, dialogs, catch phrases,\r\nlocations, concepts, artwork, images, animation, sounds, musical compositions,\r\naudio-visual effects, text, methods of operation, moral rights, \"applets\"\r\nincorporated into the Game Software, and any related documentation) are\r\nowned by SEGA or SEGA's licensors.\r\n\r\nThe Game Software is protected by the copyright laws of the United States, \r\ninternational copyright treaties and conventions, and other laws. All rights \r\nare reserved. The Game Software contains certain licensed materials, and Sega \r\nand Sega's licensors may protect their rights in the event of any violation \r\nof this Agreement.\r\n\r\n4. NO SALE OR ASSIGNMENT\r\nSEGA does not recognize the transfer of the Game Software. Therefore, you\r\nmay not give, purchase, sell, bargain, barter, market, trade, offer for sale, \r\nsell, license, assign or otherwise divest your rights, responsibilities or \r\nobligations under the Agreement, either in whole or in part, without the \r\nprior written consent of SEGA. Any attempt to do so shall be void and of\r\nno effect.\r\n\r\nLICENSE CONDITIONS\r\nYou agree to only use the Game Software, or any part of it, in a manner that \r\nis consistent with this Agreement, and you SHALL NOT:\r\n\r\n(a) exploit the Game Software or any of its parts commercially, including, \r\nbut not limited to, at a cyber (Internet) cafe, computer gaming center or any \r\nother location-based site;\r\n\r\n(b) use the Game Software or permit the use of the Game Software, on more \r\nthan one computer, game console, mobile device, handheld device or PDA at\r\nthe same time;\r\n\r\n(c) use the Game Software, or permit use of the Game Software, or make the \r\nGame Software available for use in a network, multi-user arrangement, remote \r\naccess arrangement, including where it could be downloaded by multiple users;\r\n\r\n(d) sell, rent, lease, license, distribute or otherwise transfer this Game \r\nSoftware or any copies;\r\n\r\n(e) reverse engineer, derive source code, modify, decompile, disassemble, \r\ncopy, or create derivative works of the Game Software, in whole or in part \r\n(except as the applicable law expressly permits, in which case all and any \r\nmodifications, adaptations, copies, improvements, etc. shall belong to, vest \r\nin and be the exclusive property of Sega and/or its licensors on creation,\r\nin any event);\r\n\r\n(f) remove, disable or circumvent any security protections, proprietary \r\nnotices or labels contained on or within the Game Software;\r\n\r\n(g) export or re-export the Game Software or any copy or adaptation in \r\nviolation of any applicable laws or regulations;\r\n\r\n(h) create data or executable programs which mimic data or functionality\r\nin the Game Software unless provided for in Section 5(i) below; or\r\n\r\n(i) use the part of the Game Software which allows you to construct new \r\nvariations (\"Editor\") to create new levels which\r\n\r\n(i) can be used otherwise in connection with the Game Software;\r\n\r\n(ii) to modify any executable file;\r\n\r\n(iii) to product any libelous, defamatory or other illegal material or \r\nmaterial that is scandalous or invades the rights of privacy or publicity\r\nof a third party;\r\n\r\n(iv) to use the trademarks, copyright or intellectual property rights of\r\nany third party;\r\n\r\n(v) are then commercially exploited by you (through pay-per-play or \r\ntimesharing services or otherwise). For the avoidance of doubt you are\r\nsolely liable and responsible for any claims by a third party resulting\r\nfrom your use of the Editor.\r\n\r\nFurthermore, you agree that you shall abide by the safety information, \r\nmaintenance instructions or other relevant notices contained in the manual\r\nor other documentation accompanying the Game Software.\r\n\r\nDISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY\r\nTO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, YOU EXPRESSLY AGREE \r\nTHAT THE USE OF THE GAME SOFTWARE IS AT YOUR SOLE RISK AND THAT THE ENTIRE \r\nRISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU. \r\nTO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL MATERIALS AND GAME \r\nSOFTWARE ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITH ALL FAULTS \r\nAND WITHOUT WARRANTY OF ANY KIND, AND SEGA HEREBY DISCLAIMS ALL WARRANTIES \r\nAND CONDITIONS WITH RESPECT TO THE GAME SOFTWARE, EITHER EXPRESS OR IMPLIED, \r\nINCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, OF \r\nSATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF \r\nQUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. WITHOUT\r\nLIMITING THE FOREGOING, WE MAKE NO WARRANTY THAT (A) THE GAME SOFTWARE WILL\r\nMEET YOUR REQUIREMENTS, (B) THE GAME SOFTWARE WILL BE UNINTERRUPTED, TIMELY,\r\nSECURE, OR ERROR-FREE, (C) THE GAME SOFTWARE WILL BE INTERAOPERABLE OR\r\nCOMPATABILE WITH OTHER SOFTWARE, OR (D) THE RESULTS THAT MAY BE OBTAINED\r\nFROM THE USE OF THE GAME SOFTWARE WILL BE EFFECTIVE, ACCURATE OR RELIABLE.\r\nNO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SEGA OR ITS AUTHORIZED\r\nREPRESENTATIVE(S) SHALL CREATE A WARRANTY. AT SOME POINT IN THE FUTURE THE\r\nGAME SOFTWARE MAY GO OUT OF DATE, AND SEGA MAKES NO COMMITMENT TO UPDATE\r\nSUCH GAME SOFTWARE. THE DISCLAIMERS OF LIABILITY CONTAINED IN THIS SECTION\r\nAPPLY TO ANY DAMAGES OR INJURY CAUSED BY ANY FAILURE OF PERFORMANCE, ERROR,\r\nOMISSION, INTERRUPTION, DELETION, DEFECT, DELAY IN OPERATION OR TRANSMISSION,\r\nCOMPUTER VIRUS, COMMUNICATION LINE FAILURE, THEFT OR DESTRUCTION OR\r\nUNAUTHORIZED ACCESS TO, ALTERATION OF, OR USE OF THE GAME SOFTWARE,\r\nWHETHER FOR BREACH OF CONTRACT, TORTIOUS BEHAVIOR, NEGLIGENCE, OR UNDER\r\nANY OTHER CAUSE OF ACTION. THE USE OF THE GAME SOFTWARE OR THE DOWNLOADING\r\nOR OTHER ACQUISITION OF ANY MATERIALS THROUGH OR IN CONNECTION WITH THE\r\nGAME SOFTWARE IS DONE AT YOUR OWN DISCRETION AND RISK AND WITH YOUR\r\nAGREEMENT THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR\r\nCOMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM SUCH ACTIVITIES.\r\n\r\nSEGA MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE INFORMATION \r\nCONTAINED IN THE GAME SOFTWARE, INFORMATION AND/OR RELATED GRAPHICS\r\nPUBLISHED AS PART OF THE GAME SOFTWARE FOR ANY PURPOSE. THE GAME SOFTWARE,\r\nINFORMATION AND RELATED GRAPHICS PUBLISHED AS PART OF THE GAME SOFTWARE\r\nMAY INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. You understand\r\nand agree that temporary interruptions of the Game Software may occur as normal\r\nevents. You further understand and agree that we have no control over third\r\nparty networks you may access in the course of the use of the Game Software,\r\nand therefore, delays and disruption of other network transmissions are \r\ncompletely beyond SEGA's control. YOU ACKNOWLEDGE AND AGREE THAT YOUR \r\nEXCLUSIVE REMEDY FOR ANY DISPUTE WITH SEGA IS TO STOP USING THE GAME\r\nSOFTWARE. IN NO CASE SHALL ANY LIABILITY OF SEGA TO YOU EXCEED THE AMOUNT\r\nTHAT YOU PAID TO SEGA OR ITS AFFILIATES AND/OR DESIGNEES FOR THE APPLICABLE\r\nGAME SOFTWARE GIVING RISE TO ANY SUCH LIABILITY. IN NO EVENT SHALL SEGA OR\r\nITS AFFILIATES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL,\r\nPUNITIVE, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY\r\nDAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM\r\nLOSS OF USE, DATA OR PROFITS, WHETHER OR NOT WE HAVE BEEN ADVISED OF THE\r\nPOSSIBILITY OF SUCH DAMAGES, AND ON ANY THEORY OF LIABILITY, ARISING OUT OF\r\nOR IN CONNECTION WITH THE USE OF THE GAME SOFTWARE, INCLUDING DAMAGES TO\r\nPROPERTY, LOSS OF GOODWILL, COMPUTER FAILURE OR MALFUNCTION AND, TO THE\r\nEXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURIES, EVEN IF SEGA HAS\r\nBEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES OR\r\nJURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY\r\nFOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS,\r\nTHE LIABILITY OF SEGA AND THE SEGA PARTIES SHALL BE LIMITED TO THE FULLEST\r\nEXTENT PERMITTED BY LAW. Residents of California are entitled to the following\r\nspecific consumer rights information: you may contact the Complaint Assistance\r\nUnit of the Division of Consumer Software of the Department of Consumer Affairs\r\nby mail at 400 R St., Suite 1080, Sacramento, California, 95814, or by telephone\r\nat 916.445.1254. California residents expressly agree to waive California Civil\r\nCode Sec. 1542, which states: \"A general release does not extend to claims\r\nwhich the creditor does not know or suspect to exist in his favor at the time\r\nof executing the release, which if known by him must have materially affected\r\nhis settlement with the debtor.\"\r\n\r\n7. INDEMNIFICATION\r\nUpon a request by SEGA, you agree to defend, indemnify, and hold SEGA and\r\nits affiliates harmless from all liabilities, claims, losses, costs and expenses, \r\nincluding attorney's fees, that arise from (a) your use of, or activities in \r\nconnection with the Game Software; (b) any violation of the Agreement by you; \r\nor (c) any allegation that any content that you make available via the Game \r\nSoftware infringes or otherwise violates the copyright, trademark, trade \r\nsecret, privacy or other intellectual property or other rights of any third \r\nparty. SEGA reserves the right, at its own expense, to assume the exclusive \r\ndefense and control of any matter otherwise subject to indemnification by you, \r\nin which event you will cooperate with SEGA in asserting any available defenses.\r\n\r\n8. E-MAIL, MESSAGING, BLOGGING AND CHAT\r\nSEGA may make email, messaging, blogging, or chat (collectively, \r\n\"Communication Software\") available through the Game Software, either directly\r\nor through a third-party provider. SEGA is not responsible for communications\r\nmade by other users via the Communication Software. We are not responsible\r\nfor communications made by you via the Communication Software. You \r\nacknowledge and agree that your communications made via the Communication \r\nSoftware are public and not private communications and that you have no \r\nexpectation of privacy concerning your use of the Communication Software. You \r\nacknowledge and agree that personal information that you communicate via the \r\nCommunication Software may be seen and used by others and may result in \r\nwidespread distribution of such information. We strongly encourage you not\r\nto disclose any personal information in your public communications via the \r\nCommunication Software unless you wish such information to be made \r\npermanently available to the public.\r\n\r\n9. INTERNATIONAL USE\r\nAlthough the Game Software may be accessible worldwide, we make no \r\nrepresentation that the Game Software or related materials are appropriate or \r\navailable for use in locations outside the United States, and accessing them \r\nfrom territories where the content is illegal is prohibited. Those who choose \r\nto access the Game Software from other locations do so on their own \r\ninitiative and are responsible for compliance with local laws, if and to the \r\nextent local laws are applicable. Any offer and/or information made in \r\nconnection with the Game Software is void where prohibited. Without limiting \r\nthe foregoing, the Game Software may not be exported or re-exported\r\n(a) into (or to a national resident of) any U.S. embargoed countries\r\nor (b) to anyone on the U.S. Treasury Department's list of Specially Designated\r\nNationals or the U.S. Department of Commerce Denied Person's List or Entity List.\r\nBy accessing and using the Game Software, you represent and warrant that you\r\nare not located in, under control of, or a national resident of any such country \r\nor on any such list.\r\n\r\n10. TERMINATION AND SURVIVABILITY OF TERMS\r\nThe Agreement set forth herein continue to remain in full force and effect \r\nuntil such time as terminated by either party. You agree and acknowledge that \r\nyou are not entitled to any refund for any amounts which were paid to SEGA \r\nprior to any termination. You retain full discretion to end or terminate your \r\naccount, if applicable, and discontinue use of the Game Software at any time, \r\npursuant to the terms of this Agreement. Without prejudice to any other \r\nrights of SEGA, this Agreement shall terminate automatically if you fail to \r\ncomply with its terms and conditions. Upon termination, you must destroy all \r\ncopies of the Game Software. The provisions of Sections 3, 4, 6, 7, 8, 10, 11 \r\nand 12 shall survive any termination of this Agreement.\r\n\r\n11. INJUNCTION\r\nBecause SEGA would be irreparably damaged if the terms of this Agreement\r\nwere not specifically enforced, you agree that SEGA shall be entitled, without \r\nbond or other security or proof of damages, to take such action as may be \r\nrequired, including seeking an injunction and other equitable remedies, in \r\naddition to any other remedies available to it under the applicable law.\r\n\r\n12. MISCELLANEOUS\r\nThis Agreement represents the complete agreement between you and SEGA \r\nconcerning the Game Software and supersedes all prior agreements and \r\nrepresentations, warranties or understandings between you and SEGA\r\n(whether negligently or innocently made but excluding those made fraudulently), \r\nregarding the same subject matter. SEGA reserves the right to amend this \r\nAgreement at any time, at its sole discretion. If any part of the Agreement \r\nis determined to be invalid or unenforceable pursuant to applicable law \r\nincluding, but not limited to, the warranty disclaimers and liability \r\nlimitations set forth above, then the invalid or unenforceable provision will \r\nbe deemed superseded by a valid, enforceable provision that most closely \r\nmatches the intent of the original provision and the remainder of the \r\nAgreement shall continue in effect. Any failure by us to enforce or exercise \r\nany provision of the Agreement or related rights shall not constitute a waiver\r\nof that right or provision.\r\n\r\nSEGA may assign this Agreement, in whole or in part, at any time. \r\nNotwithstanding, you may not assign, transfer or sublicense any or all of \r\nyour rights or obligations under the Agreement without SEGA's express prior \r\nwritten consent. SEGA's performance of the Agreement is subject to existing \r\nlaws and legal process, and nothing contained in the Agreement is in \r\nderogation of SEGA's right to comply with governmental, court, and law \r\nenforcement requests or requirements relating to your use of the Game \r\nSoftware or information provided to or gathered by SEGA with respect to\r\nsuch use. In addition to any excuse provided by applicable law, we shall\r\nbe excused from liability for non-delivery or delay in delivery of the Game \r\nSoftware arising from any event beyond our reasonable control, whether or not \r\nforeseeable by either party, including but not limited to, labor disturbance, \r\nwar, terrorism, fire, denial of service attack, internet outages, accident, \r\nadverse weather, inability to secure transportation, governmental act or \r\nregulation, and other causes or events beyond our reasonable control, whether \r\nor not similar to those which are enumerated above. The parties agree that \r\nall correspondence relating to this Agreement shall be written in the English \r\nlanguage.\r\n\r\nThis Agreement shall be construed under California law as such law is applied \r\nto agreements between California residents entered into and to be performed \r\nwithin California, except as governed by federal law, and you consent to the \r\nexclusive jurisdiction of the state and federal courts in San Francisco, \r\nCalifornia.\r\nYou may contact SEGA at the following address:\r\n\r\nSEGA of America, Inc. \r\n250 East Olive Avenue, Suite 200\r\nBurbank, CA 91502\r\nEmail: help@SEGA.com\r\n \r\nI HEREBY ACKNOWLEDGE THAT I HAVE READ AND UNDERSTAND THE FOREGOING END\r\nUSER LICENSE AGREEMENT AND AGREE THAT MY USE OF THE GAME SOFTWARE IS AN \r\nACKNOWLEDGMENT OF MY AGREEMENT TO BE BOUND BY THE END USER LICENSE\r\nAGREEMENT."
+msgstr ""
+
+msgctxt "15||clan_creator||table||59||||1"
+msgid "Members +3"
+msgstr ""
+
+msgctxt "15||clan_creator||table||60||||1"
+msgid "Attack +10%"
+msgstr ""
+
+msgctxt "15||clan_creator||table||61||||1"
+msgid "Health +10%"
+msgstr ""
+
+msgctxt "15||clan_creator||table||62||||1"
+msgid "Attack +25%"
+msgstr ""
+
+msgctxt "15||clan_creator||table||63||||1"
+msgid "Health +25%"
+msgstr ""
+
+msgctxt "15||clan_creator||table||64||||1"
+msgid "All Stats +50%"
+msgstr ""
+
+msgctxt "15||clan_creator||table||65||||1"
+msgid "Explanation of Menu"
+msgstr ""
+
+msgctxt "15||clan_creator||table||66||||1"
+msgid "Explanation of Battle"
+msgstr ""
+
+msgctxt "15||clan_creator||table||67||||1"
+msgid "Stats already maxed out."
+msgstr ""
+
+msgctxt "15||clan_creator||table||68||||1"
+msgid "You will fight three rounds per Raid, and the EXP you gain will increase \r\nwith each successive win. Your streak will be reset once you lose."
+msgstr ""
+
+msgctxt "15||clan_creator||table||69||||1"
+msgid "You've won Round 1 of the Raid, and Round 2 will begin shortly.\r\nYou can win up to three battles in a row; the EXP you gain will\r\nincrease with each win."
+msgstr ""
+
+msgctxt "15||clan_creator||table||70||||1"
+msgid "You've won Round 2 of the Raid, and Round 3 will begin shortly.\r\nYou can win up to three battles in a row; the EXP you gain will\r\nincrease with each win."
+msgstr ""
+
+msgctxt "15||clan_creator||table||74||||1"
+msgid "No changes were made to the uploaded Defense Force.\r\nUpload canceled."
+msgstr ""
+
+msgctxt "16||album||table||1||||1"
+msgid "${title} ${location}"
+msgstr ""
+
+msgctxt "16||album||table||2||||1"
+msgid "${save_id}\r\n${chapter_title}"
+msgstr ""
+
+msgctxt "16||album||table||3||||1"
+msgid "You may only take up to ${max_num} photos. \r\nYou must delete some photos before you can take more."
+msgstr ""
+
+msgctxt "16||album||table||4||||1"
+msgid "Storage full.\r\nCreate more space on your storage device before taking more photos."
+msgstr ""
+
+msgctxt "17||minigame_offertory_box||table||1||||1"
+msgid "(How many coins should I throw in at once...?)\r\n"
+msgstr ""
+
+msgctxt "17||minigame_offertory_box||table||2||||1"
+msgid "\\10 ×"
+msgstr ""
+
+msgctxt "17||minigame_offertory_box||table||3||||1"
+msgid "${kind}\r\n${num}"
+msgstr ""
+
+msgctxt "18||name||table||1||||1"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "18||name||table||2||||1"
+msgid "Kazuma Kiryu"
+msgstr ""
+
+msgctxt "18||name||table||3||||1"
+msgid "Saki"
+msgstr ""
+
+msgctxt "18||name||table||4||||1"
+msgid "Hikaru"
+msgstr ""
+
+msgctxt "18||name||table||5||||1"
+msgid "Riona"
+msgstr ""
+
+msgctxt "18||name||table||6||||1"
+msgid "Erina"
+msgstr ""
+
+msgctxt "18||name||table||7||||1"
+msgid "Sora"
+msgstr ""
+
+msgctxt "19||title||table||1||||1"
+msgid "Two input devices are required for this mode."
+msgstr ""
+
+msgctxt "19||title||table||2||||1"
+msgid "The wireless controller's light bar is ${player1_color} for Player 1 and ${player2_color} for Player 2."
+msgstr ""
+
+msgctxt "19||title||table||3||||1"
+msgid "<color=light_bar_blue_text>Blue</color>"
+msgstr ""
+
+msgctxt "19||title||table||4||||1"
+msgid "<color=light_bar_red_text>Red</color>"
+msgstr ""
+
+msgctxt "19||title||table||5||||1"
+msgid "<color=light_bar_green_text>Green</color>"
+msgstr ""
+
+msgctxt "19||title||table||7||||1"
+msgid "<color=light_bar_pink_text>Pink</color>"
+msgstr ""
+
+msgctxt "19||title||table||8||||1"
+msgid "If you select Game Clear data when choosing \"Continue,\"\r\nyou will begin Premium Adventure, a mode without the\r\nmain story so you can explore the world at your leisure.\r\nYou can also opt to start a New Game+ to replay the story\r\nfrom the beginning while carrying over elements of\r\nyour previous playthrough."
+msgstr ""
+
+msgctxt "19||title||table||9||||1"
+msgid "Obtained ${get_money} as completion bonus."
+msgstr ""
+
+msgctxt "19||title||table||10||||1"
+msgid "Are you sure you want to exit to desktop?"
+msgstr ""
+
+msgctxt "19||title||table||11||||1"
+msgid "Player 1: Please press any key on your input device"
+msgstr ""
+
+msgctxt "19||title||table||12||||1"
+msgid "Player 2: Please press any key on your input device"
+msgstr ""
+
+msgctxt "19||title||table||13||||1"
+msgid "Unable to sign in to Xbox Live.\r\nCheck your Internet connection.\r\nDo you want to try again or return to desktop?"
+msgstr ""
+
+msgctxt "19||title||table||14||||1"
+msgid "Retry"
+msgstr ""
+
+msgctxt "19||title||table||15||||1"
+msgid "Exit"
+msgstr ""
+
+msgctxt "19||title||table||16||||1"
+msgid "LICENSE"
+msgstr ""
+
+msgctxt "19||title||table||17||||1"
+msgid "©Silicon Studio Corp., all rights reserved."
+msgstr ""
+
+msgctxt "19||title||table||18||||1"
+msgid "Copyright © 1994-2015 Lua.org, PUC-Rio.\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software\r\nand associated documentation files (the \"Software\"), to deal in the Software without restriction,\r\nincluding without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,\r\nand/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,\r\nsubject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\r\nINCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\r\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\r\nWHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE\r\nOR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+msgstr ""
+
+msgctxt "20||minigame_darts||table||1||||1"
+msgid "${name}　Rank: ${performance}"
+msgstr ""
+
+msgctxt "20||minigame_darts||table||2||||1"
+msgid "Do you want to quit darts?"
+msgstr ""
+
+msgctxt "21||guides||table||1||||1"
+msgid "<Action=Lift,Minigame_DandleBaby>"
+msgstr ""
+
+msgctxt "21||guides||table||2||||1"
+msgid "<Action=Swing,Minigame_DandleBaby>"
+msgstr ""
+
+msgctxt "21||guides||table||3||||1"
+msgid "<Action=Upsy_Daisy,Minigame_DandleBaby>"
+msgstr ""
+
+msgctxt "21||guides||table||4||||1"
+msgid "<Action=Rub_Move_Cursor,Minigame_DandleBaby>"
+msgstr ""
+
+msgctxt "21||guides||table||5||||1"
+msgid "<Action=Rub_Show_Cursor,Minigame_DandleBaby>+"
+msgstr ""
+
+msgctxt "21||guides||table||6||||1"
+msgid "<Action=Rub_Show_Cursor,Minigame_DandleBaby>+<Action=Rub_Move_Cursor,Minigame_DandleBaby>"
+msgstr ""
+
+msgctxt "21||guides||table||7||||1"
+msgid "<Action=Confirm,UI>"
+msgstr ""
+
+msgctxt "21||guides||table||8||||1"
+msgid "<Action=Throw_Money,Minigame_OfferityBox>"
+msgstr ""
+
+msgctxt "21||guides||table||9||||1"
+msgid "<Action=Throw_Money_Trigger,Minigame_OfferityBox>+<Action=Throw_Money,Minigame_OfferityBox>"
+msgstr ""
+
+msgctxt "21||guides||table||10||||1"
+msgid "<Action=Mash_Lift,Minigame_Gym_DeadLift>"
+msgstr ""
+
+msgctxt "21||guides||table||11||||1"
+msgid "<Sign:6,Minigame_Gym_LatPulldowns> + <Sign:4,Minigame_Gym_LatPulldowns>"
+msgstr ""
+
+msgctxt "21||guides||table||12||||1"
+msgid "<Action=Squat,Minigame_Gym_Squats>"
+msgstr ""
+

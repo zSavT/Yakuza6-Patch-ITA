@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||level1_1||name"
+msgid "Azure Coast"
+msgstr ""
+
+msgctxt "2||level1_2||name"
+msgid "Sunken Labyrinth"
+msgstr ""
+
+msgctxt "3||level1_3||name"
+msgid "Dragon's Den"
+msgstr ""
+
+msgctxt "1||level1_1||fish0"
+msgid "Jellyfish"
+msgstr ""
+
+msgctxt "2||level1_2||fish0"
+msgid "Jellyfish"
+msgstr ""
+
+msgctxt "3||level1_3||fish0"
+msgid "Jellyfish"
+msgstr ""
+
+msgctxt "1||level1_1||fish1"
+msgid "Great White Shark"
+msgstr ""
+
+msgctxt "2||level1_2||fish1"
+msgid "Great White Shark"
+msgstr ""
+
+msgctxt "3||level1_3||fish1"
+msgid "Great White Shark"
+msgstr ""
+
+msgctxt "1||level1_1||fish2"
+msgid "Devil Scorpionfish"
+msgstr ""
+
+msgctxt "2||level1_2||fish2"
+msgid "Devil Scorpionfish"
+msgstr ""
+
+msgctxt "3||level1_3||fish2"
+msgid "Devil Scorpionfish"
+msgstr ""
+
+msgctxt "1||level1_1||fish3"
+msgid "Japanese Sea Bream"
+msgstr ""
+
+msgctxt "2||level1_2||fish3"
+msgid "Japanese Sea Bream"
+msgstr ""
+
+msgctxt "3||level1_3||fish3"
+msgid "Marlin"
+msgstr ""
+
+msgctxt "1||level1_1||fish4"
+msgid "Thread-sail Filefish"
+msgstr ""
+
+msgctxt "2||level1_2||fish4"
+msgid "Tuna"
+msgstr ""
+
+msgctxt "3||level1_3||fish4"
+msgid "Tuna"
+msgstr ""
+
+msgctxt "1||level1_1||fish5"
+msgid "Goby"
+msgstr ""
+
+msgctxt "2||level1_2||fish5"
+msgid "Blowfish"
+msgstr ""
+
+msgctxt "3||level1_3||fish5"
+msgid "Blowfish"
+msgstr ""
+
+msgctxt "1||level1_1||fish6"
+msgid "Salmon"
+msgstr ""
+
+msgctxt "2||level1_2||fish6"
+msgid "Conger Eel"
+msgstr ""
+
+msgctxt "3||level1_3||fish6"
+msgid "Giant Crab"
+msgstr ""
+
+msgctxt "1||level1_1||fish7"
+msgid "Flounder"
+msgstr ""
+
+msgctxt "2||level1_2||fish7"
+msgid "Tiger Puffer"
+msgstr ""
+
+msgctxt "3||level1_3||fish7"
+msgid "Coelacanth"
+msgstr ""
+
+msgctxt "1||level1_1||fish8"
+msgid "Squid"
+msgstr ""
+
+msgctxt "2||level1_2||fish8"
+msgid "Common Octopus"
+msgstr ""
+
+msgctxt "3||level1_3||fish8"
+msgid "Giant Oarfish"
+msgstr ""
+
+msgctxt "1||level1_1||fish9"
+msgid "Emperor Squid"
+msgstr ""
+
+msgctxt "2||level1_2||fish9"
+msgid "Delicious Octopus"
+msgstr ""
+
+msgctxt "3||level1_3||fish9"
+msgid "Bloody Shark"
+msgstr ""
+

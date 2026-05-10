@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||slot_item_l01||message"
+msgid "Strength"
+msgstr ""
+
+msgctxt "2||slot_item_l02||message"
+msgid "Agility"
+msgstr ""
+
+msgctxt "3||slot_item_l03||message"
+msgid "Spirit"
+msgstr ""
+
+msgctxt "4||slot_item_l04||message"
+msgid "Technique"
+msgstr ""
+
+msgctxt "5||slot_item_l05||message"
+msgid "Charm"
+msgstr ""
+
+msgctxt "10||slot_item_r01||message"
+msgid "60 seconds"
+msgstr ""
+
+msgctxt "11||slot_item_r02||message"
+msgid "90 seconds"
+msgstr ""
+
+msgctxt "12||slot_item_r03||message"
+msgid "120 seconds"
+msgstr ""
+
+msgctxt "13||slot_item_l06||message"
+msgid "All"
+msgstr ""
+
+msgctxt "14||slot_item_l07||message"
+msgid "Attack"
+msgstr ""
+
+msgctxt "15||slot_item_l08||message"
+msgid "Defense"
+msgstr ""
+
+msgctxt "16||slot_item_l09||message"
+msgid "Money"
+msgstr ""
+
+msgctxt "17||slot_item_l10||message"
+msgid "Stamina"
+msgstr ""
+
+msgctxt "18||slot_item_r04||message"
+msgid "150 seconds"
+msgstr ""
+
+msgctxt "19||slot_item_r05||message"
+msgid "180 seconds"
+msgstr ""
+
+msgctxt "20||slot_item_r06||message"
+msgid "210 seconds"
+msgstr ""
+
+msgctxt "21||slot_item_r07||message"
+msgid "240 seconds"
+msgstr ""
+
+msgctxt "22||slot_item_r08||message"
+msgid "270 seconds"
+msgstr ""
+
+msgctxt "23||slot_item_r09||message"
+msgid "300 seconds"
+msgstr ""
+
+msgctxt "24||slot_item_r10||message"
+msgid "300 seconds"
+msgstr ""
+
+msgctxt "1||slot_item_l01||buff_message"
+msgid "Kannon smiles upon you!\r\nYou now earn more Strength EXP than usual."
+msgstr ""
+
+msgctxt "2||slot_item_l02||buff_message"
+msgid "Kannon smiles upon you!\r\nYou now earn more Agility EXP than usual."
+msgstr ""
+
+msgctxt "3||slot_item_l03||buff_message"
+msgid "Kannon smiles upon you!\r\nYou now earn more Spirit EXP than usual."
+msgstr ""
+
+msgctxt "4||slot_item_l04||buff_message"
+msgid "Kannon smiles upon you!\r\nYou now earn more Technique EXP than usual."
+msgstr ""
+
+msgctxt "5||slot_item_l05||buff_message"
+msgid "Kannon smiles upon you!\r\nYou now earn more Charm EXP than usual."
+msgstr ""
+
+msgctxt "10||slot_item_r01||buff_message"
+msgid "This boost will last for 60 seconds."
+msgstr ""
+
+msgctxt "11||slot_item_r02||buff_message"
+msgid "This boost will last for 90 seconds."
+msgstr ""
+
+msgctxt "12||slot_item_r03||buff_message"
+msgid "This boost will last for 120 seconds."
+msgstr ""
+
+msgctxt "13||slot_item_l06||buff_message"
+msgid "Kannon smiles upon you!\r\nYou now earn more EXP than usual."
+msgstr ""
+
+msgctxt "14||slot_item_l07||buff_message"
+msgid "Kannon smiles upon you!\r\nYour attack is now higher than usual."
+msgstr ""
+
+msgctxt "15||slot_item_l08||buff_message"
+msgid "Kannon smiles upon you!\r\nYour defense is now higher than usual."
+msgstr ""
+
+msgctxt "16||slot_item_l09||buff_message"
+msgid "Kannon smiles upon you!\r\nYou now earn more money than usual."
+msgstr ""
+
+msgctxt "17||slot_item_l10||buff_message"
+msgid "Kannon smiles upon you!\r\nYour stamina is now higher than usual."
+msgstr ""
+
+msgctxt "18||slot_item_r04||buff_message"
+msgid "This boost will last for 150 seconds."
+msgstr ""
+
+msgctxt "19||slot_item_r05||buff_message"
+msgid "This boost will last for 180 seconds."
+msgstr ""
+
+msgctxt "20||slot_item_r06||buff_message"
+msgid "This boost will last for 210 seconds."
+msgstr ""
+
+msgctxt "21||slot_item_r07||buff_message"
+msgid "This boost will last for 240 seconds."
+msgstr ""
+
+msgctxt "22||slot_item_r08||buff_message"
+msgid "This boost will last for 270 seconds."
+msgstr ""
+
+msgctxt "23||slot_item_r09||buff_message"
+msgid "This boost will last for 300 seconds."
+msgstr ""
+
+msgctxt "24||slot_item_r10||buff_message"
+msgid "This boost will last for 300 seconds."
+msgstr ""
+

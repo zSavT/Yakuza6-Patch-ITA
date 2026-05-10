@@ -1,0 +1,1957 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "3||i_sample||title"
+msgid "Defeat the Enemies"
+msgstr ""
+
+msgctxt "5||i_test01||title"
+msgid "Defeat the Enemies"
+msgstr ""
+
+msgctxt "14||i_test_pattern01||title"
+msgid "Intercept the Mugger"
+msgstr ""
+
+msgctxt "122||i_haruto_dandle||title"
+msgid "Soothe Haruto"
+msgstr ""
+
+msgctxt "123||i_encount_btl||title"
+msgid "Defend Yourself"
+msgstr ""
+
+msgctxt "124||i_test_encount_boss||title"
+msgid "Defeat the Boss"
+msgstr ""
+
+msgctxt "128||i_09_ikinari_shikaku||title"
+msgid "An Assassin Appears"
+msgstr ""
+
+msgctxt "129||i_11_kami_ga_nai||title"
+msgid "Wiped Out"
+msgstr ""
+
+msgctxt "130||i_25_kuinige||title"
+msgid "Dine and Dash"
+msgstr ""
+
+msgctxt "135||m_adv01_050||title"
+msgid "Calm Down the Kids"
+msgstr ""
+
+msgctxt "136||m_adv01_070||title"
+msgid "Go to Sky Finance"
+msgstr ""
+
+msgctxt "138||m_adv01_086||title"
+msgid "Go to Little Asia"
+msgstr ""
+
+msgctxt "141||m_adv01_150||title"
+msgid "Go to the Children's Park"
+msgstr ""
+
+msgctxt "142||m_adv01_160||title"
+msgid "Get a Bento Set"
+msgstr ""
+
+msgctxt "143||m_adv01_170||title"
+msgid "Head Into the Sewer"
+msgstr ""
+
+msgctxt "144||m_adv01_210||title"
+msgid "Take a Taxi to Touto Hospital"
+msgstr ""
+
+msgctxt "145||m_adv02_010||title"
+msgid "Investigate the Accident"
+msgstr ""
+
+msgctxt "146||m_adv02_060||title"
+msgid "Take a Taxi to Tojo HQ"
+msgstr ""
+
+msgctxt "147||m_adv02_070||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "148||m_adv02_071||title"
+msgid "Hit the Streets"
+msgstr ""
+
+msgctxt "149||m_adv03_010||title"
+msgid "Gather Info"
+msgstr ""
+
+msgctxt "150||m_adv03_050||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "152||m_adv03_110||title"
+msgid "Get Some Milk"
+msgstr ""
+
+msgctxt "153||m_adv03_120||title"
+msgid "Go to the Pharmacy"
+msgstr ""
+
+msgctxt "154||m_adv03_130||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "155||m_adv03_140||title"
+msgid "Go to the Barber Shop"
+msgstr ""
+
+msgctxt "156||m_adv03_160||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "157||m_adv03_180||title"
+msgid "Gather Info"
+msgstr ""
+
+msgctxt "158||m_adv03_190||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "160||m_adv03_250||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "161||m_adv03_270||title"
+msgid "Find Nagumo"
+msgstr ""
+
+msgctxt "162||m_adv03_271||title"
+msgid "Go to the Top of the Hill"
+msgstr ""
+
+msgctxt "163||m_adv04_020||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "164||m_adv04_060||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "165||m_adv04_090||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "166||m_adv04_140||title"
+msgid "Go to Ryunan Shrine"
+msgstr ""
+
+msgctxt "167||m_adv04_210||title"
+msgid "Find Matsunaga"
+msgstr ""
+
+msgctxt "168||m_adv05_010||title"
+msgid "Gather Info"
+msgstr ""
+
+msgctxt "169||m_adv06_040||title"
+msgid "Go to Café Alps"
+msgstr ""
+
+msgctxt "171||m_adv06_120||title"
+msgid "Go to Stardust"
+msgstr ""
+
+msgctxt "172||m_adv06_190||title"
+msgid "Go to the Ouka Building"
+msgstr ""
+
+msgctxt "173||m_adv07_010||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "174||m_adv07_120||title"
+msgid "Go to Little Asia"
+msgstr ""
+
+msgctxt "175||m_adv08_060||title"
+msgid "Go to Shangri-La"
+msgstr ""
+
+msgctxt "176||m_adv09_010||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "177||m_adv09_030||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "179||m_adv09_150||title"
+msgid "Go to Snack Hourglass"
+msgstr ""
+
+msgctxt "180||m_adv09_170||title"
+msgid "Go to Ryunan Shrine"
+msgstr ""
+
+msgctxt "181||m_adv10_030||title"
+msgid "Head After Yuta and the Others"
+msgstr ""
+
+msgctxt "182||m_adv10_050||title"
+msgid "Go to the Dock"
+msgstr ""
+
+msgctxt "183||m_adv11_020||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "184||m_adv11_080||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "186||m_btl01_010||title"
+msgid "Defeat Nagumo"
+msgstr ""
+
+msgctxt "187||m_btl01_020||title"
+msgid "Defeat the Saio Triad Members"
+msgstr ""
+
+msgctxt "188||m_btl01_030||title"
+msgid "Defeat the Saio Triad Members"
+msgstr ""
+
+msgctxt "189||m_btl01_040||title"
+msgid "Defeat Ed"
+msgstr ""
+
+msgctxt "190||m_btl02_010||title"
+msgid "Catch the Suspicious Man"
+msgstr ""
+
+msgctxt "191||m_btl02_020||title"
+msgid "Defeat Akiyama"
+msgstr ""
+
+msgctxt "192||m_btl03_010||title"
+msgid "Defeat Nagumo"
+msgstr ""
+
+msgctxt "193||m_btl03_020||title"
+msgid "Defeat the Drunkard"
+msgstr ""
+
+msgctxt "194||m_btl03_030||title"
+msgid "Defeat the Jingai Thunders"
+msgstr ""
+
+msgctxt "195||m_btl03_040||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "196||m_btl04_010||title"
+msgid "Defeat the Drunk Customers"
+msgstr ""
+
+msgctxt "197||m_btl04_020||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "198||m_btl04_030||title"
+msgid "Defeat Tagashira and Yuta"
+msgstr ""
+
+msgctxt "199||m_btl04_040||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "200||m_btl05_010_01||title"
+msgid "Rescue Kiyomi"
+msgstr ""
+
+msgctxt "201||m_btl05_010_02||title"
+msgid "Rescue Kiyomi"
+msgstr ""
+
+msgctxt "202||m_btl05_010_03||title"
+msgid "Rescue Kiyomi"
+msgstr ""
+
+msgctxt "203||m_btl05_020||title"
+msgid "Chase Someya"
+msgstr ""
+
+msgctxt "204||m_btl05_030||title"
+msgid "Defeat Someya"
+msgstr ""
+
+msgctxt "205||m_btl06_010||title"
+msgid "Defeat the Jingweon Mafia Members"
+msgstr ""
+
+msgctxt "206||m_btl06_020||title"
+msgid "Defeat Joon-gi Han"
+msgstr ""
+
+msgctxt "207||m_btl07_010||title"
+msgid "Defeat the Saio Triad Members"
+msgstr ""
+
+msgctxt "208||m_btl07_020||title"
+msgid "Defeat the Mysterious Assassins"
+msgstr ""
+
+msgctxt "209||m_btl07_030||title"
+msgid "Find Ed"
+msgstr ""
+
+msgctxt "210||m_btl07_040||title"
+msgid "Defeat Ed"
+msgstr ""
+
+msgctxt "211||m_btl08_010||title"
+msgid "Go to Big Lo's Room"
+msgstr ""
+
+msgctxt "212||m_btl08_020||title"
+msgid "Defeat Someya"
+msgstr ""
+
+msgctxt "213||m_btl09_010||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "214||m_btl09_020||title"
+msgid "Chapter Nine"
+msgstr ""
+
+msgctxt "215||m_btl09_030||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "216||m_btl09_040||title"
+msgid "Chapter Nine"
+msgstr ""
+
+msgctxt "217||m_btl09_050||title"
+msgid "Defeat Koshimizu"
+msgstr ""
+
+msgctxt "218||m_btl10_010||title"
+msgid "Defeat the Men in Black"
+msgstr ""
+
+msgctxt "219||m_btl10_020||title"
+msgid "Defeat Joon-gi Han"
+msgstr ""
+
+msgctxt "220||m_btl10_030||title"
+msgid "Take Back Haruto"
+msgstr ""
+
+msgctxt "221||m_btl10_040||title"
+msgid "Take Back Haruto"
+msgstr ""
+
+msgctxt "222||m_btl10_050||title"
+msgid "Defeat Joon-gi Han"
+msgstr ""
+
+msgctxt "223||m_btl11_010||title"
+msgid "Find Yuta"
+msgstr ""
+
+msgctxt "224||m_btl11_020||title"
+msgid "Defeat Ed"
+msgstr ""
+
+msgctxt "225||m_btl11_030||title"
+msgid "Defeat Yuta"
+msgstr ""
+
+msgctxt "226||m_btl12_010||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "227||m_btl12_020||title"
+msgid "Defeat Nagumo"
+msgstr ""
+
+msgctxt "228||m_btl12_030||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "229||m_btl12_050||title"
+msgid "Find the Secret of Onomichi"
+msgstr ""
+
+msgctxt "230||m_btl12_060||title"
+msgid "Find the Secret of Onomichi"
+msgstr ""
+
+msgctxt "231||m_btl12_070||title"
+msgid "Defeat Hirose"
+msgstr ""
+
+msgctxt "232||m_btl13_010||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "233||m_btl13_020||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "234||m_btl13_030||title"
+msgid "Go to the Top Floor"
+msgstr ""
+
+msgctxt "235||m_btl13_040||title"
+msgid "Go to the Top Floor"
+msgstr ""
+
+msgctxt "236||m_btl13_050||title"
+msgid "Defeat Someya"
+msgstr ""
+
+msgctxt "237||m_btl13_060||title"
+msgid "Defeat All Enemies"
+msgstr ""
+
+msgctxt "238||m_btl13_070||title"
+msgid "Defeat Tsuneo Iwami"
+msgstr ""
+
+msgctxt "249||s_SUB_A_01_01||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "250||s_SUB_A_01_02||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "251||s_SUB_A_01_03||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "252||s_SUB_A_01_04||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "253||s_SUB_A_01_05||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "254||s_SUB_A_02_01||title"
+msgid "Hey, It's Me!"
+msgstr ""
+
+msgctxt "255||s_SUB_A_02_02||title"
+msgid "Hey, It's Me!"
+msgstr ""
+
+msgctxt "256||s_SUB_A_02_03||title"
+msgid "Hey, It's Me!"
+msgstr ""
+
+msgctxt "257||s_SUB_A_02_04||title"
+msgid "Hey, It's Me!"
+msgstr ""
+
+msgctxt "259||s_SUB_B_01_01||title"
+msgid "The Fools Who Dream"
+msgstr ""
+
+msgctxt "260||s_SUB_B_01_02||title"
+msgid "The Fools Who Dream"
+msgstr ""
+
+msgctxt "261||s_SUB_B_01_03||title"
+msgid "The Fools Who Dream"
+msgstr ""
+
+msgctxt "262||s_SUB_B_01_04||title"
+msgid "The Fools Who Dream"
+msgstr ""
+
+msgctxt "264||i_01_katsuage_01||title"
+msgid "Mugging"
+msgstr ""
+
+msgctxt "265||i_encboss_k_01||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "266||i_encboss_k_02||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "267||i_encboss_k_03||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "268||i_encboss_k_04||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "269||i_encboss_k_05||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "270||i_encboss_k_06||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "271||i_encboss_k_07||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "272||i_encboss_k_08||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "273||i_encboss_k_max01||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "274||i_encboss_k_max02||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "275||i_encboss_k_max03||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "276||i_encboss_k_max04||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "277||i_encboss_k_max05||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "278||i_encboss_o_01||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "279||i_encboss_o_02||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "280||i_encboss_o_03||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "281||i_encboss_o_04||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "282||i_encboss_o_05||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "283||i_encboss_o_06||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "284||i_encboss_o_07||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "285||i_encboss_o_08||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "286||i_encboss_o_max01||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "287||i_encboss_o_max02||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "288||i_encboss_o_max03||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "289||i_encboss_o_max04||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "290||i_encboss_o_max05||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "291||i_sample_event_encount_01||title"
+msgid "sample_eventencount"
+msgstr ""
+
+msgctxt "292||i_01_event_encount_A01||title"
+msgid "Shake Up the Shakedown Squad"
+msgstr ""
+
+msgctxt "293||i_01_event_encount_A02||title"
+msgid "Shake Up the Shakedown Squad 2"
+msgstr ""
+
+msgctxt "294||i_01_event_encount_A03||title"
+msgid "Shake Up the Shakedown Squad 3"
+msgstr ""
+
+msgctxt "295||i_02_event_encount_A01||title"
+msgid "Menace to the Middle-aged"
+msgstr ""
+
+msgctxt "296||i_02_event_encount_A02||title"
+msgid "Menace to the Middle-aged 2"
+msgstr ""
+
+msgctxt "297||i_02_event_encount_A03||title"
+msgid "Menace to the Middle-aged 3"
+msgstr ""
+
+msgctxt "298||i_03_event_encount_A01||title"
+msgid "In Defense of Chivalry"
+msgstr ""
+
+msgctxt "299||i_03_event_encount_A02||title"
+msgid "In Defense of Chivalry 2"
+msgstr ""
+
+msgctxt "300||i_03_event_encount_A03||title"
+msgid "In Defense of Chivalry 3"
+msgstr ""
+
+msgctxt "301||i_04_event_encount_A01||title"
+msgid "Keeping the Peace"
+msgstr ""
+
+msgctxt "302||i_04_event_encount_A02||title"
+msgid "Keeping the Peace 2"
+msgstr ""
+
+msgctxt "303||i_04_event_encount_A03||title"
+msgid "Keeping the Peace 3"
+msgstr ""
+
+msgctxt "304||i_05_event_encount_A01||title"
+msgid "A Danger to Dating"
+msgstr ""
+
+msgctxt "305||i_05_event_encount_A02||title"
+msgid "A Danger to Dating 2"
+msgstr ""
+
+msgctxt "306||i_05_event_encount_A03||title"
+msgid "A Danger to Dating 3"
+msgstr ""
+
+msgctxt "307||i_10_kyuubyounin||title"
+msgid "An Onomichi Illness"
+msgstr ""
+
+msgctxt "308||i_12_houkama||title"
+msgid "The Flames of Vengeance"
+msgstr ""
+
+msgctxt "309||i_21_hittakuri||title"
+msgid "Rumblings in Onomichi"
+msgstr ""
+
+msgctxt "310||i_33_harapeko||title"
+msgid "Starving"
+msgstr ""
+
+msgctxt "312||s_SUB_A_99_01||title"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "313||s_SUB_A_99_02||title"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "314||s_SUB_A_99_03||title"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "315||m_btl13_030b||title"
+msgid "Go to the Top Floor"
+msgstr ""
+
+msgctxt "316||m_btl13_040b||title"
+msgid "Final Chapter"
+msgstr ""
+
+msgctxt "317||s_SUB_A_19_01||title"
+msgid "Hostess with a Heart of Gold"
+msgstr ""
+
+msgctxt "318||s_SUB_A_19_02||title"
+msgid "Hostess with a Heart of Gold"
+msgstr ""
+
+msgctxt "319||s_SUB_A_17_01||title"
+msgid "Listen to Your Heart"
+msgstr ""
+
+msgctxt "320||s_SUB_A_15_01||title"
+msgid "Face Your Fears"
+msgstr ""
+
+msgctxt "321||s_SUB_A_15_02||title"
+msgid "Face Your Fears"
+msgstr ""
+
+msgctxt "322||m_adv03_070||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "323||m_adv03_200||title"
+msgid "Go to the Ropeway Station"
+msgstr ""
+
+msgctxt "324||m_adv02_072||title"
+msgid "Go to Touto Hospital"
+msgstr ""
+
+msgctxt "325||m_adv05_012||title"
+msgid "Go to the Ropeway Station"
+msgstr ""
+
+msgctxt "326||m_adv06_150||title"
+msgid "Go to Stardust"
+msgstr ""
+
+msgctxt "327||s_SUB_A_21_01||title"
+msgid "A Promise Between Men"
+msgstr ""
+
+msgctxt "328||s_SUB_A_21_02||title"
+msgid "A Promise Between Men"
+msgstr ""
+
+msgctxt "329||i_test_chase||title"
+msgid "Chase Down the Enemy"
+msgstr ""
+
+msgctxt "330||m_btl01_015||title"
+msgid "Defeat the Muggers"
+msgstr ""
+
+msgctxt "331||m_adv11_090||title"
+msgid "Go to the Emergency Exit"
+msgstr ""
+
+msgctxt "332||m_adv11_100||title"
+msgid "Hurry to Little Asia"
+msgstr ""
+
+msgctxt "333||m_adv12_050||title"
+msgid "Go to the Roof"
+msgstr ""
+
+msgctxt "334||m_adv12_100||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "335||m_adv12_150_01||title"
+msgid "Gather Info on the Code"
+msgstr ""
+
+msgctxt "336||m_adv12_150_02||title"
+msgid "Go to the Cemetery"
+msgstr ""
+
+msgctxt "337||m_adv12_160||title"
+msgid "Go to the Dock"
+msgstr ""
+
+msgctxt "338||m_adv13_030||title"
+msgid "Go to the Dock"
+msgstr ""
+
+msgctxt "339||m_adv13_040||title"
+msgid "Hurry to the Hirose Family Office"
+msgstr ""
+
+msgctxt "340||m_adv13_070||title"
+msgid "Final Day in Onomichi"
+msgstr ""
+
+msgctxt "341||m_adv13_090||title"
+msgid "Go to the Police Hospital"
+msgstr ""
+
+msgctxt "342||m_adv13_130||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "343||m_adv13_170||title"
+msgid "Go to the Roof"
+msgstr ""
+
+msgctxt "344||s_SUB_B_13_01||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "345||s_SUB_B_13_02||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "346||s_SUB_B_13_03||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "347||s_SUB_B_13_04||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "348||s_SUB_B_13_05||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "349||m_adv01_085_before||title"
+msgid "Gather Info on Akiyama"
+msgstr ""
+
+msgctxt "350||m_adv01_085_after||title"
+msgid "Gather Info on Akiyama"
+msgstr ""
+
+msgctxt "351||s_SUB_B_15_01||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "352||s_SUB_B_15_02||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "353||s_SUB_B_15_03||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "354||s_SUB_B_15_04||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "355||s_SUB_B_15_05||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "356||s_SUB_B_12_01||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "357||s_SUB_B_12_02||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "358||s_SUB_B_12_03||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "359||s_SUB_B_12_04||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "360||s_SUB_B_12_05||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "361||s_SUB_B_14_01||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "362||s_SUB_B_14_02||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "363||s_SUB_B_14_03||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "364||s_SUB_B_14_04||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "365||s_SUB_B_14_05||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "366||s_SUB_A_13_01||title"
+msgid "The Legendary Paul Lim"
+msgstr ""
+
+msgctxt "367||s_SUB_A_13_02||title"
+msgid "The Legendary Paul Lim"
+msgstr ""
+
+msgctxt "369||s_SUB_A_20_01||title"
+msgid "Step Up to the Plate"
+msgstr ""
+
+msgctxt "370||s_SUB_A_20_02||title"
+msgid "Step Up to the Plate"
+msgstr ""
+
+msgctxt "371||s_SUB_B_11_01||title"
+msgid "Assemble the Team"
+msgstr ""
+
+msgctxt "374||s_SUB_B_11_04||title"
+msgid "Assemble the Team"
+msgstr ""
+
+msgctxt "375||i_13_tourima||title"
+msgid "The Slasher Appears"
+msgstr ""
+
+msgctxt "376||i_14_kaji||title"
+msgid "Put Out the Fire"
+msgstr ""
+
+msgctxt "381||i_22_suri||title"
+msgid "Pickpocket"
+msgstr ""
+
+msgctxt "382||i_23_manbiki||title"
+msgid "A Shoplifter Appears"
+msgstr ""
+
+msgctxt "383||i_24_goutou||title"
+msgid "A Thief Appears"
+msgstr ""
+
+msgctxt "384||i_27_twitter||title"
+msgid "An Explosive End"
+msgstr ""
+
+msgctxt "385||i_28_yokoku||title"
+msgid "An Explosive Game"
+msgstr ""
+
+msgctxt "386||i_29_sos||title"
+msgid "SOS"
+msgstr ""
+
+msgctxt "387||i_30_clan||title"
+msgid "Defeat the Enemy Team!"
+msgstr ""
+
+msgctxt "388||i_31_yopparai||title"
+msgid "A Sauced-up Sod"
+msgstr ""
+
+msgctxt "389||i_32_deliver||title"
+msgid "Delivery"
+msgstr ""
+
+msgctxt "390||i_34_rakugaki||title"
+msgid "Graffiti Suspicion"
+msgstr ""
+
+msgctxt "391||i_38_toritetsu||title"
+msgid "Railway Enthusiast"
+msgstr ""
+
+msgctxt "392||i_39_seafood||title"
+msgid "Freshly Caught Fish"
+msgstr ""
+
+msgctxt "393||i_40_tombraider||title"
+msgid "Graveyard Man"
+msgstr ""
+
+msgctxt "394||i_41_missing||title"
+msgid "Lost and Found"
+msgstr ""
+
+msgctxt "395||i_46_fire||title"
+msgid "Building Fire"
+msgstr ""
+
+msgctxt "396||i_47_tsutsumotase||title"
+msgid "Beware the Beauty"
+msgstr ""
+
+msgctxt "397||i_48_spam||title"
+msgid "Suspicions"
+msgstr ""
+
+msgctxt "398||s_SUB_A_03_01||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "399||s_SUB_A_03_02||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "400||s_SUB_A_03_03||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "401||s_SUB_A_03_04||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "402||s_SUB_A_03_05||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "403||s_SUB_A_03_06||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "404||s_SUB_A_03_07||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "405||s_SUB_A_04_01||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "406||s_SUB_A_04_02||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "407||s_SUB_A_04_03||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "408||s_SUB_A_04_04||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "409||s_SUB_A_05_01||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "410||s_SUB_A_05_02||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "411||s_SUB_A_05_03||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "412||s_SUB_A_05_04||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "413||s_SUB_A_05_05||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "414||s_SUB_A_05_06||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "415||s_SUB_A_06_01||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "416||s_SUB_A_06_02||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "417||s_SUB_A_06_03||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "418||s_SUB_A_06_04||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "419||s_SUB_A_06_05||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "420||s_SUB_A_06_06||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "421||s_SUB_A_07_01||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "422||s_SUB_A_07_02||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "423||s_SUB_A_07_03||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "424||s_SUB_A_07_04||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "425||s_SUB_A_07_05||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "426||s_SUB_A_07_06||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "427||s_SUB_A_08_01||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "428||s_SUB_A_08_02||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "429||s_SUB_A_08_03||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "430||s_SUB_A_08_04||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "431||s_SUB_A_08_05||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "434||s_SUB_A_09_01||title"
+msgid "A Rivalry Reborn"
+msgstr ""
+
+msgctxt "435||s_SUB_A_09_02||title"
+msgid "A Rivalry Reborn"
+msgstr ""
+
+msgctxt "436||s_SUB_A_09_03||title"
+msgid "A Rivalry Reborn"
+msgstr ""
+
+msgctxt "437||s_SUB_A_11_01||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "438||s_SUB_A_11_02||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "439||s_SUB_A_11_03||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "440||s_SUB_A_11_04||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "441||s_SUB_A_12_01||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "442||s_SUB_A_12_02||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "443||s_SUB_A_12_03||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "444||s_SUB_A_12_04||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "445||s_SUB_A_12_05||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "446||s_SUB_A_16_01||title"
+msgid "A Shady Business"
+msgstr ""
+
+msgctxt "447||s_SUB_A_16_02||title"
+msgid "A Shady Business"
+msgstr ""
+
+msgctxt "448||s_SUB_A_16_03||title"
+msgid "A Shady Business"
+msgstr ""
+
+msgctxt "449||s_SUB_A_18_01||title"
+msgid "Caught in a Love Triangle"
+msgstr ""
+
+msgctxt "450||s_SUB_A_24_01||title"
+msgid "The Temptation of Live Chat"
+msgstr ""
+
+msgctxt "451||s_SUB_A_26_01||title"
+msgid "A Man Rises Up"
+msgstr ""
+
+msgctxt "452||s_SUB_A_26_02||title"
+msgid "A Man Rises Up"
+msgstr ""
+
+msgctxt "453||c_CLN01_01||title"
+msgid "Vs. Muggers"
+msgstr ""
+
+msgctxt "454||c_CLN02_01||title"
+msgid "Vs. JUSTIS Thugs"
+msgstr ""
+
+msgctxt "455||c_CLN02_02||title"
+msgid "Save Sachiko"
+msgstr ""
+
+msgctxt "456||c_CLN05_01||title"
+msgid "Vs. Lunatic Yano"
+msgstr ""
+
+msgctxt "457||c_CLN07_01||title"
+msgid "Vs. Lunatic Naito"
+msgstr ""
+
+msgctxt "458||c_CLN11_01||title"
+msgid "Vs. The TenCozy Tag Team"
+msgstr ""
+
+msgctxt "459||c_CLN13_01||title"
+msgid "Vs. Lunatic Tanahashi"
+msgstr ""
+
+msgctxt "460||c_CLN15_01||title"
+msgid "Vs. Rainmaker"
+msgstr ""
+
+msgctxt "461||c_CLN16_01||title"
+msgid "Vs. Satsuki"
+msgstr ""
+
+msgctxt "462||s_SUB_B_02_01||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "463||s_SUB_B_02_02||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "464||s_SUB_B_02_03||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "465||s_SUB_B_02_04||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "466||s_SUB_B_02_05||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "467||s_SUB_B_03_01||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "468||s_SUB_B_03_02||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "469||s_SUB_B_03_03||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "470||s_SUB_B_03_04||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "471||s_SUB_B_03_05||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "473||s_SUB_B_04_01||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "474||s_SUB_B_04_02||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "475||s_SUB_B_04_03||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "476||s_SUB_B_04_04||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "477||s_SUB_B_04_05||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "478||s_SUB_B_04_06||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "479||s_SUB_B_04_07||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "480||s_SUB_B_04_08||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "481||s_SUB_B_04_09||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "482||s_SUB_B_04_10||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "483||s_SUB_B_05_01||title"
+msgid "Oh No! It's Ono Michio!"
+msgstr ""
+
+msgctxt "484||s_SUB_B_05_02||title"
+msgid "Oh No! It's Ono Michio!"
+msgstr ""
+
+msgctxt "485||s_SUB_B_05_03||title"
+msgid "Oh No! It's Ono Michio!"
+msgstr ""
+
+msgctxt "486||s_SUB_B_06_01||title"
+msgid "The Ono Michio Show"
+msgstr ""
+
+msgctxt "487||s_SUB_B_06_02||title"
+msgid "The Ono Michio Show"
+msgstr ""
+
+msgctxt "488||s_SUB_B_07_01||title"
+msgid "Putting on a Brave Face"
+msgstr ""
+
+msgctxt "489||s_SUB_B_07_02||title"
+msgid "Putting on a Brave Face"
+msgstr ""
+
+msgctxt "490||s_SUB_B_07_03||title"
+msgid "Putting on a Brave Face"
+msgstr ""
+
+msgctxt "491||s_SUB_B_07_04||title"
+msgid "Putting on a Brave Face"
+msgstr ""
+
+msgctxt "492||s_SUB_B_08_01||title"
+msgid "The Girl Who Leapt Through Time?"
+msgstr ""
+
+msgctxt "493||s_SUB_B_08_02||title"
+msgid "The Girl Who Leapt Through Time?"
+msgstr ""
+
+msgctxt "494||s_SUB_B_08_03||title"
+msgid "The Girl Who Leapt Through Time?"
+msgstr ""
+
+msgctxt "495||s_SUB_B_08_04||title"
+msgid "The Girl Who Leapt Through Time?"
+msgstr ""
+
+msgctxt "496||s_SUB_B_09_01||title"
+msgid "A Freaky Situation"
+msgstr ""
+
+msgctxt "497||s_SUB_B_09_02||title"
+msgid "A Freaky Situation"
+msgstr ""
+
+msgctxt "498||s_SUB_B_09_03||title"
+msgid "A Freaky Situation"
+msgstr ""
+
+msgctxt "499||s_SUB_B_17_01||title"
+msgid "What's the Matter with Kids Today?"
+msgstr ""
+
+msgctxt "500||s_SUB_B_17_02||title"
+msgid "What's the Matter with Kids Today?"
+msgstr ""
+
+msgctxt "501||s_SUB_B_17_03||title"
+msgid "What's the Matter with Kids Today?"
+msgstr ""
+
+msgctxt "502||s_SUB_B_18_01||title"
+msgid "Powerful Memories"
+msgstr ""
+
+msgctxt "503||s_SUB_B_18_02||title"
+msgid "Powerful Memories"
+msgstr ""
+
+msgctxt "504||s_SUB_B_18_03||title"
+msgid "Powerful Memories"
+msgstr ""
+
+msgctxt "505||s_SUB_B_19_01||title"
+msgid "Tech Support"
+msgstr ""
+
+msgctxt "506||s_SUB_B_19_02||title"
+msgid "Tech Support"
+msgstr ""
+
+msgctxt "507||s_SUB_B_19_03||title"
+msgid "Tech Support"
+msgstr ""
+
+msgctxt "508||s_SUB_B_19_04||title"
+msgid "Tech Support"
+msgstr ""
+
+msgctxt "509||s_SUB_B_20_01||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "510||s_SUB_B_20_02||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "511||s_SUB_B_20_03||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "512||s_SUB_B_20_04||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "513||s_SUB_B_20_05||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "514||s_SUB_B_20_06||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "515||s_SUB_B_21_01||title"
+msgid "Kaneko's Resolve"
+msgstr ""
+
+msgctxt "516||s_SUB_B_21_02||title"
+msgid "Kaneko's Resolve"
+msgstr ""
+
+msgctxt "517||s_SUB_B_21_03||title"
+msgid "Kaneko's Resolve"
+msgstr ""
+
+msgctxt "518||s_SUB_B_22_01||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "519||s_SUB_B_22_02||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "520||s_SUB_B_22_03||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "521||s_SUB_B_22_04||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "522||s_SUB_B_22_05||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "523||s_SUB_B_22_06||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "525||s_SUB_B_22_08||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "526||s_SUB_B_22_09||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "527||s_SUB_B_23_01||title"
+msgid "The Old Man and the Sea"
+msgstr ""
+
+msgctxt "528||s_SUB_B_23_02||title"
+msgid "The Old Man and the Sea"
+msgstr ""
+
+msgctxt "529||s_SUB_B_23_03||title"
+msgid "The Old Man and the Sea"
+msgstr ""
+
+msgctxt "530||s_SUB_B_24_01||title"
+msgid "World's Best Octopus"
+msgstr ""
+
+msgctxt "531||s_SUB_B_25_01||title"
+msgid "Deep Blue Sea"
+msgstr ""
+
+msgctxt "532||s_SUB_B_26_01||title"
+msgid "Crisis Management Professional"
+msgstr ""
+
+msgctxt "533||s_SUB_B_26_02||title"
+msgid "Crisis Management Professional"
+msgstr ""
+
+msgctxt "534||s_SUB_B_26_03||title"
+msgid "Crisis Management Professional"
+msgstr ""
+
+msgctxt "535||s_SUB_B_27_01||title"
+msgid "The Joys of Adulthood"
+msgstr ""
+
+msgctxt "536||i_sample_talk||title"
+msgid "sample_conversation"
+msgstr ""
+
+msgctxt "537||m_adv11_040||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "540||m_adv01_120_before||title"
+msgid "Go to Sky Finance"
+msgstr ""
+
+msgctxt "541||m_adv01_120_after||title"
+msgid "Go to Sky Finance"
+msgstr ""
+
+msgctxt "542||m_adv03_150||title"
+msgid "Go to the Barber Shop"
+msgstr ""
+
+msgctxt "543||i_harutobtl_c03_a||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "544||i_42_falling||title"
+msgid "On the Edge: Onomichi"
+msgstr ""
+
+msgctxt "545||c_CLN31_01||title"
+msgid "Vs. Tamotsu"
+msgstr ""
+
+msgctxt "546||c_CLN31_02||title"
+msgid "Vs. Yasu"
+msgstr ""
+
+msgctxt "547||c_CLN31_03||title"
+msgid "Vs. Dobashi"
+msgstr ""
+
+msgctxt "548||c_CLN31_04||title"
+msgid "Vs. Tanogami"
+msgstr ""
+
+msgctxt "549||c_CLN31_05||title"
+msgid "Vs. Nogami"
+msgstr ""
+
+msgctxt "550||c_CLN31_06||title"
+msgid "Vs. Samurai"
+msgstr ""
+
+msgctxt "551||c_CLN31_07||title"
+msgid "Vs. Obara"
+msgstr ""
+
+msgctxt "552||c_CLN31_08||title"
+msgid "Vs. Jono"
+msgstr ""
+
+msgctxt "553||c_CLN31_09||title"
+msgid "Vs. Fujitake"
+msgstr ""
+
+msgctxt "554||c_CLN31_10||title"
+msgid "Vs. Hashimoto"
+msgstr ""
+
+msgctxt "555||m_adv04_080||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "556||m_adv04_160||title"
+msgid "Go to Ryunan Shrine"
+msgstr ""
+
+msgctxt "557||m_adv04_170||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "558||m_adv04_240||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "559||i_10_kyuubyounin_k00||title"
+msgid "Queasy in Kamurocho"
+msgstr ""
+
+msgctxt "560||i_42_falling_k00||title"
+msgid "On the Edge: Kamurocho"
+msgstr ""
+
+msgctxt "561||m_adv06_020||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "562||m_adv06_060||title"
+msgid "Go to Stardust"
+msgstr ""
+
+msgctxt "563||m_adv07_020||title"
+msgid "Go to the Sewer"
+msgstr ""
+
+msgctxt "564||m_adv07_050||title"
+msgid "Go to the APA Hotel"
+msgstr ""
+
+msgctxt "565||m_adv07_080||title"
+msgid "Go to the APA Hotel 6th Floor"
+msgstr ""
+
+msgctxt "566||m_adv07_100||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "567||m_adv07_060||title"
+msgid "Shake Off the Pursuers"
+msgstr ""
+
+msgctxt "568||m_adv07_130||title"
+msgid "Follow Akiyama"
+msgstr ""
+
+msgctxt "569||m_adv08_030||title"
+msgid "Prepare to Meet Big Lo"
+msgstr ""
+
+msgctxt "570||m_adv09_020||title"
+msgid "Return to Onomichi"
+msgstr ""
+
+msgctxt "571||m_adv09_040||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "572||i_harutobtl_c03_b||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "573||i_harutobtl_c03_c||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "574||i_harutobtl_c03_d||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "575||i_harutobtl_c03_e||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "576||i_harutobtl_c03_f||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "577||m_adv09_080||title"
+msgid "Find Hirose"
+msgstr ""
+
+msgctxt "578||m_adv09_120||title"
+msgid "Find Hirose"
+msgstr ""
+
+msgctxt "579||m_adv10_031||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "580||m_adv09_130||title"
+msgid "Investigate Hirose's Room"
+msgstr ""
+
+msgctxt "581||m_adv09_131||title"
+msgid "Go to Snack Hourglass"
+msgstr ""
+
+msgctxt "582||m_adv13_200||title"
+msgid "Final Night in Kamurocho"
+msgstr ""
+
+msgctxt "583||s_SUB_A_16_04||title"
+msgid "A Shady Business"
+msgstr ""
+
+msgctxt "584||s_SUB_A_25_01||title"
+msgid "We're Committed to Results"
+msgstr ""
+
+msgctxt "585||m_adv11_070||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "587||i_35_suri||title"
+msgid "Pocket Protector"
+msgstr ""
+
+msgctxt "588||s_SUB_A_14_01||title"
+msgid "Showdown with Paul Lim"
+msgstr ""
+
+msgctxt "589||s_SUB_B_16_01||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "590||s_SUB_B_16_02||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "591||s_SUB_B_16_03||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "592||s_SUB_B_16_04||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "593||s_SUB_B_16_05||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "594||i_36_hakaarashi||title"
+msgid "A Grave Incident"
+msgstr ""
+
+msgctxt "595||i_17_ramen||title"
+msgid "In Hot Water"
+msgstr ""
+
+msgctxt "596||s_SUB_A_15_03||title"
+msgid "Face Your Fears"
+msgstr ""
+
+msgctxt "597||s_SUB_A_18_02||title"
+msgid "Caught in a Love Triangle"
+msgstr ""
+
+msgctxt "598||s_SUB_A_19_03||title"
+msgid "Hostess with a Heart of Gold"
+msgstr ""
+
+msgctxt "599||s_SUB_A_05_07||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "600||s_SUB_A_04_05||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "601||i_harutobtl_c04_a||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "602||i_harutobtl_c04_b||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "603||i_harutobtl_c04_c||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "604||i_harutobtl_c04_d||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "605||i_harutobtl_c04_e||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "606||i_harutobtl_c04_f||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "607||i_harutobtl_c04_g||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "608||s_SUB_A_06_03_02||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "609||s_SUB_A_14_02||title"
+msgid "Showdown with Paul Lim"
+msgstr ""
+
+msgctxt "610||i_tm18_houkama_k01||title"
+msgid "The Flames of Justice"
+msgstr ""
+
+msgctxt "611||i_tm19_kaji_k02||title"
+msgid "Kamurocho Alight"
+msgstr ""
+
+msgctxt "612||i_tm20_kaji_k03||title"
+msgid "Kamurocho Alight 2"
+msgstr ""
+
+msgctxt "613||i_tm21_kaji_k04||title"
+msgid "Kamurocho Alight 3"
+msgstr ""
+
+msgctxt "614||i_tm22_kaji_k05||title"
+msgid "Turn Down the Burndown"
+msgstr ""
+
+msgctxt "615||i_tm24_kaji_o02||title"
+msgid "Onomichi Alight"
+msgstr ""
+
+msgctxt "616||i_tm25_kaji_o03||title"
+msgid "Onomichi Alight 2"
+msgstr ""
+
+msgctxt "617||i_tm26_kaji_o04||title"
+msgid "Onomichi Alight 3"
+msgstr ""
+
+msgctxt "618||i_tm27_kaji_o05||title"
+msgid "Fuel to the Fire"
+msgstr ""
+
+msgctxt "619||c_CLN02_03||title"
+msgid "Vs. JUSTIS"
+msgstr ""
+
+msgctxt "620||m_adv12_080||title"
+msgid "Return to Onomichi"
+msgstr ""
+
+msgctxt "621||s_SUB_A_23_01||title"
+msgid "Look What the Dragon Dragged In"
+msgstr ""
+
+msgctxt "623||m_adv12_115||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "624||i_tm35_hankouyokoku||title"
+msgid "An Explosive Game"
+msgstr ""
+
+msgctxt "625||i_tm32_hankouyokoku2||title"
+msgid "An Explosive End"
+msgstr ""
+
+msgctxt "626||m_adv12_030||title"
+msgid "Talk to Big Lo"
+msgstr ""
+
+msgctxt "627||i_tm22_kaji_k05_02||title"
+msgid "The Flames of Justice"
+msgstr ""
+
+msgctxt "628||m_adv04_180||title"
+msgid "Talk to Matsunaga"
+msgstr ""
+
+msgctxt "629||s_SUB_A_26_03||title"
+msgid "A Man Rises Up"
+msgstr ""
+
+msgctxt "630||i_tm27_kaji_o05_02||title"
+msgid "The Flames of Vengeance"
+msgstr ""
+
+msgctxt "631||s_SUB_A_25_02||title"
+msgid "We're Committed to Results"
+msgstr ""
+
+msgctxt "632||s_SUB_A_25_03||title"
+msgid "We're Committed to Results"
+msgstr ""
+
+msgctxt "633||m_adv07_045||title"
+msgid "Wait for Akiyama's Call"
+msgstr ""
+
+msgctxt "634||m_btl05_010_04||title"
+msgid "Find Someya"
+msgstr ""
+
+msgctxt "636||m_btl07_030_2||title"
+msgid "Defeat the Saio Triad Members"
+msgstr ""
+
+msgctxt "637||m_btl07_030_3||title"
+msgid "Go to Ed's Room"
+msgstr ""
+
+msgctxt "638||m_btl12_060b_01||title"
+msgid "Find the Secret of Onomichi"
+msgstr ""
+
+msgctxt "639||m_btl12_060b_02||title"
+msgid "Find the Secret of Onomichi"
+msgstr ""
+
+msgctxt "640||s_SUB_A_11_001||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "641||m_adv07_141||title"
+msgid "Go to the Roof"
+msgstr ""
+
+msgctxt "642||m_adv09_070||title"
+msgid "Find Hirose"
+msgstr ""
+
+msgctxt "643||m_btl11_025||title"
+msgid "Find Yuta"
+msgstr ""
+
+msgctxt "644||s_SUB_A_18_00||title"
+msgid "Caught in a Love Triangle"
+msgstr ""
+
+msgctxt "645||s_SUB_A_03_08||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "646||s_SUB_B_24_02||title"
+msgid "World's Best Octopus"
+msgstr ""
+
+msgctxt "647||s_SUB_B_25_02||title"
+msgid "Deep Blue Sea"
+msgstr ""
+
+msgctxt "648||s_SUB_A_20_03||title"
+msgid "Step Up to the Plate"
+msgstr ""
+
+msgctxt "649||s_SUB_A_21_03||title"
+msgid "A Promise Between Men"
+msgstr ""
+
