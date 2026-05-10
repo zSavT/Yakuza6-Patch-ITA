@@ -9,33 +9,33 @@ msgstr ""
 
 msgctxt "1||hit_point||name"
 msgid "Health"
-msgstr ""
+msgstr "Salute"
 
 msgctxt "2||attack||name"
 msgid "Attack"
-msgstr ""
+msgstr "Attacco"
 
 msgctxt "3||heat_gauge||name"
 msgid "Heat Gauge"
-msgstr ""
+msgstr "Barra Furore"
 
 msgctxt "4||agility||name"
 msgid "Evasion"
-msgstr ""
+msgstr "Schivata"
 
 msgctxt "5||defense||name"
 msgid "Defense"
-msgstr ""
+msgstr "Difesa"
 
 msgctxt "6||resist_sword||name"
 msgid "Blade Resistance"
-msgstr ""
+msgstr "Resistenza alle lame"
 
 msgctxt "7||resist_gun||name"
 msgid "Gun Resistance"
-msgstr ""
+msgstr "Resistenza alle armi da fuoco"
 
 msgctxt "8||stamina||name"
 msgid "Stamina"
-msgstr ""
+msgstr "Resistenza"
 
