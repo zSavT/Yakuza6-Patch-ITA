@@ -21,8 +21,8 @@ jobs:
         run: |
           set -eu
 
-          ORIGINAL_DIR="File Patch\Originali"
-          TRANSLATED_DIR="File Patch\Tradotti"
+          ORIGINAL_DIR="File Patch/Originali"
+          TRANSLATED_DIR="File Patch/Tradotti"
           error_found=0
 
           # Verifica che le directory esistano prima di iniziare
