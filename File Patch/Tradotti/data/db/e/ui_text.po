@@ -9,3393 +9,3392 @@ msgstr ""
 
 msgctxt "0||||text"
 msgid "Current EXP"
-msgstr ""
+msgstr "EXP attuale"
 
 msgctxt "1||||text"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Riduci zoom"
 
 msgctxt "2||||text"
 msgid "Zoom In"
-msgstr ""
+msgstr "Ingrandisci zoom"
 
 msgctxt "3||||text"
 msgid "Apply Filter"
-msgstr ""
+msgstr "Applica filtro"
 
 msgctxt "4||||text"
 msgid "Exit"
-msgstr ""
+msgstr "Esci"
 
 msgctxt "5||||text"
 msgid "Apply Filter"
-msgstr ""
+msgstr "Applica filtro"
 
 msgctxt "6||||text"
 msgid "Exit"
-msgstr ""
+msgstr "Esci"
 
 msgctxt "7||||text"
 msgid "Expression"
-msgstr ""
+msgstr "Espressione"
 
 msgctxt "8||||text"
 msgid "Filter:"
-msgstr ""
+msgstr "Filtro:"
 
 msgctxt "9||||text"
 msgid "Saving"
-msgstr ""
+msgstr "Salvataggio"
 
 msgctxt "10||||text"
 msgid "Grab"
-msgstr ""
+msgstr "Afferra"
 
 msgctxt "11||||text"
 msgid "Skip"
-msgstr ""
+msgstr "Salta"
 
 msgctxt "12||||text"
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 msgctxt "13||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "14||||text"
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 msgctxt "15||||text"
 msgid "Send Sticker"
-msgstr ""
+msgstr "Invia sticker"
 
 msgctxt "16||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "17||||text"
 msgid "Send"
-msgstr ""
+msgstr "Invia"
 
 msgctxt "18||||text"
 msgid "Kazuma Kiryu"
-msgstr ""
+msgstr "Kazuma Kiryu"
 
 msgctxt "19||||text"
 msgid "Start Trouble Mission"
-msgstr ""
+msgstr "Avvia missione SOS"
 
 msgctxt "20||||text"
 msgid "Trouble Mission In Progress"
-msgstr ""
+msgstr "Missione SOS in corso"
 
 msgctxt "21||||text"
 msgid "Cancel Trouble Mission"
-msgstr ""
+msgstr "Annulla missione SOS"
 
 msgctxt "22||||text"
 msgid "Send"
-msgstr ""
+msgstr "Invia"
 
 msgctxt "23||||text"
 msgid "Grab"
-msgstr ""
+msgstr "Afferra"
 
 msgctxt "24||||text"
 msgid "Skip"
-msgstr ""
+msgstr "Salta"
 
 msgctxt "25||||text"
 msgid "Resume"
-msgstr ""
+msgstr "Riprendi"
 
 msgctxt "26||||text"
 msgid "Pause"
-msgstr ""
+msgstr "Pausa"
 
 msgctxt "27||||text"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "28||||text"
 msgid "Move Cursor"
-msgstr ""
+msgstr "Muovi cursore"
 
 msgctxt "29||||text"
 msgid "Swing"
-msgstr ""
+msgstr "Colpisci"
 
 msgctxt "30||||text"
 msgid "1B"
-msgstr ""
+msgstr "1B"
 
 msgctxt "31||||text"
 msgid "2B"
-msgstr ""
+msgstr "2B"
 
 msgctxt "32||||text"
 msgid "3B"
-msgstr ""
+msgstr "3B"
 
 msgctxt "33||||text"
 msgid "Speed"
-msgstr ""
+msgstr "Velocità"
 
 msgctxt "34||||text"
 msgid "Start a Game"
-msgstr ""
+msgstr "Inizia partita"
 
 msgctxt "35||||text"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "36||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "37||||text"
 msgid "Victory"
-msgstr ""
+msgstr "Vittoria"
 
 msgctxt "38||||text"
 msgid "Bonus"
-msgstr ""
+msgstr "Bonus"
 
 msgctxt "39||||text"
 msgid "First Time Bonus: +"
-msgstr ""
+msgstr "Bonus prima volta: +"
 
 msgctxt "40||||text"
 msgid "Training Tickets:"
-msgstr ""
+msgstr "Ticket allenamento:"
 
 msgctxt "41||||text"
 msgid "Training Tickets:"
-msgstr ""
+msgstr "Ticket allenamento:"
 
 msgctxt "42||||text"
 msgid "x"
-msgstr ""
+msgstr "x"
 
 msgctxt "43||||text"
 msgid "Results"
-msgstr ""
+msgstr "Risultati"
 
 msgctxt "44||||text"
 msgid "Fielders"
-msgstr ""
+msgstr "Difensori"
 
 msgctxt "45||||text"
 msgid "Total AVG"
-msgstr ""
+msgstr "AVG Totale"
 
 msgctxt "46||||text"
 msgid "Total HR"
-msgstr ""
+msgstr "HR Totali"
 
 msgctxt "47||||text"
 msgid "AB"
-msgstr ""
+msgstr "AB"
 
 msgctxt "48||||text"
 msgid "H"
-msgstr ""
+msgstr "H"
 
 msgctxt "49||||text"
 msgid "RBI"
-msgstr ""
+msgstr "RBI"
 
 msgctxt "50||||text"
 msgid "K"
-msgstr ""
+msgstr "K"
 
 msgctxt "51||||text"
 msgid "AVG"
-msgstr ""
+msgstr "AVG"
 
 msgctxt "52||||text"
 msgid "HR"
-msgstr ""
+msgstr "HR"
 
 msgctxt "53||||text"
 msgid "EXP"
-msgstr ""
+msgstr "EXP"
 
 msgctxt "54||||text"
 msgid "Level Up"
-msgstr ""
+msgstr "Aumento di livello"
 
 msgctxt "55||||text"
 msgid "Pitchers"
-msgstr ""
+msgstr "Lanciatori"
 
 msgctxt "56||||text"
 msgid "ERA"
-msgstr ""
+msgstr "ERA"
 
 msgctxt "57||||text"
 msgid "Wins"
-msgstr ""
+msgstr "Vittorie"
 
 msgctxt "58||||text"
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 msgctxt "59||||text"
 msgid "H"
-msgstr ""
+msgstr "H"
 
 msgctxt "60||||text"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 msgctxt "61||||text"
 msgid "K"
-msgstr ""
+msgstr "K"
 
 msgctxt "62||||text"
 msgid "BB"
-msgstr ""
+msgstr "BB"
 
 msgctxt "63||||text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 msgctxt "64||||text"
 msgid "EXP"
-msgstr ""
+msgstr "EXP"
 
 msgctxt "65||||text"
 msgid "Level Up"
-msgstr ""
+msgstr "Aumento di livello"
 
 msgctxt "66||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "67||||text"
 msgid "View Details"
-msgstr ""
+msgstr "Vedi dettagli"
 
 msgctxt "68||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "69||||text"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 msgctxt "70||||text"
 msgid "Contact"
-msgstr ""
+msgstr "Contatto"
 
 msgctxt "71||||text"
 msgid "Power"
-msgstr ""
+msgstr "Potenza"
 
 msgctxt "72||||text"
 msgid "Speed"
-msgstr ""
+msgstr "Velocità"
 
 msgctxt "73||||text"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "74||||text"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 msgctxt "75||||text"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "76||||text"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "77||||text"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "78||||text"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "79||||text"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "80||||text"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "81||||text"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "82||||text"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "83||||text"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "84||||text"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 msgctxt "85||||text"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "86||||text"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "87||||text"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "88||||text"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "89||||text"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "90||||text"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "91||||text"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "92||||text"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "93||||text"
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 msgctxt "94||||text"
 msgid "Fast"
-msgstr ""
+msgstr "Veloce"
 
 msgctxt "95||||text"
 msgid "Substitute"
-msgstr ""
+msgstr "Sostituisci"
 
 msgctxt "96||||text"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "97||||text"
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 msgctxt "98||||text"
 msgid "Fast"
-msgstr ""
+msgstr "Veloce"
 
 msgctxt "99||||text"
 msgid "Velocity"
-msgstr ""
+msgstr "Rapidità"
 
 msgctxt "100||||text"
 msgid "Control"
-msgstr ""
+msgstr "Controllo"
 
 msgctxt "101||||text"
 msgid "Curve"
-msgstr ""
+msgstr "Effetto"
 
 msgctxt "102||||text"
 msgid "Train"
-msgstr ""
+msgstr "Allena"
 
 msgctxt "103||||text"
 msgid "Setouchi Warriors"
-msgstr ""
+msgstr "Setouchi Warriors"
 
 msgctxt "104||||text"
 msgid "Team Menu"
-msgstr ""
+msgstr "Menu squadra"
 
 msgctxt "105||||text"
 msgid "Start a Game"
-msgstr ""
+msgstr "Inizia partita"
 
 msgctxt "106||||text"
 msgid "Train"
-msgstr ""
+msgstr "Allena"
 
 msgctxt "107||||text"
 msgid "Manage Roster"
-msgstr ""
+msgstr "Gestisci formazioni"
 
 msgctxt "108||||text"
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 
 msgctxt "109||||text"
 msgid "Bench"
-msgstr ""
+msgstr "Panchina"
 
 msgctxt "110||||text"
 msgid "Bullpen"
-msgstr ""
+msgstr "Bullpen"
 
 msgctxt "111||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "112||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "113||||text"
 msgid "Starting Lineup"
-msgstr ""
+msgstr "Formazione titolare"
 
 msgctxt "114||||text"
 msgid "x"
-msgstr ""
+msgstr "x"
 
 msgctxt "115||||text"
 msgid "Tickets:"
-msgstr ""
+msgstr "Ticket:"
 
 msgctxt "116||||text"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgctxt "117||||text"
 msgid "O"
-msgstr ""
+msgstr "O"
 
 msgctxt "118||||text"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 msgctxt "119||||text"
 msgid "Substitute"
-msgstr ""
+msgstr "Sostituisci"
 
 msgctxt "120||||text"
 msgid "Substitute"
-msgstr ""
+msgstr "Sostituisci"
 
 msgctxt "121||||text"
 msgid "Fast"
-msgstr ""
+msgstr "Veloce"
 
 msgctxt "122||||text"
 msgid "Interventions"
-msgstr ""
+msgstr "Interventi"
 
 msgctxt "123||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "124||||text"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "125||||text"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "126||||text"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "127||||text"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "128||||text"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "129||||text"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "130||||text"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "131||||text"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "132||||text"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "133||||text"
 msgid "Pitches"
-msgstr ""
+msgstr "Lanci"
 
 msgctxt "134||||text"
 msgid "AVG"
-msgstr ""
+msgstr "AVG"
 
 msgctxt "135||||text"
 msgid "HR"
-msgstr ""
+msgstr "HR"
 
 msgctxt "136||||text"
 msgid "RBI"
-msgstr ""
+msgstr "RBI"
 
 msgctxt "137||||text"
 msgid "SB"
-msgstr ""
+msgstr "SB"
 
 msgctxt "138||||text"
 msgid "ERA"
-msgstr ""
+msgstr "ERA"
 
 msgctxt "139||||text"
 msgid "H:"
-msgstr ""
+msgstr "H:"
 
 msgctxt "140||||text"
 msgid "BB:"
-msgstr ""
+msgstr "BB:"
 
 msgctxt "141||||text"
 msgid "K:"
-msgstr ""
+msgstr "K:"
 
 msgctxt "142||||text"
 msgid "ERA:"
-msgstr ""
+msgstr "ERA:"
 
 msgctxt "143||||text"
 msgid "W"
-msgstr ""
+msgstr "W"
 
 msgctxt "144||||text"
 msgid "L"
-msgstr ""
+msgstr "L"
 
 msgctxt "145||||text"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 msgctxt "146||||text"
 msgid "K"
-msgstr ""
+msgstr "K"
 
 msgctxt "147||||text"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgctxt "148||||text"
 msgid "No."
-msgstr ""
+msgstr "N."
 
 msgctxt "149||||text"
 msgid "No."
-msgstr ""
+msgstr "N."
 
 msgctxt "150||||text"
 msgid "AB"
-msgstr ""
+msgstr "AB"
 
 msgctxt "151||||text"
 msgid "HR"
-msgstr ""
+msgstr "HR"
 
 msgctxt "152||||text"
 msgid "RBI"
-msgstr ""
+msgstr "RBI"
 
 msgctxt "153||||text"
 msgid "SB"
-msgstr ""
+msgstr "SB"
 
 msgctxt "154||||text"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 msgctxt "155||||text"
 msgid "ERA"
-msgstr ""
+msgstr "ERA"
 
 msgctxt "156||||text"
 msgid "H"
-msgstr ""
+msgstr "H"
 
 msgctxt "157||||text"
 msgid "BB"
-msgstr ""
+msgstr "BB"
 
 msgctxt "158||||text"
 msgid "K"
-msgstr ""
+msgstr "K"
 
 msgctxt "159||||text"
 msgid "Draw"
-msgstr ""
+msgstr "Pareggio"
 
 msgctxt "160||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "161||||text"
 msgid "x"
-msgstr ""
+msgstr "x"
 
 msgctxt "163||||text"
 msgid "Home Runs"
-msgstr ""
+msgstr "Fuoricampo"
 
 msgctxt "164||||text"
 msgid "Losing Pitcher"
-msgstr ""
+msgstr "Lanciatore perdente"
 
 msgctxt "165||||text"
 msgid "Save"
-msgstr ""
+msgstr "Salvataggio"
 
 msgctxt "166||||text"
 msgid "Winning Pitcher"
-msgstr ""
+msgstr "Lanciatore vincente"
 
 msgctxt "167||||text"
 msgid "L"
-msgstr ""
+msgstr "Sconfitte"
 
 msgctxt "168||||text"
 msgid "Match"
-msgstr ""
+msgstr "Partita"
 
 msgctxt "169||||text"
 msgid "W"
-msgstr ""
+msgstr "Vittorie"
 
 msgctxt "170||||text"
 msgid "VS"
-msgstr ""
+msgstr "VS"
 
 msgctxt "171||||text"
 msgid "D"
-msgstr ""
+msgstr "Pareggi"
 
 msgctxt "172||||text"
 msgid "Lineup Card"
-msgstr ""
+msgstr "Tabellino formazione"
 
 msgctxt "173||||text"
 msgid "Knuckleball"
-msgstr ""
+msgstr "Knuckleball"
 
 msgctxt "174||||text"
 msgid "Slider"
-msgstr ""
+msgstr "Slider"
 
 msgctxt "175||||text"
 msgid "Curveball"
-msgstr ""
+msgstr "Palla curva"
 
 msgctxt "176||||text"
 msgid "Forkball"
-msgstr ""
+msgstr "Palla a forchetta"
 
 msgctxt "177||||text"
 msgid "Sinker"
-msgstr ""
+msgstr "Sinker"
 
 msgctxt "178||||text"
 msgid "Shootball"
-msgstr ""
+msgstr "Shootball"
 
 msgctxt "179||||text"
 msgid "Knuckleball"
-msgstr ""
+msgstr "Knuckleball"
 
 msgctxt "180||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "181||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "182||||text"
 msgid "Starting Lineup"
-msgstr ""
+msgstr "Formazione titolare"
 
 msgctxt "183||||text"
 msgid "Bench"
-msgstr ""
+msgstr "Panchina"
 
 msgctxt "184||||text"
 msgid "Fielders"
-msgstr ""
+msgstr "Difensori"
 
 msgctxt "185||||text"
 msgid "Contact"
-msgstr ""
+msgstr "Contatto"
 
 msgctxt "186||||text"
 msgid "Power"
-msgstr ""
+msgstr "Potenza"
 
 msgctxt "187||||text"
 msgid "Speed"
-msgstr ""
+msgstr "Velocità"
 
 msgctxt "188||||text"
 msgid "Velocity"
-msgstr ""
+msgstr "Rapidità"
 
 msgctxt "189||||text"
 msgid "Control"
-msgstr ""
+msgstr "Controllo"
 
 msgctxt "190||||text"
 msgid "Stamina"
-msgstr ""
+msgstr "Resistenza"
 
 msgctxt "191||||text"
 msgid "Curve"
-msgstr ""
+msgstr "Effetto"
 
 msgctxt "192||||text"
 msgid "C"
-msgstr ""
+msgstr "C"
 
 msgctxt "193||||text"
 msgid "1B"
-msgstr ""
+msgstr "1B"
 
 msgctxt "194||||text"
 msgid "2B"
-msgstr ""
+msgstr "2B"
 
 msgctxt "195||||text"
 msgid "3B"
-msgstr ""
+msgstr "3B"
 
 msgctxt "196||||text"
 msgid "SS"
-msgstr ""
+msgstr "SS"
 
 msgctxt "197||||text"
 msgid "OF"
-msgstr ""
+msgstr "OF"
 
 msgctxt "198||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "199||||text"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 msgctxt "200||||text"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 msgctxt "201||||text"
 msgid "Train"
-msgstr ""
+msgstr "Allena"
 
 msgctxt "202||||text"
 msgid "Player"
-msgstr ""
+msgstr "Giocatore"
 
 msgctxt "203||||text"
 msgid "Lv"
-msgstr ""
+msgstr "Liv."
 
 msgctxt "204||||text"
 msgid "EXP"
-msgstr ""
+msgstr "EXP"
 
 msgctxt "205||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "206||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "207||||text"
 msgid "To Next Level:"
-msgstr ""
+msgstr "Al prossimo livello:"
 
 msgctxt "208||||text"
 msgid "x"
-msgstr ""
+msgstr "x"
 
 msgctxt "209||||text"
 msgid "Training Tickets:　"
-msgstr ""
+msgstr "Ticket allenamento: "
 
 msgctxt "210||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "211||||text"
 msgid "Home Runs"
-msgstr ""
+msgstr "Fuoricampo"
 
 msgctxt "212||||text"
 msgid "Singles"
-msgstr ""
+msgstr "Singoli"
 
 msgctxt "213||||text"
 msgid "Doubles"
-msgstr ""
+msgstr "Doppi"
 
 msgctxt "214||||text"
 msgid "Triples"
-msgstr ""
+msgstr "Tripli"
 
 msgctxt "215||||text"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "216||||text"
 msgid "Runs"
-msgstr ""
+msgstr "Punti"
 
 msgctxt "217||||text"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "218||||text"
 msgid "Runs"
-msgstr ""
+msgstr "Punti"
 
 msgctxt "219||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "220||||text"
 msgid "Home Runs"
-msgstr ""
+msgstr "Fuoricampo"
 
 msgctxt "221||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "222||||text"
 msgid "Balls Remaining"
-msgstr ""
+msgstr "Palle rimanenti"
 
 msgctxt "224||||text"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "225||||text"
 msgid "Score:"
-msgstr ""
+msgstr "Punteggio:"
 
 msgctxt "227||||text"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "228||||text"
 msgid "Score:"
-msgstr ""
+msgstr "Punteggio:"
 
 msgctxt "229||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "230||||text"
 msgid "Grab"
-msgstr ""
+msgstr "Afferra"
 
 msgctxt "231||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "232||||text"
 msgid "Select a hostess to request."
-msgstr ""
+msgstr "Seleziona un'hostess da richiedere."
 
 msgctxt "233||||text"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "234||||text"
 msgid "Area 1 Clear"
-msgstr ""
+msgstr "Area 1 completata"
 
 msgctxt "235||||text"
 msgid "Area 2 Clear"
-msgstr ""
+msgstr "Area 2 completata"
 
 msgctxt "236||||text"
 msgid "Area 3 Clear"
-msgstr ""
+msgstr "Area 3 completata"
 
 msgctxt "237||||text"
 msgid "Area 4 Clear"
-msgstr ""
+msgstr "Area 4 completata"
 
 msgctxt "238||||text"
 msgid "Move Leader"
-msgstr ""
+msgstr "Muovi leader"
 
 msgctxt "239||||text"
 msgid "Deploy"
-msgstr ""
+msgstr "Schiera"
 
 msgctxt "240||||text"
 msgid "Activate Skill"
-msgstr ""
+msgstr "Attiva abilità"
 
 msgctxt "241||||text"
 msgid "Jump to Leader"
-msgstr ""
+msgstr "Vai al leader"
 
 msgctxt "242||||text"
 msgid "Enemies Left"
-msgstr ""
+msgstr "Nemici rimasti"
 
 msgctxt "244||||text"
 msgid "You cannot deploy any more units."
-msgstr ""
+msgstr "Non puoi schierare altre unità."
 
 msgctxt "245||||text"
 msgid "Start Battle"
-msgstr ""
+msgstr "Inizia battaglia"
 
 msgctxt "246||||text"
 msgid "Raid Failed"
-msgstr ""
+msgstr "Incursione fallita"
 
 msgctxt "247||||text"
 msgid "Start Battle"
-msgstr ""
+msgstr "Inizia battaglia"
 
 msgctxt "248||||text"
 msgid "Victory"
-msgstr ""
+msgstr "Vittoria"
 
 msgctxt "249||||text"
 msgid "01:00"
-msgstr ""
+msgstr "01:00"
 
 msgctxt "250||||text"
 msgid "Leader Stats"
-msgstr ""
+msgstr "Stat. leader"
 
 msgctxt "251||||text"
 msgid "Attack"
-msgstr ""
+msgstr "Attacco"
 
 msgctxt "252||||text"
 msgid "Defense"
-msgstr ""
+msgstr "Difesa"
 
 msgctxt "253||||text"
 msgid "EXP"
-msgstr ""
+msgstr "EXP"
 
 msgctxt "254||||text"
 msgid "Health"
-msgstr ""
+msgstr "Salute"
 
 msgctxt "255||||text"
 msgid "Lv."
-msgstr ""
+msgstr "Liv."
 
 msgctxt "256||||text"
 msgid "Influence"
-msgstr ""
+msgstr "Influenza"
 
 msgctxt "257||||text"
 msgid "Skill"
-msgstr ""
+msgstr "Abilità"
 
 msgctxt "258||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "259||||text"
 msgid "EXP"
-msgstr ""
+msgstr "EXP"
 
 msgctxt "260||||text"
 msgid "Kills"
-msgstr ""
+msgstr "Uccisioni"
 
 msgctxt "261||||text"
 msgid "Soldiers"
-msgstr ""
+msgstr "Soldati"
 
 msgctxt "262||||text"
 msgid "Obtained EXP"
-msgstr ""
+msgstr "EXP ottenuti"
 
 msgctxt "263||||text"
 msgid "Leaders"
-msgstr ""
+msgstr "Leader"
 
 msgctxt "264||||text"
 msgid "Lv."
-msgstr ""
+msgstr "Liv."
 
 msgctxt "265||||text"
 msgid "Kiryu Clan Org Chart"
-msgstr ""
+msgstr "Organigramma Clan Kiryu"
 
 msgctxt "266||||text"
 msgid "Total Strength"
-msgstr ""
+msgstr "Forza totale"
 
 msgctxt "267||||text"
 msgid "Attack"
-msgstr ""
+msgstr "Attacco"
 
 msgctxt "268||||text"
 msgid "Defense"
-msgstr ""
+msgstr "Difesa"
 
 msgctxt "269||||text"
 msgid "Health"
-msgstr ""
+msgstr "Salute"
 
 msgctxt "270||||text"
 msgid "Influence"
-msgstr ""
+msgstr "Influenza"
 
 msgctxt "271||||text"
 msgid "Leader List"
-msgstr ""
+msgstr "Lista leader"
 
 msgctxt "272||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "273||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "274||||text"
 msgid "Skill Info"
-msgstr ""
+msgstr "Info abilità"
 
 msgctxt "275||||text"
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 msgctxt "276||||text"
 msgid "Swap"
-msgstr ""
+msgstr "Scambia"
 
 msgctxt "277||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "278||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "279||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "283||||text"
 msgid "Defense Result"
-msgstr ""
+msgstr "Risultato difesa"
 
 msgctxt "284||||text"
 msgid "Raid Result"
-msgstr ""
+msgstr "Risultato incursione"
 
 msgctxt "285||||text"
 msgid "Event Battle Result"
-msgstr ""
+msgstr "Risultato battaglia evento"
 
 msgctxt "286||||text"
 msgid "Ranked Battle Result"
-msgstr ""
+msgstr "Risultato battaglia classificata"
 
 msgctxt "287||||text"
 msgid "Score"
-msgstr ""
+msgstr "Punteggio"
 
 msgctxt "288||||text"
 msgid "Streak Bonus"
-msgstr ""
+msgstr "Bonus serie"
 
 msgctxt "289||||text"
 msgid "Total Score"
-msgstr ""
+msgstr "Punteggio totale"
 
 msgctxt "290||||text"
 msgid "Areas"
-msgstr ""
+msgstr "Aree"
 
 msgctxt "291||||text"
 msgid "Area Boss"
-msgstr ""
+msgstr "Boss dell'area"
 
 msgctxt "292||||text"
 msgid "Defense Force"
-msgstr ""
+msgstr "Forza di difesa"
 
 msgctxt "293||||text"
 msgid "Time Limit"
-msgstr ""
+msgstr "Tempo limite"
 
 msgctxt "294||||text"
 msgid "Victory Condition"
-msgstr ""
+msgstr "Condizione di vittoria"
 
 msgctxt "295||||text"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "296||||text"
 msgid "VS"
-msgstr ""
+msgstr "VS"
 
 msgctxt "297||||text"
 msgid "To Next Rank:"
-msgstr ""
+msgstr "Al prossimo grado:"
 
 msgctxt "298||||text"
 msgid "Total Score"
-msgstr ""
+msgstr "Punteggio totale"
 
 msgctxt "299||||text"
 msgid "Raids"
-msgstr ""
+msgstr "Incursioni"
 
 msgctxt "300||||text"
 msgid "Victory Rate"
-msgstr ""
+msgstr "Tasso di vittorie"
 
 msgctxt "301||||text"
 msgid "Records"
-msgstr ""
+msgstr "Statistiche"
 
 msgctxt "302||||text"
 msgid "Current Defense Rate"
-msgstr ""
+msgstr "Tasso difesa attuale"
 
 msgctxt "303||||text"
 msgid "Total Defense Rate"
-msgstr ""
+msgstr "Tasso difesa totale"
 
 msgctxt "304||||text"
 msgid "Lv."
-msgstr ""
+msgstr "Liv."
 
 msgctxt "305||||text"
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 msgctxt "306||||text"
 msgid "EXP"
-msgstr ""
+msgstr "EXP"
 
 msgctxt "307||||text"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "308||||text"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "309||||text"
 msgid "Level up this unit?"
-msgstr ""
+msgstr "Far salire di livello questa unità?"
 
 msgctxt "310||||text"
 msgid "Leader"
-msgstr ""
+msgstr "Leader"
 
 msgctxt "311||||text"
 msgid "Total strength"
-msgstr ""
+msgstr "Forza totale"
 
 msgctxt "312||||text"
 msgid "Leader"
-msgstr ""
+msgstr "Leader"
 
 msgctxt "313||||text"
 msgid "Total strength"
-msgstr ""
+msgstr "Forza totale"
 
 msgctxt "314||||text"
 msgid "Captain"
-msgstr ""
+msgstr "Capitano"
 
 msgctxt "315||||text"
 msgid "Advisor"
-msgstr ""
+msgstr "Consigliere"
 
 msgctxt "316||||text"
 msgid "Chief Advisor"
-msgstr ""
+msgstr "Consigliere capo"
 
 msgctxt "317||||text"
 msgid "Lieutenant Advisor"
-msgstr ""
+msgstr "Tenente consigliere"
 
 msgctxt "318||||text"
 msgid "Lieutenant"
-msgstr ""
+msgstr "Tenente"
 
 msgctxt "319||||text"
 msgid "Lieutenant"
-msgstr ""
+msgstr "Tenente"
 
 msgctxt "320||||text"
 msgid "Lieutenant"
-msgstr ""
+msgstr "Tenente"
 
 msgctxt "321||||text"
 msgid "Chief of HQ"
-msgstr ""
+msgstr "Capo quartier generale"
 
 msgctxt "322||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "323||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "324||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "325||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "326||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "327||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "328||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "329||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "330||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "331||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "332||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "333||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "334||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "335||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "336||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "337||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "338||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "339||||text"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "340||||text"
 msgid "EXP\r\nx1.5"
-msgstr ""
+msgstr "EXP\r\nx1,5"
 
 msgctxt "341||||text"
 msgid "EXP\r\nx2"
-msgstr ""
+msgstr "EXP\r\nx2"
 
 msgctxt "342||||text"
 msgid "Chairman"
-msgstr ""
+msgstr "Presidente"
 
 msgctxt "343||||text"
 msgid "Move out with this team?"
-msgstr ""
+msgstr "Partire con questa squadra?"
 
 msgctxt "344||||text"
 msgid "Select Strike Team"
-msgstr ""
+msgstr "Seleziona squadra d'assalto"
 
 msgctxt "345||||text"
 msgid "Move Out"
-msgstr ""
+msgstr "Parti"
 
 msgctxt "346||||text"
 msgid "Clear Bonus"
-msgstr ""
+msgstr "Bonus completamento"
 
 msgctxt "347||||text"
 msgid "Clear Time"
-msgstr ""
+msgstr "Tempo completamento"
 
 msgctxt "348||||text"
 msgid "Strike Team"
-msgstr ""
+msgstr "Squadra d'assalto"
 
 msgctxt "349||||text"
 msgid "Defense Force"
-msgstr ""
+msgstr "Forza di difesa"
 
 msgctxt "350||||text"
 msgid "Upload"
-msgstr ""
+msgstr "Carica"
 
 msgctxt "351||||text"
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 msgctxt "352||||text"
 msgid "VS"
-msgstr ""
+msgstr "VS"
 
 msgctxt "353||||text"
 msgid "Difficulty:"
-msgstr ""
+msgstr "Difficoltà:"
 
 msgctxt "354||||text"
 msgid "Time:"
-msgstr ""
+msgstr "Tempo:"
 
 msgctxt "355||||text"
 msgid "Enemies Down:"
-msgstr ""
+msgstr "Nemici sconfitti:"
 
 msgctxt "356||||text"
 msgid "Money Gained:"
-msgstr ""
+msgstr "Denaro ottenuto:"
 
 msgctxt "357||||text"
 msgid "Awards Earned:"
-msgstr ""
+msgstr "Premi ottenuti:"
 
 msgctxt "358||||text"
 msgid "Exit"
-msgstr ""
+msgstr "Esci"
 
 msgctxt "359||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "360||||text"
 msgid "Your inventory is full."
-msgstr ""
+msgstr "Il tuo inventario è pieno."
 
 msgctxt "361||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "362||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "363||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "365||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "366||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "367||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "368||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "369||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "370||||text"
 msgid "Throw"
-msgstr ""
+msgstr "Tira"
 
 msgctxt "371||||text"
 msgid "Select Dart Type"
-msgstr ""
+msgstr "Seleziona tipo freccetta"
 
 msgctxt "372||||text"
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 
 msgctxt "373||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "374||||text"
 msgid "Drink"
-msgstr ""
+msgstr "Bevi"
 
 msgctxt "375||||text"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "376||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "377||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "378||||text"
 msgid "Personal Trainer"
-msgstr ""
+msgstr "Personal Trainer"
 
 msgctxt "379||||text"
 msgid "Makuta"
-msgstr ""
+msgstr "Makuta"
 
 msgctxt "380||||text"
 msgid "Rules"
-msgstr ""
+msgstr "Regole"
 
 msgctxt "381||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "382||||text"
 msgid "Start Training"
-msgstr ""
+msgstr "Inizia allenamento"
 
 msgctxt "383||||text"
 msgid "Ask About RIZAP"
-msgstr ""
+msgstr "Chiedi su RIZAP"
 
 msgctxt "384||||text"
 msgid "Don't Train Yet"
-msgstr ""
+msgstr "Non allenarti ancora"
 
 msgctxt "385||||text"
 msgid "Bench Press"
-msgstr ""
+msgstr "Panca piana"
 
 msgctxt "386||||text"
 msgid "Squats"
-msgstr ""
+msgstr "Squat"
 
 msgctxt "387||||text"
 msgid "Deadlifts"
-msgstr ""
+msgstr "Stacchi da terra"
 
 msgctxt "388||||text"
 msgid "Jump Squats"
-msgstr ""
+msgstr "Jump Squat"
 
 msgctxt "389||||text"
 msgid "Lat Pulldowns"
-msgstr ""
+msgstr "Lat Machine"
 
 msgctxt "390||||text"
 msgid "Seated Row"
-msgstr ""
+msgstr "Pulley"
 
 msgctxt "391||||text"
 msgid "Reps"
-msgstr ""
+msgstr "Ripetizioni"
 
 msgctxt "392||||text"
 msgid "Training Evaluation"
-msgstr ""
+msgstr "Valutazione allenamento"
 
 msgctxt "393||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "394||||text"
 msgid "Count"
-msgstr ""
+msgstr "Conteggio"
 
 msgctxt "395||||text"
 msgid "Bench Press"
-msgstr ""
+msgstr "Panca piana"
 
 msgctxt "396||||text"
 msgid "Deadlifts"
-msgstr ""
+msgstr "Stacchi da terra"
 
 msgctxt "397||||text"
 msgid "Jump Squats"
-msgstr ""
+msgstr "Jump Squat"
 
 msgctxt "398||||text"
 msgid "Squats"
-msgstr ""
+msgstr "Squat"
 
 msgctxt "399||||text"
 msgid "Lat Pulldowns"
-msgstr ""
+msgstr "Lat Machine"
 
 msgctxt "400||||text"
 msgid "Seated Row"
-msgstr ""
+msgstr "Pulley"
 
 msgctxt "401||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "402||||text"
 msgid "Challenge Results"
-msgstr ""
+msgstr "Risultati sfida"
 
 msgctxt "403||||text"
 msgid "Challenge Results"
-msgstr ""
+msgstr "Risultati sfida"
 
 msgctxt "404||||text"
 msgid "Evaluation"
-msgstr ""
+msgstr "Valutazione"
 
 msgctxt "405||||text"
 msgid "Meal Plan"
-msgstr ""
+msgstr "Piano alimentare"
 
 msgctxt "406||||text"
 msgid "Results"
-msgstr ""
+msgstr "Risultati"
 
 msgctxt "407||||text"
 msgid "Results"
-msgstr ""
+msgstr "Risultati"
 
 msgctxt "408||||text"
 msgid "Hold Down"
-msgstr ""
+msgstr "Tieni premuto"
 
 msgctxt "409||||text"
 msgid "Let Go"
-msgstr ""
+msgstr "Lascia"
 
 msgctxt "410||||text"
 msgid "Rub"
-msgstr ""
+msgstr "Accarezza"
 
 msgctxt "411||||text"
 msgid "Upsy-Daisy"
-msgstr ""
+msgstr "Oplà"
 
 msgctxt "412||||text"
 msgid "Lift"
-msgstr ""
+msgstr "Solleva"
 
 msgctxt "413||||text"
 msgid "Swing"
-msgstr ""
+msgstr "Dondola"
 
 msgctxt "418||||text"
 msgid "Use Rattle"
-msgstr ""
+msgstr "Usa sonaglio"
 
 msgctxt "419||||text"
 msgid "Use Milk"
-msgstr ""
+msgstr "Usa latte"
 
 msgctxt "420||||text"
 msgid "Cart"
-msgstr ""
+msgstr "Carrello"
 
 msgctxt "421||||text"
 msgid "Replay"
-msgstr ""
+msgstr "Rigioca"
 
 msgctxt "422||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "423||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "424||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "425||||text"
 msgid "Song History"
-msgstr ""
+msgstr "Cronologia canzoni"
 
 msgctxt "426||||text"
 msgid "Most Played"
-msgstr ""
+msgstr "Più ascoltate"
 
 msgctxt "427||||text"
 msgid "Kazuma-san"
-msgstr ""
+msgstr "Kazuma-san"
 
 msgctxt "428||||text"
 msgid "Top Score"
-msgstr ""
+msgstr "Punteggio max"
 
 msgctxt "429||||text"
 msgid "Top Rank"
-msgstr ""
+msgstr "Grado max"
 
 msgctxt "430||||text"
 msgid "Play Count"
-msgstr ""
+msgstr "Riproduzioni"
 
 msgctxt "431||||text"
 msgid "Arrangement"
-msgstr ""
+msgstr "Arrangiamento"
 
 msgctxt "432||||text"
 msgid "Our karaoke exclusive\r\nsound will blow you away!"
-msgstr ""
+msgstr "Il sound esclusivo del nostro\r\nkaraoke ti lascerà a bocca aperta!"
 
 msgctxt "433||||text"
 msgid "Adjust Pitch"
-msgstr ""
+msgstr "Regola tonalità"
 
 msgctxt "434||||text"
 msgid "Vocal Assistance"
-msgstr ""
+msgstr "Assistenza vocale"
 
 msgctxt "435||||text"
 msgid "A guide will show you the basic melody."
-msgstr ""
+msgstr "Una guida ti mostrerà la melodia di base."
 
 msgctxt "436||||text"
 msgid "View Lyrics"
-msgstr ""
+msgstr "Mostra testo"
 
 msgctxt "437||||text"
 msgid "Return"
-msgstr ""
+msgstr "Ritorna"
 
 msgctxt "438||||text"
 msgid "Prev"
-msgstr ""
+msgstr "Prec"
 
 msgctxt "439||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "440||||text"
 msgid "Points"
-msgstr ""
+msgstr "Punti"
 
 msgctxt "441||||text"
 msgid "Rank"
-msgstr ""
+msgstr "Grado"
 
 msgctxt "442||||text"
 msgid "Song History"
-msgstr ""
+msgstr "Cronologia canzoni"
 
 msgctxt "443||||text"
 msgid "Movie List"
-msgstr ""
+msgstr "Elenco video"
 
 msgctxt "444||||text"
 msgid "Play Count"
-msgstr ""
+msgstr "Riproduzioni"
 
 msgctxt "445||||text"
 msgid "High Scores"
-msgstr ""
+msgstr "Record"
 
 msgctxt "446||||text"
 msgid "Please select a song."
-msgstr ""
+msgstr "Seleziona una canzone."
 
 msgctxt "447||||text"
 msgid "Live Chat"
-msgstr ""
+msgstr "Live Chat"
 
 msgctxt "448||||text"
 msgid "Points used: Peeping is Free!"
-msgstr ""
+msgstr "Punti usati: Sbirciare è gratis!"
 
 msgctxt "449||||text"
 msgid "Party"
-msgstr ""
+msgstr "Party"
 
 msgctxt "450||||text"
 msgid "Party Peeping 100pt/60 sec  2 shot 150pt/60 sec  2 shot 150pt/60sec  Two-way 150pt60 sec"
-msgstr ""
+msgstr "Party Peeping 100 pt / 60 sec  2 shot 150 pt / 60 sec  2 shot 150 pt / 60 sec  Bidirezionale 150 pt / 60 sec"
 
 msgctxt "451||||text"
 msgid "Profile"
-msgstr ""
+msgstr "Profilo"
 
 msgctxt "452||||text"
 msgid "Gallery (4 Items)"
-msgstr ""
+msgstr "Galleria (4 elementi)"
 
 msgctxt "453||||text"
 msgid "Movie (4 Items)"
-msgstr ""
+msgstr "Video (4 elementi)"
 
 msgctxt "454||||text"
 msgid "Message"
-msgstr ""
+msgstr "Messaggio"
 
 msgctxt "455||||text"
 msgid "Notes"
-msgstr ""
+msgstr "Note"
 
 msgctxt "456||||text"
 msgid "Age"
-msgstr ""
+msgstr "Età"
 
 msgctxt "457||||text"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "458||||text"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "459||||text"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "460||||text"
 msgid "Measurements"
-msgstr ""
+msgstr "Misure"
 
 msgctxt "461||||text"
 msgid "Last login"
-msgstr ""
+msgstr "Ultimo accesso"
 
 msgctxt "462||||text"
 msgid "Members"
-msgstr ""
+msgstr "Membri"
 
 msgctxt "463||||text"
 msgid "Lurkers"
-msgstr ""
+msgstr "Spettatori"
 
 msgctxt "464||||text"
 msgid "Party"
-msgstr ""
+msgstr "Party"
 
 msgctxt "465||||text"
 msgid "<symbol=heart_with_outline>Favorite"
-msgstr ""
+msgstr "<symbol=heart_with_outline>Preferiti"
 
 msgctxt "466||||text"
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 msgctxt "467||||text"
 msgid "DMM Live Chat"
-msgstr ""
+msgstr "DMM Live Chat"
 
 msgctxt "468||||text"
 msgid "http://www.dmm.co.jp/live/ocha/"
-msgstr ""
+msgstr "http://www.dmm.co.jp/live/ocha/"
 
 msgctxt "469||||text"
 msgid "Unavailable"
-msgstr ""
+msgstr "Non disponibile"
 
 msgctxt "470||||text"
 msgid "pts"
-msgstr ""
+msgstr "pt"
 
 msgctxt "471||||text"
 msgid "Unavailable"
-msgstr ""
+msgstr "Non disponibile"
 
 msgctxt "472||||text"
 msgid "Current Points"
-msgstr ""
+msgstr "Punti attuali"
 
 msgctxt "473||||text"
 msgid "pts"
-msgstr ""
+msgstr "pt"
 
 msgctxt "474||||text"
 msgid "How to Purchase Points"
-msgstr ""
+msgstr "Come acquistare punti"
 
 msgctxt "475||||text"
 msgid "Add Points"
-msgstr ""
+msgstr "Aggiungi punti"
 
 msgctxt "476||||text"
 msgid "Select a point amount."
-msgstr ""
+msgstr "Seleziona una quantità di punti."
 
 msgctxt "477||||text"
 msgid "<color=#000000>Close</color>"
-msgstr ""
+msgstr "<color=#000000>Chiudi</color>"
 
 msgctxt "478||||text"
 msgid "Add Points"
-msgstr ""
+msgstr "Aggiungi punti"
 
 msgctxt "479||||text"
 msgid "Exit"
-msgstr ""
+msgstr "Esci"
 
 msgctxt "480||||text"
 msgid "How to Play"
-msgstr ""
+msgstr "Come giocare"
 
 msgctxt "481||||text"
 msgid "View Movies"
-msgstr ""
+msgstr "Guarda video"
 
 msgctxt "482||||text"
 msgid "Return to Top"
-msgstr ""
+msgstr "Torna all'inizio"
 
 msgctxt "483||||text"
 msgid "All Movies"
-msgstr ""
+msgstr "Tutti i video"
 
 msgctxt "484||||text"
 msgid "Services"
-msgstr ""
+msgstr "Servizi"
 
 msgctxt "485||||text"
 msgid "Help"
-msgstr ""
+msgstr "Aiuto"
 
 msgctxt "486||||text"
 msgid "Cart"
-msgstr ""
+msgstr "Carrello"
 
 msgctxt "487||||text"
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 msgctxt "488||||text"
 msgid "DMM.com"
-msgstr ""
+msgstr "DMM.com"
 
 msgctxt "489||||text"
 msgid "Movie List"
-msgstr ""
+msgstr "Elenco video"
 
 msgctxt "490||||text"
 msgid "Rewatch scenes you've already experienced."
-msgstr ""
+msgstr "Riguarda le scene che hai già vissuto."
 
 msgctxt "491||||text"
 msgid "Return"
-msgstr ""
+msgstr "Ritorna"
 
 msgctxt "492||||text"
 msgid "All Girls"
-msgstr ""
+msgstr "Tutte le ragazze"
 
 msgctxt "493||||text"
 msgid "Amateur"
-msgstr ""
+msgstr "Amatoriali"
 
 msgctxt "494||||text"
 msgid "Busty"
-msgstr ""
+msgstr "Formose"
 
 msgctxt "495||||text"
 msgid "Face Visible"
-msgstr ""
+msgstr "Viso scoperto"
 
 msgctxt "496||||text"
 msgid "Advanced Search"
-msgstr ""
+msgstr "Ricerca avanzata"
 
 msgctxt "497||||text"
 msgid "Services"
-msgstr ""
+msgstr "Servizi"
 
 msgctxt "498||||text"
 msgid "Help"
-msgstr ""
+msgstr "Aiuto"
 
 msgctxt "499||||text"
 msgid "Cart"
-msgstr ""
+msgstr "Carrello"
 
 msgctxt "500||||text"
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 msgctxt "501||||text"
 msgid "DMM.com"
-msgstr ""
+msgstr "DMM.com"
 
 msgctxt "502||||text"
 msgid "Current Points"
-msgstr ""
+msgstr "Punti attuali"
 
 msgctxt "504||||text"
 msgid "Live Chat"
-msgstr ""
+msgstr "Live Chat"
 
 msgctxt "505||||text"
 msgid "Welcome to DMM, Japan's largest live chat provider! <symbol=note_with_outline>"
-msgstr ""
+msgstr "Benvenuto su DMM, il più grande fornitore di live chat in Giappone! <symbol=note_with_outline>"
 
 msgctxt "506||||text"
 msgid "Information"
-msgstr ""
+msgstr "Informazioni"
 
 msgctxt "507||||text"
 msgid "pts"
-msgstr ""
+msgstr "pt"
 
 msgctxt "508||||text"
 msgid "Available Girls"
-msgstr ""
+msgstr "Ragazze disponibili"
 
 msgctxt "509||||text"
 msgid "These girls are ready and waiting. Start chatting now!"
-msgstr ""
+msgstr "Queste ragazze ti stanno aspettando. Inizia a chattare ora!"
 
 msgctxt "510||||text"
 msgid "Return"
-msgstr ""
+msgstr "Ritorna"
 
 msgctxt "511||||text"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "512||||text"
 msgid "Winning Tiles Left"
-msgstr ""
+msgstr "Tegole vincenti rimaste"
 
 msgctxt "513||||text"
 msgid "Hide Window"
-msgstr ""
+msgstr "Nascondi finestra"
 
 msgctxt "514||||text"
 msgid "Kazuma Kiryu"
-msgstr ""
+msgstr "Kazuma Kiryu"
 
 msgctxt "515||||text"
 msgid "points"
-msgstr ""
+msgstr "punti"
 
 msgctxt "516||||text"
 msgid "points"
-msgstr ""
+msgstr "punti"
 
 msgctxt "517||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "518||||text"
 msgid "Rank"
-msgstr ""
+msgstr "Grado"
 
 msgctxt "519||||text"
 msgid "Dora"
-msgstr ""
+msgstr "Dora"
 
 msgctxt "520||||text"
 msgid "Ura-Dora"
-msgstr ""
+msgstr "Ura-Dora"
 
 msgctxt "521||||text"
 msgid "Close Window"
-msgstr ""
+msgstr "Chiudi finestra"
 
 msgctxt "522||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "523||||text"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "524||||text"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "525||||text"
 msgid "Full"
-msgstr ""
+msgstr "Completa"
 
 msgctxt "526||||text"
 msgid "Half"
-msgstr ""
+msgstr "Metà"
 
 msgctxt "527||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "528||||text"
 msgid "Game Length"
-msgstr ""
+msgstr "Durata partita"
 
 msgctxt "529||||text"
 msgid "Kuitan"
-msgstr ""
+msgstr "Kuitan"
 
 msgctxt "530||||text"
 msgid "Two Han Minimum"
-msgstr ""
+msgstr "Minimo due Han"
 
 msgctxt "531||||text"
 msgid "Red Dora"
-msgstr ""
+msgstr "Dora rosse"
 
 msgctxt "532||||text"
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
 
 msgctxt "533||||text"
 msgid "Your Total Points"
-msgstr ""
+msgstr "I tuoi punti totali"
 
 msgctxt "534||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "535||||text"
 msgid "Location List"
-msgstr ""
+msgstr "Elenco luoghi"
 
 msgctxt "536||||text"
 msgid "Place/Remove Pin"
-msgstr ""
+msgstr "Piazza/Rimuovi puntina"
 
 msgctxt "537||||text"
 msgid "Toggle Street Names"
-msgstr ""
+msgstr "Mostra/Nascondi nomi strade"
 
 msgctxt "538||||text"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Riduci zoom"
 
 msgctxt "539||||text"
 msgid "Zoom In"
-msgstr ""
+msgstr "Ingrandisci zoom"
 
 msgctxt "540||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "541||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "542||||text"
 msgid "Map"
-msgstr ""
+msgstr "Mappa"
 
 msgctxt "543||||text"
 msgid "Current Location"
-msgstr ""
+msgstr "Posizione attuale"
 
 msgctxt "544||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "545||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "549||||text"
 msgid "Adjust brightness until icon is barely visible."
-msgstr ""
+msgstr "Regola la luminosità finché l'icona è appena visibile."
 
 msgctxt "550||||text"
 msgid "Select a Card"
-msgstr ""
+msgstr "Seleziona una carta"
 
 msgctxt "551||||text"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "552||||text"
 msgid "Select/Cancel"
-msgstr ""
+msgstr "Seleziona/Annulla"
 
 msgctxt "553||||text"
 msgid "Select card(s) to swap"
-msgstr ""
+msgstr "Seleziona carte da scambiare"
 
 msgctxt "554||||text"
 msgid "Swap Card"
-msgstr ""
+msgstr "Scambia carta"
 
 msgctxt "555||||text"
 msgid "Select Card"
-msgstr ""
+msgstr "Seleziona carta"
 
 msgctxt "556||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "557||||text"
 msgid "Result"
-msgstr ""
+msgstr "Risultato"
 
 msgctxt "558||||text"
 msgid "Total Score"
-msgstr ""
+msgstr "Punteggio totale"
 
 msgctxt "559||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "560||||text"
 msgid "Previous"
-msgstr ""
+msgstr "Precedente"
 
 msgctxt "561||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "562||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "563||||text"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "564||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "565||||text"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza comandi"
 
 msgctxt "566||||text"
 msgid "OPTIONS button"
-msgstr ""
+msgstr "Tasto OPTIONS"
 
 msgctxt "567||||text"
 msgid "Start Game, Select Subcostume, Skip"
-msgstr ""
+msgstr "Inizia gioco, Seleziona abito alternativo, Salta"
 
 msgctxt "568||||text"
 msgid "Controls"
-msgstr ""
+msgstr "Comandi"
 
 msgctxt "569||||text"
 msgid "Other Controls"
-msgstr ""
+msgstr "Altri comandi"
 
 msgctxt "570||||text"
 msgid "End Game"
-msgstr ""
+msgstr "Termina partita"
 
 msgctxt "571||||text"
 msgid "Touch pad button"
-msgstr ""
+msgstr "Tasto touch pad"
 
 msgctxt "572||||text"
 msgid "Results"
-msgstr ""
+msgstr "Risultati"
 
 msgctxt "573||||text"
 msgid "Stand"
-msgstr ""
+msgstr "Alza"
 
 msgctxt "574||||text"
 msgid "Don't Agree"
-msgstr ""
+msgstr "Rifiuta"
 
 msgctxt "575||||text"
 msgid "Agree"
-msgstr ""
+msgstr "Accetta"
 
 msgctxt "576||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "577||||text"
 msgid "End User License Agreement"
-msgstr ""
+msgstr "Accordo di Licenza per l'Utente Finale"
 
 msgctxt "578||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "579||||text"
 msgid "Look"
-msgstr ""
+msgstr "Guarda"
 
 msgctxt "580||||text"
 msgid "Delete"
-msgstr ""
+msgstr "Elimina"
 
 msgctxt "581||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "582||||text"
 msgid "Previous Photo"
-msgstr ""
+msgstr "Foto precedente"
 
 msgctxt "583||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "584||||text"
 msgid "Next Photo"
-msgstr ""
+msgstr "Foto successiva"
 
 msgctxt "585||||text"
 msgid "Kiryu Clan Org Chart"
-msgstr ""
+msgstr "Organigramma Clan Kiryu"
 
 msgctxt "586||||text"
 msgid "Total strength"
-msgstr ""
+msgstr "Forza totale"
 
 msgctxt "587||||text"
 msgid "Times Played"
-msgstr ""
+msgstr "Volte giocato"
 
 msgctxt "588||||text"
 msgid "Onomichi Missions Cleared"
-msgstr ""
+msgstr "Missioni a Onomichi completate"
 
 msgctxt "589||||text"
 msgid "Total Defeated"
-msgstr ""
+msgstr "Totale sconfitti"
 
 msgctxt "590||||text"
 msgid "Kamurocho Missions Cleared"
-msgstr ""
+msgstr "Missioni a Kamurocho completate"
 
 msgctxt "593||||text"
 msgid "Details"
-msgstr ""
+msgstr "Dettagli"
 
 msgctxt "594||||text"
 msgid "EXP"
-msgstr ""
+msgstr "EXP"
 
 msgctxt "595||||text"
 msgid "Level"
-msgstr ""
+msgstr "Livello"
 
 msgctxt "596||||text"
 msgid "List"
-msgstr ""
+msgstr "Elenco"
 
 msgctxt "597||||text"
 msgid "Details"
-msgstr ""
+msgstr "Dettagli"
 
 msgctxt "598||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "599||||text"
 msgid "List"
-msgstr ""
+msgstr "Elenco"
 
 msgctxt "600||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "601||||text"
 msgid "Adventure"
-msgstr ""
+msgstr "Avventura"
 
 msgctxt "602||||text"
 msgid "Battle"
-msgstr ""
+msgstr "Battaglie"
 
 msgctxt "603||||text"
 msgid "Clan Creator"
-msgstr ""
+msgstr "Creatore di clan"
 
 msgctxt "604||||text"
 msgid "Minigames"
-msgstr ""
+msgstr "Minigiochi"
 
 msgctxt "605||||text"
 msgid "Substories"
-msgstr ""
+msgstr "Storie secondarie"
 
 msgctxt "610||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "611||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "612||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "613||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "614||||text"
 msgid "Health"
-msgstr ""
+msgstr "Salute"
 
 msgctxt "615||||text"
 msgid "Heat"
-msgstr ""
+msgstr "Furore"
 
 msgctxt "616||||text"
 msgid "Food/Drink"
-msgstr ""
+msgstr "Cibo/Bevande"
 
 msgctxt "617||||text"
 msgid "Others"
-msgstr ""
+msgstr "Altro"
 
 msgctxt "618||||text"
 msgid "Valuables"
-msgstr ""
+msgstr "Oggetti preziosi"
 
 msgctxt "619||||text"
 msgid "Recovery"
-msgstr ""
+msgstr "Cura"
 
 msgctxt "620||||text"
 msgid "Controls"
-msgstr ""
+msgstr "Comandi"
 
 msgctxt "621||||text"
 msgid "Move controller horizontally"
-msgstr ""
+msgstr "Muovi il controller orizzontalmente"
 
 msgctxt "622||||text"
 msgid "Move controller vertically"
-msgstr ""
+msgstr "Muovi il controller verticalmente"
 
 msgctxt "623||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "624||||text"
 msgid "View Rules"
-msgstr ""
+msgstr "Visualizza regole"
 
 msgctxt "626||||text"
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgctxt "627||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "636||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "637||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "638||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "639||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "640||||text"
 msgid "Sort"
-msgstr ""
+msgstr "Ordina"
 
 msgctxt "641||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "642||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "643||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "644||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "645||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "646||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "647||||text"
 msgid "Sort"
-msgstr ""
+msgstr "Ordina"
 
 msgctxt "648||||text"
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 msgctxt "649||||text"
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 msgctxt "650||||text"
 msgid "Battle Skills"
-msgstr ""
+msgstr "Abilità di battaglia"
 
 msgctxt "651||||text"
 msgid "Heat Actions"
-msgstr ""
+msgstr "Azioni Furore"
 
 msgctxt "652||||text"
 msgid "Stats"
-msgstr ""
+msgstr "Statistiche"
 
 msgctxt "653||||text"
 msgid "Other Skills"
-msgstr ""
+msgstr "Altre abilità"
 
 msgctxt "654||||text"
 msgid "Equip"
-msgstr ""
+msgstr "Equipaggia"
 
 msgctxt "658||||text"
 msgid "Stats"
-msgstr ""
+msgstr "Statistiche"
 
 msgctxt "659||||text"
 msgid "Battle Skills"
-msgstr ""
+msgstr "Abilità di battaglia"
 
 msgctxt "660||||text"
 msgid "Heat Actions"
-msgstr ""
+msgstr "Azioni Furore"
 
 msgctxt "661||||text"
 msgid "Other Skills"
-msgstr ""
+msgstr "Altre abilità"
 
 msgctxt "662||||text"
 msgid "Total Rank:"
-msgstr ""
+msgstr "Grado totale:"
 
 msgctxt "663||||text"
 msgid "Health"
-msgstr ""
+msgstr "Salute"
 
 msgctxt "664||||text"
 msgid "Attack"
-msgstr ""
+msgstr "Attacco"
 
 msgctxt "665||||text"
 msgid "Heat Gauge"
-msgstr ""
+msgstr "Barra Furore"
 
 msgctxt "666||||text"
 msgid "Evasion"
-msgstr ""
+msgstr "Schivata"
 
 msgctxt "667||||text"
 msgid "Defense"
-msgstr ""
+msgstr "Difesa"
 
 msgctxt "668||||text"
 msgid "Skill Details"
-msgstr ""
+msgstr "Dettagli abilità"
 
 msgctxt "669||||text"
 msgid "ALL"
-msgstr ""
+msgstr "TUTTE"
 
 msgctxt "670||||text"
 msgid "Can Buy"
-msgstr ""
+msgstr "Acquistabili"
 
 msgctxt "671||||text"
 msgid "Not Owned"
-msgstr ""
+msgstr "Non possedute"
 
 msgctxt "672||||text"
 msgid "Bought"
-msgstr ""
+msgstr "Acquistate"
 
 msgctxt "673||||text"
 msgid "Level"
-msgstr ""
+msgstr "Livello"
 
 msgctxt "675||||text"
 msgid "All"
-msgstr ""
+msgstr "Tutte"
 
 msgctxt "676||||text"
 msgid "Can Buy"
-msgstr ""
+msgstr "Acquistabili"
 
 msgctxt "677||||text"
 msgid "Not Owned"
-msgstr ""
+msgstr "Non possedute"
 
 msgctxt "678||||text"
 msgid "Bought"
-msgstr ""
+msgstr "Acquistate"
 
 msgctxt "679||||text"
 msgid "Rank"
-msgstr ""
+msgstr "Grado"
 
 msgctxt "680||||text"
 msgid "ALL"
-msgstr ""
+msgstr "TUTTE"
 
 msgctxt "681||||text"
 msgid "Health"
-msgstr ""
+msgstr "Salute"
 
 msgctxt "682||||text"
 msgid "Attack"
-msgstr ""
+msgstr "Attacco"
 
 msgctxt "683||||text"
 msgid "Heat Gauge"
-msgstr ""
+msgstr "Barra Furore"
 
 msgctxt "684||||text"
 msgid "Evasion"
-msgstr ""
+msgstr "Schivata"
 
 msgctxt "685||||text"
 msgid "Defense"
-msgstr ""
+msgstr "Difesa"
 
 msgctxt "686||||text"
 msgid "Blade Resist"
-msgstr ""
+msgstr "Res. alle lame"
 
 msgctxt "687||||text"
 msgid "Gun Resist"
-msgstr ""
+msgstr "Res. alle armi da fuoco"
 
 msgctxt "688||||text"
 msgid "Stamina"
-msgstr ""
+msgstr "Resistenza"
 
 msgctxt "689||||text"
 msgid "Details"
-msgstr ""
+msgstr "Dettagli"
 
 msgctxt "690||||text"
 msgid "Attack"
-msgstr ""
+msgstr "Attacco"
 
 msgctxt "691||||text"
 msgid "Defense"
-msgstr ""
+msgstr "Difesa"
 
 msgctxt "692||||text"
 msgid "Evasion"
-msgstr ""
+msgstr "Schivata"
 
 msgctxt "693||||text"
 msgid "Heat Gauge"
-msgstr ""
+msgstr "Barra Furore"
 
 msgctxt "694||||text"
 msgid "Health"
-msgstr ""
+msgstr "Salute"
 
 msgctxt "695||||text"
 msgid "Items"
-msgstr ""
+msgstr "Oggetti"
 
 msgctxt "696||||text"
 msgid "Equip"
-msgstr ""
+msgstr "Equipaggia"
 
 msgctxt "697||||text"
 msgid "Effect"
-msgstr ""
+msgstr "Effetto"
 
 msgctxt "698||||text"
 msgid "Gun Resist"
-msgstr ""
+msgstr "Res. alle armi da fuoco"
 
 msgctxt "699||||text"
 msgid "Blade Resist"
-msgstr ""
+msgstr "Res. alle lame"
 
 msgctxt "700||||text"
 msgid "Stamina"
-msgstr ""
+msgstr "Resistenza"
 
 msgctxt "702||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "703||||text"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "704||||text"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "705||||text"
 msgid "Onomichi"
-msgstr ""
+msgstr "Onomichi"
 
 msgctxt "706||||text"
 msgid "Others"
-msgstr ""
+msgstr "Altro"
 
 msgctxt "707||||text"
 msgid "Tojo Clan"
-msgstr ""
+msgstr "Clan Tojo"
 
 msgctxt "708||||text"
 msgid "Yomei Alliance"
-msgstr ""
+msgstr "Alleanza Yomei"
 
 msgctxt "712||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "713||||text"
 msgid "Reset"
-msgstr ""
+msgstr "Ripristina"
 
 msgctxt "714||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "715||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "716||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "717||||text"
 msgid "Trouble Missions"
-msgstr ""
+msgstr "Missioni SOS"
 
 msgctxt "718||||text"
 msgid "All"
-msgstr ""
+msgstr "Tutte"
 
 msgctxt "719||||text"
 msgid "Substories"
-msgstr ""
+msgstr "Storie secondarie"
 
 msgctxt "720||||text"
 msgid "Reward"
-msgstr ""
+msgstr "Ricompensa"
 
 msgctxt "721||||text"
 msgid "Mission Details"
-msgstr ""
+msgstr "Dettagli missione"
 
 msgctxt "722||||text"
 msgid "Album"
-msgstr ""
+msgstr "Album"
 
 msgctxt "723||||text"
 msgid "Clan Creator"
-msgstr ""
+msgstr "Creatore di clan"
 
 msgctxt "724||||text"
 msgid "Total Leaders"
-msgstr ""
+msgstr "Leader totali"
 
 msgctxt "725||||text"
 msgid "Total Strength"
-msgstr ""
+msgstr "Forza totale"
 
 msgctxt "726||||text"
 msgid "Kamurocho Missions Cleared"
-msgstr ""
+msgstr "Missioni a Kamurocho completate"
 
 msgctxt "727||||text"
 msgid "Onomichi Missions Cleared"
-msgstr ""
+msgstr "Missioni a Onomichi completate"
 
 msgctxt "728||||text"
 msgid "Times Played"
-msgstr ""
+msgstr "Volte giocato"
 
 msgctxt "729||||text"
 msgid "Total Kills"
-msgstr ""
+msgstr "Uccisioni totali"
 
 msgctxt "730||||text"
 msgid "Kamurocho Missions"
-msgstr ""
+msgstr "Missioni a Kamurocho"
 
 msgctxt "731||||text"
 msgid "Onomichi Missions"
-msgstr ""
+msgstr "Missioni a Onomichi"
 
 msgctxt "732||||text"
 msgid "Awards"
-msgstr ""
+msgstr "Premi"
 
 msgctxt "733||||text"
 msgid "Items"
-msgstr ""
+msgstr "Oggetti"
 
 msgctxt "734||||text"
 msgid "Inbox"
-msgstr ""
+msgstr "Messaggi"
 
 msgctxt "735||||text"
 msgid "Unread Messages:"
-msgstr ""
+msgstr "Messaggi non letti:"
 
 msgctxt "736||||text"
 msgid "Stats"
-msgstr ""
+msgstr "Statistiche"
 
 msgctxt "737||||text"
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
 
 msgctxt "738||||text"
 msgid "Troublr"
-msgstr ""
+msgstr "Troublr"
 
 msgctxt "739||||text"
 msgid "Tasks"
-msgstr ""
+msgstr "Incarichi"
 
 msgctxt "740||||text"
 msgid "Results"
-msgstr ""
+msgstr "Risultati"
 
 msgctxt "741||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "742||||text"
 msgid "Speaker Direction"
-msgstr ""
+msgstr "Direzione altoparlanti"
 
 msgctxt "743||||text"
 msgid "Stereo"
-msgstr ""
+msgstr "Stereo"
 
 msgctxt "744||||text"
 msgid "Surround 7.1"
-msgstr ""
+msgstr "Surround 7.1"
 
 msgctxt "745||||text"
 msgid "Surround 5.1"
-msgstr ""
+msgstr "Surround 5.1"
 
 msgctxt "746||||text"
 msgid "Adjust brightness and saturation to your preference."
-msgstr ""
+msgstr "Regola la luminosità e la saturazione secondo le tue preferenze."
 
 msgctxt "747||||text"
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
 
 msgctxt "748||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "749||||text"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "750||||text"
 msgid "Reset"
-msgstr ""
+msgstr "Ripristina"
 
 msgctxt "751||||text"
 msgid "Press <Sign:1> to view minigame guide"
-msgstr ""
+msgstr "Premi <Sign:1> per la guida al minigioco"
 
 msgctxt "752||||text"
 msgid "Show/Hide Details"
-msgstr ""
+msgstr "Mostra/Nascondi dettagli"
 
 msgctxt "753||||text"
 msgid "Order/Cancel"
-msgstr ""
+msgstr "Ordina/Annulla"
 
 msgctxt "754||||text"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "755||||text"
 msgid "Order"
-msgstr ""
+msgstr "Ordina"
 
 msgctxt "756||||text"
 msgid "Add to Cart"
-msgstr ""
+msgstr "Aggiungi al carrello"
 
 msgctxt "757||||text"
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 msgctxt "758||||text"
 msgid "Add to Cart"
-msgstr ""
+msgstr "Aggiungi al carrello"
 
 msgctxt "759||||text"
 msgid "Health"
-msgstr ""
+msgstr "Salute"
 
 msgctxt "760||||text"
 msgid "Attack"
-msgstr ""
+msgstr "Attacco"
 
 msgctxt "761||||text"
 msgid "Heat Gauge"
-msgstr ""
+msgstr "Barra Furore"
 
 msgctxt "762||||text"
 msgid "Evasion"
-msgstr ""
+msgstr "Schivata"
 
 msgctxt "763||||text"
 msgid "Defense"
-msgstr ""
+msgstr "Difesa"
 
 msgctxt "764||||text"
 msgid "Blade Resist"
-msgstr ""
+msgstr "Res. alle lame"
 
 msgctxt "765||||text"
 msgid "Gun Resist"
-msgstr ""
+msgstr "Res. alle armi da fuoco"
 
 msgctxt "766||||text"
 msgid "Stamina"
-msgstr ""
+msgstr "Resistenza"
 
 msgctxt "767||||text"
 msgid "Effect"
-msgstr ""
+msgstr "Effetto"
 
 msgctxt "768||||text"
 msgid "Quantity"
-msgstr ""
+msgstr "Quantità"
 
 msgctxt "769||||text"
 msgid "Order"
-msgstr ""
+msgstr "Ordina"
 
 msgctxt "770||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "771||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "772||||text"
 msgid "King of New Gaudi"
-msgstr ""
+msgstr "Re del New Gaudi"
 
 msgctxt "773||||text"
 msgid "Beloved Customer"
-msgstr ""
+msgstr "Cliente prediletto"
 
 msgctxt "774||||text"
 msgid "Regular Customer"
-msgstr ""
+msgstr "Cliente abituale"
 
 msgctxt "775||||text"
 msgid "Frequent Customer"
-msgstr ""
+msgstr "Cliente frequente"
 
 msgctxt "776||||text"
 msgid "Occasional Customer"
-msgstr ""
+msgstr "Cliente occasionale"
 
 msgctxt "777||||text"
 msgid "Unknown"
-msgstr ""
+msgstr "Sconosciuto"
 
 msgctxt "778||||text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "779||||text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "780||||text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "781||||text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "782||||text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "783||||text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "784||||text"
 msgid "Liveliness"
-msgstr ""
+msgstr "Vivacità"
 
 msgctxt "785||||text"
 msgid "Results"
-msgstr ""
+msgstr "Risultati"
 
 msgctxt "786||||text"
 msgid "Good"
-msgstr ""
+msgstr "Bene"
 
 msgctxt "787||||text"
 msgid "Bad"
-msgstr ""
+msgstr "Male"
 
 msgctxt "788||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "789||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "790||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "791||||text"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 msgctxt "792||||text"
 msgid "Hatakeyama-san"
-msgstr ""
+msgstr "Hatakeyama-san"
 
 msgctxt "793||||text"
 msgid "Kaneko-san"
-msgstr ""
+msgstr "Kaneko-san"
 
 msgctxt "794||||text"
 msgid "Ando-san"
-msgstr ""
+msgstr "Ando-san"
 
 msgctxt "795||||text"
 msgid "Akiyoshi-san"
-msgstr ""
+msgstr "Akiyoshi-san"
 
 msgctxt "796||||text"
 msgid "Gen-san"
-msgstr ""
+msgstr "Gen-san"
 
 msgctxt "797||||text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "798||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "799||||text"
 msgid "Order Status"
-msgstr ""
+msgstr "Stato ordine"
 
 msgctxt "800||||text"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "801||||text"
 msgid "Buy"
-msgstr ""
+msgstr "Compra"
 
 msgctxt "802||||text"
 msgid "Sell"
-msgstr ""
+msgstr "Vendi"
 
 msgctxt "803||||text"
 msgid "Show/Hide Details"
-msgstr ""
+msgstr "Mostra/Nascondi dettagli"
 
 msgctxt "804||||text"
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 msgctxt "805||||text"
 msgid "Add to Cart"
-msgstr ""
+msgstr "Aggiungi al carrello"
 
 msgctxt "806||||text"
 msgid "Buy"
-msgstr ""
+msgstr "Compra"
 
 msgctxt "807||||text"
 msgid "<color=#000000>Next</color>"
-msgstr ""
+msgstr "<color=#000000>Avanti</color>"
 
 msgctxt "808||||text"
 msgid "To Next Level:"
-msgstr ""
+msgstr "Al prossimo livello:"
 
 msgctxt "809||||text"
 msgid "Today's Haul"
-msgstr ""
+msgstr "Bottino di oggi"
 
 msgctxt "810||||text"
 msgid "Air Capacity"
-msgstr ""
+msgstr "Capacità polmonare"
 
 msgctxt "811||||text"
 msgid "Reload"
-msgstr ""
+msgstr "Ricarica"
 
 msgctxt "812||||text"
 msgid "Beginner"
-msgstr ""
+msgstr "Principiante"
 
 msgctxt "813||||text"
 msgid "Intermediate"
-msgstr ""
+msgstr "Intermedio"
 
 msgctxt "814||||text"
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzato"
 
 msgctxt "815||||text"
 msgid "Expert"
-msgstr ""
+msgstr "Esperto"
 
 msgctxt "816||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "817||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "818||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "819||||text"
 msgid "Select a fishing spot."
-msgstr ""
+msgstr "Seleziona un punto di pesca."
 
 msgctxt "820||||text"
 msgid "Dragon's Den"
-msgstr ""
+msgstr "Tana del Drago"
 
 msgctxt "821||||text"
 msgid "Azure Coast"
-msgstr ""
+msgstr "Costa Azzurra"
 
 msgctxt "822||||text"
 msgid "Sunken Labyrinth"
-msgstr ""
+msgstr "Labirinto Sommerso"
 
 msgctxt "823||||text"
 msgid "Marine Life"
-msgstr ""
+msgstr "Fauna marina"
 
 msgctxt "824||||text"
 msgid "High Score"
-msgstr ""
+msgstr "Record"
 
 msgctxt "825||||text"
 msgid "Difficulty"
-msgstr ""
+msgstr "Difficoltà"
 
 msgctxt "826||||text"
 msgid "Strength:"
-msgstr ""
+msgstr "Forza:"
 
 msgctxt "827||||text"
 msgid "<color=#000000>Back</color>"
-msgstr ""
+msgstr "<color=#000000>Indietro</color>"
 
 msgctxt "828||||text"
 msgid "<color=#000000>Select</color>"
-msgstr ""
+msgstr "<color=#000000>Seleziona</color>"
 
 msgctxt "829||||text"
 msgid "Spear Count:"
-msgstr ""
+msgstr "Numero di arpioni:"
 
 msgctxt "830||||text"
 msgid "Aiming Speed:"
-msgstr ""
+msgstr "Velocità di mira:"
 
 msgctxt "831||||text"
 msgid "Checkpoint"
-msgstr ""
+msgstr "Punto di controllo"
 
 msgctxt "832||||text"
 msgid "Start"
-msgstr ""
+msgstr "Inizia"
 
 msgctxt "833||||text"
 msgid "Mission"
-msgstr ""
+msgstr "Missione"
 
 msgctxt "834||||text"
 msgid "You can use the merchant password in the full game.\r\n\r\nSay the password to the black market merchant hiding somewhere\r\nin Kamurocho to do business with them and buy rare items."
-msgstr ""
+msgstr "Potrai usare la password del mercante nel gioco completo.\r\n\r\nRiferisci la password al mercante del mercato nero nascosto da qualche parte\r\na Kamurocho per fare affari con lui e acquistare oggetti rari."
 
 msgctxt "835||||text"
 msgid "Passwords"
-msgstr ""
+msgstr "Password"
 
 msgctxt "836||||text"
 msgid "Look around the environment with the right stick.\r\nIf the Focus Icon appears, press the corresponding button to\r\nfocus on that point of interest, which may trigger an event."
-msgstr ""
+msgstr "Guardati attorno con la levetta destra.\r\nSe appare l'icona di Focus, premi il tasto corrispondente per\r\nconcentrarti sul punto di interesse, il che potrebbe innescare un evento."
 
 msgctxt "837||||text"
 msgid "Focus"
-msgstr ""
+msgstr "Focus"
 
 msgctxt "838||||text"
 msgid "※You cannot use EXP to upgrade abilities in the demo."
-msgstr ""
+msgstr "※Non puoi usare i punti EXP per potenziare le abilità nella demo."
 
 msgctxt "839||||text"
 msgid "EXP is obtained by defeating enemies and clearing missions.\r\nThere are five types of EXP that apply to Kiryu's five skills.\r\nYou can also obtain EXP by eating."
-msgstr ""
+msgstr "I punti EXP si ottengono sconfiggendo i nemici e completando le missioni.\r\nEsistono cinque tipi di EXP che si applicano alle cinque abilità di Kiryu.\r\nPuoi ottenere EXP anche mangiando."
 
 msgctxt "840||||text"
 msgid "Experience Points"
-msgstr ""
+msgstr "Punti esperienza"
 
 msgctxt "841||||text"
 msgid "※You cannot use EXP to upgrade abilities in the demo."
-msgstr ""
+msgstr "※Non puoi usare i punti EXP per potenziare le abilità nella demo."
 
 msgctxt "842||||text"
 msgid "Eating at a restaurant recovers your health and gives you EXP.\r\nDifferent foods generate different types of EXP.\r\n\r\nSome menu combinations will even give you bonus EXP,\r\nso try eating stuff that goes well together.\r\n\r\nBut remember, you won't gain any EXP if Kiryu is full.\r\nGetting into fights is the best way to work up an appetite."
-msgstr ""
+msgstr "Mangiare in un ristorante ripristina la tua salute e ti dà punti EXP.\r\nCibi diversi generano tipi di EXP differenti.\r\n\r\nAlcune combinazioni del menù possono fornirti persino EXP bonus,\r\nquindi cerca di abbinare i cibi con intelligenza.\r\n\r\nMa ricorda, se Kiryu è sazio non otterrai alcun punto EXP.\r\nIl modo migliore per farsi venire fame è affrontare qualche scontro."
 
 msgctxt "843||||text"
 msgid "Restaurants"
-msgstr ""
+msgstr "Ristoranti"
 
 msgctxt "844||||text"
 msgid "Filling up your Heat Orbs enough will allow you to press R2\r\nto enter Heat Mode. While in Extreme Heat Mode, Kiryu becomes\r\nmore powerful and can execute special Heat Action as well\r\nas flurries of strikes. Use this to your advantage in tough fights."
-msgstr ""
+msgstr "Riempire a sufficienza i globi Furore ti permetterà di premere R2\r\nper entrare in Modalità Furore. Nella Modalità Furore Estremo, Kiryu diventa\r\npiù potente e può eseguire le speciali Azioni Furore,\r\noltre a letali raffiche di colpi. Sfruttalo a tuo vantaggio nei combattimenti più ardui."
 
 msgctxt "845||||text"
 msgid "Heat Mode"
-msgstr ""
+msgstr "Modalità Furore"
 
 msgctxt "846||||text"
 msgid "Eating will recover your health and a full meal will even\r\ngrant EXP. If you throw away or drop the food before\r\nyou've eaten it all, though, you won't recover health or\r\ngain any EXP.\r\n"
-msgstr ""
+msgstr "Mangiare ripristina la tua salute, e un pasto completo ti\r\ngarantirà persino punti EXP. Tuttavia, se butti via o fai cadere il cibo\r\nprima di averlo finito, non recupererai alcuna salute\r\nné guadagnerai punti EXP.\r\n"
 
 msgctxt "847||||text"
 msgid "Obtaining Food"
-msgstr ""
+msgstr "Ottenere cibo"
 
 msgctxt "848||||text"
 msgid "Eating Food"
-msgstr ""
+msgstr "Mangiare il cibo"
 
 msgctxt "849||||text"
 msgid "Food"
-msgstr ""
+msgstr "Cibo"
 
 msgctxt "850||||text"
 msgid "Your progress is tracked through \"Missions\" which will\r\nstate your objective in the upper-right. This applies to\r\nboth main story objectives and substory objectives.\r\nIf you need to look at them again, you can find them\r\nin the Pause Menu."
-msgstr ""
+msgstr "I tuoi progressi sono tracciati attraverso le \"Missioni\", con\r\nl'obiettivo mostrato in alto a destra. Questo si applica sia\r\nalla storia principale che alle storie secondarie.\r\nSe hai bisogno di controllarle nuovamente, puoi trovarle\r\nnel Menu di pausa."
 
 msgctxt "851||||text"
 msgid "Active Mission"
-msgstr ""
+msgstr "Missione attiva"
 
 msgctxt "852||||text"
 msgid "Mission Cleared"
-msgstr ""
+msgstr "Missione completata"
 
 msgctxt "853||||text"
 msgid "Mission Display"
-msgstr ""
+msgstr "Schermata missione"
 
 msgctxt "854||||text"
 msgid "Convenience Stores are unavailable in the demo."
-msgstr ""
+msgstr "I minimarket non sono disponibili nella demo."
 
 msgctxt "855||||text"
 msgid "Convenience Store"
-msgstr ""
+msgstr "Minimarket"
 
 msgctxt "856||||text"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "857||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "858||||text"
 msgid "Destination List"
-msgstr ""
+msgstr "Elenco destinazioni"
 
 msgctxt "859||||text"
 msgid "One Throw"
-msgstr ""
+msgstr "Un tiro"
 
 msgctxt "860||||text"
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 
 msgctxt "861||||text"
 msgid "Throw"
-msgstr ""
+msgstr "Tira"
 
 msgctxt "862||||text"
 msgid "Controls"
-msgstr ""
+msgstr "Comandi"
 
 msgctxt "863||||text"
 msgid "PRESS ANY BUTTON"
-msgstr ""
+msgstr "PREMI UN TASTO QUALSIASI"
 
 msgctxt "864||||text"
 msgid "NEW GAME"
-msgstr ""
+msgstr "NUOVA PARTITA"
 
 msgctxt "865||||text"
 msgid "Select a difficulty."
-msgstr ""
+msgstr "Seleziona una difficoltà."
 
 msgctxt "866||||text"
 msgid "EASY"
-msgstr ""
+msgstr "FACILE"
 
 msgctxt "867||||text"
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMALE"
 
 msgctxt "868||||text"
 msgid "HARD"
-msgstr ""
+msgstr "DIFFICILE"
 
 msgctxt "869||||text"
 msgid "LEGEND"
-msgstr ""
+msgstr "LEGGENDA"
 
 msgctxt "870||||text"
 msgid "NEW GAME"
-msgstr ""
+msgstr "NUOVA PARTITA"
 
 msgctxt "871||||text"
 msgid "PREMIUM ADVENTURE"
-msgstr ""
+msgstr "AVVENTURA PREMIUM"
 
 msgctxt "872||||text"
 msgid "GRAPHICS SETTINGS"
-msgstr ""
+msgstr "IMPOSTAZIONI GRAFICHE"
 
 msgctxt "873||||text"
 msgid "CONTROLS"
-msgstr ""
+msgstr "COMANDI"
 
 msgctxt "874||||text"
 msgid "GAME SETTINGS"
-msgstr ""
+msgstr "IMPOSTAZIONI DI GIOCO"
 
 msgctxt "875||||text"
 msgid "AUDIO SETTINGS"
-msgstr ""
+msgstr "IMPOSTAZIONI AUDIO"
 
 msgctxt "876||||text"
 msgid "MEMORIES"
-msgstr ""
+msgstr "RICORDI"
 
 msgctxt "877||||text"
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgctxt "878||||text"
 msgid "SETTINGS"
-msgstr ""
+msgstr "IMPOSTAZIONI"
 
 msgctxt "879||||text"
 msgid "Configure Settings"
-msgstr ""
+msgstr "Configura le impostazioni"
 
 msgctxt "880||||text"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "881||||text"
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 msgctxt "882||||text"
 msgid "Demo Version"
-msgstr ""
+msgstr "Versione Demo"
 
 msgctxt "883||||text"
 msgid "2-PLAYER VS MINIGAMES"
-msgstr ""
+msgstr "MINIGIOCHI VS 2 GIOCATORI"
 
 msgctxt "884||||text"
 msgid "NEW GAME"
-msgstr ""
+msgstr "NUOVA PARTITA"
 
 msgctxt "885||||text"
 msgid "Details"
-msgstr ""
+msgstr "Dettagli"
 
 msgctxt "886||||text"
 msgid "Next"
-msgstr ""
-
+msgstr "Avanti"

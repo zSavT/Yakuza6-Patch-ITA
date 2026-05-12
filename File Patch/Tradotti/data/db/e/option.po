@@ -9,1209 +9,1208 @@ msgstr ""
 
 msgctxt "1||difficulty||name"
 msgid "Difficulty"
-msgstr ""
+msgstr "Difficoltà"
 
 msgctxt "3||free_camera_vertical||name"
 msgid "Camera Control (Vertical)"
-msgstr ""
+msgstr "Telecamera (verticale)"
 
 msgctxt "4||free_camera_horizontal||name"
 msgid "Camera Control (Horizontal)"
-msgstr ""
+msgstr "Telecamera (orizzontale)"
 
 msgctxt "11||brightness||name"
 msgid "Brightness"
-msgstr ""
+msgstr "Luminosità"
 
 msgctxt "12||gamma||name"
 msgid "Gamma"
-msgstr ""
+msgstr "Gamma"
 
 msgctxt "13||camera_sensitivity||name"
 msgid "Camera Movement Speed"
-msgstr ""
+msgstr "Velocità telecamera"
 
 msgctxt "14||pov_camera_vertical||name"
 msgid "First-Person View (Vertical)"
-msgstr ""
+msgstr "Visuale in prima persona (verticale)"
 
 msgctxt "15||pov_camera_horizontal||name"
 msgid "First-Person View (Horizontal)"
-msgstr ""
+msgstr "Visuale in prima persona (orizzontale)"
 
 msgctxt "16||minimap_visible||name"
 msgid "Minimap Display"
-msgstr ""
+msgstr "Mostra minimappa"
 
 msgctxt "17||blood_type||name"
 msgid "Blood Level"
-msgstr ""
+msgstr "Livello di sangue"
 
 msgctxt "18||font_kind||name"
 msgid "Set Font"
-msgstr ""
+msgstr "Imposta carattere"
 
 msgctxt "19||minimap_direction||name"
 msgid "Minimap Rotation"
-msgstr ""
+msgstr "Rotazione minimappa"
 
 msgctxt "20||subtitles_display||name"
 msgid "Subtitles"
-msgstr ""
+msgstr "Sottotitoli"
 
 msgctxt "25||speaker_type||name"
 msgid "Speaker Type"
-msgstr ""
+msgstr "Tipo di altoparlanti"
 
 msgctxt "26||speaker_front_angle||name"
 msgid "Front"
-msgstr ""
+msgstr "Fronte"
 
 msgctxt "27||speaker_rear_angle||name"
 msgid "Back"
-msgstr ""
+msgstr "Retro"
 
 msgctxt "28||auto_camera||name"
 msgid "Auto Camera"
-msgstr ""
+msgstr "Telecamera automatica"
 
 msgctxt "29||ringtone||name"
 msgid "Ringtone"
-msgstr ""
+msgstr "Suoneria"
 
 msgctxt "30||hud_enabled||name"
 msgid "HUD Visible"
-msgstr ""
+msgstr "Mostra HUD"
 
 msgctxt "32||graphics_output||name"
 msgid "Output Device"
-msgstr ""
+msgstr "Dispositivo di uscita"
 
 msgctxt "33||graphics_display_mode||name"
 msgid "Display Mode"
-msgstr ""
+msgstr "Modalità schermo"
 
 msgctxt "34||graphics_display_resolution||name"
 msgid "Resolution"
-msgstr ""
+msgstr "Risoluzione"
 
 msgctxt "35||graphics_refresh_rate||name"
 msgid "Refresh Rate"
-msgstr ""
+msgstr "Frequenza d'aggiornamento"
 
 msgctxt "36||graphics_vertical_sync||name"
 msgid "Vertical Sync"
-msgstr ""
+msgstr "Sincronizzazione verticale (V-Sync)"
 
 msgctxt "37||graphics_quality_preset||name"
 msgid "Quality"
-msgstr ""
+msgstr "Qualità"
 
 msgctxt "38||graphics_fov||name"
 msgid "FOV"
-msgstr ""
+msgstr "FOV"
 
 msgctxt "39||graphics_fps||name"
 msgid "FPS"
-msgstr ""
+msgstr "FPS"
 
 msgctxt "40||graphics_texture_quality||name"
 msgid "Texture Quality"
-msgstr ""
+msgstr "Qualità texture"
 
 msgctxt "41||graphics_texture_filtering||name"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Filtro texture"
 
 msgctxt "42||graphics_shadow_quality||name"
 msgid "Shadows Quality"
-msgstr ""
+msgstr "Qualità ombre"
 
 msgctxt "43||graphics_geometry_quality||name"
 msgid "Geometry Quality"
-msgstr ""
+msgstr "Qualità geometria"
 
 msgctxt "44||graphics_realtime_reflections||name"
 msgid "Realtime Reflections"
-msgstr ""
+msgstr "Riflessi in tempo reale"
 
 msgctxt "45||graphics_motion_blur||name"
 msgid "Motion Blur"
-msgstr ""
+msgstr "Motion Blur"
 
 msgctxt "46||graphics_ssao||name"
 msgid "SSAO"
-msgstr ""
+msgstr "SSAO"
 
 msgctxt "47||graphics_ssss||name"
 msgid "Subsurface Scattering"
-msgstr ""
+msgstr "Subsurface Scattering"
 
 msgctxt "48||graphics_render_scale||name"
 msgid "Render Scale"
-msgstr ""
+msgstr "Scala di rendering"
 
 msgctxt "49||graphics_advanced_button||name"
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzate"
 
 msgctxt "50||graphics_aa||name"
 msgid "Anti-aliasing"
-msgstr ""
+msgstr "Anti-aliasing"
 
 msgctxt "51||graphics_dof||name"
 msgid "Depth of Field"
-msgstr ""
+msgstr "Profondità di campo"
 
 msgctxt "52||volume_music||name"
 msgid "Music"
-msgstr ""
+msgstr "Musica"
 
 msgctxt "53||volume_effect||name"
 msgid "Effects"
-msgstr ""
+msgstr "Effetti sonori"
 
 msgctxt "54||volume_dialog||name"
 msgid "Dialog"
-msgstr ""
+msgstr "Dialoghi"
 
 msgctxt "55||volume_cinema||name"
 msgid "Cinema"
-msgstr ""
+msgstr "Filmati"
 
 msgctxt "56||icon_select||name"
 msgid "Icon Select"
-msgstr ""
+msgstr "Icone tasti"
 
 msgctxt "57||disable_windows_key||name"
 msgid "Disable Windows Key"
-msgstr ""
+msgstr "Disabilita tasto Windows"
 
 msgctxt "58||tattoo_bars||name"
 msgid "Letterbox Artworks"
-msgstr ""
+msgstr "Grafiche Letterbox"
 
 msgctxt "59||mouse_cursor||name"
 msgid "Mouse Cursor"
-msgstr ""
+msgstr "Cursore del mouse"
 
 msgctxt "60||controller_vibration||name"
 msgid "Controller Vibration"
-msgstr ""
+msgstr "Vibrazione controller"
 
 msgctxt "61||speaker_front_angle_7_1||name"
 msgid "Front"
-msgstr ""
+msgstr "Fronte"
 
 msgctxt "62||speaker_surround_angle_5_1||name"
 msgid "Surround"
-msgstr ""
+msgstr "Surround"
 
 msgctxt "63||speaker_surround_angle_7_1||name"
 msgid "Surround"
-msgstr ""
+msgstr "Surround"
 
 msgctxt "64||speaker_rear_angle_7_1||name"
 msgid "Back"
-msgstr ""
+msgstr "Retro"
 
 msgctxt "65||volume_master||name"
 msgid "Master"
-msgstr ""
+msgstr "Volume principale"
 
 msgctxt "66||graphics_ui_limit_ui||name"
 msgid "UI Layout Width Limit"
-msgstr ""
+msgstr "Limite larghezza layout UI"
 
 msgctxt "67||graphics_ui_limit_minigame||name"
 msgid "Middle Screen View Limit"
-msgstr ""
+msgstr "Limite visuale schermo centrale"
 
 msgctxt "68||hide_skip_prompt||name"
 msgid "Hide Skip prompt in dialogues"
-msgstr ""
+msgstr "Nascondi il comando Salta nei dialoghi"
 
 msgctxt "1||difficulty||explanation"
 msgid "You can set the difficulty."
-msgstr ""
+msgstr "Imposta il livello di difficoltà."
 
 msgctxt "3||free_camera_vertical||explanation"
 msgid "Change how to move the camera vertically."
-msgstr ""
+msgstr "Modifica il movimento verticale della telecamera."
 
 msgctxt "4||free_camera_horizontal||explanation"
 msgid "Change how to move the camera horizontally."
-msgstr ""
+msgstr "Modifica il movimento orizzontale della telecamera."
 
 msgctxt "11||brightness||explanation"
 msgid "Slide the cursor to adjust the brightness."
-msgstr ""
+msgstr "Scorri il cursore per regolare la luminosità."
 
 msgctxt "12||gamma||explanation"
 msgid "Slide the cursor to adjust the gamma correction."
-msgstr ""
+msgstr "Scorri il cursore per regolare la correzione gamma."
 
 msgctxt "13||camera_sensitivity||explanation"
 msgid "Set the speed the camera moves at. \r\nSlide the cursor to adjust the speed."
-msgstr ""
+msgstr "Imposta la velocità di movimento della telecamera. \r\nScorri il cursore per regolarla."
 
 msgctxt "14||pov_camera_vertical||explanation"
 msgid "Change how to move the first-person camera vertically."
-msgstr ""
+msgstr "Modifica il movimento verticale della telecamera in prima persona."
 
 msgctxt "15||pov_camera_horizontal||explanation"
 msgid "Change how to move the first-person camera horizontally."
-msgstr ""
+msgstr "Modifica il movimento orizzontale della telecamera in prima persona."
 
 msgctxt "16||minimap_visible||explanation"
 msgid "Switch on/off the minimap that appears in the lower\r\nleft part of the screen."
-msgstr ""
+msgstr "Attiva/disattiva la minimappa che appare nella parte\r\ninferiore sinistra dello schermo."
 
 msgctxt "17||blood_type||explanation"
 msgid "Set the level of blood to display."
-msgstr ""
+msgstr "Imposta il livello di sangue mostrato a schermo."
 
 msgctxt "18||font_kind||explanation"
 msgid "Change the font used during the game."
-msgstr ""
+msgstr "Cambia il carattere usato nel gioco."
 
 msgctxt "19||minimap_direction||explanation"
 msgid "Switch on/off minimap rotation. If turned on,\r\nthe minimap will rotate with the camera."
-msgstr ""
+msgstr "Attiva/disattiva la rotazione della minimappa. Se attivata,\r\nla minimappa ruoterà insieme alla telecamera."
 
 msgctxt "20||subtitles_display||explanation"
 msgid "Switch on/off subtitles for movie scenes."
-msgstr ""
+msgstr "Attiva o disattiva i sottotitoli per i filmati."
 
 msgctxt "25||speaker_type||explanation"
 msgid "Select between stereo, surround 5.1 or surround 7.1 sound."
-msgstr ""
+msgstr "Scegli tra audio stereo, surround 5.1 o surround 7.1."
 
 msgctxt "26||speaker_front_angle||explanation"
 msgid "Adjust to your speakers' angle for optimal quality."
-msgstr ""
+msgstr "Regola l'angolazione dei tuoi altoparlanti per una qualità ottimale."
 
 msgctxt "27||speaker_rear_angle||explanation"
 msgid "Adjust to your speakers' angle for optimal quality."
-msgstr ""
+msgstr "Regola l'angolazione dei tuoi altoparlanti per una qualità ottimale."
 
 msgctxt "28||auto_camera||explanation"
 msgid "The camera's point of view will move automatically\r\ndepending on the situation. If you select Off, it\r\nwill not move unless the player moves it themselves."
-msgstr ""
+msgstr "La telecamera si sposterà automaticamente a seconda\r\ndella situazione. Se selezioni No, non si muoverà finché\r\nnon sarà il giocatore a farlo."
 
 msgctxt "29||ringtone||explanation"
 msgid "Change your smartphone's ringtone."
-msgstr ""
+msgstr "Cambia la suoneria del tuo smartphone."
 
 msgctxt "30||hud_enabled||explanation"
 msgid "Toggle ingame HUD on or off."
-msgstr ""
+msgstr "Attiva o disattiva l'HUD di gioco."
 
 msgctxt "32||graphics_output||explanation"
 msgid "Select output device for given adapter."
-msgstr ""
+msgstr "Seleziona il dispositivo di uscita per l'adattatore indicato."
 
 msgctxt "33||graphics_display_mode||explanation"
 msgid "Set display mode for your device."
-msgstr ""
+msgstr "Imposta la modalità schermo per il tuo dispositivo."
 
 msgctxt "34||graphics_display_resolution||explanation"
 msgid "Set display resolution for your device."
-msgstr ""
+msgstr "Imposta la risoluzione video per il tuo dispositivo."
 
 msgctxt "35||graphics_refresh_rate||explanation"
 msgid "Set refresh rate of your display device."
-msgstr ""
+msgstr "Imposta la frequenza d'aggiornamento del tuo schermo."
 
 msgctxt "36||graphics_vertical_sync||explanation"
 msgid "Set vertical synchronization for your display device."
-msgstr ""
+msgstr "Imposta la sincronizzazione verticale per il tuo schermo."
 
 msgctxt "37||graphics_quality_preset||explanation"
 msgid "Use presets to easily control advanced graphics settings."
-msgstr ""
+msgstr "Usa i preset per controllare facilmente le impostazioni grafiche avanzate."
 
 msgctxt "38||graphics_fov||explanation"
 msgid "Adjust field of view value."
-msgstr ""
+msgstr "Regola il valore del campo visivo (FOV)."
 
 msgctxt "39||graphics_fps||explanation"
 msgid "Set FPS limit."
-msgstr ""
+msgstr "Imposta il limite dei fotogrammi al secondo (FPS)."
 
 msgctxt "40||graphics_texture_quality||explanation"
 msgid "Set quality of textures."
-msgstr ""
+msgstr "Imposta la qualità delle texture."
 
 msgctxt "41||graphics_texture_filtering||explanation"
 msgid "Set anisotropy texture filtering."
-msgstr ""
+msgstr "Imposta il filtro anisotropico per le texture."
 
 msgctxt "42||graphics_shadow_quality||explanation"
 msgid "Set quality of shadows."
-msgstr ""
+msgstr "Imposta la qualità delle ombre."
 
 msgctxt "43||graphics_geometry_quality||explanation"
 msgid "Set quality of geometry meshes."
-msgstr ""
+msgstr "Imposta la qualità delle mesh geometriche."
 
 msgctxt "44||graphics_realtime_reflections||explanation"
 msgid "Enable or disable realtime reflections."
-msgstr ""
+msgstr "Attiva o disattiva i riflessi in tempo reale."
 
 msgctxt "45||graphics_motion_blur||explanation"
 msgid "Enable or disable motion blur."
-msgstr ""
+msgstr "Attiva o disattiva l'effetto motion blur."
 
 msgctxt "46||graphics_ssao||explanation"
 msgid "Enable or disable Screen Space Ambient Occlusion."
-msgstr ""
+msgstr "Attiva o disattiva l'occlusione ambientale (SSAO)."
 
 msgctxt "47||graphics_ssss||explanation"
 msgid "Enable or disable subsurface scattering."
-msgstr ""
+msgstr "Attiva o disattiva il subsurface scattering."
 
 msgctxt "48||graphics_render_scale||explanation"
 msgid "Adjust render scaling."
-msgstr ""
+msgstr "Regola la scala di rendering."
 
 msgctxt "49||graphics_advanced_button||explanation"
 msgid "Go to advanced graphics settings."
-msgstr ""
+msgstr "Vai alle impostazioni grafiche avanzate."
 
 msgctxt "50||graphics_aa||explanation"
 msgid "Set anti-aliasing type or disable it."
-msgstr ""
+msgstr "Imposta il tipo di anti-aliasing o disabilitalo."
 
 msgctxt "51||graphics_dof||explanation"
 msgid "Enable or disable Depth of Field."
-msgstr ""
+msgstr "Attiva o disattiva la profondità di campo."
 
 msgctxt "52||volume_music||explanation"
 msgid "Adjust music volume."
-msgstr ""
+msgstr "Regola il volume della musica."
 
 msgctxt "53||volume_effect||explanation"
 msgid "Adjust effects volume."
-msgstr ""
+msgstr "Regola il volume degli effetti sonori."
 
 msgctxt "54||volume_dialog||explanation"
 msgid "Adjust dialog volume."
-msgstr ""
+msgstr "Regola il volume dei dialoghi."
 
 msgctxt "55||volume_cinema||explanation"
 msgid "Adjust cinema volume."
-msgstr ""
+msgstr "Regola il volume dei filmati."
 
 msgctxt "56||icon_select||explanation"
 msgid "Option to choose what icons will be used."
-msgstr ""
+msgstr "Opzione per scegliere quali icone tasti usare a schermo."
 
 msgctxt "57||disable_windows_key||explanation"
 msgid "Disable Windows Key while the game is running."
-msgstr ""
+msgstr "Disabilita il tasto Windows mentre il gioco è in esecuzione."
 
 msgctxt "58||tattoo_bars||explanation"
 msgid "Enable or disable tattoo letterbox artwork\nused in aspect ratios different than 16:9."
-msgstr ""
+msgstr "Attiva o disattiva le grafiche dei tatuaggi nelle bande\nletterbox su aspect ratio differenti dal 16:9."
 
 msgctxt "59||mouse_cursor||explanation"
 msgid "Set mouse pointer to game or system style."
-msgstr ""
+msgstr "Imposta il puntatore del mouse sullo stile del gioco o del sistema."
 
 msgctxt "60||controller_vibration||explanation"
 msgid "Switch on/off the controller vibration."
-msgstr ""
+msgstr "Attiva o disattiva la vibrazione del controller."
 
 msgctxt "61||speaker_front_angle_7_1||explanation"
 msgid "Adjust to your speakers' angle for optimal quality."
-msgstr ""
+msgstr "Regola l'angolazione dei tuoi altoparlanti per una qualità ottimale."
 
 msgctxt "62||speaker_surround_angle_5_1||explanation"
 msgid "Adjust to your speakers' angle for optimal quality."
-msgstr ""
+msgstr "Regola l'angolazione dei tuoi altoparlanti per una qualità ottimale."
 
 msgctxt "63||speaker_surround_angle_7_1||explanation"
 msgid "Adjust to your speakers' angle for optimal quality."
-msgstr ""
+msgstr "Regola l'angolazione dei tuoi altoparlanti per una qualità ottimale."
 
 msgctxt "64||speaker_rear_angle_7_1||explanation"
 msgid "Adjust to your speakers' angle for optimal quality."
-msgstr ""
+msgstr "Regola l'angolazione dei tuoi altoparlanti per una qualità ottimale."
 
 msgctxt "65||volume_master||explanation"
 msgid "Adjust master volume."
-msgstr ""
+msgstr "Regola il volume principale."
 
 msgctxt "66||graphics_ui_limit_ui||explanation"
 msgid "Set maximum aspect ratio for the layout of UI elements.\nCan be used to shift UI from the edges toward the center \nof the screen."
-msgstr ""
+msgstr "Imposta l'aspect ratio massimo per gli elementi dell'interfaccia.\nPuò essere usato per spostare l'UI dai bordi verso il centro\ndello schermo."
 
 msgctxt "67||graphics_ui_limit_minigame||explanation"
 msgid "Set aspect ratio of the middle display. Can be used to fit \nparts of the game entirely within the primary screen of \nthe multi-monitor configuration."
-msgstr ""
+msgstr "Imposta l'aspect ratio dello schermo centrale. Può essere usato per far rientrare\nparti del gioco interamente nello schermo principale di una\nconfigurazione multi-monitor."
 
 msgctxt "68||hide_skip_prompt||explanation"
 msgid "Hides the Skip prompt in dialogues. \nSkipping dialogues is still possible."
-msgstr ""
+msgstr "Nasconde il comando per saltare i dialoghi. \nSarà comunque possibile saltarli."
 
 msgctxt "1||difficulty||subtable||1||easy||name"
 msgid "Easy"
-msgstr ""
+msgstr "Facile"
 
 msgctxt "1||difficulty||subtable||2||normal||name"
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 msgctxt "1||difficulty||subtable||3||hard||name"
 msgid "Hard"
-msgstr ""
+msgstr "Difficile"
 
 msgctxt "1||difficulty||subtable||4||legend||name"
 msgid "Legend"
-msgstr ""
+msgstr "Leggenda"
 
 msgctxt "3||free_camera_vertical||subtable||1||normal||name"
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 msgctxt "3||free_camera_vertical||subtable||2||inverted||name"
 msgid "Inverted"
-msgstr ""
+msgstr "Invertito"
 
 msgctxt "4||free_camera_horizontal||subtable||1||normal||name"
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 msgctxt "4||free_camera_horizontal||subtable||2||inverted||name"
 msgid "Inverted"
-msgstr ""
+msgstr "Invertito"
 
 msgctxt "14||pov_camera_vertical||subtable||1||normal||name"
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 msgctxt "14||pov_camera_vertical||subtable||2||inverted||name"
 msgid "Inverted"
-msgstr ""
+msgstr "Invertito"
 
 msgctxt "15||pov_camera_horizontal||subtable||1||normal||name"
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 msgctxt "15||pov_camera_horizontal||subtable||2||inverted||name"
 msgid "Inverted"
-msgstr ""
+msgstr "Invertito"
 
 msgctxt "16||minimap_visible||subtable||1||show||name"
 msgid "Show"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "16||minimap_visible||subtable||2||hide||name"
 msgid "Hide"
-msgstr ""
+msgstr "No"
 
 msgctxt "17||blood_type||subtable||1||normal||name"
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 msgctxt "17||blood_type||subtable||2||mild||name"
 msgid "Mild"
-msgstr ""
+msgstr "Ridotto"
 
 msgctxt "18||font_kind||subtable||1||mincho||name"
 msgid "Serif"
-msgstr ""
+msgstr "Serif"
 
 msgctxt "18||font_kind||subtable||2||gothic||name"
 msgid "Sans Serif"
-msgstr ""
+msgstr "Sans Serif"
 
 msgctxt "19||minimap_direction||subtable||1||fixed||name"
 msgid "Fixed"
-msgstr ""
+msgstr "Fissa"
 
 msgctxt "19||minimap_direction||subtable||2||free||name"
 msgid "Rotate"
-msgstr ""
+msgstr "Rotante"
 
 msgctxt "20||subtitles_display||subtable||1||show||name"
 msgid "Show"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "20||subtitles_display||subtable||2||hide||name"
 msgid "Hide"
-msgstr ""
+msgstr "No"
 
 msgctxt "25||speaker_type||subtable||1||stereo||name"
 msgid "Stereo"
-msgstr ""
+msgstr "Stereo"
 
 msgctxt "25||speaker_type||subtable||2||surround||name"
 msgid "Surround 5.1"
-msgstr ""
+msgstr "Surround 5.1"
 
 msgctxt "25||speaker_type||subtable||3||surround_7_1||name"
 msgid "Surround 7.1"
-msgstr ""
+msgstr "Surround 7.1"
 
 msgctxt "26||speaker_front_angle||subtable||1||degree15||name"
 msgid "15"
-msgstr ""
+msgstr "15"
 
 msgctxt "26||speaker_front_angle||subtable||2||degree20||name"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "26||speaker_front_angle||subtable||3||degree25||name"
 msgid "25"
-msgstr ""
+msgstr "25"
 
 msgctxt "26||speaker_front_angle||subtable||4||degree30||name"
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgctxt "26||speaker_front_angle||subtable||5||degree35||name"
 msgid "35"
-msgstr ""
+msgstr "35"
 
 msgctxt "26||speaker_front_angle||subtable||6||degree40||name"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 msgctxt "26||speaker_front_angle||subtable||7||degree45||name"
 msgid "45"
-msgstr ""
+msgstr "45"
 
 msgctxt "26||speaker_front_angle||subtable||8||degree50||name"
 msgid "50"
-msgstr ""
+msgstr "50"
 
 msgctxt "26||speaker_front_angle||subtable||9||degree55||name"
 msgid "55"
-msgstr ""
+msgstr "55"
 
 msgctxt "26||speaker_front_angle||subtable||10||degree60||name"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 msgctxt "26||speaker_front_angle||subtable||11||degree65||name"
 msgid "65"
-msgstr ""
+msgstr "65"
 
 msgctxt "26||speaker_front_angle||subtable||12||degree70||name"
 msgid "70"
-msgstr ""
+msgstr "70"
 
 msgctxt "26||speaker_front_angle||subtable||13||degree75||name"
 msgid "75"
-msgstr ""
+msgstr "75"
 
 msgctxt "26||speaker_front_angle||subtable||14||degree80||name"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 msgctxt "26||speaker_front_angle||subtable||15||degree85||name"
 msgid "85"
-msgstr ""
+msgstr "85"
 
 msgctxt "26||speaker_front_angle||subtable||16||degree90||name"
 msgid "90"
-msgstr ""
+msgstr "90"
 
 msgctxt "27||speaker_rear_angle||subtable||1||degree95||name"
 msgid "95"
-msgstr ""
+msgstr "95"
 
 msgctxt "27||speaker_rear_angle||subtable||2||degree100||name"
 msgid "100"
-msgstr ""
+msgstr "100"
 
 msgctxt "27||speaker_rear_angle||subtable||3||degree105||name"
 msgid "105"
-msgstr ""
+msgstr "105"
 
 msgctxt "27||speaker_rear_angle||subtable||4||degree110||name"
 msgid "110"
-msgstr ""
+msgstr "110"
 
 msgctxt "27||speaker_rear_angle||subtable||5||degree115||name"
 msgid "115"
-msgstr ""
+msgstr "115"
 
 msgctxt "27||speaker_rear_angle||subtable||6||degree120||name"
 msgid "120"
-msgstr ""
+msgstr "120"
 
 msgctxt "27||speaker_rear_angle||subtable||7||degree125||name"
 msgid "125"
-msgstr ""
+msgstr "125"
 
 msgctxt "27||speaker_rear_angle||subtable||8||degree130||name"
 msgid "130"
-msgstr ""
+msgstr "130"
 
 msgctxt "27||speaker_rear_angle||subtable||9||degree135||name"
 msgid "135"
-msgstr ""
+msgstr "135"
 
 msgctxt "27||speaker_rear_angle||subtable||10||degree140||name"
 msgid "140"
-msgstr ""
+msgstr "140"
 
 msgctxt "27||speaker_rear_angle||subtable||11||degree145||name"
 msgid "145"
-msgstr ""
+msgstr "145"
 
 msgctxt "27||speaker_rear_angle||subtable||12||degree150||name"
 msgid "150"
-msgstr ""
+msgstr "150"
 
 msgctxt "27||speaker_rear_angle||subtable||13||degree155||name"
 msgid "155"
-msgstr ""
+msgstr "155"
 
 msgctxt "27||speaker_rear_angle||subtable||14||degree160||name"
 msgid "160"
-msgstr ""
+msgstr "160"
 
 msgctxt "27||speaker_rear_angle||subtable||15||degree165||name"
 msgid "165"
-msgstr ""
+msgstr "165"
 
 msgctxt "28||auto_camera||subtable||1||enabled||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "28||auto_camera||subtable||2||disabled||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "29||ringtone||subtable||1||voices||name"
 msgid "Soundwaves"
-msgstr ""
+msgstr "Soundwaves"
 
 msgctxt "29||ringtone||subtable||2||simple||name"
 msgid "Basic Tone"
-msgstr ""
+msgstr "Tono base"
 
 msgctxt "29||ringtone||subtable||3||silent||name"
 msgid "Vibrate"
-msgstr ""
+msgstr "Vibrazione"
 
 msgctxt "30||hud_enabled||subtable||1||hud_enabled_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "30||hud_enabled||subtable||2||hud_enabled_on||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "33||graphics_display_mode||subtable||1||display_windowed||name"
 msgid "Windowed"
-msgstr ""
+msgstr "In finestra"
 
 msgctxt "33||graphics_display_mode||subtable||2||display_fullscreen||name"
 msgid "Fullscreen"
-msgstr ""
+msgstr "Schermo intero"
 
 msgctxt "33||graphics_display_mode||subtable||3||display_borderless||name"
 msgid "Borderless"
-msgstr ""
+msgstr "Finestra senza bordi"
 
 msgctxt "34||graphics_display_resolution||subtable||1||resolution_FHD||name"
 msgid "1920x1080"
-msgstr ""
+msgstr "1920x1080"
 
 msgctxt "34||graphics_display_resolution||subtable||2||resolution_HDready||name"
 msgid "1280x720"
-msgstr ""
+msgstr "1280x720"
 
 msgctxt "35||graphics_refresh_rate||subtable||1||refresh_60||name"
 msgid "60.0Hz"
-msgstr ""
+msgstr "60.0Hz"
 
 msgctxt "35||graphics_refresh_rate||subtable||2||refresh_120||name"
 msgid "120.0Hz"
-msgstr ""
+msgstr "120.0Hz"
 
 msgctxt "36||graphics_vertical_sync||subtable||1||vert_sync_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "36||graphics_vertical_sync||subtable||2||vert_sync_on||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "37||graphics_quality_preset||subtable||1||quality_low||name"
 msgid "Low"
-msgstr ""
+msgstr "Bassa"
 
 msgctxt "37||graphics_quality_preset||subtable||2||quality_med||name"
 msgid "Medium"
-msgstr ""
+msgstr "Media"
 
 msgctxt "37||graphics_quality_preset||subtable||3||quality_high||name"
 msgid "High"
-msgstr ""
+msgstr "Alta"
 
 msgctxt "37||graphics_quality_preset||subtable||4||quality_ultra||name"
 msgid "Ultra"
-msgstr ""
+msgstr "Ultra"
 
 msgctxt "37||graphics_quality_preset||subtable||5||quality_custom||name"
 msgid "Custom"
-msgstr ""
+msgstr "Personalizzata"
 
 msgctxt "39||graphics_fps||subtable||1||FPS_30||name"
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgctxt "39||graphics_fps||subtable||2||FPS_60||name"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 msgctxt "39||graphics_fps||subtable||3||FPS_120||name"
 msgid "120"
-msgstr ""
+msgstr "120"
 
 msgctxt "39||graphics_fps||subtable||4||FPS_OFF||name"
 msgid "Unlimited"
-msgstr ""
+msgstr "Illimitati"
 
 msgctxt "40||graphics_texture_quality||subtable||1||texture_quality_low||name"
 msgid "Low"
-msgstr ""
+msgstr "Bassa"
 
 msgctxt "40||graphics_texture_quality||subtable||2||texture_quality_med||name"
 msgid "Medium"
-msgstr ""
+msgstr "Media"
 
 msgctxt "40||graphics_texture_quality||subtable||3||texture_quality_high||name"
 msgid "High"
-msgstr ""
+msgstr "Alta"
 
 msgctxt "41||graphics_texture_filtering||subtable||1||texture_filtering_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "41||graphics_texture_filtering||subtable||2||texture_filtering_2x||name"
 msgid "2x"
-msgstr ""
+msgstr "2x"
 
 msgctxt "41||graphics_texture_filtering||subtable||3||texture_filtering_4x||name"
 msgid "4x"
-msgstr ""
+msgstr "4x"
 
 msgctxt "41||graphics_texture_filtering||subtable||4||texture_filtering_8x||name"
 msgid "8x"
-msgstr ""
+msgstr "8x"
 
 msgctxt "41||graphics_texture_filtering||subtable||5||texture_filtering_16x||name"
 msgid "16x"
-msgstr ""
+msgstr "16x"
 
 msgctxt "42||graphics_shadow_quality||subtable||1||shadow_quality_low||name"
 msgid "Low"
-msgstr ""
+msgstr "Bassa"
 
 msgctxt "42||graphics_shadow_quality||subtable||2||shadow_quality_med||name"
 msgid "Medium"
-msgstr ""
+msgstr "Media"
 
 msgctxt "42||graphics_shadow_quality||subtable||3||shadow_quality_high||name"
 msgid "High"
-msgstr ""
+msgstr "Alta"
 
 msgctxt "43||graphics_geometry_quality||subtable||1||geometry_quality_low||name"
 msgid "Low"
-msgstr ""
+msgstr "Bassa"
 
 msgctxt "43||graphics_geometry_quality||subtable||2||geometry_quality_med||name"
 msgid "Medium"
-msgstr ""
+msgstr "Media"
 
 msgctxt "43||graphics_geometry_quality||subtable||3||geometry_quality_high||name"
 msgid "High"
-msgstr ""
+msgstr "Alta"
 
 msgctxt "44||graphics_realtime_reflections||subtable||1||realtime_reflections_disabled||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "44||graphics_realtime_reflections||subtable||2||realtime_reflections_enabled||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "45||graphics_motion_blur||subtable||1||motion_blur_disabled||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "45||graphics_motion_blur||subtable||2||motion_blur_enabled||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "46||graphics_ssao||subtable||1||SSAO_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "46||graphics_ssao||subtable||2||SSAO_on||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "47||graphics_ssss||subtable||1||SSSS_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "47||graphics_ssss||subtable||2||SSSS_on||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "48||graphics_render_scale||subtable||1||render_scale_1x||name"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 msgctxt "48||graphics_render_scale||subtable||2||render_scale_0_75x||name"
 msgid "75%"
-msgstr ""
+msgstr "75%"
 
 msgctxt "48||graphics_render_scale||subtable||3||render_scale_0_5x||name"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 msgctxt "48||graphics_render_scale||subtable||4||render_scale_0_25x||name"
 msgid "25%"
-msgstr ""
+msgstr "25%"
 
 msgctxt "50||graphics_aa||subtable||1||AA_OFF||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "50||graphics_aa||subtable||2||FXAA||name"
 msgid "FXAA"
-msgstr ""
+msgstr "FXAA"
 
 msgctxt "50||graphics_aa||subtable||3||SMAA||name"
 msgid "SMAA"
-msgstr ""
+msgstr "SMAA"
 
 msgctxt "50||graphics_aa||subtable||4||SSAA125||name"
 msgid "SSAA 1.25x"
-msgstr ""
+msgstr "SSAA 1.25x"
 
 msgctxt "50||graphics_aa||subtable||5||SSAA150||name"
 msgid "SSAA 1.50x"
-msgstr ""
+msgstr "SSAA 1.50x"
 
 msgctxt "50||graphics_aa||subtable||6||SSAA175||name"
 msgid "SSAA 1.75x"
-msgstr ""
+msgstr "SSAA 1.75x"
 
 msgctxt "50||graphics_aa||subtable||7||SSAA200||name"
 msgid "SSAA 2.00x"
-msgstr ""
+msgstr "SSAA 2.00x"
 
 msgctxt "51||graphics_dof||subtable||1||DOF_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "51||graphics_dof||subtable||2||DOF_on||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "56||icon_select||subtable||1||auto||name"
 msgid "Auto"
-msgstr ""
+msgstr "Automatiche"
 
 msgctxt "56||icon_select||subtable||2||xbox||name"
 msgid "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
-msgstr ""
+msgstr "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
 
 msgctxt "56||icon_select||subtable||3||playstation||name"
 msgid "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
-msgstr ""
+msgstr "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
 
 msgctxt "56||icon_select||subtable||4||switch||name"
 msgid "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
-msgstr ""
+msgstr "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
 
 msgctxt "56||icon_select||subtable||5||directinput||name"
 msgid "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
-msgstr ""
+msgstr "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
 
 msgctxt "57||disable_windows_key||subtable||1||disable_windows_key_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "57||disable_windows_key||subtable||2||disable_windows_key_on||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "58||tattoo_bars||subtable||1||tattoo_bars_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "58||tattoo_bars||subtable||2||tattoo_bars_on||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "59||mouse_cursor||subtable||1||mouse_cursor_system||name"
 msgid "System Cursor"
-msgstr ""
+msgstr "Cursore di sistema"
 
 msgctxt "59||mouse_cursor||subtable||2||mouse_cursor_game||name"
 msgid "Game Cursor"
-msgstr ""
+msgstr "Cursore di gioco"
 
 msgctxt "60||controller_vibration||subtable||1||controller_vibration_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "60||controller_vibration||subtable||2||controller_vibration_on||name"
 msgid "On"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||1||degree15||name"
 msgid "15"
-msgstr ""
+msgstr "15"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||2||degree20||name"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||3||degree25||name"
 msgid "25"
-msgstr ""
+msgstr "25"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||4||degree30||name"
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||5||degree35||name"
 msgid "35"
-msgstr ""
+msgstr "35"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||6||degree40||name"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||7||degree45||name"
 msgid "45"
-msgstr ""
+msgstr "45"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||8||degree50||name"
 msgid "50"
-msgstr ""
+msgstr "50"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||9||degree55||name"
 msgid "55"
-msgstr ""
+msgstr "55"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||10||degree60||name"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 msgctxt "61||speaker_front_angle_7_1||subtable||11||degree65||name"
 msgid "65"
-msgstr ""
+msgstr "65"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||1||degree95||name"
 msgid "95"
-msgstr ""
+msgstr "95"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||2||degree100||name"
 msgid "100"
-msgstr ""
+msgstr "100"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||3||degree105||name"
 msgid "105"
-msgstr ""
+msgstr "105"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||4||degree110||name"
 msgid "110"
-msgstr ""
+msgstr "110"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||5||degree115||name"
 msgid "115"
-msgstr ""
+msgstr "115"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||6||degree120||name"
 msgid "120"
-msgstr ""
+msgstr "120"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||7||degree125||name"
 msgid "125"
-msgstr ""
+msgstr "125"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||8||degree130||name"
 msgid "130"
-msgstr ""
+msgstr "130"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||9||degree135||name"
 msgid "135"
-msgstr ""
+msgstr "135"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||10||degree140||name"
 msgid "140"
-msgstr ""
+msgstr "140"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||11||degree145||name"
 msgid "145"
-msgstr ""
+msgstr "145"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||12||degree150||name"
 msgid "150"
-msgstr ""
+msgstr "150"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||13||degree155||name"
 msgid "155"
-msgstr ""
+msgstr "155"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||14||degree160||name"
 msgid "160"
-msgstr ""
+msgstr "160"
 
 msgctxt "62||speaker_surround_angle_5_1||subtable||15||degree165||name"
 msgid "165"
-msgstr ""
+msgstr "165"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||1||degree70||name"
 msgid "70"
-msgstr ""
+msgstr "70"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||2||degree75||name"
 msgid "75"
-msgstr ""
+msgstr "75"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||3||degree80||name"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||4||degree85||name"
 msgid "85"
-msgstr ""
+msgstr "85"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||5||degree90||name"
 msgid "90"
-msgstr ""
+msgstr "90"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||6||degree95||name"
 msgid "95"
-msgstr ""
+msgstr "95"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||7||degree100||name"
 msgid "100"
-msgstr ""
+msgstr "100"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||8||degree105||name"
 msgid "105"
-msgstr ""
+msgstr "105"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||9||degree110||name"
 msgid "110"
-msgstr ""
+msgstr "110"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||10||degree115||name"
 msgid "115"
-msgstr ""
+msgstr "115"
 
 msgctxt "63||speaker_surround_angle_7_1||subtable||11||degree120||name"
 msgid "120"
-msgstr ""
+msgstr "120"
 
 msgctxt "64||speaker_rear_angle_7_1||subtable||1||degree125||name"
 msgid "125"
-msgstr ""
+msgstr "125"
 
 msgctxt "64||speaker_rear_angle_7_1||subtable||2||degree130||name"
 msgid "130"
-msgstr ""
+msgstr "130"
 
 msgctxt "64||speaker_rear_angle_7_1||subtable||3||degree135||name"
 msgid "135"
-msgstr ""
+msgstr "135"
 
 msgctxt "64||speaker_rear_angle_7_1||subtable||4||degree140||name"
 msgid "140"
-msgstr ""
+msgstr "140"
 
 msgctxt "64||speaker_rear_angle_7_1||subtable||5||degree145||name"
 msgid "145"
-msgstr ""
+msgstr "145"
 
 msgctxt "64||speaker_rear_angle_7_1||subtable||6||degree150||name"
 msgid "150"
-msgstr ""
+msgstr "150"
 
 msgctxt "64||speaker_rear_angle_7_1||subtable||7||degree155||name"
 msgid "155"
-msgstr ""
+msgstr "155"
 
 msgctxt "64||speaker_rear_angle_7_1||subtable||8||degree160||name"
 msgid "160"
-msgstr ""
+msgstr "160"
 
 msgctxt "64||speaker_rear_angle_7_1||subtable||9||degree165||name"
 msgid "165"
-msgstr ""
+msgstr "165"
 
 msgctxt "66||graphics_ui_limit_ui||subtable||1||ui_limit_16_9||name"
 msgid "16:9"
-msgstr ""
+msgstr "16:9"
 
 msgctxt "66||graphics_ui_limit_ui||subtable||2||ui_limit_17_9||name"
 msgid "17:9"
-msgstr ""
+msgstr "17:9"
 
 msgctxt "66||graphics_ui_limit_ui||subtable||3||ui_limit_18_9||name"
 msgid "18:9"
-msgstr ""
+msgstr "18:9"
 
 msgctxt "66||graphics_ui_limit_ui||subtable||4||ui_limit_19_9||name"
 msgid "19:9"
-msgstr ""
+msgstr "19:9"
 
 msgctxt "66||graphics_ui_limit_ui||subtable||5||ui_limit_20_9||name"
 msgid "20:9"
-msgstr ""
+msgstr "20:9"
 
 msgctxt "66||graphics_ui_limit_ui||subtable||6||ui_limit_21_9||name"
 msgid "21:9"
-msgstr ""
+msgstr "21:9"
 
 msgctxt "67||graphics_ui_limit_minigame||subtable||1||mg_limit_16_9||name"
 msgid "16:9"
-msgstr ""
+msgstr "16:9"
 
 msgctxt "67||graphics_ui_limit_minigame||subtable||2||mg_limit_17_9||name"
 msgid "17:9"
-msgstr ""
+msgstr "17:9"
 
 msgctxt "67||graphics_ui_limit_minigame||subtable||3||mg_limit_18_9||name"
 msgid "18:9"
-msgstr ""
+msgstr "18:9"
 
 msgctxt "67||graphics_ui_limit_minigame||subtable||4||mg_limit_19_9||name"
 msgid "19:9"
-msgstr ""
+msgstr "19:9"
 
 msgctxt "67||graphics_ui_limit_minigame||subtable||5||mg_limit_20_9||name"
 msgid "20:9"
-msgstr ""
+msgstr "20:9"
 
 msgctxt "67||graphics_ui_limit_minigame||subtable||6||mg_limit_21_9||name"
 msgid "21:9"
-msgstr ""
+msgstr "21:9"
 
 msgctxt "67||graphics_ui_limit_minigame||subtable||7||mg_limit_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "68||hide_skip_prompt||subtable||1||hide_skip_prompt_off||name"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "68||hide_skip_prompt||subtable||2||hide_skip_prompt_on||name"
 msgid "On"
-msgstr ""
-
+msgstr "Sì"
