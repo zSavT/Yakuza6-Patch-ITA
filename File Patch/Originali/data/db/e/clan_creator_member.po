@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||soldier_kenka||name"
+msgid "Brawler"
+msgstr ""
+
+msgctxt "2||soldier_gun||name"
+msgid "Gunner"
+msgstr ""
+
+msgctxt "3||soldier_gouwan||name"
+msgid "Heavy"
+msgstr ""
+
+msgctxt "4||soldier_rush||name"
+msgid "Rusher"
+msgstr ""
+
+msgctxt "5||soldier_bomb||name"
+msgid "Grenadier"
+msgstr ""
+
+msgctxt "6||clan_kaneko||name"
+msgid "Kaneko"
+msgstr ""
+
+msgctxt "7||clan_takamisawa||name"
+msgid "Kanamizawa"
+msgstr ""
+
+msgctxt "8||clan_joe||name"
+msgid "Joe"
+msgstr ""
+
+msgctxt "9||clan_okada||name"
+msgid "Kazuchika Okada"
+msgstr ""
+
+msgctxt "10||clan_hidenori||name"
+msgid "Hidenori"
+msgstr ""
+
+msgctxt "11||clan_gold_obara||name"
+msgid "Obara"
+msgstr ""
+
+msgctxt "12||clan_gold_haruyama||name"
+msgid "Nogami"
+msgstr ""
+
+msgctxt "13||clan_bronze_tamotsu||name"
+msgid "Tamotsu"
+msgstr ""
+
+msgctxt "14||clan_rare_fizitake||name"
+msgid "Fujitake"
+msgstr ""
+
+msgctxt "15||clan_naito||name"
+msgid "Tetsuya Naito"
+msgstr ""
+
+msgctxt "16||clan_bronze_oya||name"
+msgid "Oya"
+msgstr ""
+
+msgctxt "17||clan_silver_dobashi||name"
+msgid "Dobashi"
+msgstr ""
+
+msgctxt "18||clan_sodachi||name"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "19||clan_silver_kawata||name"
+msgid "Kawata"
+msgstr ""
+
+msgctxt "20||clan_master||name"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "21||clan_yano||name"
+msgid "Toru Yano"
+msgstr ""
+
+msgctxt "22||clan_ono_boss||name"
+msgid "Yoshikawa"
+msgstr ""
+
+msgctxt "23||clan_gold_samurai||name"
+msgid "Samurai"
+msgstr ""
+
+msgctxt "24||clan_enc_boss_ono||name"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "25||clan_tenzan||name"
+msgid "Hiroyoshi Tenzan"
+msgstr ""
+
+msgctxt "26||clan_masao||name"
+msgid "Masao"
+msgstr ""
+
+msgctxt "27||clan_bronze_yasu||name"
+msgid "Yasu"
+msgstr ""
+
+msgctxt "28||clan_rare_hashimoto||name"
+msgid "Hashimoto"
+msgstr ""
+
+msgctxt "29||clan_gold_nakagoshi||name"
+msgid "Nakagoshi"
+msgstr ""
+
+msgctxt "30||clan_amon||name"
+msgid "Amon"
+msgstr ""
+
+msgctxt "31||clan_kojima||name"
+msgid "Satoshi Kojima"
+msgstr ""
+
+msgctxt "32||clan_pokecir_fighter||name"
+msgid "Pocket Circuit Fighter"
+msgstr ""
+
+msgctxt "33||clan_ando||name"
+msgid "Ando"
+msgstr ""
+
+msgctxt "34||clan_tanahashi||name"
+msgid "Hiroshi Tanahashi"
+msgstr ""
+
+msgctxt "35||clan_syunta||name"
+msgid "Shunta"
+msgstr ""
+
+msgctxt "36||clan_bronze_bashi||name"
+msgid "Bashi"
+msgstr ""
+
+msgctxt "37||clan_bronze_iibuchi||name"
+msgid "Ibuchi"
+msgstr ""
+
+msgctxt "38||clan_silver_tanogami||name"
+msgid "Tanogami"
+msgstr ""
+
+msgctxt "39||clan_silver_haruyama||name"
+msgid "Haruyama"
+msgstr ""
+
+msgctxt "40||clan_silver_kanemaru||name"
+msgid "Kanemaru"
+msgstr ""
+
+msgctxt "41||clan_gold_hirosakamoto||name"
+msgid "Hiro Sakamoto"
+msgstr ""
+
+msgctxt "42||clan_rare_jouno||name"
+msgid "Jono"
+msgstr ""
+
+msgctxt "43||clan_rare_uzinami||name"
+msgid "Ujinami"
+msgstr ""
+
+msgctxt "44||clan_rare_inomoto||name"
+msgid "Inomoto"
+msgstr ""
+
+msgctxt "81||clan_test_00_00||name"
+msgid "COM Test 00"
+msgstr ""
+
+msgctxt "82||clan_test_00_01||name"
+msgid "COM Test 01"
+msgstr ""
+
+msgctxt "83||clan_test_00_02||name"
+msgid "COM Test 02"
+msgstr ""
+
+msgctxt "84||clan_test_00_03||name"
+msgid "COM Test 03"
+msgstr ""
+
+msgctxt "85||clan_test_00_04||name"
+msgid "COM Test 04"
+msgstr ""
+
+msgctxt "86||clan_test_00_boss01||name"
+msgid "COM Test 05"
+msgstr ""
+
+msgctxt "87||clan_test_00_boss02||name"
+msgid "COM Test 06"
+msgstr ""
+
+msgctxt "143||clan_enemy_zako||name"
+msgid "COM_clan_Brawler"
+msgstr ""
+
+msgctxt "144||clan_enemy_power||name"
+msgid "COM_clan_Heavy"
+msgstr ""
+
+msgctxt "145||clan_enemy_chibi||name"
+msgid "COM_clan_Rusher"
+msgstr ""
+
+msgctxt "146||clan_enemy_gun||name"
+msgid "COM_clan_Gunner"
+msgstr ""
+
+msgctxt "147||clan_enemy_bomb||name"
+msgid "COM_clan_Grenadier"
+msgstr ""
+
+msgctxt "148||clan_enemy_boss_kenka||name"
+msgid "Elite Brawler"
+msgstr ""
+
+msgctxt "149||clan_enemy_boss_gun||name"
+msgid "Elite Gunner"
+msgstr ""
+
+msgctxt "150||clan_enemy_boss_power||name"
+msgid "Elite Heavy"
+msgstr ""
+
+msgctxt "151||clan_enemy_boss_chibi||name"
+msgid "Elite Rusher"
+msgstr ""
+
+msgctxt "152||clan_enemy_boss_bomb||name"
+msgid "Elite Grenadier"
+msgstr ""
+
+msgctxt "153||clan_enemy_boss_onomichi||name"
+msgid "Elite Yoshikawa"
+msgstr ""
+
+msgctxt "154||clan_enemy_boss_yano||name"
+msgid "The Six Lunatics Toru Yano"
+msgstr ""
+
+msgctxt "155||clan_enemy_boss_naito||name"
+msgid "The Six Lunatics Tetsuya Naito"
+msgstr ""
+
+msgctxt "156||clan_enemy_boss_tenzan||name"
+msgid "The Six Lunatics Hiroyoshi Tenzan"
+msgstr ""
+
+msgctxt "157||clan_enemy_boss_kozima||name"
+msgid "The Six Lunatics Satoshi Kojima"
+msgstr ""
+
+msgctxt "158||clan_enemy_boss_tanahashi||name"
+msgid "The Six Lunatics Hiroshi Tanahashi"
+msgstr ""
+
+msgctxt "159||clan_enemy_boss_okada||name"
+msgid "The Six Lunatics Kazuchika Okada"
+msgstr ""
+
+msgctxt "160||clan_enemy_boss_koumei||name"
+msgid "Officer Komei"
+msgstr ""
+
+msgctxt "161||clan_enemy_boss_satsuki||name"
+msgid "Commander Satsuki"
+msgstr ""
+
+msgctxt "162||clan_enemy_boss_amon01||name"
+msgid "Amon"
+msgstr ""
+
+msgctxt "163||clan_enemy_boss_amon02||name"
+msgid "Amon"
+msgstr ""
+
+msgctxt "164||clan_card_c_majima||name"
+msgid "Goro Majima (C)"
+msgstr ""
+
+msgctxt "165||clan_card_c_saejima||name"
+msgid "Taiga Saejima (C)"
+msgstr ""
+
+msgctxt "166||clan_card_c_daigo||name"
+msgid "Daigo Dojima (C)"
+msgstr ""
+
+msgctxt "167||clan_card_c_date||name"
+msgid "Makoto Date (C)"
+msgstr ""
+
+msgctxt "168||clan_card_c_akiyama||name"
+msgid "Shun Akiyama (C)"
+msgstr ""
+
+msgctxt "169||clan_card_c_kiryu||name"
+msgid "Kazuma Kiryu (C)"
+msgstr ""
+
+msgctxt "170||clan_card_c_koumei||name"
+msgid "Komei (C)"
+msgstr ""
+
+msgctxt "171||clan_card_c_satsuki||name"
+msgid "Satsuki (C)"
+msgstr ""
+
+msgctxt "172||clan_card_c_amon||name"
+msgid "Amon (C)"
+msgstr ""
+
+msgctxt "173||clan_card_c_onomichi||name"
+msgid "Ono Michio (C)"
+msgstr ""
+
+msgctxt "174||clan_card_r_majima||name"
+msgid "Goro Majima (R)"
+msgstr ""
+
+msgctxt "175||clan_card_r_saejima||name"
+msgid "Taiga Saejima (R)"
+msgstr ""
+
+msgctxt "176||clan_card_r_daigo||name"
+msgid "Daigo Dojima (R)"
+msgstr ""
+
+msgctxt "177||clan_card_r_date||name"
+msgid "Makoto Date (R)"
+msgstr ""
+
+msgctxt "178||clan_card_r_akiyama||name"
+msgid "Shun Akiyama (R)"
+msgstr ""
+
+msgctxt "179||clan_card_r_kiryu||name"
+msgid "Kazuma Kiryu (R)"
+msgstr ""
+
+msgctxt "180||clan_card_r_koumei||name"
+msgid "Komei (R)"
+msgstr ""
+
+msgctxt "181||clan_card_r_satsuki||name"
+msgid "Satsuki (R)"
+msgstr ""
+
+msgctxt "182||clan_card_r_amon||name"
+msgid "Amon (R)"
+msgstr ""
+
+msgctxt "183||clan_card_r_onomichi||name"
+msgid "Ono Michio (R)"
+msgstr ""
+
+msgctxt "184||clan_card_sr_majima||name"
+msgid "Goro Majima (SR)"
+msgstr ""
+
+msgctxt "185||clan_card_sr_saejima||name"
+msgid "Taiga Saejima (SR)"
+msgstr ""
+
+msgctxt "186||clan_card_sr_daigo||name"
+msgid "Daigo Dojima (SR)"
+msgstr ""
+
+msgctxt "187||clan_card_sr_date||name"
+msgid "Makoto Date (SR)"
+msgstr ""
+
+msgctxt "188||clan_card_sr_akiyama||name"
+msgid "Shun Akiyama (SR)"
+msgstr ""
+
+msgctxt "189||clan_card_sr_kiryu||name"
+msgid "Kazuma Kiryu (SR)"
+msgstr ""
+
+msgctxt "190||clan_card_sr_okada||name"
+msgid "Kazuchika Okada (SR)"
+msgstr ""
+
+msgctxt "191||clan_card_sr_naito||name"
+msgid "Tetsuya Naito (SR)"
+msgstr ""
+
+msgctxt "192||clan_card_sr_tanahashi||name"
+msgid "Hiroshi Tanahashi (SR)"
+msgstr ""
+
+msgctxt "193||clan_card_sr_kojima||name"
+msgid "Satoshi Kojima (SR)"
+msgstr ""
+
+msgctxt "194||clan_card_sr_tenzan||name"
+msgid "Hiroyoshi Tenzan (SR)"
+msgstr ""
+
+msgctxt "195||clan_card_sr_yano||name"
+msgid "Toru Yano (SR)"
+msgstr ""
+
+msgctxt "196||clan_card_r_sodachi||name"
+msgid "Sodachi (R)"
+msgstr ""
+
+msgctxt "197||clan_card_r_pokecir_fighter||name"
+msgid "Pocket Circuit Fighter (R)"
+msgstr ""
+
+msgctxt "198||clan_card_r_joe||name"
+msgid "Joe (R)"
+msgstr ""
+
+msgctxt "199||clan_card_r_masao||name"
+msgid "Masao (R)"
+msgstr ""
+
+msgctxt "200||clan_card_r_master||name"
+msgid "Bartender (R)"
+msgstr ""
+
+msgctxt "201||clan_card_r_okada||name"
+msgid "Kazuchika Okada (R)"
+msgstr ""
+
+msgctxt "202||clan_card_r_naito||name"
+msgid "Tetsuya Naito (R)"
+msgstr ""
+
+msgctxt "203||clan_card_r_tanahashi||name"
+msgid "Hiroshi Tanahashi (R)"
+msgstr ""
+
+msgctxt "204||clan_card_r_kojima||name"
+msgid "Satoshi Kojima (R)"
+msgstr ""
+
+msgctxt "205||clan_card_r_tenzan||name"
+msgid "Hiroyoshi Tenzan (R)"
+msgstr ""
+
+msgctxt "206||clan_card_r_yano||name"
+msgid "Toru Yano (R)"
+msgstr ""
+
+msgctxt "207||clan_card_r_gedo||name"
+msgid "Gedo"
+msgstr ""
+
+msgctxt "208||clan_card_r_shibata||name"
+msgid "Katsuyori Shibata"
+msgstr ""
+
+msgctxt "209||clan_card_r_kushida||name"
+msgid "KUSHIDA"
+msgstr ""
+
+msgctxt "210||clan_card_r_ishii||name"
+msgid "Tomohiro Ishii"
+msgstr ""
+
+msgctxt "211||clan_card_r_evil||name"
+msgid "EVIL"
+msgstr ""
+
+msgctxt "212||clan_card_r_bushi||name"
+msgid "BUSHI"
+msgstr ""
+
+msgctxt "213||clan_card_r_taguchi||name"
+msgid "Ryusuke Taguchi"
+msgstr ""
+
+msgctxt "214||clan_card_r_nagata||name"
+msgid "Yuji Nagata"
+msgstr ""
+
+msgctxt "215||clan_card_r_nakanishi||name"
+msgid "Manabu Nakanishi"
+msgstr ""
+
+msgctxt "216||clan_card_r_strong_machine||name"
+msgid "Super Strong Machine"
+msgstr ""
+
+msgctxt "217||clan_card_r_new_japan||name"
+msgid "Captain New Japan"
+msgstr ""
+
+msgctxt "218||clan_dlc_sr_majima||name"
+msgid "Goro Majima (SSR)"
+msgstr ""
+
+msgctxt "219||clan_dlc_sr_saejima||name"
+msgid "Taiga Saejima (SSR)"
+msgstr ""
+
+msgctxt "220||clan_dlc_sr_daigo||name"
+msgid "Daigo Dojima (SSR)"
+msgstr ""
+
+msgctxt "221||clan_dlc_sr_date||name"
+msgid "Makoto Date (SSR)"
+msgstr ""
+
+msgctxt "222||clan_dlc_sr_akiyama||name"
+msgid "Shun Akiyama (SSR)"
+msgstr ""
+
+msgctxt "223||clan_dlc_sr_kiryu||name"
+msgid "Kazuma Kiryu (SSR)"
+msgstr ""
+
+msgctxt "224||clan_enemy_boss_uzinami||name"
+msgid "Elite Ujinami"
+msgstr ""
+
+msgctxt "225||clan_enemy_boss_hashimoto||name"
+msgid "Elite Hashimoto"
+msgstr ""
+
+msgctxt "226||clan_enemy_boss_haruyama||name"
+msgid "Elite Nogami"
+msgstr ""
+
+msgctxt "227||clan_enemy_boss_master||name"
+msgid "Elite Bartender"
+msgstr ""
+
+msgctxt "228||clan_enemy_boss_ono||name"
+msgid "Elite Saigo"
+msgstr ""
+
+msgctxt "229||clan_enemy_boss_samurai||name"
+msgid "Elite Samurai"
+msgstr ""
+
+msgctxt "230||clan_enemy_boss_shibata||name"
+msgid "Elite Katsuyori Shibata"
+msgstr ""
+
+msgctxt "231||clan_enemy_boss_kushida||name"
+msgid "Elite KUSHIDA"
+msgstr ""
+
+msgctxt "232||clan_enemy_boss_nagata||name"
+msgid "Elite Yuji Nagata"
+msgstr ""
+
+msgctxt "234||clan_enemy_boss_taguchi||name"
+msgid "Elite Ryusuke Taguchi"
+msgstr ""
+
+msgctxt "235||clan_enemy_boss_nakanishi||name"
+msgid "Elite Manabu Nakanishi"
+msgstr ""
+
+msgctxt "236||clan_enemy_boss_majima||name"
+msgid "Elite Goro Majima"
+msgstr ""
+
+msgctxt "237||clan_enemy_boss_saejima||name"
+msgid "Elite Taiga Saejima"
+msgstr ""
+
+msgctxt "238||clan_enemy_boss_daigo||name"
+msgid "Elite Daigo Dojima"
+msgstr ""
+
+msgctxt "239||clan_enemy_boss_date||name"
+msgid "Elite Makoto Date"
+msgstr ""
+
+msgctxt "240||clan_enemy_boss_akiyama||name"
+msgid "Elite Shun Akiyama"
+msgstr ""
+
+msgctxt "241||clan_enemy_boss_joe||name"
+msgid "Elite Joe"
+msgstr ""
+
+msgctxt "242||clan_enemy_boss_machine||name"
+msgid "Elite Super Strong Machine"
+msgstr ""
+
