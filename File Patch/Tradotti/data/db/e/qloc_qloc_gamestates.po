@@ -9,117 +9,116 @@ msgstr ""
 
 msgctxt "1||QGameState_Default||name"
 msgid "Adventure"
-msgstr ""
+msgstr "Avventura"
 
 msgctxt "2||QGameState_Combat||name"
 msgid "Battle"
-msgstr ""
+msgstr "Battaglia"
 
 msgctxt "3||QGameState_Minigame_BattingCenter||name"
 msgid "Minigame : Batting Center"
-msgstr ""
+msgstr "Minigioco: Batting Center"
 
 msgctxt "6||QGameState_Minigame_ClanCreator||name"
 msgid "Minigame : Clan Creator"
-msgstr ""
+msgstr "Minigioco: Creatore di clan"
 
 msgctxt "7||QGameState_Minigame_Darts||name"
 msgid "Minigame : Darts"
-msgstr ""
+msgstr "Minigioco: Freccette"
 
 msgctxt "9||QGameState_Minigame_Karaoke||name"
 msgid "Minigame : Karaoke"
-msgstr ""
+msgstr "Minigioco: Karaoke"
 
 msgctxt "11||QGameState_Minigame_Mahjong||name"
 msgid "Minigame : Mahjong"
-msgstr ""
+msgstr "Minigioco: Mahjong"
 
 msgctxt "18||QGameState_Minigame_VirtualFighter_P1||name"
 msgid "Minigame : Virtua Fighter 5 FS (P1)"
-msgstr ""
+msgstr "Minigioco: Virtua Fighter 5 FS (P1)"
 
 msgctxt "19||QGameState_Minigame_VirtualFighter_P2||name"
 msgid "Minigame : Virtua Fighter 5 FS (P2)"
-msgstr ""
+msgstr "Minigioco: Virtua Fighter 5 FS (P2)"
 
 msgctxt "24||QGameState_Minigame_LiveChat||name"
 msgid "Minigame : Live Chat"
-msgstr ""
+msgstr "Minigioco: Live Chat"
 
 msgctxt "25||QGameState_Minigame_Gym_Squats||name"
 msgid "Minigame : Gym Squats"
-msgstr ""
+msgstr "Minigioco: Palestra - Squat"
 
 msgctxt "26||QGameState_Minigame_Gym_JumpSquats||name"
 msgid "Minigame : Gym Jump Squats"
-msgstr ""
+msgstr "Minigioco: Palestra - Jump Squat"
 
 msgctxt "27||QGameState_Minigame_Gym_BenchPress||name"
 msgid "Minigame : Gym Bench Press"
-msgstr ""
+msgstr "Minigioco: Palestra - Panca piana"
 
 msgctxt "28||QGameState_Minigame_Gym_DeadLift||name"
 msgid "Minigame : Gym Deadlifts"
-msgstr ""
+msgstr "Minigioco: Palestra - Stacchi da terra"
 
 msgctxt "29||QGameState_Minigame_Gym_LatPulldowns||name"
 msgid "Minigame : Gym Lat Pulldowns"
-msgstr ""
+msgstr "Minigioco: Palestra - Lat Machine"
 
 msgctxt "30||QGameState_Minigame_Gym_SeatedRow||name"
 msgid "Minigame : Gym Seated Row"
-msgstr ""
+msgstr "Minigioco: Palestra - Pulley"
 
 msgctxt "31||QGameState_Minigame_SpearFishing||name"
 msgid "Minigame : Spearfishing"
-msgstr ""
+msgstr "Minigioco: Pesca subacquea"
 
 msgctxt "32||QGameState_Minigame_DandleBaby||name"
 msgid "Minigame : Calming Haruto"
-msgstr ""
+msgstr "Minigioco: Consola Haruto"
 
 msgctxt "37||QGameState_Minigame_NewGaudiBar||name"
 msgid "Minigame : New Gaudi Bar"
-msgstr ""
+msgstr "Minigioco: Bar New Gaudi"
 
 msgctxt "39||QGameState_Minigame_OfferityBox||name"
 msgid "Minigame : Temple Offering"
-msgstr ""
+msgstr "Minigioco: Offerta al tempio"
 
 msgctxt "42||QGameState_Minigame_FantasyZone||name"
 msgid "Minigame : Fantasy Zone"
-msgstr ""
+msgstr "Minigioco: Fantasy Zone"
 
 msgctxt "43||QGameState_Minigame_OutRun||name"
 msgid "Minigame : Out Run"
-msgstr ""
+msgstr "Minigioco: Out Run"
 
 msgctxt "44||QGameState_Minigame_SpaceHarrier||name"
 msgid "Minigame : Space Harrier"
-msgstr ""
+msgstr "Minigioco: Space Harrier"
 
 msgctxt "45||QGameState_Minigame_SuperHangOn||name"
 msgid "Minigame : Super Hang-On"
-msgstr ""
+msgstr "Minigioco: Super Hang-On"
 
 msgctxt "48||QGameState_Minigame_PuyoPuyo_P1||name"
 msgid "Minigame : Puyo Puyo (P1)"
-msgstr ""
+msgstr "Minigioco: Puyo Puyo (P1)"
 
 msgctxt "49||QGameState_Minigame_PuyoPuyo_P2||name"
 msgid "Minigame : Puyo Puyo (P2)"
-msgstr ""
+msgstr "Minigioco: Puyo Puyo (P2)"
 
 msgctxt "50||QGameState_Minigame_CabaretClub||name"
 msgid "Minigame : Cabaret Club"
-msgstr ""
+msgstr "Minigioco: Cabaret club"
 
 msgctxt "51||QGameState_Minigame_SandlotBaseball||name"
 msgid "Minigame : Baseball"
-msgstr ""
+msgstr "Minigioco: Baseball"
 
 msgctxt "52||QGameState_Minigame_NewGaudiBar_Conversation||name"
 msgid "Minigame : New Gaudi Bar - Conversation"
-msgstr ""
-
+msgstr "Minigioco: Bar New Gaudi - Conversazione"
