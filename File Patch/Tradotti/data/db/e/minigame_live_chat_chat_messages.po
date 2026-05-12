@@ -2265,6 +2265,7 @@ msgstr "Che shampoo usi?"
 
 msgctxt "610||anri_45_2||message"
 msgid "prefer me"
+msgstr "preferiscimi"
 
 msgctxt "611||anri_46_2||message"
 msgid "You're right. I can't give up now!"
