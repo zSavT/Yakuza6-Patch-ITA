@@ -9,13 +9,12 @@ msgstr ""
 
 msgctxt "1||unlocked_course||text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "2||unlocked_fish||text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgctxt "3||treasure_box||text"
 msgid "Treasure Chest"
-msgstr ""
-
+msgstr "Forziere"

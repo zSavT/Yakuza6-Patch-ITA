@@ -9,17 +9,16 @@ msgstr ""
 
 msgctxt "1||dart_rookie||name"
 msgid "Beginner Darts"
-msgstr ""
+msgstr "Freccette da principiante"
 
 msgctxt "2||dart_intermidiate||name"
 msgid "Intermediate Darts"
-msgstr ""
+msgstr "Freccette intermedie"
 
 msgctxt "3||dart_veteran||name"
 msgid "Expert Darts"
-msgstr ""
+msgstr "Freccette da esperto"
 
 msgctxt "4||dart_paul||name"
 msgid "Paul Lim Special"
-msgstr ""
-
+msgstr "Paul Lim Special"

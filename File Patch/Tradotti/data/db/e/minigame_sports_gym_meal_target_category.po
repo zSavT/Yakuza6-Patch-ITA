@@ -9,101 +9,100 @@ msgstr ""
 
 msgctxt "33||category_01_answer||content"
 msgid "This time, let's go for a dish low in \r\nsugar and high in protein. \r\nOh, yeah... I suggest a nutritious\r\ndish that's packed with lobster!"
-msgstr ""
+msgstr "Questa volta, puntiamo a un piatto povero di \r\nzuccheri e ricco di proteine. \r\nOh, sì... Ti suggerisco un piatto nutriente\r\ne pieno di aragosta!"
 
 msgctxt "34||category_02_answer||content"
 msgid "This time, let's go for a bulk-up meal.\r\nLet's see... I suggest a dish where\r\nyou can consume rice, pork, and egg\r\nall together!"
-msgstr ""
+msgstr "Questa volta, puntiamo a un pasto per fare massa.\r\nVediamo... Ti suggerisco un piatto in cui\r\npuoi consumare riso, maiale e uovo\r\ntutti insieme!"
 
 msgctxt "35||category_03_answer||content"
 msgid "This time, let's go for a well-balanced meal.\r\nOkay... I suggest a quick meal that has carbs,\r\neggs, and veggies! It's at a place you'd stop \r\nby when you just need a light meal! Their\r\nhomemade soup has a great flavor!"
-msgstr ""
+msgstr "Questa volta, puntiamo a un pasto ben bilanciato.\r\nOkay... Ti suggerisco un pasto veloce con carboidrati,\r\nuova e verdure! Lo trovi in un posto in cui ti\r\nfermeresti per un pasto leggero! La loro zuppa\r\nfatta in casa ha un sapore fantastico!"
 
 msgctxt "36||category_04_answer||content"
 msgid "Now, let's go for a bulk-up meal.\r\nHmm... I suggest a rice dish topped with\r\nlots of thin pork slices! These pork slices\r\nare often used in some noodle dishes too!"
-msgstr ""
+msgstr "Ora, puntiamo a un pasto per fare massa.\r\nMmm... Ti suggerisco un piatto di riso ricoperto da\r\ntante fette sottili di maiale! Queste fette di maiale\r\nvengono spesso usate anche in alcuni piatti di noodle!"
 
 msgctxt "37||category_05_answer||content"
 msgid "This time, let's go for a dish that's a big\r\nhit with kids. Maybe something that's\r\npacked with juicy meat and cooked on\r\na hot iron plate! I suggest you eat\r\naround 300 grams of it!"
-msgstr ""
+msgstr "Questa volta, scegliamo un piatto che fa sempre\r\ncentro con i bambini. Magari qualcosa\r\npieno di carne succulenta e cucinato su\r\nuna piastra di ferro rovente! Ti suggerisco\r\ndi mangiarne circa 300 grammi!"
 
 msgctxt "38||category_06_answer||content"
 msgid "Now for a go-to training dish!\r\nYou should eat high quality meat\r\nwith a good balance of fat and\r\nred meat. Eat plenty of it!"
-msgstr ""
+msgstr "Ora passiamo a un classico piatto da allenamento!\r\nDovresti mangiare della carne di alta qualità\r\ncon un buon equilibrio tra grasso e\r\ncarne rossa. Mangiane in abbondanza!"
 
 msgctxt "39||category_07_answer||content"
 msgid "This time, let's avoid carbs. You should\r\ngo for that one dish consisting of just\r\nbeef! Oh, you're free to eat pickled\r\nred ginger with it too!"
-msgstr ""
+msgstr "Questa volta, evitiamo i carboidrati. Dovresti\r\npuntare a quel piatto che consiste solo di\r\nmanzo! Oh, sentiti libero di mangiarci\r\ninsieme anche dello zenzero rosso sottaceto!"
 
 msgctxt "40||category_08_answer||content"
 msgid "Now, let's go for a bulk-up meal! Let's see...\r\nI suggest you go to a fast food chain and \r\norder something that offers double the\r\naverage amount of meat. That'll put a smile\r\non your face!"
-msgstr ""
+msgstr "Ora, puntiamo a un pasto per fare massa! Vediamo...\r\nTi suggerisco di andare in una catena di fast food e\r\nordinare qualcosa che offra il doppio della carne\r\nrispetto alla media. Ti stamperà un bel sorriso\r\nin faccia!"
 
 msgctxt "41||category_09_answer||content"
 msgid "This time, let's cut calories and focus on\r\nnutrient intake! Let's see... You should go\r\nto a fast food chain and only have vegetables.\r\nIt's one of their standard dishes."
-msgstr ""
+msgstr "Questa volta, tagliamo le calorie e concentriamoci\r\nsull'apporto di nutrienti! Vediamo... Dovresti andare\r\nin un fast food e prendere solo verdure.\r\nÈ uno dei loro piatti standard."
 
 msgctxt "42||category_10_answer||content"
 msgid "This time, let's try something out of the\r\nordinary. Let's see... How about a round\r\nfood that comes with cheese on top?\r\nIt's apparently most popular with\r\nwomen. You can eat it at a counter!"
-msgstr ""
+msgstr "Questa volta, proviamo qualcosa fuori dal\r\ncomune. Vediamo... Che ne dici di un cibo\r\nrotondo ricoperto di formaggio?\r\nA quanto pare è molto popolare tra le\r\ndonne. Puoi mangiarlo al bancone!"
 
 msgctxt "43||category_11_answer||content"
 msgid "This time, let's go meat only! Meat is the\r\nbest for building muscle! I'm suggesting\r\nsomething that's relatively low in fat!\r\nIt's best when cooked on a grate."
-msgstr ""
+msgstr "Questa volta, andiamo solo di carne! La carne è\r\nla migliore per costruire i muscoli! Ti suggerisco\r\nqualcosa di relativamente povero di grassi!\r\nÈ ancora meglio se cotta su una griglia."
 
 msgctxt "44||category_12_answer||content"
 msgid "You can't go wrong with meat after a\r\nwork out! Just this one time, I'll let\r\nyou have some popular yakiniku!"
-msgstr ""
+msgstr "Non si sbaglia mai con la carne dopo\r\nun allenamento! Solo per questa volta, ti\r\npermetterò di mangiare del celebre yakiniku!"
 
 msgctxt "45||category_13_answer||content"
 msgid "You should eat some fish once in a\r\nwhile! Let's have that one fish\r\nJapanese people just love! How\r\nabout a dish that allows you to\r\nenjoy various parts of it?"
-msgstr ""
+msgstr "Dovresti mangiare del pesce ogni tanto!\r\nPrendiamo quel pesce che i giapponesi\r\namano alla follia! Che ne dici di un\r\npiatto che ti permetta di gustarne\r\nvarie parti?"
 
 msgctxt "46||category_14_answer||content"
 msgid "This time, we'll aim for a dish that'll\r\nbulk you up, but is also easy to eat!\r\nA standard light meal that includes\r\neggs, meat, and vegetables would be\r\ngood! A meal like that is usually\r\noffered in the morning."
-msgstr ""
+msgstr "Questa volta, punteremo a un piatto che ti\r\nfaccia fare massa, ma che sia anche leggero!\r\nUn tipico pasto leggero che includa\r\nuova, carne e verdure andrebbe\r\nbene! Un pasto del genere viene di solito\r\nofferto al mattino."
 
 msgctxt "47||category_15_answer||content"
 msgid "This time, we'll go with a dish that consists\r\nof meat and vegetables! Let's see... How\r\nabout one where you can enjoy five\r\ndifferent types of it? It all comes served on\r\na skewer!"
-msgstr ""
+msgstr "Questa volta, prenderemo un piatto a base\r\ndi carne e verdure! Vediamo... Che ne\r\ndici di uno in cui puoi gustarne cinque\r\ntipi diversi? Viene tutto servito su\r\nuno spiedino!"
 
 msgctxt "48||category_16_answer||content"
 msgid "Let's try an unusual dish this time!\r\nI suggest some bite-sized grilled\r\nfish. They're chock-full of calcium\r\nand protein! The flavorful roe\r\nwill have you hooked!"
-msgstr ""
+msgstr "Proviamo un piatto insolito, questa volta!\r\nTi suggerisco dei bocconcini di pesce\r\ngrigliato. Sono un concentrato di calcio\r\ne proteine! Le loro gustose uova ti\r\nconquisteranno!"
 
 msgctxt "49||category_17_answer||content"
 msgid "This time, let's focus more on\r\nnutrition! How about a dish that\r\ncontains a lot of scallions? You'll\r\nbe tempted to drink alcohol, but\r\nplease try your best to resist it."
-msgstr ""
+msgstr "Questa volta, concentriamoci maggiormente\r\nsulla nutrizione! Che ne dici di un piatto\r\nche contiene molti cipollotti? Sarai\r\ntentato di bere degli alcolici, ma\r\nti prego di fare del tuo meglio per resistere."
 
 msgctxt "50||category_18_answer||content"
 msgid "Now, we'll focus heavily on protein!\r\nLet's see... You should eat some chicken!\r\nAnd I mean nothing but chicken! Well,\r\nbreading's okay, but no extra spices!\r\nIt's great to eat after training."
-msgstr ""
+msgstr "Ora, ci concentreremo molto sulle proteine!\r\nVediamo... Dovresti mangiare del pollo!\r\nE intendo nient'altro che pollo! Beh,\r\nla panatura va bene, ma niente spezie extra!\r\nÈ ottimo da mangiare dopo l'allenamento."
 
 msgctxt "51||category_19_answer||content"
 msgid "You should eat some junk food once\r\nin a while to bulk up! Let's see...\r\nHow about a fast food place where\r\nyou can eat a good, old-fashioned,\r\nsunny-side up egg?"
-msgstr ""
+msgstr "Dovresti mangiare del cibo spazzatura ogni\r\ntanto, per fare massa! Vediamo...\r\nChe ne dici di un fast food in cui\r\npuoi mangiare un buon vecchio\r\nuovo all'occhio di bue?"
 
 msgctxt "52||category_20_answer||content"
 msgid "\r\nThis time, let's go with a bulk-up meal\r\nthat'll have you consume plenty of\r\ncarbs! It's the national dish that everyone\r\nloves! Please get the one with beef!"
-msgstr ""
+msgstr "\r\nQuesta volta, scegliamo un pasto per fare massa\r\nche ti farà consumare un sacco di\r\ncarboidrati! È il piatto nazionale che tutti\r\namano! Per favore, prendi quello con il manzo!"
 
 msgctxt "53||category_21_answer||content"
 msgid "This time, you should consume carbs\r\nand vegetables! Make sure it's heavy\r\non the vegetables! This meal is\r\nfamous as a Nagasaki specialty!"
-msgstr ""
+msgstr "Questa volta, dovresti consumare carboidrati\r\ne verdure! Assicurati che sia ricco di\r\nverdure! Questo pasto è famoso\r\nper essere una specialità di Nagasaki!"
 
 msgctxt "54||category_22_answer||content"
 msgid "This time, we'll focus on veggies! Did you know\r\nginger also has tons of digestive health benefits?\r\nI want you to combine a ton of veggies with ginger!\r\n\r\nThere's a popular chain that's been in town for\r\nyears that serves up some great veggie dishes."
-msgstr ""
+msgstr "Questa volta, ci concentreremo sulle verdure! Sapevi che\r\nlo zenzero ha anche tantissimi benefici per la digestione?\r\nVoglio che combini un sacco di verdure con lo zenzero!\r\n\r\nC'è una nota catena che si trova in città da\r\nanni, e che serve degli ottimi piatti a base di verdure."
 
 msgctxt "55||category_23_answer||content"
 msgid "This time, protein will be our main focus!\r\nI suggest a meal that offers a lot of \r\nvegetable protein! It might be good for\r\nthe appetite if it's on the spicier side."
-msgstr ""
+msgstr "Questa volta, le proteine saranno il nostro obiettivo principale!\r\nTi suggerisco un pasto che offre un sacco di\r\nproteine vegetali! Potrebbe farti bene\r\nall'appetito, se è un po' più piccante."
 
 msgctxt "56||category_24_answer||content"
 msgid "Now, let's go with a dish that contains both\r\npork and veggies! Make sure it's something\r\nthat'll fill you up! Cabbage would be good\r\nfor the vegetable!"
-msgstr ""
+msgstr "Ora, scegliamo un piatto che contenga sia\r\nmaiale che verdure! Assicurati che sia qualcosa\r\nche ti sazi! Il cavolo andrebbe bene\r\ncome verdura!"
 
 msgctxt "57||category_25_answer||content"
 msgid "This time, let's maintain a good balance of\r\nvitamins and protein! I suggest going for\r\nvegetables and chicken! Steamed chicken\r\nbreasts would be ideal!"
-msgstr ""
-
+msgstr "Questa volta, manteniamo un buon equilibrio di\r\nvitamine e proteine! Ti suggerisco di puntare\r\nsu verdure e pollo! Dei petti di pollo\r\ncotti al vapore sarebbero l'ideale!"

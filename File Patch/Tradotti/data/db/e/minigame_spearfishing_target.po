@@ -9,85 +9,84 @@ msgstr ""
 
 msgctxt "1||same||name"
 msgid "Great White Shark"
-msgstr ""
+msgstr "Grande squalo bianco"
 
 msgctxt "2||kajiki||name"
 msgid "Marlin"
-msgstr ""
+msgstr "Marlin"
 
 msgctxt "3||maguro||name"
 msgid "Tuna"
-msgstr ""
+msgstr "Tonno"
 
 msgctxt "4||madai||name"
 msgid "Japanese Sea Bream"
-msgstr ""
+msgstr "Orata giapponese"
 
 msgctxt "5||salmon||name"
 msgid "Salmon"
-msgstr ""
+msgstr "Salmone"
 
 msgctxt "6||onikasago||name"
 msgid "Devil Scorpionfish"
-msgstr ""
+msgstr "Scorfano diabolico"
 
 msgctxt "7||kawahagi||name"
 msgid "Thread-sail Filefish"
-msgstr ""
+msgstr "Pesce balestra"
 
 msgctxt "8||haze||name"
 msgid "Goby"
-msgstr ""
+msgstr "Ghiozzo"
 
 msgctxt "9||torafugu||name"
 msgid "Tiger Puffer"
-msgstr ""
+msgstr "Pesce palla tigre"
 
 msgctxt "10||harisen||name"
 msgid "Blowfish"
-msgstr ""
+msgstr "Pesce palla"
 
 msgctxt "11||karei||name"
 msgid "Flounder"
-msgstr ""
+msgstr "Passera di mare"
 
 msgctxt "12||anago||name"
 msgid "Conger Eel"
-msgstr ""
+msgstr "Grongo"
 
 msgctxt "13||ryuguu||name"
 msgid "Giant Oarfish"
-msgstr ""
+msgstr "Re di aringhe"
 
 msgctxt "14||octopus||name"
 msgid "Common Octopus"
-msgstr ""
+msgstr "Polpo comune"
 
 msgctxt "15||ika||name"
 msgid "Squid"
-msgstr ""
+msgstr "Calamaro"
 
 msgctxt "16||takaashigani||name"
 msgid "Giant Crab"
-msgstr ""
+msgstr "Granchio gigante"
 
 msgctxt "17||siirakansu||name"
 msgid "Coelacanth"
-msgstr ""
+msgstr "Celacanto"
 
 msgctxt "20||same_boss||name"
 msgid "Bloody Shark"
-msgstr ""
+msgstr "Squalo sanguinario"
 
 msgctxt "21||jellyfish||name"
 msgid "Jellyfish"
-msgstr ""
+msgstr "Medusa"
 
 msgctxt "22||ika_boss||name"
 msgid "Emperor Squid"
-msgstr ""
+msgstr "Calamaro imperatore"
 
 msgctxt "23||octopus_boss||name"
 msgid "Delicious Octopus"
-msgstr ""
-
+msgstr "Polpo delizioso"

@@ -9,65 +9,64 @@ msgstr ""
 
 msgctxt "1||ton1||text"
 msgid "East 1"
-msgstr ""
+msgstr "Est 1"
 
 msgctxt "2||ton2||text"
 msgid "East 2"
-msgstr ""
+msgstr "Est 2"
 
 msgctxt "3||ton3||text"
 msgid "East 3"
-msgstr ""
+msgstr "Est 3"
 
 msgctxt "4||ton4||text"
 msgid "East 4"
-msgstr ""
+msgstr "Est 4"
 
 msgctxt "5||nan1||text"
 msgid "South 1"
-msgstr ""
+msgstr "Sud 1"
 
 msgctxt "6||nan2||text"
 msgid "South 2"
-msgstr ""
+msgstr "Sud 2"
 
 msgctxt "7||nan3||text"
 msgid "South 3"
-msgstr ""
+msgstr "Sud 3"
 
 msgctxt "8||nan4||text"
 msgid "South 4"
-msgstr ""
+msgstr "Sud 4"
 
 msgctxt "9||sha1||text"
 msgid "West 1"
-msgstr ""
+msgstr "Ovest 1"
 
 msgctxt "10||sha2||text"
 msgid "West 2"
-msgstr ""
+msgstr "Ovest 2"
 
 msgctxt "11||sha3||text"
 msgid "West 3"
-msgstr ""
+msgstr "Ovest 3"
 
 msgctxt "12||sha4||text"
 msgid "West 4"
-msgstr ""
+msgstr "Ovest 4"
 
 msgctxt "13||pe1||text"
 msgid "North 1"
-msgstr ""
+msgstr "Nord 1"
 
 msgctxt "14||pe2||text"
 msgid "North 2"
-msgstr ""
+msgstr "Nord 2"
 
 msgctxt "15||pe3||text"
 msgid "North 3"
-msgstr ""
+msgstr "Nord 3"
 
 msgctxt "16||pe4||text"
 msgid "North 4"
-msgstr ""
-
+msgstr "Nord 4"

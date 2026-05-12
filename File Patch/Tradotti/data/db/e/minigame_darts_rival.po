@@ -9,53 +9,52 @@ msgstr ""
 
 msgctxt "1||rival_random||name"
 msgid "Random-kun (Test)"
-msgstr ""
+msgstr "Random-kun (Test)"
 
 msgctxt "2||rival_rookie||name"
 msgid "Yuya Akaishizawa"
-msgstr ""
+msgstr "Yuya Akaishizawa"
 
 msgctxt "3||rival_intermediate||name"
 msgid "Yuka Kinoshita"
-msgstr ""
+msgstr "Yuka Kinoshita"
 
 msgctxt "4||rival_veteran||name"
 msgid "Reiko Asada"
-msgstr ""
+msgstr "Reiko Asada"
 
 msgctxt "5||rival_paul||name"
 msgid "Paul Lim"
-msgstr ""
+msgstr "Paul Lim"
 
 msgctxt "6||rival_snack_mama||name"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 msgctxt "7||rival_snack_patron||name"
 msgid "Ando-san"
-msgstr ""
+msgstr "Ando-san"
 
 msgctxt "8||rival_caba_saki||name"
 msgid "Saki"
-msgstr ""
+msgstr "Saki"
 
 msgctxt "9||rival_caba_sora||name"
 msgid "Sora"
-msgstr ""
+msgstr "Sora"
 
 msgctxt "10||rival_caba_hikaru||name"
 msgid "Hikaru"
-msgstr ""
+msgstr "Hikaru"
 
 msgctxt "11||rival_caba_erina||name"
 msgid "Erina"
-msgstr ""
+msgstr "Erina"
 
 msgctxt "12||rival_caba_riona||name"
 msgid "Riona"
-msgstr ""
+msgstr "Riona"
 
 msgctxt "13||rival_none||name"
 msgid "Play Solo"
-msgstr ""
-
+msgstr "Gioca in singolo"

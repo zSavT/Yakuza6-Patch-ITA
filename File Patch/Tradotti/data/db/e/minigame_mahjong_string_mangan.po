@@ -9,41 +9,40 @@ msgstr ""
 
 msgctxt "2||mangan||text"
 msgid "Mangan"
-msgstr ""
+msgstr "Mangan"
 
 msgctxt "3||haneman||text"
 msgid "Haneman"
-msgstr ""
+msgstr "Haneman"
 
 msgctxt "4||baiman||text"
 msgid "Baiman"
-msgstr ""
+msgstr "Baiman"
 
 msgctxt "5||sanbaiman||text"
 msgid "Sanbaiman"
-msgstr ""
+msgstr "Sanbaiman"
 
 msgctxt "6||yakuman||text"
 msgid "Yakuman"
-msgstr ""
+msgstr "Yakuman"
 
 msgctxt "7||kouhai||text"
 msgid "Exhaustive Draw"
-msgstr ""
+msgstr "Ryukyoku"
 
 msgctxt "8||suuchariichi||text"
 msgid "Four Riichi Draw"
-msgstr ""
+msgstr "Suucha Riichi"
 
 msgctxt "9||sanchahou||text"
 msgid "Triple Ron"
-msgstr ""
+msgstr "Sancha Hou"
 
 msgctxt "10||suufuurenda||text"
 msgid "Wind Discard Draw"
-msgstr ""
+msgstr "Suufuu Renda"
 
 msgctxt "11||kyuushukyuuhai||text"
 msgid "Nine Terminal Draw"
-msgstr ""
-
+msgstr "Kyuushu Kyuuhai"

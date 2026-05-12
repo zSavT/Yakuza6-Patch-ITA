@@ -9,161 +9,160 @@ msgstr ""
 
 msgctxt "1||slot_item_l01||message"
 msgid "Strength"
-msgstr ""
+msgstr "Forza"
 
 msgctxt "2||slot_item_l02||message"
 msgid "Agility"
-msgstr ""
+msgstr "Agilità"
 
 msgctxt "3||slot_item_l03||message"
 msgid "Spirit"
-msgstr ""
+msgstr "Spirito"
 
 msgctxt "4||slot_item_l04||message"
 msgid "Technique"
-msgstr ""
+msgstr "Tecnica"
 
 msgctxt "5||slot_item_l05||message"
 msgid "Charm"
-msgstr ""
+msgstr "Fascino"
 
 msgctxt "10||slot_item_r01||message"
 msgid "60 seconds"
-msgstr ""
+msgstr "60 secondi"
 
 msgctxt "11||slot_item_r02||message"
 msgid "90 seconds"
-msgstr ""
+msgstr "90 secondi"
 
 msgctxt "12||slot_item_r03||message"
 msgid "120 seconds"
-msgstr ""
+msgstr "120 secondi"
 
 msgctxt "13||slot_item_l06||message"
 msgid "All"
-msgstr ""
+msgstr "Tutti"
 
 msgctxt "14||slot_item_l07||message"
 msgid "Attack"
-msgstr ""
+msgstr "Attacco"
 
 msgctxt "15||slot_item_l08||message"
 msgid "Defense"
-msgstr ""
+msgstr "Difesa"
 
 msgctxt "16||slot_item_l09||message"
 msgid "Money"
-msgstr ""
+msgstr "Denaro"
 
 msgctxt "17||slot_item_l10||message"
 msgid "Stamina"
-msgstr ""
+msgstr "Resistenza"
 
 msgctxt "18||slot_item_r04||message"
 msgid "150 seconds"
-msgstr ""
+msgstr "150 secondi"
 
 msgctxt "19||slot_item_r05||message"
 msgid "180 seconds"
-msgstr ""
+msgstr "180 secondi"
 
 msgctxt "20||slot_item_r06||message"
 msgid "210 seconds"
-msgstr ""
+msgstr "210 secondi"
 
 msgctxt "21||slot_item_r07||message"
 msgid "240 seconds"
-msgstr ""
+msgstr "240 secondi"
 
 msgctxt "22||slot_item_r08||message"
 msgid "270 seconds"
-msgstr ""
+msgstr "270 secondi"
 
 msgctxt "23||slot_item_r09||message"
 msgid "300 seconds"
-msgstr ""
+msgstr "300 secondi"
 
 msgctxt "24||slot_item_r10||message"
 msgid "300 seconds"
-msgstr ""
+msgstr "300 secondi"
 
 msgctxt "1||slot_item_l01||buff_message"
 msgid "Kannon smiles upon you!\r\nYou now earn more Strength EXP than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nOra ottieni più ESP Forza del solito."
 
 msgctxt "2||slot_item_l02||buff_message"
 msgid "Kannon smiles upon you!\r\nYou now earn more Agility EXP than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nOra ottieni più ESP Agilità del solito."
 
 msgctxt "3||slot_item_l03||buff_message"
 msgid "Kannon smiles upon you!\r\nYou now earn more Spirit EXP than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nOra ottieni più ESP Spirito del solito."
 
 msgctxt "4||slot_item_l04||buff_message"
 msgid "Kannon smiles upon you!\r\nYou now earn more Technique EXP than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nOra ottieni più ESP Tecnica del solito."
 
 msgctxt "5||slot_item_l05||buff_message"
 msgid "Kannon smiles upon you!\r\nYou now earn more Charm EXP than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nOra ottieni più ESP Fascino del solito."
 
 msgctxt "10||slot_item_r01||buff_message"
 msgid "This boost will last for 60 seconds."
-msgstr ""
+msgstr "Questo potenziamento durerà per 60 secondi."
 
 msgctxt "11||slot_item_r02||buff_message"
 msgid "This boost will last for 90 seconds."
-msgstr ""
+msgstr "Questo potenziamento durerà per 90 secondi."
 
 msgctxt "12||slot_item_r03||buff_message"
 msgid "This boost will last for 120 seconds."
-msgstr ""
+msgstr "Questo potenziamento durerà per 120 secondi."
 
 msgctxt "13||slot_item_l06||buff_message"
 msgid "Kannon smiles upon you!\r\nYou now earn more EXP than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nOra ottieni più ESP del solito."
 
 msgctxt "14||slot_item_l07||buff_message"
 msgid "Kannon smiles upon you!\r\nYour attack is now higher than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nIl tuo attacco è ora più alto del solito."
 
 msgctxt "15||slot_item_l08||buff_message"
 msgid "Kannon smiles upon you!\r\nYour defense is now higher than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nLa tua difesa è ora più alta del solito."
 
 msgctxt "16||slot_item_l09||buff_message"
 msgid "Kannon smiles upon you!\r\nYou now earn more money than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nOra ottieni più denaro del solito."
 
 msgctxt "17||slot_item_l10||buff_message"
 msgid "Kannon smiles upon you!\r\nYour stamina is now higher than usual."
-msgstr ""
+msgstr "Kannon ti sorride!\r\nLa tua resistenza è ora più alta del solito."
 
 msgctxt "18||slot_item_r04||buff_message"
 msgid "This boost will last for 150 seconds."
-msgstr ""
+msgstr "Questo potenziamento durerà per 150 secondi."
 
 msgctxt "19||slot_item_r05||buff_message"
 msgid "This boost will last for 180 seconds."
-msgstr ""
+msgstr "Questo potenziamento durerà per 180 secondi."
 
 msgctxt "20||slot_item_r06||buff_message"
 msgid "This boost will last for 210 seconds."
-msgstr ""
+msgstr "Questo potenziamento durerà per 210 secondi."
 
 msgctxt "21||slot_item_r07||buff_message"
 msgid "This boost will last for 240 seconds."
-msgstr ""
+msgstr "Questo potenziamento durerà per 240 secondi."
 
 msgctxt "22||slot_item_r08||buff_message"
 msgid "This boost will last for 270 seconds."
-msgstr ""
+msgstr "Questo potenziamento durerà per 270 secondi."
 
 msgctxt "23||slot_item_r09||buff_message"
 msgid "This boost will last for 300 seconds."
-msgstr ""
+msgstr "Questo potenziamento durerà per 300 secondi."
 
 msgctxt "24||slot_item_r10||buff_message"
 msgid "This boost will last for 300 seconds."
-msgstr ""
-
+msgstr "Questo potenziamento durerà per 300 secondi."

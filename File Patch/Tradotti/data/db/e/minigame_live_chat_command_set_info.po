@@ -9,209 +9,208 @@ msgstr ""
 
 msgctxt "11||anri_start_first_play||chapterText"
 msgid "Nice to Meet You"
-msgstr ""
+msgstr "Piacere di conoscerti"
 
 msgctxt "12||anri_start_second_play||chapterText"
 msgid "Hello Again"
-msgstr ""
+msgstr "Di nuovo ciao"
 
 msgctxt "13||anri_clear_after||chapterText"
 msgid "To Heaven"
-msgstr ""
+msgstr "Verso il paradiso"
 
 msgctxt "14||anri_test_01||chapterText"
 msgid "Anri Test 1"
-msgstr ""
+msgstr "Anri Test 1"
 
 msgctxt "15||anri_test_02||chapterText"
 msgid "Anri Test 2"
-msgstr ""
+msgstr "Anri Test 2"
 
 msgctxt "16||anri_movie1_01||chapterText"
 msgid "Heartbeat"
-msgstr ""
+msgstr "Batticuore"
 
 msgctxt "17||anri_movie1_02||chapterText"
 msgid "S or M?"
-msgstr ""
+msgstr "S o M?"
 
 msgctxt "18||anri_movie1_03||chapterText"
 msgid "The Charm of an Older Woman"
-msgstr ""
+msgstr "Il fascino di una donna più grande"
 
 msgctxt "19||anri_movie1_04||chapterText"
 msgid "Broken AC"
-msgstr ""
+msgstr "AC rotta"
 
 msgctxt "20||anri_movie1_05||chapterText"
 msgid "Kiryu's Banana"
-msgstr ""
+msgstr "La banana di Kiryu"
 
 msgctxt "21||anri_movie1_06||chapterText"
 msgid "Just a Bit"
-msgstr ""
+msgstr "Solo un po'"
 
 msgctxt "22||anri_movie2_01||chapterText"
 msgid "It's Growing"
-msgstr ""
+msgstr "Sta crescendo"
 
 msgctxt "23||anri_movie2_02||chapterText"
 msgid "Quite a Handful"
-msgstr ""
+msgstr "Un bel vedere"
 
 msgctxt "24||anri_movie2_03||chapterText"
 msgid "Confidence"
-msgstr ""
+msgstr "Fiducia in se stessi"
 
 msgctxt "25||anri_movie2_04||chapterText"
 msgid "Leg-lovers Unite"
-msgstr ""
+msgstr "Amanti delle gambe unitevi"
 
 msgctxt "26||anri_movie2_05||chapterText"
 msgid "A Trip to China"
-msgstr ""
+msgstr "Un viaggio in Cina"
 
 msgctxt "27||anri_movie2_06||chapterText"
 msgid "A Little Bit More..."
-msgstr ""
+msgstr "Un altro po'..."
 
 msgctxt "28||anri_movie3_01||chapterText"
 msgid "Massage Time"
-msgstr ""
+msgstr "Ora dei massaggi"
 
 msgctxt "29||anri_movie3_02||chapterText"
 msgid "I Love You"
-msgstr ""
+msgstr "Ti amo"
 
 msgctxt "30||anri_movie3_03||chapterText"
 msgid "Hands All Over"
-msgstr ""
+msgstr "Mani ovunque"
 
 msgctxt "31||anri_movie3_04||chapterText"
 msgid "Cravings"
-msgstr ""
+msgstr "Desideri"
 
 msgctxt "32||anri_movie3_05||chapterText"
 msgid "Take Me to Heaven"
-msgstr ""
+msgstr "Portami in paradiso"
 
 msgctxt "33||anri_movie1_99||chapterText"
 msgid "Not in the Mood"
-msgstr ""
+msgstr "Non dell'umore"
 
 msgctxt "34||anri_movie2_99||chapterText"
 msgid "Not Feeling It"
-msgstr ""
+msgstr "Non me la sento"
 
 msgctxt "35||anri_movie3_99||chapterText"
 msgid "Logging Off"
-msgstr ""
+msgstr "Mi disconnetto"
 
 msgctxt "36||anri_movie4_99||chapterText"
 msgid "A Lifetime of Pleasure"
-msgstr ""
+msgstr "Una vita di piacere"
 
 msgctxt "37||yua_start_first_play||chapterText"
 msgid "Giving It My All!"
-msgstr ""
+msgstr "Darò il massimo!"
 
 msgctxt "38||yua_start_second_play||chapterText"
 msgid "Back for More"
-msgstr ""
+msgstr "Di nuovo qui"
 
 msgctxt "39||yua_clear_after||chapterText"
 msgid "Here I Am"
-msgstr ""
+msgstr "Eccomi qui"
 
 msgctxt "40||yua_movie1_01||chapterText"
 msgid "How to Relax"
-msgstr ""
+msgstr "Come rilassarsi"
 
 msgctxt "41||yua_movie1_02||chapterText"
 msgid "Do You Have a Boyfriend?"
-msgstr ""
+msgstr "Hai il ragazzo?"
 
 msgctxt "42||yua_movie1_03||chapterText"
 msgid "S or M?"
-msgstr ""
+msgstr "S o M?"
 
 msgctxt "43||yua_movie1_04||chapterText"
 msgid "Getting Hotter"
-msgstr ""
+msgstr "Sempre più caldo"
 
 msgctxt "44||yua_movie1_05||chapterText"
 msgid "Kiryu's Sausage"
-msgstr ""
+msgstr "La salsiccia di Kiryu"
 
 msgctxt "45||yua_movie1_06||chapterText"
 msgid "A Little Present"
-msgstr ""
+msgstr "Un piccolo regalo"
 
 msgctxt "46||yua_movie2_01||chapterText"
 msgid "Even Bigger"
-msgstr ""
+msgstr "Ancora più grande"
 
 msgctxt "47||yua_movie2_02||chapterText"
 msgid "Come Closer"
-msgstr ""
+msgstr "Vieni più vicino"
 
 msgctxt "48||yua_movie2_03||chapterText"
 msgid "Every. Last. Inch."
-msgstr ""
+msgstr "Ogni. Singolo. Centimetro."
 
 msgctxt "49||yua_movie2_04||chapterText"
 msgid "Yua's Request Corner"
-msgstr ""
+msgstr "L'angolo delle richieste"
 
 msgctxt "50||yua_movie2_05||chapterText"
 msgid "Injection Time"
-msgstr ""
+msgstr "Tempo di iniezioni"
 
 msgctxt "51||yua_movie2_06||chapterText"
 msgid "Naughty Together"
-msgstr ""
+msgstr "Cattivi insieme"
 
 msgctxt "52||yua_movie3_01||chapterText"
 msgid "Kinda Sore"
-msgstr ""
+msgstr "Un po' indolenzita"
 
 msgctxt "53||yua_movie3_02||chapterText"
 msgid "Je T'aime"
-msgstr ""
+msgstr "Je T'aime"
 
 msgctxt "54||yua_movie3_03||chapterText"
 msgid "Touch Me..."
-msgstr ""
+msgstr "Toccami..."
 
 msgctxt "55||yua_movie3_04||chapterText"
 msgid "Urges"
-msgstr ""
+msgstr "Pulsioni"
 
 msgctxt "56||yua_movie3_05||chapterText"
 msgid "Alone Time"
-msgstr ""
+msgstr "Tempo da soli"
 
 msgctxt "57||yua_movie1_99||chapterText"
 msgid "Not Up To It"
-msgstr ""
+msgstr "Non all'altezza"
 
 msgctxt "58||yua_movie2_99||chapterText"
 msgid "Feeling Out of It"
-msgstr ""
+msgstr "Sentirsi fuori fase"
 
 msgctxt "59||yua_movie3_99||chapterText"
 msgid "Losing the Fire"
-msgstr ""
+msgstr "Perdere il fuoco"
 
 msgctxt "60||yua_movie4_99||chapterText"
 msgid "Post Climax"
-msgstr ""
+msgstr "Post orgasmo"
 
 msgctxt "61||anri_movie3_06||chapterText"
 msgid "Private Time"
-msgstr ""
+msgstr "Momento privato"
 
 msgctxt "62||yua_movie3_06||chapterText"
 msgid "Private Heaven"
-msgstr ""
-
+msgstr "Paradiso privato"

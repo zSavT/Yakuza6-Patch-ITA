@@ -9,41 +9,40 @@ msgstr ""
 
 msgctxt "1||setouchi_warriors||name"
 msgid "Setouchi Warriors"
-msgstr ""
+msgstr "Setouchi Warriors"
 
 msgctxt "2||gokuaku_thunders||name"
 msgid "Jingai Thunders"
-msgstr ""
+msgstr "Jingai Thunders"
 
 msgctxt "3||onomichi_legends||name"
 msgid "Onomichi Legends"
-msgstr ""
+msgstr "Onomichi Legends"
 
 msgctxt "4||kanamizawa_gorgeous||name"
 msgid "Kanamizawa Gorgeous"
-msgstr ""
+msgstr "Kanamizawa Gorgeous"
 
 msgctxt "5||gokuaku_thunders_second||name"
 msgid "Jingai Thunders"
-msgstr ""
+msgstr "Jingai Thunders"
 
 msgctxt "1||setouchi_warriors||name_initial"
 msgid "Setouchi"
-msgstr ""
+msgstr "Setouchi"
 
 msgctxt "2||gokuaku_thunders||name_initial"
 msgid "Jingai"
-msgstr ""
+msgstr "Jingai"
 
 msgctxt "3||onomichi_legends||name_initial"
 msgid "Onomichi"
-msgstr ""
+msgstr "Onomichi"
 
 msgctxt "4||kanamizawa_gorgeous||name_initial"
 msgid "Kanamizawa"
-msgstr ""
+msgstr "Kanamizawa"
 
 msgctxt "5||gokuaku_thunders_second||name_initial"
 msgid "Jingai"
-msgstr ""
-
+msgstr "Jingai"

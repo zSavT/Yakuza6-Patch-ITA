@@ -9,197 +9,196 @@ msgstr ""
 
 msgctxt "1||homerun_elementary||difficulty"
 msgid "Beginner"
-msgstr ""
+msgstr "Principiante"
 
 msgctxt "2||homerun_intermediate||difficulty"
 msgid "Intermediate"
-msgstr ""
+msgstr "Intermedio"
 
 msgctxt "3||homerun_senior||difficulty"
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzato"
 
 msgctxt "4||homerun_super||difficulty"
 msgid "Expert"
-msgstr ""
+msgstr "Esperto"
 
 msgctxt "5||challenge_elementary_1||difficulty"
 msgid "Beginner 1"
-msgstr ""
+msgstr "Principiante 1"
 
 msgctxt "6||challenge_elementary_2||difficulty"
 msgid "Beginner 2"
-msgstr ""
+msgstr "Principiante 2"
 
 msgctxt "7||challenge_elementary_3||difficulty"
 msgid "Beginner 3"
-msgstr ""
+msgstr "Principiante 3"
 
 msgctxt "8||challenge_intermediate_1||difficulty"
 msgid "Intermediate 1"
-msgstr ""
+msgstr "Intermedio 1"
 
 msgctxt "9||challenge_intermediate_2||difficulty"
 msgid "Intermediate 2"
-msgstr ""
+msgstr "Intermedio 2"
 
 msgctxt "10||challenge_intermediate_3||difficulty"
 msgid "Intermediate 3"
-msgstr ""
+msgstr "Intermedio 3"
 
 msgctxt "11||challenge_senior_1||difficulty"
 msgid "Advanced 1"
-msgstr ""
+msgstr "Avanzato 1"
 
 msgctxt "12||challenge_senior_2||difficulty"
 msgid "Advanced 2"
-msgstr ""
+msgstr "Avanzato 2"
 
 msgctxt "13||challenge_senior_3||difficulty"
 msgid "Advanced 3"
-msgstr ""
+msgstr "Avanzato 3"
 
 msgctxt "14||challenge_super_1||difficulty"
 msgid "Expert 1"
-msgstr ""
+msgstr "Esperto 1"
 
 msgctxt "15||challenge_super_2||difficulty"
 msgid "Expert 2"
-msgstr ""
+msgstr "Esperto 2"
 
 msgctxt "16||challenge_super_3||difficulty"
 msgid "Expert 3"
-msgstr ""
+msgstr "Esperto 3"
 
 msgctxt "17||sub_a20_challenge||difficulty"
 msgid "Trial"
-msgstr ""
+msgstr "Prova"
 
 msgctxt "1||homerun_elementary||text_1"
 msgid "Hit as many home runs as you can in 10 pitches! Earn Rank A or above to clear!"
-msgstr ""
+msgstr "Fai più fuoricampo che puoi in 10 lanci! Ottieni il grado A o superiore per farcela!"
 
 msgctxt "2||homerun_intermediate||text_1"
 msgid "Hit as many home runs as you can in 10 pitches! Earn Rank A or above to clear!"
-msgstr ""
+msgstr "Fai più fuoricampo che puoi in 10 lanci! Ottieni il grado A o superiore per farcela!"
 
 msgctxt "3||homerun_senior||text_1"
 msgid "Hit as many home runs as you can in 10 pitches! Earn Rank A or above to clear!"
-msgstr ""
+msgstr "Fai più fuoricampo che puoi in 10 lanci! Ottieni il grado A o superiore per farcela!"
 
 msgctxt "4||homerun_super||text_1"
 msgid "Hit as many home runs as you can in 10 pitches! Earn Rank A or above to clear!"
-msgstr ""
+msgstr "Fai più fuoricampo che puoi in 10 lanci! Ottieni il grado A o superiore per farcela!"
 
 msgctxt "5||challenge_elementary_1||text_1"
 msgid "Score 3 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 3 o più punti in 10 lanci per farcela!"
 
 msgctxt "6||challenge_elementary_2||text_1"
 msgid "Score 3 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 3 o più punti in 10 lanci per farcela!"
 
 msgctxt "7||challenge_elementary_3||text_1"
 msgid "Score 5 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 5 o più punti in 10 lanci per farcela!"
 
 msgctxt "8||challenge_intermediate_1||text_1"
 msgid "Score 3 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 3 o più punti in 10 lanci per farcela!"
 
 msgctxt "9||challenge_intermediate_2||text_1"
 msgid "Score 5 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 5 o più punti in 10 lanci per farcela!"
 
 msgctxt "10||challenge_intermediate_3||text_1"
 msgid "Score 5 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 5 o più punti in 10 lanci per farcela!"
 
 msgctxt "11||challenge_senior_1||text_1"
 msgid "Score 7 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 7 o più punti in 10 lanci per farcela!"
 
 msgctxt "12||challenge_senior_2||text_1"
 msgid "Score 7 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 7 o più punti in 10 lanci per farcela!"
 
 msgctxt "13||challenge_senior_3||text_1"
 msgid "Score 7 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 7 o più punti in 10 lanci per farcela!"
 
 msgctxt "14||challenge_super_1||text_1"
 msgid "Score 7 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 7 o più punti in 10 lanci per farcela!"
 
 msgctxt "15||challenge_super_2||text_1"
 msgid "Score 8 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 8 o più punti in 10 lanci per farcela!"
 
 msgctxt "16||challenge_super_3||text_1"
 msgid "Score 9 or more runs in 10 pitches to clear!"
-msgstr ""
+msgstr "Segna 9 o più punti in 10 lanci per farcela!"
 
 msgctxt "1||homerun_elementary||text_2"
 msgid "In this course, you'll face some basic breaking balls!\r\n[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_blue>Forkball</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai alcune palle a effetto base!\r\n[Lanci] <color=batting_pitch_white>Palla veloce</color> / <color=batting_pitch_red>Palla curva</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_blue>Forkball</color>"
 
 msgctxt "2||homerun_intermediate||text_2"
 msgid "In this course, you'll face breaking balls that curve slightly near your hands!\r\n[Pitch Type] <color=batting_pitch_white>Two-seam</color> / <color=batting_pitch_white>One-seam</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_blue>Splitter</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai palle a effetto che curvano leggermente vicino alle mani!\r\n[Lanci] <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_white>One-seamer</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_blue>Splitter</color>"
 
 msgctxt "3||homerun_senior||text_2"
 msgid "In this course, you'll face pitches that fluctuate in speed!\r\n[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_blue>Change-up</color> / <color=batting_pitch_yellow>Sinker</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai lanci che variano in velocità!\r\n[Lanci] <color=batting_pitch_white>Palla veloce</color> / <color=batting_pitch_red>Palla curva</color> / <color=batting_pitch_blue>Change-up</color> / <color=batting_pitch_yellow>Sinker</color>"
 
 msgctxt "4||homerun_super||text_2"
 msgid "In this course, you'll face all sorts of breaking balls!\r\n[Pitch Type] Mystery!"
-msgstr ""
+msgstr "In questo percorso, affronterai tutti i tipi di palle a effetto!\r\n[Lanci] Mistero!"
 
 msgctxt "5||challenge_elementary_1||text_2"
 msgid "In this course, you'll face only fastballs!\r\n[Pitch Type] <color=batting_pitch_white>Fastball</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai solo palle veloci!\r\n[Lanci] <color=batting_pitch_white>Palla veloce</color>"
 
 msgctxt "6||challenge_elementary_2||text_2"
 msgid "In this course, you'll face fastballs and curveballs!\r\n[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai palle veloci e palle curve!\r\n[Lanci] <color=batting_pitch_white>Palla veloce</color> / <color=batting_pitch_red>Palla curva</color>"
 
 msgctxt "7||challenge_elementary_3||text_2"
 msgid "In this course, you'll face curveballs and sinkers!\r\n[Pitch Type] <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_yellow>Sinker</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai palle curve e sinker!\r\n[Lanci] <color=batting_pitch_red>Palla curva</color> / <color=batting_pitch_yellow>Sinker</color>"
 
 msgctxt "8||challenge_intermediate_1||text_2"
 msgid "In this course, you'll face breaking balls that curve slightly!\r\n[Pitch Type] <color=batting_pitch_white>Two-seam</color> / <color=batting_pitch_white>One-seam</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_blue>Splitter</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai palle a effetto che curvano leggermente!\r\n[Lanci] <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_white>One-seamer</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_blue>Splitter</color>"
 
 msgctxt "9||challenge_intermediate_2||text_2"
 msgid "In this course, you'll face three types of breaking balls!\r\n[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_blue>Forkball</color> / <color=batting_pitch_yellow>Shoot</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai tre tipi di palle a effetto!\r\n[Lanci] <color=batting_pitch_white>Palla veloce</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_blue>Forkball</color> / <color=batting_pitch_yellow>Shootball</color>"
 
 msgctxt "10||challenge_intermediate_3||text_2"
 msgid "In this course, you'll face pitches that fluctuate in speed!\r\n[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_blue>Change-up</color> / <color=batting_pitch_yellow>Sinker</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai lanci che variano in velocità!\r\n[Lanci] <color=batting_pitch_white>Palla veloce</color> / <color=batting_pitch_red>Palla curva</color> / <color=batting_pitch_blue>Change-up</color> / <color=batting_pitch_yellow>Sinker</color>"
 
 msgctxt "11||challenge_senior_1||text_2"
 msgid "In this course, you'll face pitches that break horizontally!\r\n[Pitch Type] <color=batting_pitch_white>Two-seam</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_yellow>Shoot</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai lanci che curvano orizzontalmente!\r\n[Lanci] <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_yellow>Shootball</color>"
 
 msgctxt "12||challenge_senior_2||text_2"
 msgid "In this course, you'll face pitches that break vertically!\r\n[Pitch Type] <color=batting_pitch_white>One-seam</color> / <color=batting_pitch_blue>Forkball</color> / <color=batting_pitch_blue>Splitter</color> / <color=batting_pitch_blue>Change-up</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai lanci che curvano verticalmente!\r\n[Lanci] <color=batting_pitch_white>One-seamer</color> / <color=batting_pitch_blue>Forkball</color> / <color=batting_pitch_blue>Splitter</color> / <color=batting_pitch_blue>Change-up</color>"
 
 msgctxt "13||challenge_senior_3||text_2"
 msgid "In this course, you'll face pitches that break diagonally!\r\n[Pitch Type] <color=batting_pitch_white>Two-seam</color> / <color=batting_pitch_white>One-seam</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_yellow>Sinker</color>"
-msgstr ""
+msgstr "In questo percorso, affronterai lanci che curvano diagonalmente!\r\n[Lanci] <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_white>One-seamer</color> / <color=batting_pitch_red>Palla curva</color> / <color=batting_pitch_yellow>Sinker</color>"
 
 msgctxt "14||challenge_super_1||text_2"
 msgid "In this course, you'll face all sorts of breaking balls!\r\n[Pitch Type] Mystery!"
-msgstr ""
+msgstr "In questo percorso, affronterai tutti i tipi di palle a effetto!\r\n[Lanci] Mistero!"
 
 msgctxt "15||challenge_super_2||text_2"
 msgid "In this course, you'll face all sorts of breaking balls!\r\n[Pitch Type] Mystery!"
-msgstr ""
+msgstr "In questo percorso, affronterai tutti i tipi di palle a effetto!\r\n[Lanci] Mistero!"
 
 msgctxt "16||challenge_super_3||text_2"
 msgid "In this course, you'll face all sorts of breaking balls!\r\n[Pitch Type] Mystery!"
-msgstr ""
-
+msgstr "In questo percorso, affronterai tutti i tipi di palle a effetto!\r\n[Lanci] Mistero!"

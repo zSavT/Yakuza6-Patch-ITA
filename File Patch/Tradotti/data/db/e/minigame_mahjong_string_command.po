@@ -9,25 +9,24 @@ msgstr ""
 
 msgctxt "2||pon||text"
 msgid "Pon"
-msgstr ""
+msgstr "Pon"
 
 msgctxt "3||chii||text"
 msgid "Chi"
-msgstr ""
+msgstr "Chii"
 
 msgctxt "4||kan||text"
 msgid "Kan"
-msgstr ""
+msgstr "Kan"
 
 msgctxt "5||tsumo||text"
 msgid "Tsumo"
-msgstr ""
+msgstr "Tsumo"
 
 msgctxt "6||ron||text"
 msgid "Ron"
-msgstr ""
+msgstr "Ron"
 
 msgctxt "7||riichi||text"
 msgid "Riichi"
-msgstr ""
-
+msgstr "Riichi"

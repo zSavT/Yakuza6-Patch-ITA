@@ -9,25 +9,24 @@ msgstr ""
 
 msgctxt "2||anri_01||name"
 msgid "Anri"
-msgstr ""
+msgstr "Anri"
 
 msgctxt "3||yua_01||name"
 msgid "Yua"
-msgstr ""
+msgstr "Yua"
 
 msgctxt "2||anri_01||message"
 msgid "Let's have some fun..."
-msgstr ""
+msgstr "Divertiamoci un po'..."
 
 msgctxt "3||yua_01||message"
 msgid "<symbol=note_with_outline>Yua's Room<symbol=note_with_outline>"
-msgstr ""
+msgstr "<symbol=note_with_outline>Stanza di Yua<symbol=note_with_outline>"
 
 msgctxt "2||anri_01||category"
 msgid "Sexy"
-msgstr ""
+msgstr "Sexy"
 
 msgctxt "3||yua_01||category"
 msgid "Cute"
-msgstr ""
-
+msgstr "Carina"

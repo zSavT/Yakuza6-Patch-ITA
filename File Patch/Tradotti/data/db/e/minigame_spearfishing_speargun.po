@@ -9,49 +9,48 @@ msgstr ""
 
 msgctxt "1||gun0||name"
 msgid "Standard Speargun"
-msgstr ""
+msgstr "Fucile subacqueo standard"
 
 msgctxt "2||gun1||name"
 msgid "High-impact Speargun"
-msgstr ""
+msgstr "Fucile subacqueo ad alto impatto"
 
 msgctxt "3||gun2||name"
 msgid "High-capacity Speargun"
-msgstr ""
+msgstr "Fucile subacqueo ad alta capacità"
 
 msgctxt "4||gun3||name"
 msgid "Modded Speargun"
-msgstr ""
+msgstr "Fucile subacqueo modificato"
 
 msgctxt "5||gun4||name"
 msgid "Kiwami Speargun"
-msgstr ""
+msgstr "Fucile subacqueo Kiwami"
 
 msgctxt "6||gun5||name"
 msgid "Ahab's Revenge"
-msgstr ""
+msgstr "Vendetta di Achab"
 
 msgctxt "1||gun0||information"
 msgid "A gun designed for beginning fishermen. It has\r\nlow power, but great aim and spear count."
-msgstr ""
+msgstr "Un fucile progettato per i pescatori principianti. Ha una\r\npotenza bassa, ma ottima mira e capacità di fiocine."
 
 msgctxt "2||gun1||information"
 msgid "A powerful weapon perfect for tackling bosses.\r\nHowever, low spear capacity hinders it in normal use."
-msgstr ""
+msgstr "Un'arma potente perfetta per affrontare i boss.\r\nTuttavia, la bassa capacità di fiocine la penalizza nell'uso normale."
 
 msgctxt "3||gun2||information"
 msgid "This speargun can load a lot of low damage shots,\r\nso you need to make every shot count."
-msgstr ""
+msgstr "Questo fucile subacqueo può caricare molti colpi a basso\r\ndanno, quindi devi far contare ogni colpo."
 
 msgctxt "4||gun3||information"
 msgid "A modified version of the Standard Speargun.\r\nIts high performance doesn't drag down usability."
-msgstr ""
+msgstr "Una versione modificata del Fucile subacqueo standard.\r\nLe sue alte prestazioni non ne compromettono l'usabilità."
 
 msgctxt "5||gun4||information"
 msgid "Extremely high damage, but can only load a few\r\nspears at a time. Make sure you don't miss."
-msgstr ""
+msgstr "Danno estremamente elevato, ma può caricare solo poche\r\nfiocine alla volta. Assicurati di non mancare il bersaglio."
 
 msgctxt "6||gun5||information"
 msgid "The denizens of the sea will cower before the\r\nhigh damage and spear count of this elite weapon."
-msgstr ""
-
+msgstr "Gli abitanti del mare tremeranno di fronte all'elevato danno\r\ne alla capacità di fiocine di quest'arma d'élite."

@@ -9,29 +9,28 @@ msgstr ""
 
 msgctxt "1||yakuman||text"
 msgid "Yakuman"
-msgstr ""
+msgstr "Yakuman"
 
 msgctxt "2||double_yakuman||text"
 msgid "Double Yakuman"
-msgstr ""
+msgstr "Doppio Yakuman"
 
 msgctxt "3||triple_yakuman||text"
 msgid "Triple Yakuman"
-msgstr ""
+msgstr "Triplo Yakuman"
 
 msgctxt "4||yonbai_yakuman||text"
 msgid "4x Yakuman"
-msgstr ""
+msgstr "4x Yakuman"
 
 msgctxt "5||gobai_yakuman||text"
 msgid "5x Yakuman"
-msgstr ""
+msgstr "5x Yakuman"
 
 msgctxt "6||rokubai_yakuman||text"
 msgid "6x Yakuman"
-msgstr ""
+msgstr "6x Yakuman"
 
 msgctxt "7||nanabai_yakuman||text"
 msgid "7x Yakuman"
-msgstr ""
-
+msgstr "7x Yakuman"

@@ -9,21 +9,20 @@ msgstr ""
 
 msgctxt "1||move_to_dining_part||message"
 msgid "Receive Meal Plan"
-msgstr ""
+msgstr "Ricevi piano alimentare"
 
 msgctxt "3||sec||message"
 msgid "seconds"
-msgstr ""
+msgstr "secondi"
 
 msgctxt "4||eat_between_meal||message"
 msgid "P.S. Avoid snacking as much as possible!"
-msgstr ""
+msgstr "P.S. Evita di fare spuntini il più possibile!"
 
 msgctxt "5||rizap_challenge||message"
 msgid "RIZAP Challenge Session #"
-msgstr ""
+msgstr "Sessione Sfida RIZAP #"
 
 msgctxt "6||etc||message"
 msgid "\r\nEtc."
-msgstr ""
-
+msgstr "\r\nEcc."

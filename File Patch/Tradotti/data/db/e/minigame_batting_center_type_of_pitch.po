@@ -9,57 +9,56 @@ msgstr ""
 
 msgctxt "2||slider||name"
 msgid "Slider"
-msgstr ""
+msgstr "Slider"
 
 msgctxt "5||sinker||name"
 msgid "Sinker"
-msgstr ""
+msgstr "Sinker"
 
 msgctxt "8||fastball||name"
 msgid "Fastball"
-msgstr ""
+msgstr "Palla veloce"
 
 msgctxt "9||twoseam||name"
 msgid "Two-seamer"
-msgstr ""
+msgstr "Two-seamer"
 
 msgctxt "10||oneseam||name"
 msgid "One-seamer"
-msgstr ""
+msgstr "One-seamer"
 
 msgctxt "11||cutball||name"
 msgid "Cutter"
-msgstr ""
+msgstr "Cutter"
 
 msgctxt "12||curve||name"
 msgid "Curveball"
-msgstr ""
+msgstr "Palla curva"
 
 msgctxt "13||fork||name"
 msgid "Forkball"
-msgstr ""
+msgstr "Forkball"
 
 msgctxt "14||splitter||name"
 msgid "Splitter"
-msgstr ""
+msgstr "Splitter"
 
 msgctxt "15||changeup||name"
 msgid "Change-up"
-msgstr ""
+msgstr "Change-up"
 
 msgctxt "16||shuuto||name"
 msgid "Shootball"
-msgstr ""
+msgstr "Shootball"
 
 msgctxt "17||gyro||name"
 msgid "Gyroball"
-msgstr ""
+msgstr "Gyroball"
 
 msgctxt "18||Hfastball||name"
 msgid "Fastball"
-msgstr ""
+msgstr "Palla veloce"
 
 msgctxt "5||sinker||name_left"
 msgid "Screwball"
-msgstr ""
-
+msgstr "Screwball"

@@ -9,49 +9,48 @@ msgstr ""
 
 msgctxt "1||squat||name"
 msgid "Squats"
-msgstr ""
+msgstr "Squat"
 
 msgctxt "2||bench_press||name"
 msgid "Bench Press"
-msgstr ""
+msgstr "Panca piana"
 
 msgctxt "3||deadlift||name"
 msgid "Deadlifts"
-msgstr ""
+msgstr "Stacchi da terra"
 
 msgctxt "6||squat_jump||name"
 msgid "Jump Squats"
-msgstr ""
+msgstr "Jump Squat"
 
 msgctxt "7||lat_pulldown||name"
 msgid "Lat Pulldowns"
-msgstr ""
+msgstr "Lat Machine"
 
 msgctxt "8||seated_rowing||name"
 msgid "Seated Row"
-msgstr ""
+msgstr "Pulley"
 
 msgctxt "1||squat||information"
 msgid "Weight training focused on the lower body.\r\nImproves your Spirit and Strength."
-msgstr ""
+msgstr "Allenamento con i pesi incentrato sulla parte inferiore del corpo.\r\nAumenta Spirito e Forza."
 
 msgctxt "2||bench_press||information"
 msgid "Weight training focused on the upper body.\r\nImproves your Strength and Spirit."
-msgstr ""
+msgstr "Allenamento con i pesi incentrato sulla parte superiore del corpo.\r\nAumenta Forza e Spirito."
 
 msgctxt "3||deadlift||information"
 msgid "Training done by lifting a large barbell off the ground.\r\nImproves your Strength and Agility."
-msgstr ""
+msgstr "Allenamento eseguito sollevando un grande bilanciere da terra.\r\nAumenta Forza e Agilità."
 
 msgctxt "6||squat_jump||information"
 msgid "Training focused on the lower body.\r\nImproves your Agility and Spirit."
-msgstr ""
+msgstr "Allenamento incentrato sulla parte inferiore del corpo.\r\nAumenta Agilità e Spirito."
 
 msgctxt "7||lat_pulldown||information"
 msgid "Training done with a lat machine.\r\nImproves your Spirit and Agility."
-msgstr ""
+msgstr "Allenamento eseguito con la Lat Machine.\r\nAumenta Spirito e Agilità."
 
 msgctxt "8||seated_rowing||information"
 msgid "Training done with a rowing machine.\r\nImproves your Agility and Strength."
-msgstr ""
-
+msgstr "Allenamento eseguito con un vogatore.\r\nAumenta Agilità e Forza."

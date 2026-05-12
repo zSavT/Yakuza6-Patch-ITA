@@ -9,33 +9,32 @@ msgstr ""
 
 msgctxt "3||furiten||text"
 msgid "Sacred Discard"
-msgstr ""
+msgstr "Furiten"
 
 msgctxt "4||chonbo||text"
 msgid "Foul"
-msgstr ""
+msgstr "Chombo"
 
 msgctxt "5||notenriichi||text"
 msgid "Illegal Riichi"
-msgstr ""
+msgstr "Noten Riichi"
 
 msgctxt "6||suukaikan||text"
 msgid "Four Kan Draw"
-msgstr ""
+msgstr "Suukaikan"
 
 msgctxt "7||suuchariichi||text"
 msgid "Four Riichi Draw"
-msgstr ""
+msgstr "Suucha Riichi"
 
 msgctxt "8||sanchahou||text"
 msgid "Triple Ron"
-msgstr ""
+msgstr "Sancha Hou"
 
 msgctxt "9||suufuurenda||text"
 msgid "Wind Discard Draw"
-msgstr ""
+msgstr "Suufuu Renda"
 
 msgctxt "10||kyuushukyuuhai||text"
 msgid "Nine Terminal Draw"
-msgstr ""
-
+msgstr "Kyuushu Kyuuhai"

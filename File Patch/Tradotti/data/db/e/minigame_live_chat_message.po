@@ -9,41 +9,40 @@ msgstr ""
 
 msgctxt "1||ui_display_point||text"
 msgid "${point} pts"
-msgstr ""
+msgstr "${point} pti"
 
 msgctxt "2||ui_display_command_time||text"
 msgid "${second}:${millisecond}"
-msgstr ""
+msgstr "${second}:${millisecond}"
 
 msgctxt "3||ui_display_disenabled_command_time||text"
 msgid "--:--"
-msgstr ""
+msgstr "--:--"
 
 msgctxt "4||ui_display_chat_name_and_message||text"
 msgid "${name}: ${message}"
-msgstr ""
+msgstr "${name}: ${message}"
 
 msgctxt "5||ui_display_yes_charge||text"
 msgid "Add"
-msgstr ""
+msgstr "Aggiungi"
 
 msgctxt "6||ui_display_no_charge||text"
 msgid "Don't Add"
-msgstr ""
+msgstr "Non aggiungere"
 
 msgctxt "7||ui_display_yes_play_game||text"
 msgid "Enter"
-msgstr ""
+msgstr "Entra"
 
 msgctxt "8||ui_display_no_play_game||text"
 msgid "Don't Enter"
-msgstr ""
+msgstr "Non entrare"
 
 msgctxt "9||ui_display_yes_exit_game||text"
 msgid "Leave"
-msgstr ""
+msgstr "Esci"
 
 msgctxt "10||ui_display_no_exit_game||text"
 msgid "Don't Leave"
-msgstr ""
-
+msgstr "Non uscire"

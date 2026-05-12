@@ -9,25 +9,24 @@ msgstr ""
 
 msgctxt "1||start_game||text"
 msgid "Start Game"
-msgstr ""
+msgstr "Avvia partita"
 
 msgctxt "2||start_ranking||text"
 msgid "Start Ranked Match"
-msgstr ""
+msgstr "Avvia partita classificata"
 
 msgctxt "3||finish_mahjong||text"
 msgid "Quit Game"
-msgstr ""
+msgstr "Esci dal gioco"
 
 msgctxt "4||change_rule||text"
 msgid "Change Rules"
-msgstr ""
+msgstr "Cambia regole"
 
 msgctxt "5||manual_mahjong||text"
 msgid "Mahjong Basics"
-msgstr ""
+msgstr "Basi del Mahjong"
 
 msgctxt "6||look_ranking||text"
 msgid "View Rankings"
-msgstr ""
-
+msgstr "Vedi classifiche"

@@ -9,257 +9,256 @@ msgstr ""
 
 msgctxt "1||thunders_2_1||title"
 msgid "<color=batting_pitch_red>[Official Game]</color> VS Thunders Reserves"
-msgstr ""
+msgstr "<color=batting_pitch_red>[Partita ufficiale]</color> VS Riserve Thunders"
 
 msgctxt "2||thunders_2_2||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Victory Lap"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Giro di trionfo"
 
 msgctxt "3||thunders_2_3||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Keep It Interesting"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Rendiamola interessante"
 
 msgctxt "4||thunders_2_4||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Landslide Win"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Vittoria schiacciante"
 
 msgctxt "5||thunders_1_1||title"
 msgid "<color=batting_pitch_red>[Official Game]</color> VS Thunders"
-msgstr ""
+msgstr "<color=batting_pitch_red>[Partita ufficiale]</color> VS Thunders"
 
 msgctxt "6||thunders_1_2||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Victory Lap"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Giro di trionfo"
 
 msgctxt "7||thunders_1_3||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Landslide Win"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Vittoria schiacciante"
 
 msgctxt "8||thunders_1_4||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Team in Stitches"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Squadra a pezzi"
 
 msgctxt "9||legends_1||title"
 msgid "<color=batting_pitch_red>[Official Game]</color> VS Legends"
-msgstr ""
+msgstr "<color=batting_pitch_red>[Partita ufficiale]</color> VS Legends"
 
 msgctxt "10||legends_2||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Keep It Interesting"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Rendiamola interessante"
 
 msgctxt "11||legends_3||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Landslide Win"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Vittoria schiacciante"
 
 msgctxt "12||legends_4||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Colossus of Clout"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Colosso di potenza"
 
 msgctxt "13||gorgeous_1||title"
 msgid "<color=batting_pitch_red>[Official Game]</color> VS Gorgeous"
-msgstr ""
+msgstr "<color=batting_pitch_red>[Partita ufficiale]</color> VS Gorgeous"
 
 msgctxt "14||gorgeous_2||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Keep It Interesting"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Rendiamola interessante"
 
 msgctxt "15||gorgeous_3||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Team in Stitches"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Squadra a pezzi"
 
 msgctxt "16||gorgeous_4||title"
 msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Colossus of Clout"
-msgstr ""
+msgstr "<color=batting_pitch_yellow>[Partita a condizioni]</color> Colosso di potenza"
 
 msgctxt "1||thunders_2_1||enemy_team_name"
 msgid "VS Jingai Thunders Reserves"
-msgstr ""
+msgstr "VS Riserve Jingai Thunders"
 
 msgctxt "2||thunders_2_2||enemy_team_name"
 msgid "VS Jingai Thunders Reserves"
-msgstr ""
+msgstr "VS Riserve Jingai Thunders"
 
 msgctxt "3||thunders_2_3||enemy_team_name"
 msgid "VS Jingai Thunders Reserves"
-msgstr ""
+msgstr "VS Riserve Jingai Thunders"
 
 msgctxt "4||thunders_2_4||enemy_team_name"
 msgid "VS Jingai Thunders Reserves"
-msgstr ""
+msgstr "VS Riserve Jingai Thunders"
 
 msgctxt "5||thunders_1_1||enemy_team_name"
 msgid "VS Jingai Thunders"
-msgstr ""
+msgstr "VS Jingai Thunders"
 
 msgctxt "6||thunders_1_2||enemy_team_name"
 msgid "VS Jingai Thunders"
-msgstr ""
+msgstr "VS Jingai Thunders"
 
 msgctxt "7||thunders_1_3||enemy_team_name"
 msgid "VS Jingai Thunders"
-msgstr ""
+msgstr "VS Jingai Thunders"
 
 msgctxt "8||thunders_1_4||enemy_team_name"
 msgid "VS Jingai Thunders"
-msgstr ""
+msgstr "VS Jingai Thunders"
 
 msgctxt "9||legends_1||enemy_team_name"
 msgid "VS Onomichi Legends"
-msgstr ""
+msgstr "VS Onomichi Legends"
 
 msgctxt "10||legends_2||enemy_team_name"
 msgid "VS Onomichi Legends"
-msgstr ""
+msgstr "VS Onomichi Legends"
 
 msgctxt "11||legends_3||enemy_team_name"
 msgid "VS Onomichi Legends"
-msgstr ""
+msgstr "VS Onomichi Legends"
 
 msgctxt "12||legends_4||enemy_team_name"
 msgid "VS Onomichi Legends"
-msgstr ""
+msgstr "VS Onomichi Legends"
 
 msgctxt "13||gorgeous_1||enemy_team_name"
 msgid "VS Kanamizawa Gorgeous"
-msgstr ""
+msgstr "VS Kanamizawa Gorgeous"
 
 msgctxt "14||gorgeous_2||enemy_team_name"
 msgid "VS Kanamizawa Gorgeous"
-msgstr ""
+msgstr "VS Kanamizawa Gorgeous"
 
 msgctxt "15||gorgeous_3||enemy_team_name"
 msgid "VS Kanamizawa Gorgeous"
-msgstr ""
+msgstr "VS Kanamizawa Gorgeous"
 
 msgctxt "16||gorgeous_4||enemy_team_name"
 msgid "VS Kanamizawa Gorgeous"
-msgstr ""
+msgstr "VS Kanamizawa Gorgeous"
 
 msgctxt "1||thunders_2_1||terms_clear"
 msgid "Win against the Jingai Thunders Reserves."
-msgstr ""
+msgstr "Vinci contro le Riserve Jingai Thunders."
 
 msgctxt "2||thunders_2_2||terms_clear"
 msgid "Win with at least one home run."
-msgstr ""
+msgstr "Vinci con almeno un fuoricampo."
 
 msgctxt "3||thunders_2_3||terms_clear"
 msgid "Win by scoring 5 or more runs."
-msgstr ""
+msgstr "Vinci segnando 5 o più punti."
 
 msgctxt "4||thunders_2_4||terms_clear"
 msgid "Win with at least a 5 run lead."
-msgstr ""
+msgstr "Vinci con un vantaggio di almeno 5 punti."
 
 msgctxt "5||thunders_1_1||terms_clear"
 msgid "Win against the Jingai Thunders."
-msgstr ""
+msgstr "Vinci contro i Jingai Thunders."
 
 msgctxt "6||thunders_1_2||terms_clear"
 msgid "Win with at least one home run."
-msgstr ""
+msgstr "Vinci con almeno un fuoricampo."
 
 msgctxt "7||thunders_1_3||terms_clear"
 msgid "Win with at least a 5 run lead."
-msgstr ""
+msgstr "Vinci con un vantaggio di almeno 5 punti."
 
 msgctxt "8||thunders_1_4||terms_clear"
 msgid "Win when your team is in terrible condition."
-msgstr ""
+msgstr "Vinci quando la tua squadra è in pessime condizioni."
 
 msgctxt "9||legends_1||terms_clear"
 msgid "Win against Onomichi Legends."
-msgstr ""
+msgstr "Vinci contro gli Onomichi Legends."
 
 msgctxt "10||legends_2||terms_clear"
 msgid "Win by scoring 5 or more runs."
-msgstr ""
+msgstr "Vinci segnando 5 o più punti."
 
 msgctxt "11||legends_3||terms_clear"
 msgid "Win with at least a 5 run lead."
-msgstr ""
+msgstr "Vinci con un vantaggio di almeno 5 punti."
 
 msgctxt "12||legends_4||terms_clear"
 msgid "Win against a perfect-condition team."
-msgstr ""
+msgstr "Vinci contro una squadra in perfette condizioni."
 
 msgctxt "13||gorgeous_1||terms_clear"
 msgid "Win against Kanamizawa Gorgeous."
-msgstr ""
+msgstr "Vinci contro i Kanamizawa Gorgeous."
 
 msgctxt "14||gorgeous_2||terms_clear"
 msgid "Win by scoring 5 or more runs."
-msgstr ""
+msgstr "Vinci segnando 5 o più punti."
 
 msgctxt "15||gorgeous_3||terms_clear"
 msgid "Win when your team is in terrible condition."
-msgstr ""
+msgstr "Vinci quando la tua squadra è in pessime condizioni."
 
 msgctxt "16||gorgeous_4||terms_clear"
 msgid "Win against a perfect-condition team."
-msgstr ""
+msgstr "Vinci contro una squadra in perfette condizioni."
 
 msgctxt "1||thunders_2_1||terms_bonus"
 msgid "Win with at least one player-controlled hit."
-msgstr ""
+msgstr "Vinci con almeno una valida controllata dal giocatore."
 
 msgctxt "2||thunders_2_2||terms_bonus"
 msgid "Win with at least two player-controlled hits."
-msgstr ""
+msgstr "Vinci con almeno due valide controllate dal giocatore."
 
 msgctxt "3||thunders_2_3||terms_bonus"
 msgid "Win with at least 10 runs."
-msgstr ""
+msgstr "Vinci con almeno 10 punti."
 
 msgctxt "4||thunders_2_4||terms_bonus"
 msgid "Win with at least a 10 run lead."
-msgstr ""
+msgstr "Vinci con un vantaggio di almeno 10 punti."
 
 msgctxt "5||thunders_1_1||terms_bonus"
 msgid "Win with at least one player-controlled home run."
-msgstr ""
+msgstr "Vinci con almeno un fuoricampo controllato dal giocatore."
 
 msgctxt "6||thunders_1_2||terms_bonus"
 msgid "Win with at least two player-controlled home runs."
-msgstr ""
+msgstr "Vinci con almeno due fuoricampo controllati dal giocatore."
 
 msgctxt "7||thunders_1_3||terms_bonus"
 msgid "Win with at least a 10 run lead."
-msgstr ""
+msgstr "Vinci con un vantaggio di almeno 10 punti."
 
 msgctxt "8||thunders_1_4||terms_bonus"
 msgid "Win with at least three player-controlled hits."
-msgstr ""
+msgstr "Vinci con almeno tre valide controllate dal giocatore."
 
 msgctxt "9||legends_1||terms_bonus"
 msgid "Win with at least two player-controlled hits."
-msgstr ""
+msgstr "Vinci con almeno due valide controllate dal giocatore."
 
 msgctxt "10||legends_2||terms_bonus"
 msgid "Win with at least 10 runs."
-msgstr ""
+msgstr "Vinci con almeno 10 punti."
 
 msgctxt "11||legends_3||terms_bonus"
 msgid "Win with at least a 10 run lead."
-msgstr ""
+msgstr "Vinci con un vantaggio di almeno 10 punti."
 
 msgctxt "12||legends_4||terms_bonus"
 msgid "Win without changing the pitcher."
-msgstr ""
+msgstr "Vinci senza sostituire il lanciatore."
 
 msgctxt "13||gorgeous_1||terms_bonus"
 msgid "Win with at least two player-controlled hits."
-msgstr ""
+msgstr "Vinci con almeno due valide controllate dal giocatore."
 
 msgctxt "14||gorgeous_2||terms_bonus"
 msgid "Win with at least 10 runs."
-msgstr ""
+msgstr "Vinci con almeno 10 punti."
 
 msgctxt "15||gorgeous_3||terms_bonus"
 msgid "Win with at least one player-controlled home run."
-msgstr ""
+msgstr "Vinci con almeno un fuoricampo controllato dal giocatore."
 
 msgctxt "16||gorgeous_4||terms_bonus"
 msgid "Win with at least two player-controlled home runs."
-msgstr ""
-
+msgstr "Vinci con almeno due fuoricampo controllati dal giocatore."

@@ -9,121 +9,120 @@ msgstr ""
 
 msgctxt "1||paper_fortune_s||open_msg"
 msgid "A supreme blessing!?"
-msgstr ""
+msgstr "Una benedizione suprema!?"
 
 msgctxt "2||paper_fortune_a||open_msg"
 msgid "A great blessing!"
-msgstr ""
+msgstr "Una grande benedizione!"
 
 msgctxt "3||paper_fortune_b||open_msg"
 msgid "A good blessing!"
-msgstr ""
+msgstr "Una buona benedizione!"
 
 msgctxt "4||paper_fortune_c||open_msg"
 msgid "A regular blessing."
-msgstr ""
+msgstr "Una benedizione normale."
 
 msgctxt "5||paper_fortune_d||open_msg"
 msgid "A poor blessing..."
-msgstr ""
+msgstr "Una scarsa benedizione..."
 
 msgctxt "6||paper_fortune_e||open_msg"
 msgid "A curse..."
-msgstr ""
+msgstr "Una maledizione..."
 
 msgctxt "1||paper_fortune_s||info_exp_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next 9 battles."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più ESP del solito.\r\nQuesto potenziamento durerà per le tue prossime 9 battaglie."
 
 msgctxt "2||paper_fortune_a||info_exp_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next 6 battles."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più ESP del solito.\r\nQuesto potenziamento durerà per le tue prossime 6 battaglie."
 
 msgctxt "3||paper_fortune_b||info_exp_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next 3 battles."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più ESP del solito.\r\nQuesto potenziamento durerà per le tue prossime 3 battaglie."
 
 msgctxt "4||paper_fortune_c||info_exp_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next 2 battles."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più ESP del solito.\r\nQuesto potenziamento durerà per le tue prossime 2 battaglie."
 
 msgctxt "5||paper_fortune_d||info_exp_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more EXP than usual.\r\nThis boost will last for your next battle."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più ESP del solito.\r\nQuesto potenziamento durerà per la tua prossima battaglia."
 
 msgctxt "6||paper_fortune_e||info_exp_msg"
 msgid "All current boosts have disappeared..."
-msgstr ""
+msgstr "Tutti i potenziamenti attuali sono svaniti..."
 
 msgctxt "1||paper_fortune_s||info_atk_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next 9 attacks."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nIl tuo attacco è ora più alto del solito.\r\nQuesto potenziamento durerà per i tuoi prossimi 9 attacchi."
 
 msgctxt "2||paper_fortune_a||info_atk_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next 6 attacks."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nIl tuo attacco è ora più alto del solito.\r\nQuesto potenziamento durerà per i tuoi prossimi 6 attacchi."
 
 msgctxt "3||paper_fortune_b||info_atk_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next 3 attacks."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nIl tuo attacco è ora più alto del solito.\r\nQuesto potenziamento durerà per i tuoi prossimi 3 attacchi."
 
 msgctxt "4||paper_fortune_c||info_atk_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next 2 attacks."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nIl tuo attacco è ora più alto del solito.\r\nQuesto potenziamento durerà per i tuoi prossimi 2 attacchi."
 
 msgctxt "5||paper_fortune_d||info_atk_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYour attack is now higher than usual.\r\nThis boost will last for your next attack."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nIl tuo attacco è ora più alto del solito.\r\nQuesto potenziamento durerà per il tuo prossimo attacco."
 
 msgctxt "6||paper_fortune_e||info_atk_msg"
 msgid "All current boosts have disappeared..."
-msgstr ""
+msgstr "Tutti i potenziamenti attuali sono svaniti..."
 
 msgctxt "1||paper_fortune_s||info_mny_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next 9 battles."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più denaro dalle battaglie del solito.\r\nQuesto effetto durerà per le tue prossime 9 battaglie."
 
 msgctxt "2||paper_fortune_a||info_mny_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next 6 battles."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più denaro dalle battaglie del solito.\r\nQuesto effetto durerà per le tue prossime 6 battaglie."
 
 msgctxt "3||paper_fortune_b||info_mny_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next 3 battles."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più denaro dalle battaglie del solito.\r\nQuesto effetto durerà per le tue prossime 3 battaglie."
 
 msgctxt "4||paper_fortune_c||info_mny_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next 2 battles."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più denaro dalle battaglie del solito.\r\nQuesto effetto durerà per le tue prossime 2 battaglie."
 
 msgctxt "5||paper_fortune_d||info_mny_msg"
 msgid "The Seven Gods of Fortune smile upon you!\r\nYou now earn more money from battle than usual.\r\nThis effect will last for your next battle."
-msgstr ""
+msgstr "Le Sette Divinità della Fortuna ti sorridono!\r\nOra ottieni più denaro dalle battaglie del solito.\r\nQuesto effetto durerà per la tua prossima battaglia."
 
 msgctxt "6||paper_fortune_e||info_mny_msg"
 msgid "All current boosts have disappeared..."
-msgstr ""
+msgstr "Tutti i potenziamenti attuali sono svaniti..."
 
 msgctxt "1||paper_fortune_s||effect_msg"
 msgid "I'm on top of the world...!"
-msgstr ""
+msgstr "Mi sento in cima al mondo...!"
 
 msgctxt "2||paper_fortune_a||effect_msg"
 msgid "Things are looking up for me."
-msgstr ""
+msgstr "Le cose stanno migliorando."
 
 msgctxt "3||paper_fortune_b||effect_msg"
 msgid "Things are looking up for me."
-msgstr ""
+msgstr "Le cose stanno migliorando."
 
 msgctxt "4||paper_fortune_c||effect_msg"
 msgid "Hm, this isn't so bad."
-msgstr ""
+msgstr "Hm, non è male."
 
 msgctxt "5||paper_fortune_d||effect_msg"
 msgid "Hm, this isn't so bad."
-msgstr ""
+msgstr "Hm, non è male."
 
 msgctxt "6||paper_fortune_e||effect_msg"
 msgid "I'm not feeling good about this..."
-msgstr ""
-
+msgstr "Non ho un buon presentimento..."
