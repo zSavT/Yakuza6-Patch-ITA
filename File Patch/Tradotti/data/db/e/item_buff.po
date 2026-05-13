@@ -9,41 +9,41 @@ msgstr ""
 
 msgctxt "1||attack_up||name"
 msgid "Attack Boost"
-msgstr ""
+msgstr "Aumento attacco"
 
 msgctxt "2||defense_up||name"
 msgid "Defense Boost"
-msgstr ""
+msgstr "Aumento difesa"
 
 msgctxt "3||exp_muscle_up||name"
 msgid "Strength EXP Boost"
-msgstr ""
+msgstr "Aumento EXP Forza"
 
 msgctxt "4||exp_quickness_up||name"
 msgid "Agility EXP Boost"
-msgstr ""
+msgstr "Aumento EXP Agilità"
 
 msgctxt "5||exp_guts_up||name"
 msgid "Spirit EXP Boost"
-msgstr ""
+msgstr "Aumento EXP Spirito"
 
 msgctxt "6||exp_technique_up||name"
 msgid "Technique EXP Boost"
-msgstr ""
+msgstr "Aumento EXP Tecnica"
 
 msgctxt "7||exp_charm_up||name"
 msgid "Charm EXP Boost"
-msgstr ""
+msgstr "Aumento EXP Fascino"
 
 msgctxt "8||money_up||name"
 msgid "Money Boost"
-msgstr ""
+msgstr "Aumento denaro"
 
 msgctxt "9||stamina_up||name"
 msgid "Stamina Boost"
-msgstr ""
+msgstr "Aumento resistenza"
 
 msgctxt "10||exp_all_up||name"
 msgid "All EXP Boost"
-msgstr ""
+msgstr "Aumento EXP totali"
 
