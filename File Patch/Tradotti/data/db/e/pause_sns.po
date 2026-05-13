@@ -9,669 +9,668 @@ msgstr ""
 
 msgctxt "50||sub_a11_reiko||table||1||sub_a11_01||1"
 msgid "Ugh, I'm so booored.\r\nI <font_kind=yakuza_italic>am</font_kind> feeling kind of horny, though.\r\nAnyone up for a little romp between the\r\nsheets? Try and find me if you're game.\r\nI'll be waiting! <symbol=note_with_outline>"
-msgstr ""
+msgstr "Uff, che noooia.\r\nPerò mi sento <font_kind=yakuza_italic>decisamente</font_kind> su di giri.\r\nQualcuno ha voglia di fare due salti sotto\r\nle lenzuola? Provate a trovarmi, se vi va di giocare.\r\nVi aspetto! <symbol=note_with_outline>"
 
 msgctxt "50||sub_a11_reiko||table||2||sub_a11_02||1"
 msgid "Ughhh, why's nobody talking to me!?\r\nMaybe I'll just handle things myself at home.\r\n<font_kind=yakuza_italic>Unlesssss</font_kind> somebody wants to come lend\r\na hand... Or maybe more. <symbol=note_with_outline>"
-msgstr ""
+msgstr "Uffa, perché nessuno mi parla!?\r\nForse farò tutto da sola a casa.\r\n<font_kind=yakuza_italic>A menoooo che</font_kind> qualcuno non voglia darmi\r\nuna mano... O magari di più. <symbol=note_with_outline>"
 
 msgctxt "50||sub_a11_reiko||table||3||sub_a11_03||1"
 msgid "Awww, nobody came to say hello.\r\nI moved somewhere new, though... <symbol=note_with_outline>\r\nCan anyone guess where I am?"
-msgstr ""
+msgstr "Awww, nessuno è venuto a salutarmi.\r\nPerò mi sono spostata... <symbol=note_with_outline>\r\nIndovinate dove sono?"
 
 msgctxt "50||sub_a11_reiko||table||4||sub_a11_04||1"
 msgid "I'm done waiting around for my white knight. <symbol=note_with_outline>\r\nTime to get moving again! Although, maybe\r\nI'll just go handle things myself at home.\r\nThis is your last chance, so try and find\r\nme at my new spot! I'll be waiting... <symbol=note_with_outline>"
-msgstr ""
+msgstr "Basta aspettare il principe azzurro. <symbol=note_with_outline>\r\nÈ ora di rimettersi in moto! Anche se, forse,\r\nfarò tutto da sola a casa.\r\nQuesta è la vostra ultima occasione, provate a trovarmi\r\nnel mio nuovo nascondiglio! Vi aspetto... <symbol=note_with_outline>"
 
 msgctxt "56||tm_10_kyuubyounin||table||1||start||1"
 msgid "I saw someone keeled over in pain on\r\nEast National Route 2, near the pedestrian\r\nbridge! I can't stop, so I'm hoping someone\r\nhere on Troublr can!"
-msgstr ""
+msgstr "Ho visto qualcuno piegato dal dolore sulla\r\nNational Route 2 est, vicino al cavalcavia\r\npedonale! Non posso fermarmi, spero che qualcuno\r\nqui su Troublr possa farlo!"
 
 msgctxt "56||tm_10_kyuubyounin||table||2||success||1"
 msgid "My friend just told me that the sick person\r\nwas saved by some good Samaritan who\r\ngave them some medicine. There's hope\r\nfor you yet, Onomichi!"
-msgstr ""
+msgstr "Un amico mi ha appena detto che quella persona\r\nè stata salvata da un buon samaritano che\r\ngli ha dato delle medicine. C'è ancora\r\nsperanza per te, Onomichi!"
 
 msgctxt "56||tm_10_kyuubyounin||table||3||failure||1"
 msgid "Even though they must have been in\r\nexcruciating pain, no one came to help...\r\nPeople are so heartless..."
-msgstr ""
+msgstr "Nonostante si stesse chiaramente torcendo\r\ndal dolore, nessuno è andato ad aiutarlo...\r\nLa gente è così senza cuore..."
 
 msgctxt "56||tm_10_kyuubyounin||table||4||accept||1"
 msgid "I'll check it out."
-msgstr ""
+msgstr "Vado a dare un'occhiata."
 
 msgctxt "57||tm_10_kyuubyounin_k00||table||1||start||1"
 msgid "I just looked out the window of my car\r\nand I think I saw someone in serious pain\r\njust south of the Theater! I can't stop\r\nthere myself, so can someone help!?"
-msgstr ""
+msgstr "Ho guardato fuori dal finestrino dell'auto\r\ne credo di aver visto qualcuno che stava malissimo\r\nappena a sud del Theater! Non posso fermarmi,\r\nqualcuno può aiutarlo!?"
 
 msgctxt "57||tm_10_kyuubyounin_k00||table||2||success||1"
 msgid "A friend of mine said someone saved that\r\nsick person. Was it the guy who replied?\r\nWell, they're apparently recovering fine,\r\nthanks to you. Kamurocho is in good hands!"
-msgstr ""
+msgstr "Un mio amico mi ha detto che qualcuno l'ha\r\nsalvato. È stato il tizio che ha risposto?\r\nBeh, a quanto pare si sta riprendendo bene,\r\ngrazie a te. Kamurocho è in buone mani!"
 
 msgctxt "57||tm_10_kyuubyounin_k00||table||3||failure||1"
 msgid "I was finally able to turn around, and\r\nnobody came to help. Kamurocho is such\r\na disappointment. Nobody cares here."
-msgstr ""
+msgstr "Alla fine sono riuscito a tornare indietro,\r\ne nessuno era andato ad aiutarlo. Kamurocho\r\nè una vera delusione. Non frega niente a nessuno."
 
 msgctxt "57||tm_10_kyuubyounin_k00||table||4||accept||1"
 msgid "I'll look into it."
-msgstr ""
+msgstr "Vado a controllare."
 
 msgctxt "58||tm_11_kami_ga_nai||table||1||start||1"
 msgid "*Urgent: PLEASE SHARE!*\r\nI'm inside the Children's Park bathroom and\r\nit's OUT OF TOILET PAPER! Can you make it\r\nsnappy? I have an important meeting soon!"
-msgstr ""
+msgstr "*Urgente: CONDIVIDETE!*\r\nSono nel bagno del Children's Park e\r\nÈ FINITA LA CARTA IGIENICA! Potete fare in\r\nfretta? Tra poco ho una riunione importante!"
 
 msgctxt "58||tm_11_kami_ga_nai||table||2||success||1"
 msgid "The patron saint of public restrooms himself\r\nwas able to spare me a square! Thank you,\r\noh benevolent lord of the lavatory!"
-msgstr ""
+msgstr "Il santo patrono dei bagni pubblici in persona\r\nè riuscito a portarmi un rotolo! Grazie,\r\noh benevolo signore della latrina!"
 
 msgctxt "58||tm_11_kami_ga_nai||table||3||failure||1"
 msgid "Well, please keep my underwear in your\r\nprayers. The dark price was too steep, and\r\nit left this world in about as cruel a way as\r\nany pair of undies could go... I'm so sorry."
-msgstr ""
+msgstr "Beh, vi prego di ricordare le mie mutande nelle\r\nvostre preghiere. Il prezzo oscuro era troppo alto,\r\ne hanno lasciato questo mondo nel modo più crudele\r\npossibile... Mi dispiace tanto."
 
 msgctxt "58||tm_11_kami_ga_nai||table||4||accept||1"
 msgid "......Fine."
-msgstr ""
+msgstr "......E va bene."
 
 msgctxt "59||tm_12_houkama||table||1||start||1"
 msgid "There's been an alarming increase in\r\narsons here in Onomichi lately, and I\r\njust saw a suspicious guy near the port.\r\nHe was clearly trying to keep a low\r\nprofile, so I didn't want to approach!"
-msgstr ""
+msgstr "Ultimamente c'è stato un aumento allarmante di\r\nincendi dolosi qui a Onomichi, e ho appena\r\nvisto un tipo sospetto vicino al porto.\r\nCercava chiaramente di non dare nell'occhio,\r\nquindi non mi sono avvicinato!"
 
 msgctxt "59||tm_12_houkama||table||2||success||1"
 msgid "That person really was an arsonist. Too\r\nbad they got away. Did the guy who\r\nreplied chase them away? If so, great work!"
-msgstr ""
+msgstr "Quella persona era davvero un piromane. Peccato\r\nche sia scappato. È stato il tizio che ha\r\nrisposto a metterlo in fuga? Se è così, ottimo lavoro!"
 
 msgctxt "59||tm_12_houkama||table||3||failure||1"
 msgid "A small fire broke out. I saw a firetruck\r\nheading in that direction. I knew I should've\r\ncalled the police sooner."
-msgstr ""
+msgstr "È scoppiato un piccolo incendio. Ho visto un'autopompa\r\ndirigersi da quelle parti. Lo sapevo che avrei\r\ndovuto chiamare prima la polizia."
 
 msgctxt "59||tm_12_houkama||table||4||accept||1"
 msgid "Sounds dangerous. I'll check it out."
-msgstr ""
+msgstr "Sembra pericoloso. Vado a controllare."
 
 msgctxt "60||tm_21_hittakuri||table||1||start||1"
 msgid "I was minding my own business at the\r\nOyster Shack on Shishido Street, when my\r\neye caught some shady business. I'm not\r\nsure what I saw, but I just want to be sure...\r\nCan anyone check it out? I'm too scared."
-msgstr ""
+msgstr "Mi stavo facendo i fatti miei al\r\nChiosco di ostriche in Shishido Street, quando ho\r\nnotato un movimento sospetto. Non sono\r\nsicuro di cosa fosse, ma vorrei esserne certo...\r\nQualcuno può controllare? Io ho troppa paura."
 
 msgctxt "60||tm_21_hittakuri||table||2||success||1"
 msgid "So it WAS shady! And you stopped a purse-\r\nsnatcher! You've done the world a favor!"
-msgstr ""
+msgstr "Allora ERA sospetto! E hai pure fermato uno\r\nscippatore! Hai fatto un favore al mondo intero!"
 
 msgctxt "60||tm_21_hittakuri||table||3||failure||1"
 msgid "Maybe I was just imagining things... But this\r\nis gonna keep me up at night, I just know it."
-msgstr ""
+msgstr "Forse mi stavo solo immaginando tutto... Ma so già\r\nche questa cosa mi terrà sveglio stanotte."
 
 msgctxt "60||tm_21_hittakuri||table||4||accept||1"
 msgid "I'll get to the bottom of it."
-msgstr ""
+msgstr "Andrò a fondo della questione."
 
 msgctxt "62||tm_33_harapeko||table||1||start||1"
 msgid "I saw a little boy squatting in the middle\r\nof the shopping center. Maybe he wasn't\r\nfeeling well? I hope he's all right... I didn't\r\ncheck, but now I'm kicking myself! Can\r\nsomeone look in on him?"
-msgstr ""
+msgstr "Ho visto un ragazzino accovacciato nel bel mezzo\r\ndel centro commerciale. Forse non si sentiva\r\nbene? Spero stia bene... Non ho controllato,\r\nma ora me ne pento! Qualcuno può\r\nandare a dare un'occhiata?"
 
 msgctxt "62||tm_33_harapeko||table||2||success||1"
 msgid "Apparently that little boy was just really\r\nhungry. He said a nice tourist gave him\r\nsome food. I'm glad he wasn't ill, though!"
-msgstr ""
+msgstr "A quanto pare quel ragazzino aveva solo molta\r\nfame. Ha detto che un gentile turista gli ha\r\ndato da mangiare. Meno male che non era malato!"
 
 msgctxt "62||tm_33_harapeko||table||3||failure||1"
 msgid "Apparently that little boy was just really\r\nhungry. He fainted and got hauled away\r\nin an ambulance."
-msgstr ""
+msgstr "A quanto pare quel ragazzino aveva solo molta\r\nfame. È svenuto e l'hanno portato via\r\nin ambulanza."
 
 msgctxt "62||tm_33_harapeko||table||4||accept||1"
 msgid "I'll see what the problem is."
-msgstr ""
+msgstr "Vado a vedere qual è il problema."
 
 msgctxt "76||tm_31_yopparai||table||1||start||1"
 msgid "There's this drunk in Public Park Three, and\r\nhe's being a nuisance. He's making me and\r\nsome other people pretty uncomfortable...\r\nI wish someone would put a stop to him..."
-msgstr ""
+msgstr "C'è un ubriacone al Public Park Three, e\r\nsta dando fastidio a tutti. Sta mettendo me e\r\naltre persone molto a disagio...\r\nVorrei che qualcuno lo fermasse..."
 
 msgctxt "76||tm_31_yopparai||table||2||success||1"
 msgid "Not how I would have solved the problem,\r\nbut I guess giving a drunk more alcohol\r\nworks, as long as it makes him stop\r\nbothering people!"
-msgstr ""
+msgstr "Non è così che avrei risolto il problema,\r\nma immagino che dare altro alcol a un ubriaco\r\nfunzioni, a patto che smetta di importunare\r\nla gente!"
 
 msgctxt "76||tm_31_yopparai||table||3||failure||1"
 msgid "The drunk guy never did budge. He reeked,\r\nand he kept muttering stuff to people...\r\nSometimes Kamurocho feels like a real\r\ndump."
-msgstr ""
+msgstr "Quell'ubriacone non si è mosso di un millimetro. Puzzava\r\nda far schifo e continuava a bofonchiare...\r\nA volte Kamurocho sembra un vero e proprio\r\nletamaio."
 
 msgctxt "76||tm_31_yopparai||table||4||accept||1"
 msgid "I know how to handle this."
-msgstr ""
+msgstr "So io come gestire la situazione."
 
 msgctxt "82||tm_41_missing||table||1||start||1"
 msgid "There was this woman looking pretty\r\nfrantic at the shrine. Apparently she and her\r\nchild got separated. I don't know the area\r\ntoo well... Can anyone swing by?"
-msgstr ""
+msgstr "C'era questa donna dall'aria piuttosto\r\ndisperata al santuario. A quanto pare si è\r\npersa suo figlio. Non conosco bene la zona...\r\nQualcuno può farci un salto?"
 
 msgctxt "82||tm_41_missing||table||2||success||1"
 msgid "Thank goodness, the child was found.\r\nConsidering how dangerous it's been\r\ngetting these days, I'm glad this all\r\nworked out okay."
-msgstr ""
+msgstr "Grazie al cielo, il bambino è stato ritrovato.\r\nConsiderando quanto siano diventati pericolosi\r\nquesti giorni, sono felice che tutto sia\r\nandato per il verso giusto."
 
 msgctxt "82||tm_41_missing||table||3||failure||1"
 msgid "I guess the police eventually found that kid,\r\nand the poor little guy was so exhausted\r\nhe could barely even cry anymore. I'm\r\ntearing up here."
-msgstr ""
+msgstr "A quanto pare la polizia alla fine ha trovato il piccolo,\r\ne il poverino era così esausto\r\nche riusciva a malapena a piangere. Mi viene\r\nda piangere."
 
 msgctxt "82||tm_41_missing||table||4||accept||1"
 msgid "He couldn't have gone far. I'll have a look."
-msgstr ""
+msgstr "Non può essere andato lontano. Vado a dare un'occhiata."
 
 msgctxt "83||tm_42_falling||table||1||start||1"
 msgid "I saw someone dangling from the ceiling\r\nof the Central Shopping District. It'll\r\nonly be a matter of time until the person\r\nfalls. Someone help them!"
-msgstr ""
+msgstr "Ho visto qualcuno appeso al tetto\r\ndel Distretto commerciale centrale. È solo\r\nquestione di tempo prima che cada.\r\nQualcuno lo aiuti!"
 
 msgctxt "83||tm_42_falling||table||2||success||1"
 msgid "I heard the person was safely rescued.\r\nThey were pretty high up, so if they fell,\r\nit probably would've been bad. I'm\r\nrelieved, so relieved."
-msgstr ""
+msgstr "Ho saputo che la persona è stata salvata.\r\nEra piuttosto in alto, quindi se fosse caduta\r\nsarebbe finita male. Sono sollevato,\r\ndavvero sollevato."
 
 msgctxt "83||tm_42_falling||table||3||failure||1"
 msgid "The person couldn't hang on anymore and\r\nfell. Apparently they didn't end up with\r\nsevere injuries, but I bet it hurt."
-msgstr ""
+msgstr "La persona non ce l'ha fatta a tenersi e\r\nalla fine è caduta. A quanto pare non ha riportato\r\ngravi ferite, ma scommetto che le ha fatto male."
 
 msgctxt "83||tm_42_falling||table||4||accept||1"
 msgid "Got it, I'll go help.\r\nWait for me."
-msgstr ""
+msgstr "Ricevuto, vado ad aiutarlo.\r\nAspettatemi."
 
 msgctxt "84||tm_42_falling_k00||table||1||start||1"
 msgid "There's someone hanging on for dear life\r\nfrom the rooftop of the batting center!\r\nI don't want to imagine what'll happen\r\nif they fall! Someone help!"
-msgstr ""
+msgstr "C'è qualcuno aggrappato per miracolo\r\nal tetto del batting center!\r\nNon voglio immaginare cosa succederà\r\nse cade! Aiuto!"
 
 msgctxt "84||tm_42_falling_k00||table||2||success||1"
 msgid "I heard some buff guy pulled the person up\r\nto safety. The world still has some good in it\r\nafter all!"
-msgstr ""
+msgstr "Ho sentito che un tizio muscoloso ha tirato su\r\nla persona mettendola in salvo. A quanto pare c'è ancora\r\ndel buono a questo mondo!"
 
 msgctxt "84||tm_42_falling_k00||table||3||failure||1"
 msgid "The person fell to the ground. Luckily, they\r\nweren't severely injured, but I can't believe\r\nno one even tried to help..."
-msgstr ""
+msgstr "La persona è caduta a terra. Per fortuna, non è rimasta\r\ngravemente ferita, ma non ci credo che\r\nnessuno abbia nemmeno provato ad aiutarla..."
 
 msgctxt "84||tm_42_falling_k00||table||4||accept||1"
 msgid "Got it. I'm on my way."
-msgstr ""
+msgstr "Ricevuto. Sono per strada."
 
 msgctxt "88||tm_01_katsuage_a01||table||1||start||1"
 msgid "I've heard there's a bunch of guys shaking\r\npeople down for cash in Theater Alley...\r\nSeems like there's a new victim every\r\nday, too. I wish someone would take care\r\nof those punks..."
-msgstr ""
+msgstr "Ho saputo che c'è un gruppo di tizi che\r\nestorce soldi alla gente in Theater Alley...\r\nSembra ci sia una nuova vittima ogni\r\ngiorno. Vorrei che qualcuno desse una\r\nlezione a quei teppisti..."
 
 msgctxt "88||tm_01_katsuage_a01||table||2||success||1"
 msgid "Apparently someone gave those\r\nshakedown guys a proper beat down.\r\nWas it the guy who replied to my post?\r\nIf so, thanks, man. I'm glad Kamurocho\r\nstill has people like you around."
-msgstr ""
+msgstr "A quanto pare qualcuno ha riempito di\r\nbotte quegli estorsori.\r\nÈ stato il tipo che ha risposto al mio post?\r\nSe è così, grazie amico. Sono felice che a Kamurocho\r\nci sia ancora gente come te in giro."
 
 msgctxt "88||tm_01_katsuage_a01||table||3||failure||1"
 msgid "They found some guy beaten half to death\r\nnear Theater Square. Word is they might\r\nnot make it... There's no justice in this town\r\nanymore..."
-msgstr ""
+msgstr "Hanno trovato un tizio picchiato a sangue\r\nvicino a Theater Square. Si dice che potrebbe\r\nnon farcela... Non c'è più giustizia in questa\r\ncittà..."
 
 msgctxt "88||tm_01_katsuage_a01||table||4||accept||1"
 msgid "Got it. I don't tolerate shakedowns."
-msgstr ""
+msgstr "Ricevuto. Non tollero le estorsioni."
 
 msgctxt "89||tm_01_katsuage_a02||table||1||start||1"
 msgid "I heard those shakedown guys showed\r\nup northwest of Theater Square.\r\nIf you're still out there... can you do\r\nsomething about them again?"
-msgstr ""
+msgstr "Ho sentito che quegli estorsori si sono fatti\r\nvivi a nord-ovest di Theater Square.\r\nSe sei ancora lì fuori... puoi fare\r\ndi nuovo qualcosa per fermarli?"
 
 msgctxt "89||tm_01_katsuage_a02||table||2||success||1"
 msgid "Man, whoever you are, you're stronger\r\nthan anyone I know! That should teach\r\nthose punks a lesson. I just hope they\r\nknow better than to come back..."
-msgstr ""
+msgstr "Amico, chiunque tu sia, sei più forte\r\ndi chiunque altro conosca! Questo dovrebbe dare\r\nuna bella lezione a quei teppisti. Spero solo che\r\nci pensino due volte prima di farsi rivedere..."
 
 msgctxt "89||tm_01_katsuage_a02||table||3||failure||1"
 msgid "Some people ended up getting hurt...\r\nI heard they were just left to bleed out\r\non the street, too... Shameful."
-msgstr ""
+msgstr "Alla fine ci sono andate di mezzo delle persone...\r\nHo sentito che le hanno lasciate a sanguinare\r\nsulla strada... È una vergogna."
 
 msgctxt "89||tm_01_katsuage_a02||table||4||accept||1"
 msgid "They'll be lucky if they can still walk."
-msgstr ""
+msgstr "Saranno fortunati se riusciranno ancora a camminare."
 
 msgctxt "90||tm_01_katsuage_a03||table||1||start||1"
 msgid "I saw someone get pulled into a manhole\r\nnear the Hotel District! They're supposedly\r\ntaking victims underground so no one can\r\nsee them shake people down. Please,\r\nsomeone save them!"
-msgstr ""
+msgstr "Ho visto qualcuno venire trascinato in un tombino\r\nvicino all'Hotel District! Si dice che stiano\r\nportando le vittime sottoterra per estorcere\r\nsoldi senza farsi vedere. Vi prego,\r\nqualcuno li salvi!"
 
 msgctxt "90||tm_01_katsuage_a03||table||2||success||1"
 msgid "You're so amazing. I think it finally got\r\nthrough to those guys. I heard from a friend\r\nthat they don't think it's worth the pain\r\nanymore. I bet that's the end of that\r\nshakedown problem for our city."
-msgstr ""
+msgstr "Sei fantastico. Credo che quei tizi abbiano\r\nfinalmente capito la lezione. Un mio amico mi ha detto\r\nche ora pensano che non valga più la pena rischiare.\r\nScommetto che è la fine del problema delle\r\nestorsioni nella nostra città."
 
 msgctxt "90||tm_01_katsuage_a03||table||3||failure||1"
 msgid "Just when I thought they were getting too\r\nscared, they're back to their old tricks and\r\nbragging about making easy money on the\r\nstreets. I wish somebody'd stand up to\r\nthem."
-msgstr ""
+msgstr "Proprio quando pensavo si stessero spaventando,\r\nsono tornati alle loro vecchie abitudini e si vantano\r\ndi fare soldi facili per strada.\r\nVorrei che qualcuno si ribellasse."
 
 msgctxt "90||tm_01_katsuage_a03||table||4||accept||1"
 msgid "Time to flush the rats out of the sewers."
-msgstr ""
+msgstr "È ora di stanare i ratti dalle fogne."
 
 msgctxt "91||tm_02_oyajigari_a01||table||1||start||1"
 msgid "I saw a rough-looking crowd harassing a\r\nmiddle-aged guy near the Millennium\r\nTower. I bet these are those dad hunters\r\nI've heard so much about."
-msgstr ""
+msgstr "Ho visto un gruppo di brutti ceffi infastidire un\r\nuomo di mezza età vicino alla Millennium\r\nTower. Scommetto che sono quei cacciatori di papà\r\ndi cui ho sentito tanto parlare."
 
 msgctxt "91||tm_02_oyajigari_a01||table||2||success||1"
 msgid "I saw this dude in a gray suit beating the\r\nliving shit out of those thugs. Was it the guy\r\nwho replied? If so, thanks. It was great\r\nseeing those guys get taken down a peg!"
-msgstr ""
+msgstr "Ho visto questo tizio in un completo grigio riempire di\r\nbotte quei teppisti. È stato quello che\r\nha risposto? Se sì, grazie. È stato fantastico\r\nvedere quei tizi abbassati di cresta!"
 
 msgctxt "91||tm_02_oyajigari_a01||table||3||failure||1"
 msgid "I just saw those thugs walk out of a\r\nstore with a whole bunch of expensive\r\nelectronics. Guess they got the money\r\nfrom that dude after all..."
-msgstr ""
+msgstr "Ho appena visto quei teppisti uscire da un\r\nnegozio con un sacco di costosa\r\nelettronica. Immagino abbiano ottenuto i soldi\r\nda quel tizio dopotutto..."
 
 msgctxt "91||tm_02_oyajigari_a01||table||4||accept||1"
 msgid "They won't get away with it."
-msgstr ""
+msgstr "Non la passeranno liscia."
 
 msgctxt "92||tm_02_oyajigari_a02||table||1||start||1"
 msgid "I heard another middle-aged man was\r\ngetting harassed in Pink Alley. Why are\r\npeople still doing this? If you're still out\r\nthere, Gray-suited Champion of Justice,\r\nwe need you!"
-msgstr ""
+msgstr "Ho sentito che un altro uomo di mezza età\r\nveniva importunato in Pink Alley. Perché la gente\r\ncontinua a fare queste cose? Se sei ancora lì\r\nfuori, Paladino della giustizia in completo grigio,\r\nabbiamo bisogno di te!"
 
 msgctxt "92||tm_02_oyajigari_a02||table||2||success||1"
 msgid "The Champion of Justice LIVES!\r\nThose guys were beaten to bloody pulps!\r\nServes 'em right, too! LMAO!"
-msgstr ""
+msgstr "Il Paladino della giustizia È VIVO!\r\nQuei tizi sono stati ridotti in poltiglia!\r\nE gli sta bene! AHAHAH!"
 
 msgctxt "92||tm_02_oyajigari_a02||table||3||failure||1"
 msgid "Just saw a guy walk out of Pink Alley looking\r\ntattered and broken. I guess the Champion\r\nof Justice was too busy."
-msgstr ""
+msgstr "Ho appena visto un tizio uscire da Pink Alley con l'aria\r\ndistrutta e a pezzi. Immagino che il Paladino\r\ndella giustizia fosse troppo occupato."
 
 msgctxt "92||tm_02_oyajigari_a02||table||4||accept||1"
 msgid "On it. And no nicknames, please."
-msgstr ""
+msgstr "Me ne occupo io. E niente soprannomi, per favore."
 
 msgctxt "93||tm_02_oyajigari_a03||table||1||start||1"
 msgid "Those dad-hunter guys are back again on\r\nEast Taihei Boulevard. It's in your hands,\r\nChampion of Justice!"
-msgstr ""
+msgstr "Quei cacciatori di papà sono tornati sul\r\nTaihei Boulevard est. È nelle tue mani,\r\nPaladino della giustizia!"
 
 msgctxt "93||tm_02_oyajigari_a03||table||2||success||1"
 msgid "I knew we could depend on you. They\r\nmust've learned their lesson by now. No\r\none's going to bother middle-aged men in\r\nthis city again after what happened to those\r\nguys."
-msgstr ""
+msgstr "Sapevo che potevamo contare su di te. Ormai\r\navranno imparato la lezione. Nessuno\r\ninfastidirà più gli uomini di mezza età in\r\nquesta città, dopo quello che è successo a quei tizi."
 
 msgctxt "93||tm_02_oyajigari_a03||table||3||failure||1"
 msgid "Man, I guess I was naive to expect a\r\nchampion of justice to fix everything.\r\nThat middle-aged man was crying into\r\nhis hands on the curb."
-msgstr ""
+msgstr "Amico, immagino di essere stato ingenuo ad aspettarmi che un\r\npaladino della giustizia sistemasse tutto.\r\nQuell'uomo di mezza età stava piangendo con le mani\r\nsul viso seduto sul marciapiede."
 
 msgctxt "93||tm_02_oyajigari_a03||table||4||accept||1"
 msgid "...The \"champion\" is on it. Happy?"
-msgstr ""
+msgstr "...Il \"paladino\" se ne occupa. Contento?"
 
 msgctxt "94||tm_03_nanpa_a01||table||1||start||1"
 msgid "I saw these gross guys harassing a girl\r\nin front of the Millennium Tower.\r\nI've heard rumors about the terrible\r\nthings these assholes do to those poor\r\nwomen..."
-msgstr ""
+msgstr "Ho visto questi tizi viscidi importunare una ragazza\r\ndavanti alla Millennium Tower.\r\nHo sentito voci sulle cose terribili che\r\nquesti stronzi fanno a quelle povere\r\ndonne..."
 
 msgctxt "94||tm_03_nanpa_a01||table||2||success||1"
 msgid "Those perverts got the beat down they\r\ndeserved. I'd say it was divine punishment\r\nthat the guy who wrecked them was built\r\nlike a bulldozer."
-msgstr ""
+msgstr "Quei pervertiti hanno ricevuto la batosta che\r\nmeritavano. Direi che è stata una punizione divina,\r\nvisto che il tizio che li ha distrutti era grosso\r\ncome un bulldozer."
 
 msgctxt "94||tm_03_nanpa_a01||table||3||failure||1"
 msgid "Turns out no one wanted to help that poor\r\ngirl... I sure hope she's okay..."
-msgstr ""
+msgstr "A quanto pare nessuno ha voluto aiutare quella povera\r\nragazza... Spero proprio stia bene..."
 
 msgctxt "94||tm_03_nanpa_a01||table||4||accept||1"
 msgid "Not on my watch."
-msgstr ""
+msgstr "Non sotto i miei occhi."
 
 msgctxt "95||tm_03_nanpa_a02||table||1||start||1"
 msgid "Those perverts don't know when to quit.\r\nThey're in front of Theater Square now!\r\nSomeone needs to put these scumbags in\r\ntheir place..."
-msgstr ""
+msgstr "Quei pervertiti non sanno quando arrendersi.\r\nOra sono davanti a Theater Square!\r\nQualcuno deve rimettere questi schifosi al\r\nloro posto..."
 
 msgctxt "95||tm_03_nanpa_a02||table||2||success||1"
 msgid "ROFLMAO! I saw those guys getting the\r\nbeating of their lives. They were really\r\naggressive to all those girls, and that\r\nreflects poorly on EVERYONE. So, I'm\r\nreally thankful to whoever beat them up!\r\nThat'll do, pig!"
-msgstr ""
+msgstr "AHAHAH! Ho visto quei tizi prendere la\r\nbatosta della loro vita. Erano davvero\r\naggressivi con tutte quelle ragazze, e questo\r\ngioca a sfavore di TUTTI. Quindi,\r\nringrazio molto chi li ha pestati!\r\nGli sta proprio bene!"
 
 msgctxt "95||tm_03_nanpa_a02||table||3||failure||1"
 msgid "No one came to help... People like them\r\ngive Kamurocho the reputation it deserves."
-msgstr ""
+msgstr "Nessuno è venuto ad aiutare... La gente come loro\r\ndà a Kamurocho la reputazione che si merita."
 
 msgctxt "95||tm_03_nanpa_a02||table||4||accept||1"
 msgid "I'll shut them down as many times\r\nas it takes."
-msgstr ""
+msgstr "Li metterò a tacere ogni volta\r\nche sarà necessario."
 
 msgctxt "96||tm_03_nanpa_a03||table||1||start||1"
 msgid "Those guys committing sexual assault\r\nseem to have moved their operation into\r\nthe Millennium Tower. I can't believe they\r\nthink they can get away with messing with\r\ngirls just because they're inside. Someone\r\nshould wreck them for good!"
-msgstr ""
+msgstr "Quei tizi che molestano le donne\r\nsembrano aver spostato la loro operazione nella\r\nMillennium Tower. Non ci posso credere che\r\npensino di farla franca importunando le ragazze\r\nsolo perché sono al chiuso. Qualcuno\r\ndovrebbe fargli passare la voglia per sempre!"
 
 msgctxt "96||tm_03_nanpa_a03||table||2||success||1"
 msgid "Those guys just got REKT, LOL. Serves 'em\r\nright, if you ask me! I think they're done\r\nmessing with girls in Kamurocho. Hopefully\r\nthat makes this city at least a little safer for\r\nwomen to walk around in..."
-msgstr ""
+msgstr "Quei tizi sono stati DISTRUTTI, LOL. Ben gli sta,\r\nse volete saperlo! Credo abbiano chiuso con\r\nle molestie a Kamurocho. Speriamo\r\nche questo renda la città almeno un po' più sicura\r\nper le donne..."
 
 msgctxt "96||tm_03_nanpa_a03||table||3||failure||1"
 msgid "Of course people just turn a blind eye to\r\nthis kind of thing. Have been for years. I'm\r\nangry that I'm not strong enough to stop it\r\nmyself, but I'm even angrier that the people\r\nwho are strong enough chose to do nothing!"
-msgstr ""
+msgstr "Ovviamente la gente chiude un occhio su\r\nquesto genere di cose. Lo fanno da anni. Sono\r\narrabbiato per non essere abbastanza forte da fermarli,\r\nma sono ancora più arrabbiato con chi ha\r\nla forza di farlo e sceglie di non fare nulla!"
 
 msgctxt "96||tm_03_nanpa_a03||table||4||accept||1"
 msgid "This is the last straw."
-msgstr ""
+msgstr "Questa è l'ultima goccia."
 
 msgctxt "97||tm_04_lynch_a01||table||1||start||1"
 msgid "I saw someone being attacked by a mob\r\nin the Hotel District. If nobody comes\r\nsoon, they could be killed..."
-msgstr ""
+msgstr "Ho visto qualcuno venire attaccato da una folla\r\nnell'Hotel District. Se nessuno arriva\r\npresto, potrebbero ucciderlo..."
 
 msgctxt "97||tm_04_lynch_a01||table||2||success||1"
 msgid "I'm sure you just saved a life, buddy. Not\r\nall heroes wear capes, apparently. Some\r\nwear really outdated suits."
-msgstr ""
+msgstr "Sono sicuro che tu abbia appena salvato una vita, amico. A quanto\r\npare non tutti gli eroi indossano un mantello. Alcuni\r\nindossano completi decisamente antiquati."
 
 msgctxt "97||tm_04_lynch_a01||table||3||failure||1"
 msgid "An ambulance just showed up on the scene.\r\nI just hope they pull through..."
-msgstr ""
+msgstr "È appena arrivata un'ambulanza sulla scena.\r\nSpero solo che ce la faccia..."
 
 msgctxt "97||tm_04_lynch_a01||table||4||accept||1"
 msgid "I won't let that happen."
-msgstr ""
+msgstr "Non lascerò che accada."
 
 msgctxt "98||tm_04_lynch_a02||table||1||start||1"
 msgid "There's another mob getting aggressive\r\non some defenseless person in Theater\r\nSquare. I don't know why they keep doing\r\nthis, but they need to be stopped before\r\nsomeone gets killed."
-msgstr ""
+msgstr "C'è un'altra folla che si accanisce\r\nsu una persona indifesa in Theater\r\nSquare. Non so perché continuino a farlo,\r\nma devono essere fermati prima che\r\nci scappi il morto."
 
 msgctxt "98||tm_04_lynch_a02||table||2||success||1"
 msgid "Someone swooped in to save the victim\r\nfrom that mob. I sure am glad there are\r\ngood people on this network and in the\r\nworld."
-msgstr ""
+msgstr "Qualcuno è intervenuto per salvare la vittima\r\nda quella folla. Sono davvero felice che ci siano\r\npersone buone su questa rete e nel\r\nmondo."
 
 msgctxt "98||tm_04_lynch_a02||table||3||failure||1"
 msgid "I heard the victim is in critical condition.\r\nThey probably won't even be able to live\r\na normal life after this... I think about how\r\nthis could have been avoided if someone\r\nhad helped them, and it makes me so sad..."
-msgstr ""
+msgstr "Ho saputo che la vittima è in condizioni critiche.\r\nProbabilmente non potrà nemmeno più vivere\r\nuna vita normale dopo questo... Penso a come\r\ntutto ciò si sarebbe potuto evitare se qualcuno\r\nl'avesse aiutata, e mi rende così triste..."
 
 msgctxt "98||tm_04_lynch_a02||table||4||accept||1"
 msgid "I won't let anyone die."
-msgstr ""
+msgstr "Non lascerò morire nessuno."
 
 msgctxt "99||tm_04_lynch_a03||table||1||start||1"
 msgid "A mob is forming in Nakamichi Alley.\r\nI heard it's getting pretty bad. Can't anyone\r\nhelp!?"
-msgstr ""
+msgstr "Si sta formando una folla in Nakamichi Alley.\r\nHo saputo che si sta mettendo male. Nessuno\r\npuò aiutare!?"
 
 msgctxt "99||tm_04_lynch_a03||table||2||success||1"
 msgid "I saw that the victim made it out unscathed.\r\nThey told a reporter that a random stranger\r\nrisked his life in an all-out street fight to put\r\nthat mob down. Just goes to show, there are\r\nstill some good people in Kamurocho.\r\nHopefully this means the mobs will die\r\ndown now. And if not... I bet this guy will\r\nshow up to save the day again! Heh."
-msgstr ""
+msgstr "Ho visto che la vittima ne è uscita illesa.\r\nHa detto a un giornalista che uno sconosciuto\r\nha rischiato la vita in una rissa di strada totale per fermare\r\nquella folla. Questo dimostra che ci sono\r\nancora persone buone a Kamurocho.\r\nSperiamo che questo significhi che le aggressioni di gruppo\r\nfiniranno. E se così non fosse... scommetto che questo tizio\r\ninterverrà di nuovo a salvare la situazione! Heh."
 
 msgctxt "99||tm_04_lynch_a03||table||3||failure||1"
 msgid "The victim's supposedly in pretty bad shape.\r\nThe reporters couldn't even say how badly\r\nthey were hurt... I wonder if someone could\r\nhave stopped this..."
-msgstr ""
+msgstr "A quanto pare la vittima è messa piuttosto male.\r\nI giornalisti non riuscivano nemmeno a dire quanto gravemente\r\nfosse ferita... Mi chiedo se qualcuno avrebbe potuto\r\nfermarli..."
 
 msgctxt "99||tm_04_lynch_a03||table||4||accept||1"
 msgid "On my way."
-msgstr ""
+msgstr "Sto arrivando."
 
 msgctxt "100||tm_05_couple_a01||table||1||start||1"
 msgid "There's a group of thugs that hangs out in\r\nNakamichi Alley to harass passing couples.\r\nApparently they take some kind of sick\r\npleasure in making people in love suffer.\r\nHow screwed up is that?"
-msgstr ""
+msgstr "C'è un gruppo di teppisti che si piazza in\r\nNakamichi Alley per infastidire le coppie di passaggio.\r\nA quanto pare provano una sorta di piacere\r\nmalato nel far soffrire le persone innamorate.\r\nMa quanto sono squilibrati?"
 
 msgctxt "100||tm_05_couple_a01||table||2||success||1"
 msgid "I watched you fight those guys. You beat\r\nthem to a bloody pulp without breaking\r\na sweat! That was awesome!"
-msgstr ""
+msgstr "Ti ho visto combattere contro quei tizi. Li hai\r\nriempiti di botte senza nemmeno sudare!\r\nÈ stato fantastico!"
 
 msgctxt "100||tm_05_couple_a01||table||3||failure||1"
 msgid "No one came to help them. I wonder if\r\nthey're okay? Makes me sick to my\r\nstomach..."
-msgstr ""
+msgstr "Nessuno è venuto ad aiutarli. Mi chiedo se\r\nstiano bene... Mi fa venire il voltastomaco..."
 
 msgctxt "100||tm_05_couple_a01||table||4||accept||1"
 msgid "I'm on it. Give me a sec."
-msgstr ""
+msgstr "Ci penso io. Dammi un secondo."
 
 msgctxt "101||tm_05_couple_a02||table||1||start||1"
 msgid "I heard those jerks are still messing with\r\ncouples. I saw them leering at people\r\naround the Millennium Tower. I kinda\r\nwish they'd just drop dead."
-msgstr ""
+msgstr "Ho saputo che quei cretini stanno ancora importunando le\r\ncoppie. Li ho visti fissare la gente\r\nintorno alla Millennium Tower. In un certo senso\r\nvorrei che cadessero stecchiti."
 
 msgctxt "101||tm_05_couple_a02||table||2||success||1"
 msgid "HAHAHA! Those guys got absolutely LIT UP.\r\nThat'll teach 'em! Hahaha, I'm dying here!\r\nLOLOL"
-msgstr ""
+msgstr "AHAHAH! Quei tizi sono stati brutalmente ASFALTATI.\r\nQuesto gli darà una lezione! Ahahah, sto morendo!\r\nLOL"
 
 msgctxt "101||tm_05_couple_a02||table||3||failure||1"
 msgid "Looks like we ended up with two more\r\nvictims. This is disgusting."
-msgstr ""
+msgstr "Sembra che ci siano altre due vittime.\r\nÈ disgustoso."
 
 msgctxt "101||tm_05_couple_a02||table||4||accept||1"
 msgid "I'll see what I can do."
-msgstr ""
+msgstr "Vedrò cosa posso fare."
 
 msgctxt "102||tm_05_couple_a03||table||1||start||1"
 msgid "Those couple hunters have resurfaced.\r\nThis time, they're dragging couples into\r\nan empty room in the Senryo Building.\r\nSomeone has to help them!"
-msgstr ""
+msgstr "Quei cacciatori di coppie sono riemersi.\r\nStavolta stanno trascinando le coppie in\r\nuna stanza vuota nel Senryo Building.\r\nQualcuno deve aiutarli!"
 
 msgctxt "102||tm_05_couple_a03||table||2||success||1"
 msgid "Those guys got so busted up, they could\r\nbarely stumble out of the building. I bet\r\nthose punks couldn't harass another couple\r\nif they tried! Whoever did all this... Love\r\nhas won, thanks to you!"
-msgstr ""
+msgstr "Quei tizi sono stati così massacrati che riuscivano\r\na malapena a trascinarsi fuori dall'edificio. Scommetto\r\nche quei teppisti non potrebbero importunare un'altra coppia\r\nnemmeno volendo! Chiunque abbia fatto tutto questo...\r\nL'amore ha trionfato, grazie a te!"
 
 msgctxt "102||tm_05_couple_a03||table||3||failure||1"
 msgid "Looks like another couple is on the way to\r\nthe ER. When will this nightmare end?"
-msgstr ""
+msgstr "Sembra che un'altra coppia sia diretta al\r\npronto soccorso. Quando finirà questo incubo?"
 
 msgctxt "102||tm_05_couple_a03||table||4||accept||1"
 msgid "Sit tight, I'm on it."
-msgstr ""
+msgstr "State tranquilli, me ne occupo io."
 
 msgctxt "105||tm_35_suri||table||1||start||1"
 msgid "I heard there's a pickpocket who's been\r\nhanging around Hana-no-kubo. That's\r\nwhere all the tourists hang out, so this\r\nis going to escalate quickly..."
-msgstr ""
+msgstr "Ho saputo che c'è un borseggiatore che si\r\naggira per Hana-no-kubo. Lì\r\nè dove vanno tutti i turisti, quindi la situazione\r\ndegenererà in fretta..."
 
 msgctxt "105||tm_35_suri||table||2||success||1"
 msgid "Looks like the pickpocket got his hand in\r\nthe wrong pocket. I heard he got the\r\ncrap kicked out of him."
-msgstr ""
+msgstr "Sembra che il borseggiatore abbia messo la mano nella\r\ntasca sbagliata. Ho saputo che gli hanno\r\nfatto sputare i denti a suon di botte."
 
 msgctxt "105||tm_35_suri||table||3||failure||1"
 msgid "It seems that pickpocket is really cleaning\r\nup out there... Onomichi's reputation is as\r\ngood as ruined."
-msgstr ""
+msgstr "Sembra che quel borseggiatore stia davvero facendo\r\npiazza pulita là fuori... La reputazione di Onomichi\r\nè ormai rovinata."
 
 msgctxt "105||tm_35_suri||table||4||accept||1"
 msgid "I'll put a stop to it."
-msgstr ""
+msgstr "Metterò fine a questa storia."
 
 msgctxt "106||tm_36_hakaarashi||table||1||start||1"
 msgid "I've heard a creepy rumor that some grave\r\nrobbers have been sighted in the cemetery.\r\nGeez, talk about feudal-era crimes, right?\r\nI'd check, but... hell no, man. Hell no."
-msgstr ""
+msgstr "Ho sentito una voce inquietante su alcuni profanatori di tombe\r\navvistati nel cimitero.\r\nAccidenti, parliamo di crimini di epoca feudale, eh?\r\nAndrei a controllare, ma... col cavolo, amico. Col cavolo."
 
 msgctxt "106||tm_36_hakaarashi||table||2||success||1"
 msgid "I guess some dude rolled up into the\r\ncemetery and took out the whole gang of\r\ngrave robbers. You, sir, have bigger balls\r\nthan I do."
-msgstr ""
+msgstr "Credo che un tizio sia andato nel\r\ncimitero e abbia fatto fuori l'intera banda di\r\nprofanatori di tombe. Lei, signore, ha più fegato\r\ndi me."
 
 msgctxt "106||tm_36_hakaarashi||table||3||failure||1"
 msgid "Sounds like a whole bunch of graves got dug\r\nup and a ton of valuables went missing. It's\r\ndisgusting, in so many ways."
-msgstr ""
+msgstr "Sembra che un mucchio di tombe siano state profanate\r\ne che siano spariti un sacco di oggetti di valore. È\r\ndisgustoso, sotto molti punti di vista."
 
 msgctxt "106||tm_36_hakaarashi||table||4||accept||1"
 msgid "The dead don't deserve that. I'll check it out."
-msgstr ""
+msgstr "I morti non se lo meritano. Vado a controllare."
 
 msgctxt "107||tm_17_ramen||table||1||start||1"
 msgid "My chronic back pain has the worst timing!\r\nIt flared up during my ramen delivery! This\r\ncustomer will raise hell if his ramen is late\r\nor his noodles are soggy too! Let's just say...\r\nUdon wanna mess with him!\r\n\r\nI'm by Kyushu No. 1 Star if you can help!"
-msgstr ""
+msgstr "Il mio mal di schiena cronico ha un tempismo pessimo!\r\nSi è riacutizzato durante la mia consegna di ramen! Questo\r\ncliente farà un inferno se il suo ramen è in ritardo\r\no se i noodle si scuociono! Diciamo solo che...\r\nNon vi conviene farvi venire la soba al collo!\r\n\r\nSono vicino al Kyushu No. 1 Star se potete aiutarmi!"
 
 msgctxt "107||tm_17_ramen||table||2||place||1"
 msgid "I got the order from Lullaby Mahjong!\r\nPlease, run like the round wind!"
-msgstr ""
+msgstr "L'ordine arriva dal Lullaby Mahjong!\r\nTi prego, corri come il vento!"
 
 msgctxt "107||tm_17_ramen||table||3||success||1"
 msgid "This scary but also kind of sweet guy\r\nmade my delivery for me! My back was\r\nhurting soba'd..."
-msgstr ""
+msgstr "Un tizio spaventoso ma anche un po' dolce\r\nha fatto la consegna al posto mio! La mia schiena faceva\r\nun male soba-rumano..."
 
 msgctxt "107||tm_17_ramen||table||4||failure||1"
 msgid "I couldn't get the delivery out... The phone\r\nat the restaurant won't stop ringing, either.\r\nSorry to be a wet noodle, but I think I'm\r\ngonna skip town..."
-msgstr ""
+msgstr "Non sono riuscito a fare la consegna... E il telefono\r\nal ristorante non smette di squillare.\r\nScusate se faccio la figura del rammollito, ma credo che\r\nlascerò la città..."
 
 msgctxt "107||tm_17_ramen||table||5||accept||1"
 msgid "Not sure why, but I'll help."
-msgstr ""
+msgstr "Non so perché, ma ti aiuterò."
 
 msgctxt "108||tm_19_kazi_k_01||table||1||start||1"
 msgid "I can see smoke coming from a rooftop\r\nin Nakamichi Alley. Something's gotta be\r\non fire. If it doesn't get put out soon, it'll\r\ntear through the streets!"
-msgstr ""
+msgstr "Vedo del fumo salire da un tetto\r\nin Nakamichi Alley. Qualcosa sta andando a\r\nfuoco. Se non viene spento presto,\r\ndivorerà l'intero quartiere!"
 
 msgctxt "108||tm_19_kazi_k_01||table||2||success||1"
 msgid "Looks like someone extinguished that fire.\r\nI'm glad we didn't have to go through\r\nanother big fire in the city! Thanks to the\r\none who made it over there in time!"
-msgstr ""
+msgstr "Sembra che qualcuno abbia domato quell'incendio.\r\nSono felice di non aver dovuto assistere a\r\nun altro disastro in città! Grazie a\r\nchi è riuscito ad arrivare in tempo!"
 
 msgctxt "108||tm_19_kazi_k_01||table||3||failure||1"
 msgid "I think that fire must have burned out on\r\nits own. We sure got lucky this time..."
-msgstr ""
+msgstr "Penso che l'incendio si sia spento\r\nda solo. Questa volta siamo stati davvero fortunati..."
 
 msgctxt "108||tm_19_kazi_k_01||table||4||accept||1"
 msgid "Got it, I'll go check."
-msgstr ""
+msgstr "Ricevuto, vado a controllare."
 
 msgctxt "109||tm_20_kazi_k_02||table||1||start||1"
 msgid "There's smoke coming from a building on\r\nSenryo Avenue! It's gotta be another fire.\r\nIs anyone close enough to put it out!?"
-msgstr ""
+msgstr "C'è del fumo che esce da un edificio in\r\nSenryo Avenue! Deve essere un altro incendio.\r\nC'è qualcuno abbastanza vicino da spegnerlo!?"
 
 msgctxt "109||tm_20_kazi_k_02||table||2||success||1"
 msgid "I heard you went in with a fire extinguisher\r\nand put out that fire single-handedly!\r\nYou're incredible!"
-msgstr ""
+msgstr "Ho saputo che sei entrato con un estintore\r\ne hai domato l'incendio da solo!\r\nSei incredibile!"
 
 msgctxt "109||tm_20_kazi_k_02||table||3||failure||1"
 msgid "The building burned down... Luckily, the fire\r\nwent out with it. Hard to believe nobody\r\ntried to put it out, but... What can you\r\nexpect from Kamurocho?"
-msgstr ""
+msgstr "L'edificio è bruciato... Per fortuna, anche l'incendio\r\nsi è estinto con esso. È difficile credere che nessuno\r\nabbia cercato di spegnerlo, ma... Cosa ci si\r\npuò aspettare da Kamurocho?"
 
 msgctxt "109||tm_20_kazi_k_02||table||4||accept||1"
 msgid "I'll see what I can do."
-msgstr ""
+msgstr "Vedrò cosa posso fare."
 
 msgctxt "110||tm_21_kazi_k_03||table||1||start||1"
 msgid "I can see smoke billowing from the roof\r\nof the batting cages. It better not be\r\nanother big fire..."
-msgstr ""
+msgstr "Vedo del fumo alzarsi dal tetto\r\ndel batting center. È meglio che non sia\r\nun altro grosso incendio..."
 
 msgctxt "110||tm_21_kazi_k_03||table||2||success||1"
 msgid "The smoke stopped. Did the guy who\r\nsaid he'd put it out really get to it in time?\r\nIf so, you're the man, anon!"
-msgstr ""
+msgstr "Il fumo è sparito. Il tipo che\r\naveva detto di andarlo a spegnere ci è davvero riuscito in tempo?\r\nSe è così, sei un mito, utente anonimo!"
 
 msgctxt "110||tm_21_kazi_k_03||table||3||failure||1"
 msgid "The smoke's gone, but... I think all it\r\ndid was burn itself out. There's probably\r\nsome pretty bad damage..."
-msgstr ""
+msgstr "Il fumo è sparito, ma... Credo solo che\r\nsi sia spento da solo. Probabilmente ci\r\nsono dei danni piuttosto gravi..."
 
 msgctxt "110||tm_21_kazi_k_03||table||4||accept||1"
 msgid "I'll make sure it doesn't spread."
-msgstr ""
+msgstr "Mi assicurerò che non si espanda."
 
 msgctxt "111||tm_27_burningcar||table||1||start||1"
 msgid "FIRE: Jingai Main Street! A CAR IS ON FIRE!!!\r\nThe owner is screaming about how\r\nsomething important is trapped in the car!\r\nBut the car will never last until the fire truck\r\ncan get here!"
-msgstr ""
+msgstr "INCENDIO: Jingai Main Street! UN'AUTO VA A FUOCO!!!\r\nIl proprietario sta urlando che\r\nqualcosa di importante è rimasto nell'auto!\r\nMa non resisterà mai fino all'arrivo dei\r\nvigili del fuoco!"
 
 msgctxt "111||tm_27_burningcar||table||2||success||1"
 msgid "Thank goodness someone had a fire\r\nextinguisher! I'm sure that car's owner\r\nreally appreciates you, buddy. And so do\r\nwe!"
-msgstr ""
+msgstr "Grazie al cielo qualcuno aveva un estintore!\r\nSono sicuro che il proprietario dell'auto\r\nti sia immensamente grato, amico. E anche\r\nnoi lo siamo!"
 
 msgctxt "111||tm_27_burningcar||table||3||failure||1"
 msgid "I guess sometimes fate takes what's\r\nimportant to you. But still, what a disaster.\r\nIsn't there any way this could have been\r\navoided?"
-msgstr ""
+msgstr "Immagino che a volte il destino porti via ciò che\r\nti è caro. Ma resta un disastro.\r\nNon c'era un modo per evitarlo?"
 
 msgctxt "111||tm_27_burningcar||table||4||accept||1"
 msgid "I'll go. Wait for me."
-msgstr ""
+msgstr "Vado io. Aspettatemi."
 
 msgctxt "112||tm_32_hankouyokoku2||table||1||start||1"
 msgid "Kiryu-san,\r\nIt's me, Torafuru. This is a DM, so only you\r\ncan see it. I traced that serial bomber's IP,\r\nand it seems like he's posting to Troublr\r\nfrom an internet café. Maybe you could\r\ncatch him if you dropped in at the right\r\ncafé!"
-msgstr ""
+msgstr "Kiryu-san,\r\nsono Torafuru. Questo è un DM, solo tu\r\npuoi vederlo. Ho tracciato l'IP del bombarolo seriale\r\ne sembra stia postando su Troublr\r\nda un internet café. Forse potresti\r\nbeccarlo facendo un salto nel\r\ncafé giusto!"
 
 msgctxt "112||tm_32_hankouyokoku2||table||2||success||1"
 msgid "You did it, Kiryu-san. I knew you could.\r\nThat guy was pretty terrible, huh?"
-msgstr ""
+msgstr "Ce l'hai fatta, Kiryu-san. Sapevo che ci saresti riuscito.\r\nQuel tipo era davvero pessimo, eh?"
 
 msgctxt "112||tm_32_hankouyokoku2||table||3||failure||1"
 msgid "It looks like he signed off, so that must\r\nmean he left the café. He got away this\r\ntime, but let's hope there's another chance!"
-msgstr ""
+msgstr "Sembra si sia disconnesso, quindi questo deve\r\nsignificare che ha lasciato il café. L'ha scampata questa\r\nvolta, ma speriamo ci sia un'altra occasione!"
 
 msgctxt "112||tm_32_hankouyokoku2||table||4||progress1||1"
 msgid "Kiryu-san, if the serial bomber's patterns\r\nare anything to go on, he'll be leaving the\r\ncafé in about five minutes. If you're going\r\nto get him, now would be the time!"
-msgstr ""
+msgstr "Kiryu-san, se lo schema del bombarolo seriale\r\nè coerente, lascerà il café\r\ntra circa cinque minuti. Se hai intenzione\r\ndi prenderlo, il momento è adesso!"
 
 msgctxt "112||tm_32_hankouyokoku2||table||5||progress2||1"
 msgid "Kiryu-san, we're down to about two\r\nminutes before the serial bomber leaves\r\nthe café! Can you get to him in time!?"
-msgstr ""
+msgstr "Kiryu-san, mancano solo due\r\nminuti prima che il bombarolo seriale lasci\r\nil café! Riuscirai a raggiungerlo in tempo!?"
 
 msgctxt "112||tm_32_hankouyokoku2||table||6||accept||1"
 msgid "Yeah, this guy needs to be stopped."
-msgstr ""
+msgstr "Sì, questo tizio deve essere fermato."
 
 msgctxt "113||tm_35_hankouyokoku||table||1||start||1"
 msgid "The clock is ticking in Kamurocho...\r\nI've set up a bomb, and my challenge to you\r\nis this: Can you find it in the ten minutes\r\nbefore it blows?"
-msgstr ""
+msgstr "Il tempo stringe a Kamurocho...\r\nHo piazzato una bomba, e la mia sfida per te\r\nè questa: riuscirai a trovarla nei dieci minuti\r\nprima che esploda?"
 
 msgctxt "113||tm_35_hankouyokoku||table||2||success||1"
 msgid "Not bad. You deserve some credit, I\r\nsuppose... But this isn't over by a long shot."
-msgstr ""
+msgstr "Non male. Meriti un po' di riconoscimento,\r\nimmagino... Ma non è ancora finita."
 
 msgctxt "113||tm_35_hankouyokoku||table||3||failure||1"
 msgid "You disappoint me. You masquerade as\r\njustice incarnate, but fall short of the mark\r\nwhen it really counts. Pathetic."
-msgstr ""
+msgstr "Mi deludi. Ti spacci per\r\nla giustizia incarnata, ma manchi il bersaglio\r\nquando conta davvero. Patetico."
 
 msgctxt "113||tm_35_hankouyokoku||table||4||hint1||1"
 msgid "Here's the bomb! HaHaHa!\r\nDo you know this city well enough to figure\r\nout where it is?"
-msgstr ""
+msgstr "Ecco la bomba! Ahahah!\r\nConosci questa città abbastanza bene da\r\ncapire dove si trova?"
 
 msgctxt "113||tm_35_hankouyokoku||table||5||hint2||1"
 msgid "Aww, are you struggling to find it in\r\na city you claim to know? Here's the hint I\r\nsnapped in case you turned out to be an idiot."
-msgstr ""
+msgstr "Oh, fai fatica a trovarla in\r\nuna città che affermi di conoscere? Ecco un indizio che\r\nho scattato nel caso in cui ti rivelassi un idiota."
 
 msgctxt "113||tm_35_hankouyokoku||table||6||hint3||1"
 msgid "Still lost? I knew you were stupid, but man,\r\nwhat a moron! Here's the final hint before\r\nthe KaBOOM!"
-msgstr ""
+msgstr "Ti sei perso? Sapevo che eri stupido, ma cavolo,\r\nche ritardato! Ecco l'ultimo indizio prima\r\ndel KABOOM!"
 
 msgctxt "113||tm_35_hankouyokoku||table||7||accept||1"
 msgid "Challenge accepted. You can't hurt this city."
-msgstr ""
+msgstr "Sfida accettata. Non puoi fare del male a questa città."
 
 msgctxt "114||tm_22_kazi_k_04||table||1||start||1"
 msgid "I see a lot of smoke coming from a\r\nbuilding on Tenkaichi Street! Is this\r\nanother arson attempt!? What if it\r\nspreads!?"
-msgstr ""
+msgstr "Vedo un sacco di fumo salire da un\r\nedificio in Tenkaichi Street! È\r\nun altro incendio doloso!? E se si\r\ndiffondesse!?"
 
 msgctxt "114||tm_22_kazi_k_04||table||2||success||1"
 msgid "I hear the fire got put out and they\r\neven caught they guy who did it!\r\nTroublr is going nuts saying the guy\r\nwho posted solved everything!\r\nWay to go!"
-msgstr ""
+msgstr "Ho sentito che l'incendio è stato domato e\r\nhanno perfino beccato il responsabile!\r\nTroublr sta impazzendo dicendo che il tipo\r\nche ha postato ha risolto tutto!\r\nOttimo lavoro!"
 
 msgctxt "114||tm_22_kazi_k_04||table||3||failure||1"
 msgid "I guess you couldn't get there in time.\r\nStill no idea who the arsonist is,\r\neither. I bet the fires won't stop here."
-msgstr ""
+msgstr "Immagino tu non sia arrivato in tempo.\r\nE non si ha ancora la minima idea di chi sia\r\nil piromane. Scommetto che gli incendi non finiranno qui."
 
 msgctxt "114||tm_22_kazi_k_04||table||4||accept||1"
 msgid "I'll put it out before that happens."
-msgstr ""
+msgstr "Lo spegnerò prima che succeda."
 
 msgctxt "115||tm_torafuru_reaction||table||1||torafuru_tm35_hint||1"
 msgid "Kiryu-san! I got some information from\r\na friend! Red, cut the red!"
-msgstr ""
+msgstr "Kiryu-san! Ho avuto delle informazioni da\r\nun amico! Rosso, taglia il filo rosso!"
 
 msgctxt "116||tm_24_kazi_o_02||table||1||start||1"
 msgid "There's smoke coming from an alley on\r\nCemetery Lane. Think it's the arsonist who's\r\nbeen starting all those fires? Someone\r\nshould check it out."
-msgstr ""
+msgstr "C'è del fumo che esce da un vicolo in\r\nCemetery Lane. Pensate che sia il piromane che\r\nha appiccato tutti quegli incendi? Qualcuno\r\ndovrebbe andare a controllare."
 
 msgctxt "116||tm_24_kazi_o_02||table||2||success||1"
 msgid "Sounds like we really are dealing with an\r\narsonist. But I guess the guy who responded\r\nmust have put out the fire. I'm glad you\r\nstopped it before it did any real damage."
-msgstr ""
+msgstr "Sembra che abbiamo davvero a che fare con un\r\npiromane. Ma immagino che il tizio che ha risposto\r\nabbia spento l'incendio. Sono felice che tu\r\nl'abbia fermato prima che facesse danni seri."
 
 msgctxt "116||tm_24_kazi_o_02||table||3||failure||1"
 msgid "Looks like the fire burnt out on its own, but\r\nwe really got lucky this time. I guess nobody\r\nhad time to check it out."
-msgstr ""
+msgstr "Sembra che l'incendio si sia spento da solo, ma\r\nstavolta siamo stati davvero fortunati. Immagino che nessuno\r\nabbia avuto il tempo di andare a controllare."
 
 msgctxt "116||tm_24_kazi_o_02||table||4||accept||1"
 msgid "I've had it with fires. I'm on it."
-msgstr ""
+msgstr "Ne ho abbastanza degli incendi. Ci penso io."
 
 msgctxt "117||tm_25_kazi_o_03||table||1||start||1"
 msgid "There's smoke coming from the Navy\r\nApartments. That stupid arsonist strikes\r\nagain! Can someone get down there!?"
-msgstr ""
+msgstr "Esce del fumo dai Navy\r\nApartments. Quello stupido piromane colpisce\r\nancora! Qualcuno può andare laggiù!?"
 
 msgctxt "117||tm_25_kazi_o_03||table||2||success||1"
 msgid "Looks like it was another arson attempt, but\r\nsomeone got to it with a fire extinguisher\r\nbefore it got out of hand. Was it the guy\r\nwho replied?"
-msgstr ""
+msgstr "Sembra si trattasse di un altro incendio doloso, ma\r\nqualcuno è intervenuto con un estintore\r\nprima che sfuggisse al controllo. È stato il tipo\r\nche ha risposto?"
 
 msgctxt "117||tm_25_kazi_o_03||table||3||failure||1"
 msgid "It must have been the same arsonist, but\r\nsince no one came, I guess we'll never know\r\nfor sure. At least the fire's out... Not like all\r\nyou cold-blooded reptiles care."
-msgstr ""
+msgstr "Deve essere stato lo stesso piromane, ma\r\nvisto che non è venuto nessuno, immagino non lo sapremo\r\nmai per certo. Almeno il fuoco è spento... Non che a tutti\r\nvoi rettili a sangue freddo importi qualcosa."
 
 msgctxt "117||tm_25_kazi_o_03||table||4||accept||1"
 msgid "That's close to home. I'll go."
-msgstr ""
+msgstr "È vicino a casa. Vado io."
 
 msgctxt "118||tm_26_kazi_o_04||table||1||start||1"
 msgid "I see smoke coming from a house in\r\nHana-no-kubo! I think it's coming from the\r\nbalcony, or somewhere above ground,\r\nanyway. The houses out there are all made\r\nof wood, so someone needs to get up there\r\nfast!"
-msgstr ""
+msgstr "Vedo del fumo uscire da una casa a\r\nHana-no-kubo! Credo provenga dal\r\nbalcone, o comunque da un piano superiore.\r\nLe case lì sono tutte in\r\nlegno, quindi qualcuno deve salirci\r\nin fretta!"
 
 msgctxt "118||tm_26_kazi_o_04||table||2||success||1"
 msgid "It really WAS arson. This is becoming a real\r\nproblem. Thank you, whoever put it out!"
-msgstr ""
+msgstr "ERA davvero doloso. Questo sta diventando un vero\r\nproblema. Grazie a chiunque lo abbia spento!"
 
 msgctxt "118||tm_26_kazi_o_04||table||3||failure||1"
 msgid "No one went to look. The fire didn't spread,\r\nbut I'll never forget the day you all turned\r\nyour back on this city..."
-msgstr ""
+msgstr "Nessuno è andato a vedere. L'incendio non si è diffuso,\r\nma non dimenticherò mai il giorno in cui tutti voi avete\r\nvoltato le spalle a questa città..."
 
 msgctxt "118||tm_26_kazi_o_04||table||4||accept||1"
 msgid "Sounds dangerous. I'm on it."
-msgstr ""
+msgstr "Sembra pericoloso. Me ne occupo io."
 
 msgctxt "119||tm_18_houkama_k||table||1||start||1"
 msgid "Ever since that fire in Little Asia,\r\nthere's been an increase in arsons across\r\nKamurocho. I saw this shady guy on the\r\neast side of Taihei Boulevard and I can't\r\nhelp but think it's related. Pretty creepy!"
-msgstr ""
+msgstr "Fin da quell'incendio a Little Asia,\r\nc'è stato un aumento degli incendi dolosi in tutta\r\nKamurocho. Ho visto questo tipo sospetto sul lato\r\nest di Taihei Boulevard e non posso\r\nfare a meno di pensare che sia coinvolto. Inquietante!"
 
 msgctxt "119||tm_18_houkama_k||table||2||success||1"
 msgid "I really DID see an arsonist. Someone said\r\nhe got away, but maybe it was because the\r\nguy who replied chased him off? Good job!"
-msgstr ""
+msgstr "Avevo DAVVERO visto un piromane. Qualcuno ha detto\r\nche è scappato, ma forse è stato perché il\r\ntipo che ha risposto lo ha messo in fuga? Ottimo lavoro!"
 
 msgctxt "119||tm_18_houkama_k||table||3||failure||1"
 msgid "I can't believe another fire broke out in\r\nKamurocho. Good thing the fire trucks\r\nmade it before it got out of hand..."
-msgstr ""
+msgstr "Non riesco a credere che sia scoppiato un altro incendio a\r\nKamurocho. Per fortuna le autopompe\r\nsono arrivate prima che degenerasse..."
 
 msgctxt "119||tm_18_houkama_k||table||4||accept||1"
 msgid "I'll go have a look."
-msgstr ""
-
+msgstr "Vado a dare un'occhiata."

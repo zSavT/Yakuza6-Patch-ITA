@@ -9,21 +9,21 @@ msgstr ""
 
 msgctxt "1||base||name"
 msgid "Stats"
-msgstr ""
+msgstr "Statistiche"
 
 msgctxt "2||battle||name"
 msgid "Battle Skills"
-msgstr ""
+msgstr "Abilità di battaglia"
 
 msgctxt "3||heat||name"
 msgid "Heat Actions"
-msgstr ""
+msgstr "Azioni Furore"
 
 msgctxt "4||other||name"
 msgid "Other Skills"
-msgstr ""
+msgstr "Altre abilità"
 
 msgctxt "5||equip||name"
 msgid "Equipment"
-msgstr ""
+msgstr "Equipaggiamento"
 

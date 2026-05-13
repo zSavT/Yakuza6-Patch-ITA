@@ -9,257 +9,257 @@ msgstr ""
 
 msgctxt "1||onomichi||text"
 msgid "Onomichi\r\n\r\nA small port town in Hiroshima Prefecture in the south of Japan,\r\nOnomichi is famous for its unique style of ramen. It is also known\r\nfor the great number of traditional temples in and around the town\r\nand carved stones engraved with Onomichi-related poems, originally\r\npenned by various famous Japanese authors."
-msgstr ""
+msgstr "Onomichi\r\n\r\nUna piccola città portuale nella prefettura di Hiroshima, nel sud del\r\nGiappone. Onomichi è famosa per il suo stile unico di ramen. È nota\r\nanche per il gran numero di templi tradizionali situati dentro e intorno\r\nalla città e per le pietre incise con poesie dedicate a Onomichi,\r\nscritte originariamente da vari famosi autori giapponesi."
 
 msgctxt "2||aniki||text"
 msgid "Aniki\r\n \r\nA term that roughly translates to \"big brother,\" often used in\r\ndeference to a more senior member of a yakuza organization."
-msgstr ""
+msgstr "Aniki\r\n \r\nUn termine che si traduce approssimativamente come \"fratello maggiore\",\r\nspesso usato in segno di rispetto verso un membro più anziano di\r\nun'organizzazione yakuza."
 
 msgctxt "3||shun_akiyama||text"
 msgid "Shun Akiyama\r\n \r\nFounder of Sky Finance, a Kamurocho-based loan company that\r\nearned him the nickname \"The Lifeline of Kamurocho.\""
-msgstr ""
+msgstr "Shun Akiyama\r\n \r\nFondatore della Sky Finance, una società di prestiti con sede a\r\nKamurocho che gli è valsa il soprannome di \"Ancora di salvezza di Kamurocho\"."
 
 msgctxt "4||new_serena||text"
 msgid "New Serena\r\n\r\nThe second coming of the Serena bar, which closed after the death\r\nof its original owner, Reina. One of Kiryu and Date's usual haunts."
-msgstr ""
+msgstr "New Serena\r\n\r\nIl successore del bar Serena, che chiuse dopo la morte della sua\r\nproprietaria originale, Reina. È uno dei ritrovi abituali di Kiryu e Date."
 
 msgctxt "5||tgs||text"
 msgid "This demo represents a work in-progress.\r\nFinal version is subject to change."
-msgstr ""
+msgstr "Questa demo rappresenta un lavoro in corso.\r\nLa versione finale potrebbe subire modifiche."
 
 msgctxt "6||hiroshima_prefecture||text"
 msgid "Hiroshima Prefecture\r\n\r\nNamed for its capital city meaning \"broad island,\" this region of Japan\r\nis known for its oysters, ocean views, rolling mountains, and its\r\nbaked treat, the \"momiji manju,\" a type of steamed bun.\r\n"
-msgstr ""
+msgstr "Prefettura di Hiroshima\r\n\r\nPrende il nome dal suo capoluogo, il cui nome significa \"isola ampia\".\r\nQuesta regione del Giappone è nota per le sue ostriche, i panorami oceanici,\r\nle montagne ondeggianti e il suo dolce tipico, il \"momiji manju\",\r\nun tipo di panino cotto al vapore.\r\n"
 
 msgctxt "7||the_omi_alliance||text"
 msgid "The Omi Alliance\r\n\r\nThe reigning yakuza faction in the Kansai region, based in\r\nSotenbori, Osaka. Their power rivals that of the Tojo Clan."
-msgstr ""
+msgstr "L'Alleanza Omi\r\n\r\nLa fazione yakuza dominante nella regione del Kansai, con sede a\r\nSotenbori, Osaka. Il loro potere rivaleggia con quello del Clan Tojo."
 
 msgctxt "8||the_tojo_clan||text"
 msgid "The Tojo Clan\r\n\r\nThe reigning yakuza faction over the Kanto region, based in Tokyo.\r\nWith its senior members in prison, its grip on the territory is waning."
-msgstr ""
+msgstr "Il Clan Tojo\r\n\r\nLa fazione yakuza dominante nella regione del Kanto, con sede a Tokyo.\r\nCon i suoi membri di spicco in prigione, la sua morsa sul territorio si sta indebolendo."
 
 msgctxt "9||chairman||text"
 msgid "Chairman\r\n\r\nThe topmost figure of an entire yakuza organization.\r\nDaigo Dojima currently serves as the Tojo Clan's sixth chairman."
-msgstr ""
+msgstr "Presidente\r\n\r\nLa figura al vertice di un'intera organizzazione yakuza.\r\nDaigo Dojima è attualmente il sesto presidente del Clan Tojo."
 
 msgctxt "10||patriarch||text"
 msgid "Patriarch\r\n\r\nThe head of a yakuza family, a single group in a yakuza organization."
-msgstr ""
+msgstr "Patriarca\r\n\r\nIl capo di una famiglia yakuza, un singolo gruppo all'interno di\r\nun'organizzazione yakuza."
 
 msgctxt "11||captain||text"
 msgid "Captain\r\n\r\nA rank reserved for the right-hand man of a patriarch.\r\nCaptains of larger families often have their own sub-families."
-msgstr ""
+msgstr "Capitano\r\n\r\nUn grado riservato al braccio destro di un patriarca.\r\nI capitani delle famiglie più grandi spesso hanno le proprie sotto-famiglie."
 
 msgctxt "12||lieutenant_advisor||text"
 msgid "Lieutenant Advisor\r\n\r\nA higher-ranking lieutenant, given this term because he has the\r\near of the captain."
-msgstr ""
+msgstr "Tenente consigliere\r\n\r\nUn luogotenente di grado superiore, chiamato così perché gode\r\ndella massima fiducia del capitano."
 
 msgctxt "13||lieutenant||text"
 msgid "Lieutenant\r\n\r\nAn officer of a family with influence over the day-to-day operation and\r\ncollections. Some lieutenants have sub-families of their own."
-msgstr ""
+msgstr "Luogotenente\r\n\r\nUn ufficiale di una famiglia con influenza sulle operazioni quotidiane e\r\nsulle riscossioni. Alcuni luogotenenti hanno proprie sotto-famiglie."
 
 msgctxt "14||family||text"
 msgid "Family\r\n\r\nA general term for a single yakuza unit, large or small,\r\nled by a patriarch."
-msgstr ""
+msgstr "Famiglia\r\n\r\nTermine generico per indicare una singola unità yakuza, grande o piccola,\r\nguidata da un patriarca."
 
 msgctxt "15||the_dragon_of_dojima||text"
 msgid "The Dragon of Dojima\r\n\r\nThough the Dojima Family itself has long-since faded from existence,\r\nthe dragon on Kiryu's back earned him this nickname, now legendary\r\namong yakuza across Japan."
-msgstr ""
+msgstr "Il Drago di Dojima\r\n\r\nSebbene la Famiglia Dojima sia scomparsa da tempo, il dragone tatuato\r\nsulla schiena di Kiryu gli è valso questo soprannome, ormai leggendario\r\ntra gli yakuza di tutto il Giappone."
 
 msgctxt "16||yakuza_the_meaning||text"
 msgid "Yakuza - The Meaning\r\n\r\nThe word comes from a losing hand in the gambling game oicho-kabu\r\nand came to be associated with those lost to gambling. Yakuza\r\nthemselves prefer a word with a more righteous connotation: \"gokudo.\""
-msgstr ""
+msgstr "Yakuza - Il significato\r\n\r\nLa parola deriva da una mano perdente nel gioco d'azzardo oicho-kabu\r\ned è stata associata a coloro che hanno perso tutto nel gioco.\r\nGli stessi yakuza preferiscono un termine con una connotazione più onorevole: \"gokudo\"."
 
 msgctxt "17||chinpira||text"
 msgid "Chinpira\r\n\r\nA word that translates roughly to \"punk,\" used to describe\r\nlow-level yakuza or the street thugs who pick fights with Kiryu."
-msgstr ""
+msgstr "Chinpira\r\n\r\nUna parola che si traduce approssimativamente come \"teppista\", usata per\r\ndescrivere gli yakuza di basso livello o i criminali di strada che cercano\r\nrissa con Kiryu."
 
 msgctxt "18||kyodai||text"
 msgid "Kyodai\r\n\r\nWhen yakuza swear their oath, they often do so in pairs, tying their\r\nfates to one another as sworn brothers. It follows that if one succeeds,\r\nso does the other, and if one fails, the other is brought down with him."
-msgstr ""
+msgstr "Kyodai\r\n\r\nQuando gli yakuza prestano il loro giuramento, spesso lo fanno in coppia,\r\nlegando i propri destini come fratelli di sangue. Ne consegue che se uno ha\r\nsuccesso, lo ha anche l'altro, e se uno fallisce, trascina l'altro con sé."
 
 msgctxt "19||history_of_the_tojo_clan_1||text"
 msgid "History of the Tojo Clan\r\n\r\nDetails are scant about the founder of the Tojo Clan, Makoto Tojo,\r\nbut it is said he enjoyed Japanese gardens and was known for his\r\npack of vicious dogs."
-msgstr ""
+msgstr "Storia del Clan Tojo\r\n\r\nI dettagli sul fondatore del Clan Tojo, Makoto Tojo, sono scarsi,\r\nma si dice che amasse i giardini giapponesi e che fosse noto per il suo\r\nbranco di cani feroci."
 
 msgctxt "20||history_of_the_tojo_clan_2||text"
 msgid "History of the Tojo Clan\r\n\r\nWith the death of Makoto Tojo and no captain to replace him, Takashi\r\nNihara stepped in as acting second chairman. The clan secured the\r\nKamurocho Revitalization Project in 1988 under his leadership."
-msgstr ""
+msgstr "Storia del Clan Tojo\r\n\r\nCon la morte di Makoto Tojo e nessun capitano a sostituirlo, Takashi\r\nNihara subentrò come secondo presidente ad interim. Sotto la sua guida,\r\nnel 1988 il clan si assicurò il progetto di riqualificazione di Kamurocho."
 
 msgctxt "21||history_of_the_tojo_clan_3||text"
 msgid "History of the Tojo Clan\r\n\r\nNot long after his promotion to clan captain, Masaru Sera became\r\nthe third chairman. His political ties led to an era of prosperity, but\r\nwhen ten billion yen turned up missing, he was assassinated in 2005."
-msgstr ""
+msgstr "Storia del Clan Tojo\r\n\r\nPoco dopo la sua promozione a capitano del clan, Masaru Sera divenne\r\nil terzo presidente. I suoi legami politici portarono a un'era di prosperità,\r\nma quando sparirono dieci miliardi di yen, fu assassinato nel 2005."
 
 msgctxt "22||history_of_the_tojo_clan_4||text"
 msgid "History of the Tojo Clan\r\n\r\nWith the Tojo Clan in civil war, the fourth chairman was named in the\r\nwill of Masaru Sera: Kazuma Kiryu. He was inducted and retired from\r\nthe role on the same day."
-msgstr ""
+msgstr "Storia del Clan Tojo\r\n\r\nCon il Clan Tojo in piena guerra civile, il quarto presidente fu nominato nel\r\ntestamento di Masaru Sera: Kazuma Kiryu. Fu investito della carica e vi\r\nrinunciò lo stesso giorno."
 
 msgctxt "23||history_of_the_tojo_clan_5||text"
 msgid "History of the Tojo Clan\r\n\r\nKazuma Kiryu passed the chairmanship to the fifth chairman, Yukio\r\nTerada. But Terada was compromised in a way that nearly led to\r\nwar with the Jingweon Mafia and the Omi Alliance."
-msgstr ""
+msgstr "Storia del Clan Tojo\r\n\r\nKazuma Kiryu passò la presidenza al quinto presidente, Yukio\r\nTerada. Ma Terada fu coinvolto in complotti che quasi portarono a\r\nuna guerra con la Mafia Jingweon e l'Alleanza Omi."
 
 msgctxt "24||history_of_the_tojo_clan_6||text"
 msgid "History of the Tojo Clan\r\n\r\nWithout a chairman in 2006, the Tojo Clan was held together by\r\nOsamu Kashiwagi and Sohei Dojima's widow, Yayoi Dojima, until her\r\nson, Daigo Dojima, became the sixth chairman at Kiryu's insistence."
-msgstr ""
+msgstr "Storia del Clan Tojo\r\n\r\nRasto senza un presidente nel 2006, il Clan Tojo fu tenuto unito da\r\nOsamu Kashiwagi e dalla vedova di Sohei Dojima, Yayoi Dojima, finché\r\nsuo figlio, Daigo Dojima, divenne il sesto presidente su insistenza di Kiryu."
 
 msgctxt "25||the_jingweon_mafia||text"
 msgid "The Jingweon Mafia\r\n\r\nA Korean crime syndicate that was all but eradicated by the Dojima\r\nFamily in the early 80s but resurfaced in 2006 in a plot to destroy \r\nthe entire Tojo Clan. They were pushed back by Kazuma Kiryu and\r\nhis allies."
-msgstr ""
+msgstr "La Mafia Jingweon\r\n\r\nUn sindacato criminale coreano che fu quasi sradicato dalla Famiglia\r\nDojima nei primi anni '80, ma che riemerse nel 2006 con un piano per\r\ndistruggere l'intero Clan Tojo. Furono respinti da Kazuma Kiryu e\r\ndai suoi alleati."
 
 msgctxt "26||the_jingweon_massacre||text"
 msgid "The Jingweon Massacre\r\n\r\nIn the early 1980s, two members of the Dojima Family ambushed\r\nthis Korean mafia syndicate, killing nearly every member of its\r\nranks. The Jingweon never forgot and never forgave."
-msgstr ""
+msgstr "Il massacro dei Jingweon\r\n\r\nNei primi anni '80, due membri della Famiglia Dojima tesero un'imboscata\r\na questo sindacato mafioso coreano, uccidendo quasi tutti i suoi membri.\r\nI Jingweon non hanno mai dimenticato e non hanno mai perdonato."
 
 msgctxt "27||poem_stones||text"
 msgid "Poem Stones\r\n\r\nInspired by Onomichi's natural beauty, many famous poets have had\r\ntheir verses inscribed on the stones dotting the streets. Pause for\r\na moment and read them if you spot one."
-msgstr ""
+msgstr "Pietre dei poeti\r\n\r\nIspirati dalla bellezza naturale di Onomichi, molti famosi poeti hanno fatto\r\nincidere i propri versi sulle pietre che costellano le strade. Fermati un\r\nmomento a leggerli se ne avvisti uno."
 
 msgctxt "28||the_ropeway||text"
 msgid "The Ropeway\r\n\r\nWhile visiting Onomichi, one would be remiss not to ride\r\nthe ropeway on their trip up the hillside to Senkoji Temple.\r\nMost who visit choose to ride up and walk back down."
-msgstr ""
+msgstr "La funivia\r\n\r\nVisitando Onomichi, sarebbe un peccato non fare un giro sulla\r\nfunivia per salire sulla collina verso il tempio Senkoji.\r\nLa maggior parte dei visitatori sceglie di salire in funivia e scendere a piedi."
 
 msgctxt "29||ono_michio||text"
 msgid "Ono Michio\r\n\r\nJapanese citizens are instilled with pride in their cities by colorful\r\nmascot characters, representing a city's unique culture in various\r\nways. Ono Michio is kind of unofficial."
-msgstr ""
+msgstr "Ono Michio\r\n\r\nI cittadini giapponesi sono orgogliosi delle proprie città grazie a colorate\r\nmascotte, che rappresentano la cultura unica di un luogo in vari modi.\r\nOno Michio è una sorta di mascotte non ufficiale."
 
 msgctxt "30||seto_inner_sea||text"
 msgid "Seto Inner Sea\r\n\r\nThis body of water is nestled between Honshu and Shikoku, providing \r\nsafe harbor from seasonal typhoons. It has a long history and \r\nculture based around shipbuilding and fishing."
-msgstr ""
+msgstr "Mare Interno di Seto\r\n\r\nQuesto specchio d'acqua è incastonato tra Honshu e Shikoku, fornendo\r\nun porto sicuro dai tifoni stagionali. Ha una lunga storia e una\r\ncultura basata sulla costruzione navale e sulla pesca."
 
 msgctxt "31||mikan||text"
 msgid "Mikan\r\n\r\nA favorite winter treat in western Japan, the mikan is a small, easy-to-peel\r\nvariety of tangerine. They are plentiful on the islands off the shore of \r\nOnomichi."
-msgstr ""
+msgstr "Mikan\r\n\r\nUno dei frutti invernali preferiti nel Giappone occidentale, il mikan è una\r\nvarietà di mandarino piccolo e facile da sbucciare. Sono abbondanti sulle\r\nisole al largo della costa di Onomichi."
 
 msgctxt "32||onomichi_ramen||text"
 msgid "Onomichi Ramen\r\n\r\nEvery region of Japan has its own style of noodles, and Onomichi is\r\nno different. This ramen is notable for its straight noodles and bits\r\nof pork fat floating in soy-sauce-based broth."
-msgstr ""
+msgstr "Onomichi Ramen\r\n\r\nOgni regione del Giappone ha il suo stile di spaghetti, e Onomichi non\r\nfa eccezione. Questo ramen è noto per i suoi spaghetti dritti e pezzetti\r\ndi grasso di maiale che galleggiano nel brodo a base di salsa di soia."
 
 msgctxt "33||jingaicho_onomichi||text"
 msgid "Jingaicho, Onomichi\r\n\r\nQuiet streets lined by the softly glowing signs of snack bars, \r\nJingaicho is home to numerous dives that service the locals.\r\nOften run by a single \"mama,\" they cater to clientele looking for\r\na drink and a conversation."
-msgstr ""
+msgstr "Jingaicho, Onomichi\r\n\r\nStrade tranquille costeggiate dalle insegne soffuse degli snack bar,\r\nJingaicho ospita numerosi locali frequentati dalla gente del posto.\r\nSpesso gestiti da una sola \"mama\", accolgono clienti in cerca di un\r\ndrink e di una conversazione."
 
 msgctxt "34||senkoji_temple||text"
 msgid "Senkoji Temple\r\n\r\nSaid to have been established over 1200 years ago, this temple is\r\nperched on a hill overlooking Onomichi and has been the \r\nsubject of artists and writers since times immemorable."
-msgstr ""
+msgstr "Tempio Senkoji\r\n\r\nSi dice che sia stato fondato oltre 1200 anni fa. Questo tempio è\r\narroccato su una collina che domina Onomichi ed è stato\r\nsoggetto di artisti e scrittori da tempi immemorabili."
 
 msgctxt "35||hiroshima_oysters||text"
 msgid "Hiroshima Oysters\r\n\r\nCaught fresh out of the Seto Inner Sea, Hiroshima \"kaki\" are known\r\nthroughout the country as being some of the finest.\r\n\r\n"
-msgstr ""
+msgstr "Ostriche di Hiroshima\r\n\r\nPescate fresche nel Mare Interno di Seto, le \"kaki\" di Hiroshima sono\r\nnote in tutto il paese come tra le più pregiate.\r\n\r\n"
 
 msgctxt "36||jingaicho_central_shopping_district||text"
 msgid "Jingaicho Central Shopping District\r\n\r\nOnce a bustling market during the boom years, this local shopping\r\nalley now sits quietly with many of the storefronts shuttered."
-msgstr ""
+msgstr "Distretto commerciale centrale di Jingaicho\r\n\r\nUn tempo mercato brulicante durante gli anni del boom, questo vicolo\r\ncommerciale locale ora è tranquillo, con molte vetrine chiuse."
 
 msgctxt "37||haruka_sawamura||text"
 msgid "Haruka Sawamura\r\n\r\nThe daughter of Kiryu's first love, Yumi Sawamura. The two met in\r\n2005 and a father-daughter relationship bloomed as Kiryu risked his\r\nlife to protect hers."
-msgstr ""
+msgstr "Haruka Sawamura\r\n\r\nLa figlia del primo amore di Kiryu, Yumi Sawamura. I due si incontrarono\r\nnel 2005 e nacque un rapporto padre-figlia mentre Kiryu rischiava la propria\r\nvita per proteggere quella di lei."
 
 msgctxt "38||daigo_dojima||text"
 msgid "Daigo Dojima\r\n\r\nThe sixth chairman of the Tojo Clan, inducted in 2006. Daigo's road to\r\nleadership has been rocky, but Kiryu has supported him since he was\r\na child."
-msgstr ""
+msgstr "Daigo Dojima\r\n\r\nIl sesto presidente del Clan Tojo, nominato nel 2006. Il cammino di Daigo\r\nverso la leadership è stato tortuoso, ma Kiryu lo ha sostenuto fin da\r\nquando era bambino."
 
 msgctxt "39||makoto_date||text"
 msgid "Makoto Date\r\n\r\nOnce in charge of Kiryu's murder case in 1995, the two became friends\r\nafter his release. Date has been a cop, a journalist, and a bartender,\r\nbut police work runs in his blood."
-msgstr ""
+msgstr "Makoto Date\r\n\r\nUn tempo incaricato del caso di omicidio di Kiryu nel 1995, i due sono\r\ndiventati amici dopo il suo rilascio. Date è stato un poliziotto, un giornalista\r\ne un barista, ma il lavoro in polizia gli scorre nel sangue."
 
 msgctxt "40||shintaro_kazama||text"
 msgid "Shintaro Kazama\r\n\r\nThe founder of Sunflower Orphanage, where both Kiryu and Haruka\r\ngrew up. He was a model yakuza, earning the trust and respect of the\r\nentire city. Kiryu considered him a father."
-msgstr ""
+msgstr "Shintaro Kazama\r\n\r\nIl fondatore dell'orfanotrofio Sunflower, dove sono cresciuti sia Kiryu\r\nche Haruka. Era uno yakuza modello, stimato e rispettato da tutta la\r\ncittà. Kiryu lo considerava un padre."
 
 msgctxt "41||akira_nishikiyama||text"
 msgid "Akira Nishikiyama\r\n\r\nOnce Kiryu's oath brother, the two were torn apart by Nishiki's ambition\r\nto claim the Tojo Clan chairmanship. Their relationship ended in blows\r\nand an explosion atop the Millennium Tower."
-msgstr ""
+msgstr "Akira Nishikiyama\r\n\r\nUn tempo fratello di sangue di Kiryu, i due furono separati dall'ambizione\r\ndi Nishiki di reclamare la presidenza del Clan Tojo. Il loro rapporto finì\r\na colpi di scena e un'esplosione in cima alla Millennium Tower."
 
 msgctxt "42||goro_majima||text"
 msgid "Goro Majima\r\n\r\nKnown as the Mad Dog of Shimano, his unpredictable nature\r\nhas made him a force to be reckoned with both in the Tojo\r\nClan and to Kiryu, his long-time friend and nemesis."
-msgstr ""
+msgstr "Goro Majima\r\n\r\nNoto come il Cane Pazzo di Shimano, la sua natura imprevedibile lo ha\r\nreso una forza della natura sia per il Clan Tojo che per Kiryu, suo\r\namico e nemico di lunga data."
 
 msgctxt "43||taiga_saejima||text"
 msgid "Taiga Saejima\r\n\r\nOnce sentenced to death row for the murder of 18 men, this massive\r\nman became a yakuza legend. After clearing his name, Saejima has\r\nbeen in and out of prison, escaping whenever the need arises."
-msgstr ""
+msgstr "Taiga Saejima\r\n\r\nUn tempo condannato a morte per l'omicidio di 18 uomini, quest'uomo imponente\r\nè diventato una leggenda della yakuza. Dopo aver riabilitato il suo nome, Saejima\r\nè entrato e uscito di prigione, evadendo ogni volta che era necessario."
 
 msgctxt "44||the_snake_flower_triad||text"
 msgid "The Snake Flower Triad\r\n\r\nOnce a prominent foreign crime organization in Kamurocho, they lost\r\ntheir footing after their leader, Lau Ka Long, was killed by the CIA."
-msgstr ""
+msgstr "La Triade dei Fiori di Loto\r\n\r\nUn tempo organizzazione criminale straniera di rilievo a Kamurocho, ha\r\nperso potere dopo che il suo leader, Lau Ka Long, fu ucciso dalla CIA."
 
 msgctxt "45||club_stardust||text"
 msgid "Club Stardust\r\n\r\nOnce owned by Kazuki and Yuya, close friends of Kiryu's, this host\r\nclub has changed ownership and no longer offers Kiryu asylum from\r\nthe busy streets of the city."
-msgstr ""
+msgstr "Club Stardust\r\n\r\nUn tempo di proprietà di Kazuki e Yuya, cari amici di Kiryu, questo host\r\nclub ha cambiato gestione e non offre più a Kiryu un rifugio dalle\r\ntrafficate strade della città."
 
 msgctxt "46||morning_glory_orphanage||text"
 msgid "Morning Glory Orphanage\r\n\r\nFounded in Okinawa by Kiryu after he retired from the yakuza, this\r\nbeachfront property is home to eight now-teenage orphans."
-msgstr ""
+msgstr "Orfanotrofio Morning Glory\r\n\r\nFondato a Okinawa da Kiryu dopo il suo ritiro dalla yakuza, questa\r\nproprietà fronte mare ospita otto orfani, ormai adolescenti."
 
 msgctxt "47||kamurocho||text"
 msgid "Kamurocho\r\n\r\nAn area of Tokyo, this red-light district is home to cabaret clubs,\r\ngambling houses, a thriving nightlife, and all the ills that follow suit."
-msgstr ""
+msgstr "Kamurocho\r\n\r\nUn quartiere di Tokyo. Questo distretto a luci rosse ospita cabaret club,\r\nbiscazze, una vivace vita notturna e tutti i mali che ne conseguono."
 
 msgctxt "48||the_millennium_tower||text"
 msgid "The Millennium Tower\r\n\r\nThe pride of Kamurocho, this skyscraper was built on the blood\r\nspilled over an empty lot in the late 80s. When the fighting among\r\nyakuza gets serious, the roof often becomes an arena."
-msgstr ""
+msgstr "La Millennium Tower\r\n\r\nL'orgoglio di Kamurocho. Questo grattacielo fu costruito sul sangue\r\nversato per un lotto vuoto alla fine degli anni '80. Quando gli scontri tra\r\nyakuza si fanno seri, il tetto diventa spesso un'arena."
 
 msgctxt "49||shangri_la||text"
 msgid "Shangri-La\r\n\r\nA derelict \"soapland\" that Kiryu and Haruka infiltrated in 2005\r\nto gain crucial information. Goro Majima found him though,\r\ndriving a dump truck through the front doors in an attack."
-msgstr ""
+msgstr "Shangri-La\r\n\r\nUn \"soapland\" fatiscente in cui Kiryu e Haruka si infiltrarono nel 2005\r\nper ottenere informazioni cruciali. Goro Majima però lo scovò,\r\nsfondando l'ingresso con un camion ribaltabile durante un attacco."
 
 msgctxt "50||taxis||text"
 msgid "Taxis\r\n\r\nTaxis offer convenient shortcuts to other parts of the city, marked\r\non your map by a car icon. You can also travel between cities\r\nwhen the story allows. Get in from the left side."
-msgstr ""
+msgstr "Taxi\r\n\r\nI taxi offrono scorciatoie comode verso altre parti della città e sono segnati\r\nsulla mappa dall'icona di un'auto. Puoi anche viaggiare tra le città quando\r\nla storia lo permette. Sali dal lato sinistro."
 
 msgctxt "51||green_marks_the_spot||text"
 msgid "Green Marks the Spot\n\nDid you know you can create a marker on your map?\nPress <Action=Confirm,UI> on the map to create the marker,\nand a green arrow will appear on your minimap directing you to it."
-msgstr ""
+msgstr "L'indicatore verde\n\nSapevi che puoi creare un indicatore sulla mappa?\nPremi <Action=Confirm,UI> sulla mappa per crearlo, e una freccia verde\napparirà sulla mini-mappa per guidarti verso la destinazione."
 
 msgctxt "52||sprinting||text"
 msgid "Sprinting\n\nHold <Action=Run,Adventure> to sprint. Best used in short bursts, it's worth noting\nthat sprinting draws more attention from thugs looking for a fight."
-msgstr ""
+msgstr "Scattare\n\nTieni premuto <Action=Run,Adventure> per scattare. Meglio farlo per brevi tratti.\nRicorda che scattare attira maggiormente l'attenzione dei teppisti in cerca di rissa."
 
 msgctxt "53||all_things_in_moderation||text"
 msgid "All Things in Moderation\r\n\r\nKiryu has been known to enjoy a good drink, but if you overdo it,\r\nyou'll find it more difficult to walk in a straight line."
-msgstr ""
+msgstr "Moderazione in tutto\r\n\r\nKiryu è noto per apprezzare un buon drink, ma se esageri,\r\ntroverai più difficile camminare dritto."
 
 msgctxt "54||jizo_statues||text"
 msgid "Jizo Statues\r\n\r\nLining temples and cemeteries across Japan, these small childlike\r\nstatues are said to protect travelers and children."
-msgstr ""
+msgstr "Statue di Jizo\r\n\r\nPresenti nei templi e nei cimiteri di tutto il Giappone, si dice che\r\nqueste piccole statue dalle sembianze infantili proteggano i viandanti e i bambini."
 
 msgctxt "55||cabaret_clubs||text"
 msgid "Cabaret Clubs\r\n\r\nThese popular nightlife spots are frequented by men looking for a\r\ndrink and a conversation or businessmen taking clients for a fun\r\nnight out. Sometimes negotiations require a woman's touch."
-msgstr ""
+msgstr "Cabaret Club\r\n\r\nQuesti popolari locali notturni sono frequentati da uomini in cerca di un\r\ndrink e di una conversazione, o da uomini d'affari che portano i clienti a\r\ndivertirsi. A volte le negoziazioni richiedono un tocco femminile."
 
 msgctxt "56||salarymen||text"
 msgid "Salarymen\r\n\r\nA term used to describe men who dedicate their lives to a company.\r\nIt can have a derogatory connotation when used to describe a man who\r\nhas lost sight of his individuality or been broken by work-related stress."
-msgstr ""
+msgstr "Salaryman\r\n\r\nUn termine usato per descrivere gli uomini che dedicano la vita a un'azienda.\r\nPuò avere una connotazione spregiativa quando descrive un uomo che\r\nha perso di vista la propria individualità o è stato logorato dallo stress lavorativo."
 
 msgctxt "57||before_eating||text"
 msgid "Before Eating\r\n\r\nJapanese people often utter the phrase \"itadakimasu\" while clasping their\r\nhands together with a short bow before eating. Originating in Buddhism,\r\nthis practice is grounded in gratitude for the lives of the organisms\r\nabout to be consumed."
-msgstr ""
+msgstr "Prima di mangiare\r\n\r\nI giapponesi spesso pronunciano la frase \"itadakimasu\" congiungendo le\r\nmani e facendo un breve inchino prima di mangiare. Di origine buddista,\r\nquesta pratica si fonda sulla gratitudine verso le vite degli organismi\r\nche stanno per essere consumati."
 
 msgctxt "58||yubitsume||text"
 msgid "Yubitsume\r\n\r\nThe ritual act of cutting off one's finger in repentance or atonement.\r\nPracticed almost exclusively by the yakuza, it makes it more difficult\r\nto hold a sword, forcing the perpetrator to act more cautiously."
-msgstr ""
+msgstr "Yubitsume\r\n\r\nL'atto rituale di tagliarsi un dito come segno di pentimento o espiazione.\r\nPraticato quasi esclusivamente dalla yakuza, rende più difficile impugnare\r\nuna spada, obbligando chi lo subisce ad agire con più cautela."
 
 msgctxt "59||pocket_tissues||text"
 msgid "Pocket Tissues\r\n\r\nOften handed out on the streets of Japan, these \"free gifts\" bear\r\nadvertisements and phone numbers for local clubs and hot spots."
-msgstr ""
+msgstr "Fazzoletti tascabili\r\n\r\nSpesso distribuiti per le strade del Giappone, questi \"omaggi\" riportano\r\npubblicità e numeri di telefono di club e locali alla moda della zona."
 
 msgctxt "60||onigiri||text"
 msgid "Onigiri\r\n\r\nA ball of rice wrapped around various things such as pickled plums, \r\nsalmon, or other delights, \"onigiri\" are a staple of the Japanese diet."
-msgstr ""
+msgstr "Onigiri\r\n\r\nUna palla di riso con all'interno vari ingredienti come prugne in salamoia,\r\nsalmone o altre delizie. Gli \"onigiri\" sono un alimento base della dieta giapponese."
 
 msgctxt "61||tea||text"
 msgid "Tea\r\n\r\nThe quintessential Japanese beverage \"ocha\" comes in many varieties,\r\nsuch as black (oolong), roasted (hoji), rice-infused (genmai), or \r\neven barley (mugi)."
-msgstr ""
+msgstr "Tè\r\n\r\nLa bevanda giapponese per eccellenza, l'\"ocha\", è disponibile in molte varietà,\r\ncome nero (oolong), tostato (hoji), infuso al riso (genmai) o\r\npersino d'orzo (mugi)."
 
 msgctxt "62||vending_machines||text"
 msgid "Vending Machines\r\n\r\nThe Japanese \"jido hanbaiki\" is a global marvel, dispensing all sorts of\r\nconsumable delights, from tea to coffee to beer, in hot and cold varieties!"
-msgstr ""
+msgstr "Distributori automatici\r\n\r\nI \"jido hanbaiki\" giapponesi sono una meraviglia mondiale: erogano ogni tipo di\r\ndelizia consumabile, dal tè al caffè fino alla birra, in varianti calde e fredde!"
 
 msgctxt "63||karaoke||text"
 msgid "Karaoke\r\n\r\nA popular pastime that has picked up steam even in Western cultures.\r\nGroups of friends can reserve a room with a hot mic and belt out all\r\nthe latest hits and classics."
-msgstr ""
+msgstr "Karaoke\r\n\r\nUn passatempo popolare che ha preso piede anche nelle culture occidentali.\r\nGruppi di amici possono prenotare una stanza e cantare a squarciagola\r\ntutti i successi del momento e i grandi classici."
 
 msgctxt "64||cat_cafes||text"
 msgid "Cat Cafés\r\n\r\nLove cats but can't have one at home? Why not drop by a\r\ncat café and enjoy coffee, sweets, and amorous kitties?"
-msgstr ""
+msgstr "Neko Café\r\n\r\nAmi i gatti ma non puoi averne uno in casa? Perché non fare un salto in un\r\nneko café e gustarti un caffè e dei dolci in compagnia di affettuosi micetti?"
 
