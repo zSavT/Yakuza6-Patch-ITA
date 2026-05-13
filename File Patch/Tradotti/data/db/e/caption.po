@@ -9,601 +9,600 @@ msgstr ""
 
 msgctxt "3||yakuza||message"
 msgid "YAKUZA"
-msgstr ""
+msgstr "YAKUZA"
 
 msgctxt "4||majima||message"
 msgid "GORO MAJIMA\r\nPATRIARCH OF THE MAJIMA FAMILY,\r\nA TOJO CLAN SUBSIDIARY"
-msgstr ""
+msgstr "GORO MAJIMA\r\nPATRIARCA DELLA FAMIGLIA MAJIMA,\r\nSUSSIDIARIA DEL CLAN TOJO"
 
 msgctxt "5||kurosyozoku||message"
 msgid "MAN IN BLACK"
-msgstr ""
+msgstr "UOMO IN NERO"
 
 msgctxt "6||kurosyozokuta||message"
 msgid "MEN IN BLACK"
-msgstr ""
+msgstr "UOMINI IN NERO"
 
 msgctxt "7||ayashiiotokotachi||message"
 msgid "SHADY MEN"
-msgstr ""
+msgstr "UOMINI SOSPETTI"
 
 msgctxt "8||garawarutachi||message"
 msgid "MENACING MEN"
-msgstr ""
+msgstr "UOMINI MINACCIOSI"
 
 msgctxt "9||tachiwarutachi||message"
 msgid "THREATENING MEN"
-msgstr ""
+msgstr "UOMINI PERICOLOSI"
 
 msgctxt "10||yanky||message"
 msgid "HOOLIGANS"
-msgstr ""
+msgstr "TEPPISTI"
 
 msgctxt "11||chinpira||message"
 msgid "THUGS"
-msgstr ""
+msgstr "DELINQUENTI"
 
 msgctxt "12||defeat_convini||message"
 msgid "DEFEAT THE ROBBER"
-msgstr ""
+msgstr "SCONFIGGI IL RAPINATORE"
 
 msgctxt "13||go_saijyokai||message"
 msgid "HEAD TO THE TOP FLOOR"
-msgstr ""
+msgstr "VAI ALL'ULTIMO PIANO"
 
 msgctxt "14||chase||message"
 msgid "PURSUE THE MAN"
-msgstr ""
+msgstr "INSEGUI L'UOMO"
 
 msgctxt "15||search_himei||message"
 msgid "FIND THE SOURCE OF THE SCREAM"
-msgstr ""
+msgstr "TROVA LA FONTE DELL'URLO"
 
 msgctxt "16||search_kanban||message"
 msgid "SEARCH FOR THE SIGN"
-msgstr ""
+msgstr "CERCA L'INSEGNA"
 
 msgctxt "17||search_shuemei||message"
 msgid "LOOK FOR XUEMEI"
-msgstr ""
+msgstr "CERCA XUEMEI"
 
 msgctxt "19||hostkuzure||message"
 msgid "HAS-BEEN HOSTS"
-msgstr ""
+msgstr "HOST FALLITI"
 
 msgctxt "20||chapter01||message"
 msgid "CHAPTER 1\r\nTHE PRICE OF FREEDOM"
-msgstr ""
+msgstr "CAPITOLO 1\r\nIL PREZZO DELLA LIBERTÀ"
 
 msgctxt "21||chapter02||message"
 msgid "CHAPTER 2\r\nLIFE BLOOMS ANEW"
-msgstr ""
+msgstr "CAPITOLO 2\r\nLA VITA RIFIORISCE"
 
 msgctxt "22||chapter03||message"
 msgid "CHAPTER 3\r\nFOREIGN INFLUENCE"
-msgstr ""
+msgstr "CAPITOLO 3\r\nINFLUENZA STRANIERA"
 
 msgctxt "23||chapter04||message"
 msgid "CHAPTER 4\r\nDECEPTION"
-msgstr ""
+msgstr "CAPITOLO 4\r\nINGANNO"
 
 msgctxt "24||chapter05||message"
 msgid "CHAPTER 5\r\nMASKED"
-msgstr ""
+msgstr "CAPITOLO 5\r\nMASCHERATI"
 
 msgctxt "25||chapter06||message"
 msgid "CHAPTER 6\r\nFOOTSTEPS"
-msgstr ""
+msgstr "CAPITOLO 6\r\nPASSI"
 
 msgctxt "26||chapter07||message"
 msgid "CHAPTER 7\r\nHEIHAIZI"
-msgstr ""
+msgstr "CAPITOLO 7\r\nHEIHAIZI"
 
 msgctxt "27||chapter08||message"
 msgid "CHAPTER 8\r\nCONSPIRACY"
-msgstr ""
+msgstr "CAPITOLO 8\r\nCOMPLOTTO"
 
 msgctxt "28||chapter09||message"
 msgid "CHAPTER 9\r\nDISAPPEARANCE"
-msgstr ""
+msgstr "CAPITOLO 9\r\nSCOMPARSA"
 
 msgctxt "29||chapter10||message"
 msgid "CHAPTER 10\r\nBLOOD LAW"
-msgstr ""
+msgstr "CAPITOLO 10\r\nLEGGE DI SANGUE"
 
 msgctxt "30||chapter11||message"
 msgid "CHAPTER 11\r\nFATHER AND SON"
-msgstr ""
+msgstr "CAPITOLO 11\r\nPADRE E FIGLIO"
 
 msgctxt "31||chapter12||message"
 msgid "CHAPTER 12\r\nTHE SLEEPING GIANT"
-msgstr ""
+msgstr "CAPITOLO 12\r\nIL GIGANTE ADDORMENTATO"
 
 msgctxt "32||chapter13||message"
 msgid "FINALE\r\nTHE UNFORGIVEN"
-msgstr ""
+msgstr "FINALE\r\nGLI IMPERDONABILI"
 
 msgctxt "33||ayashiiotoko||message"
 msgid "SHADY MAN"
-msgstr ""
+msgstr "UOMO SOSPETTO"
 
 msgctxt "34||garawaru||message"
 msgid "MENACING MAN"
-msgstr ""
+msgstr "UOMO MINACCIOSO"
 
 msgctxt "35||machigang||message"
 msgid "STREET GANGSTERS"
-msgstr ""
+msgstr "GANGSTER DI STRADA"
 
 msgctxt "36||machijuninn||message"
 msgid "CIVILIANS"
-msgstr ""
+msgstr "CIVILI"
 
 msgctxt "37||youmeikumiin||message"
 msgid "YOMEI ALLIANCE"
-msgstr ""
+msgstr "ALLEANZA YOMEI"
 
 msgctxt "38||zousen||message"
 msgid "SHIPBUILDERS"
-msgstr ""
+msgstr "COSTRUTTORI NAVALI"
 
 msgctxt "39||amonjyo||message"
 msgid "JO AMON"
-msgstr ""
+msgstr "JO AMON"
 
 msgctxt "40||bousouzoku||message"
 msgid "RUFFIANS"
-msgstr ""
+msgstr "TEPPISTI"
 
 msgctxt "41||saikyokai||message"
 msgid "SAIO TRIAD"
-msgstr ""
+msgstr "TRIADE SAIO"
 
 msgctxt "42||jinguon||message"
 msgid "JINGWEON MAFIA"
-msgstr ""
+msgstr "MAFIA JINGWEON"
 
 msgctxt "43||someyaikka||message"
 msgid "SOMEYA FAMILY"
-msgstr ""
+msgstr "FAMIGLIA SOMEYA"
 
 msgctxt "44||yopparai||message"
 msgid "DRUNKARDS"
-msgstr ""
+msgstr "UBRIACONI"
 
 msgctxt "45||rensyu||message"
 msgid "TRAINING"
-msgstr ""
+msgstr "ADDESTRAMENTO"
 
 msgctxt "46||defeat_otte||message"
 msgid "DEFEAT THE PURSUERS"
-msgstr ""
+msgstr "SCONFIGGI GLI INSEGUITORI"
 
 msgctxt "47||delivery_jikannai||message"
 msgid "DELIVER ON TIME"
-msgstr ""
+msgstr "CONSEGNA IN TEMPO"
 
 msgctxt "48||go_deguchi||message"
 msgid "GO TO THE EXIT"
-msgstr ""
+msgstr "VAI ALL'USCITA"
 
 msgctxt "49||goeiseyo||message"
 msgid "PROTECT THE TARGET"
-msgstr ""
+msgstr "PROTEGGI IL BERSAGLIO"
 
 msgctxt "50||nagumo||message"
 msgid "TSUYOSHI NAGUMO\r\nCAPTAIN OF THE HIROSE FAMILY,\r\nA MASUZOE FAMILY SUBSIDIARY"
-msgstr ""
+msgstr "TSUYOSHI NAGUMO\r\nCAPITANO DELLA FAMIGLIA HIROSE,\r\nSUSSIDIARIA DELLA FAMIGLIA MASUZOE"
 
 msgctxt "51||han||message"
 msgid "JOON-GI HAN\r\nLEADER OF THE JINGWEON MAFIA"
-msgstr ""
+msgstr "JOON-GI HAN\r\nLEADER DELLA MAFIA JINGWEON"
 
 msgctxt "52||iwami||message"
 msgid "TSUNEO IWAMI\r\nCEO OF IWAMI SHIPBUILDING"
-msgstr ""
+msgstr "TSUNEO IWAMI\r\nCEO DELLA IWAMI SHIPBUILDING"
 
 msgctxt "53||koshimizu||message"
 msgid "KANJI KOSHIMIZU\r\nCAPTAIN OF THE YOMEI ALLIANCE,\r\nPATRIARCH OF THE KOSHIMIZU FAMILY"
-msgstr ""
+msgstr "KANJI KOSHIMIZU\r\nCAPITANO DELL'ALLEANZA YOMEI,\r\nPATRIARCA DELLA FAMIGLIA KOSHIMIZU"
 
 msgctxt "54||masuzoe||message"
 msgid "KOJI MASUZOE\r\nPATRIARCH OF THE MASUZOE FAMILY,\r\nA YOMEI ALLIANCE SUBSIDIARY"
-msgstr ""
+msgstr "KOJI MASUZOE\r\nPATRIARCA DELLA FAMIGLIA MASUZOE,\r\nSUSSIDIARIA DELL'ALLEANZA YOMEI"
 
 msgctxt "55||someya||message"
 msgid "TAKUMI SOMEYA\r\nPATRIARCH OF THE SOMEYA FAMILY,\r\nA TOJO CLAN SUBSIDIARY"
-msgstr ""
+msgstr "TAKUMI SOMEYA\r\nPATRIARCA DELLA FAMIGLIA SOMEYA,\r\nSUSSIDIARIA DEL CLAN TOJO"
 
 msgctxt "56||nagumo1||message"
 msgid "THUG"
-msgstr ""
+msgstr "DELINQUENTE"
 
 msgctxt "58||kurosyozoku_hira||message"
 msgid "MEN IN BLACK"
-msgstr ""
+msgstr "UOMINI IN NERO"
 
 msgctxt "59||ajiagaiisoge||message"
 msgid "HURRY TO LITTLE ASIA"
-msgstr ""
+msgstr "CORRI A LITTLE ASIA"
 
 msgctxt "60||akiyamajouhou||message"
 msgid "GATHER INFO ON AKIYAMA"
-msgstr ""
+msgstr "RACCOGLI INFORMAZIONI SU AKIYAMA"
 
 msgctxt "61||angoubasyo||message"
 msgid "GO TO THE SPOT MARKED BY THE CODE"
-msgstr ""
+msgstr "VAI AL LUOGO INDICATO DAL CODICE"
 
 msgctxt "62||angoujyouhou||message"
 msgid "GATHER INFO ON THE CODE"
-msgstr ""
+msgstr "RACCOGLI INFORMAZIONI SUL CODICE"
 
 msgctxt "63||ayashiiotoko_tsuka||message"
 msgid "CATCH THE SUSPICIOUS MAN"
-msgstr ""
+msgstr "CATTURA L'UOMO SOSPETTO"
 
 msgctxt "64||go_ajia||message"
 msgid "GO TO LITTLE ASIA"
-msgstr ""
+msgstr "VAI A LITTLE ASIA"
 
 msgctxt "65||go_apahoteru||message"
 msgid "GO TO THE APA HOTEL"
-msgstr ""
+msgstr "VAI ALL'APA HOTEL"
 
 msgctxt "66||go_apahoteru6||message"
 msgid "GO TO THE APA HOTEL 6TH FLOOR"
-msgstr ""
+msgstr "VAI AL 6° PIANO DELL'APA HOTEL"
 
 msgctxt "67||go_arupusu||message"
 msgid "GO TO CAFÉ ALPS"
-msgstr ""
+msgstr "VAI AL CAFÉ ALPS"
 
 msgctxt "68||go_biruokujyou||message"
 msgid "GO TO THE ROOF"
-msgstr ""
+msgstr "VAI SUL TETTO"
 
 msgctxt "69||go_bochi||message"
 msgid "GO TO THE CEMETERY"
-msgstr ""
+msgstr "VAI AL CIMITERO"
 
 msgctxt "70||go_ferinoriba||message"
 msgid "GO TO THE DOCK"
-msgstr ""
+msgstr "VAI AL MOLO"
 
 msgctxt "71||go_gesuidou||message"
 msgid "GO TO THE SEWER"
-msgstr ""
+msgstr "VAI NELLE FOGNE"
 
 msgctxt "72||go_hijyouguchi||message"
 msgid "GO TO THE EMERGENCY EXIT"
-msgstr ""
+msgstr "VAI ALL'USCITA DI EMERGENZA"
 
 msgctxt "73||go_hiroseikka||message"
 msgid "GO TO THE HIROSE FAMILY OFFICE"
-msgstr ""
+msgstr "VAI ALL'UFFICIO DELLA FAMIGLIA HIROSE"
 
 msgctxt "74||go_jidoukouen||message"
 msgid "GO TO THE CHILDREN'S PARK"
-msgstr ""
+msgstr "VAI AL CHILDREN'S PARK"
 
 msgctxt "75||go_jimusyo2||message"
 msgid "GO TO THE SECOND FLOOR"
-msgstr ""
+msgstr "VAI AL SECONDO PIANO"
 
 msgctxt "76||go_keisatubyouin||message"
 msgid "GO TO THE POLICE HOSPITAL"
-msgstr ""
+msgstr "VAI ALL'OSPEDALE DELLA POLIZIA"
 
 msgctxt "77||go_kiyomi||message"
 msgid "GO TO KIYOMI'S BAR"
-msgstr ""
+msgstr "VAI AL BAR DI KIYOMI"
 
 msgctxt "78||go_moreno||message"
 msgid "GO TO MORENO"
-msgstr ""
+msgstr "VAI AL MORENO"
 
 msgctxt "79||go_newserena||message"
 msgid "GO TO NEW SERENA"
-msgstr ""
+msgstr "VAI AL NEW SERENA"
 
 msgctxt "80||go_okanoue||message"
 msgid "GO TO THE TOP OF THE HILL"
-msgstr ""
+msgstr "VAI IN CIMA ALLA COLLINA"
 
 msgctxt "81||go_oukabiru||message"
 msgid "GO TO THE OKA BUILDING"
-msgstr ""
+msgstr "VAI ALL'OKA BUILDING"
 
 msgctxt "82||go_ropuwei||message"
 msgid "GO TO THE ROPEWAY STATION"
-msgstr ""
+msgstr "VAI ALLA STAZIONE DELLA FUNIVIA"
 
 msgctxt "83||go_ryunan||message"
 msgid "GO TO RYUNAN SHRINE"
-msgstr ""
+msgstr "VAI AL SANTUARIO RYUNAN"
 
 msgctxt "84||go_suigun||message"
 msgid "GO TO THE NAVY APARTMENTS"
-msgstr ""
+msgstr "VAI AI NAVY APARTMENTS"
 
 msgctxt "85||go_sky||message"
 msgid "GO TO SKY FINANCE"
-msgstr ""
+msgstr "VAI ALLA SKY FINANCE"
 
 msgctxt "86||go_sunadokei||message"
 msgid "GO TO SNACK HOURGLASS"
-msgstr ""
+msgstr "VAI ALLO SNACK HOURGLASS"
 
 msgctxt "87||go_sutadasuto||message"
 msgid "GO TO STARDUST"
-msgstr ""
+msgstr "VAI ALLO STARDUST"
 
 msgctxt "88||go_tokoya||message"
 msgid "GO TO THE BARBER SHOP"
-msgstr ""
+msgstr "VAI DAL BARBIERE"
 
 msgctxt "89||go_tougenkyou||message"
 msgid "GO TO SHANGRI-LA"
-msgstr ""
+msgstr "VAI ALLO SHANGRI-LA"
 
 msgctxt "90||go_toujyoukai||message"
 msgid "GO TO TOJO CLAN HQ"
-msgstr ""
+msgstr "VAI AL QUARTIER GENERALE DEL CLAN TOJO"
 
 msgctxt "91||go_toutobyouin||message"
 msgid "GO TO TOUTO HOSPITAL"
-msgstr ""
+msgstr "VAI ALL'OSPEDALE TOUTO"
 
 msgctxt "92||go_yakkyoku||message"
 msgid "GO TO THE PHARMACY"
-msgstr ""
+msgstr "VAI IN FARMACIA"
 
 msgctxt "93||harutodakkan||message"
 msgid "TAKE BACK HARUTO"
-msgstr ""
+msgstr "RIPRENDITI HARUTO"
 
 msgctxt "94||hiroseikkaisoge||message"
 msgid "HURRY TO THE HIROSE FAMILY OFFICE"
-msgstr ""
+msgstr "CORRI ALL'UFFICIO DELLA FAMIGLIA HIROSE"
 
 msgctxt "95||hirosenoheya||message"
 msgid "INVESTIGATE HIROSE'S ROOM"
-msgstr ""
+msgstr "INDAGA NELLA STANZA DI HIROSE"
 
 msgctxt "96||jikogenba||message"
 msgid "INVESTIGATE THE ACCIDENT"
-msgstr ""
+msgstr "INDAGA SULL'INCIDENTE"
 
 msgctxt "97||jimusyo2||message"
 msgid "INFILTRATE THE SECOND FLOOR"
-msgstr ""
+msgstr "INFILTRATI AL SECONDO PIANO"
 
 msgctxt "98||kiyomikyuusyutsu||message"
 msgid "RESCUE KIYOMI"
-msgstr ""
+msgstr "SALVA KIYOMI"
 
 msgctxt "99||kodomojyohou||message"
 msgid "TALK TO THE KIDS"
-msgstr ""
+msgstr "PARLA CON I BAMBINI"
 
 msgctxt "100||konbinibentou||message"
 msgid "GET A BENTO"
-msgstr ""
+msgstr "PRENDI UN BENTO"
 
 msgctxt "101||machidejyouhou||message"
 msgid "GATHER INFO"
-msgstr ""
+msgstr "RACCOGLI INFORMAZIONI"
 
 msgctxt "102||miruku||message"
 msgid "GET SOME MILK"
-msgstr ""
+msgstr "PRENDI DEL LATTE"
 
 msgctxt "103||saijyoukai||message"
 msgid "GO TO THE TOP FLOOR"
-msgstr ""
+msgstr "VAI ALL'ULTIMO PIANO"
 
 msgctxt "104||search_hirose||message"
 msgid "FIND HIROSE"
-msgstr ""
+msgstr "TROVA HIROSE"
 
 msgctxt "105||search_matsunaga||message"
 msgid "FIND MATSUNAGA"
-msgstr ""
+msgstr "TROVA MATSUNAGA"
 
 msgctxt "106||search_nagumo||message"
 msgid "FIND NAGUMO"
-msgstr ""
+msgstr "TROVA NAGUMO"
 
 msgctxt "107||search_rou||message"
 msgid "FIND BIG LO"
-msgstr ""
+msgstr "TROVA IL GRANDE LO"
 
 msgctxt "108||someyaoe||message"
 msgid "CATCH SOMEYA"
-msgstr ""
+msgstr "CATTURA SOMEYA"
 
 msgctxt "109||search_yuuta||message"
 msgid "FIND YUTA"
-msgstr ""
+msgstr "TROVA YUTA"
 
 msgctxt "110||han_hosuto||message"
 msgid "JOON-GI HAN\r\nOWNER OF CLUB STARDUST"
-msgstr ""
+msgstr "JOON-GI HAN\r\nPROPRIETARIO DEL CLUB STARDUST"
 
 msgctxt "111||hirose||message"
 msgid "TORU HIROSE\r\nPATRIARCH OF THE HIROSE FAMILY,\r\nA MASUZOE FAMILY SUBSIDIARY"
-msgstr ""
+msgstr "TORU HIROSE\r\nPATRIARCA DELLA FAMIGLIA HIROSE,\r\nSUSSIDIARIA DELLA FAMIGLIA MASUZOE"
 
 msgctxt "112||matsunaga||message"
 msgid "TAKAAKI MATSUNAGA\r\nOF THE HIROSE FAMILY,\r\nA MASUZOE FAMILY SUBSIDIARY"
-msgstr ""
+msgstr "TAKAAKI MATSUNAGA\r\nDELLA FAMIGLIA HIROSE,\r\nSUSSIDIARIA DELLA FAMIGLIA MASUZOE"
 
 msgctxt "113||tagashirausami||message"
 msgid "NAOTO TAGASHIRA & YUTA USAMI\r\nOF THE HIROSE FAMILY,\r\nA MASUZOE FAMILY SUBSIDIARY"
-msgstr ""
+msgstr "NAOTO TAGASHIRA E YUTA USAMI\r\nDELLA FAMIGLIA HIROSE,\r\nSUSSIDIARIA DELLA FAMIGLIA MASUZOE"
 
 msgctxt "114||machichinpira||message"
 msgid "STREET THUGS"
-msgstr ""
+msgstr "DELINQUENTI DI STRADA"
 
 msgctxt "115||yopparaiyakuza||message"
 msgid "DRUNK YAKUZA"
-msgstr ""
+msgstr "YAKUZA UBRIACA"
 
 msgctxt "116||saioukanbuedo||message"
 msgid "ED\r\nSAIO TRIAD OFFICER"
-msgstr ""
+msgstr "ED\r\nUFFICIALE DELLA TRIADE SAIO"
 
 msgctxt "117||akiyama||message"
 msgid "SHUN AKIYAMA"
-msgstr ""
+msgstr "SHUN AKIYAMA"
 
 msgctxt "118||saioukouseiin||message"
 msgid "SAIO TRIAD"
-msgstr ""
+msgstr "TRIADE SAIO"
 
 msgctxt "119||jinguonha||message"
 msgid "JINGWEON MAFIA"
-msgstr ""
+msgstr "MAFIA JINGWEON"
 
 msgctxt "121||sandaazu||message"
 msgid "JINGAI THUNDERS"
-msgstr ""
+msgstr "JINGAI THUNDERS"
 
 msgctxt "122||onomichisuikyaku||message"
 msgid "DRUNK CIVILIANS"
-msgstr ""
+msgstr "CIVILI UBRIACHI"
 
 msgctxt "123||youmeimasuzoe||message"
 msgid "MASUZOE FAMILY"
-msgstr ""
+msgstr "FAMIGLIA MASUZOE"
 
 msgctxt "124||toujyousomeyaikka||message"
 msgid "SOMEYA FAMILY"
-msgstr ""
+msgstr "FAMIGLIA SOMEYA"
 
 msgctxt "125||tougenchinpira||message"
 msgid "SHANGRI-LA PUNKS"
-msgstr ""
+msgstr "TEPPISTI DELLO SHANGRI-LA"
 
 msgctxt "127||nazonoshikaku||message"
 msgid "MYSTERIOUS ASSASSINS"
-msgstr ""
+msgstr "ASSASSINI MISTERIOSI"
 
 msgctxt "128||iwamizousen||message"
 msgid "IWAMI SHIPBUILDING WORKERS"
-msgstr ""
+msgstr "OPERALI DELLA IWAMI SHIPBUILDING"
 
 msgctxt "129||toujyoukumiin||message"
 msgid "TOJO CLAN"
-msgstr ""
+msgstr "CLAN TOJO"
 
 msgctxt "130||nanpashi||message"
 msgid "PICK-UP ARTISTS"
-msgstr ""
+msgstr "RIMORCHIATORI"
 
 msgctxt "131||kappurugari||message"
 msgid "COUPLE HUNTERS"
-msgstr ""
+msgstr "CACCIATORI DI COPPIE"
 
 msgctxt "132||narazumono||message"
 msgid "LOWLIFES"
-msgstr ""
+msgstr "FECCIA"
 
 msgctxt "133||chuugokumafia||message"
 msgid "TRIADS"
-msgstr ""
+msgstr "TRIADI"
 
 msgctxt "134||houkama||message"
 msgid "ARSONIST"
-msgstr ""
+msgstr "PIROMANE"
 
 msgctxt "135||nazonootoko||message"
 msgid "MYSTERIOUS MAN"
-msgstr ""
+msgstr "UOMO MISTERIOSO"
 
 msgctxt "136||toorima||message"
 msgid "SLASHER"
-msgstr ""
+msgstr "ACCOLTELLATORE"
 
 msgctxt "137||padv||message"
 msgid "PREMIUM ADVENTURE"
-msgstr ""
+msgstr "AVVENTURA PREMIUM"
 
 msgctxt "138||tachiwaru||message"
 msgid "THREATENING MAN"
-msgstr ""
+msgstr "UOMO PERICOLOSO"
 
 msgctxt "139||mafia||message"
 msgid "MAFIA"
-msgstr ""
+msgstr "MAFIA"
 
 msgctxt "140||gyangu||message"
 msgid "GANGSTERS"
-msgstr ""
+msgstr "GANGSTER"
 
 msgctxt "141||nigero||message"
 msgid "ESCAPE"
-msgstr ""
+msgstr "SCAPPA"
 
 msgctxt "142||justiszan||message"
 msgid "JUSTIS"
-msgstr ""
+msgstr "JUSTIS"
 
 msgctxt "143||justis||message"
 msgid "JUSTIS"
-msgstr ""
+msgstr "JUSTIS"
 
 msgctxt "144||amongun||message"
 msgid "AMON ARMY"
-msgstr ""
+msgstr "ESERCITO DI AMON"
 
 msgctxt "145||satsuki||message"
 msgid "SATSUKI"
-msgstr ""
+msgstr "SATSUKI"
 
 msgctxt "146||6naitou||message"
 msgid "THE SIX LUNATICS\r\nTETSUYA NAITO"
-msgstr ""
+msgstr "I SEI FOLLI\r\nTETSUYA NAITO"
 
 msgctxt "147||6kojima||message"
 msgid "THE SIX LUNATICS\r\nSATOSHI KOJIMA"
-msgstr ""
+msgstr "I SEI FOLLI\r\nSATOSHI KOJIMA"
 
 msgctxt "148||6tenzan||message"
 msgid "THE SIX LUNATICS\r\nHIROYOSHI TENZAN"
-msgstr ""
+msgstr "I SEI FOLLI\r\nHIROYOSHI TENZAN"
 
 msgctxt "149||6tanahashi||message"
 msgid "THE SIX LUNATICS\r\nHIROSHI TANAHASHI"
-msgstr ""
+msgstr "I SEI FOLLI\r\nHIROSHI TANAHASHI"
 
 msgctxt "150||6yano||message"
 msgid "THE SIX LUNATICS\r\nTORU YANO"
-msgstr ""
+msgstr "I SEI FOLLI\r\nTORU YANO"
 
 msgctxt "151||6okada||message"
 msgid "THE SIX LUNATICS\r\nKAZUCHIKA OKADA"
-msgstr ""
+msgstr "I SEI FOLLI\r\nKAZUCHIKA OKADA"
 
 msgctxt "152||sodachi||message"
 msgid "YASUO SODACHI"
-msgstr ""
+msgstr "YASUO SODACHI"
 
 msgctxt "153||saigo||message"
 msgid "TAIJIRO SAIGO"
-msgstr ""
+msgstr "TAIJIRO SAIGO"
 
 msgctxt "154||usami||message"
 msgid "YUTA USAMI\r\nOF THE HIROSE FAMILY,\r\nA MASUZOE FAMILY SUBSIDIARY"
-msgstr ""
+msgstr "YUTA USAMI\r\nDELLA FAMIGLIA HIROSE,\r\nSUSSIDIARIA DELLA FAMIGLIA MASUZOE"
 
 msgctxt "155||same||message"
 msgid "BLOODY SHARK"
-msgstr ""
+msgstr "SQUALO SANGUINARIO"
 
 msgctxt "156||6tenzankojima||message"
 msgid "THE SIX LUNATICS\r\nHIROYOSHI TENZAN & SATOSHI KOJIMA"
-msgstr ""
-
+msgstr "I SEI FOLLI\r\nHIROYOSHI TENZAN E SATOSHI KOJIMA"
