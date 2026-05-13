@@ -9,37 +9,37 @@ msgstr ""
 
 msgctxt "1||kaicho||name"
 msgid "Chairman"
-msgstr ""
+msgstr "Presidente"
 
 msgctxt "2||wakagashira||name"
 msgid "Captain"
-msgstr ""
+msgstr "Capitano"
 
 msgctxt "3||wakagashira_hosa||name"
 msgid "Lieutenant"
-msgstr ""
+msgstr "Tenente"
 
 msgctxt "4||wakashu||name"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "5||souhonbucho||name"
 msgid "General Chief"
-msgstr ""
+msgstr "Direttore generale"
 
 msgctxt "6||saikoukomon||name"
 msgid "Chief Advisor\r\nHead Advisor\r\nTop Advisor"
-msgstr ""
+msgstr "Consigliere capo"
 
 msgctxt "7||honbucho||name"
 msgid "Chief of HQ"
-msgstr ""
+msgstr "Capo quartier generale"
 
 msgctxt "11||syatei||name"
 msgid "Soldier\r\nUnderling\r\nSubordinate"
-msgstr ""
+msgstr "Soldato"
 
 msgctxt "12||syateigashira||name"
 msgid "Lieutenant Advisor"
-msgstr ""
+msgstr "Tenente consigliere"
 

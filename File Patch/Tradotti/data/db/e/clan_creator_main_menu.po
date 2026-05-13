@@ -9,113 +9,113 @@ msgstr ""
 
 msgctxt "1||mission||name"
 msgid "Missions"
-msgstr ""
+msgstr "Missioni"
 
 msgctxt "2||edit||name"
 msgid "Organization"
-msgstr ""
+msgstr "Organizzazione"
 
 msgctxt "3||ability||name"
 msgid "Training"
-msgstr ""
+msgstr "Allenamento"
 
 msgctxt "4||network||name"
 msgid "Network"
-msgstr ""
+msgstr "Network"
 
 msgctxt "5||help||name"
 msgid "Help"
-msgstr ""
+msgstr "Aiuto"
 
 msgctxt "7||customize_chart||name"
 msgid "Hierarchy"
-msgstr ""
+msgstr "Gerarchia"
 
 msgctxt "8||customize_deck||name"
 msgid "Strike Team"
-msgstr ""
+msgstr "Squadra d'assalto"
 
 msgctxt "9||network_attack||name"
 msgid "Raid"
-msgstr ""
+msgstr "Incursione"
 
 msgctxt "10||network_defense||name"
 msgid "Defense Force"
-msgstr ""
+msgstr "Forza di difesa"
 
 msgctxt "12||network_return||name"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "13||network_limited||name"
 msgid "Events"
-msgstr ""
+msgstr "Eventi"
 
 msgctxt "14||network_ranker||name"
 msgid "Ranked Raid"
-msgstr ""
+msgstr "Incursione classificata"
 
 msgctxt "15||network_friend||name"
 msgid "Friend Raid"
-msgstr ""
+msgstr "Incursione amico"
 
 msgctxt "16||network_agreement||name"
 msgid "Terms of Use"
-msgstr ""
+msgstr "Termini di utilizzo"
 
 msgctxt "1||mission||explanation"
 msgid "Select a mission to begin a Clan Battle."
-msgstr ""
+msgstr "Seleziona una missione per iniziare una battaglia tra clan."
 
 msgctxt "2||edit||explanation"
 msgid "Customize the organization and select a Strike Team."
-msgstr ""
+msgstr "Personalizza l'organizzazione e seleziona una squadra d'assalto."
 
 msgctxt "3||ability||explanation"
 msgid "Strengthen your leaders with Kiryu's experience points."
-msgstr ""
+msgstr "Potenzia i tuoi leader con i punti esperienza di Kiryu."
 
 msgctxt "4||network||explanation"
 msgid "Play exclusive online content."
-msgstr ""
+msgstr "Accedi ai contenuti online esclusivi."
 
 msgctxt "5||help||explanation"
 msgid "Review Clan Creator tutorials."
-msgstr ""
+msgstr "Rivedi i tutorial del Creatore di clan."
 
 msgctxt "7||customize_chart||explanation"
 msgid "Restructure the Kiryu Clan."
-msgstr ""
+msgstr "Ristruttura il Clan Kiryu."
 
 msgctxt "8||customize_deck||explanation"
 msgid "Select leaders to participate in battle."
-msgstr ""
+msgstr "Seleziona i leader che parteciperanno alla battaglia."
 
 msgctxt "9||network_attack||explanation"
 msgid "Battle against other clans online."
-msgstr ""
+msgstr "Affronta altri clan online."
 
 msgctxt "10||network_defense||explanation"
 msgid "Upload your team to fight in automatic battles online."
-msgstr ""
+msgstr "Carica la tua squadra per partecipare a battaglie online automatiche."
 
 msgctxt "12||network_return||explanation"
 msgid "Return to the previous screen."
-msgstr ""
+msgstr "Torna alla schermata precedente."
 
 msgctxt "13||network_limited||explanation"
 msgid "Play missions available only for a limited time."
-msgstr ""
+msgstr "Gioca missioni disponibili solo per un tempo limitato."
 
 msgctxt "14||network_ranker||explanation"
 msgid "Take on the Defense Force of the top 10 players."
-msgstr ""
+msgstr "Sfida la forza di difesa dei 10 migliori giocatori."
 
 msgctxt "15||network_friend||explanation"
 msgid "Challenge your Friends on PlayStation™Network.\r\n*EXP and rewards are not given in this mode."
-msgstr ""
+msgstr "Sfida i tuoi amici sul PlayStation™Network.\r\n*In questa modalità non si ottengono EXP o ricompense."
 
 msgctxt "16||network_agreement||explanation"
 msgid "Review the terms of use."
-msgstr ""
+msgstr "Leggi i termini di utilizzo."
 

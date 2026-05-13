@@ -9,21 +9,20 @@ msgstr ""
 
 msgctxt "1||adventure||name"
 msgid "Adventure"
-msgstr ""
+msgstr "Avventura"
 
 msgctxt "2||battle||name"
 msgid "Battle"
-msgstr ""
+msgstr "Battaglia"
 
 msgctxt "3||substory||name"
 msgid "Substories"
-msgstr ""
+msgstr "Storie secondarie"
 
 msgctxt "4||playspot||name"
 msgid "Minigames"
-msgstr ""
+msgstr "Minigiochi"
 
 msgctxt "5||clan_creator||name"
 msgid "Clan Creator"
-msgstr ""
-
+msgstr "Creatore di Clan"

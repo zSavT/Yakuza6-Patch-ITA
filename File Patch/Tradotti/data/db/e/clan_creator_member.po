@@ -9,601 +9,600 @@ msgstr ""
 
 msgctxt "1||soldier_kenka||name"
 msgid "Brawler"
-msgstr ""
+msgstr "Attaccabrighe"
 
 msgctxt "2||soldier_gun||name"
 msgid "Gunner"
-msgstr ""
+msgstr "Tiratore"
 
 msgctxt "3||soldier_gouwan||name"
 msgid "Heavy"
-msgstr ""
+msgstr "Colosso"
 
 msgctxt "4||soldier_rush||name"
 msgid "Rusher"
-msgstr ""
+msgstr "Assaltatore"
 
 msgctxt "5||soldier_bomb||name"
 msgid "Grenadier"
-msgstr ""
+msgstr "Granatiere"
 
 msgctxt "6||clan_kaneko||name"
 msgid "Kaneko"
-msgstr ""
+msgstr "Kaneko"
 
 msgctxt "7||clan_takamisawa||name"
 msgid "Kanamizawa"
-msgstr ""
+msgstr "Kanamizawa"
 
 msgctxt "8||clan_joe||name"
 msgid "Joe"
-msgstr ""
+msgstr "Joe"
 
 msgctxt "9||clan_okada||name"
 msgid "Kazuchika Okada"
-msgstr ""
+msgstr "Kazuchika Okada"
 
 msgctxt "10||clan_hidenori||name"
 msgid "Hidenori"
-msgstr ""
+msgstr "Hidenori"
 
 msgctxt "11||clan_gold_obara||name"
 msgid "Obara"
-msgstr ""
+msgstr "Obara"
 
 msgctxt "12||clan_gold_haruyama||name"
 msgid "Nogami"
-msgstr ""
+msgstr "Nogami"
 
 msgctxt "13||clan_bronze_tamotsu||name"
 msgid "Tamotsu"
-msgstr ""
+msgstr "Tamotsu"
 
 msgctxt "14||clan_rare_fizitake||name"
 msgid "Fujitake"
-msgstr ""
+msgstr "Fujitake"
 
 msgctxt "15||clan_naito||name"
 msgid "Tetsuya Naito"
-msgstr ""
+msgstr "Tetsuya Naito"
 
 msgctxt "16||clan_bronze_oya||name"
 msgid "Oya"
-msgstr ""
+msgstr "Oya"
 
 msgctxt "17||clan_silver_dobashi||name"
 msgid "Dobashi"
-msgstr ""
+msgstr "Dobashi"
 
 msgctxt "18||clan_sodachi||name"
 msgid "Sodachi"
-msgstr ""
+msgstr "Sodachi"
 
 msgctxt "19||clan_silver_kawata||name"
 msgid "Kawata"
-msgstr ""
+msgstr "Kawata"
 
 msgctxt "20||clan_master||name"
 msgid "Bartender"
-msgstr ""
+msgstr "Barista"
 
 msgctxt "21||clan_yano||name"
 msgid "Toru Yano"
-msgstr ""
+msgstr "Toru Yano"
 
 msgctxt "22||clan_ono_boss||name"
 msgid "Yoshikawa"
-msgstr ""
+msgstr "Yoshikawa"
 
 msgctxt "23||clan_gold_samurai||name"
 msgid "Samurai"
-msgstr ""
+msgstr "Samurai"
 
 msgctxt "24||clan_enc_boss_ono||name"
 msgid "Saigo"
-msgstr ""
+msgstr "Saigo"
 
 msgctxt "25||clan_tenzan||name"
 msgid "Hiroyoshi Tenzan"
-msgstr ""
+msgstr "Hiroyoshi Tenzan"
 
 msgctxt "26||clan_masao||name"
 msgid "Masao"
-msgstr ""
+msgstr "Masao"
 
 msgctxt "27||clan_bronze_yasu||name"
 msgid "Yasu"
-msgstr ""
+msgstr "Yasu"
 
 msgctxt "28||clan_rare_hashimoto||name"
 msgid "Hashimoto"
-msgstr ""
+msgstr "Hashimoto"
 
 msgctxt "29||clan_gold_nakagoshi||name"
 msgid "Nakagoshi"
-msgstr ""
+msgstr "Nakagoshi"
 
 msgctxt "30||clan_amon||name"
 msgid "Amon"
-msgstr ""
+msgstr "Amon"
 
 msgctxt "31||clan_kojima||name"
 msgid "Satoshi Kojima"
-msgstr ""
+msgstr "Satoshi Kojima"
 
 msgctxt "32||clan_pokecir_fighter||name"
 msgid "Pocket Circuit Fighter"
-msgstr ""
+msgstr "Pocket Circuit Fighter"
 
 msgctxt "33||clan_ando||name"
 msgid "Ando"
-msgstr ""
+msgstr "Ando"
 
 msgctxt "34||clan_tanahashi||name"
 msgid "Hiroshi Tanahashi"
-msgstr ""
+msgstr "Hiroshi Tanahashi"
 
 msgctxt "35||clan_syunta||name"
 msgid "Shunta"
-msgstr ""
+msgstr "Shunta"
 
 msgctxt "36||clan_bronze_bashi||name"
 msgid "Bashi"
-msgstr ""
+msgstr "Bashi"
 
 msgctxt "37||clan_bronze_iibuchi||name"
 msgid "Ibuchi"
-msgstr ""
+msgstr "Ibuchi"
 
 msgctxt "38||clan_silver_tanogami||name"
 msgid "Tanogami"
-msgstr ""
+msgstr "Tanogami"
 
 msgctxt "39||clan_silver_haruyama||name"
 msgid "Haruyama"
-msgstr ""
+msgstr "Haruyama"
 
 msgctxt "40||clan_silver_kanemaru||name"
 msgid "Kanemaru"
-msgstr ""
+msgstr "Kanemaru"
 
 msgctxt "41||clan_gold_hirosakamoto||name"
 msgid "Hiro Sakamoto"
-msgstr ""
+msgstr "Hiro Sakamoto"
 
 msgctxt "42||clan_rare_jouno||name"
 msgid "Jono"
-msgstr ""
+msgstr "Jono"
 
 msgctxt "43||clan_rare_uzinami||name"
 msgid "Ujinami"
-msgstr ""
+msgstr "Ujinami"
 
 msgctxt "44||clan_rare_inomoto||name"
 msgid "Inomoto"
-msgstr ""
+msgstr "Inomoto"
 
 msgctxt "81||clan_test_00_00||name"
 msgid "COM Test 00"
-msgstr ""
+msgstr "COM Test 00"
 
 msgctxt "82||clan_test_00_01||name"
 msgid "COM Test 01"
-msgstr ""
+msgstr "COM Test 01"
 
 msgctxt "83||clan_test_00_02||name"
 msgid "COM Test 02"
-msgstr ""
+msgstr "COM Test 02"
 
 msgctxt "84||clan_test_00_03||name"
 msgid "COM Test 03"
-msgstr ""
+msgstr "COM Test 03"
 
 msgctxt "85||clan_test_00_04||name"
 msgid "COM Test 04"
-msgstr ""
+msgstr "COM Test 04"
 
 msgctxt "86||clan_test_00_boss01||name"
 msgid "COM Test 05"
-msgstr ""
+msgstr "COM Test 05"
 
 msgctxt "87||clan_test_00_boss02||name"
 msgid "COM Test 06"
-msgstr ""
+msgstr "COM Test 06"
 
 msgctxt "143||clan_enemy_zako||name"
 msgid "COM_clan_Brawler"
-msgstr ""
+msgstr "COM_clan_Attaccabrighe"
 
 msgctxt "144||clan_enemy_power||name"
 msgid "COM_clan_Heavy"
-msgstr ""
+msgstr "COM_clan_Colosso"
 
 msgctxt "145||clan_enemy_chibi||name"
 msgid "COM_clan_Rusher"
-msgstr ""
+msgstr "COM_clan_Assaltatore"
 
 msgctxt "146||clan_enemy_gun||name"
 msgid "COM_clan_Gunner"
-msgstr ""
+msgstr "COM_clan_Tiratore"
 
 msgctxt "147||clan_enemy_bomb||name"
 msgid "COM_clan_Grenadier"
-msgstr ""
+msgstr "COM_clan_Granatiere"
 
 msgctxt "148||clan_enemy_boss_kenka||name"
 msgid "Elite Brawler"
-msgstr ""
+msgstr "Attaccabrighe d'élite"
 
 msgctxt "149||clan_enemy_boss_gun||name"
 msgid "Elite Gunner"
-msgstr ""
+msgstr "Tiratore d'élite"
 
 msgctxt "150||clan_enemy_boss_power||name"
 msgid "Elite Heavy"
-msgstr ""
+msgstr "Colosso d'élite"
 
 msgctxt "151||clan_enemy_boss_chibi||name"
 msgid "Elite Rusher"
-msgstr ""
+msgstr "Assaltatore d'élite"
 
 msgctxt "152||clan_enemy_boss_bomb||name"
 msgid "Elite Grenadier"
-msgstr ""
+msgstr "Granatiere d'élite"
 
 msgctxt "153||clan_enemy_boss_onomichi||name"
 msgid "Elite Yoshikawa"
-msgstr ""
+msgstr "Yoshikawa d'élite"
 
 msgctxt "154||clan_enemy_boss_yano||name"
 msgid "The Six Lunatics Toru Yano"
-msgstr ""
+msgstr "Toru Yano dei Sei Folli"
 
 msgctxt "155||clan_enemy_boss_naito||name"
 msgid "The Six Lunatics Tetsuya Naito"
-msgstr ""
+msgstr "Tetsuya Naito dei Sei Folli"
 
 msgctxt "156||clan_enemy_boss_tenzan||name"
 msgid "The Six Lunatics Hiroyoshi Tenzan"
-msgstr ""
+msgstr "Hiroyoshi Tenzan dei Sei Folli"
 
 msgctxt "157||clan_enemy_boss_kozima||name"
 msgid "The Six Lunatics Satoshi Kojima"
-msgstr ""
+msgstr "Satoshi Kojima dei Sei Folli"
 
 msgctxt "158||clan_enemy_boss_tanahashi||name"
 msgid "The Six Lunatics Hiroshi Tanahashi"
-msgstr ""
+msgstr "Hiroshi Tanahashi dei Sei Folli"
 
 msgctxt "159||clan_enemy_boss_okada||name"
 msgid "The Six Lunatics Kazuchika Okada"
-msgstr ""
+msgstr "Kazuchika Okada dei Sei Folli"
 
 msgctxt "160||clan_enemy_boss_koumei||name"
 msgid "Officer Komei"
-msgstr ""
+msgstr "Ufficiale Komei"
 
 msgctxt "161||clan_enemy_boss_satsuki||name"
 msgid "Commander Satsuki"
-msgstr ""
+msgstr "Comandante Satsuki"
 
 msgctxt "162||clan_enemy_boss_amon01||name"
 msgid "Amon"
-msgstr ""
+msgstr "Amon"
 
 msgctxt "163||clan_enemy_boss_amon02||name"
 msgid "Amon"
-msgstr ""
+msgstr "Amon"
 
 msgctxt "164||clan_card_c_majima||name"
 msgid "Goro Majima (C)"
-msgstr ""
+msgstr "Goro Majima (C)"
 
 msgctxt "165||clan_card_c_saejima||name"
 msgid "Taiga Saejima (C)"
-msgstr ""
+msgstr "Taiga Saejima (C)"
 
 msgctxt "166||clan_card_c_daigo||name"
 msgid "Daigo Dojima (C)"
-msgstr ""
+msgstr "Daigo Dojima (C)"
 
 msgctxt "167||clan_card_c_date||name"
 msgid "Makoto Date (C)"
-msgstr ""
+msgstr "Makoto Date (C)"
 
 msgctxt "168||clan_card_c_akiyama||name"
 msgid "Shun Akiyama (C)"
-msgstr ""
+msgstr "Shun Akiyama (C)"
 
 msgctxt "169||clan_card_c_kiryu||name"
 msgid "Kazuma Kiryu (C)"
-msgstr ""
+msgstr "Kazuma Kiryu (C)"
 
 msgctxt "170||clan_card_c_koumei||name"
 msgid "Komei (C)"
-msgstr ""
+msgstr "Komei (C)"
 
 msgctxt "171||clan_card_c_satsuki||name"
 msgid "Satsuki (C)"
-msgstr ""
+msgstr "Satsuki (C)"
 
 msgctxt "172||clan_card_c_amon||name"
 msgid "Amon (C)"
-msgstr ""
+msgstr "Amon (C)"
 
 msgctxt "173||clan_card_c_onomichi||name"
 msgid "Ono Michio (C)"
-msgstr ""
+msgstr "Ono Michio (C)"
 
 msgctxt "174||clan_card_r_majima||name"
 msgid "Goro Majima (R)"
-msgstr ""
+msgstr "Goro Majima (R)"
 
 msgctxt "175||clan_card_r_saejima||name"
 msgid "Taiga Saejima (R)"
-msgstr ""
+msgstr "Taiga Saejima (R)"
 
 msgctxt "176||clan_card_r_daigo||name"
 msgid "Daigo Dojima (R)"
-msgstr ""
+msgstr "Daigo Dojima (R)"
 
 msgctxt "177||clan_card_r_date||name"
 msgid "Makoto Date (R)"
-msgstr ""
+msgstr "Makoto Date (R)"
 
 msgctxt "178||clan_card_r_akiyama||name"
 msgid "Shun Akiyama (R)"
-msgstr ""
+msgstr "Shun Akiyama (R)"
 
 msgctxt "179||clan_card_r_kiryu||name"
 msgid "Kazuma Kiryu (R)"
-msgstr ""
+msgstr "Kazuma Kiryu (R)"
 
 msgctxt "180||clan_card_r_koumei||name"
 msgid "Komei (R)"
-msgstr ""
+msgstr "Komei (R)"
 
 msgctxt "181||clan_card_r_satsuki||name"
 msgid "Satsuki (R)"
-msgstr ""
+msgstr "Satsuki (R)"
 
 msgctxt "182||clan_card_r_amon||name"
 msgid "Amon (R)"
-msgstr ""
+msgstr "Amon (R)"
 
 msgctxt "183||clan_card_r_onomichi||name"
 msgid "Ono Michio (R)"
-msgstr ""
+msgstr "Ono Michio (R)"
 
 msgctxt "184||clan_card_sr_majima||name"
 msgid "Goro Majima (SR)"
-msgstr ""
+msgstr "Goro Majima (SR)"
 
 msgctxt "185||clan_card_sr_saejima||name"
 msgid "Taiga Saejima (SR)"
-msgstr ""
+msgstr "Taiga Saejima (SR)"
 
 msgctxt "186||clan_card_sr_daigo||name"
 msgid "Daigo Dojima (SR)"
-msgstr ""
+msgstr "Daigo Dojima (SR)"
 
 msgctxt "187||clan_card_sr_date||name"
 msgid "Makoto Date (SR)"
-msgstr ""
+msgstr "Makoto Date (SR)"
 
 msgctxt "188||clan_card_sr_akiyama||name"
 msgid "Shun Akiyama (SR)"
-msgstr ""
+msgstr "Shun Akiyama (SR)"
 
 msgctxt "189||clan_card_sr_kiryu||name"
 msgid "Kazuma Kiryu (SR)"
-msgstr ""
+msgstr "Kazuma Kiryu (SR)"
 
 msgctxt "190||clan_card_sr_okada||name"
 msgid "Kazuchika Okada (SR)"
-msgstr ""
+msgstr "Kazuchika Okada (SR)"
 
 msgctxt "191||clan_card_sr_naito||name"
 msgid "Tetsuya Naito (SR)"
-msgstr ""
+msgstr "Tetsuya Naito (SR)"
 
 msgctxt "192||clan_card_sr_tanahashi||name"
 msgid "Hiroshi Tanahashi (SR)"
-msgstr ""
+msgstr "Hiroshi Tanahashi (SR)"
 
 msgctxt "193||clan_card_sr_kojima||name"
 msgid "Satoshi Kojima (SR)"
-msgstr ""
+msgstr "Satoshi Kojima (SR)"
 
 msgctxt "194||clan_card_sr_tenzan||name"
 msgid "Hiroyoshi Tenzan (SR)"
-msgstr ""
+msgstr "Hiroyoshi Tenzan (SR)"
 
 msgctxt "195||clan_card_sr_yano||name"
 msgid "Toru Yano (SR)"
-msgstr ""
+msgstr "Toru Yano (SR)"
 
 msgctxt "196||clan_card_r_sodachi||name"
 msgid "Sodachi (R)"
-msgstr ""
+msgstr "Sodachi (R)"
 
 msgctxt "197||clan_card_r_pokecir_fighter||name"
 msgid "Pocket Circuit Fighter (R)"
-msgstr ""
+msgstr "Pocket Circuit Fighter (R)"
 
 msgctxt "198||clan_card_r_joe||name"
 msgid "Joe (R)"
-msgstr ""
+msgstr "Joe (R)"
 
 msgctxt "199||clan_card_r_masao||name"
 msgid "Masao (R)"
-msgstr ""
+msgstr "Masao (R)"
 
 msgctxt "200||clan_card_r_master||name"
 msgid "Bartender (R)"
-msgstr ""
+msgstr "Barista (R)"
 
 msgctxt "201||clan_card_r_okada||name"
 msgid "Kazuchika Okada (R)"
-msgstr ""
+msgstr "Kazuchika Okada (R)"
 
 msgctxt "202||clan_card_r_naito||name"
 msgid "Tetsuya Naito (R)"
-msgstr ""
+msgstr "Tetsuya Naito (R)"
 
 msgctxt "203||clan_card_r_tanahashi||name"
 msgid "Hiroshi Tanahashi (R)"
-msgstr ""
+msgstr "Hiroshi Tanahashi (R)"
 
 msgctxt "204||clan_card_r_kojima||name"
 msgid "Satoshi Kojima (R)"
-msgstr ""
+msgstr "Satoshi Kojima (R)"
 
 msgctxt "205||clan_card_r_tenzan||name"
 msgid "Hiroyoshi Tenzan (R)"
-msgstr ""
+msgstr "Hiroyoshi Tenzan (R)"
 
 msgctxt "206||clan_card_r_yano||name"
 msgid "Toru Yano (R)"
-msgstr ""
+msgstr "Toru Yano (R)"
 
 msgctxt "207||clan_card_r_gedo||name"
 msgid "Gedo"
-msgstr ""
+msgstr "Gedo"
 
 msgctxt "208||clan_card_r_shibata||name"
 msgid "Katsuyori Shibata"
-msgstr ""
+msgstr "Katsuyori Shibata"
 
 msgctxt "209||clan_card_r_kushida||name"
 msgid "KUSHIDA"
-msgstr ""
+msgstr "KUSHIDA"
 
 msgctxt "210||clan_card_r_ishii||name"
 msgid "Tomohiro Ishii"
-msgstr ""
+msgstr "Tomohiro Ishii"
 
 msgctxt "211||clan_card_r_evil||name"
 msgid "EVIL"
-msgstr ""
+msgstr "EVIL"
 
 msgctxt "212||clan_card_r_bushi||name"
 msgid "BUSHI"
-msgstr ""
+msgstr "BUSHI"
 
 msgctxt "213||clan_card_r_taguchi||name"
 msgid "Ryusuke Taguchi"
-msgstr ""
+msgstr "Ryusuke Taguchi"
 
 msgctxt "214||clan_card_r_nagata||name"
 msgid "Yuji Nagata"
-msgstr ""
+msgstr "Yuji Nagata"
 
 msgctxt "215||clan_card_r_nakanishi||name"
 msgid "Manabu Nakanishi"
-msgstr ""
+msgstr "Manabu Nakanishi"
 
 msgctxt "216||clan_card_r_strong_machine||name"
 msgid "Super Strong Machine"
-msgstr ""
+msgstr "Super Strong Machine"
 
 msgctxt "217||clan_card_r_new_japan||name"
 msgid "Captain New Japan"
-msgstr ""
+msgstr "Capitano New Japan"
 
 msgctxt "218||clan_dlc_sr_majima||name"
 msgid "Goro Majima (SSR)"
-msgstr ""
+msgstr "Goro Majima (SSR)"
 
 msgctxt "219||clan_dlc_sr_saejima||name"
 msgid "Taiga Saejima (SSR)"
-msgstr ""
+msgstr "Taiga Saejima (SSR)"
 
 msgctxt "220||clan_dlc_sr_daigo||name"
 msgid "Daigo Dojima (SSR)"
-msgstr ""
+msgstr "Daigo Dojima (SSR)"
 
 msgctxt "221||clan_dlc_sr_date||name"
 msgid "Makoto Date (SSR)"
-msgstr ""
+msgstr "Makoto Date (SSR)"
 
 msgctxt "222||clan_dlc_sr_akiyama||name"
 msgid "Shun Akiyama (SSR)"
-msgstr ""
+msgstr "Shun Akiyama (SSR)"
 
 msgctxt "223||clan_dlc_sr_kiryu||name"
 msgid "Kazuma Kiryu (SSR)"
-msgstr ""
+msgstr "Kazuma Kiryu (SSR)"
 
 msgctxt "224||clan_enemy_boss_uzinami||name"
 msgid "Elite Ujinami"
-msgstr ""
+msgstr "Ujinami d'élite"
 
 msgctxt "225||clan_enemy_boss_hashimoto||name"
 msgid "Elite Hashimoto"
-msgstr ""
+msgstr "Hashimoto d'élite"
 
 msgctxt "226||clan_enemy_boss_haruyama||name"
 msgid "Elite Nogami"
-msgstr ""
+msgstr "Nogami d'élite"
 
 msgctxt "227||clan_enemy_boss_master||name"
 msgid "Elite Bartender"
-msgstr ""
+msgstr "Barista d'élite"
 
 msgctxt "228||clan_enemy_boss_ono||name"
 msgid "Elite Saigo"
-msgstr ""
+msgstr "Saigo d'élite"
 
 msgctxt "229||clan_enemy_boss_samurai||name"
 msgid "Elite Samurai"
-msgstr ""
+msgstr "Samurai d'élite"
 
 msgctxt "230||clan_enemy_boss_shibata||name"
 msgid "Elite Katsuyori Shibata"
-msgstr ""
+msgstr "Katsuyori Shibata d'élite"
 
 msgctxt "231||clan_enemy_boss_kushida||name"
 msgid "Elite KUSHIDA"
-msgstr ""
+msgstr "KUSHIDA d'élite"
 
 msgctxt "232||clan_enemy_boss_nagata||name"
 msgid "Elite Yuji Nagata"
-msgstr ""
+msgstr "Yuji Nagata d'élite"
 
 msgctxt "234||clan_enemy_boss_taguchi||name"
 msgid "Elite Ryusuke Taguchi"
-msgstr ""
+msgstr "Ryusuke Taguchi d'élite"
 
 msgctxt "235||clan_enemy_boss_nakanishi||name"
 msgid "Elite Manabu Nakanishi"
-msgstr ""
+msgstr "Manabu Nakanishi d'élite"
 
 msgctxt "236||clan_enemy_boss_majima||name"
 msgid "Elite Goro Majima"
-msgstr ""
+msgstr "Goro Majima d'élite"
 
 msgctxt "237||clan_enemy_boss_saejima||name"
 msgid "Elite Taiga Saejima"
-msgstr ""
+msgstr "Taiga Saejima d'élite"
 
 msgctxt "238||clan_enemy_boss_daigo||name"
 msgid "Elite Daigo Dojima"
-msgstr ""
+msgstr "Daigo Dojima d'élite"
 
 msgctxt "239||clan_enemy_boss_date||name"
 msgid "Elite Makoto Date"
-msgstr ""
+msgstr "Makoto Date d'élite"
 
 msgctxt "240||clan_enemy_boss_akiyama||name"
 msgid "Elite Shun Akiyama"
-msgstr ""
+msgstr "Shun Akiyama d'élite"
 
 msgctxt "241||clan_enemy_boss_joe||name"
 msgid "Elite Joe"
-msgstr ""
+msgstr "Joe d'élite"
 
 msgctxt "242||clan_enemy_boss_machine||name"
 msgid "Elite Super Strong Machine"
-msgstr ""
-
+msgstr "Super Strong Machine d'élite"
