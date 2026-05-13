@@ -17,11 +17,11 @@ msgstr "Battaglia"
 
 msgctxt "3||QGameState_Minigame_BattingCenter||name"
 msgid "Minigame : Batting Center"
-msgstr "Minigioco: Batting Center"
+msgstr "Minigioco: Gabbie di battuta"
 
 msgctxt "6||QGameState_Minigame_ClanCreator||name"
 msgid "Minigame : Clan Creator"
-msgstr "Minigioco: Creatore di clan"
+msgstr "Minigioco: Creatore di Clan"
 
 msgctxt "7||QGameState_Minigame_Darts||name"
 msgid "Minigame : Darts"
@@ -113,7 +113,7 @@ msgstr "Minigioco: Puyo Puyo (P2)"
 
 msgctxt "50||QGameState_Minigame_CabaretClub||name"
 msgid "Minigame : Cabaret Club"
-msgstr "Minigioco: Cabaret club"
+msgstr "Minigioco: Cabaret Club"
 
 msgctxt "51||QGameState_Minigame_SandlotBaseball||name"
 msgid "Minigame : Baseball"

@@ -9,769 +9,768 @@ msgstr ""
 
 msgctxt "1||QAction_Move_Forward||name"
 msgid "Move Forward"
-msgstr ""
+msgstr "Spostati in avanti"
 
 msgctxt "2||QAction_Move_Back||name"
 msgid "Move Back"
-msgstr ""
+msgstr "Spostati indietro"
 
 msgctxt "3||QAction_Move_Right||name"
 msgid "Move Right"
-msgstr ""
+msgstr "Spostati a destra"
 
 msgctxt "4||QAction_Move_Left||name"
 msgid "Move Left"
-msgstr ""
+msgstr "Spostati a sinistra"
 
 msgctxt "5||QAction_Turn_Camera_Up||name"
 msgid "Move Camera Up"
-msgstr ""
+msgstr "Muovi visuale in alto"
 
 msgctxt "6||QAction_Turn_Camera_Down||name"
 msgid "Move Camera Down"
-msgstr ""
+msgstr "Muovi visuale in basso"
 
 msgctxt "7||QAction_Turn_Camera_Right||name"
 msgid "Move Camera Right"
-msgstr ""
+msgstr "Muovi visuale a destra"
 
 msgctxt "8||QAction_Turn_Camera_Left||name"
 msgid "Move Camera Left"
-msgstr ""
+msgstr "Muovi visuale a sinistra"
 
 msgctxt "9||QAction_Display_Main_Menu||name"
 msgid "Open Pause Menu"
-msgstr ""
+msgstr "Apri menu di pausa"
 
 msgctxt "10||QAction_Pause_Game||name"
 msgid "Pause Game"
-msgstr ""
+msgstr "Pausa"
 
 msgctxt "11||QAction_Confirm||name"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "13||QAction_Cancel||name"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "15||QAction_Run||name"
 msgid "Sprint"
-msgstr ""
+msgstr "Scatto"
 
 msgctxt "16||QAction_Use_Phone_Camera||name"
 msgid "Take Out Camera"
-msgstr ""
+msgstr "Estrai fotocamera"
 
 msgctxt "17||QAction_Phone_Camera_Zoom_In||name"
 msgid "Phone Camera Zoom In"
-msgstr ""
+msgstr "Ingrandisci zoom fotocamera"
 
 msgctxt "18||QAction_Phone_Camera_Zoom_Out||name"
 msgid "Phone Camera Zoom Out"
-msgstr ""
+msgstr "Riduci zoom fotocamera"
 
 msgctxt "19||QAction_View_Map||name"
 msgid "View Map"
-msgstr ""
+msgstr "Visualizza mappa"
 
 msgctxt "20||QAction_View_Controls||name"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza comandi"
 
 msgctxt "21||QAction_First_Person_View||name"
 msgid "First Person View"
-msgstr ""
+msgstr "Visuale in prima persona"
 
 msgctxt "22||QAction_Menu_Sort_Items||name"
 msgid "Menu Sort Items"
-msgstr ""
+msgstr "Ordina oggetti menu"
 
 msgctxt "23||QAction_Menu_Discard_Item||name"
 msgid "Menu Discard Item"
-msgstr ""
+msgstr "Scarta oggetto menu"
 
 msgctxt "24||QAction_Battle_Normal_Attack||name"
 msgid "Weak Attack"
-msgstr ""
+msgstr "Attacco leggero"
 
 msgctxt "25||QAction_Battle_Heavy_Attack||name"
 msgid "Strong Attack / Heat Action"
-msgstr ""
+msgstr "Attacco potente / Azione Furore"
 
 msgctxt "27||QAction_Battle_Drop_Weapon||name"
 msgid "Drop Weapon"
-msgstr ""
+msgstr "Lascia arma"
 
 msgctxt "28||QAction_Battle_Guard||name"
 msgid "Guard / Change Grab Type"
-msgstr ""
+msgstr "Guardia / Cambia tipo di presa"
 
 msgctxt "33||QAction_Battle_Fight_Stance||name"
 msgid "Fighting Stance"
-msgstr ""
+msgstr "Posa da combattimento"
 
 msgctxt "34||QAction_Battle_Extreme_Heat||name"
 msgid "Extreme Heat Mode"
-msgstr ""
+msgstr "Modalità Furore Estremo"
 
 msgctxt "35||QAction_Battle_Center_Camera||name"
 msgid "Reset Camera / Disable Heat Actions"
-msgstr ""
+msgstr "Ripristina visuale / Disabilita Azioni Furore"
 
 msgctxt "36||QAction_Battle_Dodge||name"
 msgid "Quickstep / Dodge"
-msgstr ""
+msgstr "Passo rapido / Schivata"
 
 msgctxt "37||QAction_Up||name"
 msgid "Up"
-msgstr ""
+msgstr "Su"
 
 msgctxt "38||QAction_Down||name"
 msgid "Down"
-msgstr ""
+msgstr "Giù"
 
 msgctxt "39||QAction_Left||name"
 msgid "Left"
-msgstr ""
+msgstr "Sinistra"
 
 msgctxt "40||QAction_Right||name"
 msgid "Right"
-msgstr ""
+msgstr "Destra"
 
 msgctxt "41||QAction_Up_Alt||name"
 msgid "Up (alternative)"
-msgstr ""
+msgstr "Su (alternativo)"
 
 msgctxt "42||QAction_Down_Alt||name"
 msgid "Down (alternative)"
-msgstr ""
+msgstr "Giù (alternativo)"
 
 msgctxt "43||QAction_Left_Alt||name"
 msgid "Left (alternative)"
-msgstr ""
+msgstr "Sinistra (alternativo)"
 
 msgctxt "44||QAction_Right_Alt||name"
 msgid "Right (alternative)"
-msgstr ""
+msgstr "Destra (alternativo)"
 
 msgctxt "45||QAction_Return||name"
 msgid "Return"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "46||QAction_Switch_Page_Right||name"
 msgid "Switch Page Right"
-msgstr ""
+msgstr "Cambia pagina a destra"
 
 msgctxt "47||QAction_Switch_Page_Left||name"
 msgid "Switch Page Left"
-msgstr ""
+msgstr "Cambia pagina a sinistra"
 
 msgctxt "48||QAction_Throw||name"
 msgid "Throw"
-msgstr ""
+msgstr "Lancia"
 
 msgctxt "49||QAction_Use_Item||name"
 msgid "Use Item"
-msgstr ""
+msgstr "Usa oggetto"
 
 msgctxt "50||QAction_View_Hands||name"
 msgid "View Hands"
-msgstr ""
+msgstr "Visualizza mani"
 
 msgctxt "52||QAction_Super_Take_Back||name"
 msgid "Super Take Back"
-msgstr ""
+msgstr "Super annullamento"
 
 msgctxt "53||QAction_View_Details||name"
 msgid "View Details"
-msgstr ""
+msgstr "Visualizza dettagli"
 
 msgctxt "55||QAction_Check_Discard||name"
 msgid "Check Discard"
-msgstr ""
+msgstr "Controlla scarti"
 
 msgctxt "56||QAction_View_Tutorial||name"
 msgid "View Tutorial"
-msgstr ""
+msgstr "Visualizza tutorial"
 
 msgctxt "57||QAction_Swing_Bat||name"
 msgid "Swing Bat"
-msgstr ""
+msgstr "Oscilla mazza"
 
 msgctxt "68||QAction_Rules||name"
 msgid "Rules"
-msgstr ""
+msgstr "Regole"
 
 msgctxt "114||QAction_Move_Coursor_Up||name"
 msgid "Move Cursor Up"
-msgstr ""
+msgstr "Muovi cursore su"
 
 msgctxt "115||QAction_Move_Coursor_Down||name"
 msgid "Move Cursor Down"
-msgstr ""
+msgstr "Muovi cursore giù"
 
 msgctxt "116||QAction_Move_Coursor_Left||name"
 msgid "Move Cursor Left"
-msgstr ""
+msgstr "Muovi cursore a sinistra"
 
 msgctxt "117||QAction_Move_Coursor_Right||name"
 msgid "Move Cursor Right"
-msgstr ""
+msgstr "Muovi cursore a destra"
 
 msgctxt "131||QAction_Select_Unit_Right||name"
 msgid "Select Unit Right"
-msgstr ""
+msgstr "Seleziona unità a destra"
 
 msgctxt "132||QAction_Select_Unit_Left||name"
 msgid "Select Unit Left"
-msgstr ""
+msgstr "Seleziona unità a sinistra"
 
 msgctxt "133||QAction_Increase_Cursor_Speed||name"
 msgid "Increase Cursor Speed"
-msgstr ""
+msgstr "Aumenta velocità cursore"
 
 msgctxt "134||QAction_Zoom_Special_Skill_Display||name"
 msgid "Zoom Special Skill Display"
-msgstr ""
+msgstr "Zoom indicatore abilità speciale"
 
 msgctxt "135||QAction_Action||name"
 msgid "Action"
-msgstr ""
+msgstr "Azione"
 
 msgctxt "136||QAction_Phone_Camera_Apply_Filter||name"
 msgid "Apply Filter"
-msgstr ""
+msgstr "Applica filtro"
 
 msgctxt "137||QAction_Phone_Camera_View_Gallery||name"
 msgid "View Gallery"
-msgstr ""
+msgstr "Visualizza galleria"
 
 msgctxt "138||QAction_Phone_Camera_Take_Shot||name"
 msgid "Take Picture"
-msgstr ""
+msgstr "Scatta foto"
 
 msgctxt "139||QAction_Phone_Camera_End||name"
 msgid "End"
-msgstr ""
+msgstr "Termina"
 
 msgctxt "140||QAction_Phone_Camera_Switch_Camera||name"
 msgid "Change Camera"
-msgstr ""
+msgstr "Cambia fotocamera"
 
 msgctxt "141||QAction_Phone_Camera_Change_Expression_1||name"
 msgid "Change Expression 1"
-msgstr ""
+msgstr "Cambia espressione 1"
 
 msgctxt "142||QAction_Phone_Camera_Change_Expression_2||name"
 msgid "Change Expression 2"
-msgstr ""
+msgstr "Cambia espressione 2"
 
 msgctxt "143||QAction_Phone_Camera_Change_Expression_3||name"
 msgid "Change Expression 3"
-msgstr ""
+msgstr "Cambia espressione 3"
 
 msgctxt "144||QAction_Phone_Camera_Change_Expression_4||name"
 msgid "Change Expression 4"
-msgstr ""
+msgstr "Cambia espressione 4"
 
 msgctxt "145||QAction_Rotate_Right||name"
 msgid "Rotate Right"
-msgstr ""
+msgstr "Ruota a destra"
 
 msgctxt "146||QAction_Rotate_Left||name"
 msgid "Rotate Left"
-msgstr ""
+msgstr "Ruota a sinistra"
 
 msgctxt "147||QAction_Reset_Camera||name"
 msgid "Reset Camera"
-msgstr ""
+msgstr "Ripristina visuale"
 
 msgctxt "148||QAction_None||name"
 msgid "None"
-msgstr ""
+msgstr "Nessuno"
 
 msgctxt "149||QAction_Count||name"
 msgid "Count"
-msgstr ""
+msgstr "Conteggio"
 
 msgctxt "153||QAction_Read_Email||name"
 msgid "Read Email"
-msgstr ""
+msgstr "Leggi email"
 
 msgctxt "157||QAction_Deploy_Unit_Move_Leader||name"
 msgid "Deploy Unit / Move Leader"
-msgstr ""
+msgstr "Schiera unità / Muovi leader"
 
 msgctxt "158||QAction_Snap_To_Selected_Leader||name"
 msgid "Snap to Selected Leader"
-msgstr ""
+msgstr "Vai al leader selezionato"
 
 msgctxt "173||QAction_Skill_Activation||name"
 msgid "Skill Activation"
-msgstr ""
+msgstr "Attivazione abilità"
 
 msgctxt "178||QAction_Check_Inbox||name"
 msgid "Check Inbox"
-msgstr ""
+msgstr "Controlla posta"
 
 msgctxt "179||QAction_Open_Troublr||name"
 msgid "Open Troublr"
-msgstr ""
+msgstr "Apri Troublr"
 
 msgctxt "180||QAction_Drop_Item||name"
 msgid "Drop Item"
-msgstr ""
+msgstr "Lascia oggetto"
 
 msgctxt "181||QAction_Battle_Grab||name"
 msgid "Grab / Throw"
-msgstr ""
+msgstr "Afferra / Lancia"
 
 msgctxt "182||QAction_Shoot_Select_Parts||name"
 msgid "Shoot / Select Parts"
-msgstr ""
+msgstr "Spara / Seleziona parti"
 
 msgctxt "183||QAction_Bomb_Select_Parts||name"
 msgid "Bomb / Select Parts"
-msgstr ""
+msgstr "Bomba / Seleziona parti"
 
 msgctxt "184||QAction_Rapid_Fire||name"
 msgid "Rapid Fire"
-msgstr ""
+msgstr "Fuoco rapido"
 
 msgctxt "185||QAction_Rapid_Bombs||name"
 msgid "Rapid Bombs"
-msgstr ""
+msgstr "Bombe rapide"
 
 msgctxt "186||QAction_Add_Credit||name"
 msgid "Add Credit"
-msgstr ""
+msgstr "Aggiungi credito"
 
 msgctxt "187||QAction_Toggle_Screen_Options||name"
 msgid "Toggle Screen Options"
-msgstr ""
+msgstr "Mostra/Nascondi opzioni schermo"
 
 msgctxt "188||QAction_Pause_Quit||name"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "189||QAction_Start_Game_View_Controls||name"
 msgid "Start the Game / View Controls"
-msgstr ""
+msgstr "Avvia il gioco / Visualizza comandi"
 
 msgctxt "190||QAction_Accelerate_Confirm||name"
 msgid "Accelerate / Confirm"
-msgstr ""
+msgstr "Accelera / Conferma"
 
 msgctxt "191||QAction_Brake||name"
 msgid "Brake"
-msgstr ""
+msgstr "Frena"
 
 msgctxt "192||QAction_Change_Gears||name"
 msgid "Change Gears"
-msgstr ""
+msgstr "Cambia marcia"
 
 msgctxt "193||QAction_Accelerate_Confirm_Alt||name"
 msgid "Accelerate / Confirm (alternative)"
-msgstr ""
+msgstr "Accelera / Conferma (alternativo)"
 
 msgctxt "194||QAction_Brake_Alt||name"
 msgid "Brake (alternative)"
-msgstr ""
+msgstr "Frena (alternativo)"
 
 msgctxt "195||QAction_Change_Gears_Alt||name"
 msgid "Change Gears (alternative)"
-msgstr ""
+msgstr "Cambia marcia (alternativo)"
 
 msgctxt "196||QAction_Shoot_Confirm||name"
 msgid "Shoot / Confirm"
-msgstr ""
+msgstr "Spara / Conferma"
 
 msgctxt "197||QAction_Invert_Controls||name"
 msgid "Invert Controls"
-msgstr ""
+msgstr "Inverti comandi"
 
 msgctxt "199||QAction_Shoot_Confirm_Alt||name"
 msgid "Shoot / Confirm (alternative)"
-msgstr ""
+msgstr "Spara / Conferma (alternativo)"
 
 msgctxt "200||QAction_Rapid_Fire_Alt||name"
 msgid "Rapid Fire (alternative)"
-msgstr ""
+msgstr "Fuoco rapido (alternativo)"
 
 msgctxt "201||QAction_Add_Credit_Controls||name"
 msgid "Add Credit"
-msgstr ""
+msgstr "Aggiungi credito"
 
 msgctxt "202||QAction_Turbo||name"
 msgid "Turbo"
-msgstr ""
+msgstr "Turbo"
 
 msgctxt "203||QAction_Turbo_Alt||name"
 msgid "Turbo (alternative)"
-msgstr ""
+msgstr "Turbo (alternativo)"
 
 msgctxt "204||QAction_Down_Fast_Drop||name"
 msgid "Fast Drop"
-msgstr ""
+msgstr "Caduta rapida"
 
 msgctxt "205||QAction_Down_Fast_Drop_Alt||name"
 msgid "Fast Drop (alternative)"
-msgstr ""
+msgstr "Caduta rapida (alternativo)"
 
 msgctxt "206||QAction_Rotate_Left_Confirm||name"
 msgid "Rotate Left / Confirm"
-msgstr ""
+msgstr "Ruota a sinistra / Conferma"
 
 msgctxt "207||QAction_Rotate_Right_Cancel||name"
 msgid "Rotate Right / Cancel"
-msgstr ""
+msgstr "Ruota a destra / Annulla"
 
 msgctxt "208||QAction_P||name"
 msgid "<symbol=vf5_key_p>"
-msgstr ""
+msgstr "<symbol=vf5_key_p>"
 
 msgctxt "209||QAction_K_Confirm||name"
 msgid "<symbol=vf5_key_k> / Confirm"
-msgstr ""
+msgstr "<symbol=vf5_key_k> / Conferma"
 
 msgctxt "210||QAction_G||name"
 msgid "<symbol=vf5_key_g>"
-msgstr ""
+msgstr "<symbol=vf5_key_g>"
 
 msgctxt "211||QAction_P_G||name"
 msgid "<symbol=vf5_key_p> + <symbol=vf5_key_g>"
-msgstr ""
+msgstr "<symbol=vf5_key_p> + <symbol=vf5_key_g>"
 
 msgctxt "212||QAction_P_K_G||name"
 msgid "<symbol=vf5_key_p> + <symbol=vf5_key_k> + <symbol=vf5_key_g>"
-msgstr ""
+msgstr "<symbol=vf5_key_p> + <symbol=vf5_key_k> + <symbol=vf5_key_g>"
 
 msgctxt "213||QAction_P_K||name"
 msgid "<symbol=vf5_key_p> + <symbol=vf5_key_k>"
-msgstr ""
+msgstr "<symbol=vf5_key_p> + <symbol=vf5_key_k>"
 
 msgctxt "214||QAction_K_G||name"
 msgid "<symbol=vf5_key_k> + <symbol=vf5_key_g>"
-msgstr ""
+msgstr "<symbol=vf5_key_k> + <symbol=vf5_key_g>"
 
 msgctxt "215||QAction_Start_Game_Select_Subcostume_Skip||name"
 msgid "Start Game, Select Subcostume, Skip"
-msgstr ""
+msgstr "Inizia gioco, Seleziona abito alternativo, Salta"
 
 msgctxt "216||QAction_Move_Swing_Cursor_Up||name"
 msgid "Move Swing Cursor Up"
-msgstr ""
+msgstr "Muovi cursore battuta su"
 
 msgctxt "217||QAction_Move_Swing_Cursor_Down||name"
 msgid "Move Swing Cursor Down"
-msgstr ""
+msgstr "Muovi cursore battuta giù"
 
 msgctxt "218||QAction_Move_Swing_Cursor_Right||name"
 msgid "Move Swing Cursor Right"
-msgstr ""
+msgstr "Muovi cursore battuta a destra"
 
 msgctxt "219||QAction_Move_Swing_Cursor_Left||name"
 msgid "Move Swing Cursor Left"
-msgstr ""
+msgstr "Muovi cursore battuta a sinistra"
 
 msgctxt "220||QAction_Select_Action_Up||name"
 msgid "Select Action Up"
-msgstr ""
+msgstr "Seleziona azione su"
 
 msgctxt "221||QAction_Select_Action_Down||name"
 msgid "Select Action Down"
-msgstr ""
+msgstr "Seleziona azione giù"
 
 msgctxt "222||QAction_Select_Card_Right||name"
 msgid "Select a Card Right"
-msgstr ""
+msgstr "Seleziona carta a destra"
 
 msgctxt "223||QAction_Select_Card_Left||name"
 msgid "Select a Card Left"
-msgstr ""
+msgstr "Seleziona carta a sinistra"
 
 msgctxt "224||QAction_Select_Action_Up_Alt||name"
 msgid "Select Action Up (alternative)"
-msgstr ""
+msgstr "Seleziona azione su (alternativo)"
 
 msgctxt "225||QAction_Select_Action_Down_Alt||name"
 msgid "Select Action Down (alternative)"
-msgstr ""
+msgstr "Seleziona azione giù (alternativo)"
 
 msgctxt "226||QAction_Select_Card_Right_Alt||name"
 msgid "Select a Card Right (alternative)"
-msgstr ""
+msgstr "Seleziona carta a destra (alternativo)"
 
 msgctxt "227||QAction_Select_Card_Left_Alt||name"
 msgid "Select a Card Left (alternative)"
-msgstr ""
+msgstr "Seleziona carta a sinistra (alternativo)"
 
 msgctxt "228||QAction_Exchange_Cards||name"
 msgid "Exchange Cards"
-msgstr ""
+msgstr "Scambia carte"
 
 msgctxt "229||QAction_Check_Profile||name"
 msgid "Check Profile"
-msgstr ""
+msgstr "Controlla profilo"
 
 msgctxt "230||QAction_Turn_Camera_Up_Opponents_Turn||name"
 msgid "Move Camera Up (On Opponent's Turn)"
-msgstr ""
+msgstr "Muovi visuale su (Turno dell'avversario)"
 
 msgctxt "231||QAction_Turn_Camera_Down_Opponents_Turn||name"
 msgid "Move Camera Down (On Opponent's Turn)"
-msgstr ""
+msgstr "Muovi visuale giù (Turno dell'avversario)"
 
 msgctxt "232||QAction_Turn_Camera_Right_Opponents_Turn||name"
 msgid "Move Camera Right (On Opponent's Turn)"
-msgstr ""
+msgstr "Muovi visuale a destra (Turno dell'avversario)"
 
 msgctxt "233||QAction_Turn_Camera_Left_Opponents_Turn||name"
 msgid "Move Camera Left (On Opponent's Turn)"
-msgstr ""
+msgstr "Muovi visuale a sinistra (Turno dell'avversario)"
 
 msgctxt "235||QAction_Raise_Barbell_Left||name"
 msgid "Press Rapidly to Raise Barbell Left"
-msgstr ""
+msgstr "Premi ripetutamente per sollevare il bilanciere a sinistra"
 
 msgctxt "236||QAction_Raise_Barbell_Right||name"
 msgid "Press Rapidly to Raise Barbell Right"
-msgstr ""
+msgstr "Premi ripetutamente per sollevare il bilanciere a destra"
 
 msgctxt "237||QAction_Mash_Lift||name"
 msgid "Mash to Lift"
-msgstr ""
+msgstr "Premi ripetutamente per sollevare"
 
 msgctxt "238||QAction_Jump_Squat_1||name"
 msgid "Jump Squat - 1"
-msgstr ""
+msgstr "Jump Squat - 1"
 
 msgctxt "239||QAction_Jump_Squat_2||name"
 msgid "Jump Squat - 2"
-msgstr ""
+msgstr "Jump Squat - 2"
 
 msgctxt "240||QAction_Jump_Squat_3||name"
 msgid "Jump Squat - 3"
-msgstr ""
+msgstr "Jump Squat - 3"
 
 msgctxt "241||QAction_Jump_Squat_4||name"
 msgid "Jump Squat - 4"
-msgstr ""
+msgstr "Jump Squat - 4"
 
 msgctxt "242||QAction_Raise_Lower_Bar_Left||name"
 msgid "Raise and Lower Bar Left"
-msgstr ""
+msgstr "Solleva e abbassa barra a sinistra"
 
 msgctxt "243||QAction_Raise_Lower_Bar_Right||name"
 msgid "Raise and Lower Bar Right"
-msgstr ""
+msgstr "Solleva e abbassa barra a destra"
 
 msgctxt "244||QAction_Gauge_Control||name"
 msgid "Hold to Increase Gauge; Release to Stop Gauge"
-msgstr ""
+msgstr "Tieni premuto per aumentare indicatore; Rilascia per fermarlo"
 
 msgctxt "245||QAction_Squat||name"
 msgid "Squat"
-msgstr ""
+msgstr "Squat"
 
 msgctxt "246||QAction_Sing_1||name"
 msgid "Press / Rapid Press / Hold to Sing - 1"
-msgstr ""
+msgstr "Premi / Premi ripetutamente / Tieni premuto per cantare - 1"
 
 msgctxt "247||QAction_Sing_2||name"
 msgid "Press / Rapid Press / Hold to Sing - 2"
-msgstr ""
+msgstr "Premi / Premi ripetutamente / Tieni premuto per cantare - 2"
 
 msgctxt "248||QAction_Sing_3||name"
 msgid "Press / Rapid Press / Hold to Sing - 3"
-msgstr ""
+msgstr "Premi / Premi ripetutamente / Tieni premuto per cantare - 3"
 
 msgctxt "249||QAction_Sing_4||name"
 msgid "Press / Rapid Press / Hold to Sing - 4"
-msgstr ""
+msgstr "Premi / Premi ripetutamente / Tieni premuto per cantare - 4"
 
 msgctxt "250||QAction_Enter_Message_1||name"
 msgid "Enter Message - 1"
-msgstr ""
+msgstr "Inserisci messaggio - 1"
 
 msgctxt "251||QAction_Enter_Message_2||name"
 msgid "Enter Message - 2"
-msgstr ""
+msgstr "Inserisci messaggio - 2"
 
 msgctxt "252||QAction_Enter_Message_3||name"
 msgid "Enter Message - 3"
-msgstr ""
+msgstr "Inserisci messaggio - 3"
 
 msgctxt "253||QAction_Enter_Message_4||name"
 msgid "Enter Message - 4"
-msgstr ""
+msgstr "Inserisci messaggio - 4"
 
 msgctxt "254||QAction_Select_Tile_Right||name"
 msgid "Select Tile Right"
-msgstr ""
+msgstr "Seleziona tegola a destra"
 
 msgctxt "255||QAction_Select_Tile_Left||name"
 msgid "Select Tile Left"
-msgstr ""
+msgstr "Seleziona tegola a sinistra"
 
 msgctxt "256||QAction_Select_Tile_Right_Alt||name"
 msgid "Select Tile Right (alternative)"
-msgstr ""
+msgstr "Seleziona tegola a destra (alternativo)"
 
 msgctxt "257||QAction_Select_Tile_Left_Alt||name"
 msgid "Select Tile Left (alternative)"
-msgstr ""
+msgstr "Seleziona tegola a sinistra (alternativo)"
 
 msgctxt "258||QAction_Toggle_Command_Display||name"
 msgid "Toggle Command Display"
-msgstr ""
+msgstr "Mostra/Nascondi comandi"
 
 msgctxt "259||QAction_Substitute||name"
 msgid "Substitute"
-msgstr ""
+msgstr "Sostituisci"
 
 msgctxt "260||QAction_Change_Game_Speed||name"
 msgid "Change Game Speed"
-msgstr ""
+msgstr "Cambia velocità di gioco"
 
 msgctxt "261||QAction_Swing||name"
 msgid "Swing"
-msgstr ""
+msgstr "Colpisci"
 
 msgctxt "262||QAction_Lift||name"
 msgid "Lift"
-msgstr ""
+msgstr "Solleva"
 
 msgctxt "263||QAction_Upsy_Daisy||name"
 msgid "Upsy-Daisy"
-msgstr ""
+msgstr "Oplà"
 
 msgctxt "264||QAction_Rub_Show_Cursor||name"
 msgid "Rub (show cursor)"
-msgstr ""
+msgstr "Accarezza (mostra cursore)"
 
 msgctxt "265||QAction_Rub_Move_Cursor||name"
 msgid "Rub (move cursor)"
-msgstr ""
+msgstr "Accarezza (muovi cursore)"
 
 msgctxt "266||QAction_Select_Unit_Left_Alt||name"
 msgid "Select Unit Left (alternative)"
-msgstr ""
+msgstr "Seleziona unità a sinistra (alternativo)"
 
 msgctxt "267||QAction_Select_Unit_Right_Alt||name"
 msgid "Select Unit Right (alternative)"
-msgstr ""
+msgstr "Seleziona unità a destra (alternativo)"
 
 msgctxt "268||QAction_Select_Response_1||name"
 msgid "Select Response - 1"
-msgstr ""
+msgstr "Seleziona risposta - 1"
 
 msgctxt "269||QAction_Select_Response_2||name"
 msgid "Select Response - 2"
-msgstr ""
+msgstr "Seleziona risposta - 2"
 
 msgctxt "270||QAction_Select_Response_3||name"
 msgid "Select Response - 3"
-msgstr ""
+msgstr "Seleziona risposta - 3"
 
 msgctxt "271||QAction_Select_Response_4||name"
 msgid "Select Response - 4"
-msgstr ""
+msgstr "Seleziona risposta - 4"
 
 msgctxt "272||QAction_Throw_Money||name"
 msgid "Throw Money"
-msgstr ""
+msgstr "Lancia soldi"
 
 msgctxt "273||QAction_Stop_Left_Reel||name"
 msgid "Stop Left Reel"
-msgstr ""
+msgstr "Ferma rullo sinistro"
 
 msgctxt "274||QAction_Stop_Right_Reel||name"
 msgid "Stop Right Reel"
-msgstr ""
+msgstr "Ferma rullo destro"
 
 msgctxt "275||QAction_Throw_Money_Trigger||name"
 msgid "Throw Money Trigger"
-msgstr ""
+msgstr "Grilletto lancia soldi"
 
 msgctxt "276||QAction_Shoot||name"
 msgid "Shoot"
-msgstr ""
+msgstr "Spara"
 
 msgctxt "277||QAction_Shoot_Alt||name"
 msgid "Shoot (alternative)"
-msgstr ""
+msgstr "Spara (alternativo)"
 
 msgctxt "278||QAction_Reload||name"
 msgid "Reload"
-msgstr ""
+msgstr "Ricarica"
 
 msgctxt "279||QAction_Reload_Alt||name"
 msgid "Reload (alternative)"
-msgstr ""
+msgstr "Ricarica (alternativo)"
 
 msgctxt "280||QAction_Left_Puyo||name"
 msgid "Move Left"
-msgstr ""
+msgstr "Muovi a sinistra"
 
 msgctxt "281||QAction_Right_Puyo||name"
 msgid "Move Right"
-msgstr ""
+msgstr "Muovi a destra"
 
 msgctxt "282||QAction_Left_Alt_Puyo||name"
 msgid "Move Left (alternative)"
-msgstr ""
+msgstr "Muovi a sinistra (alternativo)"
 
 msgctxt "283||QAction_Right_Alt_Puyo||name"
 msgid "Move Right (alternative)"
-msgstr ""
+msgstr "Muovi a destra (alternativo)"
 
 msgctxt "284||QAction_Left_Outrun||name"
 msgid "Turn Left"
-msgstr ""
+msgstr "Gira a sinistra"
 
 msgctxt "285||QAction_Right_Outrun||name"
 msgid "Turn Right"
-msgstr ""
+msgstr "Gira a destra"
 
 msgctxt "286||QAction_Left_Alt_Outrun||name"
 msgid "Turn Left (alternative)"
-msgstr ""
+msgstr "Gira a sinistra (alternativo)"
 
 msgctxt "287||QAction_Right_Alt_Outrun||name"
 msgid "Turn Right (alternative)"
-msgstr ""
+msgstr "Gira a destra (alternativo)"
 
 msgctxt "288||QAction_Up_Space_Harrier||name"
 msgid "Move Up"
-msgstr ""
+msgstr "Muoviti in alto"
 
 msgctxt "289||QAction_Down_Space_Harrier||name"
 msgid "Move Down"
-msgstr ""
+msgstr "Muoviti in basso"
 
 msgctxt "290||QAction_Left_Space_Harrier||name"
 msgid "Move Left"
-msgstr ""
+msgstr "Muoviti a sinistra"
 
 msgctxt "291||QAction_Right_Space_Harrier||name"
 msgid "Move Right"
-msgstr ""
+msgstr "Muoviti a destra"
 
 msgctxt "292||QAction_Up_Alt_Space_Harrier||name"
 msgid "Move Up (alternative)"
-msgstr ""
+msgstr "Muoviti in alto (alternativo)"
 
 msgctxt "293||QAction_Down_Alt_Space_Harrier||name"
 msgid "Move Down (alternative)"
-msgstr ""
+msgstr "Muoviti in basso (alternativo)"
 
 msgctxt "294||QAction_Left_Alt_Space_Harrier||name"
 msgid "Move Left (alternative)"
-msgstr ""
+msgstr "Muoviti a sinistra (alternativo)"
 
 msgctxt "295||QAction_Right_Alt_Space_Harrier||name"
 msgid "Move Right (alternative)"
-msgstr ""
-
+msgstr "Muoviti a destra (alternativo)"

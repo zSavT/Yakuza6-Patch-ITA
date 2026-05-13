@@ -9,121 +9,120 @@ msgstr ""
 
 msgctxt "1||k_alps||name"
 msgid "An Elegant Time at Alps"
-msgstr ""
+msgstr "Un momento elegante all'Alps"
 
 msgctxt "2||k_smileburgar0||name"
 msgid "The Standard Smile Set"
-msgstr ""
+msgstr "Menu Smile standard"
 
 msgctxt "3||k_smileburgar1||name"
 msgid "Healthy Smile"
-msgstr ""
+msgstr "Smile salutare"
 
 msgctxt "4||k_sushigin||name"
 msgid "The Ultimate Sushi Gin"
-msgstr ""
+msgstr "Il Sushi Gin definitivo"
 
 msgctxt "5||k_akaushi||name"
 msgid "Blissfully Drinking Alone"
-msgstr ""
+msgstr "La gioia di bere da soli"
 
 msgctxt "6||k_bantam||name"
 msgid "Depth of 30 Years"
-msgstr ""
+msgstr "La profondità di 30 anni"
 
 msgctxt "8||k_gindaco||name"
 msgid "This is Gindaco Highball!"
-msgstr ""
+msgstr "Questo è il Gindaco Highball!"
 
 msgctxt "10||k_ichibanboshi||name"
 msgid "The Holy Trinity"
-msgstr ""
+msgstr "La santa trinità"
 
 msgctxt "12||k_M_SIDE_CAFE||name"
 msgid "Bread Over Rice"
-msgstr ""
+msgstr "Meglio il pane del riso"
 
 msgctxt "14||k_quadra||name"
 msgid "Full of Cake"
-msgstr ""
+msgstr "Scorpacciata di torte"
 
 msgctxt "15||k_ringerhut||name"
 msgid "Veggie Lover"
-msgstr ""
+msgstr "Amante delle verdure"
 
 msgctxt "16||k_sushizanmai||name"
 msgid "Tunalicious"
-msgstr ""
+msgstr "Delizia di tonno"
 
 msgctxt "17||k_wettekitchen||name"
 msgid "Delicious Side Dishes"
-msgstr ""
+msgstr "Contorni deliziosi"
 
 msgctxt "18||k_wildjackson||name"
 msgid "Wild Combo"
-msgstr ""
+msgstr "Combo Wild"
 
 msgctxt "20||o_juumangoku||name"
 msgid "A Cut Above"
-msgstr ""
+msgstr "Una spanna sopra"
 
 msgctxt "21||o_kakikoya||name"
 msgid "Testing Your Luck"
-msgstr ""
+msgstr "Metti alla prova la fortuna"
 
 msgctxt "23||o_yonetoku||name"
 msgid "The Yonetoku Standard!"
-msgstr ""
+msgstr "Lo standard dello Yonetoku!"
 
 msgctxt "24||mg_snack||name"
 msgid "Quick & Easy"
-msgstr ""
+msgstr "Semplice e veloce"
 
 msgctxt "25||k_fujisoba0||name"
 msgid "Harmony of Rice and Noodles"
-msgstr ""
+msgstr "Armonia di riso e noodle"
 
 msgctxt "26||k_fujisoba1||name"
 msgid "Rice Lover"
-msgstr ""
+msgstr "Amante del riso"
 
 msgctxt "27||k_hanrai0||name"
 msgid "A Yakiniku Staple"
-msgstr ""
+msgstr "Un classico dello yakiniku"
 
 msgctxt "28||k_hanrai1||name"
 msgid "Nothing Grilled at Yakiniku!?"
-msgstr ""
+msgstr "Niente griglia allo yakiniku!?"
 
 msgctxt "29||k_ikinari_steak0||name"
 msgid "A Solid Lineup"
-msgstr ""
+msgstr "Una selezione solida"
 
 msgctxt "30||k_ikinari_steak1||name"
 msgid "Eating Wild"
-msgstr ""
+msgstr "Pasto selvaggio"
 
 msgctxt "31||k_osaka_ohsho0||name"
 msgid "Spicy Combination"
-msgstr ""
+msgstr "Combinazione piccante"
 
 msgctxt "32||k_osaka_ohsho1||name"
 msgid "Griddle Trio"
-msgstr ""
+msgstr "Trio alla piastra"
 
 msgctxt "33||k_yoronotaki0||name"
 msgid "I'll Have This to Start!"
-msgstr ""
+msgstr "Per iniziare prendo questo!"
 
 msgctxt "34||k_yoronotaki1||name"
 msgid "I've Gotta Order That!"
-msgstr ""
+msgstr "Devo assolutamente ordinarlo!"
 
 msgctxt "35||o_La_Pente0||name"
 msgid "Aspiring Sommelier!?"
-msgstr ""
+msgstr "Aspirante sommelier!?"
 
 msgctxt "36||o_La_Pente1||name"
 msgid "Original Course Menu"
-msgstr ""
-
+msgstr "Menu originale"

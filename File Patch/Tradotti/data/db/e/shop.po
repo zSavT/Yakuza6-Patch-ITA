@@ -9,193 +9,192 @@ msgstr ""
 
 msgctxt "1||k_smileburgar||name"
 msgid "Smile Burger (Nakamichi Street)"
-msgstr ""
+msgstr "Smile Burger (Nakamichi Street)"
 
 msgctxt "2||k_akaushi_t||name"
 msgid "Akaushimaru (Tenkaichi Street)"
-msgstr ""
+msgstr "Akaushimaru (Tenkaichi Street)"
 
 msgctxt "3||k_akaushi_h||name"
 msgid "Akaushimaru (Hotel District)"
-msgstr ""
+msgstr "Akaushimaru (Distretto degli hotel)"
 
 msgctxt "4||k_hanrai||name"
 msgid "Kanrai"
-msgstr ""
+msgstr "Kanrai"
 
 msgctxt "6||k_ikinari_steak||name"
 msgid "Ikinari Steak"
-msgstr ""
+msgstr "Ikinari Steak"
 
 msgctxt "7||k_alps||name"
 msgid "Café Alps"
-msgstr ""
+msgstr "Café Alps"
 
 msgctxt "8||k_ichibanboshi||name"
 msgid "Kyushu No. 1 Star"
-msgstr ""
+msgstr "Kyushu No. 1 Star"
 
 msgctxt "10||k_wildjackson_t||name"
 msgid "Wild Jackson (Tenkaichi Street)"
-msgstr ""
+msgstr "Wild Jackson (Tenkaichi Street)"
 
 msgctxt "11||k_wildjackson_me||name"
 msgid "Wild Jackson (E Millennium Tower Street)"
-msgstr ""
+msgstr "Wild Jackson (Millennium Tower Street est)"
 
 msgctxt "12||k_wettekitchen_tw||name"
 msgid "Wette Kitchen (W Taihei Boulevard)"
-msgstr ""
+msgstr "Wette Kitchen (Taihei Boulevard ovest)"
 
 msgctxt "15||k_ringerhut||name"
 msgid "Ringer Hut"
-msgstr ""
+msgstr "Ringer Hut"
 
 msgctxt "16||k_osaka_ohsho||name"
 msgid "Osaka King"
-msgstr ""
+msgstr "Osaka King"
 
 msgctxt "17||k_gindaco||name"
 msgid "Gindaco Highball Tavern"
-msgstr ""
+msgstr "Gindaco Highball Tavern"
 
 msgctxt "18||k_fujisoba||name"
 msgid "Fuji Soba"
-msgstr ""
+msgstr "Fuji Soba"
 
 msgctxt "19||k_sushigin||name"
 msgid "Sushi Gin"
-msgstr ""
+msgstr "Sushi Gin"
 
 msgctxt "20||k_yoronotaki||name"
 msgid "Yoronotaki"
-msgstr ""
+msgstr "Yoronotaki"
 
 msgctxt "21||k_sushizanmai||name"
 msgid "Sushi Zanmai"
-msgstr ""
+msgstr "Sushi Zanmai"
 
 msgctxt "22||k_bantam||name"
 msgid "Bantam"
-msgstr ""
+msgstr "Bantam"
 
 msgctxt "23||k_donki||name"
 msgid "Don Quijote"
-msgstr ""
+msgstr "Don Quijote"
 
 msgctxt "24||k_ebisuya||name"
 msgid "Ebisu Pawn"
-msgstr ""
+msgstr "Banco dei pegni Ebisu"
 
 msgctxt "25||k_poppo_s||name"
 msgid "Poppo (Showa Street)"
-msgstr ""
+msgstr "Poppo (Showa Street)"
 
 msgctxt "26||k_poppo_7w||name"
 msgid "Poppo (W. Shichifuku Street)"
-msgstr ""
+msgstr "Poppo (Shichifuku Street ovest)"
 
 msgctxt "27||k_poppo_7e||name"
 msgid "Poppo (E. Shichifuku Street)"
-msgstr ""
+msgstr "Poppo (Shichifuku Street est)"
 
 msgctxt "28||k_poppo_t||name"
 msgid "Poppo (Tenkaichi Street)"
-msgstr ""
+msgstr "Poppo (Tenkaichi Street)"
 
 msgctxt "29||vending_a||name"
 msgid "Vending Machine (Type A)"
-msgstr ""
+msgstr "Distributore automatico (Tipo A)"
 
 msgctxt "30||o_juumangoku||name"
 msgid "Jumangoku Chinese Soba"
-msgstr ""
+msgstr "Soba cinese Jumangoku"
 
 msgctxt "31||o_kakikoya||name"
 msgid "Oyster Shack"
-msgstr ""
+msgstr "Chiosco di ostriche"
 
 msgctxt "32||o_yonetoku||name"
 msgid "Yonetoku"
-msgstr ""
+msgstr "Yonetoku"
 
 msgctxt "34||o_yamaneko||name"
 msgid "Snacks and Wildcats"
-msgstr ""
+msgstr "Snack e gatti selvatici"
 
 msgctxt "38||o_otafukuya||name"
 msgid "Otafuku Pawn"
-msgstr ""
+msgstr "Banco dei pegni Otafuku"
 
 msgctxt "39||mg_snack||name"
 msgid "New Gaudi"
-msgstr ""
+msgstr "New Gaudi"
 
 msgctxt "40||k_M_SIDE_CAFE||name"
 msgid "M Side Cafe"
-msgstr ""
+msgstr "M Side Cafe"
 
 msgctxt "41||o_La_Pente||name"
 msgid "La Pente"
-msgstr ""
+msgstr "La Pente"
 
 msgctxt "42||o_nagiyakkyoku||name"
 msgid "Nagi Pharmacy"
-msgstr ""
+msgstr "Farmacia Nagi"
 
 msgctxt "43||vending_b||name"
 msgid "Vending Machine (Type B)"
-msgstr ""
+msgstr "Distributore automatico (Tipo B)"
 
 msgctxt "44||vending_c||name"
 msgid "Vending Machine (Suntory Kamuro)"
-msgstr ""
+msgstr "Distributore automatico (Suntory Kamuro)"
 
 msgctxt "45||cabaret_drink||name"
 msgid "Club Shine (Drink Menu)"
-msgstr ""
+msgstr "Club Shine (Menu bevande)"
 
 msgctxt "46||cabaret_food||name"
 msgid "Club Shine (Food Menu)"
-msgstr ""
+msgstr "Club Shine (Menu cibo)"
 
 msgctxt "47||o_poke_tofuya||name"
 msgid "Fujisawa Tofu"
-msgstr ""
+msgstr "Tofu Fujisawa"
 
 msgctxt "48||k_quadra||name"
 msgid "Quadra Garden"
-msgstr ""
+msgstr "Quadra Garden"
 
 msgctxt "50||vending_d||name"
 msgid "Vending Machine (Suntory Onomichi)"
-msgstr ""
+msgstr "Distributore automatico (Suntory Onomichi)"
 
 msgctxt "51||k_smileburgar_g||name"
 msgid "Smile Burger (NW Theater Square)"
-msgstr ""
+msgstr "Smile Burger (Theater Square nord-ovest)"
 
 msgctxt "52||k_rizap||name"
 msgid "RIZAP Kamurocho"
-msgstr ""
+msgstr "RIZAP Kamurocho"
 
 msgctxt "53||k_yamishonin||name"
 msgid "Black Market Merchant"
-msgstr ""
+msgstr "Mercante del mercato nero"
 
 msgctxt "54||o_yamishonin||name"
 msgid "Black Market Merchant"
-msgstr ""
+msgstr "Mercante del mercato nero"
 
 msgctxt "55||k_shichiya||name"
 msgid "Ebisu Pawn"
-msgstr ""
+msgstr "Banco dei pegni Ebisu"
 
 msgctxt "56||o_shichiya||name"
 msgid "Otafuku Pawn"
-msgstr ""
+msgstr "Banco dei pegni Otafuku"
 
 msgctxt "57||k_catcafe||name"
 msgid "Nyan Nyan Café"
-msgstr ""
-
+msgstr "Nyan Nyan Café"
