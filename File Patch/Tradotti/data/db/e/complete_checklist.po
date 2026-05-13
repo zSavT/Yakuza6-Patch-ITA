@@ -9,973 +9,972 @@ msgstr ""
 
 msgctxt "1||karaoke_high_score||table||1||honjitsu_ha_daiamond||1"
 msgid "Today is a Diamond"
-msgstr ""
+msgstr "Today is a Diamond"
 
 msgctxt "1||karaoke_high_score||table||2||hands||1"
 msgid "hands"
-msgstr ""
+msgstr "hands"
 
 msgctxt "1||karaoke_high_score||table||3||tonight||1"
 msgid "TONIGHT"
-msgstr ""
+msgstr "TONIGHT"
 
 msgctxt "1||karaoke_high_score||table||4||like_a_butterfly||1"
 msgid "Like a Butterfly"
-msgstr ""
+msgstr "Like a Butterfly"
 
 msgctxt "1||karaoke_high_score||table||5||bran_new_stage||1"
 msgid "BRAND NEW STAGE"
-msgstr ""
+msgstr "BRAND NEW STAGE"
 
 msgctxt "1||karaoke_high_score||table||6||y_ji_road||1"
 msgid "Fork in the Road"
-msgstr ""
+msgstr "Fork in the Road"
 
 msgctxt "2||batting_elementary||table||1||elementary_1||1"
 msgid "Beginner 1"
-msgstr ""
+msgstr "Principiante 1"
 
 msgctxt "2||batting_elementary||table||2||elementary_2||1"
 msgid "Beginner 2"
-msgstr ""
+msgstr "Principiante 2"
 
 msgctxt "2||batting_elementary||table||3||elementary_3||1"
 msgid "Beginner 3"
-msgstr ""
+msgstr "Principiante 3"
 
 msgctxt "3||batting_intermediate||table||1||intermediate_1||1"
 msgid "Intermediate 1"
-msgstr ""
+msgstr "Intermedio 1"
 
 msgctxt "3||batting_intermediate||table||2||intermediate_2||1"
 msgid "Intermediate 2"
-msgstr ""
+msgstr "Intermedio 2"
 
 msgctxt "3||batting_intermediate||table||3||intermediate_3||1"
 msgid "Intermediate 3"
-msgstr ""
+msgstr "Intermedio 3"
 
 msgctxt "4||batting_senior||table||1||senior_1||1"
 msgid "Advanced 1"
-msgstr ""
+msgstr "Avanzato 1"
 
 msgctxt "4||batting_senior||table||2||senior_2||1"
 msgid "Advanced 2"
-msgstr ""
+msgstr "Avanzato 2"
 
 msgctxt "4||batting_senior||table||3||senior_3||1"
 msgid "Advanced 3"
-msgstr ""
+msgstr "Avanzato 3"
 
 msgctxt "5||sandlot_baseball_teammate||table||1||yoshida||1"
 msgid "Yoshida"
-msgstr ""
+msgstr "Yoshida"
 
 msgctxt "5||sandlot_baseball_teammate||table||2||gorisan||1"
 msgid "Gori-san"
-msgstr ""
+msgstr "Gori-san"
 
 msgctxt "5||sandlot_baseball_teammate||table||3||hatayama||1"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 msgctxt "5||sandlot_baseball_teammate||table||4||suzumiya||1"
 msgid "Kase"
-msgstr ""
+msgstr "Kase"
 
 msgctxt "5||sandlot_baseball_teammate||table||5||genie||1"
 msgid "Genie"
-msgstr ""
+msgstr "Genie"
 
 msgctxt "5||sandlot_baseball_teammate||table||6||kuramoto||1"
 msgid "Kuramoto"
-msgstr ""
+msgstr "Kuramoto"
 
 msgctxt "5||sandlot_baseball_teammate||table||7||maetani||1"
 msgid "Maetani"
-msgstr ""
+msgstr "Maetani"
 
 msgctxt "5||sandlot_baseball_teammate||table||8||akiyoshi||1"
 msgid "Akiyoshi"
-msgstr ""
+msgstr "Akiyoshi"
 
 msgctxt "5||sandlot_baseball_teammate||table||9||moriduka||1"
 msgid "Moritsuka"
-msgstr ""
+msgstr "Moritsuka"
 
 msgctxt "5||sandlot_baseball_teammate||table||10||kawamura||1"
 msgid "Kawamura"
-msgstr ""
+msgstr "Kawamura"
 
 msgctxt "5||sandlot_baseball_teammate||table||11||goruchofu||1"
 msgid "Gorchov"
-msgstr ""
+msgstr "Gorchov"
 
 msgctxt "5||sandlot_baseball_teammate||table||12||gensan||1"
 msgid "Gen-san"
-msgstr ""
+msgstr "Gen-san"
 
 msgctxt "7||darts_play_all_rule||table||1||zeroone||1"
 msgid "01"
-msgstr ""
+msgstr "01"
 
 msgctxt "7||darts_play_all_rule||table||2||cricket||1"
 msgid "Cricket"
-msgstr ""
+msgstr "Cricket"
 
 msgctxt "7||darts_play_all_rule||table||3||countup||1"
 msgid "Count-Up"
-msgstr ""
+msgstr "Count-Up"
 
 msgctxt "8||darts_win_rival||table||1||rookie||1"
 msgid "Easy"
-msgstr ""
+msgstr "Facile"
 
 msgctxt "8||darts_win_rival||table||2||intermediate||1"
 msgid "Medium"
-msgstr ""
+msgstr "Medio"
 
 msgctxt "8||darts_win_rival||table||3||veteran||1"
 msgid "Hard"
-msgstr ""
+msgstr "Difficile"
 
 msgctxt "8||darts_win_rival||table||4||paul||1"
 msgid "Paul Lim"
-msgstr ""
+msgstr "Paul Lim"
 
 msgctxt "9||live_chat_two_shot_love||table||1||LIV_01||1"
 msgid "Chat with Anri"
-msgstr ""
+msgstr "Chatta con Anri"
 
 msgctxt "9||live_chat_two_shot_love||table||2||LIV_02||1"
 msgid "Chat with Yua"
-msgstr ""
+msgstr "Chatta con Yua"
 
 msgctxt "10||marjong_get_no1||table||1||rarabai_weak_win||1"
 msgid "Place 1st at Lullaby Mahjong's easy table"
-msgstr ""
+msgstr "Arriva primo al tavolo facile del Lullaby Mahjong"
 
 msgctxt "10||marjong_get_no1||table||2||rarabai_normal_win||1"
 msgid "Place 1st at Lullaby Mahjong's medium table"
-msgstr ""
+msgstr "Arriva primo al tavolo medio del Lullaby Mahjong"
 
 msgctxt "10||marjong_get_no1||table||3||kindai_normal_win||1"
 msgid "Place 1st at Modern Mahjong's medium table"
-msgstr ""
+msgstr "Arriva primo al tavolo medio del Modern Mahjong"
 
 msgctxt "10||marjong_get_no1||table||4||kindai_strong_win||1"
 msgid "Place 1st at Modern Mahjong's hard table"
-msgstr ""
+msgstr "Arriva primo al tavolo difficile del Modern Mahjong"
 
 msgctxt "10||marjong_get_no1||table||5||rarabai_event_win||1"
 msgid "Place 1st in the Lullaby Battle Royale"
-msgstr ""
+msgstr "Arriva primo nella Battle Royale Lullaby"
 
 msgctxt "10||marjong_get_no1||table||6||kindai_event_win||1"
 msgid "Place 1st in the Modern Battle Royale"
-msgstr ""
+msgstr "Arriva primo nella Battle Royale Modern"
 
 msgctxt "11||puyo_win_rival||table||1||ringo||1"
 msgid "Ringo"
-msgstr ""
+msgstr "Ringo"
 
 msgctxt "11||puyo_win_rival||table||2||maguro||1"
 msgid "Maguro"
-msgstr ""
+msgstr "Maguro"
 
 msgctxt "11||puyo_win_rival||table||3||amity||1"
 msgid "Amitie"
-msgstr ""
+msgstr "Amitie"
 
 msgctxt "11||puyo_win_rival||table||4||sigu||1"
 msgid "Sig"
-msgstr ""
+msgstr "Sig"
 
 msgctxt "11||puyo_win_rival||table||5||suketoudara||1"
 msgid "Suketoudara"
-msgstr ""
+msgstr "Suketoudara"
 
 msgctxt "11||puyo_win_rival||table||6||kuruku||1"
 msgid "Klug"
-msgstr ""
+msgstr "Klug"
 
 msgctxt "11||puyo_win_rival||table||7||rulue||1"
 msgid "Rulue"
-msgstr ""
+msgstr "Rulue"
 
 msgctxt "11||puyo_win_rival||table||8||arle_and_carbuncle||1"
 msgid "Arle & Carbuncle"
-msgstr ""
+msgstr "Arle & Carbuncle"
 
 msgctxt "11||puyo_win_rival||table||9||risukuma||1"
 msgid "Risukuma"
-msgstr ""
+msgstr "Risukuma"
 
 msgctxt "11||puyo_win_rival||table||10||which||1"
 msgid "Witch"
-msgstr ""
+msgstr "Witch"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||1||thunders_second_1||1"
 msgid "VS Jingai Thunders Reserves"
-msgstr ""
+msgstr "VS Riserve dei Jingai Thunders"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||2||thunders_second_2||1"
 msgid "VS Jingai Thunders Reserves: Victory Lap"
-msgstr ""
+msgstr "VS Riserve dei Jingai Thunders: Giro d'onore"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||3||thunders_second_3||1"
 msgid "VS Jingai Thunders Reserves: Keep It Interesting"
-msgstr ""
+msgstr "VS Riserve dei Jingai Thunders: Rendiamola interessante"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||4||thunders_second_4||1"
 msgid "VS Jingai Thunders Reserves: Landslide Win"
-msgstr ""
+msgstr "VS Riserve dei Jingai Thunders: Vittoria schiacciante"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||5||thunders_1||1"
 msgid "VS Jingai Thunders"
-msgstr ""
+msgstr "VS Jingai Thunders"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||6||thunders_2||1"
 msgid "VS Jingai Thunders: Victory Lap"
-msgstr ""
+msgstr "VS Jingai Thunders: Giro d'onore"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||7||thunders_3||1"
 msgid "VS Jingai Thunders: Landslide Win"
-msgstr ""
+msgstr "VS Jingai Thunders: Vittoria schiacciante"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||8||thunders_4||1"
 msgid "VS Jingai Thunders: Team in Stitches"
-msgstr ""
+msgstr "VS Jingai Thunders: Squadra in difficoltà"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||9||legends_1||1"
 msgid "VS Onomichi Legends"
-msgstr ""
+msgstr "VS Onomichi Legends"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||10||legends_2||1"
 msgid "VS Onomichi Legends: Keep It Interesting"
-msgstr ""
+msgstr "VS Onomichi Legends: Rendiamola interessante"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||11||legends_3||1"
 msgid "VS Onomichi Legends: Landslide Win"
-msgstr ""
+msgstr "VS Onomichi Legends: Vittoria schiacciante"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||12||legends_4||1"
 msgid "VS Onomichi Legends: Colossus of Clout"
-msgstr ""
+msgstr "VS Onomichi Legends: Colosso della potenza"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||13||gorgeous_1||1"
 msgid "VS Kanamizawa Gorgeous"
-msgstr ""
+msgstr "VS Kanamizawa Gorgeous"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||14||gorgeous_2||1"
 msgid "VS Kanamizawa Gorgeous: Keep It Interesting"
-msgstr ""
+msgstr "VS Kanamizawa Gorgeous: Rendiamola interessante"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||15||gorgeous_3||1"
 msgid "VS Kanamizawa Gorgeous: Team in Stitches"
-msgstr ""
+msgstr "VS Kanamizawa Gorgeous: Squadra in difficoltà"
 
 msgctxt "12||sandlot_baseball_clear_mission||table||16||gorgeous_4||1"
 msgid "VS Kanamizawa Gorgeous: Colossus of Clout"
-msgstr ""
+msgstr "VS Kanamizawa Gorgeous: Colosso della potenza"
 
 msgctxt "13||spearfishing_clear_stage||table||1||level1_1||1"
 msgid "Azure Coast"
-msgstr ""
+msgstr "Costa Azzurra"
 
 msgctxt "13||spearfishing_clear_stage||table||2||level1_2||1"
 msgid "Sunken Labyrinth"
-msgstr ""
+msgstr "Labirinto sommerso"
 
 msgctxt "13||spearfishing_clear_stage||table||3||level1_3||1"
 msgid "Dragon's Den"
-msgstr ""
+msgstr "Tana del drago"
 
 msgctxt "14||sports_gym_get_exercise_rank_a||table||4||benchpress||1"
 msgid "Bench Press"
-msgstr ""
+msgstr "Panca piana"
 
 msgctxt "14||sports_gym_get_exercise_rank_a||table||5||squat||1"
 msgid "Squats"
-msgstr ""
+msgstr "Squat"
 
 msgctxt "14||sports_gym_get_exercise_rank_a||table||6||deadlift||1"
 msgid "Deadlifts"
-msgstr ""
+msgstr "Stacchi da terra"
 
 msgctxt "14||sports_gym_get_exercise_rank_a||table||7||squatjump||1"
 msgid "Jump Squats"
-msgstr ""
+msgstr "Jump Squat"
 
 msgctxt "14||sports_gym_get_exercise_rank_a||table||8||latpulldown||1"
 msgid "Lat Pulldowns"
-msgstr ""
+msgstr "Lat Machine"
 
 msgctxt "14||sports_gym_get_exercise_rank_a||table||9||seatedrowing||1"
 msgid "Seated Row"
-msgstr ""
+msgstr "Pulley"
 
 msgctxt "15||vf5fs_clear_stage||table||1||stage1||1"
 msgid "Stage 1"
-msgstr ""
+msgstr "Livello 1"
 
 msgctxt "15||vf5fs_clear_stage||table||2||stage2||1"
 msgid "Stage 2"
-msgstr ""
+msgstr "Livello 2"
 
 msgctxt "15||vf5fs_clear_stage||table||3||stage3||1"
 msgid "Stage 3"
-msgstr ""
+msgstr "Livello 3"
 
 msgctxt "15||vf5fs_clear_stage||table||4||stage4||1"
 msgid "Stage 4"
-msgstr ""
+msgstr "Livello 4"
 
 msgctxt "15||vf5fs_clear_stage||table||5||stage5||1"
 msgid "Stage 5"
-msgstr ""
+msgstr "Livello 5"
 
 msgctxt "15||vf5fs_clear_stage||table||6||stage6||1"
 msgid "Stage 6"
-msgstr ""
+msgstr "Livello 6"
 
 msgctxt "15||vf5fs_clear_stage||table||11||final_stage||1"
 msgid "Final Stage"
-msgstr ""
+msgstr "Livello finale"
 
 msgctxt "15||vf5fs_clear_stage||table||12||bonus_stage||1"
 msgid "Bonus Stage"
-msgstr ""
+msgstr "Livello bonus"
 
 msgctxt "16||vf5fs_win_character||table||1||taka_arashi||1"
 msgid "Taka-Arashi"
-msgstr ""
+msgstr "Taka-Arashi"
 
 msgctxt "16||vf5fs_win_character||table||2||akira||1"
 msgid "Akira Yuki"
-msgstr ""
+msgstr "Akira Yuki"
 
 msgctxt "16||vf5fs_win_character||table||3||pai||1"
 msgid "Pai Chan"
-msgstr ""
+msgstr "Pai Chan"
 
 msgctxt "16||vf5fs_win_character||table||4||lau||1"
 msgid "Lau Chan"
-msgstr ""
+msgstr "Lau Chan"
 
 msgctxt "16||vf5fs_win_character||table||5||wolf||1"
 msgid "Wolf Hawkfield"
-msgstr ""
+msgstr "Wolf Hawkfield"
 
 msgctxt "16||vf5fs_win_character||table||6||jeffry||1"
 msgid "Jeffry McWild"
-msgstr ""
+msgstr "Jeffry McWild"
 
 msgctxt "16||vf5fs_win_character||table||7||jean||1"
 msgid "Jean Kujo"
-msgstr ""
+msgstr "Jean Kujo"
 
 msgctxt "16||vf5fs_win_character||table||8||eileen||1"
 msgid "Eileen"
-msgstr ""
+msgstr "Eileen"
 
 msgctxt "16||vf5fs_win_character||table||9||kage||1"
 msgid "Kage Maru"
-msgstr ""
+msgstr "Kage Maru"
 
 msgctxt "16||vf5fs_win_character||table||10||sarah||1"
 msgid "Sarah Bryant"
-msgstr ""
+msgstr "Sarah Bryant"
 
 msgctxt "16||vf5fs_win_character||table||11||jacky||1"
 msgid "Jacky Bryant"
-msgstr ""
+msgstr "Jacky Bryant"
 
 msgctxt "16||vf5fs_win_character||table||12||shun||1"
 msgid "Shun Di"
-msgstr ""
+msgstr "Shun Di"
 
 msgctxt "16||vf5fs_win_character||table||13||lion||1"
 msgid "Lion Rafale"
-msgstr ""
+msgstr "Lion Rafale"
 
 msgctxt "16||vf5fs_win_character||table||14||el_blaze||1"
 msgid "El Blaze"
-msgstr ""
+msgstr "El Blaze"
 
 msgctxt "16||vf5fs_win_character||table||15||aoi||1"
 msgid "Aoi Umenokoji"
-msgstr ""
+msgstr "Aoi Umenokoji"
 
 msgctxt "16||vf5fs_win_character||table||17||vanessa||1"
 msgid "Vanessa Lewis"
-msgstr ""
+msgstr "Vanessa Lewis"
 
 msgctxt "16||vf5fs_win_character||table||18||brad||1"
 msgid "Brad Burns"
-msgstr ""
+msgstr "Brad Burns"
 
 msgctxt "16||vf5fs_win_character||table||19||goh||1"
 msgid "Goh Hinogami"
-msgstr ""
+msgstr "Goh Hinogami"
 
 msgctxt "16||vf5fs_win_character||table||20||lei_fei||1"
 msgid "Lei-Fei"
-msgstr ""
+msgstr "Lei-Fei"
 
 msgctxt "17||caba_profile_erina||table||2||hobby||1"
 msgid "Hobby"
-msgstr ""
+msgstr "Hobby"
 
 msgctxt "17||caba_profile_erina||table||3||skill||1"
 msgid "Special Skill"
-msgstr ""
+msgstr "Abilità speciale"
 
 msgctxt "17||caba_profile_erina||table||4||favorite_food||1"
 msgid "Favorite Food"
-msgstr ""
+msgstr "Cibo preferito"
 
 msgctxt "17||caba_profile_erina||table||5||favorite_music||1"
 msgid "Favorite Music"
-msgstr ""
+msgstr "Musica preferita"
 
 msgctxt "17||caba_profile_erina||table||6||like_type||1"
 msgid "Likes"
-msgstr ""
+msgstr "Piace"
 
 msgctxt "17||caba_profile_erina||table||7||dream||1"
 msgid "Dream"
-msgstr ""
+msgstr "Sogno"
 
 msgctxt "17||caba_profile_erina||table||8||specific_title||1"
 msgid "Worries About"
-msgstr ""
+msgstr "Preoccupazioni"
 
 msgctxt "18||caba_profile_hikaru||table||2||hobby||1"
 msgid "Hobby"
-msgstr ""
+msgstr "Hobby"
 
 msgctxt "18||caba_profile_hikaru||table||3||skill||1"
 msgid "Special Skill"
-msgstr ""
+msgstr "Abilità speciale"
 
 msgctxt "18||caba_profile_hikaru||table||4||favorite_food||1"
 msgid "Favorite Food"
-msgstr ""
+msgstr "Cibo preferito"
 
 msgctxt "18||caba_profile_hikaru||table||5||favorite_music||1"
 msgid "Favorite Music"
-msgstr ""
+msgstr "Musica preferita"
 
 msgctxt "18||caba_profile_hikaru||table||6||like_type||1"
 msgid "Likes"
-msgstr ""
+msgstr "Piace"
 
 msgctxt "18||caba_profile_hikaru||table||7||dream||1"
 msgid "Dream"
-msgstr ""
+msgstr "Sogno"
 
 msgctxt "18||caba_profile_hikaru||table||8||specific_title||1"
 msgid "Asks for Affection"
-msgstr ""
+msgstr "In cerca di affetto"
 
 msgctxt "19||caba_profile_riona||table||2||hobby||1"
 msgid "Hobby"
-msgstr ""
+msgstr "Hobby"
 
 msgctxt "19||caba_profile_riona||table||3||skill||1"
 msgid "Special Skill"
-msgstr ""
+msgstr "Abilità speciale"
 
 msgctxt "19||caba_profile_riona||table||4||favorite_food||1"
 msgid "Favorite Food"
-msgstr ""
+msgstr "Cibo preferito"
 
 msgctxt "19||caba_profile_riona||table||5||favorite_music||1"
 msgid "Favorite Music"
-msgstr ""
+msgstr "Musica preferita"
 
 msgctxt "19||caba_profile_riona||table||6||like_type||1"
 msgid "Likes"
-msgstr ""
+msgstr "Piace"
 
 msgctxt "19||caba_profile_riona||table||7||dream||1"
 msgid "Dream"
-msgstr ""
+msgstr "Sogno"
 
 msgctxt "19||caba_profile_riona||table||8||specific_title||1"
 msgid "Riona's Fans"
-msgstr ""
+msgstr "Fan di Riona"
 
 msgctxt "20||caba_profile_saki||table||2||hobby||1"
 msgid "Hobby"
-msgstr ""
+msgstr "Hobby"
 
 msgctxt "20||caba_profile_saki||table||3||skill||1"
 msgid "Special Skill"
-msgstr ""
+msgstr "Abilità speciale"
 
 msgctxt "20||caba_profile_saki||table||4||favorite_food||1"
 msgid "Favorite Food"
-msgstr ""
+msgstr "Cibo preferito"
 
 msgctxt "20||caba_profile_saki||table||5||favorite_music||1"
 msgid "Favorite Music"
-msgstr ""
+msgstr "Musica preferita"
 
 msgctxt "20||caba_profile_saki||table||6||like_type||1"
 msgid "Likes"
-msgstr ""
+msgstr "Piace"
 
 msgctxt "20||caba_profile_saki||table||7||dream||1"
 msgid "Dream"
-msgstr ""
+msgstr "Sogno"
 
 msgctxt "20||caba_profile_saki||table||8||specific_title||1"
 msgid "Saki in Love"
-msgstr ""
+msgstr "Saki innamorata"
 
 msgctxt "21||caba_profile_sora||table||1||hobby||1"
 msgid "Hobby"
-msgstr ""
+msgstr "Hobby"
 
 msgctxt "21||caba_profile_sora||table||2||skill||1"
 msgid "Special Skill"
-msgstr ""
+msgstr "Abilità speciale"
 
 msgctxt "21||caba_profile_sora||table||3||favorite_food||1"
 msgid "Favorite Food"
-msgstr ""
+msgstr "Cibo preferito"
 
 msgctxt "21||caba_profile_sora||table||4||favorite_music||1"
 msgid "Favorite Music"
-msgstr ""
+msgstr "Musica preferita"
 
 msgctxt "21||caba_profile_sora||table||5||like_type||1"
 msgid "Likes"
-msgstr ""
+msgstr "Piace"
 
 msgctxt "21||caba_profile_sora||table||6||dream||1"
 msgid "Dream"
-msgstr ""
+msgstr "Sogno"
 
 msgctxt "21||caba_profile_sora||table||7||specific_title||1"
 msgid "Love Reference"
-msgstr ""
+msgstr "Esperienze d'amore"
 
 msgctxt "22||snack_talk_rank_a||table||3||guest_a||1"
 msgid "Listened to Hatakeyama-san's worries"
-msgstr ""
+msgstr "Ascoltato i problemi di Hatakeyama-san"
 
 msgctxt "22||snack_talk_rank_a||table||4||guest_b||1"
 msgid "Listened to Akiyoshi-san's worries"
-msgstr ""
+msgstr "Ascoltato i problemi di Akiyoshi-san"
 
 msgctxt "22||snack_talk_rank_a||table||5||guest_c||1"
 msgid "Listened to Gen-san's worries"
-msgstr ""
+msgstr "Ascoltato i problemi di Gen-san"
 
 msgctxt "22||snack_talk_rank_a||table||6||guest_d||1"
 msgid "Listened to Ando-san's worries"
-msgstr ""
+msgstr "Ascoltato i problemi di Ando-san"
 
 msgctxt "22||snack_talk_rank_a||table||7||guest_e||1"
 msgid "Listened to Kaneko-san's worries"
-msgstr ""
+msgstr "Ascoltato i problemi di Kaneko-san"
 
 msgctxt "22||snack_talk_rank_a||table||8||mama||1"
 msgid "Relaxed with everyone at New Gaudi"
-msgstr ""
+msgstr "Rilassato con tutti al New Gaudi"
 
 msgctxt "25||shop_bonus||table||1||k_alps||1"
 msgid "An Elegant Time at Alps"
-msgstr ""
+msgstr "Un momento elegante all'Alps"
 
 msgctxt "25||shop_bonus||table||2||k_smileburgar0||1"
 msgid "The Standard Smile Set"
-msgstr ""
+msgstr "Il menù Smile standard"
 
 msgctxt "25||shop_bonus||table||3||k_smileburgar1||1"
 msgid "Healthy Smile"
-msgstr ""
+msgstr "Smile salutare"
 
 msgctxt "25||shop_bonus||table||4||k_sushigin||1"
 msgid "The Ultimate Sushi Gin"
-msgstr ""
+msgstr "Il non plus ultra del Sushi Gin"
 
 msgctxt "25||shop_bonus||table||5||k_akaushi||1"
 msgid "Blissfully Drinking Alone"
-msgstr ""
+msgstr "Bere da soli in allegria"
 
 msgctxt "25||shop_bonus||table||6||k_bantam||1"
 msgid "Depth of 30 Years"
-msgstr ""
+msgstr "La profondità di 30 anni"
 
 msgctxt "25||shop_bonus||table||8||k_gindaco||1"
 msgid "This is Gindaco Highball!"
-msgstr ""
+msgstr "Questo è il Gindaco Highball!"
 
 msgctxt "25||shop_bonus||table||10||k_ichibanboshi||1"
 msgid "The Holy Trinity"
-msgstr ""
+msgstr "La Santa Trinità"
 
 msgctxt "25||shop_bonus||table||12||k_M_SIDE_CAFE||1"
 msgid "Bread Over Rice"
-msgstr ""
+msgstr "Pane anziché riso"
 
 msgctxt "25||shop_bonus||table||14||k_quadra||1"
 msgid "Full of Cake"
-msgstr ""
+msgstr "Pieni di torta"
 
 msgctxt "25||shop_bonus||table||15||k_ringerhut||1"
 msgid "Veggie Lover"
-msgstr ""
+msgstr "Amante delle verdure"
 
 msgctxt "25||shop_bonus||table||16||k_sushizanmai||1"
 msgid "Tunalicious"
-msgstr ""
+msgstr "Tonnoso"
 
 msgctxt "25||shop_bonus||table||17||k_wettekitchen||1"
 msgid "Delicious Side Dishes"
-msgstr ""
+msgstr "Contorni deliziosi"
 
 msgctxt "25||shop_bonus||table||18||k_wildjackson||1"
 msgid "Wild Combo"
-msgstr ""
+msgstr "Combo selvaggia"
 
 msgctxt "25||shop_bonus||table||20||o_juumangoku||1"
 msgid "A Cut Above"
-msgstr ""
+msgstr "Una spanna sopra"
 
 msgctxt "25||shop_bonus||table||21||o_kakikoya||1"
 msgid "Testing Your Luck"
-msgstr ""
+msgstr "Tentare la fortuna"
 
 msgctxt "25||shop_bonus||table||23||o_yonetoku||1"
 msgid "The Yonetoku Standard!"
-msgstr ""
+msgstr "Lo standard Yonetoku!"
 
 msgctxt "25||shop_bonus||table||24||mg_snack||1"
 msgid "Quick & Easy"
-msgstr ""
+msgstr "Veloce & facile"
 
 msgctxt "25||shop_bonus||table||25||k_fujisoba0||1"
 msgid "Harmony of Rice and Noodles"
-msgstr ""
+msgstr "Armonia di riso e noodle"
 
 msgctxt "25||shop_bonus||table||26||k_fujisoba1||1"
 msgid "Rice Lover"
-msgstr ""
+msgstr "Amante del riso"
 
 msgctxt "25||shop_bonus||table||27||k_hanrai0||1"
 msgid "A Yakiniku Staple"
-msgstr ""
+msgstr "Un classico dello Yakiniku"
 
 msgctxt "25||shop_bonus||table||28||k_hanrai1||1"
 msgid "Nothing Grilled at Yakiniku!?"
-msgstr ""
+msgstr "Niente alla griglia allo Yakiniku!?"
 
 msgctxt "25||shop_bonus||table||29||k_ikinari_steak0||1"
 msgid "A Solid Lineup"
-msgstr ""
+msgstr "Una formazione solida"
 
 msgctxt "25||shop_bonus||table||30||k_ikinari_steak1||1"
 msgid "Eating Wild"
-msgstr ""
+msgstr "Mangiare selvaggio"
 
 msgctxt "25||shop_bonus||table||31||k_osaka_ohsho0||1"
 msgid "Spicy Combination"
-msgstr ""
+msgstr "Combinazione piccante"
 
 msgctxt "25||shop_bonus||table||32||k_osaka_ohsho1||1"
 msgid "Griddle Trio"
-msgstr ""
+msgstr "Trio alla piastra"
 
 msgctxt "25||shop_bonus||table||33||k_yoronotaki0||1"
 msgid "I'll Have This to Start!"
-msgstr ""
+msgstr "Prendo questo per cominciare!"
 
 msgctxt "25||shop_bonus||table||34||k_yoronotaki1||1"
 msgid "I've Gotta Order That!"
-msgstr ""
+msgstr "Devo assolutamente ordinarlo!"
 
 msgctxt "25||shop_bonus||table||35||o_La_Pente0||1"
 msgid "Aspiring Sommelier!?"
-msgstr ""
+msgstr "Aspirante sommelier!?"
 
 msgctxt "25||shop_bonus||table||36||o_La_Pente1||1"
 msgid "Original Course Menu"
-msgstr ""
+msgstr "Menù originale della casa"
 
 msgctxt "26||instant_mission_clear||table||1||yopparai||1"
 msgid "A Sauced-Up Sod"
-msgstr ""
+msgstr "Un ubriacone fradicio"
 
 msgctxt "26||instant_mission_clear||table||5||boss_k||1"
 msgid "A Powerful Foe Appears: Kamurocho"
-msgstr ""
+msgstr "Un nemico formidabile: Kamurocho"
 
 msgctxt "26||instant_mission_clear||table||6||boss_o||1"
 msgid "A Powerful Foe Appears: Onomichi"
-msgstr ""
+msgstr "Un nemico formidabile: Onomichi"
 
 msgctxt "26||instant_mission_clear||table||7||katsuage||1"
 msgid "Shake Up the Shakedown Squad"
-msgstr ""
+msgstr "Abbatti gli estorsori"
 
 msgctxt "26||instant_mission_clear||table||8||oyajigari||1"
 msgid "Menace to the Middle-aged"
-msgstr ""
+msgstr "Minaccia alla mezza età"
 
 msgctxt "26||instant_mission_clear||table||9||nanpa||1"
 msgid "In Defense of Chivalry"
-msgstr ""
+msgstr "In difesa della cavalleria"
 
 msgctxt "26||instant_mission_clear||table||10||linch||1"
 msgid "Keeping the Peace"
-msgstr ""
+msgstr "Mantenere la pace"
 
 msgctxt "26||instant_mission_clear||table||11||cupple||1"
 msgid "A Danger to Dating"
-msgstr ""
+msgstr "Un pericolo per gli appuntamenti"
 
 msgctxt "26||instant_mission_clear||table||12||kyuubyounin_k||1"
 msgid "Queasy in Kamurocho"
-msgstr ""
+msgstr "Nausea a Kamurocho"
 
 msgctxt "26||instant_mission_clear||table||13||kyuubyounin_o||1"
 msgid "An Onomichi Illness"
-msgstr ""
+msgstr "Un malore a Onomichi"
 
 msgctxt "26||instant_mission_clear||table||14||falling_k||1"
 msgid "On the Edge: Kamurocho"
-msgstr ""
+msgstr "Sull'orlo del baratro: Kamurocho"
 
 msgctxt "26||instant_mission_clear||table||15||falling_o||1"
 msgid "On the Edge: Onomichi"
-msgstr ""
+msgstr "Sull'orlo del baratro: Onomichi"
 
 msgctxt "26||instant_mission_clear||table||16||toilet||1"
 msgid "Wiped Out"
-msgstr ""
+msgstr "Emergenza carta igienica"
 
 msgctxt "26||instant_mission_clear||table||17||rumor||1"
 msgid "Rumblings in Onomichi"
-msgstr ""
+msgstr "Voci a Onomichi"
 
 msgctxt "26||instant_mission_clear||table||18||suri||1"
 msgid "Pocket Protector"
-msgstr ""
+msgstr "Caccia al borseggiatore"
 
 msgctxt "26||instant_mission_clear||table||19||hakaarashi||1"
 msgid "A Grave Incident"
-msgstr ""
+msgstr "Un ladro di tombe"
 
 msgctxt "26||instant_mission_clear||table||20||maigo||1"
 msgid "Lost and Found"
-msgstr ""
+msgstr "Bambino smarrito"
 
 msgctxt "26||instant_mission_clear||table||21||houkama_k||1"
 msgid "The Flames of Justice"
-msgstr ""
+msgstr "Le fiamme della giustizia"
 
 msgctxt "26||instant_mission_clear||table||22||houkama_o||1"
 msgid "The Flames of Vengeance"
-msgstr ""
+msgstr "Le fiamme della vendetta"
 
 msgctxt "26||instant_mission_clear||table||23||boya_k1||1"
 msgid "Kamurocho Alight"
-msgstr ""
+msgstr "Kamurocho in fiamme"
 
 msgctxt "26||instant_mission_clear||table||24||boya_k2||1"
 msgid "Kamurocho Alight 2"
-msgstr ""
+msgstr "Kamurocho in fiamme 2"
 
 msgctxt "26||instant_mission_clear||table||25||boya_k3||1"
 msgid "Kamurocho Alight 3"
-msgstr ""
+msgstr "Kamurocho in fiamme 3"
 
 msgctxt "26||instant_mission_clear||table||26||boya_k4||1"
 msgid "Turn Down the Burndown"
-msgstr ""
+msgstr "Spegni l'incendio"
 
 msgctxt "26||instant_mission_clear||table||27||boya_o1||1"
 msgid "Onomichi Alight"
-msgstr ""
+msgstr "Onomichi in fiamme"
 
 msgctxt "26||instant_mission_clear||table||28||boya_o2||1"
 msgid "Onomichi Alight 2"
-msgstr ""
+msgstr "Onomichi in fiamme 2"
 
 msgctxt "26||instant_mission_clear||table||29||boya_o3||1"
 msgid "Onomichi Alight 3"
-msgstr ""
+msgstr "Onomichi in fiamme 3"
 
 msgctxt "26||instant_mission_clear||table||30||boya_o4||1"
 msgid "Fuel to the Fire"
-msgstr ""
+msgstr "Benzina sul fuoco"
 
 msgctxt "26||instant_mission_clear||table||31||yokoku1||1"
 msgid "An Explosive Game"
-msgstr ""
+msgstr "Un gioco esplosivo"
 
 msgctxt "26||instant_mission_clear||table||32||yokoku2||1"
 msgid "An Explosive End"
-msgstr ""
+msgstr "Una fine esplosiva"
 
 msgctxt "26||instant_mission_clear||table||33||ramen||1"
 msgid "In Hot Water"
-msgstr ""
+msgstr "Acqua alla gola"
 
 msgctxt "26||instant_mission_clear||table||34||katsuage2||1"
 msgid "Shake Up the Shakedown Squad 2"
-msgstr ""
+msgstr "Abbatti gli estorsori 2"
 
 msgctxt "26||instant_mission_clear||table||35||katsuage3||1"
 msgid "Shake Up the Shakedown Squad 3"
-msgstr ""
+msgstr "Abbatti gli estorsori 3"
 
 msgctxt "26||instant_mission_clear||table||36||oyajigari2||1"
 msgid "Menace to the Middle-aged 2"
-msgstr ""
+msgstr "Minaccia alla mezza età 2"
 
 msgctxt "26||instant_mission_clear||table||37||oyajigari3||1"
 msgid "Menace to the Middle-aged 3"
-msgstr ""
+msgstr "Minaccia alla mezza età 3"
 
 msgctxt "26||instant_mission_clear||table||38||nanpa2||1"
 msgid "In Defense of Chivalry 2"
-msgstr ""
+msgstr "In difesa della cavalleria 2"
 
 msgctxt "26||instant_mission_clear||table||39||nanpa3||1"
 msgid "In Defense of Chivalry 3"
-msgstr ""
+msgstr "In difesa della cavalleria 3"
 
 msgctxt "26||instant_mission_clear||table||40||linch2||1"
 msgid "Keeping the Peace 2"
-msgstr ""
+msgstr "Mantenere la pace 2"
 
 msgctxt "26||instant_mission_clear||table||41||linch3||1"
 msgid "Keeping the Peace 3"
-msgstr ""
+msgstr "Mantenere la pace 3"
 
 msgctxt "26||instant_mission_clear||table||42||cupple2||1"
 msgid "A Danger to Dating 2"
-msgstr ""
+msgstr "Un pericolo per gli appuntamenti 2"
 
 msgctxt "26||instant_mission_clear||table||43||cupple3||1"
 msgid "A Danger to Dating 3"
-msgstr ""
+msgstr "Un pericolo per gli appuntamenti 3"
 
 msgctxt "29||spearfishing_get_all||table||1||same||1"
 msgid "Great White Shark"
-msgstr ""
+msgstr "Grande squalo bianco"
 
 msgctxt "29||spearfishing_get_all||table||2||kajiki||1"
 msgid "Marlin"
-msgstr ""
+msgstr "Marlin"
 
 msgctxt "29||spearfishing_get_all||table||3||maguro||1"
 msgid "Tuna"
-msgstr ""
+msgstr "Tonno"
 
 msgctxt "29||spearfishing_get_all||table||4||madai||1"
 msgid "Japanese Sea Bream"
-msgstr ""
+msgstr "Orata giapponese"
 
 msgctxt "29||spearfishing_get_all||table||5||salmon||1"
 msgid "Salmon"
-msgstr ""
+msgstr "Salmone"
 
 msgctxt "29||spearfishing_get_all||table||6||onikasago||1"
 msgid "Devil Scorpionfish"
-msgstr ""
+msgstr "Scorfano diavolo"
 
 msgctxt "29||spearfishing_get_all||table||7||kawahagi||1"
 msgid "Thread-sail Filefish"
-msgstr ""
+msgstr "Pesce balestra"
 
 msgctxt "29||spearfishing_get_all||table||8||haze||1"
 msgid "Goby"
-msgstr ""
+msgstr "Ghiozzo"
 
 msgctxt "29||spearfishing_get_all||table||9||torafugu||1"
 msgid "Tiger Puffer"
-msgstr ""
+msgstr "Pesce palla tigre"
 
 msgctxt "29||spearfishing_get_all||table||10||harisen||1"
 msgid "Blowfish"
-msgstr ""
+msgstr "Pesce palla"
 
 msgctxt "29||spearfishing_get_all||table||11||karei||1"
 msgid "Flounder"
-msgstr ""
+msgstr "Platessa"
 
 msgctxt "29||spearfishing_get_all||table||12||anago||1"
 msgid "Conger Eel"
-msgstr ""
+msgstr "Grongo"
 
 msgctxt "29||spearfishing_get_all||table||13||ryuguu||1"
 msgid "Giant Oarfish"
-msgstr ""
+msgstr "Re di aringhe"
 
 msgctxt "29||spearfishing_get_all||table||14||octopus||1"
 msgid "Common Octopus"
-msgstr ""
+msgstr "Polpo comune"
 
 msgctxt "29||spearfishing_get_all||table||15||ika||1"
 msgid "Squid"
-msgstr ""
+msgstr "Calamaro"
 
 msgctxt "29||spearfishing_get_all||table||16||takaashigani||1"
 msgid "Giant Crab"
-msgstr ""
+msgstr "Granchio gigante"
 
 msgctxt "29||spearfishing_get_all||table||17||siirakansu||1"
 msgid "Coelacanth"
-msgstr ""
+msgstr "Celacanto"
 
 msgctxt "29||spearfishing_get_all||table||20||jellyfish||1"
 msgid "Jellyfish"
-msgstr ""
+msgstr "Medusa"
 
 msgctxt "58||open_safety_box||table||1||kinko_01||1"
 msgid "Used the Tenkaichi Street key"
-msgstr ""
+msgstr "Usata la chiave di Tenkaichi Street"
 
 msgctxt "58||open_safety_box||table||2||kinko_02||1"
 msgid "Used the West Taihei Boulevard key"
-msgstr ""
+msgstr "Usata la chiave di Taihei Boulevard ovest"
 
 msgctxt "58||open_safety_box||table||3||kinko_03||1"
 msgid "Used the Yoshida Batting Center key"
-msgstr ""
+msgstr "Usata la chiave delle Gabbie di battuta Yoshida"
 
 msgctxt "58||open_safety_box||table||4||kinko_04||1"
 msgid "Used the Nakamichi Alley key"
-msgstr ""
+msgstr "Usata la chiave di Nakamichi Alley"
 
 msgctxt "58||open_safety_box||table||5||kinko_05||1"
 msgid "Used the Senryo Avenue key"
-msgstr ""
+msgstr "Usata la chiave di Senryo Avenue"
 
 msgctxt "58||open_safety_box||table||6||kinko_06||1"
 msgid "Used the Jingai Ferry Dock key"
-msgstr ""
+msgstr "Usata la chiave del molo dei traghetti di Jingai"
 
 msgctxt "58||open_safety_box||table||7||kinko_07||1"
 msgid "Used the Pedestrian Bridge key"
-msgstr ""
+msgstr "Usata la chiave del ponte pedonale"
 
 msgctxt "58||open_safety_box||table||8||kinko_08||1"
 msgid "Used the Second Hill key"
-msgstr ""
+msgstr "Usata la chiave di Second Hill"
 
 msgctxt "58||open_safety_box||table||9||kinko_09||1"
 msgid "Used the Hana-no-kubo key"
-msgstr ""
+msgstr "Usata la chiave di Hana-no-kubo"
 
 msgctxt "58||open_safety_box||table||10||kinko_10||1"
 msgid "Used the Central Shopping District key"
-msgstr ""
-
+msgstr "Usata la chiave del Central Shopping District"
