@@ -9,437 +9,436 @@ msgstr ""
 
 msgctxt "1||SCN01_015||title"
 msgid "An Open Air Tussle"
-msgstr ""
+msgstr "Una rissa all'aperto"
 
 msgctxt "2||SCN01_020||title"
 msgid "Too Busy For This"
-msgstr ""
+msgstr "Non ho tempo per questo"
 
 msgctxt "3||SCN01_045||title"
 msgid "Kiryu's Arrest"
-msgstr ""
+msgstr "L'arresto di Kiryu"
 
 msgctxt "4||SCN01_060||title"
 msgid "Meeting"
-msgstr ""
+msgstr "L'incontro"
 
 msgctxt "5||SCN01_070||title"
 msgid "Awaiting His Return"
-msgstr ""
+msgstr "In attesa del suo ritorno"
 
 msgctxt "6||SCN01_075||title"
 msgid "Regret"
-msgstr ""
+msgstr "Rimpianto"
 
 msgctxt "7||SCN01_076||title"
 msgid "Haruka's Decision"
-msgstr ""
+msgstr "La decisione di Haruka"
 
 msgctxt "8||SCN01_090||title"
 msgid "Back in Okinawa"
-msgstr ""
+msgstr "Di nuovo a Okinawa"
 
 msgctxt "9||SCN01_100||title"
 msgid "Vanished"
-msgstr ""
+msgstr "Scomparsa"
 
 msgctxt "10||SCN01_110||title"
 msgid "To Kamurocho"
-msgstr ""
+msgstr "Verso Kamurocho"
 
 msgctxt "11||SCN01_120||title"
 msgid "Tojo Threatened"
-msgstr ""
+msgstr "Minaccia al Clan Tojo"
 
 msgctxt "12||SCN01_130||title"
 msgid "House Call"
-msgstr ""
+msgstr "Visita a domicilio"
 
 msgctxt "13||SCN01_140||title"
 msgid "News of the Accident"
-msgstr ""
+msgstr "La notizia dell'incidente"
 
 msgctxt "14||SCN01_150||title"
 msgid "A Nightmare Situation"
-msgstr ""
+msgstr "Una situazione da incubo"
 
 msgctxt "15||SCN01_160||title"
 msgid "Mysterious Child"
-msgstr ""
+msgstr "Un bambino misterioso"
 
 msgctxt "16||SCN02_010||title"
 msgid "Haruto Sawamura"
-msgstr ""
+msgstr "Haruto Sawamura"
 
 msgctxt "17||PRE01_010||title"
 msgid "In a Certain Bar"
-msgstr ""
+msgstr "In un certo bar"
 
 msgctxt "18||PRE01_030||title"
 msgid "A Strange Combination"
-msgstr ""
+msgstr "Una strana combinazione"
 
 msgctxt "19||PRE01_040||title"
 msgid "Events of 2012"
-msgstr ""
+msgstr "Gli eventi del 2012"
 
 msgctxt "20||PRE01_079||title"
 msgid "Wandering"
-msgstr ""
+msgstr "Vagabondando"
 
 msgctxt "21||SCN02_020||title"
 msgid "Step Aside"
-msgstr ""
+msgstr "Fatti da parte"
 
 msgctxt "22||SCN02_030||title"
 msgid "Acting Chairman Sugai"
-msgstr ""
+msgstr "Il presidente ad interim Sugai"
 
 msgctxt "23||SCN02_040||title"
 msgid "Showdown with Akiyama"
-msgstr ""
+msgstr "Resa dei conti con Akiyama"
 
 msgctxt "25||SCN02_060||title"
 msgid "Who's the Father?"
-msgstr ""
+msgstr "Chi è il padre?"
 
 msgctxt "26||PRE03_005||title"
 msgid "Jingaicho, Onomichi"
-msgstr ""
+msgstr "Jingaicho, Onomichi"
 
 msgctxt "27||SCN03_020||title"
 msgid "Tears"
-msgstr ""
+msgstr "Lacrime"
 
 msgctxt "28||SCN03_030||title"
 msgid "The Dragon In Despair"
-msgstr ""
+msgstr "La disperazione del Drago"
 
 msgctxt "29||SCN03_040||title"
 msgid "You're On Our Turf Now"
-msgstr ""
+msgstr "Ora sei nel nostro territorio"
 
 msgctxt "30||SCN03_050||title"
 msgid "Hit By Pitcher"
-msgstr ""
+msgstr "Colpito dal lanciatore"
 
 msgctxt "33||SCN03_080||title"
 msgid "Nagumo's Pride"
-msgstr ""
+msgstr "L'orgoglio di Nagumo"
 
 msgctxt "34||SCN03_090||title"
 msgid "Love Thy Fellow Man"
-msgstr ""
+msgstr "Ama il tuo prossimo"
 
 msgctxt "35||SCN04_010||title"
 msgid "A Casual Patriarch"
-msgstr ""
+msgstr "Un patriarca disinvolto"
 
 msgctxt "36||SCN04_020||title"
 msgid "Welcome To Jingaicho"
-msgstr ""
+msgstr "Benvenuto a Jingaicho"
 
 msgctxt "37||SCN04_030||title"
 msgid "Terrible Liars"
-msgstr ""
+msgstr "Pessimi bugiardi"
 
 msgctxt "38||SCN04_040||title"
 msgid "They're Not So Bad"
-msgstr ""
+msgstr "Non sono poi così male"
 
 msgctxt "39||SCN04_045||title"
 msgid "Captain Koshimizu"
-msgstr ""
+msgstr "Il capitano Koshimizu"
 
 msgctxt "41||SCN04_060||title"
 msgid "Friends of Haruka"
-msgstr ""
+msgstr "Gli amici di Haruka"
 
 msgctxt "42||SCN05_010||title"
 msgid "Changing Diapers"
-msgstr ""
+msgstr "Cambio di pannolini"
 
 msgctxt "43||PRE05_020||title"
 msgid "Memories of Haruka"
-msgstr ""
+msgstr "I ricordi di Haruka"
 
 msgctxt "44||SCN05_030||title"
 msgid "A Surprise Visitor"
-msgstr ""
+msgstr "Un ospite a sorpresa"
 
 msgctxt "45||SCN05_040||title"
 msgid "Kiyomi Kidnapped"
-msgstr ""
+msgstr "Kiyomi rapita"
 
 msgctxt "46||SCN05_050||title"
 msgid "Cover Yourselves"
-msgstr ""
+msgstr "Copritevi"
 
 msgctxt "47||SCN05_060||title"
 msgid "The Masked Heroes Arrive"
-msgstr ""
+msgstr "L'arrivo degli eroi mascherati"
 
 msgctxt "48||SCN05_070||title"
 msgid "In the Sauna"
-msgstr ""
+msgstr "Nella sauna"
 
 msgctxt "49||SCN05_080||title"
 msgid "Old vs. New"
-msgstr ""
+msgstr "Il vecchio contro il nuovo"
 
 msgctxt "50||SCN05_090||title"
 msgid "The Man of Legend"
-msgstr ""
+msgstr "L'uomo leggendario"
 
 msgctxt "51||SCN05_110||title"
 msgid "Haruto's Dad"
-msgstr ""
+msgstr "Il papà di Haruto"
 
 msgctxt "52||SCN06_010||title"
 msgid "We're Off to Kamurocho"
-msgstr ""
+msgstr "Si parte per Kamurocho"
 
 msgctxt "54||SCN06_030||title"
 msgid "Enter Joon-gi Han"
-msgstr ""
+msgstr "Entra in scena Joon-gi Han"
 
 msgctxt "55||SCN06_040||title"
 msgid "The Eden of Tokyo"
-msgstr ""
+msgstr "L'Eden di Tokyo"
 
 msgctxt "58||SCN06_070||title"
 msgid "Tatsukawa's Fate"
-msgstr ""
+msgstr "Il destino di Tatsukawa"
 
 msgctxt "59||SCN07_020||title"
 msgid "Reunion with Ed"
-msgstr ""
+msgstr "Riunione con Ed"
 
 msgctxt "60||SCN07_030||title"
 msgid "A Familiar Face"
-msgstr ""
+msgstr "Un volto familiare"
 
 msgctxt "61||SCN07_035||title"
 msgid "Saio Triad Leader, Big Lo"
-msgstr ""
+msgstr "Big Lo, leader della Triade Saio"
 
 msgctxt "62||PRE07_040||title"
 msgid "The Secret Of Onomichi"
-msgstr ""
+msgstr "Il segreto di Onomichi"
 
 msgctxt "63||PRE08_005||title"
 msgid "Rage"
-msgstr ""
+msgstr "Rabbia"
 
 msgctxt "64||SCN08_020||title"
 msgid "Someya's Plot"
-msgstr ""
+msgstr "Il complotto di Someya"
 
 msgctxt "65||SCN08_030||title"
 msgid "At His Mercy"
-msgstr ""
+msgstr "Alla sua mercé"
 
 msgctxt "66||SCN08_035||title"
 msgid "Haruto Missing"
-msgstr ""
+msgstr "Haruto scomparso"
 
 msgctxt "67||SCN09_010||title"
 msgid "Someya and Kiyomi"
-msgstr ""
+msgstr "Someya e Kiyomi"
 
 msgctxt "68||SCN09_020||title"
 msgid "All For Love"
-msgstr ""
+msgstr "Tutto per amore"
 
 msgctxt "69||SCN09_030||title"
 msgid "A Hiroshima Throwdown"
-msgstr ""
+msgstr "Scontro a Hiroshima"
 
 msgctxt "70||SCN09_040||title"
 msgid "Missing No Longer"
-msgstr ""
+msgstr "Ritrovato"
 
 msgctxt "71||SCN09_050||title"
 msgid "Haruto's Real Father"
-msgstr ""
+msgstr "Il vero padre di Haruto"
 
 msgctxt "72||SCN10_010||title"
 msgid "Haruka And Yuta"
-msgstr ""
+msgstr "Haruka e Yuta"
 
 msgctxt "73||PRE10_020||title"
 msgid "Masuzoe Confesses"
-msgstr ""
+msgstr "La confessione di Masuzoe"
 
 msgctxt "74||SCN10_030||title"
 msgid "Surprise Attack"
-msgstr ""
+msgstr "Attacco a sorpresa"
 
 msgctxt "75||SCN10_040||title"
 msgid "Upsy-Daisy"
-msgstr ""
+msgstr "Oplà"
 
 msgctxt "76||SCN10_050||title"
 msgid "Iron Fist"
-msgstr ""
+msgstr "Pugno di ferro"
 
 msgctxt "77||SCN10_060||title"
 msgid "Yuta's Determination"
-msgstr ""
+msgstr "La determinazione di Yuta"
 
 msgctxt "78||PRE10_070||title"
 msgid "The Accident"
-msgstr ""
+msgstr "L'incidente"
 
 msgctxt "79||PRE10_090||title"
 msgid "Han's Death"
-msgstr ""
+msgstr "La morte di Han"
 
 msgctxt "80||SCN11_010||title"
 msgid "Father-Son Time"
-msgstr ""
+msgstr "Padre e figlio"
 
 msgctxt "81||SCN11_015||title"
 msgid "Abandon"
-msgstr ""
+msgstr "Abbandono"
 
 msgctxt "82||SCN11_030||title"
 msgid "Little Asia Up in Flames"
-msgstr ""
+msgstr "Little Asia in fiamme"
 
 msgctxt "83||SCN11_040||title"
 msgid "In the Fire"
-msgstr ""
+msgstr "Tra le fiamme"
 
 msgctxt "84||PRE11_050||title"
 msgid "A Tragic Family"
-msgstr ""
+msgstr "Una famiglia tragica"
 
 msgctxt "85||SCN11_060||title"
 msgid "The Burden of Life"
-msgstr ""
+msgstr "Il peso della vita"
 
 msgctxt "86||SCN11_070||title"
 msgid "Hirose's Identity"
-msgstr ""
+msgstr "L'identità di Hirose"
 
 msgctxt "87||PRE11_080||title"
 msgid "The Truth Revealed"
-msgstr ""
+msgstr "La verità svelata"
 
 msgctxt "88||PRE12_010||title"
 msgid "Kurusu And Hirose"
-msgstr ""
+msgstr "Kurusu e Hirose"
 
 msgctxt "90||SCN12_040||title"
 msgid "A Deadly Duel"
-msgstr ""
+msgstr "Un duello mortale"
 
 msgctxt "91||PRE12_060||title"
 msgid "The Secret Revealed"
-msgstr ""
+msgstr "Il segreto svelato"
 
 msgctxt "92||SCN12_070||title"
 msgid "Hirose's Boss"
-msgstr ""
+msgstr "Il capo di Hirose"
 
 msgctxt "93||SCN12_080||title"
 msgid "Hirose Confesses"
-msgstr ""
+msgstr "La confessione di Hirose"
 
 msgctxt "94||SCN12_090||title"
 msgid "How It All Began"
-msgstr ""
+msgstr "Come tutto ebbe inizio"
 
 msgctxt "95||PRE12_100||title"
 msgid "Hirose's Final Breath"
-msgstr ""
+msgstr "L'ultimo respiro di Hirose"
 
 msgctxt "96||SCN13_010||title"
 msgid "Like Father, Like Son"
-msgstr ""
+msgstr "Tale padre, tale figlio"
 
 msgctxt "97||SCN13_020||title"
 msgid "Farewell"
-msgstr ""
+msgstr "Addio"
 
 msgctxt "98||SCN13_030||title"
 msgid "Meeting with Daidoji"
-msgstr ""
+msgstr "Incontro con Daidoji"
 
 msgctxt "99||SCN13_040||title"
 msgid "Haruka Awakens"
-msgstr ""
+msgstr "Il risveglio di Haruka"
 
 msgctxt "100||SCN13_050||title"
 msgid "Reunited"
-msgstr ""
+msgstr "Riuniti"
 
 msgctxt "101||PRE13_060||title"
 msgid "We'll Show Ourselves Up"
-msgstr ""
+msgstr "Ci presenteremo da soli"
 
 msgctxt "102||PRE13_070||title"
 msgid "Someya Loses Control"
-msgstr ""
+msgstr "Someya perde il controllo"
 
 msgctxt "103||PRE13_080||title"
 msgid "My Life For Hers"
-msgstr ""
+msgstr "La mia vita per la sua"
 
 msgctxt "104||PRE13_090||title"
 msgid "Terminus"
-msgstr ""
+msgstr "Capolinea"
 
 msgctxt "105||PRE13_100||title"
 msgid "An End to It All"
-msgstr ""
+msgstr "La fine di tutto"
 
 msgctxt "106||PRE13_110||title"
 msgid "For the People I Love"
-msgstr ""
+msgstr "Per le persone che amo"
 
 msgctxt "107||PRE13_120||title"
 msgid "Mother and Daughter"
-msgstr ""
+msgstr "Madre e figlia"
 
 msgctxt "108||SCN13_130||title"
 msgid "The Sixth Chairman Returns"
-msgstr ""
+msgstr "Il ritorno del sesto presidente"
 
 msgctxt "109||PRE13_140||title"
 msgid "The Letter"
-msgstr ""
+msgstr "La lettera"
 
 msgctxt "110||SCN13_150||title"
 msgid "His Father's Will"
-msgstr ""
+msgstr "Le volontà di suo padre"
 
 msgctxt "111||PRE13_160||title"
 msgid "Toward the Future"
-msgstr ""
+msgstr "Verso il futuro"
 
 msgctxt "112||PRE02_050||title"
 msgid "A Helping Hand"
-msgstr ""
+msgstr "Una mano d'aiuto"
 
 msgctxt "113||PRE03_060||title"
 msgid "Recurrence"
-msgstr ""
+msgstr "Ricorrenza"
 
 msgctxt "114||PRE06_020||title"
 msgid "A Lesson in Manners"
-msgstr ""
+msgstr "Una lezione di buone maniere"
 
 msgctxt "115||PRE06_050||title"
 msgid "Instinct Laid Bare"
-msgstr ""
+msgstr "Puro istinto"
 
 msgctxt "116||PRE06_060||title"
 msgid "Sportsmanship"
-msgstr ""
+msgstr "Sportività"
 
 msgctxt "117||PRE12_020||title"
 msgid "The Night Of The Fire"
-msgstr ""
-
+msgstr "La notte dell'incendio"
