@@ -9,29 +9,29 @@ msgstr ""
 
 msgctxt "1||cos_kam_nor||name"
 msgid "Kamurocho Style"
-msgstr ""
+msgstr "Stile Kamurocho"
 
 msgctxt "2||cos_ono_nor||name"
 msgid "Onomichi Style"
-msgstr ""
+msgstr "Stile Onomichi"
 
 msgctxt "3||cos_mask||name"
 msgid "Ski Mask Outfit"
-msgstr ""
+msgstr "Completo con passamontagna"
 
 msgctxt "4||cos_baseball||name"
 msgid "Baseball Uniform"
-msgstr ""
+msgstr "Divisa da baseball"
 
 msgctxt "5||cos_mourning||name"
 msgid "Funeral Suit"
-msgstr ""
+msgstr "Abito funerale"
 
 msgctxt "6||cos_doll||name"
 msgid "Ono Michio"
-msgstr ""
+msgstr "Ono Michio"
 
 msgctxt "7||cos_cancel||name"
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 

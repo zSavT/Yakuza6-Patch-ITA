@@ -9,73 +9,73 @@ msgstr ""
 
 msgctxt "1||option||name"
 msgid "Game Settings"
-msgstr ""
+msgstr "Impostazioni di gioco"
 
 msgctxt "2||save||name"
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 msgctxt "3||load||name"
 msgid "Load"
-msgstr ""
+msgstr "Carica"
 
 msgctxt "4||return_to_title||name"
 msgid "Quit Game"
-msgstr ""
+msgstr "Esci dal gioco"
 
 msgctxt "5||audio_option||name"
 msgid "Audio Settings"
-msgstr ""
+msgstr "Impostazioni audio"
 
 msgctxt "6||profile||name"
 msgid "Character Profiles"
-msgstr ""
+msgstr "Profili dei personaggi"
 
 msgctxt "7||controller_guide||name"
 msgid "Controls"
-msgstr ""
+msgstr "Comandi"
 
 msgctxt "8||pause_graphics_settings||name"
 msgid "Graphics Settings"
-msgstr ""
+msgstr "Impostazioni grafiche"
 
 msgctxt "9||pause_controls_settings||name"
 msgid "Controls"
-msgstr ""
+msgstr "Comandi"
 
 msgctxt "1||option||explanation"
 msgid "Change settings related to gameplay."
-msgstr ""
+msgstr "Modifica le impostazioni relative al gioco."
 
 msgctxt "2||save||explanation"
 msgid "Select the file you would like to save current game progress to."
-msgstr ""
+msgstr "Seleziona il file su cui desideri salvare i progressi di gioco attuali."
 
 msgctxt "3||load||explanation"
 msgid "Load Game."
-msgstr ""
+msgstr "Carica una partita."
 
 msgctxt "4||return_to_title||explanation"
 msgid "Quit playing and return to the title screen."
-msgstr ""
+msgstr "Smetti di giocare e torna alla schermata del titolo."
 
 msgctxt "5||audio_option||explanation"
 msgid "Change settings related to audio."
-msgstr ""
+msgstr "Modifica le impostazioni audio."
 
 msgctxt "6||profile||explanation"
 msgid "View information on primary characters."
-msgstr ""
+msgstr "Visualizza le informazioni sui personaggi principali."
 
 msgctxt "7||controller_guide||explanation"
 msgid "Check how to use the controls."
-msgstr ""
+msgstr "Controlla l'utilizzo dei comandi."
 
 msgctxt "8||pause_graphics_settings||explanation"
 msgid "Configure graphics settings."
-msgstr ""
+msgstr "Configura le impostazioni grafiche."
 
 msgctxt "9||pause_controls_settings||explanation"
 msgid "Customize game controls."
-msgstr ""
+msgstr "Personalizza i comandi di gioco."
 

@@ -9,949 +9,948 @@ msgstr ""
 
 msgctxt "1||trial||message"
 msgid "How to Play"
-msgstr ""
+msgstr "Come giocare"
 
 msgctxt "2||mahjong0||message"
 msgid "Mahjong"
-msgstr ""
+msgstr "Mahjong"
 
 msgctxt "3||spear0||message"
 msgid "Spearfishing"
-msgstr ""
+msgstr "Pesca subacquea"
 
 msgctxt "4||batting0||message"
 msgid "Batting Center"
-msgstr ""
+msgstr "Gabbie di battuta"
 
 msgctxt "5||baseball0||message"
 msgid "Baseball"
-msgstr ""
+msgstr "Baseball"
 
 msgctxt "6||snack0||message"
 msgid "New Gaudi"
-msgstr ""
+msgstr "New Gaudi"
 
 msgctxt "7||cabaret0||message"
 msgid "Cabaret Club"
-msgstr ""
+msgstr "Cabaret Club"
 
 msgctxt "8||darts0||message"
 msgid "Darts"
-msgstr ""
+msgstr "Freccette"
 
 msgctxt "9||gym_bp||message"
 msgid "Bench Presses"
-msgstr ""
+msgstr "Panca piana"
 
 msgctxt "10||gym_sq||message"
 msgid "Squats"
-msgstr ""
+msgstr "Squat"
 
 msgctxt "11||gym_dl||message"
 msgid "Deadlifts"
-msgstr ""
+msgstr "Stacchi da terra"
 
 msgctxt "12||gym_sj||message"
 msgid "Jump Squats"
-msgstr ""
+msgstr "Jump Squat"
 
 msgctxt "13||gym_lp||message"
 msgid "Lat Pulldowns"
-msgstr ""
+msgstr "Lat Machine"
 
 msgctxt "14||gym_sr||message"
 msgid "Seated Row"
-msgstr ""
+msgstr "Pulley"
 
 msgctxt "15||clan0||message"
 msgid "Clan Creator Battles"
-msgstr ""
+msgstr "Battaglie Creatore di Clan"
 
 msgctxt "16||karaoke0||message"
 msgid "Karaoke"
-msgstr ""
+msgstr "Karaoke"
 
 msgctxt "17||baby0||message"
 msgid "Calming Haruto"
-msgstr ""
+msgstr "Calmare Haruto"
 
 msgctxt "18||saisen0||message"
 msgid "Donation Box"
-msgstr ""
+msgstr "Cassa delle offerte"
 
 msgctxt "19||livechat0||message"
 msgid "Live Chat"
-msgstr ""
+msgstr "Live Chat"
 
 msgctxt "20||sega_fzn||message"
 msgid "Fantasy Zone"
-msgstr ""
+msgstr "Fantasy Zone"
 
 msgctxt "21||sega_hng||message"
 msgid "Super Hang-On"
-msgstr ""
+msgstr "Super Hang-On"
 
 msgctxt "22||sega_otr||message"
 msgid "Out Run"
-msgstr ""
+msgstr "Out Run"
 
 msgctxt "23||sega_sph||message"
 msgid "Space Harrier"
-msgstr ""
+msgstr "Space Harrier"
 
 msgctxt "24||clan1||message"
 msgid "Clan Creator Menu"
-msgstr ""
+msgstr "Menu Creatore di Clan"
 
 msgctxt "25||karaoke1||message"
 msgid "Karaoke Interjections"
-msgstr ""
+msgstr "Interiezioni Karaoke"
 
 msgctxt "26||snack1||message"
 msgid "New Gaudi Conversation Events"
-msgstr ""
+msgstr "Eventi di conversazione New Gaudi"
 
 msgctxt "27||batting1||message"
 msgid "Batting Center"
-msgstr ""
+msgstr "Gabbie di battuta"
 
 msgctxt "28||snack2||message"
 msgid "New Gaudi Conversation Events"
-msgstr ""
+msgstr "Eventi di conversazione New Gaudi"
 
 msgctxt "29||mahjong0_b||message"
 msgid "Mahjong"
-msgstr ""
+msgstr "Mahjong"
 
 msgctxt "1||trial||buttons||0||||2"
 msgid "Extreme Heat Mode"
-msgstr ""
+msgstr "Modalità Furore Estremo"
 
 msgctxt "1||trial||buttons||1||||2"
 msgid "Reset Camera / Disable Heat Actions"
-msgstr ""
+msgstr "Reimposta telecamera / Disattiva Azioni Furore"
 
 msgctxt "1||trial||buttons||2||||2"
 msgid "Guard / Change Grab Type"
-msgstr ""
+msgstr "Parata / Cambia tipo di presa"
 
 msgctxt "1||trial||buttons||3||||2"
 msgid "Fighting Stance"
-msgstr ""
+msgstr "Posa da combattimento"
 
 msgctxt "1||trial||buttons||4||||2"
 msgid "Strong Attack / Heat Action"
-msgstr ""
+msgstr "Attacco forte / Azione Furore"
 
 msgctxt "1||trial||buttons||5||||2"
 msgid "Weak Attack"
-msgstr ""
+msgstr "Attacco debole"
 
 msgctxt "1||trial||buttons||6||||2"
 msgid "Grab / Throw"
-msgstr ""
+msgstr "Presa / Lancio"
 
 msgctxt "1||trial||buttons||7||||2"
 msgid "Quickstep / Sprint (Outside of Battle)"
-msgstr ""
+msgstr "Passo rapido / Scatto (Fuori dalla battaglia)"
 
 msgctxt "1||trial||buttons||8||||2"
 msgid "Move Camera"
-msgstr ""
+msgstr "Muovi telecamera"
 
 msgctxt "1||trial||buttons||9||||2"
 msgid "Move"
-msgstr ""
+msgstr "Muovi"
 
 msgctxt "1||trial||buttons||10||||2"
 msgid "First Person View (Outside of Battle)"
-msgstr ""
+msgstr "Visuale in prima persona (Fuori dalla battaglia)"
 
 msgctxt "1||trial||buttons||11||||2"
 msgid "Take Out Camera (Outside of Battle)"
-msgstr ""
+msgstr "Usa la fotocamera (Fuori dalla battaglia)"
 
 msgctxt "1||trial||buttons||12||||2"
 msgid "Drop Weapon"
-msgstr ""
+msgstr "Lascia l'arma"
 
 msgctxt "1||trial||buttons||13||||2"
 msgid "Check Inbox (Outside of Battle)"
-msgstr ""
+msgstr "Controlla i messaggi (Fuori dalla battaglia)"
 
 msgctxt "1||trial||buttons||14||||2"
 msgid "Open Troublr (Outside of Battle)"
-msgstr ""
+msgstr "Apri Troublr (Fuori dalla battaglia)"
 
 msgctxt "1||trial||buttons||15||||2"
 msgid "View Map"
-msgstr ""
+msgstr "Visualizza la mappa"
 
 msgctxt "1||trial||buttons||16||||2"
 msgid "Open Pause Menu"
-msgstr ""
+msgstr "Apri menu di pausa"
 
 msgctxt "2||mahjong0||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "2||mahjong0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "2||mahjong0||buttons||2||||2"
 msgid "Select Tile"
-msgstr ""
+msgstr "Seleziona tessera"
 
 msgctxt "2||mahjong0||buttons||3||||2"
 msgid "Select Tile"
-msgstr ""
+msgstr "Seleziona tessera"
 
 msgctxt "2||mahjong0||buttons||4||||2"
 msgid "Check Discard"
-msgstr ""
+msgstr "Controlla scarti"
 
 msgctxt "2||mahjong0||buttons||5||||2"
 msgid "View Tutorial"
-msgstr ""
+msgstr "Visualizza tutorial"
 
 msgctxt "2||mahjong0||buttons||6||||2"
 msgid "Toggle Command Display"
-msgstr ""
+msgstr "Mostra/Nascondi comandi"
 
 msgctxt "2||mahjong0||buttons||7||||2"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "2||mahjong0||buttons||8||||2"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "3||spear0||buttons||0||||2"
 msgid "Pause/Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "3||spear0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "3||spear0||buttons||2||||2"
 msgid "Move Cursor"
-msgstr ""
+msgstr "Muovi cursore"
 
 msgctxt "3||spear0||buttons||3||||2"
 msgid "Reload/Cancel"
-msgstr ""
+msgstr "Ricarica / Annulla"
 
 msgctxt "3||spear0||buttons||4||||2"
 msgid "Shoot"
-msgstr ""
+msgstr "Spara"
 
 msgctxt "3||spear0||buttons||5||||2"
 msgid "Shoot"
-msgstr ""
+msgstr "Spara"
 
 msgctxt "3||spear0||buttons||6||||2"
 msgid "Reload"
-msgstr ""
+msgstr "Ricarica"
 
 msgctxt "4||batting0||buttons||0||||2"
 msgid "Pause / Quit\r\nTouch to Move Swing Cursor\r\nRelease to Swing Bat"
-msgstr ""
+msgstr "Pausa / Esci\r\nTocca per muovere il cursore di battuta\r\nRilascia per ruotare la mazza"
 
 msgctxt "4||batting0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "4||batting0||buttons||2||||2"
 msgid "Move Swing Cursor"
-msgstr ""
+msgstr "Muovi cursore di battuta"
 
 msgctxt "4||batting0||buttons||3||||2"
 msgid "Rules"
-msgstr ""
+msgstr "Regole"
 
 msgctxt "4||batting0||buttons||4||||2"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "4||batting0||buttons||5||||2"
 msgid "Swing Bat\r\nConfirm"
-msgstr ""
+msgstr "Ruota mazza\r\nConferma"
 
 msgctxt "5||baseball0||buttons||0||||2"
 msgid "Pause / Quit\r\nTouch to Move Swing Cursor\r\nRelease to Swing Bat"
-msgstr ""
+msgstr "Pausa / Esci\r\nTocca per muovere il cursore di battuta\r\nRilascia per ruotare la mazza"
 
 msgctxt "5||baseball0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "5||baseball0||buttons||2||||2"
 msgid "Move Swing Cursor"
-msgstr ""
+msgstr "Muovi cursore di battuta"
 
 msgctxt "5||baseball0||buttons||3||||2"
 msgid "Move Cursor"
-msgstr ""
+msgstr "Muovi cursore"
 
 msgctxt "5||baseball0||buttons||4||||2"
 msgid "Change Game Speed"
-msgstr ""
+msgstr "Cambia velocità di gioco"
 
 msgctxt "5||baseball0||buttons||5||||2"
 msgid "Rules"
-msgstr ""
+msgstr "Regole"
 
 msgctxt "5||baseball0||buttons||6||||2"
 msgid "Substitute Players"
-msgstr ""
+msgstr "Sostituisci giocatori"
 
 msgctxt "5||baseball0||buttons||7||||2"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "5||baseball0||buttons||8||||2"
 msgid "Swing Bat\r\nConfirm"
-msgstr ""
+msgstr "Ruota mazza\r\nConferma"
 
 msgctxt "6||snack0||buttons||0||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "6||snack0||buttons||1||||2"
 msgid "Move"
-msgstr ""
+msgstr "Muovi"
 
 msgctxt "6||snack0||buttons||2||||2"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "6||snack0||buttons||3||||2"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "7||cabaret0||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "7||cabaret0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "7||cabaret0||buttons||2||||2"
 msgid "Select a Card"
-msgstr ""
+msgstr "Seleziona una carta"
 
 msgctxt "7||cabaret0||buttons||3||||2"
 msgid "Select a Card"
-msgstr ""
+msgstr "Seleziona una carta"
 
 msgctxt "7||cabaret0||buttons||4||||2"
 msgid "Check Profile"
-msgstr ""
+msgstr "Controlla profilo"
 
 msgctxt "7||cabaret0||buttons||5||||2"
 msgid "Exchange Cards"
-msgstr ""
+msgstr "Scambia carte"
 
 msgctxt "7||cabaret0||buttons||6||||2"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "7||cabaret0||buttons||7||||2"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "8||darts0||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "8||darts0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "8||darts0||buttons||2||||2"
 msgid "Move Cursor"
-msgstr ""
+msgstr "Muovi cursore"
 
 msgctxt "8||darts0||buttons||3||||2"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "8||darts0||buttons||4||||2"
 msgid "Throw / Select"
-msgstr ""
+msgstr "Lancia / Seleziona"
 
 msgctxt "8||darts0||buttons||5||||2"
 msgid "Move Camera (On Opponent's Turn)"
-msgstr ""
+msgstr "Muovi telecamera (Nel turno dell'avversario)"
 
 msgctxt "9||gym_bp||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "9||gym_bp||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "9||gym_bp||buttons||2||||2"
 msgid "Press Rapidly to Raise Barbell"
-msgstr ""
+msgstr "Premi ripetutamente per sollevare il bilanciere"
 
 msgctxt "9||gym_bp||buttons||3||||2"
 msgid "Press Rapidly to Raise Barbell"
-msgstr ""
+msgstr "Premi ripetutamente per sollevare il bilanciere"
 
 msgctxt "10||gym_sq||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "10||gym_sq||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "10||gym_sq||buttons||2||||2"
 msgid "Squat"
-msgstr ""
+msgstr "Squat"
 
 msgctxt "11||gym_dl||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "11||gym_dl||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "11||gym_dl||buttons||2||||2"
 msgid "Mash to Lift"
-msgstr ""
+msgstr "Premi ripetutamente per sollevare"
 
 msgctxt "12||gym_sj||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "12||gym_sj||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "12||gym_sj||buttons||2||||2"
 msgid "Jump Squat"
-msgstr ""
+msgstr "Jump Squat"
 
 msgctxt "12||gym_sj||buttons||3||||2"
 msgid "Jump Squat"
-msgstr ""
+msgstr "Jump Squat"
 
 msgctxt "12||gym_sj||buttons||4||||2"
 msgid "Jump Squat"
-msgstr ""
+msgstr "Jump Squat"
 
 msgctxt "12||gym_sj||buttons||5||||2"
 msgid "Jump Squat"
-msgstr ""
+msgstr "Jump Squat"
 
 msgctxt "13||gym_lp||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "13||gym_lp||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "13||gym_lp||buttons||2||||2"
 msgid "Press the L1 and R1 buttons at\r\nthe same time to raise/lower bar"
-msgstr ""
+msgstr "Premi contemporaneamente i tasti L1 e R1\r\nper sollevare/abbassare la barra"
 
 msgctxt "13||gym_lp||buttons||3||||2"
 msgid "Press the L1 and R1 buttons at\r\nthe same time to raise/lower bar"
-msgstr ""
+msgstr "Premi contemporaneamente i tasti L1 e R1\r\nper sollevare/abbassare la barra"
 
 msgctxt "14||gym_sr||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "14||gym_sr||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "14||gym_sr||buttons||2||||2"
 msgid "Hold to Increase Gauge\r\nRelease to Stop Gauge"
-msgstr ""
+msgstr "Tieni premuto per aumentare l'indicatore\r\nRilascia per fermare l'indicatore"
 
 msgctxt "15||clan0||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "15||clan0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "15||clan0||buttons||2||||2"
 msgid "Move Cursor"
-msgstr ""
+msgstr "Muovi cursore"
 
 msgctxt "15||clan0||buttons||3||||2"
 msgid "Select Unit"
-msgstr ""
+msgstr "Seleziona unità"
 
 msgctxt "15||clan0||buttons||4||||2"
 msgid "Select Unit"
-msgstr ""
+msgstr "Seleziona unità"
 
 msgctxt "15||clan0||buttons||5||||2"
 msgid "Select Unit"
-msgstr ""
+msgstr "Seleziona unità"
 
 msgctxt "15||clan0||buttons||6||||2"
 msgid "Skill Activation"
-msgstr ""
+msgstr "Attivazione abilità"
 
 msgctxt "15||clan0||buttons||7||||2"
 msgid "Snap to Selected Leader"
-msgstr ""
+msgstr "Aggancia al leader selezionato"
 
 msgctxt "15||clan0||buttons||8||||2"
 msgid "Increase Cursor Speed"
-msgstr ""
+msgstr "Aumenta velocità cursore"
 
 msgctxt "15||clan0||buttons||9||||2"
 msgid "Deploy Unit / Move Leader"
-msgstr ""
+msgstr "Schiera unità / Muovi leader"
 
 msgctxt "16||karaoke0||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "16||karaoke0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "16||karaoke0||buttons||2||||2"
 msgid "Press / Rapid Press / Hold to Sing"
-msgstr ""
+msgstr "Premi / Premi ripetutamente / Tieni premuto per cantare"
 
 msgctxt "16||karaoke0||buttons||3||||2"
 msgid "Press / Rapid Press / Hold to Sing"
-msgstr ""
+msgstr "Premi / Premi ripetutamente / Tieni premuto per cantare"
 
 msgctxt "16||karaoke0||buttons||4||||2"
 msgid "Press / Rapid Press / Hold to Sing"
-msgstr ""
+msgstr "Premi / Premi ripetutamente / Tieni premuto per cantare"
 
 msgctxt "16||karaoke0||buttons||5||||2"
 msgid "Press / Rapid Press / Hold to Sing"
-msgstr ""
+msgstr "Premi / Premi ripetutamente / Tieni premuto per cantare"
 
 msgctxt "17||baby0||buttons||0||||2"
 msgid "Controls"
-msgstr ""
+msgstr "Comandi"
 
 msgctxt "17||baby0||buttons||1||||2"
 msgid "Press <symbol=vf5_key_arrow_n8> on both the left\r\nand right sticks to raise Haruto up"
-msgstr ""
+msgstr "Premi <symbol=vf5_key_arrow_n8> su entrambe le levette\r\nper sollevare Haruto"
 
 msgctxt "17||baby0||buttons||2||||2"
 msgid "Press <symbol=vf5_key_arrow_n8> on both the left\r\nand right sticks to raise Haruto up"
-msgstr ""
+msgstr "Premi <symbol=vf5_key_arrow_n8> su entrambe le levette\r\nper sollevare Haruto"
 
 msgctxt "17||baby0||buttons||3||||2"
 msgid "Head Rub"
-msgstr ""
+msgstr "Accarezza la testa"
 
 msgctxt "17||baby0||buttons||4||||2"
 msgid "Pacify Haruto by shaking the controller up/down and left/right."
-msgstr ""
+msgstr "Calma Haruto scuotendo il controller su/giù e sinistra/destra."
 
 msgctxt "18||saisen0||buttons||0||||2"
 msgid "Throw Money"
-msgstr ""
+msgstr "Lancia monete"
 
 msgctxt "18||saisen0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "18||saisen0||buttons||2||||2"
 msgid "Stop Right Reel"
-msgstr ""
+msgstr "Ferma rullo destro"
 
 msgctxt "18||saisen0||buttons||3||||2"
 msgid "Stop Left Reel"
-msgstr ""
+msgstr "Ferma rullo sinistro"
 
 msgctxt "18||saisen0||buttons||4||||2"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "18||saisen0||buttons||5||||2"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "19||livechat0||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "19||livechat0||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "19||livechat0||buttons||2||||2"
 msgid "Enter Message"
-msgstr ""
+msgstr "Inserisci messaggio"
 
 msgctxt "19||livechat0||buttons||3||||2"
 msgid "Enter Message"
-msgstr ""
+msgstr "Inserisci messaggio"
 
 msgctxt "19||livechat0||buttons||4||||2"
 msgid "Enter Message"
-msgstr ""
+msgstr "Inserisci messaggio"
 
 msgctxt "19||livechat0||buttons||5||||2"
 msgid "Enter Message"
-msgstr ""
+msgstr "Inserisci messaggio"
 
 msgctxt "20||sega_fzn||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "20||sega_fzn||buttons||1||||2"
 msgid "Start the Game\r\nView Controls"
-msgstr ""
+msgstr "Avvia il gioco\r\nVisualizza i comandi"
 
 msgctxt "20||sega_fzn||buttons||2||||2"
 msgid "Toggle Screen Options"
-msgstr ""
+msgstr "Opzioni schermo"
 
 msgctxt "20||sega_fzn||buttons||3||||2"
 msgid "Add Credit"
-msgstr ""
+msgstr "Aggiungi credito"
 
 msgctxt "20||sega_fzn||buttons||4||||2"
 msgid "Move"
-msgstr ""
+msgstr "Muovi"
 
 msgctxt "20||sega_fzn||buttons||5||||2"
 msgid "Move"
-msgstr ""
+msgstr "Muovi"
 
 msgctxt "20||sega_fzn||buttons||6||||2"
 msgid "Shoot / Select Parts"
-msgstr ""
+msgstr "Spara / Seleziona parti"
 
 msgctxt "20||sega_fzn||buttons||7||||2"
 msgid "Bomb / Select Parts"
-msgstr ""
+msgstr "Bomba / Seleziona parti"
 
 msgctxt "20||sega_fzn||buttons||8||||2"
 msgid "Rapid Fire"
-msgstr ""
+msgstr "Fuoco rapido"
 
 msgctxt "20||sega_fzn||buttons||9||||2"
 msgid "Rapid Bombs"
-msgstr ""
+msgstr "Bombe rapide"
 
 msgctxt "21||sega_hng||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "21||sega_hng||buttons||1||||2"
 msgid "Start the Game\r\nView Controls"
-msgstr ""
+msgstr "Avvia il gioco\r\nVisualizza i comandi"
 
 msgctxt "21||sega_hng||buttons||2||||2"
 msgid "Toggle Screen Options"
-msgstr ""
+msgstr "Opzioni schermo"
 
 msgctxt "21||sega_hng||buttons||3||||2"
 msgid "Add Credit"
-msgstr ""
+msgstr "Aggiungi credito"
 
 msgctxt "21||sega_hng||buttons||4||||2"
 msgid "Move"
-msgstr ""
+msgstr "Muovi"
 
 msgctxt "21||sega_hng||buttons||5||||2"
 msgid "Move"
-msgstr ""
+msgstr "Muovi"
 
 msgctxt "21||sega_hng||buttons||6||||2"
 msgid "Turbo"
-msgstr ""
+msgstr "Turbo"
 
 msgctxt "21||sega_hng||buttons||7||||2"
 msgid "Accelerate / Confirm"
-msgstr ""
+msgstr "Accelera / Conferma"
 
 msgctxt "21||sega_hng||buttons||8||||2"
 msgid "Brake"
-msgstr ""
+msgstr "Frena"
 
 msgctxt "21||sega_hng||buttons||9||||2"
 msgid "Turbo"
-msgstr ""
+msgstr "Turbo"
 
 msgctxt "21||sega_hng||buttons||10||||2"
 msgid "Accelerate / Confirm"
-msgstr ""
+msgstr "Accelera / Conferma"
 
 msgctxt "21||sega_hng||buttons||11||||2"
 msgid "Brake"
-msgstr ""
+msgstr "Frena"
 
 msgctxt "22||sega_otr||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "22||sega_otr||buttons||1||||2"
 msgid "Start the Game\r\nView Controls"
-msgstr ""
+msgstr "Avvia il gioco\r\nVisualizza i comandi"
 
 msgctxt "22||sega_otr||buttons||2||||2"
 msgid "Toggle Screen Options"
-msgstr ""
+msgstr "Opzioni schermo"
 
 msgctxt "22||sega_otr||buttons||3||||2"
 msgid "Add Credit"
-msgstr ""
+msgstr "Aggiungi credito"
 
 msgctxt "22||sega_otr||buttons||4||||2"
 msgid "Steering Wheel"
-msgstr ""
+msgstr "Volante"
 
 msgctxt "22||sega_otr||buttons||5||||2"
 msgid "Steering Wheel"
-msgstr ""
+msgstr "Volante"
 
 msgctxt "22||sega_otr||buttons||6||||2"
 msgid "Change Gears"
-msgstr ""
+msgstr "Cambia marcia"
 
 msgctxt "22||sega_otr||buttons||7||||2"
 msgid "Accelerate / Confirm"
-msgstr ""
+msgstr "Accelera / Conferma"
 
 msgctxt "22||sega_otr||buttons||8||||2"
 msgid "Brake"
-msgstr ""
+msgstr "Frena"
 
 msgctxt "22||sega_otr||buttons||9||||2"
 msgid "Change Gears"
-msgstr ""
+msgstr "Cambia marcia"
 
 msgctxt "22||sega_otr||buttons||10||||2"
 msgid "Accelerate / Confirm"
-msgstr ""
+msgstr "Accelera / Conferma"
 
 msgctxt "22||sega_otr||buttons||11||||2"
 msgid "Brake"
-msgstr ""
+msgstr "Frena"
 
 msgctxt "23||sega_sph||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "23||sega_sph||buttons||1||||2"
 msgid "Start the Game\r\nView Controls"
-msgstr ""
+msgstr "Avvia il gioco\r\nVisualizza i comandi"
 
 msgctxt "23||sega_sph||buttons||2||||2"
 msgid "Toggle Screen Options"
-msgstr ""
+msgstr "Opzioni schermo"
 
 msgctxt "23||sega_sph||buttons||3||||2"
 msgid "Add Credit / Controls"
-msgstr ""
+msgstr "Aggiungi credito / Comandi"
 
 msgctxt "23||sega_sph||buttons||4||||2"
 msgid "Move Harrier"
-msgstr ""
+msgstr "Muovi Harrier"
 
 msgctxt "23||sega_sph||buttons||5||||2"
 msgid "Move Harrier"
-msgstr ""
+msgstr "Muovi Harrier"
 
 msgctxt "23||sega_sph||buttons||6||||2"
 msgid "Invert Y-axis"
-msgstr ""
+msgstr "Inverti asse Y"
 
 msgctxt "23||sega_sph||buttons||7||||2"
 msgid "Shoot / Confirm"
-msgstr ""
+msgstr "Spara / Conferma"
 
 msgctxt "23||sega_sph||buttons||8||||2"
 msgid "Rapid Fire"
-msgstr ""
+msgstr "Fuoco rapido"
 
 msgctxt "23||sega_sph||buttons||9||||2"
 msgid "Shoot / Confirm"
-msgstr ""
+msgstr "Spara / Conferma"
 
 msgctxt "23||sega_sph||buttons||10||||2"
 msgid "Rapid Fire"
-msgstr ""
+msgstr "Fuoco rapido"
 
 msgctxt "24||clan1||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "24||clan1||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "24||clan1||buttons||2||||2"
 msgid "Move Cursor"
-msgstr ""
+msgstr "Muovi cursore"
 
 msgctxt "24||clan1||buttons||3||||2"
 msgid "Move Cursor"
-msgstr ""
+msgstr "Muovi cursore"
 
 msgctxt "24||clan1||buttons||4||||2"
 msgid "Display Skill"
-msgstr ""
+msgstr "Mostra abilità"
 
 msgctxt "24||clan1||buttons||5||||2"
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 msgctxt "24||clan1||buttons||6||||2"
 msgid "Swap"
-msgstr ""
+msgstr "Scambia"
 
 msgctxt "24||clan1||buttons||7||||2"
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgctxt "24||clan1||buttons||8||||2"
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 msgctxt "25||karaoke1||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "25||karaoke1||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "25||karaoke1||buttons||2||||2"
 msgid "Interject"
-msgstr ""
+msgstr "Interiezione"
 
 msgctxt "25||karaoke1||buttons||3||||2"
 msgid "Maracas"
-msgstr ""
+msgstr "Maracas"
 
 msgctxt "25||karaoke1||buttons||4||||2"
 msgid "Tambourine"
-msgstr ""
+msgstr "Tamburello"
 
 msgctxt "25||karaoke1||buttons||5||||2"
 msgid "Clap"
-msgstr ""
+msgstr "Applauso"
 
 msgctxt "26||snack1||buttons||0||||2"
 msgid "Pause/Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "26||snack1||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "26||snack1||buttons||2||||2"
 msgid "Select Response"
-msgstr ""
+msgstr "Seleziona risposta"
 
 msgctxt "26||snack1||buttons||3||||2"
 msgid "Select Response"
-msgstr ""
+msgstr "Seleziona risposta"
 
 msgctxt "26||snack1||buttons||4||||2"
 msgid "Select Response"
-msgstr ""
+msgstr "Seleziona risposta"
 
 msgctxt "26||snack1||buttons||5||||2"
 msgid "Select Response"
-msgstr ""
+msgstr "Seleziona risposta"
 
 msgctxt "27||batting1||buttons||0||||2"
 msgid "Pause / Quit\r\nTouch to Move Swing Cursor\r\nRelease to Swing Bat"
-msgstr ""
+msgstr "Pausa / Esci\r\nTocca per muovere il cursore di battuta\r\nRilascia per ruotare la mazza"
 
 msgctxt "27||batting1||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "27||batting1||buttons||2||||2"
 msgid "Move Swing Cursor"
-msgstr ""
+msgstr "Muovi cursore di battuta"
 
 msgctxt "27||batting1||buttons||3||||2"
 msgid "Rules"
-msgstr ""
+msgstr "Regole"
 
 msgctxt "27||batting1||buttons||4||||2"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "27||batting1||buttons||5||||2"
 msgid "Swing Bat\r\nConfirm"
-msgstr ""
+msgstr "Ruota mazza\r\nConferma"
 
 msgctxt "28||snack2||buttons||0||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "28||snack2||buttons||1||||2"
 msgid "Select Response"
-msgstr ""
+msgstr "Seleziona risposta"
 
 msgctxt "28||snack2||buttons||2||||2"
 msgid "Select Response"
-msgstr ""
+msgstr "Seleziona risposta"
 
 msgctxt "28||snack2||buttons||3||||2"
 msgid "Select Response"
-msgstr ""
+msgstr "Seleziona risposta"
 
 msgctxt "28||snack2||buttons||4||||2"
 msgid "Select Response"
-msgstr ""
+msgstr "Seleziona risposta"
 
 msgctxt "29||mahjong0_b||buttons||0||||2"
 msgid "Pause / Quit"
-msgstr ""
+msgstr "Pausa / Esci"
 
 msgctxt "29||mahjong0_b||buttons||1||||2"
 msgid "View Controls"
-msgstr ""
+msgstr "Visualizza i comandi"
 
 msgctxt "29||mahjong0_b||buttons||2||||2"
 msgid "Select Tile"
-msgstr ""
+msgstr "Seleziona tessera"
 
 msgctxt "29||mahjong0_b||buttons||3||||2"
 msgid "Select Tile"
-msgstr ""
+msgstr "Seleziona tessera"
 
 msgctxt "29||mahjong0_b||buttons||4||||2"
 msgid "Check Discard"
-msgstr ""
+msgstr "Controlla scarti"
 
 msgctxt "29||mahjong0_b||buttons||5||||2"
 msgid "View Tutorial"
-msgstr ""
+msgstr "Visualizza tutorial"
 
 msgctxt "29||mahjong0_b||buttons||6||||2"
 msgid "Toggle Command Display"
-msgstr ""
+msgstr "Mostra/Nascondi comandi"
 
 msgctxt "29||mahjong0_b||buttons||7||||2"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgctxt "29||mahjong0_b||buttons||8||||2"
 msgid "Confirm"
-msgstr ""
-
+msgstr "Conferma"
