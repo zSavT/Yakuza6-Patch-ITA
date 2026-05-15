@@ -58651,6 +58651,302 @@ msgctxt "47||speech_list_sub_a11||table||93||||4"
 msgid "But damn, though...\nI <font_kind=yakuza_italic>knew</font_kind> that Reiko was too good to be true."
 msgstr "Però, accidenti...\nLo <font_kind=yakuza_italic>sapevo</font_kind> che Reiko era troppo bella per essere vera."
 
+msgctxt "48||speech_list_sub_a12||table||0||||4"
+msgid "Hm? Who could that be?"
+msgstr "(Mh? Chi sarà?)"
+
+msgctxt "48||speech_list_sub_a12||table||1||||4"
+msgid "It's from Date-san."
+msgstr "(È da parte di Date-san.)"
+
+msgctxt "48||speech_list_sub_a12||table||2||||4"
+msgid "That's weird. He's not really\nthe type to ask for favors."
+msgstr "(Strano. Non è proprio il tipo\nche chiede favori.)"
+
+msgctxt "48||speech_list_sub_a12||table||3||||4"
+msgid "\"Sorry, I'm busy right now.\""
+msgstr "\"Scusa, al momento sono occupato.\""
+
+msgctxt "48||speech_list_sub_a12||table||4||||4"
+msgid "Hm... What could be that urgent?\nI guess I should find out what's up."
+msgstr "(Mh... Cosa ci sarà di così urgente?\nSarà meglio scoprire che succede.)"
+
+msgctxt "48||speech_list_sub_a12||table||5||||4"
+msgid "\"Yeah. What do you need me to do?\""
+msgstr "\"Sì. Cosa ti serve che faccia?\""
+
+msgctxt "48||speech_list_sub_a12||table||6||||4"
+msgid "Prepaid cards? What are those?"
+msgstr "(Carte prepagate? E cosa sarebbero?)"
+
+msgctxt "48||speech_list_sub_a12||table||7||||4"
+msgid "\"What are those?\""
+msgstr "\"Cosa sarebbero?\""
+
+msgctxt "48||speech_list_sub_a12||table||8||||4"
+msgid "Not even an explanation.\nSounds like he's really in a hurry."
+msgstr "(Nemmeno una spiegazione.\nSembra proprio che abbia una fretta tremenda.)"
+
+msgctxt "48||speech_list_sub_a12||table||9||||4"
+msgid "Prepaid cards, huh? Not a term I know,\nbut I should be able to figure it out."
+msgstr "(Carte prepagate, eh? Non è un termine che conosco,\nma dovrei riuscire a capire cosa sono.)"
+
+msgctxt "48||speech_list_sub_a12||table||10||||4"
+msgid "\"Im on it.\""
+msgstr "\"Ci penso io.\""
+
+msgctxt "48||speech_list_sub_a12||table||11||||4"
+msgid "That's a lot of cash..."
+msgstr "(Sono un sacco di soldi...)"
+
+msgctxt "48||speech_list_sub_a12||table||12||||4"
+msgid "Wow, Date-san's pretty aggressive over email.\nI guess he can be himself when he types?"
+msgstr "(Però, Date-san è piuttosto aggressivo via mail.\nChe riesca a essere se stesso solo quando scrive?)"
+
+msgctxt "48||speech_list_sub_a12||table||13||||4"
+msgid "The Mama from New Serena's got him on\na tight leash, after all. Must be tough."
+msgstr "(Dopotutto, la proprietaria del New Serena lo tiene\nal guinzaglio corto. Dev'essere dura.)"
+
+msgctxt "48||speech_list_sub_a12||table||14||||4"
+msgid "\"All right. I'll be in touch later.\""
+msgstr "\"D'accordo. Ci sentiamo più tardi.\""
+
+msgctxt "48||speech_list_sub_a12||table||15||||4"
+msgid "So, 50 grand's worth of prepaid cards...\nI should head over to a convenience store."
+msgstr "(Quindi, carte prepagate per un valore di 50.000 yen...\nDovrei andare in un convenience store.)"
+
+msgctxt "48||speech_list_sub_a12||table||16||||4"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "48||speech_list_sub_a12||table||17||||4"
+msgid "Sorry, but do you guys have any prepaid cards?"
+msgstr "Scusa, per caso avete delle carte prepagate?"
+
+msgctxt "48||speech_list_sub_a12||table||18||||4"
+msgid "Uh, I'm sorry, sir.\nWe're completely out of stock."
+msgstr "Ehm, mi dispiace, signore.\nLe abbiamo esaurite del tutto."
+
+msgctxt "48||speech_list_sub_a12||table||19||||4"
+msgid "I see.\nThanks anyway."
+msgstr "Capisco.\nGrazie lo stesso."
+
+msgctxt "48||speech_list_sub_a12||table||20||||4"
+msgid "Sorry again, sir."
+msgstr "Ci scusi ancora, signore."
+
+msgctxt "48||speech_list_sub_a12||table||21||||4"
+msgid "No, it's okay.\nI'll try checking somewhere else."
+msgstr "No, non importa.\nProverò a controllare da qualche altra parte."
+
+msgctxt "48||speech_list_sub_a12||table||22||||4"
+msgid "Here, too?\nAre they really <font_kind=yakuza_italic>that</font_kind> popular?"
+msgstr "(Anche qui?\nSono davvero <font_kind=yakuza_italic>così</font_kind> popolari?)"
+
+msgctxt "48||speech_list_sub_a12||table||23||||4"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "48||speech_list_sub_a12||table||24||||4"
+msgid "Right, Date-san asked me to buy\na few prepaid cards for him."
+msgstr "(Giusto, Date-san mi ha chiesto di comprargli\ndelle carte prepagate.)"
+
+msgctxt "48||speech_list_sub_a12||table||25||||4"
+msgid "Sorry, but do you guys have any prepaid cards?\nI'm looking for five 10,000 yen ones."
+msgstr "Scusa, avete delle carte prepagate?\nNe cerco cinque da 10.000 yen."
+
+msgctxt "48||speech_list_sub_a12||table||26||||4"
+msgid "We most certainly do.\nYour total will be 50,000 yen."
+msgstr "Certamente.\nIl totale è di 50.000 yen."
+
+msgctxt "48||speech_list_sub_a12||table||27||||4"
+msgid "Shoot. I don't have enough cash."
+msgstr "(Accidenti. Non ho abbastanza contanti.)"
+
+msgctxt "48||speech_list_sub_a12||table||28||||4"
+msgid "Sorry, I'll be back later."
+msgstr "Scusa, tornerò più tardi."
+
+msgctxt "48||speech_list_sub_a12||table||29||||4"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "48||speech_list_sub_a12||table||30||||4"
+msgid "Okay. Here you go."
+msgstr "Ecco a lei."
+
+msgctxt "48||speech_list_sub_a12||table||31||||4"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "48||speech_list_sub_a12||table||32||||4"
+msgid "Great, I managed to get the prepaid cards\nDate-san was asking for. I should let him know."
+msgstr "(Ottimo, sono riuscito a prendere le carte prepagate\nche mi ha chiesto Date-san. Dovrei farglielo sapere.)"
+
+msgctxt "48||speech_list_sub_a12||table||33||||4"
+msgid "\"I got the cards.\""
+msgstr "\"Ho preso le carte.\""
+
+msgctxt "48||speech_list_sub_a12||table||34||||4"
+msgid "Hm... Something feels off here..."
+msgstr "(Mh... C'è qualcosa che non quadra...)"
+
+msgctxt "48||speech_list_sub_a12||table||35||||4"
+msgid "Oh well. Date-san's in trouble,\nso I should help him out as soon as I can."
+msgstr "(Beh, fa niente. Date-san è nei guai,\nquindi dovrei aiutarlo il prima possibile.)"
+
+msgctxt "48||speech_list_sub_a12||table||36||||4"
+msgid "All done."
+msgstr "(Fatto.)"
+
+msgctxt "48||speech_list_sub_a12||table||37||||4"
+msgid "\"Here are the photos.\""
+msgstr "\"Ecco le foto.\""
+
+msgctxt "48||speech_list_sub_a12||table||38||||4"
+msgid "Weird. He totally stopped responding."
+msgstr "(Strano. Ha smesso completamente di rispondere.)"
+
+msgctxt "48||speech_list_sub_a12||table||39||||4"
+msgid "Hm? What's he talking about?"
+msgstr "(Mh? Di che sta parlando?)"
+
+msgctxt "48||speech_list_sub_a12||table||40||||4"
+msgid "\"I sent the photos you wanted.\""
+msgstr "\"Ho inviato le foto che volevi.\""
+
+msgctxt "48||speech_list_sub_a12||table||42||||4"
+msgid "\"I don't understand.\""
+msgstr "\"Non capisco.\""
+
+msgctxt "48||speech_list_sub_a12||table||43||||4"
+msgid "......"
+msgstr "......"
+
+msgctxt "48||speech_list_sub_a12||table||44||||4"
+msgid "\"You don't have it, Date-san?\""
+msgstr "\"Non ce le hai tu, Date-san?\""
+
+msgctxt "48||speech_list_sub_a12||table||45||||4"
+msgid "I don't think I understand.\nDid someone scam me...?"
+msgstr "(Non credo di capire.\nQualcuno mi ha truffato...?)"
+
+msgctxt "48||speech_list_sub_a12||table||46||||4"
+msgid "\"What should I do?\""
+msgstr "\"Cosa dovrei fare?\""
+
+msgctxt "48||speech_list_sub_a12||table||47||||4"
+msgid "\"Sounds good.\""
+msgstr "\"Va bene.\""
+
+msgctxt "48||speech_list_sub_a12||table||48||||4"
+msgid "They took 50,000 yen right out from under my nose.\nI really should be more careful with this stuff..."
+msgstr "(Mi hanno sfilato 50.000 yen proprio sotto il naso.\nDovrei davvero stare più attento con queste cose...)"
+
+msgctxt "48||speech_list_sub_a12||table||49||||4"
+msgid "I wonder what he needs them for.\nMaybe I should ask."
+msgstr "Me lo chiedo a cosa gli servano.\nForse dovrei chiederglielo.)"
+
+msgctxt "48||speech_list_sub_a12||table||50||||4"
+msgid "\"What do you need them for?\""
+msgstr "\"A cosa ti servono?\""
+
+msgctxt "48||speech_list_sub_a12||table||51||||4"
+msgid "Hm? This really doesn't feel normal."
+msgstr "(Mh? Questo non sembra affatto normale.)"
+
+msgctxt "48||speech_list_sub_a12||table||52||||4"
+msgid "I need to get to the bottom of this."
+msgstr "(Devo andare in fondo a questa storia.)"
+
+msgctxt "48||speech_list_sub_a12||table||53||||4"
+msgid "\"Where are you?\""
+msgstr "\"Dove sei?\""
+
+msgctxt "48||speech_list_sub_a12||table||54||||4"
+msgid "Uh-huh."
+msgstr "Uh-huh."
+
+msgctxt "48||speech_list_sub_a12||table||55||||4"
+msgid "\"I'd rather give you the cards in person.\nI'm not so good at taking pictures.\""
+msgstr "\"Preferirei darti le carte di persona. Non sono molto bravo a fare foto.\""
+
+msgctxt "48||speech_list_sub_a12||table||56||||4"
+msgid "This just keeps getting worse."
+msgstr "(La cosa continua a peggiorare.)"
+
+msgctxt "48||speech_list_sub_a12||table||57||||4"
+msgid "\"It'd be quicker to give them to you in person.\nI'm in Kamurocho, too.\""
+msgstr "\"Farei prima a dartele di persona. Sono a Kamurocho anch'io.\""
+
+msgctxt "48||speech_list_sub_a12||table||58||||4"
+msgid "No response, huh?"
+msgstr "(Nessuna risposta, eh?)"
+
+msgctxt "48||speech_list_sub_a12||table||59||||4"
+msgid "There we go."
+msgstr "(Ecco fatto.)"
+
+msgctxt "48||speech_list_sub_a12||table||60||||4"
+msgid "\"Where should we meet?\""
+msgstr "\"Dove ci incontriamo?\""
+
+msgctxt "48||speech_list_sub_a12||table||61||||4"
+msgid "\"See you soon.\""
+msgstr "\"A presto.\""
+
+msgctxt "48||speech_list_sub_a12||table||62||||4"
+msgid "All right. I'll find out soon enough\nif this really is Date-san."
+msgstr "(Bene. Scoprirò presto se si tratta davvero di Date-san.)"
+
+msgctxt "48||speech_list_sub_a12||table||63||||4"
+msgid "This is where I'm supposed\nto meet \"Date-san\"..."
+msgstr "(Questo è il posto in cui dovrei incontrare \"Date-san\"...)"
+
+msgctxt "48||speech_list_sub_a12||table||64||||4"
+msgid "You're Kiryu-san, yes?"
+msgstr "Tu sei Kiryu-san, giusto?"
+
+msgctxt "48||speech_list_sub_a12||table||65||||4"
+msgid "You don't look like Date-san to me."
+msgstr "A me non sembri affatto Date-san."
+
+msgctxt "48||speech_list_sub_a12||table||66||||4"
+msgid "Wrong. I definitely Date-san.\nYou give prepaid card now."
+msgstr "Sbagliato. Io decisamente Date-san.\nTu dà carta prepagata ora."
+
+msgctxt "48||speech_list_sub_a12||table||67||||4"
+msgid "Some scammers you are.\nYou should never have agreed to meet me."
+msgstr "Siete proprio dei pessimi truffatori.\nNon avreste mai dovuto accettare di incontrarmi."
+
+msgctxt "48||speech_list_sub_a12||table||68||||4"
+msgid "You not going to give them to me?\nThen I take them from you!"
+msgstr "Tu no dare a me?\nAllora io prende da te!"
+
+msgctxt "48||speech_list_sub_a12||table||70||||4"
+msgid "Too slow, Date-san."
+msgstr "Troppo lento, Date-san."
+
+msgctxt "48||speech_list_sub_a12||table||71||||4"
+msgid "\"Don't worry. I handled it.\""
+msgstr "\"Non preoccuparti. Ho sistemato la cosa.\""
+
+msgctxt "48||speech_list_sub_a12||table||72||||4"
+msgid "\"The usual way.\""
+msgstr "\"Nel solito modo.\""
+
+msgctxt "48||speech_list_sub_a12||table||73||||4"
+msgid "\"I'm on the roof of the ** Building\""
+msgstr "\"Sono sul tetto del ** Building\""
+
+msgctxt "48||speech_list_sub_a12||table||74||||4"
+msgid "\"You sure do.\""
+msgstr "\"Puoi scommetterci.\""
+
+msgctxt "48||speech_list_sub_a12||table||75||||4"
+msgid "I really oughta be more careful."
+msgstr "(Dovrei davvero stare più attento.)"
+
 msgctxt "49||speech_list_sub_a13||table||0||||4"
 msgid "Hey, you there."
 msgstr ""
