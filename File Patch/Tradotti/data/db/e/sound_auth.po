@@ -679,6 +679,318 @@ msgctxt "2||speech_list_adv_shop_sp||table||0||||4"
 msgid "Welcome."
 msgstr "Benvenuto."
 
+msgctxt "1||speech_list_adv_shop_ippan||table||167||||4"
+msgid "Get out!\nAnd don't ever come back!"
+msgstr "Fuori!\nE non tornare mai più!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||168||||4"
+msgid "How could you do that...?\nPlease stay away from my store."
+msgstr "Come hai potuto...?\nLa prego di stare lontano dal mio negozio."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||169||||4"
+msgid "Wh-What am I supposed to do now?\nPlease, get away from my store!"
+msgstr "C-Cosa dovrei fare ora?\nLa prego, si allontani dal mio negozio!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||170||||4"
+msgid "I'll fix this somehow!\nPlease come again, sir!"
+msgstr "Sistemerò tutto in qualche modo!\nTorni a trovarci, signore!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||171||||4"
+msgid "This is kind of a problem...\nbut I hope you come again soon!"
+msgstr "Questo è un po' un problema...\nma spero che tornerà presto a trovarci!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||172||||4"
+msgid "I've got real problems here!\nBut... I guess these things happen."
+msgstr "Siamo davvero nei guai, qui!\nMa... immagino che siano cose che succedono."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||173||||4"
+msgid "We don't have much in stock right now,\nbut I hope you find something you want!"
+msgstr "Non abbiamo molta merce al momento,\nma spero trovi qualcosa di suo gradimento!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||174||||4"
+msgid "You've got to be kidding me!\nApologize for this, right now!"
+msgstr "Deve stare scherzando!\nSi scusi per questo, immediatamente!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||175||||4"
+msgid "You've got to be kidding me!\nAn apology isn't going to cut it!"
+msgstr "Deve stare scherzando!\nDelle semplici scuse non basteranno!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||176||||4"
+msgid "What a mess! Anyone but you would\nbe paying out the nose for this!"
+msgstr "Che disastro! Chiunque altro\npagherebbe un occhio della testa per questo!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||177||||4"
+msgid "Get out of here!"
+msgstr "Fuori di qui!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||178||||4"
+msgid "...Thank you very much."
+msgstr "...Molte grazie."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||179||||4"
+msgid "Fine, then.\nI'll let it slide just this once."
+msgstr "D'accordo, allora.\nLascerò correre solo per questa volta."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||180||||4"
+msgid "Get out!\nDon't ever come back!"
+msgstr "Fuori!\nNon tornare mai più!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||181||||4"
+msgid "How could you do that...?\nPlease stay away from my store."
+msgstr "Come hai potuto...?\nLa prego di stare lontano dal mio negozio."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||182||||4"
+msgid "Wh-What am I supposed to do now?\nPlease see yourself out this instant."
+msgstr "C-Cosa dovrei fare ora?\nLa prego di uscire in questo istante."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||183||||4"
+msgid "I'll fix this somehow!\nPlease come again, sir!"
+msgstr "Sistemerò tutto in qualche modo!\nTorni a trovarci, signore!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||184||||4"
+msgid "This is kind of a problem...\nbut I hope you come again soon!"
+msgstr "Questo è un po' un problema...\nma spero che tornerà presto a trovarci!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||185||||4"
+msgid "I've got real problems here!\nBut... I guess these things happen."
+msgstr "Siamo davvero nei guai, qui!\nMa... immagino che siano cose che succedono."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||186||||4"
+msgid "We don't have much in stock right now,\nbut I hope you find something you want!"
+msgstr "Non abbiamo molta merce al momento,\nma spero trovi qualcosa di suo gradimento!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||187||||4"
+msgid "You've got to be kidding me!\nApologize for this, right now!"
+msgstr "Deve stare scherzando!\nSi scusi per questo, immediatamente!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||188||||4"
+msgid "You've got to be kidding me!\nAn apology isn't going to cut it!"
+msgstr "Deve stare scherzando!\nDelle semplici scuse non basteranno!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||189||||4"
+msgid "What a mess! Anyone but you would\nbe paying out the nose for this!"
+msgstr "Che disastro! Chiunque altro\npagherebbe un occhio della testa per questo!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||190||||4"
+msgid "Get out of here!"
+msgstr "Fuori di qui!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||191||||4"
+msgid "...Thank you very much."
+msgstr "...Molte grazie."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||192||||4"
+msgid "Fine, then.\nI'll let it slide just this once."
+msgstr "D'accordo, allora.\nLascerò correre solo per questa volta."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||193||||4"
+msgid "Get out!\nAnd don't ever come back!"
+msgstr "Fuori!\nE non tornare mai più!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||194||||4"
+msgid "How could you do that...?\nPlease stay away from my store."
+msgstr "Come hai potuto...?\nLa prego di stare lontano dal mio negozio."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||195||||4"
+msgid "Wh-What am I supposed to do now?\nPlease, see yourself out this instant."
+msgstr "C-Cosa dovrei fare ora?\nLa prego, esca in questo istante."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||196||||4"
+msgid "I'll fix this somehow!\nPlease come again, sir!"
+msgstr "Sistemerò tutto in qualche modo!\nTorni a trovarci, signore!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||197||||4"
+msgid "This is kind of a problem...\nbut I hope you come again soon!"
+msgstr "Questo è un po' un problema...\nma spero che tornerà presto a trovarci!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||198||||4"
+msgid "I've got real problems here!\nBut... I guess these things happen."
+msgstr "Siamo davvero nei guai, qui!\nMa... immagino che siano cose che succedono."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||199||||4"
+msgid "We don't have much in stock right now,\nbut I hope you find something you want!"
+msgstr "Non abbiamo molta merce al momento,\nma spero trovi qualcosa di suo gradimento!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||200||||4"
+msgid "You've got to be kidding me!\nApologize for this, right now!"
+msgstr "Deve stare scherzando!\nSi scusi per questo, immediatamente!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||201||||4"
+msgid "You've got to be kidding me!\nAn apology isn't going to cut it!"
+msgstr "Deve stare scherzando!\nDelle semplici scuse non basteranno!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||202||||4"
+msgid "What a mess! Anyone but you would\nbe paying out the nose for this!"
+msgstr "Che disastro! Chiunque altro\npagherebbe un occhio della testa per questo!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||203||||4"
+msgid "Get out of here!"
+msgstr "Fuori di qui!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||204||||4"
+msgid "...Thank you very much."
+msgstr "...Molte grazie."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||205||||4"
+msgid "Fine, then.\nI'll let it slide just this once."
+msgstr "D'accordo, allora.\nLascerò correre solo per questa volta."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||206||||4"
+msgid "Get out!\nAnd don't ever come back!"
+msgstr "Fuori!\nE non tornare mai più!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||207||||4"
+msgid "How could you do that...?\nPlease stay away from my store."
+msgstr "Come hai potuto...?\nLa prego di stare lontano dal mio negozio."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||208||||4"
+msgid "Wh-What am I supposed to do now?\nPlease see yourself out this instant."
+msgstr "C-Cosa dovrei fare ora?\nLa prego di uscire in questo istante."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||209||||4"
+msgid "I'll fix this somehow!\nPlease come again, sir!"
+msgstr "Sistemerò tutto in qualche modo!\nTorni a trovarci, signore!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||210||||4"
+msgid "This is kind of a problem...\nbut I hope you come again soon!"
+msgstr "Questo è un po' un problema...\nma spero che tornerà presto a trovarci!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||211||||4"
+msgid "I've got real problems here!\nBut... I guess these things happen."
+msgstr "Siamo davvero nei guai, qui!\nMa... immagino che siano cose che succedono."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||212||||4"
+msgid "We don't have much in stock right now,\nbut I hope you find something you want!"
+msgstr "Non abbiamo molta merce al momento,\nma spero trovi qualcosa di suo gradimento!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||213||||4"
+msgid "You've got to be kidding me!\nApologize for this, right now!"
+msgstr "Deve stare scherzando!\nSi scusi per questo, immediatamente!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||214||||4"
+msgid "You've got to be kidding me!\nAn apology isn't going to cut it!"
+msgstr "Deve stare scherzando!\nDelle semplici scuse non basteranno!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||215||||4"
+msgid "What a mess! Anyone but you would\nbe paying out the nose for this!"
+msgstr "Che disastro! Chiunque altro\npagherebbe un occhio della testa per questo!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||216||||4"
+msgid "Get out of here!"
+msgstr "Fuori di qui!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||217||||4"
+msgid "...Thank you very much."
+msgstr "...Molte grazie."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||218||||4"
+msgid "Fine, then.\nI'll let it slide just this once."
+msgstr "D'accordo, allora.\nLascerò correre solo per questa volta."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||219||||4"
+msgid "Get out!\nAnd don't ever come back!"
+msgstr "Fuori!\nE non tornare mai più!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||220||||4"
+msgid "How could you do that...?\nPlease stay away from my store."
+msgstr "Come hai potuto...?\nLa prego di stare lontano dal mio negozio."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||221||||4"
+msgid "Wh-What am I supposed to do now?\nPlease, get away from my store!"
+msgstr "C-Cosa dovrei fare ora?\nLa prego, si allontani dal mio negozio!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||222||||4"
+msgid "I'll fix this somehow!\nPlease come again, sir!"
+msgstr "Sistemerò tutto in qualche modo!\nTorni a trovarci, signore!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||223||||4"
+msgid "This is kind of a problem...\nbut I hope you come again soon!"
+msgstr "Questo è un po' un problema...\nma spero che tornerà presto a trovarci!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||224||||4"
+msgid "I've got real problems here!\nBut... I guess these things happen."
+msgstr "Siamo davvero nei guai, qui!\nMa... immagino che siano cose che succedono."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||225||||4"
+msgid "We don't have much in stock right now,\nbut I hope you find something you want!"
+msgstr "Non abbiamo molta merce al momento,\nma spero trovi qualcosa di suo gradimento!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||226||||4"
+msgid "You've got to be kidding me!\nApologize for this, right now!"
+msgstr "Deve stare scherzando!\nSi scusi per questo, immediatamente!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||227||||4"
+msgid "You've got to be kidding me!\nAn apology isn't going to cut it!"
+msgstr "Deve stare scherzando!\nDelle semplici scuse non basteranno!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||228||||4"
+msgid "What a mess! Anyone but you would\nbe paying out the nose for this!"
+msgstr "Che disastro! Chiunque altro\npagherebbe un occhio della testa per questo!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||229||||4"
+msgid "Get out of here!"
+msgstr "Fuori di qui!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||230||||4"
+msgid "...Thank you very much."
+msgstr "...Molte grazie."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||231||||4"
+msgid "Fine, then.\nI'll let it slide just this once."
+msgstr "D'accordo, allora.\nLascerò correre solo per questa volta."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||232||||4"
+msgid "Get on out!\nN' don't ever come back!"
+msgstr "Fuori di qui!\nE non tornare mai più!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||233||||4"
+msgid "How could y'do this...?\nJus' stay away from my store."
+msgstr "Come hai potuto farlo...?\nStammi lontano dal negozio."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||234||||4"
+msgid "Wh-What'm I supposed t'do now?\nPlease, see yerself out right now."
+msgstr "C-Che dovrei fare adesso?\nPer favore, vattene subito."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||235||||4"
+msgid "I'll fix this somehow!\nPlease come again, sir!"
+msgstr "Sistemerò tutto in qualche modo!\nTorna a trovarci, signore!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||236||||4"
+msgid "This's a bit of a problem...\nbut I hope y'come again soon!"
+msgstr "Questo è un po' un problema...\nma spero che tornerai presto!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||237||||4"
+msgid "This's a real problem here!\nBut... I guess these things happen."
+msgstr "È un bel problema, questo!\nMa... immagino che certe cose succedano."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||238||||4"
+msgid "We don't got much in stock right now,\nbut I hope y'find somethin' y'want!"
+msgstr "Non abbiamo molta roba in magazzino ora,\nma spero che trovi qualcosa che ti piace!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||239||||4"
+msgid "Y'gotta be kiddin' me!\nApologize fer this, right now!"
+msgstr "Stai scherzando spero!\nChiedi subito scusa per questo!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||240||||4"
+msgid "Y'gotta be kiddin' me!\nA simple apology ain't gonna cut it!"
+msgstr "Stai scherzando spero!\nUn semplice scusa non basterà!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||241||||4"
+msgid "What a mess! Anyone but you'd\nbe payin' outta their nose fer this!"
+msgstr "Che casino! Chiunque altro\navrebbe pagato un occhio della testa per questo!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||242||||4"
+msgid "Get outta my store!"
+msgstr "Fuori dal mio negozio!"
+
+msgctxt "1||speech_list_adv_shop_ippan||table||243||||4"
+msgid "...Thank ya very much."
+msgstr "...Grazie infinite."
+
+msgctxt "1||speech_list_adv_shop_ippan||table||244||||4"
+msgid "Fine, then.\nI'll let it slide jus' this once."
+msgstr "D'accordo, allora.\nLascerò correre solo per questa volta."
+
 msgctxt "2||speech_list_adv_shop_sp||table||1||||4"
 msgid "Thank you very much."
 msgstr "Grazie mille."
