@@ -285,7 +285,7 @@ msgstr "Avanti"
 
 msgctxt "69||||text"
 msgid "P"
-msgstr "P"
+msgstr "L"
 
 msgctxt "70||||text"
 msgid "Contact"
@@ -305,7 +305,7 @@ msgstr "1"
 
 msgctxt "74||||text"
 msgid "P"
-msgstr "P"
+msgstr "L"
 
 msgctxt "75||||text"
 msgid "2"
@@ -345,7 +345,7 @@ msgstr "1"
 
 msgctxt "84||||text"
 msgid "P"
-msgstr "P"
+msgstr "L"
 
 msgctxt "85||||text"
 msgid "2"
@@ -625,7 +625,7 @@ msgstr "SB"
 
 msgctxt "154||||text"
 msgid "P"
-msgstr "P"
+msgstr "L"
 
 msgctxt "155||||text"
 msgid "ERA"
@@ -773,7 +773,7 @@ msgstr "Effetto"
 
 msgctxt "192||||text"
 msgid "C"
-msgstr "C"
+msgstr "R"
 
 msgctxt "193||||text"
 msgid "1B"
@@ -801,11 +801,11 @@ msgstr "Conferma"
 
 msgctxt "199||||text"
 msgid "P"
-msgstr "P"
+msgstr "L"
 
 msgctxt "200||||text"
 msgid "P"
-msgstr "P"
+msgstr "L"
 
 msgctxt "201||||text"
 msgid "Train"
@@ -1409,7 +1409,7 @@ msgstr "Denaro ottenuto:"
 
 msgctxt "357||||text"
 msgid "Awards Earned:"
-msgstr "Premi ottenuti:"
+msgstr "Traguardi ottenuti:"
 
 msgctxt "358||||text"
 msgid "Exit"
@@ -2781,7 +2781,7 @@ msgstr "Missioni a Onomichi"
 
 msgctxt "732||||text"
 msgid "Awards"
-msgstr "Premi"
+msgstr "Traguardi"
 
 msgctxt "733||||text"
 msgid "Items"

@@ -321,7 +321,7 @@ msgstr "Nyan Nyan Café"
 
 msgctxt "84||k_playspot_batting||name"
 msgid "Yoshida Batting Center"
-msgstr "Yoshida Batting Center"
+msgstr "Gabbie di battuta Yoshida"
 
 msgctxt "85||k_playspot_DARTSLIVE_sega||name"
 msgid "DARTSLIVE (Club SEGA Theater Square)"
@@ -397,7 +397,7 @@ msgstr "Ingresso di Tenkaichi St."
 
 msgctxt "103||o_street_001||name"
 msgid "Ryunan Shrine Alley"
-msgstr "Vicolo del santuario Ryunan"
+msgstr "Ryunan Shrine Alley"
 
 msgctxt "104||o_street_002||name"
 msgid "Ryunan Shrine Stairway"
@@ -413,15 +413,15 @@ msgstr "Cavalcavia pedonale"
 
 msgctxt "107||o_street_005||name"
 msgid "Second Hill"
-msgstr "Seconda collina"
+msgstr "Second Hill"
 
 msgctxt "108||o_street_006||name"
 msgid "Hilltop Path"
-msgstr "Sentiero della collina"
+msgstr "Hilltop Path"
 
 msgctxt "109||o_street_007||name"
 msgid "First Hill"
-msgstr "Prima collina"
+msgstr "First Hill"
 
 msgctxt "110||o_street_008||name"
 msgid "W National Route 2"
@@ -445,7 +445,7 @@ msgstr "Central Shopping District"
 
 msgctxt "115||o_street_013||name"
 msgid "Shops Alley"
-msgstr "Vicolo dei negozi"
+msgstr "Shops Alley"
 
 msgctxt "116||o_street_014||name"
 msgid "W Shishido St."
@@ -465,7 +465,7 @@ msgstr "Hana-no-kubo"
 
 msgctxt "120||o_street_018||name"
 msgid "Cemetery Lane"
-msgstr "Vicolo del cimitero"
+msgstr "Cemetery Lane"
 
 msgctxt "123||o_taxi_001||name"
 msgid "E Shishido St."

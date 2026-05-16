@@ -141,11 +141,11 @@ msgstr "Posa da combattimento"
 
 msgctxt "1||trial||buttons||4||||2"
 msgid "Strong Attack / Heat Action"
-msgstr "Attacco forte / Azione Furore"
+msgstr "Attacco potente / Azione Furore"
 
 msgctxt "1||trial||buttons||5||||2"
 msgid "Weak Attack"
-msgstr "Attacco debole"
+msgstr "Attacco leggero"
 
 msgctxt "1||trial||buttons||6||||2"
 msgid "Grab / Throw"
