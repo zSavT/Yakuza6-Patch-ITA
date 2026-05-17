@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0x641A2_Len_6"
+msgid " >UdM="
+msgstr ""
+
+#. Max bytes: 9
+msgctxt "Offset_0x755FF_Len_9"
+msgid ">8OA>K @="
+msgstr ""
+
+#. Max bytes: 11
+msgctxt "Offset_0x7EB3D_Len_11"
+msgid "ď> 	!>\\A9>"
+msgstr ""
+
+#. Max bytes: 20
+msgctxt "Offset_0x8D77F_Len_20"
+msgid "GJMPjtqile^WPIB;4-' "
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0x8D834_Len_31"
+msgid "&''''(((())))***++g}tfvth\\PD8, "
+msgstr ""
+
+#. Max bytes: 23
+msgctxt "Offset_0x8DD7C_Len_23"
+msgid "@CFJMPSwkkcZRbk^TWLA6+ "
+msgstr ""
+
+#. Max bytes: 14
+msgctxt "Offset_0xDAC14_Len_14"
+msgid "If you insist."
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0xDAC54_Len_19"
+msgid "Nah, I'm all right."
+msgstr ""
+
+#. Max bytes: 36
+msgctxt "Offset_0xDB294_Len_36"
+msgid "Will there be any serious disasters?"
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0xDB2D4_Len_31"
+msgid "Who'll win the top horse races?"
+msgstr ""
+
+#. Max bytes: 32
+msgctxt "Offset_0xDB314_Len_32"
+msgid "Where will I be a year from now?"
+msgstr ""
+
+#. Max bytes: 23
+msgctxt "Offset_0xDB914_Len_23"
+msgid "Okay, I'll believe you."
+msgstr ""
+
+#. Max bytes: 38
+msgctxt "Offset_0xDB954_Len_38"
+msgid "No way, I can't believe you after all."
+msgstr ""
+
+#. Max bytes: 39
+msgctxt "Offset_0xDB994_Len_39"
+msgid "After a closer look, she's pretty cute."
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0xDD722_Len_6"
+msgid " ?|V2?"
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0xDD7B6_Len_6"
+msgid " ?|V2?"
+msgstr ""
+

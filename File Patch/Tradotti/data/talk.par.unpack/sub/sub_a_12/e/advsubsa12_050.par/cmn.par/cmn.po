@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 4
+msgctxt "Offset_0x41C4_Len_4"
+msgid "c n<"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0xF59B_Len_5"
+msgid "5QE ?"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0xF5AB_Len_5"
+msgid "5Lq ?"
+msgstr ""
+
+#. Max bytes: 54
+msgctxt "Offset_0x25198_Len_54"
+msgid "\"Good. Now send me photos\nof the numbers on each one.\""
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x25298_Len_35"
+msgid "\"What the hell's going on, Kiryu!?\""
+msgstr ""
+
+#. Max bytes: 62
+msgctxt "Offset_0x25388_Len_62"
+msgid "\"Kiryu, you've been had!\nMy account got hacked the other day!\""
+msgstr ""
+
+#. Max bytes: 37
+msgctxt "Offset_0x254A8_Len_37"
+msgid "\"That wasn't me you were talking to!\""
+msgstr ""
+
+#. Max bytes: 41
+msgctxt "Offset_0x255B8_Len_41"
+msgid "\"Your 50 grand could be anywhere by now!\""
+msgstr ""
+
+#. Max bytes: 13
+msgctxt "Offset_0x25698_Len_13"
+msgid "\"No, dammit!\""
+msgstr ""
+
+#. Max bytes: 68
+msgctxt "Offset_0x25758_Len_68"
+msgid "\"I'll see what I can do.\nThat scammer's not getting away with this.\""
+msgstr ""
+
+#. Max bytes: 83
+msgctxt "Offset_0x25888_Len_83"
+msgid "\"Sorry, 50 grand really is a lot.\nI'll buy you a drink sometime to make up for it.\""
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0x259D8_Len_16"
+msgid "\"Family issues.\""
+msgstr ""
+
+#. Max bytes: 46
+msgctxt "Offset_0x25B68_Len_46"
+msgid "\"Just send them already.\nI'm in a hurry here.\""
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x25C48_Len_22"
+msgid "\"Fine. Let's meet up.\""
+msgstr ""
+
+#. Max bytes: 34
+msgctxt "Offset_0x25D18_Len_34"
+msgid "\"The roof of the Senryo Building.\""
+msgstr ""
+
+#. Max bytes: 15
+msgctxt "Offset_0x26228_Len_15"
+msgid "Send the Photos"
+msgstr ""
+
+#. Max bytes: 21
+msgctxt "Offset_0x26268_Len_21"
+msgid "Ask Why He Wants Them"
+msgstr ""
+
+#. Max bytes: 15
+msgctxt "Offset_0x268A8_Len_15"
+msgid "Send the Photos"
+msgstr ""
+
+#. Max bytes: 11
+msgctxt "Offset_0x268E8_Len_11"
+msgid "Pry Further"
+msgstr ""
+
+#. Max bytes: 15
+msgctxt "Offset_0x26F28_Len_15"
+msgid "Send the Photos"
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0x26F68_Len_16"
+msgid "Pry Even Further"
+msgstr ""
+

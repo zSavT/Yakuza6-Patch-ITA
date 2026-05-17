@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 8
+msgctxt "Offset_0x47990_Len_8"
+msgid "B V<qAM="
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x81823_Len_5"
+msgid "< Ma;"
+msgstr ""
+
+#. Max bytes: 251
+msgctxt "Offset_0xBF850_Len_251"
+msgid "The way to a cat's heart is through its stomach, so bring\r\nit some food! Once a cat has reached max affection, someone\r\nfrom the café will come to pick it up.\n\nBuy food at conveniences stores or the café\nand get out there to make some furry friends!"
+msgstr ""
+

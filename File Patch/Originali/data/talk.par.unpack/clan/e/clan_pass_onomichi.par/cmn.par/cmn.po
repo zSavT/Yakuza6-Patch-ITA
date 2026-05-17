@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 28
+msgctxt "Offset_0x974_Len_28"
+msgid "Please enter your Clan Code."
+msgstr ""
+
+#. Max bytes: 18
+msgctxt "Offset_0xA24_Len_18"
+msgid "Enter a Clan Code?"
+msgstr ""
+
+#. Max bytes: 41
+msgctxt "Offset_0x10A4_Len_41"
+msgid "Would you like to re-enter the Clan Code?"
+msgstr ""
+
+#. Max bytes: 33
+msgctxt "Offset_0x17D4_Len_33"
+msgid "The Clan Code was not recognized."
+msgstr ""
+

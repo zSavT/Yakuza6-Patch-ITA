@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 76
+msgctxt "Offset_0x1EDE0_Len_76"
+msgid "Gori-san, the maniacal slugging sensation,\nhas joined the Setouchi Warriors!"
+msgstr ""
+

@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 37
+msgctxt "Offset_0x1D20_Len_37"
+msgid "(Hm, that guy looks pretty muscular.)"
+msgstr ""
+
+#. Max bytes: 51
+msgctxt "Offset_0x1E10_Len_51"
+msgid "(I bet he would be a great asset for the Warriors.)"
+msgstr ""
+
+#. Max bytes: 47
+msgctxt "Offset_0x1F30_Len_47"
+msgid "(Okay, then. I should go see what his deal is.)"
+msgstr ""
+
+#. Max bytes: 44
+msgctxt "Offset_0x34B4_Len_44"
+msgid "(Hm... So he wants some protein from RIZAP.)"
+msgstr ""
+
+#. Max bytes: 51
+msgctxt "Offset_0x35A4_Len_51"
+msgid "(I guess I'll buy some when I'm back in Kamurocho.)"
+msgstr ""
+
+#. Max bytes: 40
+msgctxt "Offset_0x3A20_Len_40"
+msgid "(I don't think it works that quickly...)"
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x3B10_Len_28"
+msgid "(All right, welcome aboard!)"
+msgstr ""
+
+#. Max bytes: 95
+msgctxt "Offset_0x3BE0_Len_95"
+msgid "(I'll need to keep finding players for the Warriors\nif I want to help the team really succeed.)"
+msgstr ""
+
+#. Max bytes: 47
+msgctxt "Offset_0x3D20_Len_47"
+msgid "(Wait, maybe I shouldn't give it to him yet...)"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x1A115_Len_7"
+msgid " bE\\ChE"
+msgstr ""
+
+#. Max bytes: 42
+msgctxt "Offset_0x2C2A4_Len_42"
+msgid "Kawamura has joined the Setouchi Warriors."
+msgstr ""
+

@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 15
+msgctxt "Offset_0x2B988_Len_15"
+msgid "A pro wrestler."
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x2B9C8_Len_8"
+msgid "My wife."
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x2BA08_Len_7"
+msgid "My mom."
+msgstr ""
+
+#. Max bytes: 38
+msgctxt "Offset_0x2BF18_Len_38"
+msgid "Saki's rank has increased to Platinum."
+msgstr ""
+
+#. Max bytes: 43
+msgctxt "Offset_0x2BF48_Len_43"
+msgid "沙希的階級已成為「Platinum Cast」"
+msgstr ""
+

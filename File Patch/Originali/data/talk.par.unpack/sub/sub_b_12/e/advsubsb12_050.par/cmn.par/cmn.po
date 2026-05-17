@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 5
+msgctxt "Offset_0x44397_Len_5"
+msgid "> m9="
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0xAEEFC_Len_4"
+msgid "L` ="
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0xB63CC_Len_4"
+msgid "L` ="
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0xDF270_Len_4"
+msgid " є?"
+msgstr ""
+
+#. Max bytes: 43
+msgctxt "Offset_0xFCDCC_Len_43"
+msgid "Moritsuka has joined the Setouchi Warriors!"
+msgstr ""
+
+#. Max bytes: 255
+msgctxt "Offset_0xFCF3C_Len_255"
+msgid "There are many experienced baseball players\nin Onomichi who can be recruited to your team.\nDon't hesitate to ask them to join up! \n\nStay active in other areas around town, and you\nmay even find more players that way, too.\n\nIf you build it, they will come!"
+msgstr ""
+

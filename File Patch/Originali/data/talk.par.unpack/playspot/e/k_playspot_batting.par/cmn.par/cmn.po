@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 27
+msgctxt "Offset_0x49C_Len_27"
+msgid "(I don't have the money...)"
+msgstr ""
+
+#. Max bytes: 65
+msgctxt "Offset_0x55C_Len_65"
+msgid "Which course would you like to play?\nOne round will cost 300 yen."
+msgstr ""
+
+#. Max bytes: 15
+msgctxt "Offset_0x65C_Len_15"
+msgid "Home Run Course"
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0x69C_Len_16"
+msgid "Challenge Course"
+msgstr ""
+

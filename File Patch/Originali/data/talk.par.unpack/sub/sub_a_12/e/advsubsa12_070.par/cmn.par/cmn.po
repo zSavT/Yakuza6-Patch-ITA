@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0x9B3A_Len_6"
+msgid "I@ {R="
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x9BBA_Len_6"
+msgid "I@ u[="
+msgstr ""
+
+#. Max bytes: 48
+msgctxt "Offset_0x3D780_Len_48"
+msgid "\"Kiryu, I just found out my account got hacked!\""
+msgstr ""
+
+#. Max bytes: 39
+msgctxt "Offset_0x3D980_Len_39"
+msgid "\"I'll send some guys to clean this up.\""
+msgstr ""
+
+#. Max bytes: 61
+msgctxt "Offset_0x3DA70_Len_61"
+msgid "\"Spare me the details, but it sounds\nlike I owe you a drink.\""
+msgstr ""
+

@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0x1681A_Len_6"
+msgid " >L.T="
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x1964C_Len_4"
+msgid " є?"
+msgstr ""
+
+#. Max bytes: 76
+msgctxt "Offset_0x30ECC_Len_76"
+msgid "(I have to take a taxi to the baseball\nfield. I should go before it's dark.)"
+msgstr ""
+

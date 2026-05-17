@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 104
+msgctxt "Offset_0xF7E4_Len_104"
+msgid "Incidents around Onomichi will now be posted to Troublr.\nSelect a post from the list to begin a mission."
+msgstr ""
+

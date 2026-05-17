@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 151
+msgctxt "Offset_0x3B0D2_Len_151"
+msgid "   !!!!\"\"\"###$$$$%%%&&&''''((()))****+++,,,----...///0000111222333344455556667778888999:::;;;;<<<===>>>>???@@@AAAABBBCCCDDDDEEEFFFGGGGHHHIIIJJJJKKKLLLD"
+msgstr ""
+
+#. Max bytes: 151
+msgctxt "Offset_0x3B1D6_Len_151"
+msgid "   !!!!\"\"\"###$$$$%%%&&&''''((()))****+++,,,----...///0000111222333344455556667778888999:::;;;;<<<===>>>>???@@@AAAABBBCCCDDDDEEEFFFGGGGHHHIIIJJJJKKKLLLG"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x3B8F5_Len_4"
+msgid "   C"
+msgstr ""
+
+#. Max bytes: 23
+msgctxt "Offset_0x4A3B4_Len_23"
+msgid " '.GT\\a]YUQMIxtuQ[vmiL."
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x4B7C8_Len_4"
+msgid " є?"
+msgstr ""
+
+#. Max bytes: 18
+msgctxt "Offset_0x68660_Len_18"
+msgid "I'll help you out."
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x686A0_Len_22"
+msgid "Let me think about it."
+msgstr ""
+

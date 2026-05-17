@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 105
+msgctxt "Offset_0x874_Len_105"
+msgid "Incidents around Kamurocho will now be posted to Troublr.\nSelect a post from the list to begin a mission."
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x15CE4_Len_4"
+msgid " є?"
+msgstr ""
+

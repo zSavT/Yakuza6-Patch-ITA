@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 45
+msgctxt "Offset_0x8BC_Len_45"
+msgid "Clan Creator Special Leader Goro Majima (SSR)"
+msgstr ""
+
+#. Max bytes: 47
+msgctxt "Offset_0xAB0_Len_47"
+msgid "Clan Creator Special Leader Taiga Saejima (SSR)"
+msgstr ""
+
+#. Max bytes: 46
+msgctxt "Offset_0xCA4_Len_46"
+msgid "Clan Creator Special Leader Daigo Dojima (SSR)"
+msgstr ""
+
+#. Max bytes: 45
+msgctxt "Offset_0xE98_Len_45"
+msgid "Clan Creator Special Leader Makoto Date (SSR)"
+msgstr ""
+
+#. Max bytes: 46
+msgctxt "Offset_0x108C_Len_46"
+msgid "Clan Creator Special Leader Shun Akiyama (SSR)"
+msgstr ""
+
+#. Max bytes: 46
+msgctxt "Offset_0x1280_Len_46"
+msgid "Clan Creator Special Leader Kazuma Kiryu (SSR)"
+msgstr ""
+
+#. Max bytes: 29
+msgctxt "Offset_0x1474_Len_29"
+msgid "Strategy Guide Exclusive Item"
+msgstr ""
+
+#. Max bytes: 25
+msgctxt "Offset_0x15B8_Len_25"
+msgid "Kiryu Best Exclusive Item"
+msgstr ""
+
+#. Max bytes: 128
+msgctxt "Offset_0x1760_Len_128"
+msgid "There are new bonus gifts waiting for you.\nYou have acquired \"Morning Glory Photo.\"\nYou have acquired \"Morning Glory Waistband.\""
+msgstr ""
+
+#. Max bytes: 37
+msgctxt "Offset_0x1910_Len_37"
+msgid "Bonus For Completing Achievement List"
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x1A64_Len_19"
+msgid "Yakuza 6 Fun Pack 1"
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x1BB8_Len_19"
+msgid "Yakuza 6 Fun Pack 2"
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x1D0C_Len_19"
+msgid "Yakuza 6 Fun Pack 3"
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x1E60_Len_19"
+msgid "Yakuza 6 Fun Pack 4"
+msgstr ""
+

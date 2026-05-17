@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 376
+msgctxt "Offset_0x560_Len_376"
+msgid "The Events of Yakuza\n\nOctober, 1995. Kamurocho, one of Asia's largest entertainment districts.\nIn this town swirling with desire and violence lived a yakuza by the\nname of Kazuma Kiryu, a Lieutenant Advisor of the prestigious Dojima Family.\n\nBut he was better known as \"The Dragon of Dojima.\"\n\nHe was a rising star, and soon he would take control over a family\nof his own...\n\n"
+msgstr ""
+
+#. Max bytes: 504
+msgctxt "Offset_0x8D0_Len_504"
+msgid "The Events of Yakuza\n\nAt Kiryu's side was his best friend, Akira Nishikiyama.\nThe two grew up together in Sunflower Orphanage and swore\ntheir oaths to the Tojo Clan's Dojima Family on the same day.\n\nThe pair was often joined by Yumi Sawamura, another of\nSunflower's orphans, whom they treated like a younger sister.\n\nThe happy days where the three of them would get together and drink\nat the upscale bar, Serena, are some of Kiryu's fondest memories...\n\nBut one stormy night, their lives changed forever."
+msgstr ""
+
+#. Max bytes: 652
+msgctxt "Offset_0xD50_Len_652"
+msgid "The Events of Yakuza\n\nThe Patriarch of the Dojima Family, Sohei Dojima, kidnapped Yumi,\nprompting Nishikiyama to shoot him in a blind frenzy.\n\nKiryu arrived at the scene to find Nishikiyama still holding the\nsmoking gun, and Kiryu made a fateful decision: In order to ensure\nNishikiyama could still be around for his ill sister, Kiryu took\nthe gun in hand and sent both Nishikiyama and Yumi out of the building. \n \nThat day, Kiryu became a patriarch killer, a crime above all crimes\nin the criminal world of the yakuza.\n\nKiryu was jailed and expelled from the organization, and Yumi,\nsuffering from traumatic memory loss, disappeared from the hospital."
+msgstr ""
+
+#. Max bytes: 451
+msgctxt "Offset_0x12E0_Len_451"
+msgid "The Events of Yakuza\n\nTen years passed...\nDecember, 2005. Kiryu emerges from prison to a changed world.\n\nNishikiyama had lost his sister and suffered greatly in the\nten years, and as a result, had twisted into a monster,\nobsessed with power and climbing the ranks of the Tojo Clan.\n\nNot even Shintaro Kazama, Patriarch of the Kazama Family and\nfounder of Sunflower Orphanage, a father figure to them both,\ncould stay Nishikiyama's dark transformation."
+msgstr ""
+
+#. Max bytes: 575
+msgctxt "Offset_0x1770_Len_575"
+msgid "The Events of Yakuza\n\nIn a meeting of the Tojo Clan's direct patriarchs, Nishikiyama,\nnow patriarch of his own family, exposed the fact that ten billion\nyen had been stolen from the clan's coffers.\n\nIn the ensuing chaos, the Tojo Clan's third chairman, Masaru Sera,\nwas murdered, and an assassination attempt was made on Kazama right\nbefore Kiryu's eyes.\n\nAnd as the Tojo Clan crumbled, Goro Majima, the Mad Dog of Shimano,\nbegan to play in the ashes.\n\nThe conflict nearly escalated into a civil war, and the shadow of\nthe Nishikiyama Family loomed large over the incident..."
+msgstr ""
+
+#. Max bytes: 499
+msgctxt "Offset_0x20E0_Len_499"
+msgid "The Events of Yakuza\n\nThe girl's name was Haruka Sawamura.\n\nDespite being only nine years old, she came to Kamurocho herself in\nhopes of finding her mother, Mizuki. Like Kiryu, Haruka too had grown\nup in Sunflower Orphanage, and her Aunt Yumi had entrusted her\nwith a pendant said to be \"worth ten billion yen.\"\n\nThe criminal underworld was drawn to the girl and the pendant like moths\nto a flame. Kamurocho became engulfed in conspiracy and betrayal,\nwith Nishikiyama at the heart of the conflict.\n"
+msgstr ""
+
+#. Max bytes: 595
+msgctxt "Offset_0x2530_Len_595"
+msgid "The Events of Yakuza\n\nKiryu and Haruka finally caught up to Kazama, who was able to explain\nthe whole truth of the incident.\n\nHaruka was in fact, Yumi's daughter. Mizuki was simply Yumi's alias,\ncreated to protect her from a politician by the name of Kyohei Jingu.\n\nNot only did the Tojo Clan's missing funds actually belong to Jingu,\nbut he was also Haruka's father. Jingu had manipulated the Tojo Clan from\nthe shadows in an effort to dispose of his scandalously illegitimate daughter.\n\nIn an effort to chip away at his power, Kazama, Yumi, and Sera had teamed up\nto steal his ten billion yen."
+msgstr ""
+
+#. Max bytes: 503
+msgctxt "Offset_0x2A60_Len_503"
+msgid "The Events of Yakuza\n\nTo reclaim his money, Jingu singled out Nishikiyama's ambition to become\nthe successor to the late Sera and used that as a means to an end. The\r\ntwo both stood to gain, as Nishikiyama would become the fouth chairman.\n\nHowever, the Tojo Clan's true successor was written in the secret will\nof Sera, with Kazama as its witness: None other than Kazuma Kiryu. \n\nDeclaring this to Jingu, Kiryu crushed him and his entire special\nforces unit, and then settled the score with Nishikiyama."
+msgstr ""
+
+#. Max bytes: 412
+msgctxt "Offset_0x2EF0_Len_412"
+msgid "The Events of Yakuza\n\nAn explosion rocked the Millennium Tower where the money had been held.\nAs money fluttered into the streets, the people who Kiryu cared about more\nthan anyone in the world breathed their last.\n\nYumi, who shielded Kiryu from a bullet fired by Jingu.\n\nNishikiyama, who in his final moments smiled at Kiryu as he ignited\nthe bomb to take accountability for his actions and end the bloodshed..."
+msgstr ""
+
+#. Max bytes: 303
+msgctxt "Offset_0x3260_Len_303"
+msgid "The Events of Yakuza\n\nIn that moment of despair, Kiryu lost his will to go on. But there in\nfront of him was Haruka, now the only living legacy of Yumi, the woman\nhe'd come to love.\n\nKiryu took Haruka's hand. The Dragon of Dojima and the \"Girl Worth\nTen Billion Yen\" took their first steps together... \n"
+msgstr ""
+

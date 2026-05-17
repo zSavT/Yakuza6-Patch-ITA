@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0xD1616_Len_6"
+msgid " ?UUU?"
+msgstr ""
+
+#. Max bytes: 27
+msgctxt "Offset_0x11A6F0_Len_27"
+msgid "Introduce Yourself Casually"
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0x11A730_Len_31"
+msgid "Introduce Yourself Passionately"
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x11AD70_Len_17"
+msgid "Nice to meet you."
+msgstr ""
+
+#. Max bytes: 14
+msgctxt "Offset_0x11ADB0_Len_14"
+msgid "Nice to michi!"
+msgstr ""
+
+#. Max bytes: 33
+msgctxt "Offset_0x11B3F0_Len_33"
+msgid "You brats are gonna pay for this!"
+msgstr ""
+
+#. Max bytes: 9
+msgctxt "Offset_0x11B430_Len_9"
+msgid "Oh no...!"
+msgstr ""
+

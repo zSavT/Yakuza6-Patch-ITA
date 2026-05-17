@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 432
+msgctxt "Offset_0x560_Len_432"
+msgid "The Events of Yakuza 4\n\nMarch 2010. A serial killer was loose in Kamurocho, and the tension\nwas both thick and volatile.\n\nA loan shark by the name of Shun Akiyama rose to prominence as\nthe \"Lifeline of Kamurocho\" for loaning money to the type of people\na normal loan company would turn away at the door.\n\n\"Every jungle needs its lion.\"\n\nAkiyama believed that with Kazuma Kiryu out of the picture, Kamurocho\nhad gone to the beasts.\n\n"
+msgstr ""
+
+#. Max bytes: 574
+msgctxt "Offset_0x970_Len_574"
+msgid "The Events of Yakuza 4\n\nOne yakuza to earn Akiyama's respect was Hiroaki Arai, a captain of a\nthird-string Tojo Clan affiliate called Kanemura Enterprises.\n\nBut when a minor turf dispute erupted into a gun battle, Arai put a decisive\nend to it and the rival Ueno Seiwa agitator before disappearing into the\nnight...\n\nAll it took was a bullet to shatter the fragile peace of the city. The\nreconciliation efforts between the Tojo Clan's sixth chairman, Daigo Dojima,\nand the Ueno Seiwa's captain, Isao Katsuragi deteriorated, with the honor\nof both organizations on the line.\n"
+msgstr ""
+
+#. Max bytes: 329
+msgctxt "Offset_0xE00_Len_329"
+msgid "The Events of Yakuza 4\n\n25 years ago, an incident occurred that neither the Tojo Clan nor the\nUeno Seiwa Clan could ever forget.\n\n18 Ueno Seiwa yakuza were gunned down by Taiga Saejima, a young member\nof the Tojo Clan's Sasai Family. Saejima was sentenced to death and\nwas still awaiting his execution from a prison cell in 2010."
+msgstr ""
+
+#. Max bytes: 540
+msgctxt "Offset_0x1140_Len_540"
+msgid "The Events of Yakuza 4\n\nAs the events in Kamurocho began to unfold, Saejima was suddenly\ntransferred to a private correctional facility off the coast of\nOkinawa called \"Okinawa Penitentiary 2.\"\n\nThere, Saejima had a fateful encounter with none other than\nGoh Hamazaki, former patriarch of the Tojo Clan's Hamazaki Family.\n\nHamazaki convinced Saejima of two things: One, that 25 years ago,\nSaejima was betrayed by his sworn brother, Goro Majima... And two,\nthat in order to discover the truth, the two men would have to\nbreak out of prison.\n"
+msgstr ""
+
+#. Max bytes: 444
+msgctxt "Offset_0x2330_Len_444"
+msgid "The Events of Yakuza 4\n\nMunakata's corruption didn't end at the cover-up of the hit. The funding\nfor Okinawa Penitentiary 2 had also been Munakata's doing, and was\noriginally going to be secured from Kyohei Jingu in 2005. But that money\nhad gone up in smoke.\n\nWith his hands on both the police and the criminal underworld, Munakata\namassed so much power that neither the state nor Daigo Dojima, sixth chairman\nof the Tojo Clan, could touch him."
+msgstr ""
+
+#. Max bytes: 501
+msgctxt "Offset_0x2A30_Len_501"
+msgid "The Events of Yakuza 4\n\nUsing Akiyama's vast wealth as bait, Munakata and his lackeys were drawn\nout to the top of the Millennium Tower.\n\nSaejima fought to avenge his sister, who had been shot by Katsuragi as\nthe conflict escalated.\n\nTanimura fought for justice, seeking to put an end to Munakata and the\ncover-ups that obscured his father's killer.\n\nKiryu fought for honor. It was him that had put Daigo in the position of\nsixth chairman, and it would be him who would set him back on the right path."
+msgstr ""
+
+#. Max bytes: 207
+msgctxt "Offset_0x2ED0_Len_207"
+msgid "The Events of Yakuza 4\n\nWith his corruption coming to light and the utter failure of his plan,\nMunakata took his own life.\n\nWith the conflict at an end, four men took new steps to forge a better\ntomorrow...\n"
+msgstr ""
+

@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 4
+msgctxt "Offset_0x3BAA_Len_4"
+msgid " AH!"
+msgstr ""
+
+#. Max bytes: 259
+msgctxt "Offset_0x6D4C_Len_259"
+msgid "You can now drink with Gen-san!\n\n\nAs you become closer to the customers, your rank within\nthe bar will increase. As your rank increases, you'll\nbe able to drink with more people.\n\nBe assertive about approaching people, or form a bond\nthrough karaoke or darts."
+msgstr ""
+
+#. Max bytes: 257
+msgctxt "Offset_0x6E5C_Len_257"
+msgid "< 已和源先生成為酒友！ >\n\n只要和客人們培養感情，就能提昇在小酒館中的地位。\n隨著地位提昇，可以和更多人成為酒友。\n\n積極和其他客人攀談，或利用卡拉OK和飛鏢引起注目來提昇友好度吧。"
+msgstr ""
+

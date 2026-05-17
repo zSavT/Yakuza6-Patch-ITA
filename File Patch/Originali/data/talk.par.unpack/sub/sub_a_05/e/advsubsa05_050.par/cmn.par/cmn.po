@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 64
+msgctxt "Offset_0x6844_Len_64"
+msgid "(This is the Children's Park.\nMaybe I should give Hiji a try...)"
+msgstr ""
+
+#. Max bytes: 78
+msgctxt "Offset_0x9658_Len_78"
+msgid "(This thing is pretty impressive.\nIt's hard to believe it's just a phone app.)"
+msgstr ""
+
+#. Max bytes: 92
+msgctxt "Offset_0xD06C_Len_92"
+msgid "(Hiji's totally in control of the conversation.\nShe's really a special piece of technology.)"
+msgstr ""
+
+#. Max bytes: 43
+msgctxt "Offset_0xD1DC_Len_43"
+msgid "(Maybe I should try asking her a question.)"
+msgstr ""
+
+#. Max bytes: 20
+msgctxt "Offset_0x8DE30_Len_20"
+msgid "Younger sounds good."
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x8DE70_Len_17"
+msgid "How about sexier?"
+msgstr ""
+
+#. Max bytes: 27
+msgctxt "Offset_0x8DEB0_Len_27"
+msgid "No, you're perfect already."
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x8E4B0_Len_35"
+msgid "Do you want to exterminate mankind?"
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x8E4F0_Len_17"
+msgid "Why do you exist?"
+msgstr ""
+
+#. Max bytes: 39
+msgctxt "Offset_0x8E530_Len_39"
+msgid "You're really just a human, aren't you?"
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x8EB30_Len_22"
+msgid "I'm too busy for this."
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x8EB70_Len_35"
+msgid "I might like that other app better."
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0x8EBB0_Len_16"
+msgid "Hiji's the best."
+msgstr ""
+

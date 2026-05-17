@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 31
+msgctxt "Offset_0x23E4_Len_31"
+msgid "Place it Under the Electric Pot"
+msgstr ""
+
+#. Max bytes: 14
+msgctxt "Offset_0x2424_Len_14"
+msgid "Look Elsewhere"
+msgstr ""
+

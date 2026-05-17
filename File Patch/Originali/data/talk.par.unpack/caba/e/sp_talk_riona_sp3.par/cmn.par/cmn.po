@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0x142F6_Len_6"
+msgid " AffQB"
+msgstr ""
+
+#. Max bytes: 40
+msgctxt "Offset_0x20D78_Len_40"
+msgid "When you feel you've reached your limit."
+msgstr ""
+
+#. Max bytes: 43
+msgctxt "Offset_0x20DB8_Len_43"
+msgid "When the younger girls start getting ahead."
+msgstr ""
+
+#. Max bytes: 24
+msgctxt "Offset_0x20DF8_Len_24"
+msgid "When you're tired of it."
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x21308_Len_35"
+msgid "Riona's rank has increased to Gold."
+msgstr ""
+
+#. Max bytes: 42
+msgctxt "Offset_0x21338_Len_42"
+msgid "蕾歐娜的階級已成為「Gold Cast」"
+msgstr ""
+

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 16
+msgctxt "Offset_0x261A4_Len_16"
+msgid "Become a member."
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x261E4_Len_22"
+msgid "Don't become a member."
+msgstr ""
+
+#. Max bytes: 57
+msgctxt "Offset_0x26834_Len_57"
+msgid "Talk to Makuta when you want to\nbegin a training session."
+msgstr ""
+
+#. Max bytes: 101
+msgctxt "Offset_0x26924_Len_101"
+msgid "The EXP you earn from training will be\ngranted once you complete a full round\nof the RIZAP Challenge."
+msgstr ""
+

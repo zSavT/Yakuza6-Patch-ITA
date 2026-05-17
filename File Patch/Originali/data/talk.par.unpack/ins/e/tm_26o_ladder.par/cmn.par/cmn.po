@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 90
+msgctxt "Offset_0x3B8_Len_90"
+msgid "(I can't climb the ladder with this extinguisher.\nI should go look for one up at the top.)"
+msgstr ""
+
+#. Max bytes: 44
+msgctxt "Offset_0x518_Len_44"
+msgid "(Should I get rid of the fire extinguisher?)"
+msgstr ""
+
+#. Max bytes: 23
+msgctxt "Offset_0x618_Len_23"
+msgid "(All right, it's gone.)"
+msgstr ""
+
+#. Max bytes: 27
+msgctxt "Offset_0x7C8_Len_27"
+msgid "Get Rid of the Extinguisher"
+msgstr ""
+
+#. Max bytes: 29
+msgctxt "Offset_0x808_Len_29"
+msgid "Keep the Extinguisher For Now"
+msgstr ""
+
