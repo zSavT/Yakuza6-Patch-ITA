@@ -645,7 +645,7 @@ msgstr "L'importanza di pasti regolari"
 
 msgctxt "17||tips_system||table||19||||1"
 msgid "Changing the Time of Day"
-msgstr "Cambiare l'ora del giorno"
+msgstr "Changing l'ora del giorno"
 
 msgctxt "17||tips_system||table||20||||1"
 msgid "Pros and Cons of Getting Drunk"
@@ -1009,7 +1009,7 @@ msgstr "Questa volta, mangia del sashimi! Evita il sushi\r\nperché contiene ris
 
 msgctxt "5||rizap||table||63||||2"
 msgid "This time, please eat saraudon! Since the\r\nobjective is to bulk up, noodles are good\r\ntoday!"
-msgstr "Questa volta, mangia dei saraudon! Poiché\r\nl'obiettivo è fare massa, i noodle oggi vanno bene!"
+msgstr "Questa volta, mangia dei saraudon! Poiché\r\nl'obiettivo è fare massa, i noodle oggi\r\nvanno bene!"
 
 msgctxt "5||rizap||table||64||||2"
 msgid "This time, please eat gyoza!"
@@ -1017,11 +1017,11 @@ msgstr "Questa volta, mangia dei gyoza!"
 
 msgctxt "5||rizap||table||65||||2"
 msgid "This time, please eat fried rice! Since the\r\nobjective is to bulk up, carbs are a-okay!"
-msgstr "Questa volta, mangia del riso fritto! Dato che\r\nl'obiettivo è fare massa, i carboidrati vanno benissimo!"
+msgstr "Questa volta, mangia del riso fritto! Dato che\r\nl'obiettivo è fare massa, i carboidrati vanno\r\nbenissimo!"
 
 msgctxt "5||rizap||table||66||||2"
 msgid "This time, please eat soba! Find your nearest\r\nsoba restaurant and go!"
-msgstr "Questa volta, mangia della soba! Trova il ristorante\r\ndi soba più vicino e vacci!"
+msgstr "Questa volta, mangia della soba! Trova il\r\nristorante di soba più vicino e vacci!"
 
 msgctxt "5||rizap||table||67||||2"
 msgid "This time, please eat champon! They serve\r\nit at that one place. Just go eat it!"
@@ -1089,107 +1089,107 @@ msgstr "Modifiche in corso"
 
 msgctxt "5||rizap||table||83||||2"
 msgid "Hi there, Kiryu-san! This time, let's go for a\r\ndish low in sugar and high in protein. Oh,\r\nyeah... I suggest a nutritious dish that's\r\npacked with lobster! Well then, best of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta puntiamo a un piatto\r\na basso contenuto di zuccheri e ricco di proteine.\r\nOh, sì... Ti suggerisco un piatto nutriente pieno di\r\naragosta! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta puntiamo a un\r\npiatto a basso contenuto di zuccheri e ricco\r\ndi proteine. Oh, sì... Ti suggerisco un piatto\r\nnutriente pieno di aragosta! In bocca al lupo!"
 
 msgctxt "5||rizap||table||84||||2"
 msgid "Hi there, Kiryu-san! This time, let's go for a\r\nbulk-up meal. Let's see... I suggest a dish\r\nwhere you can consume rice, pork, and egg\r\nall together! Well then, best of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta puntiamo a un pasto\r\nper fare massa. Vediamo... Ti suggerisco un piatto\r\nin cui puoi consumare riso, maiale e uova tutti\r\ninsieme! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta puntiamo a un\r\npasto per fare massa. Vediamo... Ti suggerisco\r\nun piatto in cui puoi consumare riso, maiale e\r\nuova tutti insieme! Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||85||||2"
 msgid "Hi there, Kiryu-san! This time, let's go for a\r\nwell-balanced meal. Okay... I suggest a quick\r\nmeal that has carbs, eggs, and veggies! It's at\r\na place you'd stop by when you just need a\r\nlight meal! Their homemade soup has a great\r\nflavor! Well then, best of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta puntiamo a un pasto\r\nben bilanciato. Ok... Ti suggerisco un pasto\r\nveloce con carboidrati, uova e verdure! Si trova in\r\nun posto in cui ti fermeresti per un pasto leggero!\r\nIl loro brodo fatto in casa ha un sapore\r\nfantastico! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta puntiamo a un\r\npasto ben bilanciato. Ok... Ti suggerisco un\r\npasto veloce con carboidrati, uova e verdure!\r\nSi trova in un posto in cui ti fermeresti per\r\nun pasto leggero! Il loro brodo fatto in casa\r\nha un sapore fantastico! In bocca al lupo!"
 
 msgctxt "5||rizap||table||86||||2"
 msgid "Hi there, Kiryu-san! Now, let's go for a\r\nbulk-up meal. Hmm... I suggest a rice dish\r\ntopped with lots of thin pork slices! These pork\r\nslices are often used in some noodle dishes too!\r\nWell then, best of luck!"
-msgstr "Ciao, Kiryu-san! Ora puntiamo a un pasto per fare\r\nmassa. Mmm... Ti suggerisco un piatto di riso\r\nricoperto da tante fettine sottili di maiale! Queste fette\r\ndi maiale vengono spesso usate anche in alcuni piatti\r\ndi noodle! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Ora puntiamo a un pasto per\r\nfare massa. Mmm... Ti suggerisco un piatto di\r\nriso ricoperto da tante fettine sottili di\r\nmaiale! Queste fette vengono spesso usate\r\nanche in alcuni piatti di noodle!\r\nBene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||87||||2"
 msgid "Hi there, Kiryu-san! This time, let's go for a\r\ndish that's a big hit with kids. Let's see...\r\nMaybe something that's packed with juicy meat\r\nand cooked on a hot iron plate! I suggest you\r\neat around 300 grams of it! Well then, best of\r\nluck!"
-msgstr "Ciao, Kiryu-san! Questa volta, andiamo su un piatto\r\nche fa impazzire i bambini. Vediamo... Magari\r\nqualcosa pieno di carne succulenta e cucinato su\r\nuna piastra di ferro rovente! Ti suggerisco di mangiarne\r\ncirca 300 grammi! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, andiamo su un\r\npiatto che fa impazzire i bambini. Vediamo...\r\nMagari qualcosa pieno di carne succulenta e\r\ncucinato su una piastra di ferro rovente!\r\nTi suggerisco di mangiarne circa 300 grammi!\r\nBene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||88||||2"
 msgid "Hi there, Kiryu-san! Now for a go-to training\r\ndish! You should eat high quality meat with a\r\ngood balance of fat and red meat. Eat plenty\r\nof it! Well then, best of luck!"
-msgstr "Ciao, Kiryu-san! Ora un piatto perfetto per l'allenamento!\r\nDovresti mangiare carne di alta qualità con un buon\r\nequilibrio tra grasso e carne rossa. Mangiane in\r\nabbondanza! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Ora un piatto perfetto per\r\nl'allenamento! Dovresti mangiare carne di alta\r\nqualità con un buon equilibrio tra grasso e\r\ncarne rossa. Mangiane in abbondanza!\r\nBene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||89||||2"
 msgid "Hi there, Kiryu-san! This time, let's avoid\r\ncarbs. You should go for that one dish\r\nconsisting of just beef! Oh, you're free to eat\r\npickled red ginger with it too! Well then, best\r\nof luck!"
-msgstr "Ciao, Kiryu-san! Questa volta, evitiamo i carboidrati.\r\nDovresti prendere quel piatto composto solo da manzo!\r\nOh, sentiti libero di mangiarci insieme anche del daikon\r\nrosso in salamoia! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, evitiamo i\r\ncarboidrati. Dovresti prendere quel piatto\r\ncomposto solo da manzo! Oh, sentiti libero\r\ndi mangiarci insieme anche del daikon rosso\r\nin salamoia! Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||90||||2"
 msgid "Hi there, Kiryu-san! Now, let's go for a\r\nbulk-up menu! Let's see... I suggest you go\r\nto a fast food chain and order something that\r\noffers double the average amount of meat.\r\nThat'll put a smile on your face! Well then,\r\nbest of luck!"
-msgstr "Ciao, Kiryu-san! Ora, andiamo con un menu per\r\nfare massa! Vediamo... Ti suggerisco di andare in\r\nuna catena di fast food e ordinare qualcosa che\r\noffra il doppio della quantità media di carne.\r\nQuesto ti farà sorridere! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Ora, andiamo con un menu per\r\nfare massa! Vediamo... Ti suggerisco di andare\r\nin una catena di fast food e ordinare qualcosa\r\nche offra il doppio della quantità media di\r\ncarne. Questo ti farà sorridere!\r\nBene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||91||||2"
 msgid "Hi there, Kiryu-san! This time, let's cut calories\r\nand focus on nutrient intake! Let's see... You\r\nshould go to a fast food chain and only have\r\nvegetables. It's one of their standard dishes.\r\nWell then, best of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta, tagliamo le calorie\r\ne concentriamoci sull'assunzione di nutrienti!\r\nVediamo... Dovresti andare in una catena di fast food e\r\nprendere solo verdure. È uno dei loro piatti standard.\r\nBene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, tagliamo le\r\ncalorie e concentriamoci sull'assunzione di\r\nnutrienti! Vediamo... Dovresti andare in una\r\ncatena di fast food e prendere solo verdure.\r\nÈ uno dei loro piatti standard.\r\nBene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||92||||2"
 msgid "Hi there, Kiryu-san! This time, let's try \r\nsomething out of the ordinary. Let's see...\r\nHow about a round food that comes with\r\ncheese on top? It's apparently most popular\r\nwith women. You can eat it at a counter!\r\nWell then, best of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta, proviamo qualcosa di\r\nfuori dal comune. Vediamo... Che ne dici di un cibo\r\nrotondo con formaggio sopra? Apparentemente è\r\nmolto popolare tra le donne. Puoi mangiarlo al\r\nbancone! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, proviamo\r\nqualcosa di fuori dal comune. Vediamo... Che ne\r\ndici di un cibo rotondo con formaggio sopra?\r\nApparentemente è molto popolare tra le donne.\r\nPuoi mangiarlo al bancone! In bocca al lupo!"
 
 msgctxt "5||rizap||table||93||||2"
 msgid "Hi there, Kiryu-san! This time, let's go meat\r\nonly! Meat is the best for building muscle!\r\nI'm suggesting something that's relatively low\r\nin fat! It's best when cooked on a grill. Well\r\nthen, best of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta, solo carne! La carne\r\nè la migliore per costruire i muscoli! Ti sto suggerendo\r\nqualcosa che ha un contenuto di grassi relativamente basso!\r\nRende al meglio se cotto alla griglia. Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, solo carne!\r\nLa carne è la migliore per costruire i muscoli!\r\nTi sto suggerendo qualcosa che ha un contenuto\r\ndi grassi relativamente basso! Rende al meglio\r\nse cotto alla griglia. Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||94||||2"
 msgid "Hi there, Kiryu-san! You can't go wrong with\r\nmeat after a workout! Just this one time, I'll\r\nlet you have some popular yakiniku! Well then,\r\nbest of luck!"
-msgstr "Ciao, Kiryu-san! Non puoi sbagliare con la carne\r\ndopo un allenamento! Solo per questa volta, ti\r\nlascerò mangiare del popolare yakiniku! Bene, in\r\nbocca al lupo!"
+msgstr "Ciao, Kiryu-san! Non puoi sbagliare con la\r\ncarne dopo un allenamento! Solo per questa\r\nvolta, ti lascerò mangiare del popolare\r\nyakiniku! Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||95||||2"
 msgid "Hi there, Kiryu-san! You should eat some fish\r\nonce in a while! Let's have that one fish\r\nJapanese people just love! How about a dish\r\nthat allows you to enjoy various parts of it?\r\nWell then, best of luck!"
-msgstr "Ciao, Kiryu-san! Dovresti mangiare del pesce ogni\r\ntanto! Prendiamo quel pesce che i giapponesi\r\namano tanto! Che ne dici di un piatto che ti permette di\r\ngustarne varie parti? Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Dovresti mangiare del pesce\r\nogni tanto! Prendiamo quel pesce che i\r\ngiapponesi amano tanto! Che ne dici di un\r\npiatto che ti permette di gustarne varie\r\nparti? Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||96||||2"
 msgid "Hi there, Kiryu-san! This time, we'll aim for a\r\ndish that'll bulk you up, but is also easy to eat!\r\nA standard light meal that includes eggs, meat,\r\nand vegetables would be good! A meal like that\r\nis usually offered in the morning. Well then,\r\nbest of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta puntiamo a un piatto che\r\nti farà fare massa, ma che sia anche facile da mangiare!\r\nUn pasto leggero standard che include uova, carne e verdure\r\nandrebbe bene! Di solito un pasto così viene offerto al\r\nmattino. Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta puntiamo a un\r\npiatto che ti farà fare massa, ma che sia\r\nanche facile da mangiare! Un pasto leggero\r\nstandard che include uova, carne e verdure\r\nandrebbe bene! Di solito viene offerto al\r\nmattino. Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||97||||2"
 msgid "Hi there, Kiryu-san! This time, we'll go with a\r\ndish that consists of meat and vegetables! Let's\r\nsee... How about one where you can enjoy five\r\ndifferent types of it? It all comes served on a\r\nskewer! Well then, best of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta prenderemo un piatto\r\na base di carne e verdure! Vediamo... Che ne dici di\r\nuno dove puoi gustarne cinque tipi diversi? Viene tutto\r\nservito su uno spiedino! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta prenderemo un\r\npiatto a base di carne e verdure! Vediamo...\r\nChe ne dici di uno dove puoi gustarne cinque\r\ntipi diversi? Viene tutto servito su uno\r\nspiedino! Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||98||||2"
 msgid "Hi there, Kiryu-san! Let's try an unusual dish\r\nthis time! I suggest some bite-sized grilled\r\nfish. It's chock-full of calcium and protein!\r\nThe flavorful roe will have you hooked! Well\r\nthen, best of luck!"
-msgstr "Ciao, Kiryu-san! Proviamo un piatto insolito\r\nquesta volta! Ti suggerisco del pesce grigliato formato\r\nbocconcino. È pieno zeppo di calcio e proteine!\r\nIl sapore delle uova ti conquisterà! Bene, in\r\nbocca al lupo!"
+msgstr "Ciao, Kiryu-san! Proviamo un piatto insolito\r\nquesta volta! Ti suggerisco del pesce grigliato\r\nformato bocconcino. È pieno zeppo di calcio\r\ne proteine! Il sapore delle uova ti\r\nconquisterà! Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||99||||2"
 msgid "Hi there, Kiryu-san! This time, let's focus more\r\non nutrition! How about a dish that contains a\r\nlot of scallions? You'll be tempted to drink\r\nalcohol, but please try your best to resist it.\r\nWell then, best of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta, concentriamoci maggiormente\r\nsulla nutrizione! Che ne dici di un piatto che contiene\r\nmolti cipollotti? Sarai tentato di bere alcolici, ma\r\nfai del tuo meglio per resistere. Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, concentriamoci\r\nmaggiormente sulla nutrizione! Che ne dici di\r\nun piatto che contiene molti cipollotti? Sarai\r\ntentato di bere alcolici, ma fai del tuo\r\nmeglio per resistere. In bocca al lupo!"
 
 msgctxt "5||rizap||table||100||||2"
 msgid "Hi there, Kiryu-san! Now, we'll focus heavily\r\non protein! Let's see... You should eat an\r\nentire, delicious chicken thigh! They're great\r\nto eat after training, but keep it mild! Well\r\nthen, best of luck!"
-msgstr "Ciao, Kiryu-san! Ora, ci concentreremo molto\r\nsulle proteine! Vediamo... Dovresti mangiare\r\nun'intera, deliziosa coscia di pollo! È ottima da\r\nmangiare dopo l'allenamento, ma senza esagerare con\r\ni condimenti! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Ora, ci concentreremo molto\r\nsulle proteine! Vediamo... Dovresti mangiare\r\nun'intera, deliziosa coscia di pollo! È ottima\r\nda mangiare dopo l'allenamento, ma senza\r\nesagerare con i condimenti! In bocca al lupo!"
 
 msgctxt "5||rizap||table||101||||2"
 msgid "Hi there, Kiryu-san! You should eat some junk\r\nfood once in a while to bulk up! Let's see...\r\nHow about a fast food place where you can eat\r\na good, old-fashioned, sunny-side up egg? Well\r\nthen, best of luck!"
-msgstr "Ciao, Kiryu-san! Ogni tanto dovresti mangiare del cibo\r\nspazzatura per fare massa! Vediamo... Che ne dici di\r\nun fast food dove puoi mangiare un buon vecchio uovo\r\nall'occhio di bue? Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Ogni tanto dovresti mangiare\r\ndel cibo spazzatura per fare massa! Vediamo...\r\nChe ne dici di un fast food dove puoi mangiare\r\nun buon vecchio uovo all'occhio di bue?\r\nBene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||102||||2"
 msgid "Hi there, Kiryu-san! This time, let's go with a\r\nbulk-up menu that'll have you consume plenty\r\nof carbs! It's the national dish that everyone\r\nloves! Please get the one with beef! Well then,\r\nbest of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta, andiamo con un menu\r\nper fare massa che ti farà consumare un sacco di\r\ncarboidrati! È il piatto nazionale che tutti amano!\r\nPer favore, prendi quello con il manzo! Bene, in\r\nbocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, andiamo con un\r\nmenu per fare massa che ti farà consumare un\r\nsacco di carboidrati! È il piatto nazionale\r\nche tutti amano! Per favore, prendi quello\r\ncon il manzo! Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||103||||2"
 msgid "Hi there, Kiryu-san! This time, you should\r\nconsume carbs and vegetables! Make sure\r\nit's heavy on the vegetables! This meal is\r\nfamous as a Nagasaki specialty! Well then,\r\nbest of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta, dovresti consumare\r\ncarboidrati e verdure! Assicurati che sia ricco\r\ndi verdure! Questo pasto è famoso come\r\nspecialità di Nagasaki! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, dovresti\r\nconsumare carboidrati e verdure! Assicurati\r\nche sia ricco di verdure! Questo pasto è\r\nfamoso come specialità di Nagasaki!\r\nBene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||104||||2"
 msgid "Hi there, Kiryu-san! This time, we'll focus on\r\nveggies! Did you know ginger also has tons\r\nof digestive health benefits? I want you to\r\ncombine a ton of veggies with ginger!\r\n\r\nThere's a popular chain that's been in town\r\nfor years that serves up some great veggie\r\ndishes."
-msgstr "Ciao, Kiryu-san! Questa volta, ci concentreremo sulle\r\nverdure! Sapevi che lo zenzero ha anche un sacco di benefici\r\nper la salute digestiva? Voglio che tu combini un sacco di\r\nverdure con lo zenzero!\r\n\r\nC'è una catena popolare in città da anni che serve\r\nottimi piatti di verdure."
+msgstr "Ciao, Kiryu-san! Questa volta, ci concentreremo\r\nsulle verdure! Sapevi che lo zenzero ha anche\r\nun sacco di benefici per la salute digestiva?\r\nVoglio che tu combini un sacco di verdure con\r\nlo zenzero!\r\n\r\nC'è una catena popolare in città da anni che\r\nserve ottimi piatti di verdure."
 
 msgctxt "5||rizap||table||105||||2"
 msgid "Hi there, Kiryu-san! This time, protein will be\r\nour main focus! I suggest a meal that offers a\r\nlot of vegetable protein! It might be good for\r\nthe appetite if it's on the spicier side. Well\r\nthen, best of luck!"
-msgstr "Ciao, Kiryu-san! Questa volta, le proteine saranno il nostro\r\nobiettivo principale! Suggerisco un pasto che offra molte\r\nproteine vegetali! Potrebbe farti bene all'appetito se fosse\r\nun po' più piccante. Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, le proteine\r\nsaranno il nostro obiettivo principale!\r\nSuggerisco un pasto che offra molte proteine\r\nvegetali! Potrebbe farti bene all'appetito se\r\nfosse un po' più piccante. In bocca al lupo!"
 
 msgctxt "5||rizap||table||106||||2"
 msgid "Hi there, Kiryu-san! Now, let's go with a dish\r\nthat contains both pork and veggies! Make\r\nsure it's something that'll fill you up! Cabbage\r\nwould be good for the vegetable! Well then,\r\nbest of luck!"
-msgstr "Ciao, Kiryu-san! Ora, andiamo su un piatto che\r\ncontenga sia maiale che verdure! Assicurati che sia\r\nqualcosa che ti sazi! Il cavolo andrebbe bene come\r\nverdura! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Ora, andiamo su un piatto che\r\ncontenga sia maiale che verdure! Assicurati\r\nche sia qualcosa che ti sazi! Il cavolo\r\nandrebbe bene come verdura!\r\nBene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||107||||2"
 msgid "Hi there, Kiryu-san! This time, let's maintain a\r\ngood balance of vitamins and protein! I suggest\r\ngoing for vegetables and chicken! Steamed\r\nchicken breasts would be ideal! Well then, best\r\nof luck!"
-msgstr "Ciao, Kiryu-san! Questa volta, manteniamo un buon equilibrio\r\ndi vitamine e proteine! Suggerisco di puntare su verdure\r\ne pollo! I petti di pollo al vapore sarebbero l'ideale!\r\nBene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Questa volta, manteniamo un\r\nbuon equilibrio di vitamine e proteine!\r\nSuggerisco di puntare su verdure e pollo!\r\nI petti di pollo al vapore sarebbero l'ideale!\r\nBene, in bocca al lupo!"
 
 msgctxt "6||cabaret_erina||table||1||||2"
 msgid "I'd love to talk with you more. <symbol=note_with_outline> Want to meet\r\nup outside the club? Anywhere's fine, as long as\r\nwe can relax or get some exercise! <symbol=heart_with_outline>\r\n\r\nSend me the invitation sticker if you're up for\r\nit! <symbol=note_with_outline>"
-msgstr "Mi piacerebbe parlare ancora con te. <symbol=note_with_outline> Ti andrebbe di\r\nvederci fuori dal club? Ovunque andrà bene, basta potersi\r\nrilassare o fare un po' di movimento! <symbol=heart_with_outline>\r\n\r\nMandami l'adesivo dell'invito se ti va! <symbol=note_with_outline>"
+msgstr "Mi piacerebbe parlare ancora con te. <symbol=note_with_outline>\r\nTi andrebbe di vederci fuori dal club?\r\nOvunque andrà bene, basta potersi rilassare\r\no fare un po' di movimento! <symbol=heart_with_outline>\r\n\r\nMandami l'adesivo dell'invito se ti va! <symbol=note_with_outline>"
 
 msgctxt "6||cabaret_erina||table||2||||2"
 msgid "I'm so happy you invited me out! <symbol=heart_with_outline>\r\nI'm really really really looking forward to it!\r\nI'll be waiting at Theater Square. <symbol=note_with_outline>"
@@ -1233,7 +1233,7 @@ msgstr "Eh? Tutto bene?"
 
 msgctxt "7||cabaret_hikaru||table||1||||2"
 msgid "Wouldn't it be fun to hang out outside the club?\r\n<symbol=note_with_outline> I'd love it if you took me somewhere I don't\r\nusually go... Send me an invitation sticker if\r\nyou're up for it! <symbol=heart_with_outline>"
-msgstr "Non sarebbe divertente uscire insieme fuori dal club?\r\n<symbol=note_with_outline> Mi piacerebbe tanto se mi portassi in un posto dove\r\nnon vado di solito... Mandami l'adesivo dell'invito se\r\nti va! <symbol=heart_with_outline>"
+msgstr "Non sarebbe divertente uscire insieme fuori\r\ndal club? <symbol=note_with_outline> Mi piacerebbe tanto se mi\r\nportassi in un posto dove non vado di solito...\r\nMandami l'adesivo dell'invito se ti va! <symbol=heart_with_outline>"
 
 msgctxt "7||cabaret_hikaru||table||2||||2"
 msgid "Thanks for the invitation! <symbol=note_with_outline>\r\nI'll be waiting at Theater Square.<symbol=heart_with_outline>\r\nExcited to see where we'll go! <symbol=heart_with_outline><symbol=heart_with_outline>"
@@ -1277,7 +1277,7 @@ msgstr "Eh? Tutto ok?"
 
 msgctxt "8||cabaret_riona||table||1||||2"
 msgid "Would you like to hang out sometime? No rush,\r\nwhenever you're free. I just want to talk to you\r\nmore. Send me the invitation sticker whenever\r\nyou're feeling up to it! ^^"
-msgstr "Ti andrebbe di uscire, una di queste volte? Senza fretta,\r\nquando sei libero. Vorrei solo chiacchierare un po' di più\r\ncon te. Mandami l'adesivo dell'invito non appena ti va! ^^"
+msgstr "Ti andrebbe di uscire, una di queste volte?\r\nSenza fretta, quando sei libero. Vorrei solo\r\nchiacchierare un po' di più con te. Mandami\r\nl'adesivo dell'invito non appena ti va! ^^"
 
 msgctxt "8||cabaret_riona||table||2||||2"
 msgid "I'm so happy you invited me out! <symbol=heart_with_outline>\r\nWonder where you'll take me?\r\nI'll meet you at Theater Square. <symbol=note_with_outline>"
@@ -1321,7 +1321,7 @@ msgstr "Uhm... Tutto bene?"
 
 msgctxt "9||cabaret_saki||table||1||||2"
 msgid "I don't go out with too many guys, but I\r\nwouldn't mind hanging out with you, Kiryu-san.\r\nIf you're up to it, send me the invitation\r\nsticker, okay? I'll wait by the phone. <symbol=heart_with_outline>"
-msgstr "Non esco spesso con i ragazzi, ma non mi\r\ndispiacerebbe passare del tempo con te, Kiryu-san.\r\nSe ti va, mandami l'adesivo dell'invito, okay?\r\nAspetterò vicino al telefono. <symbol=heart_with_outline>"
+msgstr "Non esco spesso con i ragazzi, ma non mi\r\ndispiacerebbe passare del tempo con te,\r\nKiryu-san. Se ti va, mandami l'adesivo\r\ndell'invito, okay?\r\nAspetterò vicino al telefono. <symbol=heart_with_outline>"
 
 msgctxt "9||cabaret_saki||table||2||||2"
 msgid "Thanks a ton! I'm pretty excited... <symbol=heart_with_outline>\r\nI'll meet you at Theater Square! <symbol=note_with_outline>"
@@ -1365,7 +1365,7 @@ msgstr "Tutto ok!?"
 
 msgctxt "10||cabaret_sora||table||1||||2"
 msgid "I'm feeling like karaoke or something!\r\nI've got dibs on the anime songs, tho. <symbol=note_with_outline>\r\nOr we can do something else? Whatever you\r\nwant! If you're up to it, just send me the\r\ninvitation sticker, okay? <symbol=heart_with_outline>"
-msgstr "Ho proprio voglia di karaoke o roba del genere!\r\nMa le canzoni degli anime sono mie, eh. <symbol=note_with_outline>\r\nOppure possiamo fare qualcos'altro? Quello che\r\nvuoi tu! Se ci stai, mandami l'adesivo dell'invito,\r\nokay? <symbol=heart_with_outline>"
+msgstr "Ho proprio voglia di karaoke o roba del genere!\r\nMa le canzoni degli anime sono mie, eh. <symbol=note_with_outline>\r\nOppure possiamo fare qualcos'altro? Quello\r\nche vuoi tu! Se ci stai, mandami l'adesivo\r\ndell'invito, okay? <symbol=heart_with_outline>"
 
 msgctxt "10||cabaret_sora||table||2||||2"
 msgid "Yay, this is gonna be so fun! <symbol=note_with_outline>\r\nLet's meet at Theater Square. <symbol=heart_with_outline>"
@@ -1413,7 +1413,7 @@ msgstr "Kiryu-san!\r\nSono Sodachi. Sono finalmente diventato abbastanza forte\r
 
 msgctxt "12||sub_b26_00||table||1||||2"
 msgid "I've finally figured out the ultimate self-defense\r\ntechnique. However, it's not complete yet. I\r\nneed to defeat you with it to truly complete it,\r\nKiryu-san. Please accept this challenge. I'll be\r\nwaiting at the Ropeway Station."
-msgstr "Ho finalmente ideato la tecnica di autodifesa suprema.\r\nTuttavia, non è ancora del tutto completa. Ho\r\nbisogno di sconfiggerti usandola per completarla davvero,\r\nKiryu-san. Ti prego di accettare questa sfida. Ti aspetto\r\nalla stazione della Ropeway."
+msgstr "Ho finalmente ideato la tecnica di autodifesa\r\nsuprema. Tuttavia, non è ancora del tutto\r\ncompleta. Ho bisogno di sconfiggerti usandola\r\nper completarla davvero, Kiryu-san. Ti prego\r\ndi accettare questa sfida. Ti aspetto alla\r\nstazione della Ropeway."
 
 msgctxt "13||sub_b19_gen||table||1||||2"
 msgid "Smartphones are so useful! I'm at New Gaudi\r\nright now. You should come on over, too,\r\nKiryu-san!"
@@ -1469,7 +1469,7 @@ msgstr "Che diavolo sta succedendo, Kiryu!?"
 
 msgctxt "14||sub_a12_00||table||13||||2"
 msgid "Kiryu, you've been had!\r\nMy account got hacked the other day!"
-msgstr "Kiryu, sei stato fregato!\r\nIl mio account è stato hackerato l'altro giorno!"
+msgstr "Kiryu, sei stato fregato! Il mio account\r\nè stato hackerato l'altro giorno!"
 
 msgctxt "14||sub_a12_00||table||14||||2"
 msgid "That wasn't me you were talking to!"
@@ -1489,11 +1489,11 @@ msgstr "Vedrò cosa posso fare.\r\nQuel truffatore non la passerà liscia."
 
 msgctxt "14||sub_a12_00||table||18||||2"
 msgid "Sorry, 50 grand's a lot to lose.\r\nI'll buy you a drink sometime to make up for it."
-msgstr "Scusa, 50 sacchi sono un bel po' da perdere.\r\nTi offrirò da bere un giorno per farmi perdonare."
+msgstr "Scusa, 50 sacchi sono un bel po' da perdere.\r\nTi offrirò da bere un giorno per farmi\r\nperdonare."
 
 msgctxt "14||sub_a12_00||table||19||||2"
 msgid "Kiryu, I just found out my account got hacked!"
-msgstr "Kiryu, ho appena scoperto che il mio account è\r\nstato hackerato!"
+msgstr "Kiryu, ho appena scoperto che il mio account\r\nè stato hackerato!"
 
 msgctxt "14||sub_a12_00||table||20||||2"
 msgid "You \"handled\" it? How?"
@@ -1517,7 +1517,7 @@ msgstr "Kazuma Kiryu, mio eterno rivale.\r\nÈ giunto di nuovo il momento.\r\n\r
 
 msgctxt "17||tips_system||table||2||||2"
 msgid "Nice to meet you! My name's Hiro. I distribute\r\nthe Tips Newsletter!\r\n\r\nThis newsletter will tell you everything you\r\nneed to know to get the most out of your\r\ngame. \r\n\r\nIf there's something you don't understand, I\r\nhope you'll look to us for help!"
-msgstr "Piacere di conoscerti! Mi chiamo Hiro. Sono io a\r\ndistribuire il Notiziario Consigli!\r\n\r\nQuesto notiziario ti dirà tutto quello che devi sapere\r\nper ottenere il massimo dal tuo gioco.\r\n\r\nSe c'è qualcosa che non capisci, spero ti rivolgerai\r\na noi per farti aiutare!"
+msgstr "Piacere di conoscerti! Mi chiamo Hiro. Sono io\r\na distribuire il Notiziario Consigli!\r\n\r\nQuesto notiziario ti dirà tutto quello che\r\ndevi sapere per ottenere il massimo dal\r\ntuo gioco.\r\n\r\nSe c'è qualcosa che non capisci, spero ti\r\nrivolgerai a noi per farti aiutare!"
 
 msgctxt "17||tips_system||table||3||||2"
 msgid "Thank you!"
@@ -1561,43 +1561,43 @@ msgstr "Hahaha! È impossibile. Però mi piacerebbe\r\nandare a bere qualcosa co
 
 msgctxt "17||tips_system||table||13||||2"
 msgid "This is Hiro from the Tips Newsletter!\r\n\r\nToday we'll talk about saving. This game has \r\nan auto-save function, so you don't need to\r\nfind phone booths. It's 2016, right? Keep in\r\nmind, when the save mark is being displayed,\r\ndon't turn off the system as it could corrupt\r\nyour data.\r\n\r\nIf you'd rather manually save the game, select\r\n\"Settings\" from your phone and you'll find the\r\noption there. You can't manually save during\r\nevents or battles. \r\n\r\nYour save data acts as a bookmark so you can\r\npick up the game from wherever you left off.\r\nContinue a saved game by selecting \"Continue\"\r\nfrom the Title Screen.\r\n"
-msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nOggi parleremo dei salvataggi. Questo gioco ha \r\nuna funzione di salvataggio automatico, quindi non c'è\r\nbisogno di trovare cabine telefoniche. Siamo nel 2016,\r\nno? Tieni a mente che quando l'icona di salvataggio è\r\nsullo schermo, non devi spegnere il sistema o potresti\r\ncorrompere i tuoi dati.\r\n\r\nSe preferisci salvare il gioco manualmente, seleziona\r\n\"Impostazioni\" dal tuo telefono e vi troverai l'opzione.\r\nNon puoi salvare manualmente durante gli eventi\r\no le battaglie.\r\n\r\nI tuoi dati di salvataggio fungono da segnalibro, così puoi\r\nriprendere il gioco da dove l'avevi lasciato. Continua\r\nuna partita salvata selezionando \"Continua\" dalla\r\nschermata del titolo.\r\n"
+msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nOggi parleremo dei salvataggi. Questo gioco ha\r\nuna funzione di salvataggio automatico, quindi\r\nnon c'è bisogno di trovare cabine telefoniche.\r\nSiamo nel 2016, no? Tieni a mente che quando\r\nl'icona di salvataggio è sullo schermo, non\r\ndevi spegnere il sistema o potresti corrompere\r\ni tuoi dati.\r\n\r\nSe preferisci salvare il gioco manualmente,\r\nseleziona \"Impostazioni\" dal tuo telefono e vi\r\ntroverai l'opzione. Non puoi salvare manualmente\r\ndurante gli eventi o le battaglie.\r\n\r\nI tuoi dati di salvataggio fungono da segnalibro,\r\ncosì puoi riprendere il gioco da dove l'avevi\r\nlasciato. Continua una partita salvata\r\nselezionando \"Continua\" dal menu del titolo.\r\n"
 
 msgctxt "17||tips_system||table||14||||2"
 msgid "This is Hiro from the Tips Newsletter!\n\nThis newsletter is all about the map. The mini\nmap is displayed in the lower-left corner,\nshowing your surroundings, points of interest,\nand enemies. Just press <Action=View_Map,Adventure> \nto display the entire map, which you can create\nwaypoint markers on! Use both maps to figure\nout where you're headed and how to get there!"
-msgstr "Qui è Hiro dal Notiziario Consigli!\n\nQuesto notiziario riguarda interamente la mappa. La mini-mappa\nviene visualizzata nell'angolo in basso a sinistra,\nmostrando ciò che ti circonda, i punti di interesse\ne i nemici. Premi semplicemente <Action=View_Map,Adventure> \nper visualizzare l'intera mappa, su cui potrai creare i tuoi\nindicatori! Usa entrambe le mappe per capire dove sei diretto\ne come arrivarci!"
+msgstr "Qui è Hiro dal Notiziario Consigli!\n\nQuesto notiziario riguarda interamente la mappa.\nLa mini-mappa viene visualizzata nell'angolo\nin basso a sinistra, mostrando ciò che ti\ncirconda, i punti di interesse e i nemici.\nPremi semplicemente <Action=View_Map,Adventure> per visualizzare\nl'intera mappa, su cui potrai creare i tuoi\nindicatori! Usa entrambe le mappe per capire\ndove sei diretto e come arrivarci!"
 
 msgctxt "17||tips_system||table||15||||2"
 msgid "This is Hiro from the Tips Newsletter!\n\nWhile wandering out in the world, you can\nsprint by holding down <Sign:9,Adventure>.\nCompared to your normal speed, you'll run \na lot faster. However, if you run for too long,\nyou'll become winded.\nLet go of <Sign:9,Adventure> and catch your breath\nwhen needed. Pacing yourself is important! If\nyou want to sprint for longer stretches, there\nare upgrades for that in the Stats Menu."
-msgstr "Qui è Hiro dal Notiziario Consigli!\n\nMentre ti avventuri per il mondo, puoi scattare\ntenendo premuto <Sign:9,Adventure>.\nRispetto alla tua velocità normale, correrai \nmolto più veloce. Tuttavia, se corri troppo a lungo,\nrimarrai senza fiato.\nRilascia <Sign:9,Adventure> per riprendere fiato\nquando ne hai bisogno. Sapersi dosare è importante! Se\nvuoi scattare per tratti più lunghi, ci sono\ndei potenziamenti appositi nel Menu Statistiche."
+msgstr "Qui è Hiro dal Notiziario Consigli!\n\nMentre ti avventuri per il mondo, puoi scattare\ntenendo premuto <Sign:9,Adventure>. Rispetto alla tua velocità\nnormale, correrai molto più veloce. Tuttavia,\nse corri troppo a lungo, rimarrai senza fiato.\nRilascia <Sign:9,Adventure> per riprendere fiato quando ne\nhai bisogno. Sapersi dosare è importante! Se\nvuoi scattare per tratti più lunghi, ci sono\ndei potenziamenti appositi nel Menu Statistiche."
 
 msgctxt "17||tips_system||table||16||||2"
 msgid "This is Hiro from the Tips Newsletter!\r\n\r\nWhen you press <Sign:8,Adventure> while you have control of\r\nKiryu, you'll shift to a first-person perspective.\r\nIt can feel very immersive to see the world\r\nthrough Kiryu's eyes. You may even find secrets\r\nwhile in the first-person point of view that\r\nyou wouldn't have seen otherwise. However, if\r\nyou get in a fight or start a conversation, you'll\r\nswitch back to third-person view."
-msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nPremendo <Sign:8,Adventure> mentre hai il controllo di\r\nKiryu, passerai a una prospettiva in prima persona.\r\nPuò essere molto immersivo vedere il mondo\r\nattraverso gli occhi di Kiryu. Potresti persino scoprire segreti\r\nin questa visuale, che altrimenti\r\nnon avresti mai notato. Tuttavia, se\r\nverrai coinvolto in una rissa o inizierai una conversazione, tornerai\r\nalla visuale in terza persona."
+msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nPremendo <Sign:8,Adventure> mentre hai il controllo di\r\nKiryu, passerai a una prospettiva in prima\r\npersona. Può essere molto immersivo vedere il\r\nmondo attraverso gli occhi di Kiryu. Potresti\r\npersino scoprire segreti in questa visuale\r\nche altrimenti non avresti mai notato.\r\nTuttavia, se verrai coinvolto in una rissa o\r\ninizierai una conversazione, tornerai alla\r\nvisuale in terza persona."
 
 msgctxt "17||tips_system||table||17||||2"
 msgid "This is Hiro from the Tips Newsletter!\r\n\r\nI want to tell you about an app called \"Awards\"\r\non your smartphone. You'll earn some valuable\r\nEXP for objectives you complete here. Clearing\r\nsome easy objectives is a good way to get EXP\r\nearly on. New objectives become available as\r\nyou clear previous ones, so keep at them as\r\nmuch as you can."
-msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nVoglio parlarti di un'app sul tuo smartphone chiamata\r\n\"Traguardi\". Guadagnerai preziosi Punti Esperienza\r\n(EXP) completando i suoi obiettivi. Portare a termine\r\nquelli facili è un ottimo modo per ottenere EXP all'inizio.\r\nNuovi obiettivi diventeranno disponibili man mano che completi\r\nquelli precedenti, quindi dedicati a essi il\r\npiù possibile."
+msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nVoglio parlarti di un'app sul tuo smartphone\r\nchiamata \"Traguardi\". Guadagnerai preziosi\r\nPunti Esperienza (EXP) completando i suoi\r\nobiettivi. Portare a termine quelli facili è\r\nun ottimo modo per ottenere EXP all'inizio.\r\nNuovi obiettivi diventeranno disponibili man\r\nmano che completi quelli precedenti, quindi\r\ndedicati a essi il più possibile."
 
 msgctxt "17||tips_system||table||18||||2"
 msgid "This is Hiro from the Tips Newsletter!\r\n\r\nThere are some great local restaurants to check\r\nout when you just want to relax, recover lost\r\nhealth, and gain a bit of EXP. Certain meal\r\ncombinations may even give you bonus EXP. \r\n\r\nBut don't go too crazy! Eating after you're\r\nalready full will recover health, but not grant\r\nEXP. How do you get hungry again? By burning\r\ncalories, silly! Whether it's running around the\r\ncity or beating up street trash, you're sure to\r\nwork up an appetite doing what you do best!"
-msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nCi sono degli ottimi ristoranti locali da visitare\r\nquando vuoi solo rilassarti, recuperare la salute\r\npersa e ottenere un po' di EXP. Alcune combinazioni\r\ndi pasti potrebbero persino darti EXP bonus. \r\n\r\nMa non esagerare! Mangiare quando sei già pieno\r\nfarà recuperare salute, ma non ti fornirà alcuna\r\nEXP. Come farsi tornare la fame? Bruciando\r\ncalorie, sciocchino! Che si tratti di correre per la\r\ncittà o di picchiare i teppisti di strada, ti verrà sicuramente\r\nfame facendo ciò che sai fare meglio!"
+msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nCi sono degli ottimi ristoranti locali da\r\nvisitare quando vuoi solo rilassarti, recuperare\r\nla salute persa e ottenere un po' di EXP.\r\nAlcune combinazioni di pasti potrebbero persino\r\ndarti EXP bonus.\r\n\r\nMa non esagerare! Mangiare quando sei già\r\npieno farà recuperare salute, ma non ti fornirà\r\nalcuna EXP. Come farsi tornare la fame?\r\nBruciando calorie, sciocchino! Che si tratti di\r\ncorrere per la città o di picchiare i teppisti\r\ndi strada, ti verrà sicuramente fame facendo ciò\r\nche sai fare meglio!"
 
 msgctxt "17||tips_system||table||19||||2"
 msgid "This is Hiro from the Tips Newsletter!\r\n\r\nDid you know you can change the time of day\r\nby accessing either the waiting room door of\r\nNew Serena in Kamurocho, or the futon at the\r\nNavy Apartments when you're in Onomichi?\r\nKeep in mind, you won't be able to change the\r\ntime of day at certain points in the story. You\r\ncan choose either Day or Night in Kamurocho,\r\nand Day, Dusk, or Night in Onomichi. Certain\r\nevents only happen during specific times, so be\r\nsure to explore at all different times."
-msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nSapevi che puoi cambiare l'ora del giorno accedendo\r\nalla porta della sala d'attesa del New Serena a\r\nKamurocho, o al futon dei Navy Apartments\r\nquando sei a Onomichi?\r\nTieni a mente che in certi momenti della storia non ti sarà\r\npossibile farlo. Puoi scegliere tra Giorno o Notte a Kamurocho,\r\ne tra Giorno, Tramonto o Notte a Onomichi. Certi\r\neventi avvengono solo in orari specifici, quindi\r\nassicurati di esplorare in tutti i momenti della giornata."
+msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nSapevi che puoi cambiare l'ora del giorno\r\naccedendo alla porta della sala d'attesa del\r\nNew Serena a Kamurocho, o al futon dei Navy\r\nApartments quando sei a Onomichi?\r\nTieni a mente che in certi momenti della storia\r\nnon ti sarà possibile farlo. Puoi scegliere\r\ntra Giorno o Notte a Kamurocho, e tra Giorno,\r\nTramonto o Notte a Onomichi. Certi eventi\r\navvengono solo in orari specifici, quindi\r\nassicurati di esplorare in tutti i momenti\r\ndella giornata."
 
 msgctxt "17||tips_system||table||20||||2"
 msgid "This is Hiro from the Tips Newsletter!\r\n\r\nJust like real life, if you consume too much\r\nalcohol, you'll get drunk. You can sober up\r\nby drinking water or even just letting it wear\r\noff as time passes. When you're drunk, people\r\naround the city are more likely to pick a fight\r\nwith you. At the same time, your Heat Orbs\r\nwill fill faster, so sometimes you may want to\r\nget drunk."
-msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nProprio come nella vita reale, se consumi troppo\r\nalcol, ti ubriacherai. Puoi smaltire la sbornia bevendo\r\nacqua o semplicemente aspettando che l'effetto svanisca\r\ncol tempo. Quando sei ubriaco, le persone in città saranno\r\npiù propense ad attaccar briga con te. Allo stesso tempo, i tuoi\r\nGlobi Furore si riempiranno più velocemente, quindi\r\na volte potresti trovare utile ubriacarti."
+msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nProprio come nella vita reale, se consumi\r\ntroppo alcol, ti ubriacherai. Puoi smaltire\r\nla sbornia bevendo acqua o semplicemente\r\naspettando che l'effetto svanisca col tempo.\r\nQuando sei ubriaco, le persone in città\r\nsaranno più propense ad attaccar briga con te.\r\nAllo stesso tempo, i tuoi Globi Furore si\r\nriempiranno più velocemente, quindi a volte\r\npotresti trovare utile ubriacarti."
 
 msgctxt "17||tips_system||table||21||||2"
 msgid "This is Hiro from the Tips Newsletter!\r\n\r\nAs you advance through the story, you'll find\r\nitems that are considered Valuables. Valuables\r\nhave their own tab in the Items Menu where\r\nyou can read descriptions of each one.\r\nValuables are often items that are important\r\nto the story. You cannot throw away or sell\r\nValuables."
-msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nAvanzando nella storia, troverai degli oggetti\r\nconsiderati Preziosi. I Preziosi hanno una loro scheda\r\nnel Menu Oggetti, dove puoi leggerne le descrizioni.\r\nSpesso sono oggetti legati ad aspetti importanti\r\ndella storia. Non puoi gettare o vendere gli\r\noggetti Preziosi."
+msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nAvanzando nella storia, troverai degli oggetti\r\nconsiderati Preziosi. I Preziosi hanno una loro\r\nscheda nel Menu Oggetti, dove puoi leggerne le\r\ndescrizioni. Spesso sono oggetti legati ad\r\naspetti importanti della storia. Non puoi\r\ngettare o vendere gli oggetti Preziosi."
 
 msgctxt "17||tips_system||table||22||||2"
 msgid "This is Hiro from the Tips Newsletter!\r\n\r\nWhen you obtain DLC, a cardboard box will be\r\ndelivered to either New Serena in Kamurocho\r\nor the Navy Apartments in Onomichi. Check\r\nthe box to unlock your DLC. You can only\r\nunlock DLC once per save file."
-msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nQuando ottieni dei DLC, una scatola di cartone verrà\r\nconsegnata al New Serena a Kamurocho o ai Navy\r\nApartments a Onomichi. Controlla la scatola per\r\nsbloccare i tuoi DLC. Puoi riscattarli solo una\r\nvolta per file di salvataggio."
+msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nQuando ottieni dei DLC, una scatola di cartone\r\nverrà consegnata al New Serena a Kamurocho o\r\nai Navy Apartments a Onomichi. Controlla la\r\nscatola per sbloccare i tuoi DLC. Puoi\r\nriscattarli solo una volta per file di\r\nsalvataggio."
 
 msgctxt "17||tips_system||table||23||||2"
 msgid "Thank you!"
@@ -2045,7 +2045,7 @@ msgstr "Hahaha! È impossibile. Però mi piacerebbe\r\nandare a bere qualcosa co
 
 msgctxt "17||tips_system||table||134||||2"
 msgid "This is Hiro from the Tips Newsletter!\r\n\r\nCongratulations! All award objectives have\r\nbeen cleared! To show our gratitude for your\r\ndedication, we at Tips Newsletter would like\r\nto present you with a congratulatory item called\r\nthe \"War God Talisman\"!\r\n\r\nA box containing the talisman will be delivered\r\nto New Serena in Kamurocho or the Navy\r\nApartments in Onomichi. On behalf of all of us,\r\nthank you."
-msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nCongratulazioni! Tutti i traguardi sono stati completati!\r\nPer dimostrarti la nostra gratitudine per la tua\r\ndedizione, noi del Notiziario Consigli vorremmo\r\nregalarti un oggetto celebrativo chiamato \"Talismano\r\ndel dio della guerra\"!\r\n\r\nUna scatola contenente il talismano verrà consegnata\r\nal New Serena a Kamurocho o ai Navy Apartments\r\na Onomichi. Da parte di tutti noi, grazie."
+msgstr "Qui è Hiro dal Notiziario Consigli!\r\n\r\nCongratulazioni! Tutti i traguardi sono stati\r\ncompletati! Per dimostrarti la nostra\r\ngratitudine per la tua dedizione, noi del\r\nNotiziario Consigli vorremmo regalarti un\r\noggetto celebrativo chiamato \"Talismano del\r\ndio della guerra\"!\r\n\r\nUna scatola contenente il talismano verrà\r\nconsegnata al New Serena a Kamurocho o ai Navy\r\nApartments a Onomichi. Da parte di tutti\r\nnoi, grazie."
 
 msgctxt "17||tips_system||table||135||||2"
 msgid "Thank you!"
@@ -2089,7 +2089,7 @@ msgstr "Hahaha! È impossibile. Però mi piacerebbe\r\nandare a bere qualcosa co
 
 msgctxt "18||tips_btlmaster||table||2||||2"
 msgid "Do you want to become stronger? Sure, we all\r\ndo. So, read my emails to find out just how\r\neasy it is. First we have to get you used to\r\nperforming simple attacks. \r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n\r\n - Battle Master"
-msgstr "Vuoi diventare più forte? Certo, tutti lo vogliono.\r\nQuindi, leggi le mie email per scoprire quant'è facile.\r\nPer prima cosa, dobbiamo abituarti a eseguire attacchi semplici.\r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n\r\n - Maestro di battaglia"
+msgstr "Vuoi diventare più forte? Certo, tutti lo\r\nvogliono. Quindi, leggi le mie email per\r\nscoprire quant'è facile. Per prima cosa,\r\ndobbiamo abituarti a eseguire attacchi semplici.\r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\r\n\r\n - Maestro di battaglia"
 
 msgctxt "18||tips_btlmaster||table||3||||2"
 msgid "You got that quick.\r\nKeep at it just like that."
@@ -2133,7 +2133,7 @@ msgstr "Cosa vuoi dire?"
 
 msgctxt "18||tips_btlmaster||table||13||||2"
 msgid "It looks like you're pretty out of shape. So, I'll\r\nneed to teach you the basics again. Sure,\r\nattacking is important in a fight, but defense\r\ncan be even more crucial. Practice using all\r\nof the following defenses: \r\n\r\nHold <Sign:4,Combat> while moving to strafe around an\r\nenemy.\r\n\r\nHold <Sign:6,Combat> to guard against enemy attacks.\r\n\r\nPress <Sign: 3,Combat> to Quickstep.\r\n\r\nIf you can do those, just wait for an opening\r\nand then unleash your attacks.\r\n\r\n - Battle Master"
-msgstr "Sembra che tu sia un po' fuori forma. Quindi, dovrò\r\ninsegnarti di nuovo le basi. Certo, attaccare è\r\nimportante in uno scontro, ma la difesa può esserlo\r\nancora di più. Allenati a usare queste mosse difensive:\r\n\r\nTieni premuto <Sign:4,Combat> mentre ti muovi per girare\r\nintorno a un nemico.\r\n\r\nTieni premuto <Sign:6,Combat> per parare gli attacchi nemici.\r\n\r\nPremi <Sign:3,Combat> per un Passo rapido.\r\n\r\nSe riesci a fare tutto questo, ti basterà aspettare\r\nun'apertura per sfoderare i tuoi attacchi.\r\n\r\n - Maestro di battaglia"
+msgstr "Sembra che tu sia un po' fuori forma. Quindi,\r\ndovrò insegnarti di nuovo le basi. Certo,\r\nattaccare è importante in uno scontro, ma\r\nla difesa può esserlo ancora di più. Allenati a\r\nusare queste mosse difensive:\r\n\r\nTieni premuto <Sign:4,Combat> mentre ti muovi per girare\r\nintorno a un nemico.\r\n\r\nTieni premuto <Sign:6,Combat> per parare gli attacchi\r\nnemici.\r\n\r\nPremi <Sign:3,Combat> per un Passo rapido.\r\n\r\nSe riesci a fare tutto questo, ti basterà\r\naspettare un'apertura per sfoderare i tuoi\r\nattacchi.\r\n\r\n - Maestro di battaglia"
 
 msgctxt "18||tips_btlmaster||table||14||||2"
 msgid "You got that quick.\r\nKeep at it just like that."
@@ -2177,7 +2177,7 @@ msgstr "Cosa vuoi dire?"
 
 msgctxt "18||tips_btlmaster||table||24||||2"
 msgid "Have you gotten any new gear yet? The gear\nyou get can be equipped by selecting \"Stats\"\nin the Pause Menu, then pressing <Sign:6,UI>\nor <Sign:4,UI> to toggle to \"Equip.\"\nEquipping better gear will enhance your stats,\nand strong enough gear can even give you\nan edge over strong foes.\n\n- Battle Master"
-msgstr "Hai già ottenuto del nuovo equipaggiamento? Quello che\r\ntrovi può essere equipaggiato selezionando \"Statistiche\"\r\nnel Menu di Pausa, per poi premere <Sign:6,UI> o <Sign:4,UI> e passare alla scheda \"Equipaggiamento\".\r\nEquipaggiare oggetti migliori aumenterà le tue statistiche,\r\ne un equipaggiamento abbastanza forte può persino darti un\r\nvantaggio sui nemici più tosti.\r\n\r\n - Maestro di battaglia"
+msgstr "Hai già ottenuto del nuovo equipaggiamento?\r\nQuello che trovi può essere equipaggiato\r\nselezionando \"Statistiche\" nel Menu di Pausa,\r\nper poi premere <Sign:6,UI> o <Sign:4,UI> e passare alla\r\nscheda \"Equipaggiamento\". Equipaggiare oggetti\r\nmigliori aumenterà le tue statistiche, e un\r\nequipaggiamento abbastanza forte può persino\r\ndarti un vantaggio sui nemici più tosti.\r\n\r\n - Maestro di battaglia"
 
 msgctxt "18||tips_btlmaster||table||25||||2"
 msgid "You got that quick.\r\nKeep at it just like that."
@@ -2221,7 +2221,7 @@ msgstr "Cosa vuoi dire?"
 
 msgctxt "18||tips_btlmaster||table||35||||2"
 msgid "After obtaining some experience points (EXP),\r\nselect Stats in the Pause Menu to spend them on\r\nincreasing your stats and learning new skills.\r\nYou should first increase your Basic Stats. Once\r\nyou've raised your Basic Stats a bit, the rest\r\nis completely up to you. Learn skills that shape\r\nyour own personal fighting style.\r\nRemember: When you get EXP, use it!\r\n\r\n - Battle Master"
-msgstr "Dopo aver ottenuto dei Punti Esperienza (EXP),\r\nseleziona \"Statistiche\" nel Menu di Pausa per spenderli,\r\naumentando i tuoi parametri e imparando nuove abilità.\r\nDovresti prima aumentare le tue Statistiche base. Una volta\r\nfatto ciò, il resto dipende completamente da te. Impara abilità\r\nche si adattino al tuo stile di combattimento personale.\r\nRicorda: Quando ottieni EXP, usala!\r\n\r\n - Maestro di battaglia"
+msgstr "Dopo aver ottenuto dei Punti Esperienza (EXP),\r\nseleziona \"Statistiche\" nel Menu di Pausa per\r\nspenderli, aumentando i tuoi parametri e\r\nimparando nuove abilità. Dovresti prima\r\naumentare le tue Statistiche base. Una volta\r\nfatto ciò, il resto dipende completamente da\r\nte. Impara abilità che si adattino al tuo stile\r\ndi combattimento personale. Ricorda: Quando\r\nottieni EXP, usala!\r\n\r\n - Maestro di battaglia"
 
 msgctxt "18||tips_btlmaster||table||36||||2"
 msgid "You got that quick.\r\nKeep at it just like that."
@@ -2265,7 +2265,7 @@ msgstr "Cosa vuoi dire?"
 
 msgctxt "18||tips_btlmaster||table||46||||2"
 msgid "So you're probably getting used to battles by\r\nnow. That's great! But, don't you hate being\r\nsurrounded by enemies and assaulted from all\r\nsides? Don't worry! In those situations, grab an\r\nenemy with <Sign:0,Combat>, then press <Sign:0,Combat> again to throw\r\nthem. You can do this to knock down\r\nsurrounding enemies as well.  \r\n\r\nHave you ever had a difficult time with speedy\r\nenemies? For quick foes, grab them using <Sign:0,Combat>,\r\nthen perform a grab attack by pressing <Sign:2,Combat> or\r\n<Sign:1,Combat>. Stopping an enemy's movement is the most\r\nsurefire way to cause damage.\r\n\r\nYou can also pick up weapons lying around\r\ntown with <Sign:0,Combat>. Weapons like knives and firearms\r\ncan't be guarded against, so use them whenever\r\nyou can. You have to be prepared to defend\r\nyourself against people who don't fight fair.\r\n\r\n - Battle Master"
-msgstr "Probabilmente a questo punto ti starai abituando alle\r\nbattaglie. Perfetto! Ma non odi essere circondato dai nemici\r\ne assalito da tutte le parti? Non preoccuparti! In quelle\r\nsituazioni, afferra un nemico con <Sign:0,Combat>, poi premi di nuovo\r\n<Sign:0,Combat> per lanciarlo. Puoi farlo anche per respingere i\r\nnemici circostanti.\r\n\r\nHai mai avuto difficoltà con avversari particolarmente veloci?\r\nIn tal caso, afferrali usando <Sign:0,Combat>, per poi eseguire un\r\nattacco in presa premendo <Sign:2,Combat> o <Sign:1,Combat>. Bloccare i movimenti di\r\nun nemico è il modo più sicuro per infliggergli danni.\r\n\r\nInoltre, puoi raccogliere le armi sparse per la città con\r\n<Sign:0,Combat>. Armi come coltelli e armi da fuoco non possono\r\nessere parate, quindi usale ogniqualvolta ne avrai la possibilità.\r\nDevi essere preparato a difenderti da chi non combatte in modo\r\nleale.\r\n\r\n - Maestro di battaglia"
+msgstr "Probabilmente a questo punto ti starai\r\nabituando alle battaglie. Perfetto! Ma non\r\nodi essere circondato dai nemici e assalito\r\nda tutte le parti? Non preoccuparti! In quelle\r\nsituazioni, afferra un nemico con <Sign:0,Combat>,\r\npoi premi di nuovo <Sign:0,Combat> per lanciarlo.\r\nPuoi farlo anche per respingere i nemici\r\ncircostanti.\r\n\r\nHai mai avuto difficoltà con avversari\r\nparticolarmente veloci? In tal caso, afferrali\r\nusando <Sign:0,Combat>, per poi eseguire un attacco in presa\r\npremendo <Sign:2,Combat> o <Sign:1,Combat>. Bloccare i movimenti\r\ndi un nemico è il modo più sicuro per\r\ninfliggergli danni.\r\n\r\nInoltre, puoi raccogliere le armi sparse per\r\nla città con <Sign:0,Combat>. Armi come coltelli e\r\narmi da fuoco non possono essere parate,\r\nquindi usale ogniqualvolta ne avrai la\r\npossibilità. Devi essere preparato a difenderti\r\nda chi non combatte in modo leale.\r\n\r\n - Maestro di battaglia"
 
 msgctxt "18||tips_btlmaster||table||47||||2"
 msgid "You got that quick.\r\nKeep at it just like that."
@@ -2309,7 +2309,7 @@ msgstr "Cosa vuoi dire?"
 
 msgctxt "18||tips_btlmaster||table||57||||2"
 msgid "As you land attacks during battle, you'll notice\r\nthat the Heat Orbs near your Health Bar will\r\nfill up. Once an Orb fills up, you can use it\r\nto perform a special attack known as a Heat\r\nAction. When the Heat Icon shows up, press\r\n<Sign:1,Combat> to unleash a furious Heat Action. However,\r\neach Heat Action can only be activated under\r\ncertain conditions. You'll have to experiment\r\nand learn when you can use each Heat Action.\r\n\r\n - Battle Master"
-msgstr "Mettendo a segno degli attacchi durante la battaglia,\r\nnoterai che i Globi Furore vicino alla tua Barra della Salute\r\nsi riempiranno. Una volta che un Globo è pieno, puoi usarlo\r\nper eseguire un attacco speciale noto come Azione Furore.\r\nQuando compare l'icona Furore, premi <Sign:1,Combat> per scatenare\r\nuna spietata Azione Furore. Tuttavia, ogni Azione Furore\r\npuò essere attivata solo a determinate condizioni. Dovrai\r\nsperimentare e imparare quando usare ciascuna Azione\r\nFurore.\r\n\r\n - Maestro di battaglia"
+msgstr "Mettendo a segno degli attacchi durante la\r\nbattaglia, noterai che i Globi Furore vicino\r\nalla tua Barra della Salute si riempiranno.\r\nUna volta che un Globo è pieno, puoi usarlo\r\nper eseguire un attacco speciale noto come\r\nAzione Furore. Quando compare l'icona Furore,\r\npremi <Sign:1,Combat> per scatenare una spietata Azione\r\nFurore. Tuttavia, ogni Azione Furore può\r\nessere attivata solo a determinate condizioni.\r\nDovrai sperimentare e imparare quando usare\r\nciascuna Azione Furore.\r\n\r\n - Maestro di battaglia"
 
 msgctxt "18||tips_btlmaster||table||58||||2"
 msgid "You got that quick.\r\nKeep at it just like that."
@@ -2353,7 +2353,7 @@ msgstr "Cosa vuoi dire?"
 
 msgctxt "18||tips_btlmaster||table||68||||2"
 msgid "It looks like a lot of your fighting instincts\r\nhave returned, so now I can teach you about\r\na special state called Extreme Heat Mode. After\r\ngathering several Heat Orbs, press <Sign:5,Combat> to enter\r\nExtreme Heat Mode. During Extreme Heat Mode,\r\nyou'll have a blue aura surrounding you. Not\r\nonly will your attack power increase, but you\r\ncan activate special Heat Actions that are\r\nexclusive to this mode.\r\n\r\nHow long Extreme Heat Mode lasts depends on\r\nhow many Heat Orbs you've filled up. The more\r\nOrbs, the longer it lasts. When fighting a\r\nstrong enemy, conserve your Heat Orbs and\r\noverwhelm them with Extreme Heat Mode.\r\n\r\nI look forward to the day I can fight you.\r\n\r\n - Battle Master"
-msgstr "Sembra che buona parte dei tuoi istinti combattivi sia\r\ntornata, quindi ora posso insegnarti uno stato speciale\r\nchiamato Modalità Furore Estremo. Dopo aver raccolto\r\ndiversi Globi Furore, premi <Sign:5,Combat> per entrare in Modalità\r\nFurore Estremo. Durante la Modalità Furore Estremo, sarai\r\ncircondato da un'aura blu. Non solo la tua potenza d'attacco\r\naumenterà, ma potrai attivare Azioni Furore speciali ed\r\nesclusive di questa modalità.\r\n\r\nLa durata della Modalità Furore Estremo dipende da quanti\r\nGlobi Furore hai riempito. Più Globi avrai, più a lungo durerà.\r\nQuando affronti un nemico forte, conserva i tuoi Globi Furore\r\ne sopraffallo con la Modalità Furore Estremo.\r\n\r\nNon vedo l'ora che arrivi il giorno in cui potrò combattere contro\r\ndi te.\r\n\r\n - Maestro di battaglia"
+msgstr "Sembra che buona parte dei tuoi istinti\r\ncombattivi sia tornata, quindi ora posso\r\ninsegnarti uno stato speciale chiamato Modalità\r\nFurore Estremo. Dopo aver raccolto diversi\r\nGlobi Furore, premi <Sign:5,Combat> per entrare in Modalità\r\nFurore Estremo. Durante la Modalità Furore\r\nEstremo, sarai circondato da un'aura blu.\r\nNon solo la tua potenza d'attacco aumenterà,\r\nma potrai attivare Azioni Furore speciali ed\r\nesclusive di questa modalità.\r\n\r\nLa durata della Modalità Furore Estremo dipende\r\nda quanti Globi Furore hai riempito. Più Globi\r\navrai, più a lungo durerà. Quando affronti\r\nun nemico forte, conserva i tuoi Globi Furore\r\ne sopraffallo con la Modalità Furore Estremo.\r\n\r\nNon vedo l'ora che arrivi il giorno in cui\r\npotrò combattere contro di te.\r\n\r\n - Maestro di battaglia"
 
 msgctxt "18||tips_btlmaster||table||69||||2"
 msgid "You got that quick.\r\nKeep at it just like that."
@@ -2397,7 +2397,7 @@ msgstr "Cosa vuoi dire?"
 
 msgctxt "18||tips_btlmaster||table||79||||2"
 msgid "Long time no see. I've watched you for a while,\r\nand it seems your fighting skills are pretty top\r\nnotch now. Therefore, this will be my final\r\nadvice to you.\r\n\r\nAs the Dragon of Dojima, you must understand\r\nthat training can only take you so far. If you\r\nhaven't yet, master your Basic Stats to the max.\r\nOnly then can you push beyond your limits.\r\n\r\nI'll contact you again... when the time is right.\r\n\r\nUntil then, keep on training.\r\n\r\n - Battle Master"
-msgstr "È da tanto che non ci vediamo. Ti ho osservato per un po',\r\ne sembra che ora le tue abilità combattive siano di prim'ordine.\r\nPerciò, questo sarà il mio ultimo consiglio per te.\r\n\r\nCome Drago di Dojima, devi capire che l'allenamento può portarti\r\nsolo fino a un certo punto. Se non lo hai ancora fatto, migliora\r\nal massimo le tue Statistiche base. Solo allora potrai spingerti\r\noltre i tuoi limiti.\r\n\r\nTi contatterò di nuovo... quando sarà il momento giusto.\r\n\r\nFino ad allora, continua ad allenarti.\r\n\r\n - Maestro di battaglia"
+msgstr "È da tanto che non ci vediamo. Ti ho osservato\r\nper un po', e sembra che ora le tue abilità\r\ncombattive siano di prim'ordine. Perciò, questo\r\nsarà il mio ultimo consiglio per te.\r\n\r\nCome Drago di Dojima, devi capire che\r\nl'allenamento può portarti solo fino a un\r\ncerto punto. Se non lo hai ancora fatto,\r\nmigliora al massimo le tue Statistiche base.\r\nSolo allora potrai spingerti oltre i tuoi\r\nlimiti.\r\n\r\nTi contatterò di nuovo... quando sarà il\r\nmomento giusto.\r\n\r\nFino ad allora, continua ad allenarti.\r\n\r\n - Maestro di battaglia"
 
 msgctxt "18||tips_btlmaster||table||80||||2"
 msgid "You got that quick.\r\nKeep at it just like that."
@@ -2441,284 +2441,284 @@ msgstr "Cosa vuoi dire?"
 
 msgctxt "19||trouble_mail||table||1||||2"
 msgid "This is Torafuru.\r\n\r\nI knew you could do it, Kiryu-san! Looks like\r\nyou drove the shakedown army out of the\r\ncity. They don't want to mess with you again.\r\nYou've brought this town one step closer to\r\npeace. Thank you!"
-msgstr "Qui è Troublr.\r\n\r\nSapevo che ce l'avresti fatta, Kiryu-san! Sembra\r\nche tu abbia cacciato dalla città quell'esercito\r\ndi estorsori. Non oseranno più mettersi contro di te.\r\nHai portato questa città un passo più vicina\r\nalla pace. Grazie!"
+msgstr "Qui è Troublr.\r\n\r\nSapevo che ce l'avresti fatta, Kiryu-san!\r\nSembra che tu abbia cacciato dalla città\r\nquell'esercito di estorsori. Non oseranno più\r\nmettersi contro di te. Hai portato questa città\r\nun passo più vicina alla pace. Grazie!"
 
 msgctxt "19||trouble_mail||table||12||||2"
 msgid "This is Torafuru.\r\n\r\nWow! What an incredible job, Kiryu-san!\r\nThose guys were seeking out middle-aged\r\nmen to assault, but you sent them packing!\r\nPlease continue to help however you can!"
-msgstr "Qui è Troublr.\r\n\r\nWow! Che lavoro incredibile, Kiryu-san!\r\nQuei tizi cercavano uomini di mezza età\r\nda aggredire, ma tu li hai sistemati per bene!\r\nPer favore, continua ad aiutarci in ogni modo possibile!"
+msgstr "Qui è Troublr.\r\n\r\nWow! Che lavoro incredibile, Kiryu-san!\r\nQuei tizi cercavano uomini di mezza età\r\nda aggredire, ma tu li hai sistemati per bene!\r\nPer favore, continua ad aiutarci in ogni modo\r\npossibile!"
 
 msgctxt "19||trouble_mail||table||23||||2"
 msgid "This is Torafuru.\r\n\r\nThose pick-up artists were going around\r\ntricking a lot of girls. Thankfully, they\r\nshouldn't con anyone else now that you've\r\ntaught them some manners. You're really\r\nturning this town around for the better.\r\nThank you!"
-msgstr "Qui è Troublr.\r\n\r\nQuei seduttori andavano in giro a ingannare un\r\nmucchio di ragazze. Meno male che ora non\r\ntrufferanno più nessuno, dopo che gli hai\r\ninsegnato le buone maniere. Stai davvero cambiando\r\nin meglio questa città. Grazie!"
+msgstr "Qui è Troublr.\r\n\r\nQuei seduttori andavano in giro a ingannare un\r\nmucchio di ragazze. Meno male che ora non\r\ntrufferanno più nessuno, dopo che gli hai\r\ninsegnato le buone maniere. Stai davvero\r\ncambiando in meglio questa città. Grazie!"
 
 msgctxt "19||trouble_mail||table||34||||2"
 msgid "This is Torafuru.\r\n\r\nIt turns out those guys had committed a lot\r\nof assaults as a mob in this city. \r\n\r\nYou inspired some courage in people who\r\nsaw you fight without any fear against guys\r\nlike that, Kiryu-san. Thank you!"
-msgstr "Qui è Troublr.\r\n\r\nA quanto pare, quei tizi avevano commesso un sacco\r\ndi aggressioni in branco qui in città.\r\n\r\nHai ispirato coraggio in chi ti ha visto combattere\r\nsenza alcuna paura contro tizi del genere, Kiryu-san.\r\nGrazie!"
+msgstr "Qui è Troublr.\r\n\r\nA quanto pare, quei tizi avevano commesso un\r\nsacco di aggressioni in branco qui in città.\r\n\r\nHai ispirato coraggio in chi ti ha visto\r\ncombattere senza alcuna paura contro tizi del\r\ngenere, Kiryu-san. Grazie!"
 
 msgctxt "19||trouble_mail||table||45||||2"
 msgid "This is Torafuru.\r\n\r\nThose guys were notorious as monsters who\r\ntarget couples. What do you think warped their\r\nhearts? Oh well. We don't have to worry about\r\nthem. They won't show their faces around here\r\nanymore. Thank you so much!"
-msgstr "Qui è Troublr.\r\n\r\nQuei tipi erano dei noti mostri che prendevano di\r\nmira le coppiette. Cosa credi che abbia distorto i\r\nloro cuori? Oh beh. Non dobbiamo più preoccuparci\r\ndi loro. Non si faranno più vedere da queste parti.\r\nGrazie mille!"
+msgstr "Qui è Troublr.\r\n\r\nQuei tipi erano dei noti mostri che prendevano\r\ndi mira le coppiette. Cosa credi che abbia\r\ndistorto i loro cuori? Oh beh. Non dobbiamo più\r\npreoccuparci di loro. Non si faranno più\r\nvedere da queste parti. Grazie mille!"
 
 msgctxt "19||trouble_mail||table||56||||2"
 msgid "This is Torafuru.\r\n\r\nI'm sorry, but I had to laugh. I never thought I\r\nwould see you deliver ramen. It might have\r\nbeen a pain in the ass, but I'm sure you saved\r\nthat restaurant... lol. You're doing great work!"
-msgstr "Qui è Troublr.\r\n\r\nScusami, ma non ho potuto fare a meno di ridere.\r\nNon avrei mai pensato di vederti consegnare ramen.\r\nPotrebbe essere stata una vera seccatura, ma sono\r\nsicuro che tu abbia salvato quel ristorante... LOL.\r\nStai facendo un ottimo lavoro!"
+msgstr "Qui è Troublr.\r\n\r\nScusami, ma non ho potuto fare a meno di ridere.\r\nNon avrei mai pensato di vederti consegnare\r\nramen. Potrebbe essere stata una vera\r\nseccatura, ma sono sicuro che tu abbia salvato\r\nquel ristorante... LOL. Ottimo lavoro!"
 
 msgctxt "19||trouble_mail||table||67||||2"
 msgid "This is Torafuru.\r\n\r\nThat settles the series of arsons that had been\r\nhappening in Kamurocho. If it weren't for you,\r\nthere could have been a serious disaster in this\r\ncity. You really saved us all. Thank you!"
-msgstr "Qui è Troublr.\r\n\r\nQuesto pone fine alla serie di incendi dolosi che\r\nsi stavano verificando a Kamurocho. Se non fosse\r\nstato per te, ci sarebbe potuto essere un grave\r\ndisastro in città. Ci hai davvero salvato tutti. Grazie!"
+msgstr "Qui è Troublr.\r\n\r\nQuesto pone fine alla serie di incendi dolosi\r\nche si stavano verificando a Kamurocho. Se non\r\nfosse stato per te, ci sarebbe potuto essere un\r\ngrave disastro in città. Ci hai davvero salvato\r\ntutti. Grazie!"
 
 msgctxt "19||trouble_mail||table||78||||2"
 msgid "This is Torafuru.\r\n\r\nThat settles the series of arsons that had\r\nbeen happening in Onomichi. If it weren't\r\nfor Troublr, we might not have been able\r\nto stop it. I'm thinking of taking this system\r\nnationwide. Let's work together to keep the\r\npeace in this city. I can't thank you enough!"
-msgstr "Qui è Troublr.\r\n\r\nQuesto pone fine alla serie di incendi dolosi che\r\nsi stavano verificando a Onomichi. Se non fosse\r\nstato per Troublr, forse non saremmo riusciti a\r\nfermarli. Sto pensando di espandere questo sistema a\r\nlivello nazionale. Lavoriamo insieme per mantenere la\r\npace in questa città. Non ti ringrazierò mai abbastanza!"
+msgstr "Qui è Troublr.\r\n\r\nQuesto pone fine alla serie di incendi dolosi\r\nche si stavano verificando a Onomichi. Se non\r\nfosse stato per Troublr, forse non saremmo\r\nriusciti a fermarli. Sto pensando di espandere\r\nquesto sistema a livello nazionale. Lavoriamo\r\ninsieme per mantenere la pace in questa città.\r\nNon ti ringrazierò mai abbastanza!"
 
 msgctxt "19||trouble_mail||table||89||||2"
 msgid "This is Torafuru.\r\n\r\nI guess you could say you're in big trouble if\r\nyou run out of toilet paper... lol. I'm in awe of\r\nyour kindness! It's nice to solve small problems\r\nlike this once in a while for a change of pace."
-msgstr "Qui è Troublr.\r\n\r\nImmagino si possa dire che si è davvero in un bel guaio\r\nse finisce la carta igienica... LOL. Sono ammirato\r\ndalla tua gentilezza! È bello risolvere piccoli problemi\r\ncome questo di tanto in tanto per cambiare un po' il ritmo."
+msgstr "Qui è Troublr.\r\n\r\nImmagino si possa dire che si è davvero in un\r\nbel guaio se finisce la carta igienica... LOL.\r\nSono ammirato dalla tua gentilezza! È bello\r\nrisolvere piccoli problemi come questo di\r\ntanto in tanto per cambiare un po' il ritmo."
 
 msgctxt "19||trouble_mail||table||100||||2"
 msgid "This is Torafuru.\r\n\r\nThat was a really dangerous criminal. I wish\r\nthe police would catch people like that and\r\nkeep them off the streets. You've done a\r\ngreat service to your fellow man, Kiryu-san.\r\nThank you so much!"
-msgstr "Qui è Troublr.\r\n\r\nEra un criminale davvero pericoloso. Vorrei che\r\nla polizia catturasse gente del genere per toglierla\r\ndalle strade. Hai reso un grande servizio al prossimo,\r\nKiryu-san. Grazie mille!"
+msgstr "Qui è Troublr.\r\n\r\nEra un criminale davvero pericoloso. Vorrei che\r\nla polizia catturasse gente del genere per\r\ntoglierla dalle strade. Hai reso un grande\r\nservizio al prossimo, Kiryu-san. Grazie mille!"
 
 msgctxt "19||trouble_mail||table||111||||2"
 msgid "This is Torafuru.\r\n\r\nThere's a correlation between the crime rate\r\nin a city and the amount of purse-snatchers.\r\nWithout any witnesses, victims generally have\r\nno option but to give up. You were able to\r\ncatch them in the act of the crime, though.\r\nThank you!"
-msgstr "Qui è Troublr.\r\n\r\nC'è una forte correlazione tra il tasso di criminalità\r\nin una città e la quantità di scippatori.\r\nSenza testimoni, le vittime generalmente non hanno\r\naltra scelta se non arrendersi. Tu, però, sei riuscito a\r\ncoglierli in flagrante. Grazie!"
+msgstr "Qui è Troublr.\r\n\r\nC'è una forte correlazione tra il tasso di\r\ncriminalità in una città e la quantità di\r\nscippatori. Senza testimoni, le vittime\r\ngeneralmente non hanno altra scelta se non\r\narrendersi. Tu, però, sei riuscito a coglierli\r\nin flagrante. Grazie!"
 
 msgctxt "19||trouble_mail||table||122||||2"
 msgid "This is Torafuru.\r\n\r\nI think this city is still very dangerous. The\r\nguy who was caught was apparently an infamous\r\npickpocket according to the police. Looks like\r\nhe was outclassed this time. LOL. Thank you,\r\nKiryu-san!"
-msgstr "Qui è Troublr.\r\n\r\nPenso che questa città sia ancora molto pericolosa. Secondo\r\nla polizia, il tizio che è stato catturato era apparentemente\r\nun famigerato borseggiatore. Sembra che questa volta abbia\r\ntrovato pane per i suoi denti. LOL. Grazie, Kiryu-san!"
+msgstr "Qui è Troublr.\r\n\r\nPenso che questa città sia ancora molto\r\npericolosa. Secondo la polizia, il tizio che è\r\nstato catturato era apparentemente un\r\nfamigerato borseggiatore. Sembra che questa\r\nvolta abbia trovato pane per i suoi denti.\r\nLOL. Grazie, Kiryu-san!"
 
 msgctxt "19||trouble_mail||table||133||||2"
 msgid "This is Torafuru.\r\n\r\nYou really saved us. He might have been the\r\nmost terrifying threat so far. You can make\r\nbombs so easily nowadays... So we can't rule\r\nout the possibility that more bombers might\r\nappear later. I'll keep a look out. Thank you!"
-msgstr "Qui è Troublr.\r\n\r\nCi hai davvero salvato. Potrebbe essere stata la\r\nminaccia più terrificante finora. Al giorno d'oggi è\r\ncosì facile costruire bombe... Quindi non possiamo escludere\r\nla possibilità che ne appaiano altri in futuro. Starò in\r\nguardia. Grazie!"
+msgstr "Qui è Troublr.\r\n\r\nCi hai davvero salvato. Potrebbe essere stata\r\nla minaccia più terrificante finora. Al giorno\r\nd'oggi è così facile costruire bombe... Quindi\r\nnon possiamo escludere la possibilità che ne\r\nappaiano altri in futuro. Starò in guardia.\r\nGrazie!"
 
 msgctxt "19||trouble_mail||table||144||||2"
 msgid "This is Torafuru.\r\n\r\nThanks to you, this city has become much\r\nmore peaceful. I think as long as we keep an\r\neye on Troublr, we'll be able to manage. \r\n\r\nYou're an inspiration, Kiryu-san. I want to\r\nbecome strong like you. I want to protect\r\nthis city with my own strength, rather than\r\nalways depending on others.\r\n\r\nThat's how I feel now. I'll keep working at it.\r\nThank you for everything. Goodbye."
-msgstr "Qui è Troublr.\r\n\r\nGrazie a te, questa città è diventata molto\r\npiù pacifica. Penso che finché terremo d'occhio\r\nTroublr, saremo in grado di cavarcela.\r\n\r\nSei una fonte di ispirazione, Kiryu-san. Voglio\r\ndiventare forte come te. Voglio proteggere\r\nquesta città con le mie stesse forze, piuttosto che\r\ndipendere sempre dagli altri.\r\n\r\nÈ così che mi sento ora. Continuerò a impegnarmi.\r\nGrazie di tutto. Addio."
+msgstr "Qui è Troublr.\r\n\r\nGrazie a te, questa città è diventata molto\r\npiù pacifica. Penso che finché terremo d'occhio\r\nTroublr, saremo in grado di cavarcela.\r\n\r\nSei una fonte di ispirazione, Kiryu-san. Voglio\r\ndiventare forte come te. Voglio proteggere\r\nquesta città con le mie stesse forze,\r\npiuttosto che dipendere sempre dagli altri.\r\n\r\nÈ così che mi sento ora. Continuerò a\r\nimpegnarmi. Grazie di tutto. Addio."
 
 msgctxt "20||kamuinfo_mail||table||1||||2"
 msgid "This is the Kamurocho Information Service.\r\n\r\nThis service will automatically distribute\r\nupdates on Kamurocho's facilities and road\r\nconditions.\r\n\r\n***NOTICE***\r\nAccess to Park Boulevard is limited due to\r\nmajor construction on the sewers on the north\r\nside of Shichifuku Street. Pedestrians and\r\ndrivers should exercise caution while in the\r\narea."
-msgstr "Qui è il Servizio Informazioni di Kamurocho.\r\n\r\nQuesto servizio distribuirà in automatico\r\naggiornamenti sulle strutture e le condizioni stradali\r\ndi Kamurocho.\r\n\r\n***AVVISO***\r\nL'accesso a Park Boulevard è limitato a causa di\r\nimportanti lavori nelle fognature sul lato nord\r\ndi Shichifuku Street. Pedoni e automobilisti dovrebbero\r\nprestare attenzione quando si trovano nell'area."
+msgstr "Qui è il Servizio Informazioni di Kamurocho.\r\n\r\nQuesto servizio distribuirà in automatico\r\naggiornamenti sulle strutture e le condizioni\r\nstradali di Kamurocho.\r\n\r\n***AVVISO***\r\nL'accesso a Park Boulevard è limitato a causa\r\ndi importanti lavori nelle fognature sul lato\r\nnord di Shichifuku Street. Pedoni e\r\nautomobilisti dovrebbero prestare attenzione\r\nquando si trovano nell'area."
 
 msgctxt "20||kamuinfo_mail||table||2||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||3||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||4||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||5||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||6||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||7||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||8||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||9||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||10||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||11||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||12||||2"
 msgid "This is the Kamurocho Information Service.\r\n\r\n***NOTICE***\r\nThe Champion District is undergoing renovation\r\nto address the deterioration of buildings within\r\nthe area. Please stay alert and yield to\r\nconstruction crews."
-msgstr "Qui è il Servizio Informazioni di Kamurocho.\r\n\r\n***AVVISO***\r\nIl Champion District è in fase di ristrutturazione\r\nper affrontare il degrado degli edifici all'interno\r\ndell'area. Si prega di rimanere all'erta e di\r\ndare la precedenza agli addetti ai lavori."
+msgstr "Qui è il Servizio Informazioni di Kamurocho.\r\n\r\n***AVVISO***\r\nIl Champion District è in fase di\r\nristrutturazione per affrontare il degrado\r\ndegli edifici all'interno dell'area. Si prega\r\ndi rimanere all'erta e di dare la precedenza\r\nagli addetti ai lavori."
 
 msgctxt "20||kamuinfo_mail||table||13||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||14||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||15||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||16||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||17||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||18||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||19||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||20||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||21||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||22||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||23||||2"
 msgid "This is the Kamurocho Information Service.\r\n\r\n***NOTICE***\r\nA building is currently on fire in Kamurocho,\r\nand reports indicate that the fire department's\r\nresponse has been delayed. If you are in the\r\narea, please evacuate immediately."
-msgstr "Qui è il Servizio Informazioni di Kamurocho.\r\n\r\n***AVVISO***\r\nUn edificio è attualmente in fiamme a Kamurocho,\r\ne i resoconti indicano che l'intervento dei vigili\r\ndel fuoco ha subito dei ritardi. Se siete nell'area,\r\nvi preghiamo di evacuare immediatamente."
+msgstr "Qui è il Servizio Informazioni di Kamurocho.\r\n\r\n***AVVISO***\r\nUn edificio è attualmente in fiamme a\r\nKamurocho, e i resoconti indicano che\r\nl'intervento dei vigili del fuoco ha subito dei\r\nritardi. Se siete nell'area, vi preghiamo di\r\nevacuare immediatamente."
 
 msgctxt "20||kamuinfo_mail||table||24||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||25||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||26||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||27||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||28||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||29||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||30||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||31||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||32||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||33||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||34||||2"
 msgid "This is the Kamurocho Information Service.\r\n\r\n***NOTICE***\r\nWe have just received an eyewitness report of a\r\nmassive UFO in the skies above Kamurocho and\r\nOnomichi! Apparently you can see it if you\r\nequip an item called the UFO Finder! If you are\r\nin Kamurocho, look toward the Millennium Tower\r\nfrom the roof of a building. If you are in\r\nOnomichi, find some high ground and look up at\r\nthe sky."
-msgstr "Qui è il Servizio Informazioni di Kamurocho.\r\n\r\n***AVVISO***\r\nAbbiamo appena ricevuto il resoconto di un\r\ntestimone oculare riguardo a un gigantesco UFO\r\nnei cieli sopra Kamurocho e Onomichi! Apparentemente\r\npotrete vederlo equipaggiando un oggetto chiamato Cercatore\r\ndi UFO! Se vi trovate a Kamurocho, guardate in direzione\r\ndella Millennium Tower dal tetto di un edificio. Se vi\r\ntrovate a Onomichi, trovate un punto in alto e guardate\r\nil cielo."
+msgstr "Qui è il Servizio Informazioni di Kamurocho.\r\n\r\n***AVVISO***\r\nAbbiamo appena ricevuto il resoconto di un\r\ntestimone oculare riguardo a un gigantesco UFO\r\nnei cieli sopra Kamurocho e Onomichi!\r\nApparentemente potrete vederlo equipaggiando\r\nun oggetto chiamato Cercatore di UFO! Se vi\r\ntrovate a Kamurocho, guardate in direzione\r\ndella Millennium Tower dal tetto di un\r\nedificio. Se vi trovate a Onomichi, trovate un\r\npunto in alto e guardate il cielo."
 
 msgctxt "20||kamuinfo_mail||table||35||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||36||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||37||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||38||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||39||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||40||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||41||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||42||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||43||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||44||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||45||||2"
 msgid "This is the Kamurocho Information \rService.\r\n\r\n***NOTICE***\r\nHave you heard? A rumor has been spreading\r\nthat you can take pictures of ghosts in\r\nKamurocho. Reports say the phenomenon is\r\ntied to some mysterious photographs. If you\r\nhold one of these photographs, you might feel\r\nyourself shudder as you pass by a certain\r\nlocation. Try taking a picture there, and you\r\nmight see something that's not meant to be\r\nseen..."
-msgstr "Qui è il Servizio Informazioni di \rKamurocho.\r\n\r\n***AVVISO***\r\nHai sentito? Si sta diffondendo la voce\r\nche sia possibile scattare foto ai fantasmi a\r\nKamurocho. I resoconti dicono che il fenomeno è\r\nlegato ad alcune fotografie misteriose. Se hai\r\ncon te una di queste foto, potresti sentire\r\nun brivido mentre passi vicino a un certo\r\nluogo. Prova a scattare una foto lì, e potresti\r\nvedere qualcosa che non dovrebbe essere\r\nvisto..."
+msgstr "Qui è il Servizio Informazioni di Kamurocho.\r\n\r\n***AVVISO***\r\nHai sentito? Si sta diffondendo la voce che sia\r\npossibile scattare foto ai fantasmi a\r\nKamurocho. I resoconti dicono che il fenomeno è\r\nlegato ad alcune fotografie misteriose. Se hai\r\ncon te una di queste foto, potresti sentire un\r\nbrivido mentre passi vicino a un certo luogo.\r\nProva a scattare una foto lì, e potresti\r\nvedere qualcosa che non dovrebbe essere visto..."
 
 msgctxt "20||kamuinfo_mail||table||46||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||47||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||48||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||49||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||50||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||51||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||52||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||53||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||54||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "20||kamuinfo_mail||table||55||||2"
 msgid "This is an automated message. Please do not\r\nreply directly to this account as you will not\r\nreceive a response."
-msgstr "Questo è un messaggio automatico. Si prega di non\r\nrispondere direttamente a questo account, in quanto non\r\nsi riceverà alcuna risposta."
+msgstr "Questo è un messaggio automatico. Si prega di\r\nnon rispondere direttamente a questo account,\r\nin quanto non si riceverà alcuna risposta."
 
 msgctxt "21||cln_32_00||table||1||||2"
 msgid "Kiryu-san,\r\n\r\nThat back-alley merchant that I talked to you\r\nabout the other day gave me a call. He said it\r\nwas okay for me to tell you about him, so if\r\nyou want to meet him, you should check out the\r\nvacant lot in Hana-no-kubo."
-msgstr "Kiryu-san,\r\n\r\nQuel mercante nel vicolo di cui ti ho parlato\r\nl'altro giorno mi ha chiamato. Ha detto che\r\nandava bene parlarti di lui, quindi se\r\nvuoi incontrarlo, dovresti dare un'occhiata al\r\nlotto libero in Hana-no-kubo."
+msgstr "Kiryu-san,\r\n\r\nQuel mercante nel vicolo di cui ti ho parlato\r\nl'altro giorno mi ha chiamato. Ha detto che\r\nandava bene parlarti di lui, quindi se vuoi\r\nincontrarlo, dovresti dare un'occhiata al\r\nlotto libero in Hana-no-kubo."
 
 msgctxt "22||cln_32_01||table||1||||2"
 msgid "Yo Kiryu-san,\r\nIt's been a while. You remember the back-alley\r\nmerchant in Onomichi mentioning his counterpart\r\nin Kamurocho?\r\n\r\nWell I got word that he's already heard about\r\nyou, so you should go introduce yourself when\r\nyou get a chance. I hear he hangs out deep in\r\nthe sewer system."
-msgstr "Ehi Kiryu-san,\r\nÈ da un po' che non ci si sente. Ricordi che il\r\nmercante nel vicolo a Onomichi aveva menzionato\r\nla sua controparte a Kamurocho?\r\n\r\nBeh, mi è giunta voce che ha già sentito parlare\r\ndi te, quindi dovresti andare a presentarti quando\r\nne hai l'occasione. Ho sentito dire che bazzica nelle\r\nprofondità del sistema fognario."
+msgstr "Ehi Kiryu-san,\r\nÈ da un po' che non ci si sente. Ricordi che il\r\nmercante nel vicolo a Onomichi aveva menzionato\r\nla sua controparte a Kamurocho?\r\n\r\nBeh, mi è giunta voce che ha già sentito\r\nparlare di te, quindi dovresti andare a\r\npresentarti quando ne hai l'occasione. Ho\r\nsentito dire che bazzica nelle profondità\r\ndel sistema fognario."
