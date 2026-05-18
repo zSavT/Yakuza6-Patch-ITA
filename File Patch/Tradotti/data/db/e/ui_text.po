@@ -3357,7 +3357,7 @@ msgstr "IMPOSTAZIONI AUDIO"
 
 msgctxt "876||||text"
 msgid "MEMORIES"
-msgstr "RICORDI"
+msgstr "MEMORIE"
 
 msgctxt "877||||text"
 msgid "Next"

@@ -25,7 +25,7 @@ msgstr "REPLAY"
 
 msgctxt "8||past_series||name"
 msgid "MEMORIES"
-msgstr "RICORDI"
+msgstr "MEMORIE"
 
 msgctxt "10||new_game_after_clear_main_story||name"
 msgid "NEW GAME"
