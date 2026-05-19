@@ -13,7 +13,7 @@ msgstr "Ehi..."
 
 msgctxt "1||a01_010||cinema_telop||2||||4"
 msgid "Are you sure about this?"
-msgstr "Sei sicuro di quello che fai?"
+msgstr "Sei sicuro?"
 
 msgctxt "1||a01_010||cinema_telop||3||||4"
 msgid "I mean, don't you think\r\nit's almost time?"
@@ -21,7 +21,7 @@ msgstr "Insomma, non credi\r\nche sia quasi ora?"
 
 msgctxt "1||a01_010||cinema_telop||4||||4"
 msgid "Nah, he should be fine for now."
-msgstr "Nah, per ora il piccolo dovrebbe essere a posto."
+msgstr "Nah, per ora starà bene."
 
 msgctxt "1||a01_010||cinema_telop||5||||4"
 msgid "I just want to enjoy my drink\r\nfor a little longer."
@@ -33,7 +33,7 @@ msgstr "Tu."
 
 msgctxt "1||a01_010||cinema_telop||7||||4"
 msgid "Outside, now, Kiryu."
-msgstr "Fuori. Ora. Kiryu."
+msgstr "Fuori. Ora, Kiryu."
 
 msgctxt "1||a01_010||cinema_telop||8||||4"
 msgid "Thought I told ya I don't wanna\r\nsee yer sorry ass in here again."
@@ -45,7 +45,7 @@ msgstr "Potresti almeno cercare di essere\r\nun po' più educato con i miei clie
 
 msgctxt "1||a01_010||cinema_telop||10||||4"
 msgid "But I been coming 'round yer\r\nplace way longer than this guy!"
-msgstr "Ma io vengo nel tuo locale\r\nda molto più tempo di lui!"
+msgstr "Ma io frequento il tuo locale\r\nda molto più tempo di lui!"
 
 msgctxt "1||a01_010||cinema_telop||11||||4"
 msgid "Y'gonna pick him over me?\r\nReally?"
@@ -61,7 +61,7 @@ msgstr "Beh!? Muoviti a uscire!"
 
 msgctxt "1||a01_010||cinema_telop||14||||4"
 msgid "I ain't lettin' ya ignore me!"
-msgstr "Non ti permetto di ignorarmi!"
+msgstr "Non osare ignorarmi!"
 
 msgctxt "1||a01_010||cinema_telop||15||||4"
 msgid "Hey, Nagumo-kun!"
@@ -69,11 +69,11 @@ msgstr "Ehi, Nagumo-kun!"
 
 msgctxt "1||a01_010||cinema_telop||16||||4"
 msgid "O-Oh, uh..."
-msgstr "O-Oh, uh..."
+msgstr "O-Oh, uhm..."
 
 msgctxt "1||a01_010||cinema_telop||17||||4"
 msgid "I'll pay you back later, 'kay?"
-msgstr "Ti pago dopo, ok?"
+msgstr "Ti ripagherò i danni dopo, ok?"
 
 msgctxt "1||a01_010||cinema_telop||18||||4"
 msgid "Sorry 'bout that, Kiyo-chan."
@@ -81,11 +81,11 @@ msgstr "Scusa per il trambusto, Kiyo-chan."
 
 msgctxt "1||a01_010||cinema_telop||19||||4"
 msgid "I won't be long."
-msgstr "Non ci metterò molto."
+msgstr "Torno subito."
 
 msgctxt "1||a01_010||cinema_telop||20||||4"
 msgid "Like hell you won't."
-msgstr "Col cavolo."
+msgstr "Col cavolo che tornerai."
 
 msgctxt "1||a01_010||cinema_telop||21||||4"
 msgid "I'm gonna make sure\r\ny'get gone fer good."
@@ -117,7 +117,7 @@ msgstr "La verità è che mi hai appena fatto fare la figura dell'idiota\r\ndava
 
 msgctxt "1||a01_010||cinema_telop||28||||4"
 msgid "How d'ya reckon that feels?"
-msgstr "Come credi ci si senta?"
+msgstr "Come credi che mi senta?"
 
 msgctxt "1||a01_010||cinema_telop||29||||4"
 msgid "The Hiroshima yakuza don't take kindly\r\nt'city slickers like you, y'hear me!?"
@@ -161,11 +161,11 @@ msgstr "Perché a partire da ora..."
 
 msgctxt "1||a01_010||cinema_telop||39||||4"
 msgid "...All yer plans are canceled!"
-msgstr "...Tutti i tuoi piani sono cancellati!"
+msgstr "...Tutti i tuoi piani sono annullati!"
 
 msgctxt "2||a01_020||cinema_telop||1||||4"
 msgid "'Kay, I getcha."
-msgstr "Ok, afferrato."
+msgstr "Ok, ho capito."
 
 msgctxt "2||a01_020||cinema_telop||2||||4"
 msgid "But y'know,\r\nthat was only round one."
@@ -225,11 +225,11 @@ msgstr "Tieni, Kiryu-san."
 
 msgctxt "3||a01_030||cinema_telop||5||||4"
 msgid "Hi there. Sorry for the wait."
-msgstr "Ciao. Scusa per l'attesa."
+msgstr "Ehi. Scusa per l'attesa."
 
 msgctxt "3||a01_030||cinema_telop||6||||4"
 msgid "You can really throw 'em back..."
-msgstr "Hai un bello stomaco..."
+msgstr "Bevi che è un piacere..."
 
 msgctxt "3||a01_030||cinema_telop||7||||4"
 msgid "...Haruto."
@@ -245,7 +245,7 @@ msgstr "...un tempo faceva parte della yakuza."
 
 msgctxt "4||a01_040||cinema_telop||3||||4"
 msgid "I know he looks scary to most people..."
-msgstr "So che può fare paura alla maggior parte delle persone..."
+msgstr "So che a molti può fare paura..."
 
 msgctxt "4||a01_040||cinema_telop||4||||4"
 msgid "...but he always treated me\r\nwith respect and kindness."
@@ -257,7 +257,7 @@ msgstr "Anche se era un po' anticonvenzionale,\r\npotevo sempre contare su di lu
 
 msgctxt "4||a01_040||cinema_telop||6||||4"
 msgid "I... I think of him like a father.\r\nAnd I love him very much."
-msgstr "Io... lo considero come un padre.\r\nE gli voglio un mondo di bene."
+msgstr "Io... lo considero un padre.\r\nE gli voglio un mondo di bene."
 
 msgctxt "4||a01_040||cinema_telop||7||||4"
 msgid "I don't want to keep lying to\r\neveryone like this though."
@@ -393,7 +393,7 @@ msgstr "E tu, Haruka-chan?"
 
 msgctxt "5||a01_045||cinema_telop||21||||4"
 msgid "You two gonna head back to Morning Glory?"
-msgstr "Voi due tornerete al Morning Glory?"
+msgstr "Voi due tornerete all'Asagao?"
 
 msgctxt "5||a01_045||cinema_telop||22||||4"
 msgid "Yeah, I think so."
@@ -405,7 +405,7 @@ msgstr "Quell'orfanotrofio è casa nostra,\r\ne quei bambini sono praticamente l
 
 msgctxt "5||a01_045||cinema_telop||24||||4"
 msgid "I see. Guess Kamurocho'll be\r\ngetting a bit lonelier then."
-msgstr "Capisco. Immagino che Kamurocho diventerà\r\nun po' più vuota, allora."
+msgstr "Capisco. Immagino che Kamurocho diventerà\r\nun po' più triste, allora."
 
 msgctxt "5||a01_045||cinema_telop||25||||4"
 msgid "What's up, copper? Slow your roll.\r\nYou're gonna spook the patients."
@@ -429,11 +429,11 @@ msgstr "Meno male che sei ragionevole.\r\nForse saremo anche clementi."
 
 msgctxt "5||a01_045||cinema_telop||30||||4"
 msgid "Taiga Saejima. Please come peacefully."
-msgstr "Taiga Saejima. La prego di seguirci pacificamente."
+msgstr "Taiga Saejima. La prego di seguirci senza fare storie."
 
 msgctxt "5||a01_045||cinema_telop||31||||4"
 msgid "Wasn't plannin' on fightin' ya."
-msgstr "Non avevo intenzione di fare a botte."
+msgstr "Non avevo intenzione di opporre resistenza."
 
 msgctxt "5||a01_045||cinema_telop||32||||4"
 msgid "Screw this noise. Why's it always gotta\r\ngo down like this with you, bro?"
@@ -465,11 +465,11 @@ msgstr "Questa è la stanza di Kazuma Kiryu, corretto?"
 
 msgctxt "5||a01_045||cinema_telop||39||||4"
 msgid "Eh? What's it matter?"
-msgstr "Eh? Che importanza ha?"
+msgstr "Eh? Che t'importa?"
 
 msgctxt "5||a01_045||cinema_telop||40||||4"
 msgid "I'm with the police.\r\nRemain calm, please."
-msgstr "Siamo della polizia.\r\nResti calmo, per favore."
+msgstr "Siamo della polizia.\r\nVi prego di mantenere la calma."
 
 msgctxt "5||a01_045||cinema_telop||41||||4"
 msgid "Huh?"
