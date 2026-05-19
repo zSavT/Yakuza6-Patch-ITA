@@ -9,637 +9,636 @@ msgstr ""
 
 msgctxt "0||||4"
 msgid "Oh, it's you, Kiryu-san."
-msgstr ""
+msgstr "Oh, sei tu, Kiryu-san."
 
 msgctxt "1||||4"
 msgid "I was thinkin' I'd head to the bar.\r\nCare to join me?"
-msgstr ""
+msgstr "Stavo pensando di fare un salto al bar.\r\nTi va di unirti a me?"
 
 msgctxt "2||||4"
 msgid "I wouldn't mind, but don't you\r\nneed to tend your pawn shop?"
-msgstr ""
+msgstr "Non mi dispiacerebbe, ma non\r\ndevi badare al tuo banco dei pegni?"
 
 msgctxt "3||||4"
 msgid "Y'could hear a pin drop in there\r\nthis time o' day, so I figure, why not?"
-msgstr ""
+msgstr "In questo momento della giornata non vola una\r\nmosca lì dentro, quindi mi sono detto: perché no?"
 
 msgctxt "4||||4"
 msgid "'Scuse me, are you t'owner of that\r\nOtafuku pawn shop?"
-msgstr ""
+msgstr "Mi scusi, è lei il proprietario del\r\nbanco dei pegni Otafuku?"
 
 msgctxt "5||||4"
 msgid "What? Yeah, that's me..."
-msgstr ""
+msgstr "Cosa? Sì, sono io..."
 
 msgctxt "6||||4"
 msgid "There's somethin' I need y'to buy.\r\nAre ya closed fer the day?"
-msgstr ""
+msgstr "C'è una cosa che vorrei venderle.\r\nAvete già chiuso per oggi?"
 
 msgctxt "7||||4"
 msgid "Ahhhh... Sure, sure.\r\nStop in and I'll appraise it fer ya."
-msgstr ""
+msgstr "Ahhhh... Certo, certo.\r\nEntri pure e gliela valuterò."
 
 msgctxt "8||||4"
 msgid "Oh, really? Much obliged."
-msgstr ""
+msgstr "Oh, davvero? Le sono grato."
 
 msgctxt "9||||4"
 msgid "I know I invited y'out, Kiryu-san,\r\nbut y'mind waiting at my shop?"
-msgstr ""
+msgstr "So che ti ho invitato ad uscire, Kiryu-san,\r\nma ti dispiace aspettare nel mio negozio?"
 
 msgctxt "10||||4"
 msgid "Sure, no problem."
-msgstr ""
+msgstr "Certo, nessun problema."
 
 msgctxt "11||||4"
 msgid "Th-This ring...!"
-msgstr ""
+msgstr "Q-questo anello...!"
 
 msgctxt "12||||4"
 msgid "Huh? What is it?"
-msgstr ""
+msgstr "Eh? Di che si tratta?"
 
 msgctxt "13||||4"
 msgid "Ah... Nothing, sorry. It's engraved,\r\nso that drops the value to 10,000 yen."
-msgstr ""
+msgstr "Ah... Niente, scusi. È inciso,\r\nquindi il suo valore scende a 10.000 yen."
 
 msgctxt "14||||4"
 msgid "What a chintzy-ass ring.\r\nBut fine, I'll take 10k."
-msgstr ""
+msgstr "Che anello da quattro soldi.\r\nMa va bene, prenderò 10 sacchi."
 
 msgctxt "16||||4"
 msgid "What's the matter, Ando-san?\r\nYou're kind of pale."
-msgstr ""
+msgstr "Qual è il problema, Ando-san?\r\nSei un po' pallido."
 
 msgctxt "17||||4"
 msgid "N-No, I'm fine. Sorry, Kiryu-san. Y'mind\r\nif I let ya head to the bar by yerself?"
-msgstr ""
+msgstr "N-no, sto bene. Scusa, Kiryu-san. Ti dispiace se ti\r\nchiedo di avviarti verso il bar per conto tuo?"
 
 msgctxt "18||||4"
 msgid "That's fine...\r\nDon't push yourself too hard, okay?"
-msgstr ""
+msgstr "Va bene...\r\nNon sforzarti troppo, d'accordo?"
 
 msgctxt "19||||4"
 msgid "Something felt off about Ando-san.\r\nI'll ask what happened at the bar."
-msgstr ""
+msgstr "(C'era qualcosa di strano in Ando-san.\r\nGli chiederò cos'è successo quando sarò al bar.)"
 
 msgctxt "20||||4"
 msgid "I better not bother Ando-san right now."
-msgstr ""
+msgstr "(Meglio non disturbare Ando-san in questo momento.)"
 
 msgctxt "21||||4"
 msgid "Ando-san said he'll be coming later. \r\nShould I go on inside ahead of him?"
-msgstr ""
+msgstr "(Ando-san ha detto che sarebbe arrivato più tardi. \r\nDovrei entrare prima di lui?)"
 
 msgctxt "22||||4"
 msgid "Yeah, I'll wait."
-msgstr ""
+msgstr "Sì, aspetterò."
 
 msgctxt "23||||4"
 msgid "No, maybe another time."
-msgstr ""
+msgstr "No, magari un'altra volta."
 
 msgctxt "24||||4"
 msgid "Oh, Kiryu-san! All alone?"
-msgstr ""
+msgstr "Oh, Kiryu-san! Tutto solo?"
 
 msgctxt "25||||4"
 msgid "No, Ando-san should be coming in a bit.\r\nHe seemed really down about something..."
-msgstr ""
+msgstr "No, Ando-san dovrebbe arrivare a momenti.\r\nSembrava davvero giù per qualcosa..."
 
 msgctxt "26||||4"
 msgid "Oh, that sounds bad."
-msgstr ""
+msgstr "Oh, suona male."
 
 msgctxt "27||||4"
 msgid "We'll get to the bottom of this yet."
-msgstr ""
+msgstr "Verremo a capo di questa storia."
 
 msgctxt "28||||4"
 msgid "Welcome, Ando-san...\r\n...Yeah, he's down in the dumps."
-msgstr ""
+msgstr "Benvenuto, Ando-san...\r\n...Sì, è proprio giù di morale."
 
 msgctxt "29||||4"
 msgid "C'mon, sit yerself down.\r\nWe'll hear ya out."
-msgstr ""
+msgstr "Forza, mettiti a sedere.\r\nTi ascoltiamo."
 
 msgctxt "30||||4"
 msgid "Y-Yeah..."
-msgstr ""
+msgstr "S-sì..."
 
 msgctxt "31||||4"
 msgid "Hmm, I didn't add to the conversation\r\nand it ended awkwardly."
-msgstr ""
+msgstr "(Uhm, non ho partecipato alla conversazione\r\ned è finita in modo imbarazzante.)"
 
 msgctxt "32||||4"
 msgid "(They're still in the bar. I should\r\nclear my head and get back in there.)"
-msgstr ""
+msgstr "(Sono ancora nel bar. Dovrei\r\nschiarirmi le idee e tornare dentro.)"
 
 msgctxt "33||||4"
 msgid "I hope Ando-san cheers up soon..."
-msgstr ""
+msgstr "(Spero che Ando-san si tiri su di morale presto...)"
 
 msgctxt "34||||4"
 msgid "I'll drop by Otafuku Pawn later."
-msgstr ""
+msgstr "(Farò un salto al Banco dei pegni Otafuku più tardi.)"
 
 msgctxt "35||||4"
 msgid "I'm worried about Ando-san right now.\r\nI should head to Otafuku Pawn."
-msgstr ""
+msgstr "(Sono preoccupato per Ando-san al momento.\r\nDovrei andare al Banco dei pegni Otafuku.)"
 
 msgctxt "36||||4"
 msgid "Hm? There's a note."
-msgstr ""
+msgstr "(Uhm? C'è un biglietto.)"
 
 msgctxt "37||||4"
 msgid "What's this? \"I'll be closing up shop for a while...\"\r\nWhat?"
-msgstr ""
+msgstr "(Cos'è questo? \"Chiuderò il negozio per un po'...\"\r\nCosa?)"
 
 msgctxt "38||||4"
 msgid "Hey, wait, he ain't recovered at all!"
-msgstr ""
+msgstr "Ehi, aspetta, non si è ripreso per niente!"
 
 msgctxt "39||||4"
 msgid "H-Hatakeyama-san... You all came!"
-msgstr ""
+msgstr "H-Hatakeyama-san... Siete venuti tutti!"
 
 msgctxt "40||||4"
 msgid "Well, we're all worried about Ando-san too."
-msgstr ""
+msgstr "Beh, siamo tutti in pensiero per Ando-san."
 
 msgctxt "41||||4"
 msgid "Even after we were extra nice to him..."
-msgstr ""
+msgstr "Anche dopo che siamo stati così carini con lui..."
 
 msgctxt "42||||4"
 msgid "Nah, y'were yer regular self, Mama."
-msgstr ""
+msgstr "Nah, ti sei comportata come al solito, Mama."
 
 msgctxt "43||||4"
 msgid "Um, excuse me... Is there a shop\r\ncalled Otafuku Pawn around here?"
-msgstr ""
+msgstr "Ehm, mi scusi... C'è un negozio\r\nchiamato Banco dei pegni Otafuku qui vicino?"
 
 msgctxt "44||||4"
 msgid "Oh, that's the place right there, but\r\nthe business is closed down for now."
-msgstr ""
+msgstr "Oh, è proprio lì, ma\r\nl'attività è chiusa per il momento."
 
 msgctxt "45||||4"
 msgid "What!? Closed down...\r\nBut where's Ando, the owner?"
-msgstr ""
+msgstr "Cosa!? Chiuso...\r\nMa dov'è Ando, il proprietario?"
 
 msgctxt "46||||4"
 msgid "That's what we want to know...\r\nWho are ya exactly, Miss?"
-msgstr ""
+msgstr "È quello che vorremmo sapere anche noi...\r\nChi sei esattamente, signorina?"
 
 msgctxt "47||||4"
 msgid "I'm... Ando's ex-wife, Koharu! Sorry for any\r\ntrouble my husb<symbol=em_dash_with_outline>my ex caused you."
-msgstr ""
+msgstr "Io sono... l'ex moglie di Ando, Koharu! Scusatemi per qualsiasi\r\ndisturbo mio mari<symbol=em_dash_with_outline>il mio ex vi abbia causato."
 
 msgctxt "48||||4"
 msgid "Whaaaaaat!?"
-msgstr ""
+msgstr "Coooooosa!?"
 
 msgctxt "49||||4"
 msgid "Whaaaaaat!?"
-msgstr ""
+msgstr "Coooooosa!?"
 
 msgctxt "50||||4"
 msgid "Whaaaaaat!?"
-msgstr ""
+msgstr "Coooooosa!?"
 
 msgctxt "51||||4"
 msgid "You and Ando-san...?"
-msgstr ""
+msgstr "Tu e Ando-san...?"
 
 msgctxt "52||||4"
 msgid "Lady... Y'even realize what you've done?\r\nAndo-san is a right mess over you!"
-msgstr ""
+msgstr "Signora... Ti rendi conto di cosa hai fatto?\r\nAndo-san è a pezzi per colpa tua!"
 
 msgctxt "53||||4"
 msgid "Y'made your new man sell Ando's ring after ya\r\ncut off all communication with him!?"
-msgstr ""
+msgstr "Hai fatto vendere al tuo nuovo uomo l'anello di Ando dopo\r\naver tagliato i ponti con lui!?"
 
 msgctxt "54||||4"
 msgid "Now, now, Mama.\r\nI understand how y'feel, but..."
-msgstr ""
+msgstr "Su, su, Mama.\r\nCapisco come ti senti, ma..."
 
 msgctxt "55||||4"
 msgid "Sell his ring...? Um, I'm sorry,\r\nbut who are all of you to Ando...?"
-msgstr ""
+msgstr "Vendere il suo anello...? Ehm, scusate,\r\nma voi chi siete per Ando...?"
 
 msgctxt "56||||4"
 msgid "Just his drinkin' buddies."
-msgstr ""
+msgstr "Solo i suoi compagni di bevute."
 
 msgctxt "57||||4"
 msgid "Drinking buddies... So Ando made some\r\nfriends who genuinely care about him."
-msgstr ""
+msgstr "Compagni di bevute... Quindi Ando si è fatto\r\ndegli amici che tengono davvero a lui."
 
 msgctxt "58||||4"
 msgid "Anyway, can you tell us more about you?\r\nAnything that might help, maybe about the ring."
-msgstr ""
+msgstr "Comunque, puoi dirci di più su di te?\r\nQualsiasi cosa che possa aiutare, magari sull'anello."
 
 msgctxt "59||||4"
 msgid "Y-Yes, the truth is..."
-msgstr ""
+msgstr "S-sì, la verità è che..."
 
 msgctxt "60||||4"
 msgid "Your bag was stolen!?"
-msgstr ""
+msgstr "La tua borsa è stata rubata!?"
 
 msgctxt "61||||4"
 msgid "Yes...\r\nI arrived in Onomichi just this morning."
-msgstr ""
+msgstr "Sì...\r\nSono arrivata a Onomichi solo stamattina."
 
 msgctxt "62||||4"
 msgid "Ando kept calling to say how he's become a\r\nnew man, and my curiosity got the better of me..."
-msgstr ""
+msgstr "Ando continuava a chiamarmi per dirmi come fosse diventato un\r\nuomo nuovo, e la curiosità ha avuto la meglio su di me..."
 
 msgctxt "63||||4"
 msgid "Ando-san, such a passionate guy."
-msgstr ""
+msgstr "Ando-san, un tipo davvero passionale."
 
 msgctxt "64||||4"
 msgid "But after I arrived in Onomichi, my bag was\r\nsnatched while I was looking for his shop..."
-msgstr ""
+msgstr "Ma dopo essere arrivata a Onomichi, mi hanno\r\nscippato la borsa mentre cercavo il suo negozio..."
 
 msgctxt "65||||4"
 msgid "And your wedding ring was in there?"
-msgstr ""
+msgstr "E la tua fede nuziale era lì dentro?"
 
 msgctxt "66||||4"
 msgid "Yes. Even after I divorced Ando,\r\nI couldn't get rid of the ring..."
-msgstr ""
+msgstr "Sì. Anche dopo aver divorziato da Ando,\r\nnon sono riuscita a sbarazzarmi dell'anello..."
 
 msgctxt "67||||4"
 msgid "I've never really come to terms with leaving\r\nhim... That's why I came all this way..."
-msgstr ""
+msgstr "Non ho mai davvero accettato di averlo\r\nlasciato... Ecco perché ho fatto tutta questa strada..."
 
 msgctxt "68||||4"
 msgid "Ando-san said he regretted making \r\nyou feel lonely in your marriage."
-msgstr ""
+msgstr "Ando-san ha detto che rimpiangeva di\r\naverti fatta sentire sola durante il vostro matrimonio."
 
 msgctxt "69||||4"
 msgid "He has such a strong sense of responsibility.\r\nIt made him a total workaholic..."
-msgstr ""
+msgstr "Ha un senso di responsabilità così forte.\r\nLo ha reso un vero maniaco del lavoro..."
 
 msgctxt "70||||4"
 msgid "He got so comfortable in that lifestyle,\r\nhe never tried to make any friends."
-msgstr ""
+msgstr "Si era così adagiato su quello stile di vita\r\nche non ha mai provato a farsi degli amici."
 
 msgctxt "71||||4"
 msgid "To be fair, Ando-san doesn't particularly\r\nenjoy talkin' to new people at the bar either."
-msgstr ""
+msgstr "Ad essere onesti, ad Ando-san non piace neanche\r\nparticolarmente parlare con le persone nuove al bar."
 
 msgctxt "72||||4"
 msgid "I'd say he's still a tough nut t'crack."
-msgstr ""
+msgstr "Direi che è ancora un osso duro."
 
 msgctxt "73||||4"
 msgid "But to think he'd have friends who worry about\r\nhim this much... I'm still surprised."
-msgstr ""
+msgstr "Ma pensare che abbia degli amici che si preoccupano\r\ncosì tanto per lui... Ne sono davvero sorpresa."
 
 msgctxt "74||||4"
 msgid "Wait. So yer sayin' you and Ando could\r\nmaybe rekindle yer marriage?"
-msgstr ""
+msgstr "Aspetta. Quindi stai dicendo che tu e Ando\r\npotreste ravvivare il vostro matrimonio?"
 
 msgctxt "75||||4"
 msgid "O-Oh... Well, uh..."
-msgstr ""
+msgstr "O-oh... Beh, uhm..."
 
 msgctxt "76||||4"
 msgid "Then the guy who sold the ring was a thief.\r\nBoth Koharu-san and Ando-san were victims here."
-msgstr ""
+msgstr "Quindi il tizio che ha venduto l'anello era un ladro.\r\nSia Koharu-san che Ando-san ne sono stati vittime."
 
 msgctxt "77||||4"
 msgid "Then we've gotta find Ando-san! If we miss him,\r\nhe could end up halfway 'round the world!"
-msgstr ""
+msgstr "Allora dobbiamo trovare Ando-san! Se lo perdiamo di vista,\r\npotrebbe finire dall'altra parte del mondo!"
 
 msgctxt "78||||4"
 msgid "Th-That's right!\r\nLet's split up and search."
-msgstr ""
+msgstr "G-giusto!\r\nDividiamoci e cerchiamolo."
 
 msgctxt "79||||4"
 msgid "Do you want to come with me?\r\nYou probably don't know the area that well."
-msgstr ""
+msgstr "Vuoi venire con me?\r\nProbabilmente non conosci molto bene la zona."
 
 msgctxt "80||||4"
 msgid "That's true. Sorry for the inconvenience..."
-msgstr ""
+msgstr "È vero. Scusa per il disturbo..."
 
 msgctxt "81||||4"
 msgid "Th-Thief!!! Help!"
-msgstr ""
+msgstr "L-ladro!!! Aiuto!"
 
 msgctxt "82||||4"
 msgid "Hm? That guy..."
-msgstr ""
+msgstr "(Uhm? Quel tizio...)"
 
 msgctxt "83||||4"
 msgid "Outta my way, old man!"
-msgstr ""
+msgstr "Fuori dai piedi, vecchio!"
 
 msgctxt "84||||4"
 msgid "Heh... Looks like you hit a dead end."
-msgstr ""
+msgstr "Heh... Sembra che tu sia arrivato a un vicolo cieco."
 
 msgctxt "85||||4"
 msgid "Gah...!"
-msgstr ""
+msgstr "Gah...!"
 
 msgctxt "86||||4"
 msgid "Y-You're the thief...!"
-msgstr ""
+msgstr "S-sei tu il ladro...!"
 
 msgctxt "87||||4"
 msgid "You're the one who stole Koharu's\r\nbag and pawned off the ring."
-msgstr ""
+msgstr "Sei tu quello che ha rubato la borsa di\r\nKoharu e ha impegnato l'anello."
 
 msgctxt "88||||4"
 msgid "D-Dammit..."
-msgstr ""
+msgstr "D-dannazione..."
 
 msgctxt "89||||4"
 msgid "What's the matter, Kiryu-san!?\r\nI heard yelling."
-msgstr ""
+msgstr "Che succede, Kiryu-san!?\r\nHo sentito gridare."
 
 msgctxt "90||||4"
 msgid "Oh, Hatakeyama-san...\r\nI just caught the purse snatcher."
-msgstr ""
+msgstr "Oh, Hatakeyama-san...\r\nHo appena acciuffato lo scippatore."
 
 msgctxt "91||||4"
 msgid "What!? This guy here!?"
-msgstr ""
+msgstr "Cosa!? Questo tizio qui!?"
 
 msgctxt "92||||4"
 msgid "Yeah, but where's Ando-san?\r\nAny luck finding him?"
-msgstr ""
+msgstr "Sì, ma dov'è Ando-san?\r\nHai avuto fortuna a trovarlo?"
 
 msgctxt "93||||4"
 msgid "Oh, yeah. The granny at the cigarette shop\r\nsaw Ando-san going toward the shore!"
-msgstr ""
+msgstr "Ah, sì. La nonnina al tabaccaio ha visto\r\nAndo-san dirigersi verso la riva!"
 
 msgctxt "94||||4"
 msgid "The seashore... Let's go."
-msgstr ""
+msgstr "Sulla riva... Andiamo."
 
 msgctxt "95||||4"
 msgid "He's got that faraway stare...\r\nGlad we found him 'fore he went on a pilgrimage."
-msgstr ""
+msgstr "Ha quello sguardo perso nel vuoto...\r\nMeno male che l'abbiamo trovato prima che partisse in pellegrinaggio."
 
 msgctxt "96||||4"
 msgid "Hey... Does he look like he's windin'\r\nup t'throw somethin'?"
-msgstr ""
+msgstr "Ehi... Non sembra che stia prendendo\r\nla mira per lanciare qualcosa?"
 
 msgctxt "97||||4"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "98||||4"
 msgid "Oh come on, what is he gonna throw the ring\r\nand yell \"Idiot!\" like some cheesy drama?"
-msgstr ""
+msgstr "Oh andiamo, mica lancerà l'anello urlando\r\n\"Idiota!\" come in qualche drama da quattro soldi?"
 
 msgctxt "99||||4"
 msgid "Wait! Don't!"
-msgstr ""
+msgstr "Aspetta! Fermo!"
 
 msgctxt "100||||4"
 msgid "Wha...? Koharu? Why...?"
-msgstr ""
+msgstr "Cosa...? Koharu? Perché...?"
 
 msgctxt "101||||4"
 msgid "...Thank god..."
-msgstr ""
+msgstr "...Grazie a Dio..."
 
 msgctxt "102||||4"
 msgid "Koharu, y'really came all the way back...\r\n...To say goodbye."
-msgstr ""
+msgstr "Koharu, sei tornata fin qui per davvero...\r\n...Per dirmi addio."
 
 msgctxt "103||||4"
 msgid "No, you're wrong!"
-msgstr ""
+msgstr "No, ti sbagli!"
 
 msgctxt "104||||4"
 msgid "Whaddaya mean, I'm wrong?\r\nI can't take any more false hope!"
-msgstr ""
+msgstr "Che intendi con \"ti sbagli\"?\r\nNon posso sopportare altre false speranze!"
 
 msgctxt "105||||4"
 msgid "Y'ripped my heart out,\r\nsellin' that ring..."
-msgstr ""
+msgstr "Mi hai strappato il cuore dal petto,\r\nvendendo quell'anello..."
 
 msgctxt "106||||4"
 msgid "That's not true!\r\nA thief stole the ring. This fool."
-msgstr ""
+msgstr "Non è vero!\r\nÈ stato un ladro a rubarlo. Questo pazzo."
 
 msgctxt "107||||4"
 msgid "Kiryu-san... And that customer...\r\nWhat do you mean it was stolen?"
-msgstr ""
+msgstr "Kiryu-san... E quel cliente...\r\nChe intendete con \"è stato rubato\"?"
 
 msgctxt "108||||4"
 msgid "Koharu-san took care of yer ring even\r\nafter the divorce. She was bringing it back t'ya!"
-msgstr ""
+msgstr "Koharu-san ha custodito il tuo anello anche\r\ndopo il divorzio. Stava venendo a riportartelo!"
 
 msgctxt "109||||4"
 msgid "Her bag was snatched along the way, and the \r\nthief coincidentally took the ring to your store."
-msgstr ""
+msgstr "La sua borsa le è stata scippata lungo la strada, e \r\nil ladro ha per puro caso portato l'anello al tuo negozio."
 
 msgctxt "110||||4"
 msgid "I'm sorry letting my guard down\r\ncaused you so much pain..."
-msgstr ""
+msgstr "Mi dispiace che aver abbassato la guardia\r\nti abbia causato così tanto dolore..."
 
 msgctxt "111||||4"
 msgid "It was stolen... I can't believe it...\r\nWait, did he hurt ya? Are y'okay?"
-msgstr ""
+msgstr "È stato rubato... Non ci credo...\r\nAspetta, ti ha fatto del male? Stai bene?"
 
 msgctxt "112||||4"
 msgid "I'm fine..."
-msgstr ""
+msgstr "Sto bene..."
 
 msgctxt "113||||4"
 msgid "I'm glad... I'm sorry I made Kiryu-san\r\nand everyone else worried, too..."
-msgstr ""
+msgstr "Meno male... Mi dispiace di aver fatto preoccupare\r\nanche Kiryu-san e tutti quanti..."
 
 msgctxt "114||||4"
 msgid "Don't worry about it. Just a bit of bad luck.\r\nWell, maybe it was good luck in the end."
-msgstr ""
+msgstr "Non preoccupartene. Solo un po' di sfortuna.\r\nBeh, alla fine forse si è rivelata una fortuna."
 
 msgctxt "115||||4"
 msgid "What...?"
-msgstr ""
+msgstr "Cosa...?"
 
 msgctxt "116||||4"
 msgid "To be honest... I just wanted to see you\r\nworking away happily before going home."
-msgstr ""
+msgstr "Ad essere onesta... volevo solo vederti\r\nlavorare felicemente prima di tornare a casa."
 
 msgctxt "117||||4"
 msgid "That's not what I ended up seeing...\r\nI saw something more wonderful."
-msgstr ""
+msgstr "Ma non è quello che ho visto alla fine...\r\nHo visto qualcosa di più meraviglioso."
 
 msgctxt "118||||4"
 msgid "More wonderful?"
-msgstr ""
+msgstr "Di più meraviglioso?"
 
 msgctxt "119||||4"
 msgid "You've made some great friends.\r\nThey were all so worried about you."
-msgstr ""
+msgstr "Ti sei fatto dei grandi amici.\r\nErano tutti così preoccupati per te."
 
 msgctxt "120||||4"
 msgid "I even got a scolding from the mama.\r\nShe said Ando-san deserves better."
-msgstr ""
+msgstr "Ho persino ricevuto una strigliata dalla mama.\r\nHa detto che Ando-san merita di meglio."
 
 msgctxt "121||||4"
 msgid "Okay, now I'm kinda embarrassed...\r\nKyaa!"
-msgstr ""
+msgstr "Okay, ora sono un po' in imbarazzo...\r\nKyaa!"
 
 msgctxt "122||||4"
 msgid "Kyaa? Really?"
-msgstr ""
+msgstr "Kyaa? Sul serio?"
 
 msgctxt "123||||4"
 msgid "When we were in Tokyo, I was all you had.\r\nThis city changed you for the better."
-msgstr ""
+msgstr "Quando eravamo a Tokyo, eri tutto ciò che avevo.\r\nQuesta città ti ha cambiato in meglio."
 
 msgctxt "124||||4"
 msgid "Maybe it did..."
-msgstr ""
+msgstr "Forse è così..."
 
 msgctxt "125||||4"
 msgid "Hey, do you still have that ring?"
-msgstr ""
+msgstr "Ehi, ce l'hai ancora quell'anello?"
 
 msgctxt "126||||4"
 msgid "I'd like to buy it...\r\nIt's... a very important ring."
-msgstr ""
+msgstr "Vorrei comprarlo...\r\nÈ... un anello molto importante."
 
 msgctxt "127||||4"
 msgid "Huh!? Wait, wait, what!?"
-msgstr ""
+msgstr "Eh!? Aspetta, aspetta, cosa!?"
 
 msgctxt "128||||4"
 msgid "I have exactly the ring you're looking for.\r\nBut I can't accept just any payment."
-msgstr ""
+msgstr "Ho esattamente l'anello che stai cercando.\r\nMa non posso accettare un pagamento qualsiasi."
 
 msgctxt "129||||4"
 msgid "I'll need y'to give me half of everything y'own...\r\nWhat do you say? Let's start over?"
-msgstr ""
+msgstr "Avrò bisogno che tu mi dia metà di tutto ciò che possiedi...\r\nChe ne dici? Ricominciamo da capo?"
 
 msgctxt "130||||4"
 msgid "Honey...\r\nYes! I want to spend my life with you!"
-msgstr ""
+msgstr "Tesoro...\r\nSì! Voglio passare la mia vita con te!"
 
 msgctxt "131||||4"
 msgid "This is next-level cheese... I couldn't spit\r\na line like that if my life depended on it."
-msgstr ""
+msgstr "È una smanceria di livello superiore... Non riuscirei a sputare fuori\r\nuna frase del genere nemmeno se ne andasse della mia vita."
 
 msgctxt "132||||4"
 msgid "Women love this sappy drama stuff.\r\nLook, even Mama's cryin'."
-msgstr ""
+msgstr "Le donne amano questa roba sdolcinata.\r\nGuarda, persino la Mama sta piangendo."
 
 msgctxt "133||||4"
 msgid "Ah... It's so good... So good!"
-msgstr ""
+msgstr "Ah... È così bello... Così bello!"
 
 msgctxt "134||||4"
 msgid "Heh. Adversity's a good thing sometimes."
-msgstr ""
+msgstr "Heh. Le avversità sono una buona cosa a volte."
 
 msgctxt "135||||4"
 msgid "Whew! The purse snatcher was handed over to the\r\npolice and Ando-san got the girl. Case closed."
-msgstr ""
+msgstr "(Uff! Lo scippatore è stato consegnato alla\r\npolizia e Ando-san si è preso la ragazza. Caso chiuso.)"
 
 msgctxt "136||||4"
 msgid "Thanks so much, all of you. I caused a lotta\r\nworry and y'helped me more than you know."
-msgstr ""
+msgstr "Grazie mille, a tutti voi. Vi ho fatto preoccupare\r\nun sacco e mi avete aiutato più di quanto crediate."
 
 msgctxt "137||||4"
 msgid "I want to thank everyone too. Please\r\nkeep taking care of Ando... My husband."
-msgstr ""
+msgstr "Voglio ringraziare anch'io tutti quanti. Vi prego,\r\ncontinuate a prendervi cura di Ando... Il mio marito."
 
 msgctxt "138||||4"
 msgid "Yeah, of course."
-msgstr ""
+msgstr "Sì, certo."
 
 msgctxt "139||||4"
 msgid "Well then, this calls for some\r\ndrinks to celebrate."
-msgstr ""
+msgstr "Beh allora, questo richiede qualche\r\ndrink per festeggiare."
 
 msgctxt "140||||4"
 msgid "Oh, good call!\r\nKiryu-san, you should come too!"
-msgstr ""
+msgstr "Oh, ottima idea!\r\nKiryu-san, dovresti venire anche tu!"
 
 msgctxt "141||||4"
 msgid "Yeah, I will."
-msgstr ""
+msgstr "Sì, verrò."
 
 msgctxt "142||||4"
 msgid "Why don't we toss Ando-san in the air?"
-msgstr ""
+msgstr "Perché non lanciamo in aria Ando-san?"
 
 msgctxt "143||||4"
 msgid "You'll break my bar, so no."
-msgstr ""
+msgstr "Mi sfascerete il bar, quindi no."
 
 msgctxt "144||||4"
 msgid "She's got ya there."
-msgstr ""
+msgstr "Ha ragione."
 
 msgctxt "149||||4"
 msgid "Yo, Ando-san. \r\nThings going okay with your wife?"
-msgstr ""
+msgstr "Ehi, Ando-san. \r\nLe cose vanno bene con tua moglie?"
 
 msgctxt "150||||4"
 msgid "Yeah, thankfully. \r\nIt doesn't feel very new, though."
-msgstr ""
+msgstr "Sì, per fortuna. \r\nAnche se non ci sentiamo affatto dei novelli sposi."
 
 msgctxt "151||||4"
 msgid "Hm, I see."
-msgstr ""
+msgstr "Uhm, capisco."
 
 msgctxt "152||||4"
 msgid "So Kiryu-san, I heard you were the one\r\nwho took down the purse snatcher."
-msgstr ""
+msgstr "Allora Kiryu-san, ho saputo che sei stato tu\r\na stendere quello scippatore."
 
 msgctxt "153||||4"
 msgid "Yeah, I did. What about it?"
-msgstr ""
+msgstr "Sì, sono stato io. Quindi?"
 
 msgctxt "154||||4"
 msgid "Nah, it's just my wife won't shut up\r\nabout how cool you were that day."
-msgstr ""
+msgstr "Nah, è solo che mia moglie non smette di\r\nparlare di quanto sei stato un figo quel giorno."
 
 msgctxt "155||||4"
 msgid "O-Oh..."
-msgstr ""
+msgstr "O-oh..."
 
 msgctxt "156||||4"
 msgid "I know women are more drawn to a strong\r\nman... So I got a favor t'ask, Kiryu-san."
-msgstr ""
+msgstr "So che le donne sono più attratte da un uomo\r\nforte... Quindi devo chiederti un favore, Kiryu-san."
 
 msgctxt "157||||4"
 msgid "A favor?"
-msgstr ""
+msgstr "Un favore?"
 
 msgctxt "158||||4"
 msgid "I heard a rumor that you've assembled a\r\nteam to fight for the city. Is that true?"
-msgstr ""
+msgstr "Ho sentito dire che hai messo su una\r\nsquadra per combattere per la città. È vero?"
 
 msgctxt "159||||4"
 msgid "Can I join your group? I want to be\r\nstrong enough to protect my family."
-msgstr ""
+msgstr "Posso unirmi al tuo gruppo? Voglio essere\r\nabbastanza forte da proteggere la mia famiglia."
 
 msgctxt "160||||4"
 msgid "Fighting is easier said than done.\r\nAre you ready for a real fight?"
-msgstr ""
+msgstr "Combattere è più facile a dirsi che a farsi.\r\nSei pronto per un vero scontro?"
 
 msgctxt "161||||4"
 msgid "Yeah, this city means the world t'me.\r\nI'm ready to give it all for this place."
-msgstr ""
+msgstr "Sì, questa città per me significa tutto.\r\nSono pronto a dare tutto me stesso per questo posto."
 
 msgctxt "162||||4"
 msgid "Okay, then I'll just say I look forward\r\nto fighting by your side, Ando-san!"
-msgstr ""
+msgstr "Okay, allora dirò solo che non vedo l'ora\r\ndi combattere al tuo fianco, Ando-san!"
 
 msgctxt "163||||4"
 msgid "Yeah! Same here, Kiryu-san!"
-msgstr ""
-
+msgstr "Già! Lo stesso vale per me, Kiryu-san!"

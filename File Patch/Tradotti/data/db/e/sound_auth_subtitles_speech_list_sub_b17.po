@@ -9,349 +9,348 @@ msgstr ""
 
 msgctxt "0||||4"
 msgid "Hm? Isn't that Hatakeyama-san?\r\nHe seems kinda down."
-msgstr ""
+msgstr "(Uhm? Quello non è Hatakeyama-san?\r\nSembra un po' giù di corda.)"
 
 msgctxt "2||||4"
 msgid "Why the long sigh, Hatakeyama-san?"
-msgstr ""
+msgstr "Perché quel lungo sospiro, Hatakeyama-san?"
 
 msgctxt "3||||4"
 msgid "Ah, Kiryu-san."
-msgstr ""
+msgstr "Ah, Kiryu-san."
 
 msgctxt "4||||4"
 msgid "Well, it ain't much to speak of, but,\r\nI jus' had somethin' real precious stolen from me."
-msgstr ""
+msgstr "Beh, non è niente di che parlarne, ma...\r\nMi hanno appena rubato una cosa davvero preziosa."
 
 msgctxt "5||||4"
 msgid "Something was stolen...\r\nYou mean by thieves?"
-msgstr ""
+msgstr "Ti hanno rubato qualcosa...\r\nIntendi dei ladri?"
 
 msgctxt "6||||4"
 msgid "A thief...?\r\nI s'pose y'could say that."
-msgstr ""
+msgstr "Un ladro...?\r\nSuppongo si possa dire così."
 
 msgctxt "7||||4"
 msgid "You want to talk about it?\r\nWhy don't we head into the bar?"
-msgstr ""
+msgstr "Ti va di parlarne?\r\nPerché non entriamo nel bar?"
 
 msgctxt "8||||4"
 msgid "Okay, if it ain't a bother to ya.\r\nI feel kinda bad about it."
-msgstr ""
+msgstr "D'accordo, se non ti è di disturbo.\r\nMi sento un po' in colpa al riguardo."
 
 msgctxt "9||||4"
 msgid "Welcome Kiryu-san, Hatakeyama-san."
-msgstr ""
+msgstr "Benvenuti Kiryu-san, Hatakeyama-san."
 
 msgctxt "10||||4"
 msgid "Gen-san just wandered in, too. \r\nShall I start pouring?"
-msgstr ""
+msgstr "Anche Gen-san è appena entrato. \r\nInizio a versare?"
 
 msgctxt "11||||4"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "12||||4"
 msgid "Hm? What's wrong, Hatakeyama-san?\r\nY'seem kinda down."
-msgstr ""
+msgstr "Mh? Che succede, Hatakeyama-san?\r\nSembri un po' giù."
 
 msgctxt "13||||4"
 msgid "True, you're not yourself today.\r\nSomethin' amiss?"
-msgstr ""
+msgstr "Vero, non sei tu oggi.\r\nC'è qualcosa che non va?"
 
 msgctxt "14||||4"
 msgid "Well... Y'see..."
-msgstr ""
+msgstr "Beh... Vedete..."
 
 msgctxt "15||||4"
 msgid "Hmm, I didn't add to the conversation\r\nand it ended awkwardly."
-msgstr ""
+msgstr "(Uhm, non ho partecipato alla conversazione\r\ned è finita in modo imbarazzante.)"
 
 msgctxt "16||||4"
 msgid "They're still in the bar.\r\nI should clear my head and get back in there."
-msgstr ""
+msgstr "(Sono ancora nel bar.\r\nDovrei schiarirmi le idee e tornare dentro.)"
 
 msgctxt "17||||4"
 msgid "Hatakeyama-san is going to spy on his daughter.\r\nI'm a little worried..."
-msgstr ""
+msgstr "(Hatakeyama-san sta andando a spiare sua figlia.\r\nSono un po' preoccupato...)"
 
 msgctxt "18||||4"
 msgid "His daughter's going on a date at La Pente. \r\nMaybe I should check up on the guy."
-msgstr ""
+msgstr "(Sua figlia ha un appuntamento a La Pente. \r\nForse dovrei andare a controllare il tizio.)"
 
 msgctxt "19||||4"
 msgid "I'm worried about Hatakeyama-san. \r\nI should check La Pente just in case."
-msgstr ""
+msgstr "(Sono preoccupato per Hatakeyama-san. \r\nDovrei dare un'occhiata a La Pente, non si sa mai.)"
 
 msgctxt "20||||4"
 msgid "Hatakeyama-san should be spying on\r\nhis daughter at La Pente right now."
-msgstr ""
+msgstr "(Hatakeyama-san dovrebbe essere a spiare\r\nsua figlia a La Pente in questo momento.)"
 
 msgctxt "21||||4"
 msgid "I'll come back later."
-msgstr ""
+msgstr "(Tornerò più tardi.)"
 
 msgctxt "22||||4"
 msgid "Yo, Hatakeyama-san. \r\nHow's it going?"
-msgstr ""
+msgstr "Ehi, Hatakeyama-san. \r\nCome va?"
 
 msgctxt "23||||4"
 msgid "Kiryu-san...? Why're y'here?"
-msgstr ""
+msgstr "Kiryu-san...? Perché sei qui?"
 
 msgctxt "24||||4"
 msgid "Couldn't let you get your daughter's\r\nboyfriend's blood on your hands."
-msgstr ""
+msgstr "Non potevo permettere che ti macchiassi le\r\nmani col sangue del fidanzato di tua figlia."
 
 msgctxt "25||||4"
 msgid "I said I wouldn't do anything like that.\r\n'Sides, the guy ain't even shown yet."
-msgstr ""
+msgstr "Ho detto che non avrei fatto niente del genere.\r\nInoltre, il tizio non si è ancora fatto vivo."
 
 msgctxt "26||||4"
 msgid "She's been waitin' a while now."
-msgstr ""
+msgstr "Lei sta aspettando già da un bel po'."
 
 msgctxt "27||||4"
 msgid "Ah, so that's your daughter. She seems\r\npretty happy, despite having to wait."
-msgstr ""
+msgstr "Ah, quindi quella è tua figlia. Sembra\r\npiuttosto felice, nonostante debba aspettare."
 
 msgctxt "29||||4"
 msgid "Hatakeyama! Sorry I'm late!"
-msgstr ""
+msgstr "Hatakeyama! Scusa il ritardo!"
 
 msgctxt "30||||4"
 msgid "I'm real sorry. Baseball practice went\r\nlong today. Y'okay?"
-msgstr ""
+msgstr "Mi dispiace davvero. L'allenamento di baseball\r\nè andato per le lunghe oggi. Tutto bene?"
 
 msgctxt "31||||4"
 msgid "Y-Yeah. I just got here myself, actually."
-msgstr ""
+msgstr "S-sì. In realtà sono appena arrivata anche io."
 
 msgctxt "32||||4"
 msgid "Oh, really? I'm glad I got here\r\njust in time, then."
-msgstr ""
+msgstr "Oh, davvero? Sono felice di essere\r\narrivato appena in tempo, allora."
 
 msgctxt "33||||4"
 msgid "\"Just in time,\" he says. \r\nShe's been waiting half an hour!"
-msgstr ""
+msgstr "\"Appena in tempo\", dice. \r\nLo sta aspettando da mezz'ora!"
 
 msgctxt "34||||4"
 msgid "He'll pay fer wasting her time..."
-msgstr ""
+msgstr "Me la pagherà per averle fatto perdere tempo..."
 
 msgctxt "35||||4"
 msgid "Relax, your daughter doesn't seem\r\nto mind. It looks fine."
-msgstr ""
+msgstr "Rilassati, a tua figlia non sembra\r\nimportare. Sembra tutto a posto."
 
 msgctxt "36||||4"
 msgid "Let's just stay quiet for now."
-msgstr ""
+msgstr "Restiamo in silenzio per ora."
 
 msgctxt "38||||4"
 msgid "Well, let's get started. This one is\r\nreal hard, can y'make sense of it?"
-msgstr ""
+msgstr "Bene, iniziamo. Questo qui è\r\ndavvero difficile, ci capisci qualcosa?"
 
 msgctxt "39||||4"
 msgid "Which one? Oh, that. Here, you\r\ngotta use the Pythagorean theorem."
-msgstr ""
+msgstr "Quale? Oh, quello. Qui devi\r\nusare il teorema di Pitagora."
 
 msgctxt "40||||4"
 msgid "Ohh, I think I get it!"
-msgstr ""
+msgstr "Ohh, credo di aver capito!"
 
 msgctxt "41||||4"
 msgid "They're just studying."
-msgstr ""
+msgstr "Stanno solo studiando."
 
 msgctxt "43||||4"
 msgid "Whew, thanks fer the help. Hatakeyama,\r\nyou're a smart cookie."
-msgstr ""
+msgstr "Uff, grazie per l'aiuto. Hatakeyama,\r\nsei un vero genio."
 
 msgctxt "44||||4"
 msgid "I think they're just study partners?\r\nIt looks pretty innocent to me."
-msgstr ""
+msgstr "Credo che siano solo compagni di studio.\r\nMi sembra una cosa piuttosto innocente."
 
 msgctxt "45||||4"
 msgid "Hmm, maybe I overthought it."
-msgstr ""
+msgstr "Uhm, forse ho pensato male."
 
 msgctxt "46||||4"
 msgid "Why'd y'start studying, anyway?\r\nI thought baseball was all you cared about."
-msgstr ""
+msgstr "Perché hai iniziato a studiare, comunque?\r\nPensavo che ti importasse solo del baseball."
 
 msgctxt "47||||4"
 msgid "Because... With grades like mine, there's\r\nno way I'll get into the same college as you..."
-msgstr ""
+msgstr "Perché... con dei voti come i miei, non c'è\r\nmodo che io entri nella tua stessa università..."
 
 msgctxt "48||||4"
 msgid "...Hm?"
-msgstr ""
+msgstr "...Mh?"
 
 msgctxt "49||||4"
 msgid "Have y'talked to your father yet?\r\n'Bout college n' all that..."
-msgstr ""
+msgstr "Hai già parlato con tuo padre?\r\nDell'università e tutto il resto..."
 
 msgctxt "50||||4"
 msgid "No... I haven't mentioned college...\r\nOr you for that matter..."
-msgstr ""
+msgstr "No... Non ho menzionato l'università...\r\nE nemmeno te, se è per questo..."
 
 msgctxt "51||||4"
 msgid "No problem. If it's hard to talk to\r\nhim, maybe I could go with."
-msgstr ""
+msgstr "Nessun problema. Se è difficile parlargli,\r\nforse potrei venire con te."
 
 msgctxt "52||||4"
 msgid "Ya think he'll flip out and be all\r\nlike, \"You'll never take my daughter!\""
-msgstr ""
+msgstr "Pensi che darà di matto e farà una cosa tipo,\r\n\"Non ti prenderai mai mia figlia!\"?"
 
 msgctxt "53||||4"
 msgid "Haha, my dad's real nice,\r\nI don't think it'll come to that."
-msgstr ""
+msgstr "Haha, mio papà è davvero gentile,\r\nnon credo si arriverà a tanto."
 
 msgctxt "54||||4"
 msgid "I just haven't been able to talk to him\r\nlately. I need t'tell him about us."
-msgstr ""
+msgstr "È solo che non sono riuscita a parlargli\r\nultimamente. Devo parlargli di noi due."
 
 msgctxt "55||||4"
 msgid "Yeah, an' I need t'study harder so\r\nyour dad won't worry 'bout us."
-msgstr ""
+msgstr "Sì, e io devo studiare di più così\r\ntuo papà non si preoccuperà per noi."
 
 msgctxt "56||||4"
 msgid "And baseball too, right?\r\nI hope you guys win next year."
-msgstr ""
+msgstr "Anche per il baseball, giusto?\r\nSpero che vinciate l'anno prossimo."
 
 msgctxt "57||||4"
 msgid "Yeah! Next homer I hit is\r\ngonna be just fer you, Hatakeyama!"
-msgstr ""
+msgstr "Già! Il prossimo fuoricampo che batterò\r\nsarà solo per te, Hatakeyama!"
 
 msgctxt "58||||4"
 msgid "Oh really now?\r\nI'll wait for it then! <symbol=note_with_outline>"
-msgstr ""
+msgstr "Oh davvero?\r\nAllora lo aspetterò! <symbol=note_with_outline>"
 
 msgctxt "59||||4"
 msgid "Thanks fer doin' that, Kiryu-san."
-msgstr ""
+msgstr "Grazie per essere venuto, Kiryu-san."
 
 msgctxt "60||||4"
 msgid "Nah, I didn't do a thing.\r\nYou okay though?"
-msgstr ""
+msgstr "Nah, non ho fatto niente.\r\nTu stai bene, però?"
 
 msgctxt "61||||4"
 msgid "Yeah..."
-msgstr ""
+msgstr "Sì..."
 
 msgctxt "62||||4"
 msgid "I always thought o' my daughter as a\r\nlittle girl I'd be protectin' forever..."
-msgstr ""
+msgstr "Ho sempre pensato a mia figlia come a una\r\nbambina che avrei protetto per sempre..."
 
 msgctxt "63||||4"
 msgid "But I was wrong. A girl becomes a\r\nwoman, and she's gotta leave the nest..."
-msgstr ""
+msgstr "Ma mi sbagliavo. Una bambina diventa una\r\ndonna, e deve lasciare il nido..."
 
 msgctxt "64||||4"
 msgid "I pretended it weren't natural at all,\r\nand I worked myself all into a tizzy..."
-msgstr ""
+msgstr "Facevo finta che non fosse affatto naturale,\r\ne mi sono fatto il sangue amaro per niente..."
 
 msgctxt "65||||4"
 msgid "I gotta let my little girl grow up.\r\nI'm such a loser."
-msgstr ""
+msgstr "Devo lasciare che la mia bambina cresca.\r\nSono proprio un perdente."
 
 msgctxt "66||||4"
 msgid "I guess I knew all that deep down,\r\nbut bein' a father's real rough."
-msgstr ""
+msgstr "Immagino di averlo sempre saputo in fondo,\r\nma essere padre è davvero dura."
 
 msgctxt "67||||4"
 msgid "Heh, maybe you're right, but your\r\ndaughter hasn't left home yet."
-msgstr ""
+msgstr "Heh, forse hai ragione, ma tua\r\nfiglia non ha ancora lasciato casa."
 
 msgctxt "68||||4"
 msgid "You should appreciate the time you\r\nhave with her. Every moment counts."
-msgstr ""
+msgstr "Dovresti apprezzare il tempo che\r\nhai con lei. Ogni momento conta."
 
 msgctxt "69||||4"
 msgid "Yeah, yer right. I gotta have a sit\r\ndown with her."
-msgstr ""
+msgstr "Sì, hai ragione. Devo sedermi e\r\nfarci una bella chiacchierata."
 
 msgctxt "70||||4"
 msgid "I'll invite that Satoshi kid for\r\noysters or somethin'."
-msgstr ""
+msgstr "Inviterò quel ragazzo, Satoshi,\r\na mangiare ostriche o roba simile."
 
 msgctxt "71||||4"
 msgid "Good idea. From what little I saw,\r\nhe seems to be a good kid."
-msgstr ""
+msgstr "Ottima idea. Da quel poco che ho visto,\r\nsembra essere un bravo ragazzo."
 
 msgctxt "72||||4"
 msgid "Well, I gotta get t'opening my shop."
-msgstr ""
+msgstr "Beh, devo andare ad aprire il mio locale."
 
 msgctxt "73||||4"
 msgid "Thanks for everything, Kiryu-san. \r\nLet's meet up at my place or the bar!"
-msgstr ""
+msgstr "Grazie di tutto, Kiryu-san. \r\nVediamoci da me o al bar!"
 
 msgctxt "74||||4"
 msgid "Letting her grow up, huh?"
-msgstr ""
+msgstr "(Lasciarla crescere, eh?)"
 
 msgctxt "75||||4"
 msgid "Have a great talk with your girl.\r\nGood luck, Hatakeyama-san."
-msgstr ""
+msgstr "(Fatti una bella chiacchierata con tua figlia.\r\nBuona fortuna, Hatakeyama-san.)"
 
 msgctxt "76||||4"
 msgid "Oh, Kiryu-san!"
-msgstr ""
+msgstr "Oh, Kiryu-san!"
 
 msgctxt "77||||4"
 msgid "And? How'd that talk with your\r\ndaughter go?"
-msgstr ""
+msgstr "E allora? Com'è andata la\r\nchiacchierata con tua figlia?"
 
 msgctxt "78||||4"
 msgid "Yeah, we finally had that chat."
-msgstr ""
+msgstr "Bene, alla fine abbiamo parlato."
 
 msgctxt "79||||4"
 msgid "That Satoshi kid ain't half bad either."
-msgstr ""
+msgstr "E quel ragazzo, Satoshi, non è niente male."
 
 msgctxt "80||||4"
 msgid "Nice. So you're on good terms now?"
-msgstr ""
+msgstr "Ottimo. Quindi siete in buoni rapporti ora?"
 
 msgctxt "81||||4"
 msgid "Yeah. 'Sides, a parent's got a responsibility\r\nto see their kids grow up proper."
-msgstr ""
+msgstr "Sì. D'altronde, un genitore ha la responsabilità\r\ndi vedere i propri figli crescere come si deve."
 
 msgctxt "82||||4"
 msgid "By the way... Word has it you're a\r\nball player, Kiryu-san. That true?"
-msgstr ""
+msgstr "A proposito... Gira voce che tu sia un giocatore\r\ndi baseball, Kiryu-san. È vero?"
 
 msgctxt "83||||4"
 msgid "Yeah, but it's just recreational."
-msgstr ""
+msgstr "Sì, ma solo a livello amatoriale."
 
 msgctxt "84||||4"
 msgid "D'ya think a guy like me could play for ya then?"
-msgstr ""
+msgstr "Pensi che un tipo come me potrebbe giocare per te, allora?"
 
 msgctxt "85||||4"
 msgid "Huh? Where's this coming from?"
-msgstr ""
+msgstr "Eh? E questa da dove salta fuori?"
 
 msgctxt "86||||4"
 msgid "Well, my daughter seems t'be pretty\r\ninto ball players, so..."
-msgstr ""
+msgstr "Beh, a mia figlia sembrano piacere parecchio\r\ni giocatori di baseball, quindi..."
 
 msgctxt "87||||4"
 msgid "Heh, you're trying to look cool\r\nfor your daughter?"
-msgstr ""
+msgstr "Heh, stai cercando di sembrare un figo\r\nper tua figlia?"
 
 msgctxt "88||||4"
 msgid "Is that so bad? 'Sides, it'll give me\r\nsomethin' to talk to Satoshi about."
-msgstr ""
+msgstr "È un male? E poi, mi darà qualcosa\r\ndi cui parlare con Satoshi."
 
 msgctxt "89||||4"
 msgid "Of course you can play.\r\nLet's impress those kids together."
-msgstr ""
+msgstr "Certo che puoi giocare.\r\nFacciamo colpo su quei ragazzi insieme."
 
 msgctxt "90||||4"
 msgid "Thanks! Lookin' forward to the\r\nnext game, Kiryu-san!"
-msgstr ""
-
+msgstr "Grazie! Non vedo l'ora che arrivi\r\nla prossima partita, Kiryu-san!"

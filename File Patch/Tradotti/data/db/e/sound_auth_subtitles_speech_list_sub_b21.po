@@ -9,501 +9,500 @@ msgstr ""
 
 msgctxt "0||||4"
 msgid "Hm? Isn't that Kaneko-san?\r\nWhat's he up to?"
-msgstr ""
+msgstr "(Uhm? Quello non è Kaneko-san?\r\nChe cosa sta combinando?)"
 
 msgctxt "1||||4"
 msgid "Yo, Kaneko-san.\r\nWhat're you doing?"
-msgstr ""
+msgstr "Ehi, Kaneko-san.\r\nChe stai facendo?"
 
 msgctxt "2||||4"
 msgid "W-Whoa!"
-msgstr ""
+msgstr "W-Whoa!"
 
 msgctxt "3||||4"
 msgid "Wh-What's wrong?"
-msgstr ""
+msgstr "Ch-che c'è che non va?"
 
 msgctxt "4||||4"
 msgid "K-Kiryu-san...\r\nJust now... You saw that?"
-msgstr ""
+msgstr "K-Kiryu-san...\r\nPoco fa... Hai visto?"
 
 msgctxt "5||||4"
 msgid "See what?\r\nYou mean how you were shadowboxing?"
-msgstr ""
+msgstr "Visto cosa?\r\nIntendi che stavi facendo pugilato a vuoto?"
 
 msgctxt "6||||4"
 msgid "C-Can you keep that on the down low?\r\nThe guys at the bar will make fun of me..."
-msgstr ""
+msgstr "P-puoi tenertelo per te?\r\nI ragazzi al bar mi prenderebbero in giro..."
 
 msgctxt "7||||4"
 msgid "Your secret's safe with me.\r\nNo worries."
-msgstr ""
+msgstr "Il tuo segreto è al sicuro con me.\r\nNon preoccuparti."
 
 msgctxt "8||||4"
 msgid "R-Right, sorry... I'm about to head to the bar.\r\nWanna come with, Kiryu-san?"
-msgstr ""
+msgstr "G-giusto, scusa... Sto per andare al bar.\r\nVuoi venire con me, Kiryu-san?"
 
 msgctxt "9||||4"
 msgid "Think I could buy you a drink?"
-msgstr ""
+msgstr "Ti andrebbe se ti offrissi da bere?"
 
 msgctxt "10||||4"
 msgid "(Kaneko-san's desperate...\r\nHe really didn't want to be seen, I guess.)"
-msgstr ""
+msgstr "(Kaneko-san è disperato...\r\nImmagino che non volesse davvero farsi vedere.)"
 
 msgctxt "11||||4"
 msgid "Let's see..."
-msgstr ""
+msgstr "Vediamo..."
 
 msgctxt "12||||4"
 msgid "Sure, let's go."
-msgstr ""
+msgstr "Certo, andiamo."
 
 msgctxt "13||||4"
 msgid "Nice nice, let's go."
-msgstr ""
+msgstr "Ottimo, ottimo, andiamo."
 
 msgctxt "14||||4"
 msgid "Sorry, I'm a bit busy right now."
-msgstr ""
+msgstr "Scusa, sono un po' occupato al momento."
 
 msgctxt "15||||4"
 msgid "Oh, okay... Well, I'll be at the bar\r\nso come over when you can."
-msgstr ""
+msgstr "Oh, okay... Beh, sarò al bar\r\nquindi passa quando puoi."
 
 msgctxt "16||||4"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "17||||4"
 msgid "Hm, I recall Kaneko-san saying he'll\r\nbe at the bar. Maybe I should drop by?"
-msgstr ""
+msgstr "(Uhm, ricordo che Kaneko-san ha detto che\r\nsarebbe stato al bar. Forse dovrei farci un salto?)"
 
 msgctxt "18||||4"
 msgid "Yeah, I'll go in."
-msgstr ""
+msgstr "(Sì, entrerò.)"
 
 msgctxt "19||||4"
 msgid "No, I'll go another day."
-msgstr ""
+msgstr "(No, ci andrò un altro giorno.)"
 
 msgctxt "20||||4"
 msgid "Yo, I'm back."
-msgstr ""
+msgstr "Ehi, sono tornato."
 
 msgctxt "21||||4"
 msgid "Welcome back!\r\nHave a seat."
-msgstr ""
+msgstr "Bentornato!\r\nAccomodati."
 
 msgctxt "22||||4"
 msgid "(Hmm, I didn't add to the conversation\r\nand it ended awkwardly.)"
-msgstr ""
+msgstr "(Uhm, non ho partecipato alla conversazione\r\ned è finita in modo imbarazzante.)"
 
 msgctxt "23||||4"
 msgid "(They're still in the bar. I should\r\nclear my head and get back in there.)"
-msgstr ""
+msgstr "(Sono ancora nel bar. Dovrei\r\nschiarirmi le idee e tornare dentro.)"
 
 msgctxt "24||||4"
 msgid "I feel like that drink got to me. I'm gonna go\r\nsober up and get some fresh air at the shrine."
-msgstr ""
+msgstr "Sento che quel drink si fa sentire. Vado a\r\nsmaltire la sbornia e a prendere una boccata d'aria al santuario."
 
 msgctxt "25||||4"
 msgid "Sure, see you later."
-msgstr ""
+msgstr "Certo, ci vediamo dopo."
 
 msgctxt "26||||4"
 msgid "Um, excuse me... Would y'happen t'know\r\nif there's a guy named Kaneko around here?"
-msgstr ""
+msgstr "Ehm, scusi... Saprebbe per caso dirmi\r\nse c'è un tizio di nome Kaneko qui in giro?"
 
 msgctxt "27||||4"
 msgid "Kaneko? Yeah, I was just drinking with him."
-msgstr ""
+msgstr "Kaneko? Sì, stavo giusto bevendo con lui."
 
 msgctxt "28||||4"
 msgid "Ah! Is that so? \r\nThat mean you're his friend?"
-msgstr ""
+msgstr "Ah! Davvero?\r\nQuesto significa che è un suo amico?"
 
 msgctxt "29||||4"
 msgid "Yeah, something like that. You are?"
-msgstr ""
+msgstr "Sì, più o meno. Lei chi è?"
 
 msgctxt "30||||4"
 msgid "Sorry, where're my manners. Name's Tsunashima,\r\nI'm the boss of Kaneko's old boxing gym."
-msgstr ""
+msgstr "Mi scusi, dove sono le mie buone maniere. Mi chiamo Tsunashima,\r\nsono il capo della vecchia palestra di boxe di Kaneko."
 
 msgctxt "31||||4"
 msgid "Kaneko-san used to train at your gym?"
-msgstr ""
+msgstr "Kaneko-san si allenava nella sua palestra?"
 
 msgctxt "32||||4"
 msgid "Yes, well... Is Kaneko doin' alright?"
-msgstr ""
+msgstr "Sì, beh... Kaneko sta bene?"
 
 msgctxt "33||||4"
 msgid "Yeah, he's all right. \r\nI hear he works in an office these days."
-msgstr ""
+msgstr "Sì, sta bene.\r\nHo saputo che lavora in un ufficio di questi tempi."
 
 msgctxt "34||||4"
 msgid "Oh yeah? I was worried he'd be feeling\r\ndown 'bout retiring. Guess I was wrong."
-msgstr ""
+msgstr "Ah sì? Temevo fosse depresso per\r\nil ritiro. A quanto pare mi sbagliavo."
 
 msgctxt "35||||4"
 msgid "Hm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "36||||4"
 msgid "I know it's rude t'ask fer favors from a\r\nstranger, but can y'hear this old man out?"
-msgstr ""
+msgstr "So che è scortese chiedere favori a uno\r\nsconosciuto, ma potrebbe ascoltare questo vecchio?"
 
 msgctxt "37||||4"
 msgid "What is it?"
-msgstr ""
+msgstr "Di che si tratta?"
 
 msgctxt "38||||4"
 msgid "I wantchya t'give this photo to Kaneko\r\nand tell him, \"Thank you very much.\""
-msgstr ""
+msgstr "Voglio che dia questa foto a Kaneko\r\ne gli dica: \"Grazie mille\"."
 
 msgctxt "39||||4"
 msgid "What is this?"
-msgstr ""
+msgstr "Cos'è questa?"
 
 msgctxt "40||||4"
 msgid "Let's just say... \r\nIt was the reason Kaneko stopped boxing."
-msgstr ""
+msgstr "Diciamo solo che...\r\nÈ il motivo per cui Kaneko ha smesso di boxare."
 
 msgctxt "41||||4"
 msgid "Reason? You know, I was curious,\r\nwhy did Kaneko-san stop boxing?"
-msgstr ""
+msgstr "Motivo? Sa, ero curioso,\r\nperché Kaneko-san ha smesso con la boxe?"
 
 msgctxt "42||||4"
 msgid "He protected a girl from some punks."
-msgstr ""
+msgstr "Ha protetto una ragazza da alcuni teppisti."
 
 msgctxt "43||||4"
 msgid "Protected?"
-msgstr ""
+msgstr "Protetto?"
 
 msgctxt "44||||4"
 msgid "A group of thugs had surrounded a\r\ndefenseless girl out by herself."
-msgstr ""
+msgstr "Un gruppo di delinquenti aveva circondato\r\nuna ragazza indifesa che era da sola."
 
 msgctxt "45||||4"
 msgid "Kaneko had jus' happened to pass by."
-msgstr ""
+msgstr "Kaneko passava di lì per caso."
 
 msgctxt "46||||4"
 msgid "He beat 'em to a pulp to protect that girl.\r\nBut one of 'em jus' wouldn't let it end..."
-msgstr ""
+msgstr "Li riempì di botte per proteggere quella ragazza.\r\nMa uno di loro non voleva proprio lasciar perdere..."
 
 msgctxt "47||||4"
 msgid "Turns out one of 'em was the\r\nson of a tabloid editor."
-msgstr ""
+msgstr "Si scoprì che uno di loro era il\r\nfiglio dell'editore di un tabloid."
 
 msgctxt "48||||4"
 msgid "\"Pro Boxer Assaults Young Boy\"\r\nmade national headlines."
-msgstr ""
+msgstr "La notizia \"Pugile professionista aggredisce giovane ragazzo\"\r\nfinì sulle prime pagine nazionali."
 
 msgctxt "49||||4"
 msgid "I see..."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "50||||4"
 msgid "No matter the reason, pro boxers can't\r\ngo raisin' their hands to civilians..."
-msgstr ""
+msgstr "Non importa quale sia il motivo, i pugili professionisti\r\nnon possono alzare le mani sui civili..."
 
 msgctxt "51||||4"
 msgid "Kaneko retired quietly, said he didn't\r\nwanna bring trouble to the gym."
-msgstr ""
+msgstr "Kaneko si ritirò in silenzio, dicendo che non\r\nvoleva causare problemi alla palestra."
 
 msgctxt "52||||4"
 msgid "So that's what happened..."
-msgstr ""
+msgstr "Quindi è questo ciò che è successo..."
 
 msgctxt "53||||4"
 msgid "The girl he saved came by the gym.\r\nShe wanted Kaneko to know how grateful she is."
-msgstr ""
+msgstr "La ragazza che aveva salvato passò in palestra.\r\nVoleva che Kaneko sapesse quanto gli fosse grata."
 
 msgctxt "54||||4"
 msgid "So that's why you're looking for Kaneko-san.\r\nWhy don't you give it to him yourself then?"
-msgstr ""
+msgstr "Quindi è per questo che sta cercando Kaneko-san.\r\nPerché non gliela dà lei di persona, allora?"
 
 msgctxt "55||||4"
 msgid "Naw, if he's on a new path in life,\r\nit's better I don't meet with him."
-msgstr ""
+msgstr "Nah, se si è rifatto una vita,\r\nè meglio che non lo incontri."
 
 msgctxt "56||||4"
 msgid "I'd probably dredge up bad memories."
-msgstr ""
+msgstr "Probabilmente riporterei a galla dei brutti ricordi."
 
 msgctxt "57||||4"
 msgid "I don't think so..."
-msgstr ""
+msgstr "Non credo..."
 
 msgctxt "58||||4"
 msgid "Boxing has a mysterious charm to it.\r\nOnce it's got its hook in ya, it becomes yer world."
-msgstr ""
+msgstr "La boxe ha un fascino misterioso.\r\nUna volta che ti prende, diventa il tuo mondo."
 
 msgctxt "59||||4"
 msgid "And if he retired 'fore he felt he was done,\r\nI'm sure that fire is still burnin' deep down."
-msgstr ""
+msgstr "E se si è ritirato prima di sentirsi appagato,\r\nsono sicuro che quel fuoco bruci ancora dentro di lui."
 
 msgctxt "61||||4"
 msgid "I don't know what I'd say if our\r\nmeeting ignited that fire again."
-msgstr ""
+msgstr "Non so cosa direi se il nostro\r\nincontro riaccendesse quel fuoco."
 
 msgctxt "62||||4"
 msgid "But I want him to know that the girl he\r\nsaved was thankful... Can you do that?"
-msgstr ""
+msgstr "Ma voglio che sappia che la ragazza che ha\r\nsalvato era grata... Può farlo lei?"
 
 msgctxt "63||||4"
 msgid "So that's the reason... \r\nMan, boxers sure are an awkward bunch."
-msgstr ""
+msgstr "Quindi è questo il motivo...\r\nCavolo, i pugili sono davvero un gruppo complicato."
 
 msgctxt "64||||4"
 msgid "Not that I have any room to talk...\r\nIt is what it is. I'll let Kaneko-san know."
-msgstr ""
+msgstr "Non che io sia nella posizione di parlare...\r\nLe cose stanno così. Lo farò sapere a Kaneko-san."
 
 msgctxt "65||||4"
 msgid "Y'will!? Thank you kindly."
-msgstr ""
+msgstr "Lo farà!? La ringrazio di cuore."
 
 msgctxt "66||||4"
 msgid "Oh yes. About that photo..."
-msgstr ""
+msgstr "Ah, sì. Riguardo a quella foto..."
 
 msgctxt "67||||4"
 msgid "Hm?"
-msgstr ""
+msgstr "Uhm?"
 
 msgctxt "68||||4"
 msgid "Well, I better go see Kaneko-san. \r\nHe said he'd be heading to the shrine."
-msgstr ""
+msgstr "(Beh, è meglio che vada da Kaneko-san.\r\nHa detto che si sarebbe diretto al santuario.)"
 
 msgctxt "69||||4"
 msgid "I should go meet Kaneko-san.\r\nHe said he was going to the shrine."
-msgstr ""
+msgstr "(Dovrei andare a cercare Kaneko-san.\r\nHa detto che andava al santuario.)"
 
 msgctxt "70||||4"
 msgid "Oh, it's you, Kiryu-san. \r\nYou trying to sober up too?"
-msgstr ""
+msgstr "Oh, sei tu, Kiryu-san.\r\nAnche tu cerchi di smaltire la sbornia?"
 
 msgctxt "71||||4"
 msgid "Yeah, sorta."
-msgstr ""
+msgstr "Sì, più o meno."
 
 msgctxt "72||||4"
 msgid "Man, thanks to those clowns at the bar,\r\nI can't seem to get my past out of my head."
-msgstr ""
+msgstr "Cavolo, per colpa di quei pagliacci al bar,\r\nnon riesco a togliermi il passato dalla testa."
 
 msgctxt "73||||4"
 msgid "You mean, back in your boxing days?"
-msgstr ""
+msgstr "Intendi, ai tempi in cui boxavi?"
 
 msgctxt "74||||4"
 msgid "Yeah, but all that's behind me now."
-msgstr ""
+msgstr "Sì, ma ormai è tutto alle mie spalle."
 
 msgctxt "75||||4"
 msgid "I heard you protected a girl by fighting\r\noff a group of lowlifes."
-msgstr ""
+msgstr "Ho saputo che hai protetto una ragazza respingendo\r\nun gruppo di balordi."
 
 msgctxt "76||||4"
 msgid "Wha...!? Kiryu-san, who told you that story?\r\nWas it Mama!?"
-msgstr ""
+msgstr "Cosa...!? Kiryu-san, chi ti ha raccontato questa storia?\r\nÈ stata la Mama!?"
 
 msgctxt "77||||4"
 msgid "No, it wasn't her. Actually, I ran into the boss\r\nof the boxing gym you used to belong to."
-msgstr ""
+msgstr "No, non è stata lei. In realtà, mi sono imbattuto nel capo\r\ndella palestra di boxe di cui facevi parte."
 
 msgctxt "78||||4"
 msgid "What? He was here?"
-msgstr ""
+msgstr "Cosa? Lui era qui?"
 
 msgctxt "79||||4"
 msgid "Yeah, he said he didn't want to bother\r\nyou, so he asked me to give you a message."
-msgstr ""
+msgstr "Sì, ha detto che non voleva disturbarti,\r\ncosì mi ha chiesto di darti un messaggio."
 
 msgctxt "80||||4"
 msgid "No way... What was it?"
-msgstr ""
+msgstr "Non ci credo... Che diceva?"
 
 msgctxt "81||||4"
 msgid "The girl you saved came to visit the gym,\r\nto tell you, \"Thank you for helping me.\""
-msgstr ""
+msgstr "La ragazza che hai salvato è andata in palestra\r\nper dirti: \"Grazie per avermi aiutata\"."
 
 msgctxt "82||||4"
 msgid "Oh. I see."
-msgstr ""
+msgstr "Oh. Capisco."
 
 msgctxt "83||||4"
 msgid "What's the matter?\r\nDid that upset you?"
-msgstr ""
+msgstr "Che ti prende?\r\nTi ha turbato?"
 
 msgctxt "84||||4"
 msgid "It's just... I don't deserve her thanks..."
-msgstr ""
+msgstr "È solo che... non merito i suoi ringraziamenti..."
 
 msgctxt "85||||4"
 msgid "What do you mean?"
-msgstr ""
+msgstr "In che senso?"
 
 msgctxt "86||||4"
 msgid "Deep down, I'll always wonder if I could've\r\nbeen a boxing champ if I hadn't saved her..."
-msgstr ""
+msgstr "In cuor mio, mi chiederò per sempre se avrei\r\npotuto essere un campione se non l'avessi salvata..."
 
 msgctxt "87||||4"
 msgid "I question whether saving her was right..."
-msgstr ""
+msgstr "Mi chiedo se salvarla sia stata la cosa giusta..."
 
 msgctxt "88||||4"
 msgid "What a terrible thing to think, right?"
-msgstr ""
+msgstr "Che pensiero orribile, vero?"
 
 msgctxt "89||||4"
 msgid "I mean, I'm glad she's safe and all,\r\nbut my life... You know?"
-msgstr ""
+msgstr "Cioè, sono felice che stia bene e tutto,\r\nma la mia vita... Capisci?"
 
 msgctxt "90||||4"
 msgid "Kaneko-san..."
-msgstr ""
+msgstr "Kaneko-san..."
 
 msgctxt "91||||4"
 msgid "I have so many regrets about boxing...\r\nI've never been able to give it all up."
-msgstr ""
+msgstr "Ho così tanti rimpianti sulla boxe...\r\nNon sono mai riuscito a rinunciarci del tutto."
 
 msgctxt "92||||4"
 msgid "I saved her knowing I'd end up having to\r\nretire, but it was pretty damn rough..."
-msgstr ""
+msgstr "L'ho salvata sapendo che sarei finito col dovermi\r\nritirare, ma è stata dannatamente dura..."
 
 msgctxt "93||||4"
 msgid "I can see where you're coming from."
-msgstr ""
+msgstr "Posso capire come ti senti."
 
 msgctxt "94||||4"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "95||||4"
 msgid "I often find myself asking, what if I'd\r\ndone something differently too..."
-msgstr ""
+msgstr "Spesso mi ritrovo a chiedermi cosa sarebbe successo se\r\nanch'io avessi fatto le cose in modo diverso..."
 
 msgctxt "96||||4"
 msgid "That said, someone who fights to protect another\r\ncan overcome any obstacle. In my opinion, anyway."
-msgstr ""
+msgstr "Detto ciò, qualcuno che combatte per proteggere un altro\r\npuò superare qualsiasi ostacolo. Secondo me, almeno."
 
 msgctxt "97||||4"
 msgid "Kiryu-san..."
-msgstr ""
+msgstr "Kiryu-san..."
 
 msgctxt "98||||4"
 msgid "And it's not like you instantly know you\r\ndid the right thing. It takes time to realize it."
-msgstr ""
+msgstr "E non è che si capisca subito di aver\r\nfatto la cosa giusta. Ci vuole tempo per realizzarlo."
 
 msgctxt "99||||4"
 msgid "What is this?"
-msgstr ""
+msgstr "Cos'è questa?"
 
 msgctxt "100||||4"
 msgid "The boss asked me to give it to you."
-msgstr ""
+msgstr "Il capo mi ha chiesto di dartela."
 
 msgctxt "102||||4"
 msgid "When you came to that girl's rescue\r\nback then... She was pregnant."
-msgstr ""
+msgstr "Quando sei andato in soccorso di quella ragazza\r\nall'epoca... Lei era incinta."
 
 msgctxt "103||||4"
 msgid "You actually saved two people that day."
-msgstr ""
+msgstr "In realtà hai salvato due persone quel giorno."
 
 msgctxt "104||||4"
 msgid "That girl... I can't believe it..."
-msgstr ""
+msgstr "Quella ragazza... Non ci credo..."
 
 msgctxt "105||||4"
 msgid "Still questioning if it was the right choice?"
-msgstr ""
+msgstr "Ti chiedi ancora se sia stata la scelta giusta?"
 
 msgctxt "106||||4"
 msgid "I get it... And I'm glad...\r\nSeriously..."
-msgstr ""
+msgstr "Capisco... E sono felice...\r\nDavvero..."
 
 msgctxt "107||||4"
 msgid "You giving up boxing wasn't pointless.\r\nYou protected something precious."
-msgstr ""
+msgstr "L'aver rinunciato alla boxe non è stato vano.\r\nHai protetto qualcosa di prezioso."
 
 msgctxt "108||||4"
 msgid "And you should be proud."
-msgstr ""
+msgstr "E dovresti esserne fiero."
 
 msgctxt "109||||4"
 msgid "Thanks, Kiryu-san... This is the first\r\ntime I've really faced my past."
-msgstr ""
+msgstr "Grazie, Kiryu-san... Questa è la prima\r\nvolta in cui ho davvero affrontato il mio passato."
 
 msgctxt "110||||4"
 msgid "And I can't let it be my burden anymore.\r\nI'd be a disgrace if I never moved on."
-msgstr ""
+msgstr "E non posso permettere che sia più un peso per me.\r\nSarei una vergogna se non andassi avanti."
 
 msgctxt "111||||4"
 msgid "Heh... Sounds like you already have."
-msgstr ""
+msgstr "Heh... Sembra che tu lo abbia già fatto."
 
 msgctxt "112||||4"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "113||||4"
 msgid "But this... What a beautiful photo."
-msgstr ""
+msgstr "Ma questa... Che bella foto."
 
 msgctxt "114||||4"
 msgid "Hey, Kiryu-san!"
-msgstr ""
+msgstr "Ehi, Kiryu-san!"
 
 msgctxt "115||||4"
 msgid "Yo, Kaneko-san.\r\nYou look refreshed."
-msgstr ""
+msgstr "Ehi, Kaneko-san.\r\nSembri rinato."
 
 msgctxt "116||||4"
 msgid "Ah, yeah?\r\nWell, I couldn't stay depressed forever."
-msgstr ""
+msgstr "Ah, dici?\r\nBeh, non potevo restare depresso per sempre."
 
 msgctxt "117||||4"
 msgid "I've decided to live life on my own terms."
-msgstr ""
+msgstr "Ho deciso di vivere la vita alle mie condizioni."
 
 msgctxt "118||||4"
 msgid "Heh, that so?"
-msgstr ""
+msgstr "Heh, è così?"
 
 msgctxt "119||||4"
 msgid "It is. Also, Kiryu-san, I heard you put together\r\na team to take on gangs on the streets."
-msgstr ""
+msgstr "Lo è. Inoltre, Kiryu-san, ho sentito che hai messo su\r\nuna squadra per affrontare le gang di strada."
 
 msgctxt "120||||4"
 msgid "Y-Yeah, I have."
-msgstr ""
+msgstr "S-sì, l'ho fatto."
 
 msgctxt "121||||4"
 msgid "This team of yours... Got room for one more?\r\nI want to protect more people with my fists!"
-msgstr ""
+msgstr "Questa tua squadra... C'è posto per un altro?\r\nVoglio proteggere più persone con i miei pugni!"
 
 msgctxt "122||||4"
 msgid "Kaneko-san..."
-msgstr ""
+msgstr "Kaneko-san..."
 
 msgctxt "123||||4"
 msgid "These are no-holds-barred brawls, not like\r\nboxing. Is getting hurt a risk you can live with?"
-msgstr ""
+msgstr "Queste sono risse senza esclusione di colpi, non come la\r\nboxe. Farsi male è un rischio con cui puoi convivere?"
 
 msgctxt "124||||4"
 msgid "Yeah, all part of the game."
-msgstr ""
+msgstr "Sì, fa tutto parte del gioco."
 
 msgctxt "125||||4"
 msgid "Okay, then. In that case...\r\nLend me your strength."
-msgstr ""
+msgstr "D'accordo, allora. In tal caso...\r\nPrestami la tua forza."
 
 msgctxt "126||||4"
 msgid "Yeah! It's gonna be great to\r\nfight at your side, Kiryu-san!"
-msgstr ""
-
+msgstr "Sì! Sarà fantastico\r\ncombattere al tuo fianco, Kiryu-san!"

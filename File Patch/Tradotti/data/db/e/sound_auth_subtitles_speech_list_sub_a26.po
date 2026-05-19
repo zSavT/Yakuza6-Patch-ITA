@@ -9,561 +9,560 @@ msgstr ""
 
 msgctxt "0||||4"
 msgid "Hold the freakin' phone!\r\nIs that you, Kiryu-san!?"
-msgstr ""
+msgstr "Frena un attimo!\r\nSei tu, Kiryu-san!?"
 
 msgctxt "1||||4"
 msgid "Hm?"
-msgstr ""
+msgstr "Mh?"
 
 msgctxt "2||||4"
 msgid "Wowee! It really <font_kind=yakuza_italic>is</font_kind> you!\r\nIt's been ages, man!"
-msgstr ""
+msgstr "Uau! Sei <font_kind=yakuza_italic>davvero</font_kind> tu!\r\nDa quanto tempo, amico!"
 
 msgctxt "3||||4"
 msgid "Wait..."
-msgstr ""
+msgstr "Aspetta..."
 
 msgctxt "4||||4"
 msgid "Who are you?"
-msgstr ""
+msgstr "Chi sei?"
 
 msgctxt "6||||4"
 msgid "C'mon, bro!\r\nYou can't have forgotten <font_kind=yakuza_italic>me</font_kind>!"
-msgstr ""
+msgstr "Andiamo, fratello!\r\nNon puoi esserti scordato di <font_kind=yakuza_italic>me</font_kind>!"
 
 msgctxt "7||||4"
 msgid "It's me, Sodachi! So, da, chi!\r\nY'know, the head honcho of the Sodachi Dojo!"
-msgstr ""
+msgstr "Sono io, Sodachi! So-da-chi!\r\nSai, il grande capo del Dojo Sodachi!"
 
 msgctxt "8||||4"
 msgid "Sodachi? Sodachi..."
-msgstr ""
+msgstr "Sodachi? Sodachi..."
 
 msgctxt "9||||4"
 msgid "Ah!"
-msgstr ""
+msgstr "Ah!"
 
 msgctxt "10||||4"
 msgid "<font_kind=yakuza_italic>Yeah</font_kind>!?"
-msgstr ""
+msgstr "<font_kind=yakuza_italic>Sì</font_kind>!?"
 
 msgctxt "11||||4"
 msgid "I have no idea who you are."
-msgstr ""
+msgstr "Non ho la più pallida idea di chi tu sia."
 
 msgctxt "12||||4"
 msgid "God, you're the worst! Don't you remember\r\nour epic flurry of fists back at the arena?"
-msgstr ""
+msgstr "Cavolo, sei il peggio! Non ti ricordi\r\nla nostra epica scazzottata all'arena?"
 
 msgctxt "13||||4"
 msgid "It <font_kind=yakuza_italic>was</font_kind> just one time, though.\r\nCan't really blame you for forgetting..."
-msgstr ""
+msgstr "In effetti <font_kind=yakuza_italic>è stata</font_kind> una volta sola.\r\nNon posso biasimarti per averlo scordato..."
 
 msgctxt "14||||4"
 msgid "Sorry, I wish I remembered."
-msgstr ""
+msgstr "Scusa, vorrei tanto ricordarmene."
 
 msgctxt "15||||4"
 msgid "No worries!\r\nI just gotta give you a little reminder!"
-msgstr ""
+msgstr "Tranquillo!\r\nTi rinfrescherò un po' la memoria!"
 
 msgctxt "16||||4"
 msgid "Folks 'round here call me Yasuo Sodachi.\r\nI used to head up the Sodachi Dojo."
-msgstr ""
+msgstr "La gente da queste parti mi chiama Yasuo Sodachi.\r\nUn tempo gestivo il Dojo Sodachi."
 
 msgctxt "17||||4"
 msgid "I was real close to your friend\r\nSaejima-san back in the good ol' days."
-msgstr ""
+msgstr "Ero molto legato al tuo amico\r\nSaejima-san ai vecchi tempi."
 
 msgctxt "18||||4"
 msgid "Oh, you know Saejima?\r\nLet's start over. It's good to meet you."
-msgstr ""
+msgstr "Oh, conosci Saejima?\r\nRipartiamo da zero. Piacere di conoscerti."
 
 msgctxt "19||||4"
 msgid "I'm not surprised you ran a dojo.\r\nThose muscles are incredible."
-msgstr ""
+msgstr "Non mi sorprende che tu gestissi un dojo.\r\nHai dei muscoli incredibili."
 
 msgctxt "20||||4"
 msgid "Ain't they the best?\r\nBut y'know, I actually closed the dojo down."
-msgstr ""
+msgstr "Vero che sono il massimo?\r\nMa sai, in realtà ho chiuso il dojo."
 
 msgctxt "21||||4"
 msgid "I still miss the ol' stomping grounds...\r\nI've got tons of memories of Saejima-san there."
-msgstr ""
+msgstr "Mi manca ancora il mio vecchio ritrovo...\r\nLì ho un sacco di ricordi con Saejima-san."
 
 msgctxt "22||||4"
 msgid "That's too bad.\r\nDid... something happen to make you close?"
-msgstr ""
+msgstr "Mi dispiace.\r\nÈ... successo qualcosa che ti ha costretto a chiudere?"
 
 msgctxt "23||||4"
 msgid "Oh not at all, unless you count the surging\r\nland prices! It was high time to sell, baby!"
-msgstr ""
+msgstr "Oh per niente, a meno che non conti i prezzi\r\ndei terreni alle stelle! Era il momento di vendere, bello!"
 
 msgctxt "25||||4"
 msgid "I wasn't keen on doing it, but at that price?\r\nSometimes you gotta make sacrifices."
-msgstr ""
+msgstr "Non ne avevo molta voglia, ma a quel prezzo?\r\nA volte bisogna fare dei sacrifici."
 
 msgctxt "26||||4"
 msgid "And now thanks to a little investment I made\r\nhere at RIZAP, I've got this killer bod!"
-msgstr ""
+msgstr "E ora, grazie a un piccolo investimento che ho fatto\r\nqui al RIZAP, ho questo fisico da urlo!"
 
 msgctxt "27||||4"
 msgid "They really <font_kind=yakuza_italic>are</font_kind> good at getting results!"
-msgstr ""
+msgstr "Sono <font_kind=yakuza_italic>davvero</font_kind> bravi a far ottenere risultati!"
 
 msgctxt "28||||4"
 msgid "Wait, you got stronger <font_kind=yakuza_italic>here</font_kind> of all places?\r\nWouldn't running a dojo keep you in shape?"
-msgstr ""
+msgstr "Aspetta, ti sei rafforzato <font_kind=yakuza_italic>proprio qui</font_kind>?\r\nGestire un dojo non ti manteneva in forma?"
 
 msgctxt "29||||4"
 msgid "Not at all! I might've been the master,\r\nbut I was kind of a piss-poor fighter."
-msgstr ""
+msgstr "Ma per niente! Sarò anche stato il maestro,\r\nma ero una mezza cartuccia a combattere."
 
 msgctxt "30||||4"
 msgid "I gotta say though, I made the right call.\r\nThis gym's way better than our dingy dojo."
-msgstr ""
+msgstr "Devo dire, però, che ho preso la decisione giusta.\r\nQuesta palestra è mille volte meglio del nostro squallido dojo."
 
 msgctxt "31||||4"
 msgid "And look what it did to my body!\r\nI'm the shining example of buffness!"
-msgstr ""
+msgstr "E guarda cos'ha fatto al mio corpo!\r\nSono l'esempio lampante di come si mette su massa!"
 
 msgctxt "32||||4"
 msgid "Right. Well, I've gotta go."
-msgstr ""
+msgstr "Giusto. Beh, ora devo andare."
 
 msgctxt "33||||4"
 msgid "But Kiryu-san! Listen to me!\r\nG-G-Get your ass back here!"
-msgstr ""
+msgstr "Ma Kiryu-san! Ascoltami!\r\nT-T-Riporta qui le tue chiappe!"
 
 msgctxt "34||||4"
 msgid "Huh? What do you want?"
-msgstr ""
+msgstr "Eh? Che cosa vuoi?"
 
 msgctxt "35||||4"
 msgid "So scary...!\r\nC'mon Sodachi, you can do this... And go!"
-msgstr ""
+msgstr "Che paura...!\r\nDai, Sodachi, ce la puoi fare... E vai!"
 
 msgctxt "36||||4"
 msgid "Hey there, Kiryu-san! Wait... <font_kind=yakuza_italic>Kiryu</font_kind>!\r\nPlease... Er, I wanna lock fists with you!"
-msgstr ""
+msgstr "Ehi, Kiryu-san! Aspetta... <font_kind=yakuza_italic>Kiryu</font_kind>!\r\nTi prego... Ehm, voglio battermi con te!"
 
 msgctxt "37||||4"
 msgid "You want a fight?\r\nWith me?"
-msgstr ""
+msgstr "Vuoi combattere?\r\nCon me?"
 
 msgctxt "38||||4"
 msgid "Damn skippy! I've looked up to strong dudes\r\nlike you and Saejima-san my whole life!"
-msgstr ""
+msgstr "Puoi scommetterci! Ho sempre ammirato i tipi\r\ntosti come te e Saejima-san per tutta la vita!"
 
 msgctxt "39||||4"
 msgid "I wanna get as strong as you guys someday...\r\nThen beat you! That's my dream."
-msgstr ""
+msgstr "Voglio diventare forte come voi, un giorno...\r\nE poi battervi! È il mio sogno."
 
 msgctxt "40||||4"
 msgid "I'd given up on that dream for years...\r\nBut things're different now that I'm a beefcake!"
-msgstr ""
+msgstr "Avevo rinunciato a questo sogno per anni...\r\nMa ora le cose sono cambiate da quando sono una montagna di muscoli!"
 
 msgctxt "41||||4"
 msgid "Huh..."
-msgstr ""
+msgstr "Mh..."
 
 msgctxt "42||||4"
 msgid "My power's outta control compared to my past self!\r\nI'm really itching to put it to the test."
-msgstr ""
+msgstr "La mia forza è fuori controllo rispetto al passato!\r\nFremo dalla voglia di metterla alla prova."
 
 msgctxt "43||||4"
 msgid "I've gotta see how close I am to\r\nthe one and only Kazuma Kiryu!"
-msgstr ""
+msgstr "Devo vedere quanto mi sono avvicinato\r\nal livello dell'unico e inimitabile Kazuma Kiryu!"
 
 msgctxt "44||||4"
 msgid "Hey, wait up!\r\nDon't leave!"
-msgstr ""
+msgstr "Ehi, aspetta!\r\nNon andartene!"
 
 msgctxt "45||||4"
 msgid "What a pain in the ass.\r\nI'm sorry, but I don't have time for this."
-msgstr ""
+msgstr "Che rottura di scatole.\r\nMi dispiace, ma non ho tempo per queste cose."
 
 msgctxt "46||||4"
 msgid "Whatever, man!\r\nIn that case, I'll have to make the first move!"
-msgstr ""
+msgstr "Non m'importa!\r\nIn tal caso, farò io la prima mossa!"
 
 msgctxt "47||||4"
 msgid "No freaking way...\r\nI don't stand a chance against <font_kind=yakuza_italic>you</font_kind>."
-msgstr ""
+msgstr "Non ci posso credere...\r\nNon ho speranze contro di <font_kind=yakuza_italic>te</font_kind>."
 
 msgctxt "48||||4"
 msgid "You're strong, but your footwork needs practice.\r\nRight now you're just wasting your strength."
-msgstr ""
+msgstr "Sei forte, ma devi fare pratica col gioco di gambe.\r\nAl momento stai solo sprecando le tue energie."
 
 msgctxt "49||||4"
 msgid "I know... My dojo training's made me\r\nwell-versed in all that technical stuff."
-msgstr ""
+msgstr "Lo so... L'allenamento al dojo mi ha reso\r\nun esperto di tutta quella roba tecnica."
 
 msgctxt "50||||4"
 msgid "But... even though I know what to do,\r\nmy body just ain't quick enough to do it."
-msgstr ""
+msgstr "Ma... anche se so cosa dovrei fare,\r\nil mio corpo non è abbastanza veloce da seguirmi."
 
 msgctxt "51||||4"
 msgid "Some pickle this is..."
-msgstr ""
+msgstr "Che bel casino..."
 
 msgctxt "52||||4"
 msgid "You should keep practicing.\r\nExperience is the only way to improve."
-msgstr ""
+msgstr "Dovresti continuare ad allenarti.\r\nL'esperienza è l'unico modo per migliorare."
 
 msgctxt "53||||4"
 msgid "Yeah, you're right...\r\nAh, I've got it!"
-msgstr ""
+msgstr "Sì, hai ragione...\r\nAh, ci sono!"
 
 msgctxt "54||||4"
 msgid "Kiryu-san! I'm gonna practice extra hard\r\nso I can make use of these sweet muscles!"
-msgstr ""
+msgstr "Kiryu-san! Mi allenerò ancora più duramente\r\nper poter sfruttare questi fantastici muscoli!"
 
 msgctxt "55||||4"
 msgid "And once I'm done, we're gonna tussle again!\r\nI hope you're ready for more!"
-msgstr ""
+msgstr "E quando avrò finito, combatteremo di nuovo!\r\nSpero tu sia pronto per il secondo round!"
 
 msgctxt "56||||4"
 msgid "Yeah...\r\nWait, what? We're gonna fight <font_kind=yakuza_italic>again</font_kind>?"
-msgstr ""
+msgstr "Sì...\r\nAspetta, cosa? Combatteremo <font_kind=yakuza_italic>di nuovo</font_kind>?"
 
 msgctxt "57||||4"
 msgid "Of course we are! Beating you's the only way\r\nto prove I've got the fighting skills to fighting thrill!"
-msgstr ""
+msgstr "Certo che sì! Batterti è l'unico modo\r\nper dimostrare di avere le carte in regola per spaccare!"
 
 msgctxt "58||||4"
 msgid "If I can do that, and show the world\r\nthe hurt I'm packing..."
-msgstr ""
+msgstr "Se ci riesco, e se mostro al mondo\r\ndi che pasta sono fatto..."
 
 msgctxt "59||||4"
 msgid "I'll be able to make a super dojo\r\nand get stupidly rich!"
-msgstr ""
+msgstr "Potrò aprire un super dojo\r\ne diventare incredibilmente ricco!"
 
 msgctxt "60||||4"
 msgid "I'm gonna make it rain on these Kamurocho civvies!"
-msgstr ""
+msgstr "Farò piovere soldi su questi borghesotti di Kamurocho!"
 
 msgctxt "62||||4"
 msgid "Anyways, I'll be training till next time!\r\nSeeya later, Kiryu-san!"
-msgstr ""
+msgstr "Comunque, mi allenerò fino alla prossima volta!\r\nCi vediamo, Kiryu-san!"
 
 msgctxt "63||||4"
 msgid "What a mess.\r\nHow do I always get wrapped up in this stuff...?"
-msgstr ""
+msgstr "Che disastro.\r\nCome faccio a farmi sempre coinvolgere in queste cose...?"
 
 msgctxt "64||||4"
 msgid "Oh, Kiryu-san!"
-msgstr ""
+msgstr "Oh, Kiryu-san!"
 
 msgctxt "65||||4"
 msgid "I've tightened up my stance a bit!\r\nHow 'bout we go another round?"
-msgstr ""
+msgstr "Ho migliorato un po' la guardia!\r\nChe ne dici di un altro round?"
 
 msgctxt "66||||4"
 msgid "I'm really starting to get good!\r\nHow 'bout we go another round?"
-msgstr ""
+msgstr "Sto davvero diventando bravo!\r\nChe ne dici di un altro round?"
 
 msgctxt "67||||4"
 msgid "My body's never been this pumped up!\r\nHow 'bout we go another round?"
-msgstr ""
+msgstr "Non sono mai stato così pompato!\r\nChe ne dici di un altro round?"
 
 msgctxt "68||||4"
 msgid "I can't right now."
-msgstr ""
+msgstr "Ora non posso."
 
 msgctxt "69||||4"
 msgid "Huh? C'mon, man!\r\nAnyway, lemme know if you change your mind!"
-msgstr ""
+msgstr "Eh? Andiamo, amico!\r\nComunque, fammi sapere se cambi idea!"
 
 msgctxt "70||||4"
 msgid "Ah, Kiryu-san!\r\nDo you feel like fighting me now?"
-msgstr ""
+msgstr "Ah, Kiryu-san!\r\nTi va di batterti con me, ora?"
 
 msgctxt "71||||4"
 msgid "Yeah, I'll take you on."
-msgstr ""
+msgstr "Sì, accetto la sfida."
 
 msgctxt "72||||4"
 msgid "Sweet!\r\nThanks a ton!"
-msgstr ""
+msgstr "Fantastico!\r\nGrazie mille!"
 
 msgctxt "73||||4"
 msgid "Now, then...\r\nDieee, Kiryuuu!"
-msgstr ""
+msgstr "E ora...\r\nMuoriii, Kiryuuu!"
 
 msgctxt "74||||4"
 msgid "Dammittt... I lost again."
-msgstr ""
+msgstr "Maledizioneee... Ho perso di nuovo."
 
 msgctxt "75||||4"
 msgid "You're definitely stronger than last time, though.\r\nThat's progress."
-msgstr ""
+msgstr "Sei sicuramente più forte dell'ultima volta, però.\r\nÈ già un progresso."
 
 msgctxt "76||||4"
 msgid "You mean it!? All right, then!\r\nThis isn't the last you see of me!"
-msgstr ""
+msgstr "Dici davvero!? D'accordo, allora!\r\nNon finisce mica qui!"
 
 msgctxt "77||||4"
 msgid "No way... I beat Kiryu-san!\r\nI really did it! Yay!"
-msgstr ""
+msgstr "Incredibile... Ho battuto Kiryu-san!\r\nCe l'ho fatta sul serio! Evvai!"
 
 msgctxt "78||||4"
 msgid "I underestimated you.\r\nTurns out you're pretty tough."
-msgstr ""
+msgstr "Ti ho sottovalutato.\r\nSi direbbe che sei piuttosto tosto."
 
 msgctxt "79||||4"
 msgid "No way were you in tip-top form today,\r\nbut it doesn't matter. A win's a win in my book!"
-msgstr ""
+msgstr "Oggi non eri di certo in forma smagliante,\r\nma non importa. Per me una vittoria è una vittoria!"
 
 msgctxt "80||||4"
 msgid "And as the winner of our match,\r\nlet me say one thing, Kiryu-san."
-msgstr ""
+msgstr "E in quanto vincitore del nostro incontro,\r\nlascia che ti dica una cosa, Kiryu-san."
 
 msgctxt "81||||4"
 msgid "Your luck ran out today!"
-msgstr ""
+msgstr "Oggi la fortuna ti ha voltato le spalle!"
 
 msgctxt "82||||4"
 msgid "Make sure you're pumped up next time, okay?\r\nBye now!"
-msgstr ""
+msgstr "Assicurati di essere al top la prossima volta, ok?\r\nAlla prossima!"
 
 msgctxt "83||||4"
 msgid "Dammit, I should never have underestimated him.\r\nHow embarrassing..."
-msgstr ""
+msgstr "Accidenti, non avrei mai dovuto sottovalutarlo.\r\nChe imbarazzo..."
 
 msgctxt "84||||4"
 msgid "Hm...?"
-msgstr ""
+msgstr "Mh...?"
 
 msgctxt "85||||4"
 msgid "It's from Sodachi."
-msgstr ""
+msgstr "È di Sodachi."
 
 msgctxt "86||||4"
 msgid "How did he get my contact info...?"
-msgstr ""
+msgstr "Come ha fatto ad avere i miei contatti...?"
 
 msgctxt "87||||4"
 msgid "Whatever. I'll head over to the park\r\nand humor him when I have some time."
-msgstr ""
+msgstr "Pazienza. Andrò al parco\r\ne gli darò corda quando avrò un po' di tempo."
 
 msgctxt "88||||4"
 msgid "Yo, Kiryu-san!\r\nThanks for coming all the way out here!"
-msgstr ""
+msgstr "Ehi, Kiryu-san!\r\nGrazie per essere venuto fin qui!"
 
 msgctxt "89||||4"
 msgid "It's nothing.\r\nWell? What do you want?"
-msgstr ""
+msgstr "Di niente.\r\nAllora? Cosa vuoi?"
 
 msgctxt "90||||4"
 msgid "Hold up, man!\r\nDidn't you read my freakin' email!?"
-msgstr ""
+msgstr "Frena, amico!\r\nNon l'hai letta la mia dannata email!?"
 
 msgctxt "91||||4"
 msgid "Today's the day we settle this.\r\nJust me... and you."
-msgstr ""
+msgstr "Oggi è il giorno in cui chiuderemo i conti.\r\nSolo io... e te."
 
 msgctxt "92||||4"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Che intendi dire?"
 
 msgctxt "93||||4"
 msgid "Well, thanks to all my training at RIZAP,\r\nI've finally unlocked my true potential."
-msgstr ""
+msgstr "Beh, grazie a tutti i miei allenamenti al RIZAP,\r\nho finalmente sbloccato il mio vero potenziale."
 
 msgctxt "94||||4"
 msgid "Anything I imagine, I can make into reality.\r\nThis is, so to speak, my final form!"
-msgstr ""
+msgstr "Tutto ciò che immagino, posso trasformarlo in realtà.\r\nQuesta è, per così dire, la mia forma finale!"
 
 msgctxt "95||||4"
 msgid "Uh-huh."
-msgstr ""
+msgstr "Ah-ah."
 
 msgctxt "96||||4"
 msgid "So today, I'm gonna whoop you, Kiryu-san!\r\nThe world's gonna see how tough I am!"
-msgstr ""
+msgstr "Perciò oggi ti farò il culo, Kiryu-san!\r\nIl mondo intero vedrà quanto sono tosto!"
 
 msgctxt "97||||4"
 msgid "Nobody'll be able to deny my ability once\r\nI've taken down the toughest dude in the world!"
-msgstr ""
+msgstr "Nessuno potrà negare le mie capacità una volta che\r\navrò steso il tizio più forte del mondo!"
 
 msgctxt "98||||4"
 msgid "My new gym's gonna skyrocket to the top!\r\nOh, and I'll make fat stacks off my fighting book, too!"
-msgstr ""
+msgstr "La mia nuova palestra schizzerà alle stelle!\r\nOh, e farò un sacco di soldi con il mio manuale di lotta!"
 
 msgctxt "100||||4"
 msgid "Some plan you have there.\r\nI'd rather you didn't use my name, though."
-msgstr ""
+msgstr "Bel piano, non c'è che dire.\r\nPreferirei che non usassi il mio nome, però."
 
 msgctxt "101||||4"
 msgid "I won't, man.\r\n<font_kind=yakuza_italic>If</font_kind> you can beat me, that is!"
-msgstr ""
+msgstr "Non lo farò, amico.\r\n<font_kind=yakuza_italic>Sempre se</font_kind> riuscirai a battermi, si intende!"
 
 msgctxt "102||||4"
 msgid "Now let's get moving.\r\nThis is our last dance!"
-msgstr ""
+msgstr "Ora diamoci dentro.\r\nQuesto è il nostro ultimo ballo!"
 
 msgctxt "103||||4"
 msgid "Dieee, Kazuma Kiryuuu!"
-msgstr ""
+msgstr "Muoriii, Kazuma Kiryuuu!"
 
 msgctxt "104||||4"
 msgid "Dammit, I took him too lightly."
-msgstr ""
+msgstr "Maledizione, l'ho preso troppo alla leggera."
 
 msgctxt "105||||4"
 msgid "I-I actually won!\r\nI'm the king of the world!"
-msgstr ""
+msgstr "H-Ho vinto per davvero!\r\nSono il re del mondo!"
 
 msgctxt "106||||4"
 msgid "Now that I've laid a whooping on <font_kind=yakuza_italic>the</font_kind> Kazuma Kiryu,\r\nmy gym empire's just a hop and a skip away!"
-msgstr ""
+msgstr "Ora che ho steso <font_kind=yakuza_italic>il solo e unico</font_kind> Kazuma Kiryu,\r\nil mio impero del fitness è a un passo!"
 
 msgctxt "107||||4"
 msgid "Tch..."
-msgstr ""
+msgstr "Tsk..."
 
 msgctxt "108||||4"
 msgid "Too bad, Kiryu-san. But I will say,\r\nit's only 'cause of you that I got this strong."
-msgstr ""
+msgstr "Peccato, Kiryu-san. Ma devo ammetterlo,\r\nè solo grazie a te se sono diventato così forte."
 
 msgctxt "109||||4"
 msgid "That's why I'll let you redeem yourself."
-msgstr ""
+msgstr "Ecco perché ti concederò la rivincita."
 
 msgctxt "110||||4"
 msgid "Come back if you think you can beat me in\r\na rematch. I'll take you on as much as you want."
-msgstr ""
+msgstr "Torna se pensi di potermi battere in\r\nuna rivincita. Ti affronterò quante volte vorrai."
 
 msgctxt "111||||4"
 msgid "I've already planned out the fight, though.\r\nYou're gonna fail just as hard as you did this time!"
-msgstr ""
+msgstr "Ho già pianificato lo scontro, però.\r\nFallirai miseramente proprio come stavolta!"
 
 msgctxt "112||||4"
 msgid "Keep coming my way if you wanna die, Kiryu-san!\r\nJust kidding!"
-msgstr ""
+msgstr "Fatti sotto se vuoi morire, Kiryu-san!\r\nScherzavo!"
 
 msgctxt "114||||4"
 msgid "(This is humiliating... but he <font_kind=yakuza_italic>is</font_kind> strong.\r\nI should put my head down and try again.)"
-msgstr ""
+msgstr "(Che umiliazione... ma è <font_kind=yakuza_italic>davvero</font_kind> forte.\r\nDovrei chinare la testa e riprovare.)"
 
 msgctxt "115||||4"
 msgid "Oh, Kiryu-san!\r\nHere for another smackdown?"
-msgstr ""
+msgstr "Oh, Kiryu-san!\r\nSei qui per un'altra batosta?"
 
 msgctxt "116||||4"
 msgid "I can't let this end like that.\r\nThis time, it's going to be different."
-msgstr ""
+msgstr "Non posso lasciare che finisca così.\r\nQuesta volta sarà diverso."
 
 msgctxt "117||||4"
 msgid "What, you <font_kind=yakuza_italic>really</font_kind> think you can beat me?\r\nWell now's your chance to prove it!"
-msgstr ""
+msgstr "Cosa, pensi <font_kind=yakuza_italic>davvero</font_kind> di potermi battere?\r\nBeh, questa è la tua occasione per dimostrarlo!"
 
 msgctxt "118||||4"
 msgid "You're dead meattt, Kiryuuu!"
-msgstr ""
+msgstr "Sei un uomo mortooo, Kiryuuu!"
 
 msgctxt "119||||4"
 msgid "I lost..."
-msgstr ""
+msgstr "Ho perso..."
 
 msgctxt "120||||4"
 msgid "You're a lot stronger, Sodachi."
-msgstr ""
+msgstr "Sei molto più forte, Sodachi."
 
 msgctxt "121||||4"
 msgid "Can't disagree with that.\r\nBut the legendary Kiryu's still a cut above."
-msgstr ""
+msgstr "Non posso darti torto.\r\nMa il leggendario Kiryu è ancora su un altro livello."
 
 msgctxt "122||||4"
 msgid "I only got this strong thanks to you, man."
-msgstr ""
+msgstr "Sono diventato così forte solo grazie a te, amico."
 
 msgctxt "123||||4"
 msgid "My admiration toward you, my desire to beat you...\r\nThose were the best motivators a guy could ask for."
-msgstr ""
+msgstr "La mia ammirazione per te, il desiderio di batterti...\r\nSono stati i migliori motivatori che potessi chiedere."
 
 msgctxt "124||||4"
 msgid "That's what helped me get through my training.\r\nI've really gotta thank you for that."
-msgstr ""
+msgstr "È questo che mi ha aiutato a superare l'allenamento.\r\nDevo davvero ringraziarti."
 
 msgctxt "125||||4"
 msgid "All I did was smack you around a few times.\r\nYour hard work is what really made you stronger."
-msgstr ""
+msgstr "Io non ho fatto altro che darti qualche sberla.\r\nÈ il tuo duro lavoro che ti ha reso più forte."
 
 msgctxt "126||||4"
 msgid "You should be proud."
-msgstr ""
+msgstr "Dovresti esserne orgoglioso."
 
 msgctxt "127||||4"
 msgid "Y-You think? Yeah, you're right!\r\nI totally gave it my all!"
-msgstr ""
+msgstr "D-Dici? Sì, hai ragione!\r\nCe l'ho messa proprio tutta!"
 
 msgctxt "129||||4"
 msgid "But no matter how much effort I put in,\r\nmy appreciation for you remains unchanged."
-msgstr ""
+msgstr "Ma a prescindere dal mio impegno,\r\nla mia stima per te rimane immutata."
 
 msgctxt "130||||4"
 msgid "If there's ever anything I can do for you,\r\ndon't hesitate to give me a ring!"
-msgstr ""
+msgstr "Se dovesse mai servirti qualcosa,\r\nnon esitare a farmi uno squillo!"
 
 msgctxt "131||||4"
 msgid "All right. Will do."
-msgstr ""
+msgstr "D'accordo. Lo farò."
 
 msgctxt "132||||4"
 msgid "Hm?"
-msgstr ""
+msgstr "Mh?"
 
 msgctxt "133||||4"
 msgid "Who's that...?"
-msgstr ""
+msgstr "E quello chi è...?"
 
 msgctxt "134||||4"
 msgid "Is something wrong?"
-msgstr ""
+msgstr "Qualcosa non va?"
 
 msgctxt "135||||4"
 msgid "Nah, nah, it's nothing! Just some guy\r\nwho looked like a hidden video game boss!"
-msgstr ""
+msgstr "No, no, non è niente! Solo un tizio\r\nche sembrava il boss segreto di un videogioco!"
 
 msgctxt "136||||4"
 msgid "Uh-huh..."
-msgstr ""
+msgstr "Ah-ah..."
 
 msgctxt "137||||4"
 msgid "I'm sure it's nothing to get worked up over.\r\nCan't judge a book by its cover, after all!"
-msgstr ""
+msgstr "Sono sicuro che non sia il caso di agitarsi.\r\nNon si giudica un libro dalla copertina, in fondo!"
 
 msgctxt "138||||4"
 msgid "Right."
-msgstr ""
+msgstr "Giusto."
 
 msgctxt "139||||4"
 msgid "Anyways, I should be outta here."
-msgstr ""
+msgstr "Comunque, me la svigno."
 
 msgctxt "140||||4"
 msgid "I might've lost <font_kind=yakuza_italic>this</font_kind> time, but I'm gonna keep\r\ntraining so I can get to your level, Kiryu-san."
-msgstr ""
+msgstr "Avrò anche perso <font_kind=yakuza_italic>questa</font_kind> volta, ma continuerò\r\nad allenarmi per raggiungere il tuo livello, Kiryu-san."
 
 msgctxt "141||||4"
 msgid "Gimme another fight someday, yeah?"
-msgstr ""
+msgstr "Concedimi un'altra sfida un giorno di questi, ok?"
 
 msgctxt "142||||4"
 msgid "Heh... If I feel like it."
-msgstr ""
+msgstr "Heh... Se ne avrò voglia."
 
 msgctxt "143||||4"
 msgid "Good enough! Later!"
-msgstr ""
+msgstr "Mi basta! Alla prossima!"
 
 msgctxt "144||||4"
 msgid "Hmph."
-msgstr ""
+msgstr "Hmph."
 
 msgctxt "145||||4"
 msgid "Kazuma Kiryu..."
-msgstr ""
-
+msgstr "Kazuma Kiryu..."

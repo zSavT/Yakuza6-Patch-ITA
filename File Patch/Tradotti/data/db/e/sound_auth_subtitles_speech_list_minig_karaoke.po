@@ -9,85 +9,85 @@ msgstr ""
 
 msgctxt "0||||4"
 msgid "Welcome.\r\nFor how many people?"
-msgstr ""
+msgstr "Benvenuto.\r\nPer quante persone?"
 
 msgctxt "1||||4"
 msgid "Very well. That will be \\500."
-msgstr ""
+msgstr "Molto bene. Saranno \\500."
 
 msgctxt "2||||4"
 msgid "I'll show you to your room."
-msgstr ""
+msgstr "La accompagno alla sua stanza."
 
 msgctxt "3||||4"
 msgid "Very well.\r\nWe await your return."
-msgstr ""
+msgstr "Molto bene.\r\nL'aspettiamo per la sua prossima visita."
 
 msgctxt "4||||4"
 msgid "It will be \\1,000 for two people."
-msgstr ""
+msgstr "Saranno \\1.000 per due persone."
 
 msgctxt "5||||4"
 msgid "Please enjoy your time here."
-msgstr ""
+msgstr "Le auguro buon divertimento."
 
 msgctxt "6||||4"
 msgid "Thank you for your patronage.\r\nWe await your return."
-msgstr ""
+msgstr "Grazie per averci scelto.\r\nL'aspettiamo per la sua prossima visita."
 
 msgctxt "7||||4"
 msgid "Your time is almost up...\r\nWould you like to extend your time?"
-msgstr ""
+msgstr "Il suo tempo è quasi scaduto...\r\nDesidera prolungare la permanenza?"
 
 msgctxt "8||||4"
 msgid "It will cost \\500 to extend your time."
-msgstr ""
+msgstr "Prolungare la permanenza costerà \\500."
 
 msgctxt "9||||4"
 msgid "Very well.\r\nPlease continue to enjoy your time here."
-msgstr ""
+msgstr "Molto bene.\r\nLe auguriamo di continuare a divertirsi."
 
 msgctxt "10||||4"
 msgid "Your time is almost up.\r\nPlease begin preparing to leave."
-msgstr ""
+msgstr "Il suo tempo è quasi scaduto.\r\nLa preghiamo di prepararsi per uscire."
 
 msgctxt "11||||4"
 msgid "Very well. Please be sure to take all\r\nof your belongings when you leave."
-msgstr ""
+msgstr "Molto bene. Si assicuri di prendere tutti\r\ni suoi effetti personali prima di andare."
 
 msgctxt "12||||4"
 msgid "I apologize."
-msgstr ""
+msgstr "Mi scuso."
 
 msgctxt "13||||4"
 msgid "For one."
-msgstr ""
+msgstr "Per uno."
 
 msgctxt "14||||4"
 msgid "For two."
-msgstr ""
+msgstr "Per due."
 
 msgctxt "15||||4"
 msgid "I want to call someone over."
-msgstr ""
+msgstr "Voglio chiamare qualcuno."
 
 msgctxt "16||||4"
 msgid "I'd like more time."
-msgstr ""
+msgstr "Vorrei più tempo."
 
 msgctxt "17||||4"
 msgid "No, it's fine."
-msgstr ""
+msgstr "No, va bene così."
 
 msgctxt "18||||4"
 msgid "Got it."
-msgstr ""
+msgstr "Ricevuto."
 
 msgctxt "19||||4"
 msgid "I'll come back another time."
-msgstr ""
+msgstr "Tornerò un'altra volta."
 
 msgctxt "20||||4"
 msgid "Sorry..."
-msgstr ""
+msgstr "Scusa..."
 

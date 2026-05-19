@@ -9,313 +9,312 @@ msgstr ""
 
 msgctxt "0||||4"
 msgid "Oh, Kiryu-san!\r\nAre y'headed to the bar?"
-msgstr ""
+msgstr "Oh, Kiryu-san!\r\nStai andando al bar?"
 
 msgctxt "1||||4"
 msgid "If you are, we should go together.\r\nI wanted to talk to you about something."
-msgstr ""
+msgstr "In tal caso, dovremmo andarci insieme.\r\nVolevo parlarti di una cosa."
 
 msgctxt "2||||4"
 msgid "Sure, let's go."
-msgstr ""
+msgstr "Certo, andiamo."
 
 msgctxt "3||||4"
 msgid "Awesome."
-msgstr ""
+msgstr "Fantastico."
 
 msgctxt "4||||4"
 msgid "Sorry, I'm a little busy right now..."
-msgstr ""
+msgstr "Scusa, sono un po' occupato al momento..."
 
 msgctxt "5||||4"
 msgid "Oh okay. Well, I'll be at the bar,\r\nso come talk to me later!"
-msgstr ""
+msgstr "Oh, okay. Beh, sarò al bar,\r\nquindi vieni a parlarmi più tardi!"
 
 msgctxt "6||||4"
 msgid "Sure, I will."
-msgstr ""
+msgstr "Certo, lo farò."
 
 msgctxt "7||||4"
 msgid "I remember Akiyoshi-san wanted to\r\ntalk about something at the bar."
-msgstr ""
+msgstr "(Ricordo che Akiyoshi-san voleva\r\nparlarmi di qualcosa al bar.)"
 
 msgctxt "8||||4"
 msgid "I should go in."
-msgstr ""
+msgstr "(Dovrei entrare.)"
 
 msgctxt "9||||4"
 msgid "No, it sounded like it'd be a long talk..."
-msgstr ""
+msgstr "(No, sembrava che potesse essere una conversazione lunga...)"
 
 msgctxt "10||||4"
 msgid "So what did you want to talk about?"
-msgstr ""
+msgstr "Quindi, di cosa volevi parlarmi?"
 
 msgctxt "11||||4"
 msgid "Oh, can you talk right now?"
-msgstr ""
+msgstr "Oh, puoi parlarne ora?"
 
 msgctxt "12||||4"
 msgid "Hmm, I didn't add to the conversation\r\nand it ended awkwardly."
-msgstr ""
+msgstr "(Uhm, non ho partecipato alla conversazione\r\ned è finita in modo imbarazzante.)"
 
 msgctxt "13||||4"
 msgid "They're still in the bar. I should\r\nclear my head and get back in there."
-msgstr ""
+msgstr "(Sono ancora nel bar. Dovrei\r\nschiarirmi le idee e tornare dentro.)"
 
 msgctxt "14||||4"
 msgid "I'll go home and get ready t'head to\r\nthe reunion. Thanks, Kiryu-san."
-msgstr ""
+msgstr "Vado a casa a prepararmi per andare\r\nalla rimpatriata. Grazie, Kiryu-san."
 
 msgctxt "15||||4"
 msgid "Yeah, good luck."
-msgstr ""
+msgstr "Sì, buona fortuna."
 
 msgctxt "16||||4"
 msgid "Oh, Kiryu-san!\r\nIs Akiyoshi-kun already gone?"
-msgstr ""
+msgstr "Oh, Kiryu-san!\r\nAkiyoshi-kun se n'è già andato?"
 
 msgctxt "17||||4"
 msgid "Yeah, he just left. \r\nWhat's the matter?"
-msgstr ""
+msgstr "Sì, è appena uscito. \r\nChe succede?"
 
 msgctxt "18||||4"
 msgid "He forgot his wallet. What should I do?\r\nI can't leave the bar..."
-msgstr ""
+msgstr "Ha dimenticato il portafoglio. Come faccio?\r\nNon posso lasciare il bar..."
 
 msgctxt "19||||4"
 msgid "Let me give it to him. \r\nI'm sure he hasn't gotten too far."
-msgstr ""
+msgstr "Lascia che glielo porti io. \r\nSono sicuro che non sia andato troppo lontano."
 
 msgctxt "20||||4"
 msgid "Really!? You'd do that? He lives by\r\nthe shrine, so head up that way."
-msgstr ""
+msgstr "Davvero!? Lo faresti? Vive vicino\r\nal santuario, quindi vai da quella parte."
 
 msgctxt "21||||4"
 msgid "Got it."
-msgstr ""
+msgstr "Ricevuto."
 
 msgctxt "22||||4"
 msgid "I should get Akiyoshi-san's wallet\r\nback to him. He lives near the shrine."
-msgstr ""
+msgstr "(Dovrei riportare ad Akiyoshi-san\r\nil suo portafoglio. Vive vicino al santuario.)"
 
 msgctxt "23||||4"
 msgid "Hm? That's Akiyoshi-san...\r\nWhat is he doing up there?"
-msgstr ""
+msgstr "(Uhm? Quello è Akiyoshi-san...\r\nCosa ci fa lassù?)"
 
 msgctxt "24||||4"
 msgid "Oh, Kiryu-san.\r\nSomething wrong?"
-msgstr ""
+msgstr "Oh, Kiryu-san.\r\nC'è qualcosa che non va?"
 
 msgctxt "25||||4"
 msgid "Here, you forgot this."
-msgstr ""
+msgstr "Tieni, avevi dimenticato questo."
 
 msgctxt "26||||4"
 msgid "Oh, guess I left it at the bar...\r\nThanks, sorry for the hassle."
-msgstr ""
+msgstr "Oh, immagino di averlo lasciato al bar...\r\nGrazie, scusa per il disturbo."
 
 msgctxt "27||||4"
 msgid "What are you doing here?\r\nWeren't you going to your reunion?"
-msgstr ""
+msgstr "Che ci fai qui?\r\nNon stavi andando alla tua rimpatriata?"
 
 msgctxt "28||||4"
 msgid "Well... I was still kinda dwelling\r\non the memory of my teacher..."
-msgstr ""
+msgstr "Beh... stavo ancora un po' rimuginando\r\nsul ricordo del mio insegnante..."
 
 msgctxt "29||||4"
 msgid "T'be honest, even after I graduated\r\nfrom the school, I'd go back n' visit."
-msgstr ""
+msgstr "Ad essere onesto, anche dopo essermi\r\ndiplomato in quella scuola, tornavo a trovarlo."
 
 msgctxt "30||||4"
 msgid "Oh, is that so?"
-msgstr ""
+msgstr "Oh, davvero?"
 
 msgctxt "31||||4"
 msgid "Yeah, I used t'play baseball, and whenever\r\nI'd go back, I'd brag about winning."
-msgstr ""
+msgstr "Già, giocavo a baseball, e ogni volta\r\nche tornavo mi vantavo delle vittorie."
 
 msgctxt "32||||4"
 msgid "Heh, typical of a high school athlete."
-msgstr ""
+msgstr "Heh, tipico di un atleta del liceo."
 
 msgctxt "33||||4"
 msgid "But we lost the regionals, and to make\r\nmatters worse, it was a homer off my pitch..."
-msgstr ""
+msgstr "Ma perdemmo le regionali, e a peggiorare le\r\ncose, subimmo un fuoricampo su un mio lancio..."
 
 msgctxt "34||||4"
 msgid "My teacher had come t'watch the game,\r\nand I just about died of embarrassment."
-msgstr ""
+msgstr "Il mio insegnante era venuto a guardare la partita,\r\ne io quasi morii di imbarazzo."
 
 msgctxt "35||||4"
 msgid "So that's the whole story."
-msgstr ""
+msgstr "Quindi è questa l'intera storia."
 
 msgctxt "36||||4"
 msgid "I know back at the bar I said I was afraid\r\nof seein' my teacher old and changed...."
-msgstr ""
+msgstr "Lo so che al bar ho detto che avevo paura di\r\nvedere il mio insegnante invecchiato e cambiato..."
 
 msgctxt "37||||4"
 msgid "But what I'm really scared of is\r\nshowin' how little I've changed myself."
-msgstr ""
+msgstr "Ma ciò che mi spaventa davvero è\r\nmostrare quanto poco io stesso sia cambiato."
 
 msgctxt "38||||4"
 msgid "The dumb kid who bragged about\r\nmakin' the major leagues someday..."
-msgstr ""
+msgstr "Il ragazzino stupido che si vantava di poter\r\nentrare in una squadra professionista un giorno..."
 
 msgctxt "39||||4"
 msgid "...Ended up in a dead-end office job\r\nand hangs out at a bar all day long."
-msgstr ""
+msgstr "...È finito in un lavoro d'ufficio senza sbocchi\r\ne passa tutto il giorno al bar."
 
 msgctxt "40||||4"
 msgid "I'm sure my teacher's gonna be\r\npretty disappointed t'hear it."
-msgstr ""
+msgstr "Sono sicuro che il mio insegnante rimarrebbe\r\npiuttosto deluso a sentirlo."
 
 msgctxt "41||||4"
 msgid "That's what was weighing you down?\r\nBut you're wrong, you know."
-msgstr ""
+msgstr "È questo che ti pesava addosso?\r\nMa ti sbagli, lo sai?"
 
 msgctxt "42||||4"
 msgid "Hm?"
-msgstr ""
+msgstr "Uhm?"
 
 msgctxt "43||||4"
 msgid "Your teacher will probably be happy\r\nto find a student who still cares so much."
-msgstr ""
+msgstr "Il tuo insegnante sarà probabilmente felice di\r\nritrovare uno studente che ci tiene ancora così tanto."
 
 msgctxt "44||||4"
 msgid "Even just coming to say hello\r\nwill go a long way."
-msgstr ""
+msgstr "Anche solo passare a salutare\r\nfarà una grande differenza."
 
 msgctxt "45||||4"
 msgid "Nothing makes a teacher happier\r\nthan seeing a student doing well."
-msgstr ""
+msgstr "Niente rende un insegnante più felice\r\nche vedere un proprio studente stare bene."
 
 msgctxt "46||||4"
 msgid "You... really think so?"
-msgstr ""
+msgstr "Tu... lo pensi davvero?"
 
 msgctxt "47||||4"
 msgid "I'd be willing to bet you going to\r\nvisit meant more than the baseball game."
-msgstr ""
+msgstr "Scommetterei che le tue visite per lui\r\nsignificassero molto più della partita di baseball."
 
 msgctxt "49||||4"
 msgid "Well, you'll see when you get older.\r\nJust go to your reunion already."
-msgstr ""
+msgstr "Beh, lo capirai quando diventerai più grande.\r\nOra vai a quella tua rimpatriata e basta."
 
 msgctxt "50||||4"
 msgid "Ya make some fine points, Kiryu-san.\r\nI was gettin' worked up over nothing."
-msgstr ""
+msgstr "Hai sollevato delle ottime argomentazioni, Kiryu-san.\r\nMi stavo agitando per niente."
 
 msgctxt "51||||4"
 msgid "Heh, right."
-msgstr ""
+msgstr "Heh, giusto."
 
 msgctxt "52||||4"
 msgid "Well, I oughta get goin'!\r\nThanks for the pep talk!"
-msgstr ""
+msgstr "Beh, dovrei andare!\r\nGrazie per l'incoraggiamento!"
 
 msgctxt "53||||4"
 msgid "Sure, and also..."
-msgstr ""
+msgstr "Figurati, e ricorda..."
 
 msgctxt "54||||4"
 msgid "Remember, baseball is a team sport.\r\nA loss is never the fault of one guy."
-msgstr ""
+msgstr "Il baseball è uno sport di squadra.\r\nUna sconfitta non è mai colpa di un solo ragazzo."
 
 msgctxt "55||||4"
 msgid "You don't have to carry that burden anymore."
-msgstr ""
+msgstr "Non devi più portare questo fardello."
 
 msgctxt "56||||4"
 msgid "You're right. Thanks!"
-msgstr ""
+msgstr "Hai ragione. Grazie!"
 
 msgctxt "57||||4"
 msgid "Oh, Kiryu-san!"
-msgstr ""
+msgstr "Oh, Kiryu-san!"
 
 msgctxt "58||||4"
 msgid "Yo, how was the reunion?\r\nWere you able to talk to your teacher?"
-msgstr ""
+msgstr "Ehi, com'è andata la rimpatriata?\r\nSei riuscito a parlare con il tuo insegnante?"
 
 msgctxt "59||||4"
 msgid "Yeah, we were real happy to see each other!\r\nIt was a great time! I'm glad I went."
-msgstr ""
+msgstr "Sì, eravamo davvero felici di rivederci!\r\nÈ stato un bel momento! Sono contento di esserci andato."
 
 msgctxt "60||||4"
 msgid "See? Didn't we say it'd be fine?"
-msgstr ""
+msgstr "Vedi? Non avevamo detto che sarebbe andato tutto bene?"
 
 msgctxt "61||||4"
 msgid "Teach even told me to get back into\r\nplaying baseball again!"
-msgstr ""
+msgstr "Il prof mi ha persino detto di\r\nricominciare a giocare a baseball!"
 
 msgctxt "62||||4"
 msgid "Really? That's great. It seems you have\r\nnew memories to replace the bad ones."
-msgstr ""
+msgstr "Davvero? È fantastico. Sembra che tu abbia dei\r\nnuovi ricordi con cui rimpiazzare quelli brutti."
 
 msgctxt "63||||4"
 msgid "If y'wanna field some balls, y'oughta\r\njoin our team then, right Kiryu-san?"
-msgstr ""
+msgstr "Se vuoi prendere qualche palla, dovresti\r\nunirti alla nostra squadra, giusto Kiryu-san?"
 
 msgctxt "64||||4"
 msgid "You guys play baseball?"
-msgstr ""
+msgstr "Voi giocate a baseball?"
 
 msgctxt "65||||4"
 msgid "It's just for fun, but would you want in?\r\nWe could use your experience."
-msgstr ""
+msgstr "È solo per divertimento, ma ti andrebbe di entrare?\r\nCi farebbe comodo la tua esperienza."
 
 msgctxt "66||||4"
 msgid "Really? I've love to join up! Maybe\r\nI'll make a clutch play for my teacher!"
-msgstr ""
+msgstr "Davvero? Mi piacerebbe un sacco! Magari farò\r\nuna giocata decisiva per il mio insegnante!"
 
 msgctxt "67||||4"
 msgid "Great, then I'll look for you out on\r\nthe field then, Akiyoshi-san."
-msgstr ""
+msgstr "Ottimo, allora ti aspetterò\r\nin campo, Akiyoshi-san."
 
 msgctxt "68||||4"
 msgid "Sure!"
-msgstr ""
+msgstr "Certamente!"
 
 msgctxt "69||||4"
 msgid "By the way, my teacher was just as suave as\r\nI remember him. I hope I'm that manly someday..."
-msgstr ""
+msgstr "A proposito, il mio insegnante era suadente proprio come\r\nlo ricordavo. Spero di essere così virile, un giorno..."
 
 msgctxt "70||||4"
 msgid "Yeah, as manly as... Eh?"
-msgstr ""
+msgstr "Già, così virile... Eh?"
 
 msgctxt "71||||4"
 msgid "Wait, this teacher of yours...\r\nHe's a guy?"
-msgstr ""
+msgstr "Aspetta, questo tuo insegnante...\r\nÈ un uomo?"
 
 msgctxt "72||||4"
 msgid "Huh? 'Course he is? Who wouldn't\r\nadmire such a great guy?"
-msgstr ""
+msgstr "Eh? Certo che lo è? Chi non\r\nammirerebbe un uomo del genere?"
 
 msgctxt "73||||4"
 msgid "Drinks're on you tonight."
-msgstr ""
+msgstr "I drink li offri tu stasera."
 
 msgctxt "74||||4"
 msgid "Wait, what? Why?"
-msgstr ""
+msgstr "Aspetta, cosa? Perché?"
 
 msgctxt "75||||4"
 msgid "You led us on! We thought you were\r\ntalkin' 'bout romancing a female teacher!"
-msgstr ""
+msgstr "Ci hai illusi! Pensavamo che stessi parlando\r\ndi una storia d'amore con un'insegnante donna!"
 
 msgctxt "76||||4"
 msgid "Course not! What gave ya that idea!?"
-msgstr ""
+msgstr "Certo che no! Cosa vi ha dato quest'idea!?"
 
 msgctxt "77||||4"
 msgid "You're dense as a doornail.\r\nStick to baseball from now on."
-msgstr ""
+msgstr "Sei duro come un sasso.\r\nDa adesso in poi dedicati solo al baseball."
 
 msgctxt "78||||4"
 msgid "Aw, c'mon..."
-msgstr ""
-
+msgstr "Aw, andiamo..."

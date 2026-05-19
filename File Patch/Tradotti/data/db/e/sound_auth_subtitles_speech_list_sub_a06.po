@@ -9,385 +9,384 @@ msgstr ""
 
 msgctxt "0||||4"
 msgid "Excuse me!\r\nCan I ask you a question, sir?"
-msgstr ""
+msgstr "Mi scusi!\r\nPosso farle una domanda, signore?"
 
 msgctxt "1||||4"
 msgid "Hm? What?"
-msgstr ""
+msgstr "Mh? Cosa c'è?"
 
 msgctxt "2||||4"
 msgid "This is pretty random,\r\nbut... uh... are you a yakuza?"
-msgstr ""
+msgstr "È una cosa un po' a caso,\r\nma... ehm... lei è uno yakuza?"
 
 msgctxt "3||||4"
 msgid "Excuse me?"
-msgstr ""
+msgstr "Come, scusi?"
 
 msgctxt "4||||4"
 msgid "Sorry, I just, uh... I thought\r\nyou were a yakuza... Maybe...?"
-msgstr ""
+msgstr "Scusi, è solo che, ehm... pensavo\r\nfosse uno yakuza... Forse...?"
 
 msgctxt "5||||4"
 msgid "What do you have there?"
-msgstr ""
+msgstr "Cos'hai lì?"
 
 msgctxt "6||||4"
 msgid "Oh, this thing?\r\nIt's a selfie stick!"
-msgstr ""
+msgstr "Oh, questo coso?\r\nÈ un bastone per i selfie!"
 
 msgctxt "7||||4"
 msgid "Selfie... stick?"
-msgstr ""
+msgstr "Bastone... per i selfie?"
 
 msgctxt "8||||4"
 msgid "Moving on!\r\nYou're totally a yakuza, right? <font_kind=yakuza_italic>Right</font_kind>?"
-msgstr ""
+msgstr "Andiamo avanti!\r\nSei assolutamente uno yakuza, vero? <font_kind=yakuza_italic>Vero</font_kind>?"
 
 msgctxt "9||||4"
 msgid "I'm just a regular civilian.\r\nWhy would you even ask that?"
-msgstr ""
+msgstr "Sono solo un normale cittadino.\r\nPerché mai me lo chiedi?"
 
 msgctxt "10||||4"
 msgid "Huh!? Are you for real?\r\nYou don't look <font_kind=yakuza_italic>regular</font_kind> at all."
-msgstr ""
+msgstr "Eh!? Dici sul serio?\r\nNon sembri affatto <font_kind=yakuza_italic>normale</font_kind>."
 
 msgctxt "11||||4"
 msgid "It's a shame too,\r\ncause I've got some big plans, man."
-msgstr ""
+msgstr "È un vero peccato, amico,\r\nperché ho dei grandi progetti in mente."
 
 msgctxt "12||||4"
 msgid "What are you talking about?"
-msgstr ""
+msgstr "Di cosa stai parlando?"
 
 msgctxt "13||||4"
 msgid "Oh, how rude of me.\r\nMy name's Hiroshi Tsutsui."
-msgstr ""
+msgstr "Oh, che maleducato da parte mia.\r\nMi chiamo Hiroshi Tsutsui."
 
 msgctxt "14||||4"
 msgid "I'm rolling footage for a vid I'm calling\r\n\"Kamurocho Yakuza: Up Close and Personal.\""
-msgstr ""
+msgstr "Sto registrando delle riprese per un video che chiamerò\r\n\"Yakuza di Kamurocho: un incontro ravvicinato\"."
 
 msgctxt "15||||4"
 msgid "Well? Pretty dank, huh?\r\nMy views are gonna be through the roof!"
-msgstr ""
+msgstr "Ebbene? Niente male, eh?\r\nLe mie visualizzazioni andranno alle stelle!"
 
 msgctxt "16||||4"
 msgid "I'm not sure I understand, but in this town,\r\nit's safer not to try anything stupid."
-msgstr ""
+msgstr "Non sono sicuro di aver capito, ma in questa città\r\nè più sicuro non tentare nulla di stupido."
 
 msgctxt "17||||4"
 msgid "Huh? Safety's nothing if it means realizing\r\nmy dream of going viral on the net!"
-msgstr ""
+msgstr "Eh? La sicurezza non conta nulla se significa realizzare\r\nil mio sogno di diventare virale su internet!"
 
 msgctxt "18||||4"
 msgid "Well, no time for chit-chat, man!\r\nI gotta go find a real yakuza, stat! Lates!"
-msgstr ""
+msgstr "Beh, non c'è tempo per le chiacchiere, amico!\r\nDevo andare a cercare un vero yakuza, e alla svelta! Ci si becca!"
 
 msgctxt "19||||4"
 msgid "Are kids really that annoying now?"
-msgstr ""
+msgstr "I ragazzini di oggi sono davvero così fastidiosi?"
 
 msgctxt "20||||4"
 msgid "Whaaat's up, guys!? Time for another vid\r\nfrom your boy, the Tsutsui-kun Channel."
-msgstr ""
+msgstr "Cooome va, ragazzi!? È ora di un altro video\r\ndal vostro beniamino del Canale Tsutsui-kun."
 
 msgctxt "21||||4"
 msgid "So sad for us, we couldn't pin down a real\r\nyakuza last time."
-msgstr ""
+msgstr "Che tristezza per noi, l'ultima volta non\r\nsiamo riusciti a beccare un vero yakuza."
 
 msgctxt "22||||4"
 msgid "But like they say, every second counts!\r\nSo here we are at<symbol=em_dash_with_outline> KaBLAM! The batting cages!"
-msgstr ""
+msgstr "Ma come si dice, ogni secondo è prezioso!\r\nQuindi eccoci qua alle<symbol=em_dash_with_outline> SBAM! Gabbie di battuta!"
 
 msgctxt "23||||4"
 msgid "We're going in for a fresh start down here at\r\nthe Yoshida Batting Center... without permission."
-msgstr ""
+msgstr "Stiamo per ricominciare da zero qui al\r\nYoshida Batting Center... senza permesso."
 
 msgctxt "24||||4"
 msgid "Today, we're gonna test the <font_kind=yakuza_italic>so-called</font_kind> speed\r\nof their fastest fastball. Just how fast is it!?"
-msgstr ""
+msgstr "Oggi testeremo la <font_kind=yakuza_italic>cosiddetta</font_kind> velocità\r\ndella loro palla veloce più veloce. Ma quanto lo sarà davvero!?"
 
 msgctxt "25||||4"
 msgid "...What is this guy's problem?"
-msgstr ""
+msgstr "...Qual è il problema di questo tizio?"
 
 msgctxt "26||||4"
 msgid "All right, all right!\r\nC'mon, c'mon, c'mon!"
-msgstr ""
+msgstr "Va bene, va bene!\r\nForza, forza, forza!"
 
 msgctxt "27||||4"
 msgid "Ergh! Aghhh..."
-msgstr ""
+msgstr "Argh! Aghhh..."
 
 msgctxt "28||||4"
 msgid "Yep, he's serious..."
-msgstr ""
+msgstr "Sì, fa sul serio..."
 
 msgctxt "29||||4"
 msgid "That one was off the hook, huh?\r\nThis time, we're getting even closer!"
-msgstr ""
+msgstr "Quella è stata pazzesca, eh?\r\nStavolta ci andremo ancora più vicino!"
 
 msgctxt "30||||4"
 msgid "Yow! Aghhh..."
-msgstr ""
+msgstr "Ahi! Aghhh..."
 
 msgctxt "31||||4"
 msgid "...Is he serious?"
-msgstr ""
+msgstr "...Ma fa sul serio?"
 
 msgctxt "32||||4"
 msgid "Excuse me, sir! Why are you doing that?\r\nStop it, right now!"
-msgstr ""
+msgstr "Mi scusi, signore! Perché lo sta facendo?\r\nLa smetta, immediatamente!"
 
 msgctxt "33||||4"
 msgid "Q-Quiet, you! I paid the entry fee, so I can\r\ntake a ball to the balls if I want!"
-msgstr ""
+msgstr "S-Silenzio, tu! Ho pagato l'ingresso, quindi posso\r\nprendermi una palla sulle palle se mi va!"
 
 msgctxt "34||||4"
 msgid "You're out of your mind!\r\nI'm calling the cops!"
-msgstr ""
+msgstr "Lei è fuori di testa!\r\nChiamo la polizia!"
 
 msgctxt "35||||4"
 msgid "Don't be an asshole!"
-msgstr ""
+msgstr "Non fare lo stronzo!"
 
 msgctxt "36||||4"
 msgid "Hey, that's enough."
-msgstr ""
+msgstr "Ehi, adesso basta."
 
 msgctxt "37||||4"
 msgid "Huh? You're that totally-a-yakuza\r\ncivilian from before!"
-msgstr ""
+msgstr "Eh? Sei quel cittadino assolutamente-uno-yakuza\r\ndi prima!"
 
 msgctxt "38||||4"
 msgid "Shooting another video? Take this\r\nridiculous hobby of yours elsewhere."
-msgstr ""
+msgstr "Stai girando un altro video? Vai a fare\r\nquesto tuo ridicolo passatempo da un'altra parte."
 
 msgctxt "39||||4"
 msgid "Pffft. Whatever, I already got the bit.\r\nI'll be outta here in a sec."
-msgstr ""
+msgstr "Pffft. Fa niente, ho già registrato la clip.\r\nTolgo il disturbo tra un secondo."
 
 msgctxt "40||||4"
 msgid "This is gonna be my breakout vid...!\r\nThe birth of the viral sensation, Tsutsui!"
-msgstr ""
+msgstr "Questo sarà il mio video di lancio...!\r\nLa nascita della star virale, Tsutsui!"
 
 msgctxt "41||||4"
 msgid "Hey, we weren't done here!\r\nMan, that guy's got a screw loose...!"
-msgstr ""
+msgstr "Ehi, non avevamo mica finito qui!\r\nCavolo, quel tizio ha una rotella fuori posto...!"
 
 msgctxt "43||||4"
 msgid "Him again..."
-msgstr ""
+msgstr "Ancora lui..."
 
 msgctxt "44||||4"
 msgid "Dammit, what the hell!?"
-msgstr ""
+msgstr "Dannazione, ma che diavolo!?"
 
 msgctxt "45||||4"
 msgid "Hey."
-msgstr ""
+msgstr "Ehi."
 
 msgctxt "46||||4"
 msgid "Hm? Oh, it's you again...!"
-msgstr ""
+msgstr "Mh? Oh, sei di nuovo tu...!"
 
 msgctxt "47||||4"
 msgid "Don't tell me<symbol=em_dash_with_outline>you're getting yourself\r\ninto trouble over here, too?"
-msgstr ""
+msgstr "Non dirmi che<symbol=em_dash_with_outline>ti stai mettendo\r\nnei guai anche qui?"
 
 msgctxt "48||||4"
 msgid "Well, that's rude!\r\nI'm just getting the creative juices flowing!"
-msgstr ""
+msgstr "Beh, che maleducato!\r\nSto solo facendo scorrere l'ispirazione creativa!"
 
 msgctxt "49||||4"
 msgid "Still... This blows. My crazy \"Fastball Fiasco\"\r\nvideo barely broke a couple hundred views!"
-msgstr ""
+msgstr "Eppure... Che schifo. Il mio pazzo video \"Fiasco della palla veloce\"\r\nha superato a malapena un paio di centinaia di visualizzazioni!"
 
 msgctxt "50||||4"
 msgid "Maybe you see yourself as some kind of star,\r\nbut all you're doing is causing trouble."
-msgstr ""
+msgstr "Forse ti vedi come una specie di star,\r\nma tutto quello che stai facendo è causare problemi."
 
 msgctxt "51||||4"
 msgid "I understand how you feel, but if you want to\r\nget famous, you need to do it the right way."
-msgstr ""
+msgstr "Capisco come ti senti, ma se vuoi diventare\r\nfamoso, devi farlo nel modo giusto."
 
 msgctxt "52||||4"
 msgid "Keep your lectures to yourself.\r\nMy next vid... That'll be the one!"
-msgstr ""
+msgstr "Tieniti le tue ramanzine per te.\r\nIl mio prossimo video... Quello sarà la svolta!"
 
 msgctxt "53||||4"
 msgid "Oh come on..."
-msgstr ""
+msgstr "Oh, andiamo..."
 
 msgctxt "54||||4"
 msgid "S-Someone help me!\r\nAnyone!"
-msgstr ""
+msgstr "Q-Qualcuno mi aiuti!\r\nChiunque!"
 
 msgctxt "55||||4"
 msgid "What the...?"
-msgstr ""
+msgstr "Ma che...?"
 
 msgctxt "56||||4"
 msgid "Somebody!"
-msgstr ""
+msgstr "Qualcuno!"
 
 msgctxt "57||||4"
 msgid "Anybody!"
-msgstr ""
+msgstr "Chiunque!"
 
 msgctxt "59||||4"
 msgid "Him again..."
-msgstr ""
+msgstr "Di nuovo lui..."
 
 msgctxt "60||||4"
 msgid "Help meee!"
-msgstr ""
+msgstr "Aiutatemiii!"
 
 msgctxt "61||||4"
 msgid "...What the hell was he thinking?"
-msgstr ""
+msgstr "...A cosa diavolo stava pensando?"
 
 msgctxt "62||||4"
 msgid "You dumbass!\r\nTryin' such an obvious stunt on us!"
-msgstr ""
+msgstr "Brutto coglione!\r\nProvare una trovata così palese con noi!"
 
 msgctxt "63||||4"
 msgid "I-I'm so sorry..."
-msgstr ""
+msgstr "M-Mi dispiace tanto..."
 
 msgctxt "64||||4"
 msgid "Hey, you!\r\nSave me! Please!"
-msgstr ""
+msgstr "Ehi, tu!\r\nSalvami! Ti prego!"
 
 msgctxt "65||||4"
 msgid "Looks like you're finally getting the video you want.\r\nLet me guess<symbol=em_dash_with_outline>this will get you tons of views?"
-msgstr ""
+msgstr "Sembra che tu stia finalmente ottenendo il video che volevi.\r\nFammi indovinare<symbol=em_dash_with_outline>questo ti farà fare un sacco di visualizzazioni?"
 
 msgctxt "66||||4"
 msgid "Never mind that! I'm over all that stuff!\r\nJust please get me down!"
-msgstr ""
+msgstr "Lascia perdere! Ho chiuso con tutta quella roba!\r\nTi prego, tirami giù!"
 
 msgctxt "67||||4"
 msgid "Only if you erase all your videos and promise you'll\r\nnever come back to this city. How does that sound?"
-msgstr ""
+msgstr "Solo se cancelli tutti i tuoi video e prometti di non\r\ntornare mai più in questa città. Che ne dici?"
 
 msgctxt "68||||4"
 msgid "It's a deal! I promise!\r\nJust help me already!"
-msgstr ""
+msgstr "Affare fatto! Lo prometto!\r\nOra però aiutami!"
 
 msgctxt "69||||4"
 msgid "All right, then.\r\nHang tight!"
-msgstr ""
+msgstr "D'accordo, allora.\r\nTieni duro!"
 
 msgctxt "71||||4"
 msgid "What? You look perfectly fine."
-msgstr ""
+msgstr "Cosa? Sembri in perfetta forma."
 
 msgctxt "72||||4"
 msgid "Oh, sorry, man.\r\nI didn't mean to draw attention."
-msgstr ""
+msgstr "Oh, scusa, amico.\r\nNon volevo attirare l'attenzione."
 
 msgctxt "73||||4"
 msgid "I was just teachin' this punk a lesson."
-msgstr ""
+msgstr "Stavo solo dando una lezione a questo teppistello."
 
 msgctxt "74||||4"
 msgid "Right...\r\nWell, it's my bad for barging in here, too."
-msgstr ""
+msgstr "Certo...\r\nBeh, è anche colpa mia per aver fatto irruzione."
 
 msgctxt "75||||4"
 msgid "I got it! Dangling upside-down at\r\nthe mercy of the yakuza... Sweet!"
-msgstr ""
+msgstr "Ce l'ho! Appeso a testa in giù alla\r\nmercé della yakuza... Fantastico!"
 
 msgctxt "76||||4"
 msgid "Such raw intensity! This is my breakthrough!\r\nThis is trending material!"
-msgstr ""
+msgstr "Un'intensità così cruda! Questa è la mia svolta!\r\nQuesto è materiale da tendenze!"
 
 msgctxt "77||||4"
 msgid "Hey, don't forget our deal."
-msgstr ""
+msgstr "Ehi, non dimenticare il nostro accordo."
 
 msgctxt "78||||4"
 msgid "Huh? Pretty sure that was only if you saved me."
-msgstr ""
+msgstr "Eh? Sono abbastanza sicuro valesse solo se mi avessi salvato tu."
 
 msgctxt "79||||4"
 msgid "(This guy...)"
-msgstr ""
+msgstr "(Questo tizio...)"
 
 msgctxt "80||||4"
 msgid "Hey, kid. I don't wanna tell you what to do,\r\nbut you should probably delete that."
-msgstr ""
+msgstr "Ehi, ragazzino. Non voglio dirti cosa fare,\r\nma probabilmente faresti meglio a cancellarlo."
 
 msgctxt "81||||4"
 msgid "No way! Uploading this baby'll get me 10k views!\r\nOr maybe... even the legendary million!"
-msgstr ""
+msgstr "Scordatelo! Caricare questo gioiellino mi frutterà 10k di visualizzazioni!\r\nO forse... persino il leggendario milione!"
 
 msgctxt "82||||4"
 msgid "Hell yeah! Watch out world,\r\nhere comes the Tsutsui-kun Channel!"
-msgstr ""
+msgstr "E vai! Attento mondo,\r\necco che arriva il Canale Tsutsui-kun!"
 
 msgctxt "83||||4"
 msgid "Your friend here has a point.\r\nDelete the video, kid."
-msgstr ""
+msgstr "Il tuo amico qui ha ragione.\r\nCancella il video, ragazzino."
 
 msgctxt "84||||4"
 msgid "I told you I can't do that!\r\nWhat, you guys jealous or something!?"
-msgstr ""
+msgstr "Vi ho detto che non posso farlo!\r\nCosa, siete gelosi o roba simile!?"
 
 msgctxt "85||||4"
 msgid "This is incredible, though.\r\nAfter \"Tsutsui-kun's Yakuza Mishap\" goes viral..."
-msgstr ""
+msgstr "Questo è incredibile, però.\r\nDopo che \"L'incidente di Tsutsui-kun con la yakuza\" diventerà virale..."
 
 msgctxt "86||||4"
 msgid "...I'll put out \"Double Yakuza Takedown\"!\r\nIt'll be the perfect follow-up!"
-msgstr ""
+msgstr "...farò uscire \"Doppio k.o. della yakuza\"!\r\nSarà il seguito perfetto!"
 
 msgctxt "87||||4"
 msgid "I've had it up to here with you.\r\nTime to teach you a lesson you won't forget!"
-msgstr ""
+msgstr "Ne ho fin sopra i capelli di te.\r\nÈ tempo di darti una lezione che non dimenticherai!"
 
 msgctxt "88||||4"
 msgid "So? How'd your video turn out?"
-msgstr ""
+msgstr "Allora? Com'è venuto il tuo video?"
 
 msgctxt "89||||4"
 msgid "Either way, you're shit outta luck. You're gonna\r\nhave to delete that data right now. Cool?"
-msgstr ""
+msgstr "In ogni caso, ti è andata di merda. Dovrai\r\ncancellare quei dati in questo istante. Chiaro?"
 
 msgctxt "90||||4"
 msgid "Dammit..."
-msgstr ""
+msgstr "Maledizione..."
 
 msgctxt "91||||4"
 msgid "I've got a good idea for a replacement, though."
-msgstr ""
+msgstr "Però ho una buona idea per un video sostitutivo."
 
 msgctxt "92||||4"
 msgid "Huh? You do?"
-msgstr ""
+msgstr "Eh? Davvero?"
 
 msgctxt "93||||4"
 msgid "Yeah. Here's the title."
-msgstr ""
+msgstr "Sì. Ecco il titolo."
 
 msgctxt "94||||4"
 msgid "\"An Annoying Punk Apologizes For Everything.\"\r\nNow, shall we get filming?"
-msgstr ""
+msgstr "\"Un fastidioso teppistello si scusa per tutto.\"\r\nE ora, che ne dici di iniziare a girare?"
 
 msgctxt "95||||4"
 msgid "Oh, that's a good one.\r\nYou'll get maaaad views."
-msgstr ""
+msgstr "Oh, questa è buona.\r\nFarai un caaasino di visualizzazioni."
 
 msgctxt "96||||4"
 msgid "I-I'm sorry...! I put myself in so much danger,\r\nand this is how it turns out..."
-msgstr ""
+msgstr "M-Mi dispiace...! Mi sono cacciato in un pericolo così grande,\r\ned ecco come va a finire..."
 
 msgctxt "97||||4"
 msgid "My influencer days are over...!"
-msgstr ""
+msgstr "I miei giorni da influencer sono finiti...!"
 
 msgctxt "98||||4"
 msgid "I even told him to go about it the right way...\r\nWhat an idiot."
-msgstr ""
-
+msgstr "Gli avevo persino detto di farlo nel modo giusto...\r\nChe idiota."

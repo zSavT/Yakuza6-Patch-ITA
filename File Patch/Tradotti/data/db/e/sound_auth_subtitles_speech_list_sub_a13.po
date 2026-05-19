@@ -9,285 +9,284 @@ msgstr ""
 
 msgctxt "0||||4"
 msgid "Hey, you there."
-msgstr ""
+msgstr "Ehi, tu lì."
 
 msgctxt "1||||4"
 msgid "Hm?"
-msgstr ""
+msgstr "Mh?"
 
 msgctxt "2||||4"
 msgid "Heh, you interested in a game of darts?"
-msgstr ""
+msgstr "Heh, ti interessa una partita a freccette?"
 
 msgctxt "3||||4"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "4||||4"
 msgid "I'm really itchin' to play. It's all I can think about.\r\nThat's why I'm hangin' around in this bar."
-msgstr ""
+msgstr "Muoio dalla voglia di giocare. È l'unica cosa a cui riesco a pensare.\r\nEcco perché sto bazzicando in questo bar."
 
 msgctxt "5||||4"
 msgid "Nobody's been interested in playin' me, though.\r\nBut you seem like you're up for a challenge!"
-msgstr ""
+msgstr "Nessuno ha voluto giocare con me, però.\r\nMa tu sembri il tipo pronto ad accettare la sfida!"
 
 msgctxt "6||||4"
 msgid "This guy is a real piece of work..."
-msgstr ""
+msgstr "(Questo tizio è un bel fenomeno...)"
 
 msgctxt "7||||4"
 msgid "So, how 'bout it?"
-msgstr ""
+msgstr "Allora, che ne dici?"
 
 msgctxt "8||||4"
 msgid "All right, then.\r\nI guess I have time for a round."
-msgstr ""
+msgstr "D'accordo, allora.\r\nImmagino di avere tempo per una partita."
 
 msgctxt "9||||4"
 msgid "Oh! You're more chill than ya let on, man!\r\nThe name's Akaishizawa. Nice to meet ya."
-msgstr ""
+msgstr "Oh! Sei più sciallo di quel che sembri, amico!\r\nIl mio nome è Akaishizawa. Piacere di conoscerti."
 
 msgctxt "10||||4"
 msgid "I'm Kiryu."
-msgstr ""
+msgstr "Sono Kiryu."
 
 msgctxt "11||||4"
 msgid "Sweet! C'mon, Kiryu-chi!\r\nLet's get tossin'!"
-msgstr ""
+msgstr "Fantastico! Dai, Kiryu-chi!\r\nIniziamo a tirare!"
 
 msgctxt "12||||4"
 msgid "Sorry, but I'm too busy.\r\nMaybe some other time."
-msgstr ""
+msgstr "Scusa, ma sono troppo occupato.\r\nMagari un'altra volta."
 
 msgctxt "13||||4"
 msgid "Huhhh? C'mon, man!"
-msgstr ""
+msgstr "Ehhh? Andiamo, amico!"
 
 msgctxt "14||||4"
 msgid "Whatever. I'll be chillin' here for a bit.\r\nJust talk to me if you wanna throw down!"
-msgstr ""
+msgstr "Fa niente. Me ne starò qui a rilassarmi per un po'.\r\nFammi un fischio se ti va di fare una partita!"
 
 msgctxt "15||||4"
 msgid "Oh! You want some of this?\r\nI'm ready to play if you are!"
-msgstr ""
+msgstr "Oh! Vuoi un po' d'azione?\r\nIo sono pronto a giocare se lo sei tu!"
 
 msgctxt "16||||4"
 msgid "You're damn good, Kiryu-chi!"
-msgstr ""
+msgstr "Sei dannatamente bravo, Kiryu-chi!"
 
 msgctxt "18||||4"
 msgid "Yay! I'm the best!"
-msgstr ""
+msgstr "Sì! Sono il migliore!"
 
 msgctxt "19||||4"
 msgid "Ugh..."
-msgstr ""
+msgstr "Ugh..."
 
 msgctxt "20||||4"
 msgid "Paul-san! Can I get your autograph!?"
-msgstr ""
+msgstr "Paul-san! Posso avere il suo autografo!?"
 
 msgctxt "21||||4"
 msgid "Please let me shake your hand, Paul-san!"
-msgstr ""
+msgstr "La prego, mi faccia stringere la sua mano, Paul-san!"
 
 msgctxt "22||||4"
 msgid "Hm?"
-msgstr ""
+msgstr "Mh?"
 
 msgctxt "23||||4"
 msgid "What're they so excited about?"
-msgstr ""
+msgstr "Per cosa sono tutti così esaltati?"
 
 msgctxt "24||||4"
 msgid "No way...!\r\nThat's Paul Lim!"
-msgstr ""
+msgstr "Non ci credo...!\r\nQuello è Paul Lim!"
 
 msgctxt "25||||4"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "26||||4"
 msgid "Whoa, it's really him!"
-msgstr ""
+msgstr "Whoa, è davvero lui!"
 
 msgctxt "27||||4"
 msgid "Hey, who <font_kind=yakuza_italic>is</font_kind> this guy?\r\nPaul something or other?"
-msgstr ""
+msgstr "Ehi, chi <font_kind=yakuza_italic>sarebbe</font_kind> questo tizio?\r\nPaul qualcosa del genere?"
 
 msgctxt "28||||4"
 msgid "Huh!? Ya can't be a real dart slinger\r\nif you don't know who Paul Lim is!"
-msgstr ""
+msgstr "Eh!? Non puoi essere un vero giocatore di freccette\r\nse non sai chi è Paul Lim!"
 
 msgctxt "29||||4"
 msgid "Well, I've never heard of him."
-msgstr ""
+msgstr "Beh, non l'ho mai sentito nominare."
 
 msgctxt "30||||4"
 msgid "Listen up. I'll tell ya 'bout Paul Lim."
-msgstr ""
+msgstr "Ascolta bene. Ti parlerò io di Paul Lim."
 
 msgctxt "31||||4"
 msgid "He was the first person <font_kind=yakuza_italic>ever</font_kind> to throw\r\na perfect game in a major international tourney."
-msgstr ""
+msgstr "È stato il primissimo <font_kind=yakuza_italic>in assoluto</font_kind> a fare\r\nuna partita perfetta in un importante torneo internazionale."
 
 msgctxt "32||||4"
 msgid "For anyone into the darts scene, he's like a god.\r\nThis guy's a livin' legend, man!"
-msgstr ""
+msgstr "Per chiunque segua la scena delle freccette, è come un dio.\r\nQuesto tizio è una leggenda vivente, amico!"
 
 msgctxt "33||||4"
 msgid "Huh. So the old man has some talent, then."
-msgstr ""
+msgstr "Mh. Quindi il vecchietto ha del talento, eh."
 
 msgctxt "34||||4"
 msgid "Hey, don't talk about him like that!\r\nWhat if he hears ya mouthin' off!?"
-msgstr ""
+msgstr "Ehi, non parlare di lui in quel modo!\r\nE se ti sentisse sparlare alle sue spalle!?"
 
 msgctxt "35||||4"
 msgid "Shit shit shit! He's comin' this way!\r\nThis is all your fault, man!"
-msgstr ""
+msgstr "Merda, merda, merda! Sta venendo da questa parte!\r\nÈ tutta colpa tua, amico!"
 
 msgctxt "36||||4"
 msgid "[I've been watching you guys play.]"
-msgstr ""
+msgstr "[Vi ho guardati giocare.]"
 
 msgctxt "37||||4"
 msgid "Is that English...? What's he saying?"
-msgstr ""
+msgstr "È inglese...? Cosa sta dicendo?"
 
 msgctxt "38||||4"
 msgid "Ya serious!?"
-msgstr ""
+msgstr "Dici sul serio!?"
 
 msgctxt "39||||4"
 msgid "Hm? You speak English?"
-msgstr ""
+msgstr "Mh? Parli inglese?"
 
 msgctxt "40||||4"
 msgid "Yeah, I actually lived outta the country for a bit.\r\nAin't nobody as good at English as me."
-msgstr ""
+msgstr "Sì, in realtà ho vissuto fuori dal paese per un po'.\r\nNessuno è bravo in inglese quanto me."
 
 msgctxt "41||||4"
 msgid "Interesting.\r\nWell then, what did he say?"
-msgstr ""
+msgstr "Interessante.\r\nE allora, cos'ha detto?"
 
 msgctxt "42||||4"
 msgid "Apparently he was keepin'\r\nan eye on our game!"
-msgstr ""
+msgstr "A quanto pare stava tenendo\r\nd'occhio la nostra partita!"
 
 msgctxt "43||||4"
 msgid "[You've got ways to go, but I can tell you,\r\nyou've got a talent for this.]"
-msgstr ""
+msgstr "[Hai ancora molta strada da fare, ma posso dirti che\r\nhai un talento per questo.]"
 
 msgctxt "44||||4"
 msgid "Huh!? For real!?"
-msgstr ""
+msgstr "Eh!? Dici sul serio!?"
 
 msgctxt "45||||4"
 msgid "Hey, what did he say?"
-msgstr ""
+msgstr "Ehi, cos'ha detto?"
 
 msgctxt "46||||4"
 msgid "He was sayin' I'm still inexperienced,\r\nbut I'm gonna be a star someday!"
-msgstr ""
+msgstr "Stava dicendo che sono ancora inesperto,\r\nma che un giorno diventerò una stella!"
 
 msgctxt "47||||4"
 msgid "Mannn, I can't believe <font_kind=yakuza_italic>the</font_kind> Paul Lim's complimentin' me!\r\nPinch me, I'm dreamin'! Thanks, man!"
-msgstr ""
+msgstr "Caaavolo, non riesco a credere che <font_kind=yakuza_italic>il</font_kind> Paul Lim mi stia facendo dei complimenti!\r\nPizzicatemi, sto sognando! Grazie, amico!"
 
 msgctxt "48||||4"
 msgid "[Ah... Not you.]"
-msgstr ""
+msgstr "[Ah... Non tu.]"
 
 msgctxt "49||||4"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "50||||4"
 msgid "[You.]"
-msgstr ""
+msgstr "[Tu.]"
 
 msgctxt "51||||4"
 msgid "What? <font_kind=yakuza_italic>Me</font_kind>?"
-msgstr ""
+msgstr "Cosa? <font_kind=yakuza_italic>Io</font_kind>?"
 
 msgctxt "52||||4"
 msgid "[Yes.\r\nWhat's your name?]"
-msgstr ""
+msgstr "[Sì.\r\nCome ti chiami?]"
 
 msgctxt "53||||4"
 msgid "[Name?]\r\nIt's, uh... Kiryu."
-msgstr ""
+msgstr "[Il nome?]\r\nÈ, ehm... Kiryu."
 
 msgctxt "54||||4"
 msgid "[You have the potential\r\nto be a great player, Kiryu-san.]"
-msgstr ""
+msgstr "[Hai il potenziale per essere\r\nun grande giocatore, Kiryu-san.]"
 
 msgctxt "55||||4"
 msgid "[I hope you'll continue to enjoy darts\r\nand keep polishing your skills.]"
-msgstr ""
+msgstr "[Spero che continuerai a divertirti con le freccette\r\ne ad affinare le tue abilità.]"
 
 msgctxt "56||||4"
 msgid "He says ya got some serious potential, man."
-msgstr ""
+msgstr "Dice che hai un potenziale pazzesco, amico."
 
 msgctxt "57||||4"
 msgid "Oh, and ya should keep playin' darts\r\nif you wanna get crazy good."
-msgstr ""
+msgstr "Oh, e che dovresti continuare a giocare a freccette\r\nse vuoi diventare fottutamente bravo."
 
 msgctxt "58||||4"
 msgid "Hm..."
-msgstr ""
+msgstr "Mh..."
 
 msgctxt "59||||4"
 msgid "[I look forward to the day when\r\nwe can have a heated match.]"
-msgstr ""
+msgstr "[Non vedo l'ora che arrivi il giorno in cui\r\npotremo fare un'accesa partita.]"
 
 msgctxt "60||||4"
 msgid "He said he's hopin' you two can square off someday.\r\nOh, and \"hahahahaha\"!"
-msgstr ""
+msgstr "Ha detto che spera che un giorno voi due possiate sfidarvi.\r\nOh, e \"hahahahaha\"!"
 
 msgctxt "61||||4"
 msgid "Hot damn! So freakin' cool, man!\r\nPaul Lim wants to play against <font_kind=yakuza_italic>you</font_kind> of all people!"
-msgstr ""
+msgstr "Porca miseria! È una figata pazzesca!\r\nPaul Lim vuole giocare contro di <font_kind=yakuza_italic>te</font_kind>, tra tutti quanti!"
 
 msgctxt "62||||4"
 msgid "I'm damn jealous of ya!"
-msgstr ""
+msgstr "Sono dannatamente geloso di te!"
 
 msgctxt "63||||4"
 msgid "Getting complimented by some random old man\r\ndoesn't feel that exciting to me."
-msgstr ""
+msgstr "Ricevere complimenti da un vecchio a caso\r\nnon mi sembra così entusiasmante."
 
 msgctxt "64||||4"
 msgid "But y'know, I had the same thought when we were playin'.\r\nYou're a goddamn genius, Kiryu-chi."
-msgstr ""
+msgstr "Però sai, ho pensato la stessa cosa mentre giocavamo.\r\nSei un fottuto genio, Kiryu-chi."
 
 msgctxt "65||||4"
 msgid "Really? I'm not sure about that."
-msgstr ""
+msgstr "Davvero? Non ne sarei così sicuro."
 
 msgctxt "66||||4"
 msgid "C'mon! If both me <font_kind=yakuza_italic>and</font_kind> Paul think so,\r\nit's gotta be true!"
-msgstr ""
+msgstr "Andiamo! Se lo pensiamo sia io <font_kind=yakuza_italic>che</font_kind> Paul,\r\ndeve essere vero per forza!"
 
 msgctxt "67||||4"
 msgid "Oh, I almost forgot.\r\nAs a thanks for playin' me, ya can have these."
-msgstr ""
+msgstr "Oh, quasi dimenticavo.\r\nCome ringraziamento per aver giocato con me, tieni queste."
 
 msgctxt "68||||4"
 msgid "If ya keep practicin', practicin', practicin',\r\nyou're gonna be a pro in no time flat."
-msgstr ""
+msgstr "Se continui a fare pratica, pratica, pratica,\r\ndiventerai un professionista in un battibaleno."
 
 msgctxt "69||||4"
 msgid "Not sure you're ever gonna beat\r\nthe legendary Paul Lim, though!"
-msgstr ""
+msgstr "Non sono sicuro che riuscirai mai a battere\r\nil leggendario Paul Lim, però!"
 
 msgctxt "70||||4"
 msgid "The living legend, Paul Lim..."
-msgstr ""
+msgstr "La leggenda vivente, Paul Lim..."
 
 msgctxt "71||||4"
 msgid "I should play some more if I get the chance.\r\nMaybe someday I can be a darts legend, too..."
-msgstr ""
-
+msgstr "Dovrei giocare un po' di più se ne avrò l'occasione.\r\nForse un giorno anch'io potrò essere una leggenda delle freccette..."
