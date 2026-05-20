@@ -66,7 +66,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "alpha v0.0.2"
+VERSIONE = "Beta v0.0.3"
 ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
 CREDITI = "Patch By SavT"
@@ -83,10 +83,10 @@ gli elementi che la formano non sono dotati di autonomia funzionale.
 6) Per la creazione di tale patch non è stato necessario violare sistemi di protezione informatica,
    né dalla sua applicazione viene messa in atto tale condotta.
 7) La patch è un prodotto amatoriale, pertanto l'autore declina la responsabilità di possibili malfunzionamenti;
-l'utilizzo della stessa è da intendersi a vostro rischio e pericolo.
+   l'utilizzo della stessa è da intendersi a vostro rischio e pericolo.
 8) Si ricorda infine che i diritti sul gioco (software) appartengono ai rispettivi proprietari.
-This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
-All game rights, intellectual property, logo/names and movies/images are property of Bandai Namco Entertainment Inc.
+This patch does not contain copyrighted material, has no functional autonomy, and you must have your own original own copy to apply it.
+All game rights, intellectual property, logo/names and movies/images are property of SEGA.
 """
 YT_URL = "https://www.youtube.com/@zSavT"
 GH_URL = "https://github.com/zSavT/Yakuza6-Patch-ITA"
@@ -934,7 +934,7 @@ class InstallScreen(QWidget):
         path_label.setObjectName("SubtitleLabel")
         
         self.path_input = QLineEdit()
-        self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 6")
+        self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 6 - The Song of Life")
         
         self.browse_btn = QPushButton()
         self.browse_btn.setObjectName("BrowseButton")

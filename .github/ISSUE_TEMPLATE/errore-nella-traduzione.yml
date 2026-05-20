@@ -46,8 +46,12 @@ body:
   - type: textarea
     id: save-file
     attributes:
-      label: Allega file salvataggio della porzione del gioco dove è presente l'errore.
-      description: Allega il file del salvataggio del gioco, per permettermi di analizzare più facilmente l'errore. I salvataggi del gioco sono presenti in "C:\Program Files (x86)\Steam\userdata\Steam User ID Number\1105510\remote".
+      label: Allega file di salvataggio (Opzionale)
+      description: |
+        Se possibile, allega il file di salvataggio per aiutarmi a riprodurre l'errore.
+        **Steam:** `C:\Program Files (x86)\Steam\userdata\[TUO_ID_UTENTE_STEAM]\1388590\remote`
+        **Microsoft Store:** `%LOCALAPPDATA%\Packages\SEGAofAmericaInc.Yakuza6PC_s751p9cej88mt\LocalCache\Local\SEGA\Yakuza6\`
+        **GOG:** `%LOCALAPPDATA%\GOG.com\Galaxy\Applications\56296606511683989\Storage\Shared\Files\`
       placeholder: "Allega file..."
     validations:
       required: false

@@ -30,9 +30,23 @@ L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare 
 
 ![](img/Installer2.png)
 
-Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 5 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
+Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 6 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
 
 ![](img/Installer3.png)
+
+## Dove si trovano i salvataggi?
+
+La posizione dei file di salvataggio di Yakuza 6: The Song of Life su PC può variare a seconda della piattaforma e del metodo di installazione:
+
+*   **Steam:** I file di salvataggio principali si trovano in:
+    `&lt;Percorso installazione Steam&gt;\userdata\&lt;Tuo ID Steam&gt;\1388590\remote\`
+*   **GOG.com:** I salvataggi si trovano tipicamente in:
+    `%LOCALAPPDATA%\GOG.com\Galaxy\Applications\56296606511683989\Storage\Shared\Files\`
+*   **Microsoft Store:** I file di salvataggio sono memorizzati in:
+    `%LOCALAPPDATA%\Packages\SEGAofAmericaInc.Yakuza6PC_s751p9cej88mt\LocalCache\Local\SEGA\Yakuza6\`
+*   **Cartelle Alternative/Locali:** Alcune versioni potrebbero anche salvare i dati in:
+    `%APPDATA%\Sega\Yakuza6\` (Windows) o `%LOCALAPPDATA%\Yakuza 6: The Song of Life\SaveGames\`
+
 
 ## Tool di decodifica
 
@@ -150,7 +164,7 @@ Si ringrazia
 
 ## Copyright
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your own original copy to apply it.
-All game rights, intellectual property, logo/names, and movies/images are property of Sega Corporation.
+All game rights, intellectual property, logo/names, and movies/images are property of SEGA.
 
 # Altri progetti di traduzione realizzati da me
 [Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
