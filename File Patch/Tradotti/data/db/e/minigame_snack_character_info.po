@@ -9,27 +9,27 @@ msgstr ""
 
 msgctxt "1||mama||name"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 msgctxt "2||guest_a||name"
 msgid "Hatakeyama-san"
-msgstr ""
+msgstr "Hatakeyama-san"
 
 msgctxt "3||guest_b||name"
 msgid "Akiyoshi-san"
-msgstr ""
+msgstr "Akiyoshi-san"
 
 msgctxt "4||guest_c||name"
 msgid "Gen-san"
-msgstr ""
+msgstr "Gen-san"
 
 msgctxt "5||guest_d||name"
 msgid "Ando-san"
-msgstr ""
+msgstr "Ando-san"
 
 msgctxt "6||guest_e||name"
 msgid "Kaneko-san"
-msgstr ""
+msgstr "Kaneko-san"
 
 msgctxt "8||darts||name"
 msgid "Darts"
@@ -37,5 +37,6 @@ msgstr "Freccette"
 
 msgctxt "9||karaoke||name"
 msgid "Karaoke"
-msgstr ""
+msgstr "Karaoke"
+
 
