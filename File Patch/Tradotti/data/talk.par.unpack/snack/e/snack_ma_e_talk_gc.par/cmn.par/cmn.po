@@ -477,6 +477,11 @@ msgctxt "Offset_0x29E80_Len_44"
 msgid "Not the bar's ranking! The national ranking!"
 msgstr "Non il grado del bar! Quello nazionale!"
 
+#. Max bytes: 44
+msgctxt "Offset_0x2A070_Len_44"
+msgid "Not the bar's ranking! The national ranking!"
+msgstr "Non il grado del bar! Quello nazionale!"
+
 #. Max bytes: 63
 msgctxt "Offset_0x2A3F0_Len_63"
 msgid "That machine ranks your score against the whole country online."
