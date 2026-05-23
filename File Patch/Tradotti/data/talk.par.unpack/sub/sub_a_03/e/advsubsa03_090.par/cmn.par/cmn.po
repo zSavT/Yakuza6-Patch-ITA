@@ -20,14 +20,14 @@ msgstr "P= @5:"
 #. Max bytes: 13
 msgctxt "Offset_0x44864_Len_13"
 msgid "So Much More!"
-msgstr "Molto di piu!"
+msgstr "So Much More!"
 
 #. Max bytes: 13
 msgctxt "Offset_0x448A4_Len_13"
 msgid "So Much Less!"
-msgstr "Molto meno!"
+msgstr "So Much Less!"
 
 #. Max bytes: 16
 msgctxt "Offset_0x448E4_Len_16"
 msgid "Please, No More!"
-msgstr "Basta, ti prego!"
+msgstr "Please, No More!"
