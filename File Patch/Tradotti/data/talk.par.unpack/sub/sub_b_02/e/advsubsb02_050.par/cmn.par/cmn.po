@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 4
+msgctxt "Offset_0x528C_Len_4"
+msgid " є?"
+msgstr ""
+
+#. Max bytes: 47
+msgctxt "Offset_0x21B7C_Len_47"
+msgid "I want to join the Order of Mosan Chohip Istes."
+msgstr ""
+
+#. Max bytes: 48
+msgctxt "Offset_0x21BBC_Len_48"
+msgid "I want to join the Order of Miran Choakht Onest."
+msgstr ""
+
+#. Max bytes: 48
+msgctxt "Offset_0x21BFC_Len_48"
+msgid "I want to join the Order of Munan Chohept Onast."
+msgstr ""
+

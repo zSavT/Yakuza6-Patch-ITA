@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||option||name"
+msgid "Game Settings"
+msgstr "Impostazioni di gioco"
+
+msgctxt "2||save||name"
+msgid "Save"
+msgstr "Salva"
+
+msgctxt "3||load||name"
+msgid "Load"
+msgstr "Carica"
+
+msgctxt "4||return_to_title||name"
+msgid "Quit Game"
+msgstr "Esci dal gioco"
+
+msgctxt "5||audio_option||name"
+msgid "Audio Settings"
+msgstr "Impostazioni audio"
+
+msgctxt "6||profile||name"
+msgid "Character Profiles"
+msgstr "Profili dei personaggi"
+
+msgctxt "7||controller_guide||name"
+msgid "Controls"
+msgstr "Comandi"
+
+msgctxt "8||pause_graphics_settings||name"
+msgid "Graphics Settings"
+msgstr "Impostazioni grafiche"
+
+msgctxt "9||pause_controls_settings||name"
+msgid "Controls"
+msgstr "Comandi"
+
+msgctxt "1||option||explanation"
+msgid "Change settings related to gameplay."
+msgstr "Modifica le impostazioni relative al gioco."
+
+msgctxt "2||save||explanation"
+msgid "Select the file you would like to save current game progress to."
+msgstr "Seleziona il file su cui desideri salvare i progressi di gioco attuali."
+
+msgctxt "3||load||explanation"
+msgid "Load Game."
+msgstr "Carica una partita."
+
+msgctxt "4||return_to_title||explanation"
+msgid "Quit playing and return to the title screen."
+msgstr "Smetti di giocare e torna alla schermata del titolo."
+
+msgctxt "5||audio_option||explanation"
+msgid "Change settings related to audio."
+msgstr "Modifica le impostazioni audio."
+
+msgctxt "6||profile||explanation"
+msgid "View information on primary characters."
+msgstr "Visualizza le informazioni sui personaggi principali."
+
+msgctxt "7||controller_guide||explanation"
+msgid "Check how to use the controls."
+msgstr "Controlla l'utilizzo dei comandi."
+
+msgctxt "8||pause_graphics_settings||explanation"
+msgid "Configure graphics settings."
+msgstr "Configura le impostazioni grafiche."
+
+msgctxt "9||pause_controls_settings||explanation"
+msgid "Customize game controls."
+msgstr "Personalizza i comandi di gioco."
+

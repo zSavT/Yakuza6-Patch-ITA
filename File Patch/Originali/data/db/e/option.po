@@ -1,0 +1,1217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||difficulty||name"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "3||free_camera_vertical||name"
+msgid "Camera Control (Vertical)"
+msgstr ""
+
+msgctxt "4||free_camera_horizontal||name"
+msgid "Camera Control (Horizontal)"
+msgstr ""
+
+msgctxt "11||brightness||name"
+msgid "Brightness"
+msgstr ""
+
+msgctxt "12||gamma||name"
+msgid "Gamma"
+msgstr ""
+
+msgctxt "13||camera_sensitivity||name"
+msgid "Camera Movement Speed"
+msgstr ""
+
+msgctxt "14||pov_camera_vertical||name"
+msgid "First-Person View (Vertical)"
+msgstr ""
+
+msgctxt "15||pov_camera_horizontal||name"
+msgid "First-Person View (Horizontal)"
+msgstr ""
+
+msgctxt "16||minimap_visible||name"
+msgid "Minimap Display"
+msgstr ""
+
+msgctxt "17||blood_type||name"
+msgid "Blood Level"
+msgstr ""
+
+msgctxt "18||font_kind||name"
+msgid "Set Font"
+msgstr ""
+
+msgctxt "19||minimap_direction||name"
+msgid "Minimap Rotation"
+msgstr ""
+
+msgctxt "20||subtitles_display||name"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "25||speaker_type||name"
+msgid "Speaker Type"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||name"
+msgid "Front"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||name"
+msgid "Back"
+msgstr ""
+
+msgctxt "28||auto_camera||name"
+msgid "Auto Camera"
+msgstr ""
+
+msgctxt "29||ringtone||name"
+msgid "Ringtone"
+msgstr ""
+
+msgctxt "30||hud_enabled||name"
+msgid "HUD Visible"
+msgstr ""
+
+msgctxt "32||graphics_output||name"
+msgid "Output Device"
+msgstr ""
+
+msgctxt "33||graphics_display_mode||name"
+msgid "Display Mode"
+msgstr ""
+
+msgctxt "34||graphics_display_resolution||name"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "35||graphics_refresh_rate||name"
+msgid "Refresh Rate"
+msgstr ""
+
+msgctxt "36||graphics_vertical_sync||name"
+msgid "Vertical Sync"
+msgstr ""
+
+msgctxt "37||graphics_quality_preset||name"
+msgid "Quality"
+msgstr ""
+
+msgctxt "38||graphics_fov||name"
+msgid "FOV"
+msgstr ""
+
+msgctxt "39||graphics_fps||name"
+msgid "FPS"
+msgstr ""
+
+msgctxt "40||graphics_texture_quality||name"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt "41||graphics_texture_filtering||name"
+msgid "Texture Filtering"
+msgstr ""
+
+msgctxt "42||graphics_shadow_quality||name"
+msgid "Shadows Quality"
+msgstr ""
+
+msgctxt "43||graphics_geometry_quality||name"
+msgid "Geometry Quality"
+msgstr ""
+
+msgctxt "44||graphics_realtime_reflections||name"
+msgid "Realtime Reflections"
+msgstr ""
+
+msgctxt "45||graphics_motion_blur||name"
+msgid "Motion Blur"
+msgstr ""
+
+msgctxt "46||graphics_ssao||name"
+msgid "SSAO"
+msgstr ""
+
+msgctxt "47||graphics_ssss||name"
+msgid "Subsurface Scattering"
+msgstr ""
+
+msgctxt "48||graphics_render_scale||name"
+msgid "Render Scale"
+msgstr ""
+
+msgctxt "49||graphics_advanced_button||name"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "50||graphics_aa||name"
+msgid "Anti-aliasing"
+msgstr ""
+
+msgctxt "51||graphics_dof||name"
+msgid "Depth of Field"
+msgstr ""
+
+msgctxt "52||volume_music||name"
+msgid "Music"
+msgstr ""
+
+msgctxt "53||volume_effect||name"
+msgid "Effects"
+msgstr ""
+
+msgctxt "54||volume_dialog||name"
+msgid "Dialog"
+msgstr ""
+
+msgctxt "55||volume_cinema||name"
+msgid "Cinema"
+msgstr ""
+
+msgctxt "56||icon_select||name"
+msgid "Icon Select"
+msgstr ""
+
+msgctxt "57||disable_windows_key||name"
+msgid "Disable Windows Key"
+msgstr ""
+
+msgctxt "58||tattoo_bars||name"
+msgid "Letterbox Artworks"
+msgstr ""
+
+msgctxt "59||mouse_cursor||name"
+msgid "Mouse Cursor"
+msgstr ""
+
+msgctxt "60||controller_vibration||name"
+msgid "Controller Vibration"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||name"
+msgid "Front"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||name"
+msgid "Surround"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||name"
+msgid "Surround"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||name"
+msgid "Back"
+msgstr ""
+
+msgctxt "65||volume_master||name"
+msgid "Master"
+msgstr ""
+
+msgctxt "66||graphics_ui_limit_ui||name"
+msgid "UI Layout Width Limit"
+msgstr ""
+
+msgctxt "67||graphics_ui_limit_minigame||name"
+msgid "Middle Screen View Limit"
+msgstr ""
+
+msgctxt "68||hide_skip_prompt||name"
+msgid "Hide Skip prompt in dialogues"
+msgstr ""
+
+msgctxt "1||difficulty||explanation"
+msgid "You can set the difficulty."
+msgstr ""
+
+msgctxt "3||free_camera_vertical||explanation"
+msgid "Change how to move the camera vertically."
+msgstr ""
+
+msgctxt "4||free_camera_horizontal||explanation"
+msgid "Change how to move the camera horizontally."
+msgstr ""
+
+msgctxt "11||brightness||explanation"
+msgid "Slide the cursor to adjust the brightness."
+msgstr ""
+
+msgctxt "12||gamma||explanation"
+msgid "Slide the cursor to adjust the gamma correction."
+msgstr ""
+
+msgctxt "13||camera_sensitivity||explanation"
+msgid "Set the speed the camera moves at. \r\nSlide the cursor to adjust the speed."
+msgstr ""
+
+msgctxt "14||pov_camera_vertical||explanation"
+msgid "Change how to move the first-person camera vertically."
+msgstr ""
+
+msgctxt "15||pov_camera_horizontal||explanation"
+msgid "Change how to move the first-person camera horizontally."
+msgstr ""
+
+msgctxt "16||minimap_visible||explanation"
+msgid "Switch on/off the minimap that appears in the lower\r\nleft part of the screen."
+msgstr ""
+
+msgctxt "17||blood_type||explanation"
+msgid "Set the level of blood to display."
+msgstr ""
+
+msgctxt "18||font_kind||explanation"
+msgid "Change the font used during the game."
+msgstr ""
+
+msgctxt "19||minimap_direction||explanation"
+msgid "Switch on/off minimap rotation. If turned on,\r\nthe minimap will rotate with the camera."
+msgstr ""
+
+msgctxt "20||subtitles_display||explanation"
+msgid "Switch on/off subtitles for movie scenes."
+msgstr ""
+
+msgctxt "25||speaker_type||explanation"
+msgid "Select between stereo, surround 5.1 or surround 7.1 sound."
+msgstr ""
+
+msgctxt "26||speaker_front_angle||explanation"
+msgid "Adjust to your speakers' angle for optimal quality."
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||explanation"
+msgid "Adjust to your speakers' angle for optimal quality."
+msgstr ""
+
+msgctxt "28||auto_camera||explanation"
+msgid "The camera's point of view will move automatically\r\ndepending on the situation. If you select Off, it\r\nwill not move unless the player moves it themselves."
+msgstr ""
+
+msgctxt "29||ringtone||explanation"
+msgid "Change your smartphone's ringtone."
+msgstr ""
+
+msgctxt "30||hud_enabled||explanation"
+msgid "Toggle ingame HUD on or off."
+msgstr ""
+
+msgctxt "32||graphics_output||explanation"
+msgid "Select output device for given adapter."
+msgstr ""
+
+msgctxt "33||graphics_display_mode||explanation"
+msgid "Set display mode for your device."
+msgstr ""
+
+msgctxt "34||graphics_display_resolution||explanation"
+msgid "Set display resolution for your device."
+msgstr ""
+
+msgctxt "35||graphics_refresh_rate||explanation"
+msgid "Set refresh rate of your display device."
+msgstr ""
+
+msgctxt "36||graphics_vertical_sync||explanation"
+msgid "Set vertical synchronization for your display device."
+msgstr ""
+
+msgctxt "37||graphics_quality_preset||explanation"
+msgid "Use presets to easily control advanced graphics settings."
+msgstr ""
+
+msgctxt "38||graphics_fov||explanation"
+msgid "Adjust field of view value."
+msgstr ""
+
+msgctxt "39||graphics_fps||explanation"
+msgid "Set FPS limit."
+msgstr ""
+
+msgctxt "40||graphics_texture_quality||explanation"
+msgid "Set quality of textures."
+msgstr ""
+
+msgctxt "41||graphics_texture_filtering||explanation"
+msgid "Set anisotropy texture filtering."
+msgstr ""
+
+msgctxt "42||graphics_shadow_quality||explanation"
+msgid "Set quality of shadows."
+msgstr ""
+
+msgctxt "43||graphics_geometry_quality||explanation"
+msgid "Set quality of geometry meshes."
+msgstr ""
+
+msgctxt "44||graphics_realtime_reflections||explanation"
+msgid "Enable or disable realtime reflections."
+msgstr ""
+
+msgctxt "45||graphics_motion_blur||explanation"
+msgid "Enable or disable motion blur."
+msgstr ""
+
+msgctxt "46||graphics_ssao||explanation"
+msgid "Enable or disable Screen Space Ambient Occlusion."
+msgstr ""
+
+msgctxt "47||graphics_ssss||explanation"
+msgid "Enable or disable subsurface scattering."
+msgstr ""
+
+msgctxt "48||graphics_render_scale||explanation"
+msgid "Adjust render scaling."
+msgstr ""
+
+msgctxt "49||graphics_advanced_button||explanation"
+msgid "Go to advanced graphics settings."
+msgstr ""
+
+msgctxt "50||graphics_aa||explanation"
+msgid "Set anti-aliasing type or disable it."
+msgstr ""
+
+msgctxt "51||graphics_dof||explanation"
+msgid "Enable or disable Depth of Field."
+msgstr ""
+
+msgctxt "52||volume_music||explanation"
+msgid "Adjust music volume."
+msgstr ""
+
+msgctxt "53||volume_effect||explanation"
+msgid "Adjust effects volume."
+msgstr ""
+
+msgctxt "54||volume_dialog||explanation"
+msgid "Adjust dialog volume."
+msgstr ""
+
+msgctxt "55||volume_cinema||explanation"
+msgid "Adjust cinema volume."
+msgstr ""
+
+msgctxt "56||icon_select||explanation"
+msgid "Option to choose what icons will be used."
+msgstr ""
+
+msgctxt "57||disable_windows_key||explanation"
+msgid "Disable Windows Key while the game is running."
+msgstr ""
+
+msgctxt "58||tattoo_bars||explanation"
+msgid "Enable or disable tattoo letterbox artwork\nused in aspect ratios different than 16:9."
+msgstr ""
+
+msgctxt "59||mouse_cursor||explanation"
+msgid "Set mouse pointer to game or system style."
+msgstr ""
+
+msgctxt "60||controller_vibration||explanation"
+msgid "Switch on/off the controller vibration."
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||explanation"
+msgid "Adjust to your speakers' angle for optimal quality."
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||explanation"
+msgid "Adjust to your speakers' angle for optimal quality."
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||explanation"
+msgid "Adjust to your speakers' angle for optimal quality."
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||explanation"
+msgid "Adjust to your speakers' angle for optimal quality."
+msgstr ""
+
+msgctxt "65||volume_master||explanation"
+msgid "Adjust master volume."
+msgstr ""
+
+msgctxt "66||graphics_ui_limit_ui||explanation"
+msgid "Set maximum aspect ratio for the layout of UI elements.\nCan be used to shift UI from the edges toward the center \nof the screen."
+msgstr ""
+
+msgctxt "67||graphics_ui_limit_minigame||explanation"
+msgid "Set aspect ratio of the middle display. Can be used to fit \nparts of the game entirely within the primary screen of \nthe multi-monitor configuration."
+msgstr ""
+
+msgctxt "68||hide_skip_prompt||explanation"
+msgid "Hides the Skip prompt in dialogues. \nSkipping dialogues is still possible."
+msgstr ""
+
+msgctxt "1||difficulty||subtable||1||easy||name"
+msgid "Easy"
+msgstr ""
+
+msgctxt "1||difficulty||subtable||2||normal||name"
+msgid "Normal"
+msgstr ""
+
+msgctxt "1||difficulty||subtable||3||hard||name"
+msgid "Hard"
+msgstr ""
+
+msgctxt "1||difficulty||subtable||4||legend||name"
+msgid "Legend"
+msgstr ""
+
+msgctxt "3||free_camera_vertical||subtable||1||normal||name"
+msgid "Normal"
+msgstr ""
+
+msgctxt "3||free_camera_vertical||subtable||2||inverted||name"
+msgid "Inverted"
+msgstr ""
+
+msgctxt "4||free_camera_horizontal||subtable||1||normal||name"
+msgid "Normal"
+msgstr ""
+
+msgctxt "4||free_camera_horizontal||subtable||2||inverted||name"
+msgid "Inverted"
+msgstr ""
+
+msgctxt "14||pov_camera_vertical||subtable||1||normal||name"
+msgid "Normal"
+msgstr ""
+
+msgctxt "14||pov_camera_vertical||subtable||2||inverted||name"
+msgid "Inverted"
+msgstr ""
+
+msgctxt "15||pov_camera_horizontal||subtable||1||normal||name"
+msgid "Normal"
+msgstr ""
+
+msgctxt "15||pov_camera_horizontal||subtable||2||inverted||name"
+msgid "Inverted"
+msgstr ""
+
+msgctxt "16||minimap_visible||subtable||1||show||name"
+msgid "Show"
+msgstr ""
+
+msgctxt "16||minimap_visible||subtable||2||hide||name"
+msgid "Hide"
+msgstr ""
+
+msgctxt "17||blood_type||subtable||1||normal||name"
+msgid "Normal"
+msgstr ""
+
+msgctxt "17||blood_type||subtable||2||mild||name"
+msgid "Mild"
+msgstr ""
+
+msgctxt "18||font_kind||subtable||1||mincho||name"
+msgid "Serif"
+msgstr ""
+
+msgctxt "18||font_kind||subtable||2||gothic||name"
+msgid "Sans Serif"
+msgstr ""
+
+msgctxt "19||minimap_direction||subtable||1||fixed||name"
+msgid "Fixed"
+msgstr ""
+
+msgctxt "19||minimap_direction||subtable||2||free||name"
+msgid "Rotate"
+msgstr ""
+
+msgctxt "20||subtitles_display||subtable||1||show||name"
+msgid "Show"
+msgstr ""
+
+msgctxt "20||subtitles_display||subtable||2||hide||name"
+msgid "Hide"
+msgstr ""
+
+msgctxt "25||speaker_type||subtable||1||stereo||name"
+msgid "Stereo"
+msgstr ""
+
+msgctxt "25||speaker_type||subtable||2||surround||name"
+msgid "Surround 5.1"
+msgstr ""
+
+msgctxt "25||speaker_type||subtable||3||surround_7_1||name"
+msgid "Surround 7.1"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||1||degree15||name"
+msgid "15"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||2||degree20||name"
+msgid "20"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||3||degree25||name"
+msgid "25"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||4||degree30||name"
+msgid "30"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||5||degree35||name"
+msgid "35"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||6||degree40||name"
+msgid "40"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||7||degree45||name"
+msgid "45"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||8||degree50||name"
+msgid "50"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||9||degree55||name"
+msgid "55"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||10||degree60||name"
+msgid "60"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||11||degree65||name"
+msgid "65"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||12||degree70||name"
+msgid "70"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||13||degree75||name"
+msgid "75"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||14||degree80||name"
+msgid "80"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||15||degree85||name"
+msgid "85"
+msgstr ""
+
+msgctxt "26||speaker_front_angle||subtable||16||degree90||name"
+msgid "90"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||1||degree95||name"
+msgid "95"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||2||degree100||name"
+msgid "100"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||3||degree105||name"
+msgid "105"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||4||degree110||name"
+msgid "110"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||5||degree115||name"
+msgid "115"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||6||degree120||name"
+msgid "120"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||7||degree125||name"
+msgid "125"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||8||degree130||name"
+msgid "130"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||9||degree135||name"
+msgid "135"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||10||degree140||name"
+msgid "140"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||11||degree145||name"
+msgid "145"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||12||degree150||name"
+msgid "150"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||13||degree155||name"
+msgid "155"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||14||degree160||name"
+msgid "160"
+msgstr ""
+
+msgctxt "27||speaker_rear_angle||subtable||15||degree165||name"
+msgid "165"
+msgstr ""
+
+msgctxt "28||auto_camera||subtable||1||enabled||name"
+msgid "On"
+msgstr ""
+
+msgctxt "28||auto_camera||subtable||2||disabled||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "29||ringtone||subtable||1||voices||name"
+msgid "Soundwaves"
+msgstr ""
+
+msgctxt "29||ringtone||subtable||2||simple||name"
+msgid "Basic Tone"
+msgstr ""
+
+msgctxt "29||ringtone||subtable||3||silent||name"
+msgid "Vibrate"
+msgstr ""
+
+msgctxt "30||hud_enabled||subtable||1||hud_enabled_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "30||hud_enabled||subtable||2||hud_enabled_on||name"
+msgid "On"
+msgstr ""
+
+msgctxt "33||graphics_display_mode||subtable||1||display_windowed||name"
+msgid "Windowed"
+msgstr ""
+
+msgctxt "33||graphics_display_mode||subtable||2||display_fullscreen||name"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt "33||graphics_display_mode||subtable||3||display_borderless||name"
+msgid "Borderless"
+msgstr ""
+
+msgctxt "34||graphics_display_resolution||subtable||1||resolution_FHD||name"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt "34||graphics_display_resolution||subtable||2||resolution_HDready||name"
+msgid "1280x720"
+msgstr ""
+
+msgctxt "35||graphics_refresh_rate||subtable||1||refresh_60||name"
+msgid "60.0Hz"
+msgstr ""
+
+msgctxt "35||graphics_refresh_rate||subtable||2||refresh_120||name"
+msgid "120.0Hz"
+msgstr ""
+
+msgctxt "36||graphics_vertical_sync||subtable||1||vert_sync_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "36||graphics_vertical_sync||subtable||2||vert_sync_on||name"
+msgid "On"
+msgstr ""
+
+msgctxt "37||graphics_quality_preset||subtable||1||quality_low||name"
+msgid "Low"
+msgstr ""
+
+msgctxt "37||graphics_quality_preset||subtable||2||quality_med||name"
+msgid "Medium"
+msgstr ""
+
+msgctxt "37||graphics_quality_preset||subtable||3||quality_high||name"
+msgid "High"
+msgstr ""
+
+msgctxt "37||graphics_quality_preset||subtable||4||quality_ultra||name"
+msgid "Ultra"
+msgstr ""
+
+msgctxt "37||graphics_quality_preset||subtable||5||quality_custom||name"
+msgid "Custom"
+msgstr ""
+
+msgctxt "39||graphics_fps||subtable||1||FPS_30||name"
+msgid "30"
+msgstr ""
+
+msgctxt "39||graphics_fps||subtable||2||FPS_60||name"
+msgid "60"
+msgstr ""
+
+msgctxt "39||graphics_fps||subtable||3||FPS_120||name"
+msgid "120"
+msgstr ""
+
+msgctxt "39||graphics_fps||subtable||4||FPS_OFF||name"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "40||graphics_texture_quality||subtable||1||texture_quality_low||name"
+msgid "Low"
+msgstr ""
+
+msgctxt "40||graphics_texture_quality||subtable||2||texture_quality_med||name"
+msgid "Medium"
+msgstr ""
+
+msgctxt "40||graphics_texture_quality||subtable||3||texture_quality_high||name"
+msgid "High"
+msgstr ""
+
+msgctxt "41||graphics_texture_filtering||subtable||1||texture_filtering_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "41||graphics_texture_filtering||subtable||2||texture_filtering_2x||name"
+msgid "2x"
+msgstr ""
+
+msgctxt "41||graphics_texture_filtering||subtable||3||texture_filtering_4x||name"
+msgid "4x"
+msgstr ""
+
+msgctxt "41||graphics_texture_filtering||subtable||4||texture_filtering_8x||name"
+msgid "8x"
+msgstr ""
+
+msgctxt "41||graphics_texture_filtering||subtable||5||texture_filtering_16x||name"
+msgid "16x"
+msgstr ""
+
+msgctxt "42||graphics_shadow_quality||subtable||1||shadow_quality_low||name"
+msgid "Low"
+msgstr ""
+
+msgctxt "42||graphics_shadow_quality||subtable||2||shadow_quality_med||name"
+msgid "Medium"
+msgstr ""
+
+msgctxt "42||graphics_shadow_quality||subtable||3||shadow_quality_high||name"
+msgid "High"
+msgstr ""
+
+msgctxt "43||graphics_geometry_quality||subtable||1||geometry_quality_low||name"
+msgid "Low"
+msgstr ""
+
+msgctxt "43||graphics_geometry_quality||subtable||2||geometry_quality_med||name"
+msgid "Medium"
+msgstr ""
+
+msgctxt "43||graphics_geometry_quality||subtable||3||geometry_quality_high||name"
+msgid "High"
+msgstr ""
+
+msgctxt "44||graphics_realtime_reflections||subtable||1||realtime_reflections_disabled||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "44||graphics_realtime_reflections||subtable||2||realtime_reflections_enabled||name"
+msgid "On"
+msgstr ""
+
+msgctxt "45||graphics_motion_blur||subtable||1||motion_blur_disabled||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "45||graphics_motion_blur||subtable||2||motion_blur_enabled||name"
+msgid "On"
+msgstr ""
+
+msgctxt "46||graphics_ssao||subtable||1||SSAO_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "46||graphics_ssao||subtable||2||SSAO_on||name"
+msgid "On"
+msgstr ""
+
+msgctxt "47||graphics_ssss||subtable||1||SSSS_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "47||graphics_ssss||subtable||2||SSSS_on||name"
+msgid "On"
+msgstr ""
+
+msgctxt "48||graphics_render_scale||subtable||1||render_scale_1x||name"
+msgid "100%"
+msgstr ""
+
+msgctxt "48||graphics_render_scale||subtable||2||render_scale_0_75x||name"
+msgid "75%"
+msgstr ""
+
+msgctxt "48||graphics_render_scale||subtable||3||render_scale_0_5x||name"
+msgid "50%"
+msgstr ""
+
+msgctxt "48||graphics_render_scale||subtable||4||render_scale_0_25x||name"
+msgid "25%"
+msgstr ""
+
+msgctxt "50||graphics_aa||subtable||1||AA_OFF||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "50||graphics_aa||subtable||2||FXAA||name"
+msgid "FXAA"
+msgstr ""
+
+msgctxt "50||graphics_aa||subtable||3||SMAA||name"
+msgid "SMAA"
+msgstr ""
+
+msgctxt "50||graphics_aa||subtable||4||SSAA125||name"
+msgid "SSAA 1.25x"
+msgstr ""
+
+msgctxt "50||graphics_aa||subtable||5||SSAA150||name"
+msgid "SSAA 1.50x"
+msgstr ""
+
+msgctxt "50||graphics_aa||subtable||6||SSAA175||name"
+msgid "SSAA 1.75x"
+msgstr ""
+
+msgctxt "50||graphics_aa||subtable||7||SSAA200||name"
+msgid "SSAA 2.00x"
+msgstr ""
+
+msgctxt "51||graphics_dof||subtable||1||DOF_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "51||graphics_dof||subtable||2||DOF_on||name"
+msgid "On"
+msgstr ""
+
+msgctxt "56||icon_select||subtable||1||auto||name"
+msgid "Auto"
+msgstr ""
+
+msgctxt "56||icon_select||subtable||2||xbox||name"
+msgid "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
+msgstr ""
+
+msgctxt "56||icon_select||subtable||3||playstation||name"
+msgid "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
+msgstr ""
+
+msgctxt "56||icon_select||subtable||4||switch||name"
+msgid "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
+msgstr ""
+
+msgctxt "56||icon_select||subtable||5||directinput||name"
+msgid "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>"
+msgstr ""
+
+msgctxt "57||disable_windows_key||subtable||1||disable_windows_key_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "57||disable_windows_key||subtable||2||disable_windows_key_on||name"
+msgid "On"
+msgstr ""
+
+msgctxt "58||tattoo_bars||subtable||1||tattoo_bars_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "58||tattoo_bars||subtable||2||tattoo_bars_on||name"
+msgid "On"
+msgstr ""
+
+msgctxt "59||mouse_cursor||subtable||1||mouse_cursor_system||name"
+msgid "System Cursor"
+msgstr ""
+
+msgctxt "59||mouse_cursor||subtable||2||mouse_cursor_game||name"
+msgid "Game Cursor"
+msgstr ""
+
+msgctxt "60||controller_vibration||subtable||1||controller_vibration_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "60||controller_vibration||subtable||2||controller_vibration_on||name"
+msgid "On"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||1||degree15||name"
+msgid "15"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||2||degree20||name"
+msgid "20"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||3||degree25||name"
+msgid "25"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||4||degree30||name"
+msgid "30"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||5||degree35||name"
+msgid "35"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||6||degree40||name"
+msgid "40"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||7||degree45||name"
+msgid "45"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||8||degree50||name"
+msgid "50"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||9||degree55||name"
+msgid "55"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||10||degree60||name"
+msgid "60"
+msgstr ""
+
+msgctxt "61||speaker_front_angle_7_1||subtable||11||degree65||name"
+msgid "65"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||1||degree95||name"
+msgid "95"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||2||degree100||name"
+msgid "100"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||3||degree105||name"
+msgid "105"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||4||degree110||name"
+msgid "110"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||5||degree115||name"
+msgid "115"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||6||degree120||name"
+msgid "120"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||7||degree125||name"
+msgid "125"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||8||degree130||name"
+msgid "130"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||9||degree135||name"
+msgid "135"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||10||degree140||name"
+msgid "140"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||11||degree145||name"
+msgid "145"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||12||degree150||name"
+msgid "150"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||13||degree155||name"
+msgid "155"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||14||degree160||name"
+msgid "160"
+msgstr ""
+
+msgctxt "62||speaker_surround_angle_5_1||subtable||15||degree165||name"
+msgid "165"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||1||degree70||name"
+msgid "70"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||2||degree75||name"
+msgid "75"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||3||degree80||name"
+msgid "80"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||4||degree85||name"
+msgid "85"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||5||degree90||name"
+msgid "90"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||6||degree95||name"
+msgid "95"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||7||degree100||name"
+msgid "100"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||8||degree105||name"
+msgid "105"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||9||degree110||name"
+msgid "110"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||10||degree115||name"
+msgid "115"
+msgstr ""
+
+msgctxt "63||speaker_surround_angle_7_1||subtable||11||degree120||name"
+msgid "120"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||subtable||1||degree125||name"
+msgid "125"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||subtable||2||degree130||name"
+msgid "130"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||subtable||3||degree135||name"
+msgid "135"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||subtable||4||degree140||name"
+msgid "140"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||subtable||5||degree145||name"
+msgid "145"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||subtable||6||degree150||name"
+msgid "150"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||subtable||7||degree155||name"
+msgid "155"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||subtable||8||degree160||name"
+msgid "160"
+msgstr ""
+
+msgctxt "64||speaker_rear_angle_7_1||subtable||9||degree165||name"
+msgid "165"
+msgstr ""
+
+msgctxt "66||graphics_ui_limit_ui||subtable||1||ui_limit_16_9||name"
+msgid "16:9"
+msgstr ""
+
+msgctxt "66||graphics_ui_limit_ui||subtable||2||ui_limit_17_9||name"
+msgid "17:9"
+msgstr ""
+
+msgctxt "66||graphics_ui_limit_ui||subtable||3||ui_limit_18_9||name"
+msgid "18:9"
+msgstr ""
+
+msgctxt "66||graphics_ui_limit_ui||subtable||4||ui_limit_19_9||name"
+msgid "19:9"
+msgstr ""
+
+msgctxt "66||graphics_ui_limit_ui||subtable||5||ui_limit_20_9||name"
+msgid "20:9"
+msgstr ""
+
+msgctxt "66||graphics_ui_limit_ui||subtable||6||ui_limit_21_9||name"
+msgid "21:9"
+msgstr ""
+
+msgctxt "67||graphics_ui_limit_minigame||subtable||1||mg_limit_16_9||name"
+msgid "16:9"
+msgstr ""
+
+msgctxt "67||graphics_ui_limit_minigame||subtable||2||mg_limit_17_9||name"
+msgid "17:9"
+msgstr ""
+
+msgctxt "67||graphics_ui_limit_minigame||subtable||3||mg_limit_18_9||name"
+msgid "18:9"
+msgstr ""
+
+msgctxt "67||graphics_ui_limit_minigame||subtable||4||mg_limit_19_9||name"
+msgid "19:9"
+msgstr ""
+
+msgctxt "67||graphics_ui_limit_minigame||subtable||5||mg_limit_20_9||name"
+msgid "20:9"
+msgstr ""
+
+msgctxt "67||graphics_ui_limit_minigame||subtable||6||mg_limit_21_9||name"
+msgid "21:9"
+msgstr ""
+
+msgctxt "67||graphics_ui_limit_minigame||subtable||7||mg_limit_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "68||hide_skip_prompt||subtable||1||hide_skip_prompt_off||name"
+msgid "Off"
+msgstr ""
+
+msgctxt "68||hide_skip_prompt||subtable||2||hide_skip_prompt_on||name"
+msgid "On"
+msgstr ""
+

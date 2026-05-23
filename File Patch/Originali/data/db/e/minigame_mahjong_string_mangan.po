@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "2||mangan||text"
+msgid "Mangan"
+msgstr ""
+
+msgctxt "3||haneman||text"
+msgid "Haneman"
+msgstr ""
+
+msgctxt "4||baiman||text"
+msgid "Baiman"
+msgstr ""
+
+msgctxt "5||sanbaiman||text"
+msgid "Sanbaiman"
+msgstr ""
+
+msgctxt "6||yakuman||text"
+msgid "Yakuman"
+msgstr ""
+
+msgctxt "7||kouhai||text"
+msgid "Exhaustive Draw"
+msgstr ""
+
+msgctxt "8||suuchariichi||text"
+msgid "Four Riichi Draw"
+msgstr ""
+
+msgctxt "9||sanchahou||text"
+msgid "Triple Ron"
+msgstr ""
+
+msgctxt "10||suufuurenda||text"
+msgid "Wind Discard Draw"
+msgstr ""
+
+msgctxt "11||kyuushukyuuhai||text"
+msgid "Nine Terminal Draw"
+msgstr ""
+

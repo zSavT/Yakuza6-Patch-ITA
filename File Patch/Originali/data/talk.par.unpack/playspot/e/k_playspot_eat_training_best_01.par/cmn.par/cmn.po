@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 70
+msgctxt "Offset_0x7734_Len_70"
+msgid "All right, that's it for today's session!\nNow let's see how you did..."
+msgstr ""
+
+#. Max bytes: 60
+msgctxt "Offset_0x7864_Len_60"
+msgid "That was perfect, Kiryu-san!\nYou must be in excellent shape!"
+msgstr ""
+
+#. Max bytes: 33
+msgctxt "Offset_0x7984_Len_33"
+msgid "Next, let's talk about your diet!"
+msgstr ""
+
+#. Max bytes: 70
+msgctxt "Offset_0x7A74_Len_70"
+msgid "Kiryu-san, you should eat whatever\nyou think is the healthiest option."
+msgstr ""
+
+#. Max bytes: 90
+msgctxt "Offset_0x7BA4_Len_90"
+msgid "Oh, but be sure to take photos of your food!\nI need to see everything to assess your diet!"
+msgstr ""
+
+#. Max bytes: 40
+msgctxt "Offset_0x7CF4_Len_40"
+msgid "That's it? I'm not so sure about this..."
+msgstr ""
+
+#. Max bytes: 83
+msgctxt "Offset_0x7E04_Len_83"
+msgid "I thought you'd be telling me what to eat.\nThis doesn't sound like training at all."
+msgstr ""
+
+#. Max bytes: 65
+msgctxt "Offset_0x8074_Len_65"
+msgid "However, I'd much rather you make\na habit of doing that yourself."
+msgstr ""
+
+#. Max bytes: 25
+msgctxt "Offset_0x81A4_Len_25"
+msgid "Myself? What do you mean?"
+msgstr ""
+
+#. Max bytes: 84
+msgctxt "Offset_0x8284_Len_84"
+msgid "Well, constantly thinking about your diet\nwill affect how you choose to approach it."
+msgstr ""
+
+#. Max bytes: 88
+msgctxt "Offset_0x83D4_Len_88"
+msgid "If your diet takes top priority in your mind,\nyou'll stay fit even without RIZAP's help."
+msgstr ""
+
+#. Max bytes: 75
+msgctxt "Offset_0x8534_Len_75"
+msgid "So I'm training my mind for the future.\nThat's actually a pretty good plan."
+msgstr ""
+
+#. Max bytes: 48
+msgctxt "Offset_0x8684_Len_48"
+msgid "Didn't I tell you?\nI'm the best trainer in town!"
+msgstr ""
+
+#. Max bytes: 81
+msgctxt "Offset_0x87A4_Len_81"
+msgid "I'm sure this won't be easy at first.\nBut helping you through is a trainer's job!"
+msgstr ""
+
+#. Max bytes: 85
+msgctxt "Offset_0x8914_Len_85"
+msgid "I'll be giving you little hints here and there\non what you should eat. Try your best!"
+msgstr ""
+
+#. Max bytes: 23
+msgctxt "Offset_0x8A54_Len_23"
+msgid "All right. Let's do it."
+msgstr ""
+
+#. Max bytes: 73
+msgctxt "Offset_0x8B34_Len_73"
+msgid "Now then, let's talk about your diet!\nYour recommendation for today is..."
+msgstr ""
+
+#. Max bytes: 52
+msgctxt "Offset_0x8C64_Len_52"
+msgid "Here, this is my email address.\nDon't lose it, okay?"
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x8D84_Len_35"
+msgid "Farewell, Kiryu-san!\nYou can do it!"
+msgstr ""
+

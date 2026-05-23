@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "33||category_01_answer||content"
+msgid "This time, let's go for a dish low in \r\nsugar and high in protein. \r\nOh, yeah... I suggest a nutritious\r\ndish that's packed with lobster!"
+msgstr ""
+
+msgctxt "34||category_02_answer||content"
+msgid "This time, let's go for a bulk-up meal.\r\nLet's see... I suggest a dish where\r\nyou can consume rice, pork, and egg\r\nall together!"
+msgstr ""
+
+msgctxt "35||category_03_answer||content"
+msgid "This time, let's go for a well-balanced meal.\r\nOkay... I suggest a quick meal that has carbs,\r\neggs, and veggies! It's at a place you'd stop \r\nby when you just need a light meal! Their\r\nhomemade soup has a great flavor!"
+msgstr ""
+
+msgctxt "36||category_04_answer||content"
+msgid "Now, let's go for a bulk-up meal.\r\nHmm... I suggest a rice dish topped with\r\nlots of thin pork slices! These pork slices\r\nare often used in some noodle dishes too!"
+msgstr ""
+
+msgctxt "37||category_05_answer||content"
+msgid "This time, let's go for a dish that's a big\r\nhit with kids. Maybe something that's\r\npacked with juicy meat and cooked on\r\na hot iron plate! I suggest you eat\r\naround 300 grams of it!"
+msgstr ""
+
+msgctxt "38||category_06_answer||content"
+msgid "Now for a go-to training dish!\r\nYou should eat high quality meat\r\nwith a good balance of fat and\r\nred meat. Eat plenty of it!"
+msgstr ""
+
+msgctxt "39||category_07_answer||content"
+msgid "This time, let's avoid carbs. You should\r\ngo for that one dish consisting of just\r\nbeef! Oh, you're free to eat pickled\r\nred ginger with it too!"
+msgstr ""
+
+msgctxt "40||category_08_answer||content"
+msgid "Now, let's go for a bulk-up meal! Let's see...\r\nI suggest you go to a fast food chain and \r\norder something that offers double the\r\naverage amount of meat. That'll put a smile\r\non your face!"
+msgstr ""
+
+msgctxt "41||category_09_answer||content"
+msgid "This time, let's cut calories and focus on\r\nnutrient intake! Let's see... You should go\r\nto a fast food chain and only have vegetables.\r\nIt's one of their standard dishes."
+msgstr ""
+
+msgctxt "42||category_10_answer||content"
+msgid "This time, let's try something out of the\r\nordinary. Let's see... How about a round\r\nfood that comes with cheese on top?\r\nIt's apparently most popular with\r\nwomen. You can eat it at a counter!"
+msgstr ""
+
+msgctxt "43||category_11_answer||content"
+msgid "This time, let's go meat only! Meat is the\r\nbest for building muscle! I'm suggesting\r\nsomething that's relatively low in fat!\r\nIt's best when cooked on a grate."
+msgstr ""
+
+msgctxt "44||category_12_answer||content"
+msgid "You can't go wrong with meat after a\r\nwork out! Just this one time, I'll let\r\nyou have some popular yakiniku!"
+msgstr ""
+
+msgctxt "45||category_13_answer||content"
+msgid "You should eat some fish once in a\r\nwhile! Let's have that one fish\r\nJapanese people just love! How\r\nabout a dish that allows you to\r\nenjoy various parts of it?"
+msgstr ""
+
+msgctxt "46||category_14_answer||content"
+msgid "This time, we'll aim for a dish that'll\r\nbulk you up, but is also easy to eat!\r\nA standard light meal that includes\r\neggs, meat, and vegetables would be\r\ngood! A meal like that is usually\r\noffered in the morning."
+msgstr ""
+
+msgctxt "47||category_15_answer||content"
+msgid "This time, we'll go with a dish that consists\r\nof meat and vegetables! Let's see... How\r\nabout one where you can enjoy five\r\ndifferent types of it? It all comes served on\r\na skewer!"
+msgstr ""
+
+msgctxt "48||category_16_answer||content"
+msgid "Let's try an unusual dish this time!\r\nI suggest some bite-sized grilled\r\nfish. They're chock-full of calcium\r\nand protein! The flavorful roe\r\nwill have you hooked!"
+msgstr ""
+
+msgctxt "49||category_17_answer||content"
+msgid "This time, let's focus more on\r\nnutrition! How about a dish that\r\ncontains a lot of scallions? You'll\r\nbe tempted to drink alcohol, but\r\nplease try your best to resist it."
+msgstr ""
+
+msgctxt "50||category_18_answer||content"
+msgid "Now, we'll focus heavily on protein!\r\nLet's see... You should eat some chicken!\r\nAnd I mean nothing but chicken! Well,\r\nbreading's okay, but no extra spices!\r\nIt's great to eat after training."
+msgstr ""
+
+msgctxt "51||category_19_answer||content"
+msgid "You should eat some junk food once\r\nin a while to bulk up! Let's see...\r\nHow about a fast food place where\r\nyou can eat a good, old-fashioned,\r\nsunny-side up egg?"
+msgstr ""
+
+msgctxt "52||category_20_answer||content"
+msgid "\r\nThis time, let's go with a bulk-up meal\r\nthat'll have you consume plenty of\r\ncarbs! It's the national dish that everyone\r\nloves! Please get the one with beef!"
+msgstr ""
+
+msgctxt "53||category_21_answer||content"
+msgid "This time, you should consume carbs\r\nand vegetables! Make sure it's heavy\r\non the vegetables! This meal is\r\nfamous as a Nagasaki specialty!"
+msgstr ""
+
+msgctxt "54||category_22_answer||content"
+msgid "This time, we'll focus on veggies! Did you know\r\nginger also has tons of digestive health benefits?\r\nI want you to combine a ton of veggies with ginger!\r\n\r\nThere's a popular chain that's been in town for\r\nyears that serves up some great veggie dishes."
+msgstr ""
+
+msgctxt "55||category_23_answer||content"
+msgid "This time, protein will be our main focus!\r\nI suggest a meal that offers a lot of \r\nvegetable protein! It might be good for\r\nthe appetite if it's on the spicier side."
+msgstr ""
+
+msgctxt "56||category_24_answer||content"
+msgid "Now, let's go with a dish that contains both\r\npork and veggies! Make sure it's something\r\nthat'll fill you up! Cabbage would be good\r\nfor the vegetable!"
+msgstr ""
+
+msgctxt "57||category_25_answer||content"
+msgid "This time, let's maintain a good balance of\r\nvitamins and protein! I suggest going for\r\nvegetables and chicken! Steamed chicken\r\nbreasts would be ideal!"
+msgstr ""
+

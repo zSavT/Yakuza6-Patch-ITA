@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 26
+msgctxt "Offset_0x56A6C_Len_26"
+msgid "I want everything you own."
+msgstr ""
+
+#. Max bytes: 27
+msgctxt "Offset_0x56AAC_Len_27"
+msgid "I want you to be my friend."
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0x56AEC_Len_31"
+msgid "I want you on my baseball team."
+msgstr ""
+
+#. Max bytes: 27
+msgctxt "Offset_0x570EC_Len_27"
+msgid "I want you to be my friend."
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0x5712C_Len_31"
+msgid "I want you on my baseball team."
+msgstr ""
+
+#. Max bytes: 74
+msgctxt "Offset_0x578F4_Len_74"
+msgid "Yoshida, of Yoshida Batting Center fame,\nhas joined the Setouchi Warriors!"
+msgstr ""
+

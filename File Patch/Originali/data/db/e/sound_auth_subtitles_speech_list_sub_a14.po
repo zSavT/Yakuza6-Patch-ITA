@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "[Hello, Mr. Kiryu.]"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Hm? You're that guy from before.\r\nPaul Lim, right?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "[So we meet again.]"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Huh? Sorry, I don't speak English."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Oh, right."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Hey, Akaishizawa!\r\nGet over here."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Oh, Kiryu-chi!"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "You need somethin'? <font_kind=yakuza_italic>Whoaaa</font_kind>!\r\nHow long has Paul Lim been here!?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Not long at all. He's trying to talk to me,\r\nbut I can't understand a word he's saying."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Gotcha. That's why ya need me, huh?"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "All right, Paul.\r\nI'm ready to hear you out now."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "[I've heard a lot about you lately, Kiryu-san.]"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "[It seems you have become\r\nthe best darts player in town.]"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Uh-huh, uh-huh."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "He said you're unstoppable force, Kiryu-chi.\r\nThe best dart slinger this side o' the Millennium Tower."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "He said you're gettin' famous, Kiryu-chi.\r\nYou're the best slinger this side o' the Millennium Tower."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Hm...\r\nWell, I <font_kind=yakuza_italic>have</font_kind> practiced a lot."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "[I think we could have\r\na pretty good match, Kiryu-san.]"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "[Would you like to play against me?]"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Whoaaa, this is crazy!\r\nI wanna see who wins that battle!"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Paul-chi said he wants to go\r\n<font_kind=yakuza_italic>mano a mano</font_kind> with you, Kiryu-chi!"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Really?"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Hold on a sec.\r\nIsn't this old guy a living legend?"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Kiryu-chi! If you're a real man,\r\nyou've totally gotta accept his challenge!"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "All right.\r\nThis is where your legend ends."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "[Yes!\r\nCome on!]"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Whoaaa! This match is gonna be off the hook!\r\nSo freakin' pumped!"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Sorry, but I'm kinda busy right now.\r\nLet's save it for some other time."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Huhhh?\r\nYou're so lame, Kiryu-chi!"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "[Oh...]"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "[I'll be here for a while.]"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "[If you're feeling up to the challenge,\r\ncome see me.]"
+msgstr ""
+
+msgctxt "34||||4"
+msgid "He says he's gonna hang 'round here.\r\nIf you ever wanna tussle, just let him know."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Got it."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "[Hello, Kiryu-san.\r\nAre you ready to challenge me?]"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Oh, Kiryu-chi!\r\nYou wanna take the legend down!?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Damn... He's really good."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "You were real freakin' close, Kiryu-chi!\r\nAin't nobody gonna bring Paul Lim down, though!"
+msgstr ""
+
+msgctxt "40||||4"
+msgid "[Oh my god!]"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Duuude, this is amazin'!\r\nYou beat the one and only Paul Lim!"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "[Thank you, Mr. Kiryu.\r\nYou are a very, very good player.]"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "[I appreciated the match.\r\nI'd like you to have this.]"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "These are... your darts?"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "It's to thank ya for playin' him!"
+msgstr ""
+
+msgctxt "46||||4"
+msgid "[I really enjoyed challenging you, Kiryu-san.]"
+msgstr ""
+
+msgctxt "47||||4"
+msgid "[I'll play you again\r\nwhenever you feel up to it.]"
+msgstr ""
+
+msgctxt "48||||4"
+msgid "He says he's down to play ya some more,\r\nso just let him know if you're free."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "I see.\r\nThat could be fun."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "[Oh, okay!]"
+msgstr ""
+
+msgctxt "51||||4"
+msgid "[Well then, Kiryu-san.\r\nI hope we get to enjoy another game.]"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "He's lookin' forward to playin' ya again!\r\nOh, and \"hahahahaha\"!"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "The living legend, Paul Lim..."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "I should give him another match sometime."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "[Hello, Kiryu-san.\r\nWould you like to challenge me to a match?]"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Oh, Kiryu-chi!\r\nYou wanna play against Paul Lim?"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Kiryu-chi! Paul Lim says this is\r\nhis thanks for the heated match!"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "I'm gonna have to keep workin'\r\nto catch up to you two. Later!"
+msgstr ""
+

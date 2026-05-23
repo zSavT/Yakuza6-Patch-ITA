@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hey, watch where you're standin'!"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "No, I...!"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Hey, are you okay...!?"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Can you move?\r\nCome on, answer me."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "You should be checkin' on her instead..."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Hm? <font_kind=yakuza_italic>Her</font_kind>...?"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "I'm all right, somehow."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Huh? Why am I over there?"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "The hell's this shit?\r\nMy own body's... in front of me?"
+msgstr ""
+
+msgctxt "15||||4"
+msgid "H-H-Huh? What's going on?\r\nHuh!?"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Is this some kinda dream or somethin'...?"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "What is their problem?"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Lady Kazumiii! L-Lady Kazumi!"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Let me get this straight. The shock from\r\nthe fall made you guys switch bodies?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Yes. That's how it seems."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "It don't make any sense to me, either..."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "So, you're Kazuo... and the one in that body is Kazumi.\r\nEven your names are confusing."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Th-This is ridiculous.\r\nIt's not possible!"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Stay calm, Muranaka."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "You brat!\r\nHow dare you take that tone with me!?"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "You sure that's how you wanna talk to her?\r\nAin't she supposed to be your master?"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Enough joking around, Lady Kazumi!\r\nWe need to get you to a hospital at once."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "It's fine, I ain't hurt or nothing.\r\nWe've got way bigger problems than that right now."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Your name's Kiryu-san, right? Sorry,\r\nbut mind not tellin' anyone about this?"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Not that anyone's gonna believe you, anyways."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Kazuo-kun... How are you so calm right now?\r\nThis is no time for joking around!"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Tch, enough of this charade..."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Madam, I must insist that you\r\nreturn home!"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Fine, then Kazumi should come along..."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Absolutely not!"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "What...?\r\nBut Muranaka...!"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "I've said it enough times, thugs like him\r\nare not permitted at our residence."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "C'mon, you thick-headed butler.\r\nEven you gotta realize the mistake you're makin'."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "We've got to stick together or there's\r\nno way we'll figure out how to swap back..."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Now, enough of this strange behavior!\r\nWe're leaving, Madam!"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Kazumi, it'll be okay.\r\nI'll have someone come pick you up right away!"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Yo... Kazuo, was it?\r\nEr, Kazumi for now, I guess."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Is everything okay?\r\nIt sounded like you guys are in a complicated situation."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Complicated wouldn't even cut it...\r\nAm I going to be in Kazuo-kun's body forever...?"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Hey... Aw crap."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Crying isn't gonna fix anything..."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "A guy's body isn't so bad, y'know.\r\nYou can piss standing up now, so that's something..."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Nah, I guess you'd rather look for a\r\nway to get your own body back, huh?"
+msgstr ""
+
+msgctxt "55||||4"
+msgid "If there's any way I could help you out..."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Hm? Are you okay...?"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "No matter how hard you fall down the stairs,\r\npeople don't just swap bodies with each other, man!"
+msgstr ""
+
+msgctxt "59||||4"
+msgid "So this was all an act..."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Yep, you got it."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "So you guys were lying about the\r\nbody swap thing the whole time?"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "I guess if it were that easy, this sorta thing\r\nwould've happened to a lot of people by now."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "I-I don't know w-what to tell you...\r\nbut it happened..."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "But that means you and that girl are accomplices.\r\nWhy don't you drop the act already?"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "So it was an act after all, huh?\r\nEverything including falling down the stairs..."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Yep, you got it."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "If you need to cry,\r\nI'll lend you my shoulder to cry on."
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "Even though you're in a guy's body, you're a girl inside,\r\nright? I can't just leave a lady in distress."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "Come over here, Kazumi."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Hm? Are you okay...?"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "No matter how hard you fall down the stairs,\r\npeople don't just swap bodies with each other, man!"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "So this was all an act..."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Yep, you got it."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "Kiryu-san, was it?\r\nI feel bad about dragging you into all of this..."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "But we have our own reasons for doing it."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "And what reason is that?"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Kazumi, the girl I claimed to switch places with...\r\nshe belongs to the Iwami family."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "The Iwami family...?"
+msgstr ""
+
+msgctxt "89||||4"
+msgid "Yeah, she's not part of the head family, but she's\r\npretty damn close. Basically... her family's loaded."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "No one would believe that Kazumi\r\nis dating a guy like me."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Yeah, I bet..."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "For a girl as privileged as Kazumi, she's a good person.\r\nShe looks at who you are, not where you came from."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "And to get to the point...\r\nwe're in a serious relationship."
+msgstr ""
+
+msgctxt "95||||4"
+msgid "But the people around us... especially that butler,\r\nMuranaka, are desperately trying to break us apart."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "He convinced her parents to send her away for school.\r\nIf that happens, we may never see each other again."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "I see. So that's why you made up that act...\r\nYou guys didn't really have another choice."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "If your daughter swaps bodies with someone, you can't\r\nexactly break 'em up until they swap back, y'know?"
+msgstr ""
+
+msgctxt "99||||4"
+msgid "I doubt anyone would totally believe it."
+msgstr ""
+
+msgctxt "100||||4"
+msgid "That's the thing, they don't need to believe it 100%.\r\nYou just need them to believe it's possible."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "As long as we keep playing our parts, they should\r\nbelieve just enough to keep the two of us together."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "What a bizarre idea. Did you come up with it?"
+msgstr ""
+
+msgctxt "103||||4"
+msgid "Nah, it's all her.\r\nShe got it from a movie or something."
+msgstr ""
+
+msgctxt "104||||4"
+msgid "I see..."
+msgstr ""
+
+msgctxt "105||||4"
+msgid "Oh, hold up, Kiryu-san."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "107||||4"
+msgid "It's Muranaka...\r\nKazumi probably sent him to pick me up..."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "Nah... if that were the case,\r\nthere wouldn't be so many people."
+msgstr ""
+
+msgctxt "109||||4"
+msgid "In any case, I'm gonna act like Kazumi again,\r\nso could you play along?"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Muranaka! You've come to pick me up, yes?\r\nWhere's Kazuo-kun?"
+msgstr ""
+
+msgctxt "111||||4"
+msgid "You have no business here.\r\nLeave us to our affairs."
+msgstr ""
+
+msgctxt "112||||4"
+msgid "And if I don't?"
+msgstr ""
+
+msgctxt "113||||4"
+msgid "If you stay, you'll suffer alongside him."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "What is the meaning of this...?\r\nAnswer me, Muranaka!"
+msgstr ""
+
+msgctxt "116||||4"
+msgid "You shitty brat...\r\nHow long do you plan to keep up this act?"
+msgstr ""
+
+msgctxt "117||||4"
+msgid "No, this... isn't an act!\r\nI really swapped bodies with Kazuo-kun...!"
+msgstr ""
+
+msgctxt "118||||4"
+msgid "Shut up!"
+msgstr ""
+
+msgctxt "121||||4"
+msgid "How's that? If you don't want to get hurt,\r\nstop this disgusting act now."
+msgstr ""
+
+msgctxt "122||||4"
+msgid "No, Muranaka. It's really me, Kazumi.\r\nPlease believe me...!"
+msgstr ""
+
+msgctxt "124||||4"
+msgid "Uh-huh, you just don't know when to give up...\r\nLet's see which gives out first, you or your lies..."
+msgstr ""
+
+msgctxt "126||||4"
+msgid "How's that!? Give up and apologize already!"
+msgstr ""
+
+msgctxt "127||||4"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "128||||4"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "129||||4"
+msgid "My name... is Kazumi!"
+msgstr ""
+
+msgctxt "130||||4"
+msgid "You brat...!"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "That's enough."
+msgstr ""
+
+msgctxt "132||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "133||||4"
+msgid "I have nothing to do with any of this, but..."
+msgstr ""
+
+msgctxt "134||||4"
+msgid "I can't stand by and watch when\r\nsomeone lays their hands on a woman."
+msgstr ""
+
+msgctxt "135||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "136||||4"
+msgid "You're not from around here, are you?\r\nYou should have left while you had the chance."
+msgstr ""
+
+msgctxt "137||||4"
+msgid "I'll teach you what happens..."
+msgstr ""
+
+msgctxt "138||||4"
+msgid "When an outsider meddles in someone else's affairs!"
+msgstr ""
+
+msgctxt "140||||4"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "141||||4"
+msgid "Kazuo-kun!? What happened to you!? And this is..."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "I'm so sorry about Muranaka."
+msgstr ""
+
+msgctxt "144||||4"
+msgid "Please forgive me, Kazuo-kun...\r\nI didn't think Muranaka could be so cruel..."
+msgstr ""
+
+msgctxt "145||||4"
+msgid "I'm fine, don't worry about me."
+msgstr ""
+
+msgctxt "146||||4"
+msgid "But Kiryu-san... why'd you step in to help me?"
+msgstr ""
+
+msgctxt "147||||4"
+msgid "You knew that this was all an act. So why...?"
+msgstr ""
+
+msgctxt "148||||4"
+msgid "No matter how much you got hurt,\r\nyou never stopped saying you were really Kazumi."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "Maybe I just believed for a moment\r\nthat you really were Kazumi."
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Sometimes, a lie that you risk your life for\r\ncan be true to someone... but only sometimes."
+msgstr ""
+
+msgctxt "151||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "153||||4"
+msgid "So? What are you guys gonna do now?"
+msgstr ""
+
+msgctxt "154||||4"
+msgid "We're gonna continue this act, right...?"
+msgstr ""
+
+msgctxt "155||||4"
+msgid "Yup... and if Muranaka attacks me again,\r\nI'll tell him that you have my back, Kiryu."
+msgstr ""
+
+msgctxt "156||||4"
+msgid "Do what you want. I won't guarantee\r\nthat I'll actually come, though."
+msgstr ""
+
+msgctxt "157||||4"
+msgid "But... I wonder how long\r\nwe'd have to keep this up..."
+msgstr ""
+
+msgctxt "158||||4"
+msgid "Yeah... I wouldn't mind keeping it going forever, though."
+msgstr ""
+
+msgctxt "159||||4"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "160||||4"
+msgid "If it's with you, I could lie forever.\r\nWe only need to be true to each other."
+msgstr ""
+
+msgctxt "161||||4"
+msgid "Kazuo... kun..."
+msgstr ""
+
+msgctxt "162||||4"
+msgid "Can't you two do that in private?"
+msgstr ""
+
+msgctxt "163||||4"
+msgid "S-Sorry..."
+msgstr ""
+
+msgctxt "164||||4"
+msgid "Well then... I'm good to go, right?"
+msgstr ""
+
+msgctxt "165||||4"
+msgid "Thank you so much, Kiryu-san."
+msgstr ""
+
+msgctxt "166||||4"
+msgid "I'm very grateful. Thanks a lot!"
+msgstr ""
+
+msgctxt "167||||4"
+msgid "Quite the trouble I've caused."
+msgstr ""
+
+msgctxt "168||||4"
+msgid "Were you... watching this whole time?"
+msgstr ""
+
+msgctxt "169||||4"
+msgid "Yeah, I heard everything. It seems like\r\nthey've both strengthened their resolve."
+msgstr ""
+
+msgctxt "170||||4"
+msgid "Did you know the whole time?\r\nWere you testing those two?"
+msgstr ""
+
+msgctxt "171||||4"
+msgid "What would you have done if I hadn't stopped you?"
+msgstr ""
+
+msgctxt "172||||4"
+msgid "I wonder... But I assumed that you would."
+msgstr ""
+
+msgctxt "173||||4"
+msgid "Sometimes you can tell what a person is\r\nthinking just by the look in their eyes."
+msgstr ""
+
+msgctxt "174||||4"
+msgid "Clever guy."
+msgstr ""
+
+msgctxt "175||||4"
+msgid "I will continue to test them.\r\nIf you would like to interfere, please feel free."
+msgstr ""
+
+msgctxt "176||||4"
+msgid "Nah... I'm sure they'll be fine,\r\nespecially with you on their side."
+msgstr ""
+
+msgctxt "177||||4"
+msgid "Well, thank you. She's a handful...\r\nI guess new responsibilities are part of getting older."
+msgstr ""
+
+msgctxt "178||||4"
+msgid "Yeah... I know what you mean."
+msgstr ""
+

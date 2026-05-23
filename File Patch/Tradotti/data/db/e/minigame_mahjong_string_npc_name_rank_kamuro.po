@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "45||rarabai_weak00||text"
+msgid "Passionate Tezuka"
+msgstr "Tezuka l'appassionato"
+
+msgctxt "46||rarabai_weak01||text"
+msgid "Healthy Sugino"
+msgstr "Sugino il salutista"
+
+msgctxt "47||rarabai_weak02||text"
+msgid "Bargaining Yasui"
+msgstr "Yasui il negoziatore"
+
+msgctxt "48||rarabai_weak03||text"
+msgid "Idle Keiko"
+msgstr "Keiko la pigra"
+
+msgctxt "49||rarabai_weak04||text"
+msgid "Direct Hit Ran-chan"
+msgstr "Ran-chan colpo diretto"
+
+msgctxt "50||rarabai_middle00||text"
+msgid "Gamblin' Toru"
+msgstr "Toru lo scommettitore"
+
+msgctxt "51||rarabai_middle01||text"
+msgid "Dynamic Toku-san"
+msgstr "Toku-san il dinamico"
+
+msgctxt "52||rarabai_middle02||text"
+msgid "Nocturnal Takashi"
+msgstr "Takashi il notturno"
+
+msgctxt "53||rarabai_middle03||text"
+msgid "Lucky Ishida"
+msgstr "Ishida il fortunato"
+
+msgctxt "54||rarabai_middle04||text"
+msgid "Leopard Print Yuki"
+msgstr "Yuki in stile leopardo"
+
+msgctxt "55||kindai_middle00||text"
+msgid "Out-of-luck Hidekazu"
+msgstr "Hidekazu lo sfortunato"
+
+msgctxt "56||kindai_middle01||text"
+msgid "Stormbringer Nohara"
+msgstr "Nohara portatore di tempesta"
+
+msgctxt "57||kindai_middle02||text"
+msgid "Habitually Lying Jun"
+msgstr "Jun il bugiardo"
+
+msgctxt "58||kindai_middle03||text"
+msgid "Impeccable Megumi"
+msgstr "Megumi l'impeccabile"
+
+msgctxt "59||kindai_middle04||text"
+msgid "Lightning Fast Nesumi"
+msgstr "Nesumi fulmineo"
+
+msgctxt "60||kindai_strong00||text"
+msgid "Obese Child Kishitani"
+msgstr "Bimbo paffuto Kishitani"
+
+msgctxt "61||kindai_strong01||text"
+msgid "Tuna Roll Fiend Chin-san"
+msgstr "Chin-san maniaco del tonno"
+
+msgctxt "62||kindai_strong02||text"
+msgid "Meow Expert Furanken"
+msgstr "Furanken esperto di miao"
+
+msgctxt "63||kindai_strong03||text"
+msgid "Over-the-top Kanoko"
+msgstr "Kanoko l'esagerata"
+
+msgctxt "64||kindai_strong04||text"
+msgid "Smirking Nanami"
+msgstr "Nanami la sorridente"
+
+msgctxt "65||rarabai_event_00||text"
+msgid "Superbly Skilled Kaido"
+msgstr "Kaido il formidabile"
+
+msgctxt "66||rarabai_event_01||text"
+msgid "The Lullaby Guardian"
+msgstr "Il guardiano della ninna nanna"
+
+msgctxt "67||rarabai_event_02||text"
+msgid "Aggressive Sayaka"
+msgstr "Sayaka l'aggressiva"
+
+msgctxt "68||kindai_event_00||text"
+msgid "Demonic Mokufuchi"
+msgstr "Mokufuchi il demoniaco"
+
+msgctxt "69||kindai_event_01||text"
+msgid "Old School Fujioka"
+msgstr "Fujioka vecchia scuola"
+
+msgctxt "70||kindai_event_02||text"
+msgid "Fire Summoner Sadako"
+msgstr "Sadako l'evocatrice di fiamme"

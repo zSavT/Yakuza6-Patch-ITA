@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 5
+msgctxt "Offset_0x3D5A3_Len_5"
+msgid "@DJ C"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x72BE1_Len_7"
+msgid "t	@Xy C"
+msgstr ""
+
+#. Max bytes: 68
+msgctxt "Offset_0xB58B4_Len_68"
+msgid "(Where I last saw him...?\nThat would be the Yoshida Batting Center.)"
+msgstr ""
+

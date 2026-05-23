@@ -1,0 +1,772 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Man, RIZAP's the real deal, huh?\r\nTotally proved me wrong."
+msgstr "Amico, RIZAP fa sul serio, eh?\r\nMi ha fatto ricredere alla grande."
+
+msgctxt "1||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "2||||4"
+msgid "It's pretty freaking amazing.\r\nI mean, check out this slim body!"
+msgstr "È a dir poco incredibile.\r\nInsomma, guarda che fisico snello!"
+
+msgctxt "3||||4"
+msgid "And you used to be a real chubfest, too.\r\nNice, RIZAP! Think I should join up too?"
+msgstr "E pensare che prima eri un vero ciccione.\r\nNiente male, RIZAP! Pensi che dovrei iscrivermi anch'io?"
+
+msgctxt "4||||4"
+msgid "For sure, for sure!\r\nYou're not gonna regret it!"
+msgstr "Di sicuro, assolutamente!\r\nNon te ne pentirai!"
+
+msgctxt "5||||4"
+msgid "RIZAP...\r\nI've heard a lot about this gym lately."
+msgstr "(RIZAP...\r\nHo sentito parlare molto di questa palestra ultimamente.)"
+
+msgctxt "7||||4"
+msgid "All right, I'll see what this is all about."
+msgstr "(D'accordo, andrò a vedere di che si tratta.)"
+
+msgctxt "8||||4"
+msgid "Hm? Can I help you, sir?\r\nAre you interested in joining our gym?"
+msgstr "Mh? Posso aiutarla, signore?\r\nÈ interessato a iscriversi alla nostra palestra?"
+
+msgctxt "9||||4"
+msgid "Hm? Oh, nah.\r\nI just wanted to see what it's about."
+msgstr "Mh? Oh, nah.\r\nVolevo solo dare un'occhiata."
+
+msgctxt "10||||4"
+msgid "Very well, sir. We usually ask for\r\nappointments, but I've got a moment."
+msgstr "Molto bene, signore. Di solito riceviamo\r\nsu appuntamento, ma ho un attimo libero."
+
+msgctxt "11||||4"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "12||||4"
+msgid "Okay..."
+msgstr "Okay..."
+
+msgctxt "13||||4"
+msgid "This is where you check in, sir."
+msgstr "È qui che ci si registra, signore."
+
+msgctxt "14||||4"
+msgid "Great, thanks."
+msgstr "Ottimo, grazie."
+
+msgctxt "15||||4"
+msgid "RIZAP... I've heard a lot about this gym lately.\r\nShould I head in?"
+msgstr "(RIZAP... Ho sentito parlare molto di questa palestra ultimamente.\r\nDovrei entrare?)"
+
+msgctxt "16||||4"
+msgid "Welcome, sir!"
+msgstr "Benvenuto, signore!"
+
+msgctxt "17||||4"
+msgid "This is, uh... my first time."
+msgstr "Questa è, ehm... la mia prima volta."
+
+msgctxt "18||||4"
+msgid "So you're a new customer.\r\nThen first, let me explain how we do things."
+msgstr "Quindi è un nuovo cliente.\r\nAllora per prima cosa mi lasci spiegare come funzionano le cose."
+
+msgctxt "19||||4"
+msgid "We're a membership-based gym, outfitted with dozens\r\nof private training rooms and state-of-the-art equipment."
+msgstr "Siamo una palestra riservata ai membri, dotata di dozzine\r\ndi sale d'allenamento private e attrezzature all'avanguardia."
+
+msgctxt "20||||4"
+msgid "Members only, huh?\r\nI need to join?"
+msgstr "Solo membri, eh?\r\nDevo iscrivermi?"
+
+msgctxt "21||||4"
+msgid "Yep! First you'll need to undergo\r\na free counseling session."
+msgstr "Esatto! Prima di tutto dovrà sottoporsi\r\na una sessione di consulenza gratuita."
+
+msgctxt "22||||4"
+msgid "Based on that session, we then create\r\na personalized training plan, just for you."
+msgstr "Sulla base di quella sessione, creeremo poi\r\nun piano d'allenamento personalizzato, solo per lei."
+
+msgctxt "23||||4"
+msgid "If you like what we have on offer,\r\nyou'll be able to register right then and there."
+msgstr "Se le piace ciò che abbiamo da offrire,\r\npotrà iscriversi seduta stante."
+
+msgctxt "24||||4"
+msgid "Interesting. So I get free counseling,\r\nthen decide whether or not I wanna join..."
+msgstr "Interessante. Quindi ho una consulenza gratuita,\r\ne poi decido se voglio iscrivermi o no..."
+
+msgctxt "25||||4"
+msgid "All right then, I'll give it a shot."
+msgstr "D'accordo allora, farò un tentativo."
+
+msgctxt "26||||4"
+msgid "Great, let me go get your counselor, sir.\r\nPlease take a seat over there."
+msgstr "Fantastico, vado a chiamare il suo consulente, signore.\r\nLa prego di accomodarsi laggiù."
+
+msgctxt "27||||4"
+msgid "Sure, no prob."
+msgstr "Certo, nessun problema."
+
+msgctxt "28||||4"
+msgid "Thank you for waiting, sir."
+msgstr "Grazie per l'attesa, signore."
+
+msgctxt "29||||4"
+msgid "I'll be both your counselor and trainer.\r\nThe name's Makuta."
+msgstr "Sarò sia il suo consulente che il suo personal trainer.\r\nMi chiamo Makuta."
+
+msgctxt "30||||4"
+msgid "Wait, you're the trainer, too?\r\nAnyway, I'm Kazuma Kiryu. Good to meet you."
+msgstr "Aspetta, sei anche il personal trainer?\r\nComunque, sono Kazuma Kiryu. Piacere di conoscerti."
+
+msgctxt "31||||4"
+msgid "Kiryu-san, then? Great name.\r\nYou're already in great shape, too!"
+msgstr "Kiryu-san, dunque? Ottimo nome.\r\nEd è già in gran forma!"
+
+msgctxt "32||||4"
+msgid "Such finely toned muscles!\r\nI'll have to beef up my training to match you!"
+msgstr "Che muscoli ben scolpiti!\r\nDovrò intensificare il mio allenamento per essere alla sua altezza!"
+
+msgctxt "33||||4"
+msgid "R-Right..."
+msgstr "G-Giusto..."
+
+msgctxt "34||||4"
+msgid "Now then, let me tell you just\r\nhow things go down here at RIZAP."
+msgstr "Ora, mi lasci spiegare esattamente\r\ncome funzionano le cose qui al RIZAP."
+
+msgctxt "35||||4"
+msgid "Please do."
+msgstr "Prego."
+
+msgctxt "36||||4"
+msgid "As our receptionist mentioned,\r\nwe're known for our private training rooms."
+msgstr "Come ha accennato il nostro receptionist,\r\nsiamo famosi per le nostre sale d'allenamento private."
+
+msgctxt "37||||4"
+msgid "Each member gets one-on-one care from a trainer,\r\nresulting in absolutely out of this world service!"
+msgstr "Ogni membro riceve un'attenzione individuale da un trainer,\r\nil che si traduce in un servizio assolutamente fuori dal mondo!"
+
+msgctxt "38||||4"
+msgid "Oh, and you can change trainers whenever you want!\r\nFind the one that suits your style!"
+msgstr "Oh, e può cambiare trainer quando vuole!\r\nTrovi quello che si adatta meglio al suo stile!"
+
+msgctxt "39||||4"
+msgid "That option sounds kinda appealing..."
+msgstr "Questa opzione sembra piuttosto allettante..."
+
+msgctxt "40||||4"
+msgid "One more thing we offer here<symbol=em_dash_with_outline>\r\nWe also include free diet advice to help you slim down!"
+msgstr "Un'altra cosa che offriamo qui<symbol=em_dash_with_outline>\r\nIncludiamo anche consigli alimentari gratuiti per aiutarla a dimagrire!"
+
+msgctxt "41||||4"
+msgid "So you do training...\r\n<font_kind=yakuza_italic>And</font_kind> you plan my meals?"
+msgstr "Quindi mi alleni...\r\n<font_kind=yakuza_italic>E</font_kind> pianifichi i miei pasti?"
+
+msgctxt "42||||4"
+msgid "That's right. Our dietitians work 'round the clock\r\nto offer only the best tips for maximum gains!"
+msgstr "Esattamente. I nostri nutrizionisti lavorano ininterrottamente\r\nper offrire solo i migliori consigli per massimizzare i risultati!"
+
+msgctxt "43||||4"
+msgid "I mean, a customer who never eats protein would\r\nnever get the rippling muscles he desires, right?"
+msgstr "Voglio dire, un cliente che non mangia mai proteine non otterrebbe\r\nmai i muscoli scolpiti che desidera, giusto?"
+
+msgctxt "44||||4"
+msgid "Our training and diet tips are absolutely vital for\r\ngetting the most out of your experience."
+msgstr "Il nostro allenamento e i nostri consigli alimentari sono assolutamente\r\nvitali per ottenere il massimo dalla sua esperienza."
+
+msgctxt "45||||4"
+msgid "True enough.\r\nI guess you have a point there."
+msgstr "Abbastanza vero.\r\nImmagino tu abbia un punto a favore."
+
+msgctxt "46||||4"
+msgid "Now then, a training session and a diet plan\r\ncombine to form one round of the RIZAP Challenge."
+msgstr "Dunque, una sessione d'allenamento e un piano alimentare\r\nsi combinano per formare un round della Sfida RIZAP."
+
+msgctxt "47||||4"
+msgid "As a member of our gym, you'll have the opportunity\r\nto take on 12 whole RIZAP Challenge rounds."
+msgstr "Come membro della nostra palestra, avrà l'opportunità\r\ndi affrontare ben 12 interi round della Sfida RIZAP."
+
+msgctxt "48||||4"
+msgid "And that's the whole RIZAP experience!"
+msgstr "Ed ecco l'esperienza RIZAP al completo!"
+
+msgctxt "49||||4"
+msgid "Great. Sounds pretty useful."
+msgstr "Ottimo. Sembra piuttosto utile."
+
+msgctxt "50||||4"
+msgid "Now then, let's head to the counseling room!"
+msgstr "Bene allora, andiamo nella sala consulenze!"
+
+msgctxt "51||||4"
+msgid "Your answers'll help us map out your training plan,\r\nso be sure to tell the truth!"
+msgstr "Le sue risposte ci aiuteranno a tracciare il suo piano d'allenamento,\r\nquindi si assicuri di dire la verità!"
+
+msgctxt "52||||4"
+msgid "Yeah, I can do that."
+msgstr "Sì, posso farlo."
+
+msgctxt "53||||4"
+msgid "Well, that concludes the assessment.\r\nThe counseling part of our training is now over!"
+msgstr "Bene, questo conclude la valutazione.\r\nLa parte di consulenza del nostro allenamento è finita!"
+
+msgctxt "54||||4"
+msgid "I have the perfect regimen for you, Kiryu-san.\r\nCome on, take a look!"
+msgstr "Ho il regime perfetto per lei, Kiryu-san.\r\nVenga, dia un'occhiata!"
+
+msgctxt "55||||4"
+msgid "Wow, it actually looks pretty good.\r\nI'm impressed."
+msgstr "Wow, in effetti sembra ottimo.\r\nSono impressionato."
+
+msgctxt "56||||4"
+msgid "Don't be.\r\nTraining you right is just part of my job."
+msgstr "Non lo sia.\r\nAllenarla nel modo giusto è solo parte del mio lavoro."
+
+msgctxt "57||||4"
+msgid "Anyway, Kiryu-san...\r\nHow do you feel about joining us?"
+msgstr "Ad ogni modo, Kiryu-san...\r\nCome si sente all'idea di unirsi a noi?"
+
+msgctxt "58||||4"
+msgid "A RIZAP membership...\r\nWhat should I do?"
+msgstr "(Un'iscrizione al RIZAP...\r\nCosa dovrei fare?)"
+
+msgctxt "59||||4"
+msgid "I'll join.\r\nTraining like this is too good to resist."
+msgstr "Mi iscrivo.\r\nUn allenamento del genere è troppo bello per resistergli."
+
+msgctxt "60||||4"
+msgid "Ah, thank you very much!\r\nI'll process your membership right away!"
+msgstr "Ah, la ringrazio moltissimo!\r\nElaborerò subito la sua iscrizione!"
+
+msgctxt "61||||4"
+msgid "(I don't have enough money...\r\nMaybe I should come back later.)"
+msgstr "(Non ho abbastanza soldi...\r\nForse dovrei tornare più tardi.)"
+
+msgctxt "62||||4"
+msgid "Sorry, but I think I'll pass."
+msgstr "Scusa, ma credo che passerò."
+
+msgctxt "63||||4"
+msgid "I see.\r\nThat's quite a shame..."
+msgstr "Capisco.\r\nÈ un vero peccato..."
+
+msgctxt "64||||4"
+msgid "Please come back if you change your mind, though.\r\nWe'll welcome you with open arms!"
+msgstr "La prego di tornare se dovesse cambiare idea, però.\r\nLa accoglieremo a braccia aperte!"
+
+msgctxt "65||||4"
+msgid "Great. Looking forward to it."
+msgstr "Ottimo. Non vedo l'ora."
+
+msgctxt "66||||4"
+msgid "(I should talk to the RIZAP trainer\r\nagain if I want to join.)"
+msgstr "(Dovrei parlare di nuovo con il personal trainer\r\ndel RIZAP se voglio iscrivermi.)"
+
+msgctxt "67||||4"
+msgid "Welcome, sir.\r\nHow can I help you today?"
+msgstr "Benvenuto, signore.\r\nCome posso aiutarla oggi?"
+
+msgctxt "68||||4"
+msgid "I'm looking to join RIZAP.\r\nIs that all right?"
+msgstr "Vorrei iscrivermi al RIZAP.\r\nÈ possibile?"
+
+msgctxt "69||||4"
+msgid "Ah, but of course!\r\nI'll process your membership right away!"
+msgstr "Ah, ma certamente!\r\nElaborerò subito la sua iscrizione!"
+
+msgctxt "70||||4"
+msgid "(I don't have enough money...\r\nMaybe I should come back later.)"
+msgstr "(Non ho abbastanza soldi...\r\nForse dovrei tornare più tardi.)"
+
+msgctxt "71||||4"
+msgid "Actually, I don't need anything right now.\r\nSorry to bother you."
+msgstr "In realtà, non mi serve niente al momento.\r\nScusa per il disturbo."
+
+msgctxt "72||||4"
+msgid "Understood.\r\nJust let me know if you want to bulk up!"
+msgstr "Capito.\r\nMi faccia sapere se vuole mettere su massa!"
+
+msgctxt "73||||4"
+msgid "Thank you again for joining us!\r\nIn case you forgot, I'm your trainer, Makuta."
+msgstr "La ringrazio ancora per essersi unito a noi!\r\nNel caso se lo fosse dimenticato, sono il suo personal trainer, Makuta."
+
+msgctxt "74||||4"
+msgid "Right. Looking forward to starting up.\r\nGive me everything you've got, okay?"
+msgstr "Giusto. Non vedo l'ora di iniziare.\r\nDammi tutto quello che hai, okay?"
+
+msgctxt "75||||4"
+msgid "But of course!\r\nDon't forget, I'm the best trainer in town!"
+msgstr "Ma certamente!\r\nNon dimentichi che sono il miglior personal trainer in città!"
+
+msgctxt "76||||4"
+msgid "Your muscles'll slice through diamonds\r\nonce I'm through with you!"
+msgstr "I suoi muscoli taglieranno i diamanti\r\nuna volta che avrò finito con lei!"
+
+msgctxt "77||||4"
+msgid "Y-Yeah... Nice."
+msgstr "S-Sì... Ottimo."
+
+msgctxt "78||||4"
+msgid "Now then, let me explain\r\njust how you train here!"
+msgstr "Ora, mi lasci spiegare\r\nesattamente come ci si allena qui!"
+
+msgctxt "79||||4"
+msgid "Whenever you're in the mood,\r\ncome talk to me here at RIZAP HQ."
+msgstr "Ogni volta che ne ha voglia,\r\nvenga a parlarmi qui al quartier generale RIZAP."
+
+msgctxt "80||||4"
+msgid "Then once you pick your routine of choice,\r\nthe sweat will start flowing!"
+msgstr "Poi, una volta scelta la sua routine,\r\ninizierà a scorrere il sudore!"
+
+msgctxt "81||||4"
+msgid "Ah, by the way, one session will\r\nconsist of two separate training routines."
+msgstr "Ah, a proposito, una sessione\r\nconsisterà in due routine d'allenamento separate."
+
+msgctxt "82||||4"
+msgid "Got it. So when I want to train,\r\nI just drop by and talk to you?"
+msgstr "Capito. Quindi quando voglio allenarmi,\r\npasso di qui e parlo con te?"
+
+msgctxt "83||||4"
+msgid "That's right! Don't forget, there'll be\r\ndietary advice after each session as well."
+msgstr "Esatto! Non dimentichi che ci saranno\r\nanche consigli alimentari dopo ogni sessione."
+
+msgctxt "84||||4"
+msgid "But we can talk about that when we come to it.\r\nI think I've crammed enough info in here already."
+msgstr "Ma ne parleremo quando sarà il momento.\r\nCredo di averle già fornito abbastanza informazioni."
+
+msgctxt "85||||4"
+msgid "Now then, let's get sweating!"
+msgstr "Ora, andiamo a sudare!"
+
+msgctxt "86||||4"
+msgid "Kiryu-san!\r\nAre you ready to start training?"
+msgstr "Kiryu-san!\r\nÈ pronto per iniziare l'allenamento?"
+
+msgctxt "87||||4"
+msgid "Yeah, let's do it."
+msgstr "Sì, facciamolo."
+
+msgctxt "88||||4"
+msgid "To the training room, then!"
+msgstr "Alla sala d'allenamento, allora!"
+
+msgctxt "89||||4"
+msgid "Tell me, Kiryu-san.\r\nWhat routine would you like to do?"
+msgstr "Mi dica, Kiryu-san.\r\nQuale routine le piacerebbe fare?"
+
+msgctxt "90||||4"
+msgid "Let's go with this."
+msgstr "Andiamo con questa."
+
+msgctxt "91||||4"
+msgid "Perfect!\r\nTo the training room!"
+msgstr "Perfetto!\r\nAlla sala d'allenamento!"
+
+msgctxt "92||||4"
+msgid "Nah, not right now."
+msgstr "Nah, non adesso."
+
+msgctxt "93||||4"
+msgid "Understood. Please come back\r\nwhen you're in the mood!"
+msgstr "Capito. La prego di tornare\r\nquando se la sente!"
+
+msgctxt "94||||4"
+msgid "Tell me, Kiryu-san!\r\nWhich routine comes next?"
+msgstr "Mi dica, Kiryu-san!\r\nQuale routine facciamo adesso?"
+
+msgctxt "95||||4"
+msgid "This one looks good."
+msgstr "Questa mi sembra buona."
+
+msgctxt "96||||4"
+msgid "Perfect!\r\nJust give me a second to set up!"
+msgstr "Perfetto!\r\nMi dia solo un secondo per preparare tutto!"
+
+msgctxt "97||||4"
+msgid "All right, that's it for today's session!\r\nNow let's see how you did..."
+msgstr "Molto bene, per la sessione di oggi è tutto!\r\nOra vediamo come se l'è cavata..."
+
+msgctxt "98||||4"
+msgid "That was perfect, Kiryu-san!\r\nYou must be in excellent shape!"
+msgstr "È stato perfetto, Kiryu-san!\r\nDeve essere in forma eccellente!"
+
+msgctxt "99||||4"
+msgid "You did a great job!\r\nNo slacking though<symbol=em_dash_with_outline>try even harder next time!"
+msgstr "Ha fatto un ottimo lavoro!\r\nNiente scuse però<symbol=em_dash_with_outline>la prossima volta si impegni ancora di più!"
+
+msgctxt "100||||4"
+msgid "Things really didn't go so well, huh?\r\nRelax, recharge, and try harder next time!"
+msgstr "Le cose non sono andate molto bene, eh?\r\nSi rilassi, si ricarichi e si impegni di più la prossima volta!"
+
+msgctxt "101||||4"
+msgid "Next, let's talk about your diet!"
+msgstr "Ora, parliamo della sua alimentazione!"
+
+msgctxt "102||||4"
+msgid "Kiryu-san, you should eat whatever\r\nyou think is the healthiest option."
+msgstr "Kiryu-san, dovrebbe mangiare l'opzione\r\nche ritiene più salutare."
+
+msgctxt "103||||4"
+msgid "Oh, but be sure to take photos of your food!\r\nAnd don't forget to send them to me."
+msgstr "Oh, ma si assicuri di scattare delle foto al suo cibo!\r\nE non dimentichi di inviarmele."
+
+msgctxt "104||||4"
+msgid "Only then will I be able to assess whether\r\nor not your diet is on the right track."
+msgstr "Solo così potrò valutare se la\r\nsua dieta è o meno sulla strada giusta."
+
+msgctxt "105||||4"
+msgid "<font_kind=yakuza_italic>I</font_kind> have to decide?"
+msgstr "Devo decidere <font_kind=yakuza_italic>io</font_kind>?"
+
+msgctxt "106||||4"
+msgid "I thought you'd be the one telling me\r\nwhat I'm supposed to eat."
+msgstr "Pensavo saresti stato tu a dirmi\r\ncosa dovrei mangiare."
+
+msgctxt "107||||4"
+msgid "I certainly <font_kind=yakuza_italic>could</font_kind> do that."
+msgstr "<font_kind=yakuza_italic>Potrei</font_kind> certamente farlo."
+
+msgctxt "108||||4"
+msgid "But if you don't form the right eating habits now,\r\nRIZAP's training will never help you slim down."
+msgstr "Ma se non prende le giuste abitudini alimentari ora,\r\nl'allenamento RIZAP non l'aiuterà mai a dimagrire."
+
+msgctxt "109||||4"
+msgid "As your trainer and mentor,\r\nit's vital that I guide you toward a healthy future."
+msgstr "Come suo trainer e mentore, è vitale\r\nche io la guidi verso un futuro sano."
+
+msgctxt "110||||4"
+msgid "Huh. You're actually pretty legit."
+msgstr "Uhm. Sei piuttosto in gamba, in effetti."
+
+msgctxt "111||||4"
+msgid "Didn't I tell you?\r\nI'm the best trainer in town!"
+msgstr "Non gliel'avevo detto?\r\nSono il miglior personal trainer in città!"
+
+msgctxt "112||||4"
+msgid "Although, I imagine most people don't\r\nhave a grasp on what the healthiest options are."
+msgstr "Anche se, immagino che la maggior parte delle persone non\r\nabbia ben chiaro quali siano le opzioni più salutari."
+
+msgctxt "113||||4"
+msgid "That's why I'll be dropping hints for you.\r\nFollow them carefully to boost your training to the max!"
+msgstr "Ecco perché le lascerò dei suggerimenti.\r\nLi segua attentamente per massimizzare il suo allenamento!"
+
+msgctxt "114||||4"
+msgid "All right, then. Sounds good."
+msgstr "D'accordo, allora. Mi sembra perfetto."
+
+msgctxt "115||||4"
+msgid "Now then, let's talk about your diet!\r\nYour recommendation for today is..."
+msgstr "Bene, parliamo della sua alimentazione!\r\nIl consiglio di oggi è..."
+
+msgctxt "116||||4"
+msgid "I'll also text my hints to the number you\r\nprovided upon registering as a RIZAP member."
+msgstr "Le invierò i miei suggerimenti anche al numero di cellulare\r\nche ha fornito al momento dell'iscrizione come membro RIZAP."
+
+msgctxt "117||||4"
+msgid "Got it."
+msgstr "Ricevuto."
+
+msgctxt "118||||4"
+msgid "Farewell, Kiryu-san!\r\nYou can do it!"
+msgstr "Arrivederci, Kiryu-san!\r\nPuò farcela!"
+
+msgctxt "119||||4"
+msgid "What's up, Kiryu-san?\r\nYou should be out eating!"
+msgstr "Come va, Kiryu-san?\r\nDovrebbe essere fuori a mangiare!"
+
+msgctxt "120||||4"
+msgid "Please come see me once you're finished."
+msgstr "La prego di venire a trovarmi una volta finito."
+
+msgctxt "121||||4"
+msgid "Welcome back, Kiryu-san!\r\nLet's see how that meal of yours was..."
+msgstr "Bentornato, Kiryu-san!\r\nVediamo com'era quel suo pasto..."
+
+msgctxt "122||||4"
+msgid "Now then, let's see how this round\r\nof the RIZAP Challenge turned out."
+msgstr "Dunque, vediamo com'è andato questo round\r\ndella Sfida RIZAP."
+
+msgctxt "123||||4"
+msgid "That was fantastic, Kiryu-san!\r\nBoth your diet and training were flawless!"
+msgstr "È stato fantastico, Kiryu-san!\r\nSia la dieta che l'allenamento sono stati impeccabili!"
+
+msgctxt "124||||4"
+msgid "Your training was absolutely perfect,\r\nand your meal was well-balanced, too!"
+msgstr "Il suo allenamento è stato assolutamente perfetto,\r\ne anche il suo pasto era ben bilanciato!"
+
+msgctxt "125||||4"
+msgid "Your training was absolutely perfect,\r\nbut watch what you eat next time!"
+msgstr "Il suo allenamento è stato assolutamente perfetto,\r\nma faccia attenzione a ciò che mangia la prossima volta!"
+
+msgctxt "126||||4"
+msgid "Your training was absolutely perfect,\r\nbut, uh... your diet leaves a lot to be desired."
+msgstr "Il suo allenamento è stato assolutamente perfetto,\r\nma, ehm... la sua dieta lascia molto a desiderare."
+
+msgctxt "127||||4"
+msgid "I can't complain much about your diet!\r\nYour training was pretty good, too."
+msgstr "Non posso lamentarmi molto della sua dieta!\r\nAnche il suo allenamento è andato piuttosto bene."
+
+msgctxt "128||||4"
+msgid "It turned out pretty good overall!\r\nGive it 110% next time, though!"
+msgstr "Nel complesso è andata abbastanza bene!\r\nMa la prossima volta dia il 110%!"
+
+msgctxt "129||||4"
+msgid "Your training was really impressive,\r\nbut your diet could use a little work."
+msgstr "Il suo allenamento è stato davvero notevole,\r\nma la sua dieta avrebbe bisogno di un po' di lavoro."
+
+msgctxt "130||||4"
+msgid "Your training was definitely good,\r\nbut watch what you eat next time!"
+msgstr "Il suo allenamento è stato decisamente buono,\r\nma faccia attenzione a ciò che mangia la prossima volta!"
+
+msgctxt "131||||4"
+msgid "Your diet was wonderful! Now just tighten up\r\nyour training and you'll be all set!"
+msgstr "La sua dieta è stata meravigliosa! Ora deve solo intensificare\r\nl'allenamento e sarà a posto!"
+
+msgctxt "132||||4"
+msgid "Your diet turned out great!\r\nNow just put some more effort into training..."
+msgstr "La sua dieta è andata alla grande!\r\nOra deve solo impegnarsi un po' di più nell'allenamento..."
+
+msgctxt "133||||4"
+msgid "You should try a little harder during training!\r\nAnd maybe in your diet as well..."
+msgstr "Dovrebbe impegnarsi un po' di più durante l'allenamento!\r\nE forse anche nella sua dieta..."
+
+msgctxt "134||||4"
+msgid "You have issues on both sides of things...\r\nbut with my help, we'll hammer them out in no time!"
+msgstr "Ha problemi su entrambi i fronti...\r\nma con il mio aiuto, li risolveremo in men che non si dica!"
+
+msgctxt "135||||4"
+msgid "Now then, that brings our first round\r\nof the RIZAP Challenge to an end!"
+msgstr "Dunque, questo porta alla fine il nostro\r\nprimo round della Sfida RIZAP!"
+
+msgctxt "136||||4"
+msgid "How do you feel, Kiryu-san?\r\nIs RIZAP everything you hoped it would be?"
+msgstr "Come si sente, Kiryu-san?\r\nIl RIZAP è tutto ciò che sperava che fosse?"
+
+msgctxt "137||||4"
+msgid "Let me see...\r\nI guess I <font_kind=yakuza_italic>do</font_kind> feel a little more toned."
+msgstr "Fammi pensare...\r\nImmagino di sentirmi <font_kind=yakuza_italic>effettivamente</font_kind> un po' più tonico."
+
+msgctxt "138||||4"
+msgid "That's great news!\r\nYou're one step closer to that diamond-cutting body!"
+msgstr "È un'ottima notizia!\r\nÈ un passo più vicino a quel corpo che taglia i diamanti!"
+
+msgctxt "139||||4"
+msgid "But it's important to rest as well.\r\nYou should hold off a while until your next session."
+msgstr "Ma è importante anche riposare.\r\nDovrebbe aspettare un po' prima della prossima sessione."
+
+msgctxt "140||||4"
+msgid "All right, I'll come back later.\r\nLet's keep this going strong."
+msgstr "D'accordo, tornerò più tardi.\r\nContinuiamo così."
+
+msgctxt "141||||4"
+msgid "Of course! With my help,\r\nyou'll have the finest body in all of Kamurocho!"
+msgstr "Certamente! Con il mio aiuto,\r\navrà il corpo migliore di tutta Kamurocho!"
+
+msgctxt "142||||4"
+msgid "We're committed to results, after all.\r\nThat's RIZAP's mission statement!"
+msgstr "Dopotutto ci impegniamo per ottenere dei risultati.\r\nQuesta è la missione del RIZAP!"
+
+msgctxt "143||||4"
+msgid "Committed to results, huh? I can tell.\r\nI hope it makes a difference."
+msgstr "Impegnati per i risultati, eh? Me ne rendo conto.\r\nSpero che faccia la differenza."
+
+msgctxt "144||||4"
+msgid "As do I!\r\nWell, keep up the hard work!"
+msgstr "Lo spero anch'io!\r\nBeh, continui a lavorare sodo!"
+
+msgctxt "145||||4"
+msgid "(I should hold off on training until\r\nI see my results from the last session.)"
+msgstr "(Dovrei aspettare ad allenarmi finché\r\nnon vedrò i risultati della mia ultima sessione.)"
+
+msgctxt "146||||4"
+msgid "Welcome back, Kiryu-san!\r\nAre you looking to train today?"
+msgstr "Bentornato, Kiryu-san!\r\nHa intenzione di allenarsi oggi?"
+
+msgctxt "147||||4"
+msgid "Excellent!"
+msgstr "Eccellente!"
+
+msgctxt "148||||4"
+msgid "Nah, not right now."
+msgstr "Nah, non adesso."
+
+msgctxt "149||||4"
+msgid "I see.\r\nPlease come again if you have the time!"
+msgstr "Capisco.\r\nLa prego di tornare quando avrà tempo!"
+
+msgctxt "150||||4"
+msgid "All right, that's it for today's session!\r\nNow let's see how you did..."
+msgstr "Molto bene, per la sessione di oggi è tutto!\r\nOra vediamo come se l'è cavata..."
+
+msgctxt "151||||4"
+msgid "You did a great job!\r\nNo slacking though<symbol=em_dash_with_outline>try even harder next time!"
+msgstr "Ha fatto un ottimo lavoro!\r\nNiente scuse però<symbol=em_dash_with_outline>la prossima volta si impegni ancora di più!"
+
+msgctxt "152||||4"
+msgid "Oh yeah, this was a great session!\r\nLet's aim even higher next time!"
+msgstr "Oh sì, questa è stata un'ottima sessione!\r\nPuntiamo ancora più in alto la prossima volta!"
+
+msgctxt "153||||4"
+msgid "Things really didn't go so well, huh?\r\nRelax, recharge, and try harder next time!"
+msgstr "Le cose non sono andate molto bene, eh?\r\nSi rilassi, si ricarichi e si impegni di più la prossima volta!"
+
+msgctxt "154||||4"
+msgid "Now then, let's talk about your diet!\r\nYour recommendation for today is..."
+msgstr "Bene, parliamo della sua alimentazione!\r\nIl consiglio di oggi è..."
+
+msgctxt "155||||4"
+msgid "Farewell, Kiryu-san!\r\nYou can do it!"
+msgstr "Arrivederci, Kiryu-san!\r\nPuò farcela!"
+
+msgctxt "156||||4"
+msgid "What's up, Kiryu-san?\r\nYou should be out eating!"
+msgstr "Come va, Kiryu-san?\r\nDovrebbe essere fuori a mangiare!"
+
+msgctxt "157||||4"
+msgid "Please come see me once you're finished."
+msgstr "La prego di venire a trovarmi una volta finito."
+
+msgctxt "158||||4"
+msgid "Welcome back, Kiryu-san!\r\nLet's see how that meal of yours was..."
+msgstr "Bentornato, Kiryu-san!\r\nVediamo com'era quel suo pasto..."
+
+msgctxt "159||||4"
+msgid "Now then, let's see how this round\r\nof the RIZAP Challenge turned out."
+msgstr "Dunque, vediamo com'è andato questo round\r\ndella Sfida RIZAP."
+
+msgctxt "160||||4"
+msgid "That was fantastic, Kiryu-san!\r\nBoth your diet and training were flawless!"
+msgstr "È stato fantastico, Kiryu-san!\r\nSia la dieta che l'allenamento sono stati impeccabili!"
+
+msgctxt "161||||4"
+msgid "Your training was absolutely perfect,\r\nand your meal was well-balanced, too!"
+msgstr "Il suo allenamento è stato assolutamente perfetto,\r\ne anche il suo pasto era ben bilanciato!"
+
+msgctxt "162||||4"
+msgid "Your training was absolutely perfect,\r\nbut watch what you eat next time!"
+msgstr "Il suo allenamento è stato assolutamente perfetto,\r\nma faccia attenzione a ciò che mangia la prossima volta!"
+
+msgctxt "163||||4"
+msgid "Your training was absolutely perfect,\r\nbut, uh... your diet leaves a lot to be desired."
+msgstr "Il suo allenamento è stato assolutamente perfetto,\r\nma, ehm... la sua dieta lascia molto a desiderare."
+
+msgctxt "164||||4"
+msgid "I can't complain much about your diet!\r\nYour training was pretty good, too."
+msgstr "Non posso lamentarmi molto della sua dieta!\r\nAnche il suo allenamento è andato piuttosto bene."
+
+msgctxt "165||||4"
+msgid "It turned out pretty good overall!\r\nGive it 110% next time, though!"
+msgstr "Nel complesso è andata abbastanza bene!\r\nMa la prossima volta dia il 110%!"
+
+msgctxt "166||||4"
+msgid "Your training was really impressive,\r\nbut your diet could use a little work."
+msgstr "Il suo allenamento è stato davvero notevole,\r\nma la sua dieta avrebbe bisogno di un po' di lavoro."
+
+msgctxt "167||||4"
+msgid "Your training was definitely good,\r\nbut watch what you eat next time!"
+msgstr "Il suo allenamento è stato decisamente buono,\r\nma faccia attenzione a ciò che mangia la prossima volta!"
+
+msgctxt "168||||4"
+msgid "Your diet was wonderful! Now just tighten up\r\nyour training and you'll be all set!"
+msgstr "La sua dieta è stata meravigliosa! Ora deve solo intensificare\r\nl'allenamento e sarà a posto!"
+
+msgctxt "169||||4"
+msgid "Your diet turned out great!\r\nNow just put some more effort into training..."
+msgstr "La sua dieta è andata alla grande!\r\nOra deve solo impegnarsi un po' di più nell'allenamento..."
+
+msgctxt "170||||4"
+msgid "You should try a little harder during training!\r\nAnd maybe in your diet as well..."
+msgstr "Dovrebbe impegnarsi un po' di più durante l'allenamento!\r\nE forse anche nella sua dieta..."
+
+msgctxt "171||||4"
+msgid "You have issues on both sides of things...\r\nbut with my help, we'll hammer them out in no time!"
+msgstr "Ha problemi su entrambi i fronti...\r\nma con il mio aiuto, li risolveremo in men che non si dica!"
+
+msgctxt "172||||4"
+msgid "That concludes today's RIZAP Challenge.\r\nNicely done!"
+msgstr "Questo conclude la Sfida RIZAP di oggi.\r\nBen fatto!"
+
+msgctxt "173||||4"
+msgid "Wow, Kiryu-san!\r\nYou've done every single RIZAP Challenge!"
+msgstr "Wow, Kiryu-san!\r\nHa completato ogni singola Sfida RIZAP!"
+
+msgctxt "174||||4"
+msgid "Huh. So that was the last one?"
+msgstr "Uhm. Quindi quella era l'ultima?"
+
+msgctxt "175||||4"
+msgid "Yes, the 12th and final challenge is complete!\r\nNow let's see how far you've come!"
+msgstr "Sì, la dodicesima e ultima sfida è completa!\r\nOra vediamo quanto è andato lontano!"
+
+msgctxt "176||||4"
+msgid "So what did you think of RIZAP?"
+msgstr "Allora, cosa ne pensa del RIZAP?"
+
+msgctxt "177||||4"
+msgid "I'm glad I decided to join.\r\nI didn't expect such a personal touch."
+msgstr "Sono contento di essermi iscritto.\r\nNon mi aspettavo un tocco così personale."
+
+msgctxt "178||||4"
+msgid "I learned a lot about my diet, too.\r\nYou weren't kidding about being committed to results."
+msgstr "Ho imparato molto anche sulla mia dieta.\r\nNon stavi scherzando sull'essere impegnato per i risultati."
+
+msgctxt "179||||4"
+msgid "It's nice to hear such high praise!\r\nMore importantly, today marks your RIZAP graduation!"
+msgstr "È bello sentire elogi del genere!\r\nMa la cosa più importante è che oggi lei si diploma al RIZAP!"
+
+msgctxt "180||||4"
+msgid "However, Kiryu-san! You can re-enroll\r\nas a member whenever you'd like."
+msgstr "Tuttavia, Kiryu-san! Può re-iscriversi\r\ncome membro quando lo desidera."
+
+msgctxt "181||||4"
+msgid "Come talk to me if you're feeling out of shape!\r\nWe can start from the very beginning again!"
+msgstr "Venga a parlarmi se si sente fuori forma!\r\nPossiamo ricominciare tutto dall'inizio!"
+
+msgctxt "182||||4"
+msgid "Hopefully it doesn't come to that..."
+msgstr "Speriamo di non arrivare a questo..."
+
+msgctxt "183||||4"
+msgid "Don't be a stranger, Kiryu-san!"
+msgstr "Non faccia il forestiero, Kiryu-san!"
+
+msgctxt "184||||4"
+msgid "Ah, Kiryu-san! Are you looking\r\nto re-enroll in the RIZAP program?"
+msgstr "Ah, Kiryu-san! Sta cercando\r\ndi re-iscriversi al programma RIZAP?"
+
+msgctxt "185||||4"
+msgid "I am..."
+msgstr "Proprio così..."
+
+msgctxt "186||||4"
+msgid "I'm feeling kinda rusty, to be honest.\r\nGet me back on the plan."
+msgstr "Ad essere sincero, mi sento un po' arrugginito.\r\nRimettimi nel piano."
+
+msgctxt "187||||4"
+msgid "A wonderful decision!\r\nI'll process your membership right away!"
+msgstr "Una decisione fantastica!\r\nElaborerò subito la sua iscrizione!"
+
+msgctxt "188||||4"
+msgid "Please talk to me when you want to train!\r\nI'll help you get the body you've always dreamed of!"
+msgstr "La prego di parlarmi quando vuole allenarsi!\r\nL'aiuterò a ottenere il corpo che ha sempre sognato!"
+
+msgctxt "189||||4"
+msgid "(I don't have enough money...\r\nMaybe I should come back later.)"
+msgstr "(Non ho abbastanza soldi...\r\nForse dovrei tornare più tardi.)"
+
+msgctxt "190||||4"
+msgid "Actually, I was just checking in.\r\nSorry to bother you."
+msgstr "In realtà, stavo solo facendo un salto.\r\nScusa per il disturbo."
+
+msgctxt "191||||4"
+msgid "It's no problem.\r\nJust come again if you ever want to train!"
+msgstr "Non c'è problema.\r\nTorni pure quando ha voglia di allenarsi!"

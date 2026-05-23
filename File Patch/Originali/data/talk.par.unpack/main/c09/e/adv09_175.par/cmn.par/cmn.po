@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0x811A_Len_6"
+msgid " A\nף<"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0xD11C_Len_4"
+msgid " ^ؿ"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0xD2B4_Len_4"
+msgid "?W ="
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x13A2E_Len_6"
+msgid " >ףp?"
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x18A7A_Len_6"
+msgid "I@- +="
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x1C64C_Len_4"
+msgid "~ H="
+msgstr ""
+
+#. Max bytes: 36
+msgctxt "Offset_0x22B2D_Len_36"
+msgid "  !\"#$%&'()*,-.0134689;=?ACEGIKMPRUm"
+msgstr ""
+

@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||btl_tutorial_01_guard||title"
+msgid "Keeping Your Guard Up"
+msgstr "Mantenere la guardia"
+
+msgctxt "2||btl_tutorial_02_dodge||title"
+msgid "Dodging Attacks"
+msgstr "Schivare gli attacchi"
+
+msgctxt "3||btl_tutorial_03_set_up||title"
+msgid "Locking onto Enemies"
+msgstr "Agganciare i nemici"
+
+msgctxt "4||btl_tutorial_04_quick_attack||title"
+msgid "Rush Combo"
+msgstr "Combo base"
+
+msgctxt "5||btl_tutorial_05_strong_attack||title"
+msgid "Finishing Blow"
+msgstr "Colpo finale"
+
+msgctxt "6||btl_tutorial_06_down_attack||title"
+msgid "Double Finisher"
+msgstr "Doppio colpo finale"
+
+msgctxt "7||btl_tutorial_07_hact||title"
+msgid "Performing Heat Actions"
+msgstr "Eseguire Azioni Furore"
+
+msgctxt "8||btl_tutorial_08_hact_mode||title"
+msgid "Extreme Heat Mode"
+msgstr "Modalità Furore Estremo"
+
+msgctxt "9||btl_tutorial_09_encount_btl||title"
+msgid "Street Battle"
+msgstr "Battaglia di strada"
+
+msgctxt "10||btl_tutorial_10_throw||title"
+msgid "Grabbing and Throwing"
+msgstr "Afferrare e lanciare"
+
+msgctxt "11||btl_tutorial_11_weapon||title"
+msgid "Picking Up Weapons"
+msgstr "Raccogliere armi"
+
+msgctxt "12||btl_tutorial_12_defend_weapon||title"
+msgid "Dangerous Weapons"
+msgstr "Armi pericolose"
+
+msgctxt "13||btl_tutorial_13_snatch_weapon||title"
+msgid "Disarming Enemies"
+msgstr "Disarmare i nemici"
+
+msgctxt "15||finished||title"
+msgid "Defeat Your Foes"
+msgstr "Sconfiggi i tuoi nemici"
+
+msgctxt "1||btl_tutorial_01_guard||explanation"
+msgid "With people taking swings at you left and right, you need to know how\r\nto defend yourself. Hold <Sign:6,Combat> to put your guard up and block incoming attacks.\r\n\r\nWatch for openings in an enemy's attacks and strike!"
+msgstr "Con gente che ti tira pugni a destra e a manca, devi sapere come\r\ndifenderti. Tieni premuto <Sign:6,Combat> per alzare la guardia e parare gli attacchi in arrivo.\r\n\r\nCerca un'apertura negli attacchi nemici e colpisci!"
+
+msgctxt "2||btl_tutorial_02_dodge||explanation"
+msgid "Sometimes dodging can be an easier option than guarding.\nPress <Sign:3,Combat> to evade in the direction you're moving in.\n\nDodging is more difficult than guarding, but it makes it easier\nto find openings in the enemy's attacks."
+msgstr "A volte schivare può essere un'opzione più semplice rispetto a parare.\nPremi <Sign:3,Combat> per eludere nella direzione in cui ti muovi.\n\nSchivare è più difficile che parare, ma rende più facile\ntrovare un'apertura negli attacchi nemici."
+
+msgctxt "3||btl_tutorial_03_set_up||explanation"
+msgid "If you want to keep your eyes on your opponent, hold <Sign:4,Combat> to lock on to them.\r\n\r\nKiryu will always face the enemy regardless of how you move around.\r\nStaying focused on the fight is important on both offense and defense."
+msgstr "Se vuoi tenere gli occhi sull'avversario, tieni premuto <Sign:4,Combat> per agganciarlo.\r\n\r\nKiryu guarderà sempre il nemico, indipendentemente da come ti muovi.\r\nRimanere concentrati sullo scontro è importante sia in attacco che in difesa."
+
+msgctxt "4||btl_tutorial_04_quick_attack||explanation"
+msgid "Press <Sign:2,Combat> to perform a quick attack. If you want to keep up the pressure,\r\nchain quick attacks together into a Rush Combo by pressing <Sign:2,Combat> up to four times.\r\nGetting in some swift jabs can open up your opponent to other attacks.\r\n\r\n<Sign:2,Combat>/<Sign:2,Combat><Sign:2,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>"
+msgstr "Premi <Sign:2,Combat> per sferrare un attacco leggero. Se vuoi mantenere la pressione,\r\nconcatena gli attacchi leggeri in una Combo base premendo <Sign:2,Combat> fino a quattro volte.\r\nMettere a segno dei colpi rapidi può sbilanciare l'avversario e aprire la guardia per altri attacchi.\r\n\r\n<Sign:2,Combat>/<Sign:2,Combat><Sign:2,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>"
+
+msgctxt "5||btl_tutorial_05_strong_attack||explanation"
+msgid "During a Rush Combo, pressing <Sign:1,Combat> will unleash a powerful attack called a\r\nFinishing Blow. Not only does a Finishing Blow cause some serious damage, but\r\nit can also stun whoever winds up on the receiving end.\r\n\r\n<Sign:2,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>"
+msgstr "Durante una Combo base, premere <Sign:1,Combat> scatenerà un potente attacco chiamato\r\nColpo finale. Un Colpo finale non solo causa gravi danni, ma\r\npuò anche stordire chi lo riceve.\r\n\r\n<Sign:2,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>"
+
+msgctxt "6||btl_tutorial_06_down_attack||explanation"
+msgid "You can follow up a Finishing Blow by pressing <Sign:1,Combat> again to unleash a\r\nDouble Finisher. While it leaves you wide open, landing a Double Finisher\r\ncauses massive damage and blows your enemies away.\r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>"
+msgstr "Puoi far seguire a un Colpo finale un'ulteriore pressione di <Sign:1,Combat> per scatenare un\r\nDoppio colpo finale. Sebbene ti lasci esposto, mettere a segno un Doppio colpo finale\r\ncausa danni ingenti e spazza via i nemici.\r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>/<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>"
+
+msgctxt "7||btl_tutorial_07_hact||explanation"
+msgid "Successful attacks and blocks will fire up Kiryu and fill your Heat Orbs.\r\nPress <Sign:1,Combat> when the Heat Icon appears to expend a Heat Orb and\r\nactivate a Heat Action. Heat Actions are incredibly powerful special\r\nattacks that will wreak havoc on your unfortunate foes.\r\nHeat Actions you can execute change based on the current conditions of the\r\nfight, so be ready to press <Sign:1,Combat> as soon as you see the Heat Icon!"
+msgstr "Gli attacchi e le parate a segno caricheranno Kiryu e riempiranno i globi Furore.\r\nPremi <Sign:1,Combat> quando appare l'icona Furore per consumare un globo Furore e\r\nattivare un'Azione Furore. Le Azioni Furore sono attacchi speciali incredibilmente potenti\r\nche devasteranno i tuoi sfortunati nemici.\r\nLe Azioni Furore che puoi eseguire cambiano in base alle condizioni attuali dello\r\nscontro, quindi tieniti pronto a premere <Sign:1,Combat> non appena vedi l'icona Furore!"
+
+msgctxt "8||btl_tutorial_08_hact_mode||explanation"
+msgid "Heat Orbs can also be used to enter a special mode called Extreme Heat Mode.\r\nPress <Sign:5,Combat> to burst into flames and awaken the Dragon of Dojima. \r\n\r\nIn this form, your Heat will drain quickly and attacks cost Heat. However,\r\nthere are weapons and special attacks that can only be used in this mode.\r\nPain won't even faze you, so it's perfect for one-on-one fights."
+msgstr "I globi Furore possono essere usati anche per entrare in una modalità speciale chiamata Modalità Furore Estremo.\r\nPremi <Sign:5,Combat> per avvolgerti tra le fiamme e risvegliare il Drago di Dojima. \r\n\r\nIn questa forma, il Furore si esaurirà rapidamente e gli attacchi ne consumeranno altro. Tuttavia,\r\nci sono armi e attacchi speciali che possono essere usati solo in questa modalità.\r\nIl dolore non ti scalfirà minimamente, rendendola perfetta per gli scontri uno contro uno."
+
+msgctxt "9||btl_tutorial_09_encount_btl||explanation"
+msgid "Some nasty thugs just wander around town looking for fights for the hell of it.\r\nYou can ignore them, but you can earn rewards by teaching them a lesson."
+msgstr "Alcuni brutti ceffi si aggirano per la città cercando rissa tanto per fare.\r\nPuoi ignorarli, ma puoi ottenere delle ricompense dando loro una bella lezione."
+
+msgctxt "10||btl_tutorial_10_throw||explanation"
+msgid "When an enemy is guarding, you can grab them out of it with <Sign:0,Combat> and\r\nfollow up with an attack, or press <Sign:0,Combat> again to throw them.\r\n\r\nThrowing enemies is a great tactic for when you're surrounded.\r\n\r\n<Sign:0,Combat><Sign:2,Combat>/<Sign:0,Combat><Sign:1,Combat>/<Sign:0,Combat><Sign:0,Combat>"
+msgstr "Quando un nemico è in guardia, puoi afferrarlo e scoprirlo con <Sign:0,Combat> per poi\r\ncolpirlo con un attacco, o premere di nuovo <Sign:0,Combat> per lanciarlo.\r\n\r\nLanciare i nemici è un'ottima tattica quando sei circondato.\r\n\r\n<Sign:0,Combat><Sign:2,Combat>/<Sign:0,Combat><Sign:1,Combat>/<Sign:0,Combat><Sign:0,Combat>"
+
+msgctxt "11||btl_tutorial_11_weapon||explanation"
+msgid "Objects with <symbol=black_down_triangle> displayed above them can be picked up with <Sign:0,Combat> to use as a weapon.\nThe more painful something looks, the more damage it will probably do. \n\nWhen you're in a pinch, checking your surroundings for a weapon can turn\nthe tables on your enemies!"
+msgstr "Gli oggetti con un <symbol=black_down_triangle> sopra possono essere raccolti con <Sign:0,Combat> e usati come armi.\nPiù un oggetto sembra doloroso, più danni probabilmente infliggerà. \n\nQuando sei alle strette, cercare un'arma nei dintorni può ribaltare\nle sorti dello scontro a tuo favore!"
+
+msgctxt "12||btl_tutorial_12_defend_weapon||explanation"
+msgid "Dangerous weapons, like knives or guns, can't be blocked by guarding.\r\nYour only options are dodging with <Sign:3,Combat> or picking up a large object\r\nto defend yourself.\r\n\r\nYou'll have to be careful, as some attacks can't be guarded by small weapons."
+msgstr "Le armi pericolose, come coltelli o pistole, non possono essere parate con la guardia.\r\nLe tue uniche opzioni sono schivare con <Sign:3,Combat> o raccogliere un grosso oggetto\r\nper difenderti.\r\n\r\nDovrai fare attenzione, poiché alcuni attacchi non possono essere parati da armi di piccole dimensioni."
+
+msgctxt "13||btl_tutorial_13_snatch_weapon||explanation"
+msgid "Enemies wielding weapons can be disarmed by knocking them down or grabbing \r\nthem. Dropped weapons can be picked up, so you should always focus on \r\nenemies with weapons first. Fair is fair when they bring a knife to a fistfight.\r\n\r\nSome enemies are too strong to be disarmed, so you'll have to be cautious."
+msgstr "I nemici armati possono essere disarmati atterrandoli o afferrandoli. \r\nLe armi lasciate cadere possono essere raccolte, quindi dovresti sempre concentrarti per primi \r\nsui nemici armati. È giusto così, se portano un coltello a una scazzottata.\r\n\r\nAlcuni nemici sono troppo forti per essere disarmati, perciò dovrai prestare attenzione."
+
+msgctxt "14||get_ability||explanation"
+msgid "You can use EXP to strengthen Kiryu's abilities. \nYou can choose between various ability tabs with <Sign:6,UI>/<Sign:4,UI>,\nbut it's recommended to strengthen Kiryu's basic stats first."
+msgstr "Puoi usare gli EXP per potenziare le abilità di Kiryu. \nPuoi scorrere tra le varie schede delle abilità con <Sign:6,UI>/<Sign:4,UI>,\nma ti consigliamo di potenziare prima le statistiche base di Kiryu."
+
+msgctxt "15||finished||explanation"
+msgid "You know what to do. Time to beat down your foes however you see fit."
+msgstr "Sai cosa fare. È ora di massacrare i nemici nel modo che ritieni più opportuno."
+
+msgctxt "1||btl_tutorial_01_guard||command"
+msgid "<symbol=button_l1,Combat>"
+msgstr "<symbol=button_l1,Combat>"
+
+msgctxt "2||btl_tutorial_02_dodge||command"
+msgid "<symbol=button_batsu,Combat>"
+msgstr "<symbol=button_batsu,Combat>"
+
+msgctxt "3||btl_tutorial_03_set_up||command"
+msgid "<symbol=button_r1,Combat>"
+msgstr "<symbol=button_r1,Combat>"
+
+msgctxt "4||btl_tutorial_04_quick_attack||command"
+msgid "<symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_shikaku,Combat>"
+msgstr "<symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_shikaku,Combat>"
+
+msgctxt "5||btl_tutorial_05_strong_attack||command"
+msgid "<symbol=button_shikaku,Combat><symbol=button_sankaku,Combat>"
+msgstr "<symbol=button_shikaku,Combat><symbol=button_sankaku,Combat>"
+
+msgctxt "6||btl_tutorial_06_down_attack||command"
+msgid "<symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_sankaku,Combat><symbol=button_sankaku,Combat>"
+msgstr "<symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_sankaku,Combat><symbol=button_sankaku,Combat>"
+
+msgctxt "7||btl_tutorial_07_hact||command"
+msgid "<Sign:1,Combat> when Heat Icon is displayed."
+msgstr "<Sign:1,Combat> quando viene visualizzata l'icona Furore."
+
+msgctxt "8||btl_tutorial_08_hact_mode||command"
+msgid "<symbol=button_r2,Combat>"
+msgstr "<symbol=button_r2,Combat>"
+
+msgctxt "10||btl_tutorial_10_throw||command"
+msgid "<symbol=button_maru,Combat><symbol=button_maru,Combat>　<symbol=button_maru,Combat><symbol=button_sankaku,Combat>"
+msgstr "<symbol=button_maru,Combat><symbol=button_maru,Combat>　<symbol=button_maru,Combat><symbol=button_sankaku,Combat>"
+
+msgctxt "11||btl_tutorial_11_weapon||command"
+msgid "<symbol=button_maru,Combat> near a weapon you can pick up."
+msgstr "<symbol=button_maru,Combat> vicino a un'arma che puoi raccogliere."
+
+msgctxt "12||btl_tutorial_12_defend_weapon||command"
+msgid "<symbol=button_l1,Combat> while holding a weapon."
+msgstr "<symbol=button_l1,Combat> mentre impugni un'arma."
+
+msgctxt "13||btl_tutorial_13_snatch_weapon||command"
+msgid "<symbol=button_shikaku,Combat><symbol=button_sankaku,Combat>　<symbol=button_maru,Combat><symbol=button_sankaku,Combat>"
+msgstr "<symbol=button_shikaku,Combat><symbol=button_sankaku,Combat>　<symbol=button_maru,Combat><symbol=button_sankaku,Combat>"
+

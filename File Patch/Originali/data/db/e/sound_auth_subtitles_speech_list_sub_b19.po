@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Gen-san went into the bar.\r\nMaybe I should drop by too."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Welcome, Kiryu-san."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Oh, Kiryu-san you came by!"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "<symbol=note_with_outline> Kick on back <symbol=note_with_outline> Kiryu-san <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "What was that?"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Just my welcome-back-Kiryu-san song."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "If you're gonna break out into song,\r\nuse the new karaoke machine I bought."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Karaoke, huh? About that...\r\nI got a bone t'pick with ya, Mama..."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Yer mad? Why?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Because..."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "(Hmm, I didn't add to the conversation\r\nand it ended awkwardly.)"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "(They're still in the bar. I should\r\nclear my head and get back in there.)"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Gen-san... You're an incredible singer.\r\nI'm pretty floored."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "You just realized that, Kiryu-san?\r\nI gots the best voice in town."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "It was super fun, though. All of my\r\nfavorite songs are on that machine."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "I'd need more throats to sing 'em all."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Heh, I'm glad you enjoyed yourself.\r\nTechnology isn't so bad, right?"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Yer right."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Not that I can really talk.\r\nI don't keep up with tech either."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Well, yer better off than me fer sure."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "I hate on gadgets 'cause it feels like\r\nI'm gettin' left behind in the past."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "But ya'll showed me jus' how wrong\r\nabout that I was."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "It was my own fear of change keepin'\r\nme stuck in the past."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Then all you need to do is catch up.\r\nIt's never too late for that."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "I guess so... You're right."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Maybe I'll start by buyin' one of those\r\nnewfangled smartphone thingies."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "They're all high tech and convenient, yeah?"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Yeah, I've got one myself,\r\nso I could give you a few tips."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Really!? I'll be countin' on ya then,\r\nKiryu-san!"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Well, no time like the present.\r\nI'm off to the store to buy one! See ya!"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Y-Yeah. See you later."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Man, he's kind of impulsive."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "But I'm glad he's past his fear of using\r\nthat new karaoke machine."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Hm? An email from Gen-san...\r\nDid he just send me a selfie!?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Guess he already mastered his new phone.\r\nIf he's at the bar, maybe I'll drop by."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Yo Kiryu-san, check it out!"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Hey Gen-san, looks like you're already\r\nusing your smartphone."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Piece of cake!"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "He's been playing with his new toy since\r\nhe got here. He's like a little kid."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "It's jus' so amazing. You can do\r\nanything with it. Right, Kiryu-san?"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Yeah, smartphones are convenient."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "The GPS can tell you the weather. It'll\r\neven navigate y'anywhere you wanna go!"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Wow, that is certainly convenient."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "(GPS...?)"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "It can even stream high quality music.\r\nOh Kiryu-san, I wanted to ask something."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Huh? S-Sure... What about?"
+msgstr ""
+
+msgctxt "47||||4"
+msgid "I'm gonna buy a Bluetooth headset to\r\nlisten to music. Any recommendations?"
+msgstr ""
+
+msgctxt "48||||4"
+msgid "(Blue... Tooth?)"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Ah, no... I don't know much about that yet..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Darn. Well, lemme know if you find a good one.\r\nMan, the service is weak in the bar..."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Hey Mama, install some Wi-Fi in here!\r\nSpeed is king in the information age!"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "(Wi... Fi?)"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Yeah, yeah. I'll get to it.\r\nTalk about divin' in the deep end..."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Heh... Well I guess there's nothing\r\nleft for me to teach you..."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Not that I taught you anything\r\nto begin with..."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "All right! Let's do some karaoke!"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Gen-san's gone wild!"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "All right, I'm gonna sing a lot today. \r\nIt'll be a 12-hour duet with Mama!"
+msgstr ""
+
+msgctxt "59||||4"
+msgid "No way, I'd throw my voice out\r\nbefore I got halfway through that!"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Oh fine, fine. Let's start with\r\nmy jam, then... Today is a Diamond!"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Anyway... I'm glad Gen-san\r\ngot his love of karaoke back."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Yeah, I was a little worried,\r\nbut that's passed now."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "It can get quiet in here without\r\nGen-san singin'."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Heh, it's a really lively bar."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "How's it going? You an expert at\r\nusing the karaoke machine yet?"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "I've got it down completely! Started a\r\nmember account so it's even easier now."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "I'm kinda conflicted about him\r\nknowin' more about it than me now..."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Really? That's something."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "I haven't been gettin' as much exercise\r\nlately though, and it's affectin' my voice."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Hmm, true. It doesn't seem t'carry\r\nquite like it used to."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "So, I wanted to talk to you Kiryu-san..."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Hm? What about?"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "You run a baseball team, right?\r\nGot room on the team fer me?"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "You wanna join up?"
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Yeah, I'll get my body movin' with some\r\nbaseball and take my voice back!"
+msgstr ""
+
+msgctxt "77||||4"
+msgid "I've got confidence in my skills.\r\nHow 'bout it?"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "I can see that. Of course we'll take you.\r\nI expect some big hits, Gen-san."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "You know it! Thanks.\r\nCan't wait to play ball with you, Kiryu-san."
+msgstr ""
+

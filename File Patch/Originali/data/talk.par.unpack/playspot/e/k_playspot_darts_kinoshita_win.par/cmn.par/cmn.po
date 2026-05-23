@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 86
+msgctxt "Offset_0xA50_Len_86"
+msgid "Congratulations on defeating a mid-rank player!\nYou obtained Expert Darts as a reward."
+msgstr ""
+

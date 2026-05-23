@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "But please...!"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "I told ya, there's no way!"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "What's going on?\r\nIs something wrong?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Oh, Kiryu-san."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Hm? Who are you?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Huh? You don't know who I am...?"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Nope."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "At all...?"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "At all."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Kiryu-san... This man is one of the best\r\nbaseball players in the world, Kenji Gorchov-san."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Huh. I had no idea."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "So, what's a superstar like you\r\ndoing in a small town like this?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "He said... he's looking for some octopus."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Excuse me?"
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Accordin' to the legends, the tastiest octopus\r\nspecies on the planet lives right 'round here."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "They call it... the Delicious Octopus!"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "The Delicious Octopus...?"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Yessir, it doesn't actually have no fancy\r\nscientific name, so I just named it myself."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "You named it... \r\nDoes it really exist?"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "It sure does exist...\r\nThough I've only caught a couple personally."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Why is that?"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "They're real bigguns, n' real violent, too.\r\nPlus, they're near impossible t'catch."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Heard rumors 'bout fishermen goin' out to try,\r\nbut they 'parently never come back..."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "I've been in danger several times over it..."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Huh. Sounds terrifying."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Maybe, but those things are delicious."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "At least, delicious enough to lure <font_kind=yakuza_italic>me</font_kind>\r\nout to a backwater town like this."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Gorchov-san here's a real octopus aficionado,\r\nso the rumors did good t'draw him in."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Even so... I can't go out and catch them\r\nif you're sitting here injured like this!"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Isn't there any way you can help me!?\r\nI'll do anything!"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "I told ya, it ain't happenin'!\r\nThey're jus' too dangerous fer me."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "I'm actually kinda interested.\r\nI'll catch this octopus for you."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Huh? <font_kind=yakuza_italic>Yer</font_kind> gonna do it?"
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Yeah, I've become used to fishing lately.\r\nAnd I'm interested in that tasty octopus."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "But it's a dangerous creature. Will you be okay?"
+msgstr ""
+
+msgctxt "36||||4"
+msgid "I understand the risk. I've been in some pretty\r\ndangerous situations, I'm prepared for whatever happens."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Besides, I caught a large squid last time. If I can catch\r\na squid, an octopus shouldn't be much harder. Right?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "I don't know if that's true, but...\r\nIf you're so sure, you can go on n' try."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Please, I'm depending on you!"
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Yeah. But I don't work for free.\r\nYou said you'd do anything, right?"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "In that case, if I get that octopus for you,\r\nyou have to join my baseball team."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Does that work for you?\r\nYou're a superstar, right?"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Y-Yes!\r\nI'll gladly join you."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Great, then it's settled."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "To think everything would work out like this..."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Kay, I'll bring the ship 'round to the right spot.\r\nJus' talk to me when yer ready."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Got it."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Good luck out there!"
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Oh, Kiryu-san.\r\nY'ready to head out?"
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Come talk t'me when ya wanna raise anchor."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Okay! I'll go prep the boat!"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "I'll be waiting here until that\r\nlegendary octopus arrives on my plate!"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Wowww, that octopus really <font_kind=yakuza_italic>was</font_kind> delicious!"
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Yup, I was hopin' t'eat it again before I died,\r\nn' I did thanks to Kiryu-san."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "By the way Kiryu-san, here's your\r\npayment for this haul. Nice work."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Yeah, thanks."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "I'm so full!"
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Well? Satisfied now?"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Yes, it was incredible!\r\nThis'll pump me up for next season!"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Glad to hear it.\r\nAnd our promise? You're keeping it?"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Of course I am.\r\nIt'll be a good change of pace."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "I'm ready to join your team, Kiryu-san!"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Great, looking forward to it."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "I've heard of catching fish with worms,\r\nbut catching baseball players with octopus...?"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "I don't really know Kiryu-san well,\r\nbut he's quite an unbelievable person."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Yup. I've been on this planet fer years,\r\nbut I ain't ever met a guy like him before."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "He's a weird one, that Kiryu."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Yup. He certainly is."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Hey, what are you two talking about?"
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Nothing."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Y'know, jus' about how Amano-san's\r\ngot a huge crush on ya, Kiryu-san."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Wh-What're you talking about!?\r\nThat's not true!"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Then why're ya blushin' so much?"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "You're the worst, Isao-san!"
+msgstr ""
+
+msgctxt "76||||4"
+msgid "It was a close call this time... \r\nBut don't give up, try again another time."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "When you wanna go out to sea,\r\ncome talk to me."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "I'm not too sure 'bout the sea's conditions right now.\r\nTry comin' back another time."
+msgstr ""
+

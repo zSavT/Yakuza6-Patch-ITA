@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "What could make ya hate me so much, Gen-san?"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Mama, do you know what my hobby is?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Karaoke, right?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Anyone who's ever been to this bar would know that."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "He's been practicing his vocal work, too."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Whoa, I didn't know that."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Aren't you glad it's been upgraded?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "I splurged on the latest model, y'know. Make sure you sing a lot."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "There's no way I can sing on that..."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "It's way too high-tech for me."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Ah, come to think of it, Gen-san hasn't sung lately."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "But didn't you enjoy listening to other people singing?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Well sure, I like listening just as much as I like singing."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "The thing sounds great. I can tell it's a great machine."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Then sing already. Why waste those lungs?"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Relax, Mama."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "There's no way I could use such a fancy machine."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "It's even got a remote control with a screen on it..."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "That's what makes it useful!"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "It's easier to choose a song."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Yeah, but..."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Wait, have you not even sung on the new machine once yet?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "That's right. The shower is my only concert venue now."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "That so...?"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "I can't believe your complaint is that I got a better machine."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "What do you think, Kiryu-san?"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Why don't you try singing on it once?"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Yeah, you've never even tried."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Huh? Kiryu-san, were you even paying attention?"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Oh, sorry... What were we talking about?"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Gen-san's hating on the new machine without trying it."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "I just really dislike newfangled gadgets."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "I only just started learning how to use cordless phones..."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Gen-san, did you time travel from the past or something?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Nope."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Geez! I only bought it because I thought you'd use it."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Now I'm gonna be in the red!"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Ah, I figured money was your aim."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Hey, it's still a business after all."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Sheesh, I don't like depending on machines for everything."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "It's just asking for humanity to be taken over by a robot uprising."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "The previous karaoke was a machine too..."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Now now, let's calm down, Gen-san."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Yeah, machines just take getting used to. Right?"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Machines can be handy once you actually start using them."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Yup, I agree."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Huh? What did you say?"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "S-Sorry, I was thinking about something else..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Even though it's new, I was surprised by it suddenly showing up."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "So stay current. You got used to it right away, right?"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Yeah, I get pretty worked up trying to get my ranking up."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "You know this bar doesn't have a whole lot of customers."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Shut up."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Not the bar's ranking. The national ranking!"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "National?"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "That machine instantly ranks you against others in the country."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Even though the bar is small, I can sing against lots of people."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Do you guys have a problem with my bar's size...?"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "N-National karaoke ranking..."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "That's incredible! Is that really a thing!?"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Yeah, it is."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Why didn't you tell me!?"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Maybe because you were whining and not listening?"
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "It really isn't that complicated."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Umm..."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Let's try it, Gen-san! I sing karaoke from time to time."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Yeah... I guess I'll give it a shot."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Yep yep, you'll figure it out in no time."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "By the way, what type of songs do you sing, Gen-san?"
+msgstr ""
+
+msgctxt "72||||4"
+msgid "You used to sing a lot of enka, right?"
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Well, I like enka, but I want to sing this one song right now."
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Which song?"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "It's called \"Today is a Diamond.\""
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Wait, you actually like pop music!?"
+msgstr ""
+
+msgctxt "77||||4"
+msgid "I've never heard of it."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Yeah, I listen to pop songs now and then."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "It's been stuck in my head ever since I heard it on the radio."
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Does that karaoke machine have \"Today is a Diamond\" in it?"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Of course it does! I just sang it yesterday."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "All right, then I'm gonna give it a go!"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Let's teach you karaoke and take on Japan with \"Today is a Diamond\"!"
+msgstr ""
+
+msgctxt "84||||4"
+msgid "OH!"
+msgstr ""
+
+msgctxt "85||||4"
+msgid "But then, something about using a new machine..."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "I'd probably make it explode if I used it..."
+msgstr ""
+
+msgctxt "87||||4"
+msgid "It's not going to explode."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "I'm sure I'll be fine once I start using it."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "But I'll give it a try when I'm in the mood."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Thanks..."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "(That was a rather dull ending...)"
+msgstr ""
+

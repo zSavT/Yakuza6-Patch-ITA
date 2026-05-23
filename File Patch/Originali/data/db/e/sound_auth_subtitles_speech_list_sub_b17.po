@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm? Isn't that Hatakeyama-san?\r\nHe seems kinda down."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Why the long sigh, Hatakeyama-san?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Ah, Kiryu-san."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Well, it ain't much to speak of, but,\r\nI jus' had somethin' real precious stolen from me."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Something was stolen...\r\nYou mean by thieves?"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "A thief...?\r\nI s'pose y'could say that."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "You want to talk about it?\r\nWhy don't we head into the bar?"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Okay, if it ain't a bother to ya.\r\nI feel kinda bad about it."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Welcome Kiryu-san, Hatakeyama-san."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Gen-san just wandered in, too. \r\nShall I start pouring?"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Hm? What's wrong, Hatakeyama-san?\r\nY'seem kinda down."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "True, you're not yourself today.\r\nSomethin' amiss?"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Well... Y'see..."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Hmm, I didn't add to the conversation\r\nand it ended awkwardly."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "They're still in the bar.\r\nI should clear my head and get back in there."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Hatakeyama-san is going to spy on his daughter.\r\nI'm a little worried..."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "His daughter's going on a date at La Pente. \r\nMaybe I should check up on the guy."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "I'm worried about Hatakeyama-san. \r\nI should check La Pente just in case."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Hatakeyama-san should be spying on\r\nhis daughter at La Pente right now."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "I'll come back later."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Yo, Hatakeyama-san. \r\nHow's it going?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Kiryu-san...? Why're y'here?"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Couldn't let you get your daughter's\r\nboyfriend's blood on your hands."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "I said I wouldn't do anything like that.\r\n'Sides, the guy ain't even shown yet."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "She's been waitin' a while now."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Ah, so that's your daughter. She seems\r\npretty happy, despite having to wait."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Hatakeyama! Sorry I'm late!"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "I'm real sorry. Baseball practice went\r\nlong today. Y'okay?"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Y-Yeah. I just got here myself, actually."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Oh, really? I'm glad I got here\r\njust in time, then."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "\"Just in time,\" he says. \r\nShe's been waiting half an hour!"
+msgstr ""
+
+msgctxt "34||||4"
+msgid "He'll pay fer wasting her time..."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Relax, your daughter doesn't seem\r\nto mind. It looks fine."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Let's just stay quiet for now."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Well, let's get started. This one is\r\nreal hard, can y'make sense of it?"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Which one? Oh, that. Here, you\r\ngotta use the Pythagorean theorem."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Ohh, I think I get it!"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "They're just studying."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Whew, thanks fer the help. Hatakeyama,\r\nyou're a smart cookie."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "I think they're just study partners?\r\nIt looks pretty innocent to me."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Hmm, maybe I overthought it."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Why'd y'start studying, anyway?\r\nI thought baseball was all you cared about."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Because... With grades like mine, there's\r\nno way I'll get into the same college as you..."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "...Hm?"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Have y'talked to your father yet?\r\n'Bout college n' all that..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "No... I haven't mentioned college...\r\nOr you for that matter..."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "No problem. If it's hard to talk to\r\nhim, maybe I could go with."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Ya think he'll flip out and be all\r\nlike, \"You'll never take my daughter!\""
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Haha, my dad's real nice,\r\nI don't think it'll come to that."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "I just haven't been able to talk to him\r\nlately. I need t'tell him about us."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Yeah, an' I need t'study harder so\r\nyour dad won't worry 'bout us."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "And baseball too, right?\r\nI hope you guys win next year."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Yeah! Next homer I hit is\r\ngonna be just fer you, Hatakeyama!"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Oh really now?\r\nI'll wait for it then! <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Thanks fer doin' that, Kiryu-san."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Nah, I didn't do a thing.\r\nYou okay though?"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "I always thought o' my daughter as a\r\nlittle girl I'd be protectin' forever..."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "But I was wrong. A girl becomes a\r\nwoman, and she's gotta leave the nest..."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "I pretended it weren't natural at all,\r\nand I worked myself all into a tizzy..."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "I gotta let my little girl grow up.\r\nI'm such a loser."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "I guess I knew all that deep down,\r\nbut bein' a father's real rough."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Heh, maybe you're right, but your\r\ndaughter hasn't left home yet."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "You should appreciate the time you\r\nhave with her. Every moment counts."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Yeah, yer right. I gotta have a sit\r\ndown with her."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "I'll invite that Satoshi kid for\r\noysters or somethin'."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Good idea. From what little I saw,\r\nhe seems to be a good kid."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Well, I gotta get t'opening my shop."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Thanks for everything, Kiryu-san. \r\nLet's meet up at my place or the bar!"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Letting her grow up, huh?"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "Have a great talk with your girl.\r\nGood luck, Hatakeyama-san."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "77||||4"
+msgid "And? How'd that talk with your\r\ndaughter go?"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Yeah, we finally had that chat."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "That Satoshi kid ain't half bad either."
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Nice. So you're on good terms now?"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Yeah. 'Sides, a parent's got a responsibility\r\nto see their kids grow up proper."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "By the way... Word has it you're a\r\nball player, Kiryu-san. That true?"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Yeah, but it's just recreational."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "D'ya think a guy like me could play for ya then?"
+msgstr ""
+
+msgctxt "85||||4"
+msgid "Huh? Where's this coming from?"
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Well, my daughter seems t'be pretty\r\ninto ball players, so..."
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Heh, you're trying to look cool\r\nfor your daughter?"
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Is that so bad? 'Sides, it'll give me\r\nsomethin' to talk to Satoshi about."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "Of course you can play.\r\nLet's impress those kids together."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Thanks! Lookin' forward to the\r\nnext game, Kiryu-san!"
+msgstr ""
+

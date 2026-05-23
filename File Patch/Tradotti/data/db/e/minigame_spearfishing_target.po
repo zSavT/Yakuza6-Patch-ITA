@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||same||name"
+msgid "Great White Shark"
+msgstr "Grande squalo bianco"
+
+msgctxt "2||kajiki||name"
+msgid "Marlin"
+msgstr "Marlin"
+
+msgctxt "3||maguro||name"
+msgid "Tuna"
+msgstr "Tonno"
+
+msgctxt "4||madai||name"
+msgid "Japanese Sea Bream"
+msgstr "Orata giapponese"
+
+msgctxt "5||salmon||name"
+msgid "Salmon"
+msgstr "Salmone"
+
+msgctxt "6||onikasago||name"
+msgid "Devil Scorpionfish"
+msgstr "Scorfano diabolico"
+
+msgctxt "7||kawahagi||name"
+msgid "Thread-sail Filefish"
+msgstr "Pesce balestra"
+
+msgctxt "8||haze||name"
+msgid "Goby"
+msgstr "Ghiozzo"
+
+msgctxt "9||torafugu||name"
+msgid "Tiger Puffer"
+msgstr "Pesce palla tigre"
+
+msgctxt "10||harisen||name"
+msgid "Blowfish"
+msgstr "Pesce palla"
+
+msgctxt "11||karei||name"
+msgid "Flounder"
+msgstr "Passera di mare"
+
+msgctxt "12||anago||name"
+msgid "Conger Eel"
+msgstr "Grongo"
+
+msgctxt "13||ryuguu||name"
+msgid "Giant Oarfish"
+msgstr "Re di aringhe"
+
+msgctxt "14||octopus||name"
+msgid "Common Octopus"
+msgstr "Polpo comune"
+
+msgctxt "15||ika||name"
+msgid "Squid"
+msgstr "Calamaro"
+
+msgctxt "16||takaashigani||name"
+msgid "Giant Crab"
+msgstr "Granchio gigante"
+
+msgctxt "17||siirakansu||name"
+msgid "Coelacanth"
+msgstr "Celacanto"
+
+msgctxt "20||same_boss||name"
+msgid "Bloody Shark"
+msgstr "Squalo sanguinario"
+
+msgctxt "21||jellyfish||name"
+msgid "Jellyfish"
+msgstr "Medusa"
+
+msgctxt "22||ika_boss||name"
+msgid "Emperor Squid"
+msgstr "Calamaro imperatore"
+
+msgctxt "23||octopus_boss||name"
+msgid "Delicious Octopus"
+msgstr "Polpo delizioso"

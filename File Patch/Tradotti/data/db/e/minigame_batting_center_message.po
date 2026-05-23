@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||button_info_hitting||text"
+msgid "Hit"
+msgstr "Batti"
+
+msgctxt "17||unit_meter||text"
+msgid "M"
+msgstr "m"
+
+msgctxt "18||residue_num_1||text"
+msgid "${residue_num} balls remaining"
+msgstr "${residue_num} palle rimaste"
+
+msgctxt "19||residue_num_2||text"
+msgid "${residue_num} balls remaining"
+msgstr "${residue_num} palle rimaste"
+
+msgctxt "20||lock_information||text"
+msgid "Closed"
+msgstr "Chiuso"
+
+msgctxt "22||ball_info||text"
+msgid "<color=${pitch_color}>${type_of_pitch}</color>　${speed} km/h"
+msgstr "<color=${pitch_color}>${type_of_pitch}</color>　${speed} km/h"
+
+msgctxt "23||score_title_challenge||text"
+msgid "Score"
+msgstr "Punteggio"
+
+msgctxt "24||score_title_homerun||text"
+msgid "Score:"
+msgstr "Punteggio:"
+
+msgctxt "25||score_unit_challenge||text"
+msgid "Runs"
+msgstr "Punti"
+
+msgctxt "26||score_unit_homerun||text"
+msgid "Home Runs"
+msgstr "Fuoricampo"

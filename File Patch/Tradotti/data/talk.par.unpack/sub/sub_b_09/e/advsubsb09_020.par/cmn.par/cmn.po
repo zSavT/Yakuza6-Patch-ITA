@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 20
+msgctxt "Offset_0x530CF_Len_20"
+msgid " !\"#$%&()f[jmpbpkXC."
+msgstr ""
+
+#. Max bytes: 34
+msgctxt "Offset_0x1DE570_Len_34"
+msgid "Crying isn't gonna solve anything."
+msgstr ""
+
+#. Max bytes: 34
+msgctxt "Offset_0x1DE5B0_Len_34"
+msgid "There's no way you swapped bodies."
+msgstr ""
+
+#. Max bytes: 36
+msgctxt "Offset_0x1DE5F0_Len_36"
+msgid "I'll lend you my shoulder to cry on."
+msgstr ""
+

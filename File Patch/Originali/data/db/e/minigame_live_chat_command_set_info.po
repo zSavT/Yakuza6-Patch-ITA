@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "11||anri_start_first_play||chapterText"
+msgid "Nice to Meet You"
+msgstr ""
+
+msgctxt "12||anri_start_second_play||chapterText"
+msgid "Hello Again"
+msgstr ""
+
+msgctxt "13||anri_clear_after||chapterText"
+msgid "To Heaven"
+msgstr ""
+
+msgctxt "14||anri_test_01||chapterText"
+msgid "Anri Test 1"
+msgstr ""
+
+msgctxt "15||anri_test_02||chapterText"
+msgid "Anri Test 2"
+msgstr ""
+
+msgctxt "16||anri_movie1_01||chapterText"
+msgid "Heartbeat"
+msgstr ""
+
+msgctxt "17||anri_movie1_02||chapterText"
+msgid "S or M?"
+msgstr ""
+
+msgctxt "18||anri_movie1_03||chapterText"
+msgid "The Charm of an Older Woman"
+msgstr ""
+
+msgctxt "19||anri_movie1_04||chapterText"
+msgid "Broken AC"
+msgstr ""
+
+msgctxt "20||anri_movie1_05||chapterText"
+msgid "Kiryu's Banana"
+msgstr ""
+
+msgctxt "21||anri_movie1_06||chapterText"
+msgid "Just a Bit"
+msgstr ""
+
+msgctxt "22||anri_movie2_01||chapterText"
+msgid "It's Growing"
+msgstr ""
+
+msgctxt "23||anri_movie2_02||chapterText"
+msgid "Quite a Handful"
+msgstr ""
+
+msgctxt "24||anri_movie2_03||chapterText"
+msgid "Confidence"
+msgstr ""
+
+msgctxt "25||anri_movie2_04||chapterText"
+msgid "Leg-lovers Unite"
+msgstr ""
+
+msgctxt "26||anri_movie2_05||chapterText"
+msgid "A Trip to China"
+msgstr ""
+
+msgctxt "27||anri_movie2_06||chapterText"
+msgid "A Little Bit More..."
+msgstr ""
+
+msgctxt "28||anri_movie3_01||chapterText"
+msgid "Massage Time"
+msgstr ""
+
+msgctxt "29||anri_movie3_02||chapterText"
+msgid "I Love You"
+msgstr ""
+
+msgctxt "30||anri_movie3_03||chapterText"
+msgid "Hands All Over"
+msgstr ""
+
+msgctxt "31||anri_movie3_04||chapterText"
+msgid "Cravings"
+msgstr ""
+
+msgctxt "32||anri_movie3_05||chapterText"
+msgid "Take Me to Heaven"
+msgstr ""
+
+msgctxt "33||anri_movie1_99||chapterText"
+msgid "Not in the Mood"
+msgstr ""
+
+msgctxt "34||anri_movie2_99||chapterText"
+msgid "Not Feeling It"
+msgstr ""
+
+msgctxt "35||anri_movie3_99||chapterText"
+msgid "Logging Off"
+msgstr ""
+
+msgctxt "36||anri_movie4_99||chapterText"
+msgid "A Lifetime of Pleasure"
+msgstr ""
+
+msgctxt "37||yua_start_first_play||chapterText"
+msgid "Giving It My All!"
+msgstr ""
+
+msgctxt "38||yua_start_second_play||chapterText"
+msgid "Back for More"
+msgstr ""
+
+msgctxt "39||yua_clear_after||chapterText"
+msgid "Here I Am"
+msgstr ""
+
+msgctxt "40||yua_movie1_01||chapterText"
+msgid "How to Relax"
+msgstr ""
+
+msgctxt "41||yua_movie1_02||chapterText"
+msgid "Do You Have a Boyfriend?"
+msgstr ""
+
+msgctxt "42||yua_movie1_03||chapterText"
+msgid "S or M?"
+msgstr ""
+
+msgctxt "43||yua_movie1_04||chapterText"
+msgid "Getting Hotter"
+msgstr ""
+
+msgctxt "44||yua_movie1_05||chapterText"
+msgid "Kiryu's Sausage"
+msgstr ""
+
+msgctxt "45||yua_movie1_06||chapterText"
+msgid "A Little Present"
+msgstr ""
+
+msgctxt "46||yua_movie2_01||chapterText"
+msgid "Even Bigger"
+msgstr ""
+
+msgctxt "47||yua_movie2_02||chapterText"
+msgid "Come Closer"
+msgstr ""
+
+msgctxt "48||yua_movie2_03||chapterText"
+msgid "Every. Last. Inch."
+msgstr ""
+
+msgctxt "49||yua_movie2_04||chapterText"
+msgid "Yua's Request Corner"
+msgstr ""
+
+msgctxt "50||yua_movie2_05||chapterText"
+msgid "Injection Time"
+msgstr ""
+
+msgctxt "51||yua_movie2_06||chapterText"
+msgid "Naughty Together"
+msgstr ""
+
+msgctxt "52||yua_movie3_01||chapterText"
+msgid "Kinda Sore"
+msgstr ""
+
+msgctxt "53||yua_movie3_02||chapterText"
+msgid "Je T'aime"
+msgstr ""
+
+msgctxt "54||yua_movie3_03||chapterText"
+msgid "Touch Me..."
+msgstr ""
+
+msgctxt "55||yua_movie3_04||chapterText"
+msgid "Urges"
+msgstr ""
+
+msgctxt "56||yua_movie3_05||chapterText"
+msgid "Alone Time"
+msgstr ""
+
+msgctxt "57||yua_movie1_99||chapterText"
+msgid "Not Up To It"
+msgstr ""
+
+msgctxt "58||yua_movie2_99||chapterText"
+msgid "Feeling Out of It"
+msgstr ""
+
+msgctxt "59||yua_movie3_99||chapterText"
+msgid "Losing the Fire"
+msgstr ""
+
+msgctxt "60||yua_movie4_99||chapterText"
+msgid "Post Climax"
+msgstr ""
+
+msgctxt "61||anri_movie3_06||chapterText"
+msgid "Private Time"
+msgstr ""
+
+msgctxt "62||yua_movie3_06||chapterText"
+msgid "Private Heaven"
+msgstr ""
+

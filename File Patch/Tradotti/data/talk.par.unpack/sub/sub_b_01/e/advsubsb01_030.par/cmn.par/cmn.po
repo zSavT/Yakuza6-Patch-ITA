@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 4
+msgctxt "Offset_0x2B91C_Len_4"
+msgid "Q Z<"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x2BBDC_Len_4"
+msgid " k6<"
+msgstr ""
+
+#. Max bytes: 26
+msgctxt "Offset_0x7C579_Len_26"
+msgid " #'+34Udl^mreg[NBORai[M?2$"
+msgstr ""
+
+#. Max bytes: 25
+msgctxt "Offset_0xBA388_Len_25"
+msgid "Go tell him how you feel."
+msgstr ""
+
+#. Max bytes: 36
+msgctxt "Offset_0xBA3C8_Len_36"
+msgid "It's better if you don't go see him."
+msgstr ""
+
+#. Max bytes: 38
+msgctxt "Offset_0xBA408_Len_38"
+msgid "Why don't I help you forget about him?"
+msgstr ""
+

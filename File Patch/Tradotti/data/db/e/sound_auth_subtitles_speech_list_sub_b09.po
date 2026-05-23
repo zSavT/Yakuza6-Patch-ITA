@@ -1,0 +1,612 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hey, watch where you're standin'!"
+msgstr "Ehi, guarda dove metti i piedi!"
+
+msgctxt "1||||4"
+msgid "No, I...!"
+msgstr "No, io...!"
+
+msgctxt "2||||4"
+msgid "Hm?"
+msgstr "(Uhm?)"
+
+msgctxt "5||||4"
+msgid "Hey, are you okay...!?"
+msgstr "Ehi, tutto bene...!?"
+
+msgctxt "8||||4"
+msgid "Can you move?\r\nCome on, answer me."
+msgstr "Riesci a muoverti?\r\nForza, rispondimi."
+
+msgctxt "9||||4"
+msgid "You should be checkin' on her instead..."
+msgstr "Dovresti controllare lei, invece..."
+
+msgctxt "10||||4"
+msgid "Hm? <font_kind=yakuza_italic>Her</font_kind>...?"
+msgstr "Uhm? <font_kind=yakuza_italic>Lei</font_kind>...?"
+
+msgctxt "11||||4"
+msgid "I'm all right, somehow."
+msgstr "Io sto bene, in qualche modo."
+
+msgctxt "12||||4"
+msgid "What's going on here?"
+msgstr "(Che sta succedendo qui?)"
+
+msgctxt "13||||4"
+msgid "Huh? Why am I over there?"
+msgstr "Eh? Perché io sono laggiù?"
+
+msgctxt "14||||4"
+msgid "The hell's this shit?\r\nMy own body's... in front of me?"
+msgstr "Che cazzo è 'sta roba?\r\nIl mio corpo... è di fronte a me?"
+
+msgctxt "15||||4"
+msgid "H-H-Huh? What's going on?\r\nHuh!?"
+msgstr "E-E-Eh? Che succede?\r\nEh!?"
+
+msgctxt "16||||4"
+msgid "Is this some kinda dream or somethin'...?"
+msgstr "È una specie di sogno o roba del genere...?"
+
+msgctxt "17||||4"
+msgid "What is their problem?"
+msgstr "(Qual è il loro problema?)"
+
+msgctxt "19||||4"
+msgid "Lady Kazumiii! L-Lady Kazumi!"
+msgstr "Signorina Kazumiii! S-signorina Kazumi!"
+
+msgctxt "20||||4"
+msgid "Let me get this straight. The shock from\r\nthe fall made you guys switch bodies?"
+msgstr "Fatemi capire bene. Lo shock della\r\ncaduta vi ha fatto scambiare di corpo?"
+
+msgctxt "21||||4"
+msgid "Yes. That's how it seems."
+msgstr "Sì. Sembrerebbe così."
+
+msgctxt "22||||4"
+msgid "It don't make any sense to me, either..."
+msgstr "Non ha alcun senso neanche per me..."
+
+msgctxt "23||||4"
+msgid "So, you're Kazuo... and the one in that body is Kazumi.\r\nEven your names are confusing."
+msgstr "Quindi, tu sei Kazuo... e quella in quel corpo è Kazumi.\r\nPersino i vostri nomi creano confusione."
+
+msgctxt "24||||4"
+msgid "Th-This is ridiculous.\r\nIt's not possible!"
+msgstr "Q-questo è ridicolo.\r\nÈ impossibile!"
+
+msgctxt "25||||4"
+msgid "Stay calm, Muranaka."
+msgstr "Mantieni la calma, Muranaka."
+
+msgctxt "26||||4"
+msgid "You brat!\r\nHow dare you take that tone with me!?"
+msgstr "Moccioso!\r\nCome osi usare questo tono con me!?"
+
+msgctxt "27||||4"
+msgid "You sure that's how you wanna talk to her?\r\nAin't she supposed to be your master?"
+msgstr "Sei sicuro di volerle parlare così?\r\nNon dovrebbe essere la tua padrona?"
+
+msgctxt "28||||4"
+msgid "Enough joking around, Lady Kazumi!\r\nWe need to get you to a hospital at once."
+msgstr "Basta con questi scherzi, signorina Kazumi!\r\nDobbiamo portarla subito in ospedale."
+
+msgctxt "29||||4"
+msgid "It's fine, I ain't hurt or nothing.\r\nWe've got way bigger problems than that right now."
+msgstr "Sto bene, non mi sono fatta niente.\r\nAbbiamo problemi ben più grossi al momento."
+
+msgctxt "30||||4"
+msgid "Your name's Kiryu-san, right? Sorry,\r\nbut mind not tellin' anyone about this?"
+msgstr "Ti chiami Kiryu-san, vero? Scusa,\r\nma ti dispiacerebbe non dire a nessuno di questa storia?"
+
+msgctxt "31||||4"
+msgid "Not that anyone's gonna believe you, anyways."
+msgstr "Non che qualcuno ti crederebbe, comunque."
+
+msgctxt "32||||4"
+msgid "Kazuo-kun... How are you so calm right now?\r\nThis is no time for joking around!"
+msgstr "Kazuo-kun... Come fai a essere così calmo?\r\nNon è il momento di scherzare!"
+
+msgctxt "33||||4"
+msgid "Tch, enough of this charade..."
+msgstr "Tch, basta con questa farsa..."
+
+msgctxt "34||||4"
+msgid "Madam, I must insist that you\r\nreturn home!"
+msgstr "Signorina, insisto affinché lei\r\ntorni a casa!"
+
+msgctxt "35||||4"
+msgid "Fine, then Kazumi should come along..."
+msgstr "Va bene, allora Kazumi dovrebbe venire con noi..."
+
+msgctxt "36||||4"
+msgid "Absolutely not!"
+msgstr "Assolutamente no!"
+
+msgctxt "37||||4"
+msgid "What...?\r\nBut Muranaka...!"
+msgstr "Cosa...?\r\nMa Muranaka...!"
+
+msgctxt "38||||4"
+msgid "I've said it enough times, thugs like him\r\nare not permitted at our residence."
+msgstr "L'ho detto e ripetuto, i teppisti come lui\r\nnon sono ammessi nella nostra residenza."
+
+msgctxt "40||||4"
+msgid "C'mon, you thick-headed butler.\r\nEven you gotta realize the mistake you're makin'."
+msgstr "Andiamo, brutto maggiordomo zuccone.\r\nPersino tu devi renderti conto dell'errore che stai facendo."
+
+msgctxt "41||||4"
+msgid "We've got to stick together or there's\r\nno way we'll figure out how to swap back..."
+msgstr "Dobbiamo restare insieme, altrimenti non c'è modo\r\ndi scoprire come tornare alla normalità..."
+
+msgctxt "42||||4"
+msgid "Now, enough of this strange behavior!\r\nWe're leaving, Madam!"
+msgstr "Ora, basta con questo strano comportamento!\r\nCe ne andiamo, signorina!"
+
+msgctxt "43||||4"
+msgid "Kazumi, it'll be okay.\r\nI'll have someone come pick you up right away!"
+msgstr "Kazumi, andrà tutto bene.\r\nFarò in modo che qualcuno venga subito a prenderti!"
+
+msgctxt "44||||4"
+msgid "Yo... Kazuo, was it?\r\nEr, Kazumi for now, I guess."
+msgstr "Ehi... Kazuo, giusto?\r\nEhm, Kazumi per il momento, immagino."
+
+msgctxt "45||||4"
+msgid "Yeah..."
+msgstr "Sì..."
+
+msgctxt "46||||4"
+msgid "Is everything okay?\r\nIt sounded like you guys are in a complicated situation."
+msgstr "Va tutto bene?\r\nSembrava che foste in una situazione complicata."
+
+msgctxt "47||||4"
+msgid "Complicated wouldn't even cut it...\r\nAm I going to be in Kazuo-kun's body forever...?"
+msgstr "Complicata è dire poco...\r\nRimarrò nel corpo di Kazuo-kun per sempre...?"
+
+msgctxt "49||||4"
+msgid "Hey... Aw crap."
+msgstr "Ehi... Ah, cavolo."
+
+msgctxt "50||||4"
+msgid "Crying isn't gonna fix anything..."
+msgstr "Piangere non risolverà niente..."
+
+msgctxt "52||||4"
+msgid "A guy's body isn't so bad, y'know.\r\nYou can piss standing up now, so that's something..."
+msgstr "Il corpo di un uomo non è poi così male, sai.\r\nOra puoi fare pipì in piedi, è già qualcosa..."
+
+msgctxt "54||||4"
+msgid "Nah, I guess you'd rather look for a\r\nway to get your own body back, huh?"
+msgstr "Nah, suppongo che preferiresti cercare un\r\nmodo per riavere il tuo corpo, eh?"
+
+msgctxt "55||||4"
+msgid "If there's any way I could help you out..."
+msgstr "Se c'è un modo in cui posso aiutarti..."
+
+msgctxt "57||||4"
+msgid "Hm? Are you okay...?"
+msgstr "Uhm? Stai bene...?"
+
+msgctxt "58||||4"
+msgid "No matter how hard you fall down the stairs,\r\npeople don't just swap bodies with each other, man!"
+msgstr "Per quanto tu possa cadere rovinosamente dalle scale,\r\nla gente non si scambia di corpo così dal nulla, amico!"
+
+msgctxt "59||||4"
+msgid "So this was all an act..."
+msgstr "Quindi era tutta una messinscena..."
+
+msgctxt "60||||4"
+msgid "Yep, you got it."
+msgstr "Sì, hai indovinato."
+
+msgctxt "62||||4"
+msgid "So you guys were lying about the\r\nbody swap thing the whole time?"
+msgstr "Quindi stavate mentendo sulla storia dello\r\nscambio di corpi per tutto il tempo?"
+
+msgctxt "64||||4"
+msgid "I guess if it were that easy, this sorta thing\r\nwould've happened to a lot of people by now."
+msgstr "Immagino che se fosse così facile, questo genere di cose\r\nsarebbe già successo a un sacco di gente a quest'ora."
+
+msgctxt "65||||4"
+msgid "I-I don't know w-what to tell you...\r\nbut it happened..."
+msgstr "N-non so c-cosa dirti...\r\nma è successo..."
+
+msgctxt "66||||4"
+msgid "But that means you and that girl are accomplices.\r\nWhy don't you drop the act already?"
+msgstr "Ma questo significa che tu e quella ragazza siete complici.\r\nPerché non la piantate con questa farsa?"
+
+msgctxt "70||||4"
+msgid "So it was an act after all, huh?\r\nEverything including falling down the stairs..."
+msgstr "Quindi dopotutto era una messinscena, eh?\r\nTutto quanto, inclusa la caduta dalle scale..."
+
+msgctxt "71||||4"
+msgid "Yep, you got it."
+msgstr "Sì, hai indovinato."
+
+msgctxt "73||||4"
+msgid "If you need to cry,\r\nI'll lend you my shoulder to cry on."
+msgstr "Se hai bisogno di piangere,\r\nti presterò la mia spalla per farlo."
+
+msgctxt "74||||4"
+msgid "Huh...?"
+msgstr "Eh...?"
+
+msgctxt "75||||4"
+msgid "Even though you're in a guy's body, you're a girl inside,\r\nright? I can't just leave a lady in distress."
+msgstr "Anche se sei nel corpo di un ragazzo, dentro sei una ragazza,\r\ngiusto? Non posso certo abbandonare una signorina in difficoltà."
+
+msgctxt "77||||4"
+msgid "Come over here, Kazumi."
+msgstr "Vieni qui, Kazumi."
+
+msgctxt "79||||4"
+msgid "Hm? Are you okay...?"
+msgstr "Uhm? Stai bene...?"
+
+msgctxt "80||||4"
+msgid "No matter how hard you fall down the stairs,\r\npeople don't just swap bodies with each other, man!"
+msgstr "Per quanto tu possa cadere rovinosamente dalle scale,\r\nla gente non si scambia di corpo così dal nulla, amico!"
+
+msgctxt "81||||4"
+msgid "So this was all an act..."
+msgstr "Quindi era tutta una messinscena..."
+
+msgctxt "82||||4"
+msgid "Yep, you got it."
+msgstr "Sì, hai indovinato."
+
+msgctxt "84||||4"
+msgid "Kiryu-san, was it?\r\nI feel bad about dragging you into all of this..."
+msgstr "Kiryu-san, giusto?\r\nMi dispiace di averti trascinato in tutto questo..."
+
+msgctxt "85||||4"
+msgid "But we have our own reasons for doing it."
+msgstr "Ma abbiamo le nostre buone ragioni per farlo."
+
+msgctxt "86||||4"
+msgid "And what reason is that?"
+msgstr "E quale sarebbe questa ragione?"
+
+msgctxt "87||||4"
+msgid "Kazumi, the girl I claimed to switch places with...\r\nshe belongs to the Iwami family."
+msgstr "Kazumi, la ragazza con cui sostenevo di aver scambiato il posto...\r\nappartiene alla famiglia Iwami."
+
+msgctxt "88||||4"
+msgid "The Iwami family...?"
+msgstr "La famiglia Iwami...?"
+
+msgctxt "89||||4"
+msgid "Yeah, she's not part of the head family, but she's\r\npretty damn close. Basically... her family's loaded."
+msgstr "Già, non fa parte del ramo principale della famiglia, ma ci è\r\nparecchio vicina. In pratica... la sua famiglia è piena di soldi."
+
+msgctxt "90||||4"
+msgid "No one would believe that Kazumi\r\nis dating a guy like me."
+msgstr "Nessuno crederebbe mai che Kazumi\r\nstia frequentando un tipo come me."
+
+msgctxt "91||||4"
+msgid "Yeah, I bet..."
+msgstr "Già, scommetto..."
+
+msgctxt "92||||4"
+msgid "For a girl as privileged as Kazumi, she's a good person.\r\nShe looks at who you are, not where you came from."
+msgstr "Per essere una ragazza privilegiata come Kazumi, è una brava persona.\r\nGuarda chi sei, non da dove vieni."
+
+msgctxt "93||||4"
+msgid "And to get to the point...\r\nwe're in a serious relationship."
+msgstr "E per arrivare al punto...\r\nabbiamo una relazione seria."
+
+msgctxt "95||||4"
+msgid "But the people around us... especially that butler,\r\nMuranaka, are desperately trying to break us apart."
+msgstr "Ma le persone intorno a noi... specialmente quel maggiordomo,\r\nMuranaka, stanno cercando disperatamente di separarci."
+
+msgctxt "96||||4"
+msgid "He convinced her parents to send her away for school.\r\nIf that happens, we may never see each other again."
+msgstr "Ha convinto i suoi genitori a mandarla via a studiare.\r\nSe dovesse succedere, potremmo non rivederci mai più."
+
+msgctxt "97||||4"
+msgid "I see. So that's why you made up that act...\r\nYou guys didn't really have another choice."
+msgstr "Capisco. Quindi è per questo che vi siete inventati quella farsa...\r\nNon avevate davvero altra scelta."
+
+msgctxt "98||||4"
+msgid "If your daughter swaps bodies with someone, you can't\r\nexactly break 'em up until they swap back, y'know?"
+msgstr "Se tua figlia si scambia di corpo con qualcuno, non puoi certo\r\nsepararli finché non tornano alla normalità, sai?"
+
+msgctxt "99||||4"
+msgid "I doubt anyone would totally believe it."
+msgstr "Dubito che qualcuno ci crederebbe fino in fondo."
+
+msgctxt "100||||4"
+msgid "That's the thing, they don't need to believe it 100%.\r\nYou just need them to believe it's possible."
+msgstr "Il punto è che non serve che ci credano al 100%.\r\nBasta solo che credano che sia possibile."
+
+msgctxt "101||||4"
+msgid "As long as we keep playing our parts, they should\r\nbelieve just enough to keep the two of us together."
+msgstr "Finché continuiamo a recitare la nostra parte, dovrebbero\r\ncrederci abbastanza da tenerci insieme."
+
+msgctxt "102||||4"
+msgid "What a bizarre idea. Did you come up with it?"
+msgstr "Che idea bizzarra. Ti è venuta a te?"
+
+msgctxt "103||||4"
+msgid "Nah, it's all her.\r\nShe got it from a movie or something."
+msgstr "Nah, ha fatto tutto lei.\r\nL'ha presa da un film o roba del genere."
+
+msgctxt "104||||4"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "105||||4"
+msgid "Oh, hold up, Kiryu-san."
+msgstr "Oh, aspetta un attimo, Kiryu-san."
+
+msgctxt "106||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "107||||4"
+msgid "It's Muranaka...\r\nKazumi probably sent him to pick me up..."
+msgstr "È Muranaka...\r\nProbabilmente Kazumi l'ha mandato a prendermi..."
+
+msgctxt "108||||4"
+msgid "Nah... if that were the case,\r\nthere wouldn't be so many people."
+msgstr "Nah... se fosse così,\r\nnon ci sarebbero tutte quelle persone."
+
+msgctxt "109||||4"
+msgid "In any case, I'm gonna act like Kazumi again,\r\nso could you play along?"
+msgstr "In ogni caso, farò di nuovo la parte di Kazumi,\r\nquindi potresti reggermi il gioco?"
+
+msgctxt "110||||4"
+msgid "Muranaka! You've come to pick me up, yes?\r\nWhere's Kazuo-kun?"
+msgstr "Muranaka! Sei venuto a prendermi, vero?\r\nDov'è Kazuo-kun?"
+
+msgctxt "111||||4"
+msgid "You have no business here.\r\nLeave us to our affairs."
+msgstr "Lei non c'entra niente in questa storia.\r\nCi lasci ai nostri affari."
+
+msgctxt "112||||4"
+msgid "And if I don't?"
+msgstr "E se non lo facessi?"
+
+msgctxt "113||||4"
+msgid "If you stay, you'll suffer alongside him."
+msgstr "Se resta, soffrirà insieme a lui."
+
+msgctxt "115||||4"
+msgid "What is the meaning of this...?\r\nAnswer me, Muranaka!"
+msgstr "Qual è il significato di tutto questo...?\r\nRispondimi, Muranaka!"
+
+msgctxt "116||||4"
+msgid "You shitty brat...\r\nHow long do you plan to keep up this act?"
+msgstr "Brutto moccioso di merda...\r\nPer quanto ancora hai intenzione di portare avanti questa farsa?"
+
+msgctxt "117||||4"
+msgid "No, this... isn't an act!\r\nI really swapped bodies with Kazuo-kun...!"
+msgstr "No, questa... non è una farsa!\r\nHo davvero scambiato il mio corpo con Kazuo-kun...!"
+
+msgctxt "118||||4"
+msgid "Shut up!"
+msgstr "Chiudi il becco!"
+
+msgctxt "121||||4"
+msgid "How's that? If you don't want to get hurt,\r\nstop this disgusting act now."
+msgstr "Che ne dici? Se non vuoi farti male,\r\nsmettila subito con questa disgustosa messinscena."
+
+msgctxt "122||||4"
+msgid "No, Muranaka. It's really me, Kazumi.\r\nPlease believe me...!"
+msgstr "No, Muranaka. Sono davvero io, Kazumi.\r\nTi prego di credermi...!"
+
+msgctxt "124||||4"
+msgid "Uh-huh, you just don't know when to give up...\r\nLet's see which gives out first, you or your lies..."
+msgstr "Mh-mh, non sai proprio quando arrenderti...\r\nVediamo chi cede per primo, tu o le tue bugie..."
+
+msgctxt "126||||4"
+msgid "How's that!? Give up and apologize already!"
+msgstr "Che te ne pare!? Arrenditi e chiedi scusa una volta per tutte!"
+
+msgctxt "127||||4"
+msgid "You're wrong!"
+msgstr "Ti sbagli!"
+
+msgctxt "128||||4"
+msgid "Huh!?"
+msgstr "Eh!?"
+
+msgctxt "129||||4"
+msgid "My name... is Kazumi!"
+msgstr "Il mio nome... è Kazumi!"
+
+msgctxt "130||||4"
+msgid "You brat...!"
+msgstr "Moccioso...!"
+
+msgctxt "131||||4"
+msgid "That's enough."
+msgstr "Adesso basta."
+
+msgctxt "132||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "133||||4"
+msgid "I have nothing to do with any of this, but..."
+msgstr "Non ho niente a che fare con tutto questo, ma..."
+
+msgctxt "134||||4"
+msgid "I can't stand by and watch when\r\nsomeone lays their hands on a woman."
+msgstr "Non posso restare a guardare quando\r\nqualcuno mette le mani addosso a una donna."
+
+msgctxt "135||||4"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "136||||4"
+msgid "You're not from around here, are you?\r\nYou should have left while you had the chance."
+msgstr "Non sei di queste parti, vero?\r\nAvresti dovuto andartene finché ne avevi l'occasione."
+
+msgctxt "137||||4"
+msgid "I'll teach you what happens..."
+msgstr "Ti insegnerò cosa succede..."
+
+msgctxt "138||||4"
+msgid "When an outsider meddles in someone else's affairs!"
+msgstr "Quando un forestiero si immischia negli affari altrui!"
+
+msgctxt "140||||4"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "141||||4"
+msgid "Kazuo-kun!? What happened to you!? And this is..."
+msgstr "Kazuo-kun!? Che ti è successo!? E queste sono..."
+
+msgctxt "143||||4"
+msgid "I'm so sorry about Muranaka."
+msgstr "Mi dispiace tanto per Muranaka."
+
+msgctxt "144||||4"
+msgid "Please forgive me, Kazuo-kun...\r\nI didn't think Muranaka could be so cruel..."
+msgstr "Ti prego, perdonami, Kazuo-kun...\r\nNon pensavo che Muranaka potesse essere così crudele..."
+
+msgctxt "145||||4"
+msgid "I'm fine, don't worry about me."
+msgstr "Sto bene, non preoccuparti per me."
+
+msgctxt "146||||4"
+msgid "But Kiryu-san... why'd you step in to help me?"
+msgstr "Ma Kiryu-san... perché sei intervenuto per aiutarmi?"
+
+msgctxt "147||||4"
+msgid "You knew that this was all an act. So why...?"
+msgstr "Sapevi che era tutta una messinscena. E allora perché...?"
+
+msgctxt "148||||4"
+msgid "No matter how much you got hurt,\r\nyou never stopped saying you were really Kazumi."
+msgstr "Non importa quanto male ti abbiano fatto,\r\nnon hai mai smesso di dire di essere davvero Kazumi."
+
+msgctxt "149||||4"
+msgid "Maybe I just believed for a moment\r\nthat you really were Kazumi."
+msgstr "Forse per un attimo ho creduto per davvero\r\nche tu fossi Kazumi."
+
+msgctxt "150||||4"
+msgid "Sometimes, a lie that you risk your life for\r\ncan be true to someone... but only sometimes."
+msgstr "A volte, una bugia per cui rischi la vita\r\npuò essere vera per qualcuno... ma solo a volte."
+
+msgctxt "151||||4"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "153||||4"
+msgid "So? What are you guys gonna do now?"
+msgstr "E quindi? Che avete intenzione di fare ora?"
+
+msgctxt "154||||4"
+msgid "We're gonna continue this act, right...?"
+msgstr "Continueremo con questa messinscena, giusto...?"
+
+msgctxt "155||||4"
+msgid "Yup... and if Muranaka attacks me again,\r\nI'll tell him that you have my back, Kiryu."
+msgstr "Già... e se Muranaka dovesse attaccarmi di nuovo,\r\ngli dirò che mi guardi tu le spalle, Kiryu."
+
+msgctxt "156||||4"
+msgid "Do what you want. I won't guarantee\r\nthat I'll actually come, though."
+msgstr "Fate come vi pare. Non vi garantisco\r\nche verrò davvero, però."
+
+msgctxt "157||||4"
+msgid "But... I wonder how long\r\nwe'd have to keep this up..."
+msgstr "Ma... mi chiedo per quanto ancora\r\ndovremo portare avanti questa storia..."
+
+msgctxt "158||||4"
+msgid "Yeah... I wouldn't mind keeping it going forever, though."
+msgstr "Già... A me non dispiacerebbe farla durare per sempre, però."
+
+msgctxt "159||||4"
+msgid "Huh...?"
+msgstr "Eh...?"
+
+msgctxt "160||||4"
+msgid "If it's with you, I could lie forever.\r\nWe only need to be true to each other."
+msgstr "Se sono con te, potrei mentire per sempre.\r\nCi basta solo essere sinceri l'uno con l'altra."
+
+msgctxt "161||||4"
+msgid "Kazuo... kun..."
+msgstr "Kazuo... kun..."
+
+msgctxt "162||||4"
+msgid "Can't you two do that in private?"
+msgstr "Non potete farlo in privato, voi due?"
+
+msgctxt "163||||4"
+msgid "S-Sorry..."
+msgstr "S-scusa..."
+
+msgctxt "164||||4"
+msgid "Well then... I'm good to go, right?"
+msgstr "Beh, allora... Io posso andare, giusto?"
+
+msgctxt "165||||4"
+msgid "Thank you so much, Kiryu-san."
+msgstr "Grazie mille, Kiryu-san."
+
+msgctxt "166||||4"
+msgid "I'm very grateful. Thanks a lot!"
+msgstr "Le sono molto grata. Grazie infinite!"
+
+msgctxt "167||||4"
+msgid "Quite the trouble I've caused."
+msgstr "Ho causato proprio un bel po' di problemi."
+
+msgctxt "168||||4"
+msgid "Were you... watching this whole time?"
+msgstr "Sei rimasto... a guardare per tutto il tempo?"
+
+msgctxt "169||||4"
+msgid "Yeah, I heard everything. It seems like\r\nthey've both strengthened their resolve."
+msgstr "Sì, ho sentito tutto. Sembra che\r\nentrambi abbiano rafforzato la propria determinazione."
+
+msgctxt "170||||4"
+msgid "Did you know the whole time?\r\nWere you testing those two?"
+msgstr "Lo sapevi fin dall'inizio?\r\nStavi mettendo alla prova quei due?"
+
+msgctxt "171||||4"
+msgid "What would you have done if I hadn't stopped you?"
+msgstr "Cosa avresti fatto se non ti avessi fermato?"
+
+msgctxt "172||||4"
+msgid "I wonder... But I assumed that you would."
+msgstr "Chissà... Ma davo per scontato che l'avresti fatto."
+
+msgctxt "173||||4"
+msgid "Sometimes you can tell what a person is\r\nthinking just by the look in their eyes."
+msgstr "A volte puoi capire cosa pensa\r\nuna persona solo guardandola negli occhi."
+
+msgctxt "174||||4"
+msgid "Clever guy."
+msgstr "Tipo astuto."
+
+msgctxt "175||||4"
+msgid "I will continue to test them.\r\nIf you would like to interfere, please feel free."
+msgstr "Continuerò a metterli alla prova.\r\nSe volesse interferire, si senta libero di farlo."
+
+msgctxt "176||||4"
+msgid "Nah... I'm sure they'll be fine,\r\nespecially with you on their side."
+msgstr "Nah... Sono sicuro che se la caveranno,\r\nspecialmente con te dalla loro parte."
+
+msgctxt "177||||4"
+msgid "Well, thank you. She's a handful...\r\nI guess new responsibilities are part of getting older."
+msgstr "Beh, la ringrazio. È una ragazza difficile da gestire...\r\nImmagino che le nuove responsabilità facciano parte del diventare vecchi."
+
+msgctxt "178||||4"
+msgid "Yeah... I know what you mean."
+msgstr "Già... So cosa intendi."

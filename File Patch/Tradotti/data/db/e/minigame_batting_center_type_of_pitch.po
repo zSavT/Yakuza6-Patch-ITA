@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "2||slider||name"
+msgid "Slider"
+msgstr "Slider"
+
+msgctxt "5||sinker||name"
+msgid "Sinker"
+msgstr "Sinker"
+
+msgctxt "8||fastball||name"
+msgid "Fastball"
+msgstr "Palla veloce"
+
+msgctxt "9||twoseam||name"
+msgid "Two-seamer"
+msgstr "Two-seamer"
+
+msgctxt "10||oneseam||name"
+msgid "One-seamer"
+msgstr "One-seamer"
+
+msgctxt "11||cutball||name"
+msgid "Cutter"
+msgstr "Cutter"
+
+msgctxt "12||curve||name"
+msgid "Curveball"
+msgstr "Palla curva"
+
+msgctxt "13||fork||name"
+msgid "Forkball"
+msgstr "Forkball"
+
+msgctxt "14||splitter||name"
+msgid "Splitter"
+msgstr "Splitter"
+
+msgctxt "15||changeup||name"
+msgid "Change-up"
+msgstr "Change-up"
+
+msgctxt "16||shuuto||name"
+msgid "Shootball"
+msgstr "Shootball"
+
+msgctxt "17||gyro||name"
+msgid "Gyroball"
+msgstr "Gyroball"
+
+msgctxt "18||Hfastball||name"
+msgid "Fastball"
+msgstr "Palla veloce"
+
+msgctxt "5||sinker||name_left"
+msgid "Screwball"
+msgstr "Screwball"

@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||pitcher||text"
+msgid "P"
+msgstr "L"
+
+msgctxt "2||catcher||text"
+msgid "C"
+msgstr "R"
+
+msgctxt "6||short_stop||text"
+msgid "SS"
+msgstr "IB"
+
+msgctxt "7||left||text"
+msgid "LF"
+msgstr "ES"
+
+msgctxt "8||center||text"
+msgid "CF"
+msgstr "EC"
+
+msgctxt "9||right||text"
+msgid "RF"
+msgstr "ED"
+
+msgctxt "10||designated_hitter||text"
+msgid "DH"
+msgstr "BD"
+
+msgctxt "12||homerun||text"
+msgid "HR"
+msgstr "FC"
+
+msgctxt "13||base_on_balls||text"
+msgid "BB"
+msgstr "BB"
+
+msgctxt "14||inning_1st||text"
+msgid "1st"
+msgstr "1°"
+
+msgctxt "15||inning_2nd||text"
+msgid "2nd"
+msgstr "2°"
+
+msgctxt "16||inning_3rd||text"
+msgid "3rd"
+msgstr "3°"
+
+msgctxt "17||inning_4th||text"
+msgid "4th"
+msgstr "4°"
+
+msgctxt "18||inning_5th||text"
+msgid "5th"
+msgstr "5°"
+
+msgctxt "19||inning_6th||text"
+msgid "6th"
+msgstr "6°"
+
+msgctxt "20||inning_7th||text"
+msgid "7th"
+msgstr "7°"
+
+msgctxt "21||inning_8th||text"
+msgid "8th"
+msgstr "8°"
+
+msgctxt "22||innint_9th||text"
+msgid "9th"
+msgstr "9°"
+
+msgctxt "23||top||text"
+msgid "Top"
+msgstr "Inizio"
+
+msgctxt "24||bottom||text"
+msgid "Bottom"
+msgstr "Fine"
+
+msgctxt "25||cold||text"
+msgid "X"
+msgstr "X"
+
+msgctxt "31||pitcher_initial||text"
+msgid "P"
+msgstr "L"
+
+msgctxt "32||button_info_shikaku||text"
+msgid "Switch Players"
+msgstr "Sostituisci giocatori"
+
+msgctxt "33||button_info_sankaku||text"
+msgid "(${intervention_num} Interventions left)"
+msgstr "(${intervention_num} interventi rimasti)"
+
+msgctxt "34||button_info_maru||text"
+msgid "Next"
+msgstr "Avanti"
+
+msgctxt "35||button_info_R1_manual||text"
+msgid "Manual"
+msgstr "Manuale"
+
+msgctxt "36||button_info_R1_auto||text"
+msgid "Auto"
+msgstr "Automatico"
+
+msgctxt "37||button_info_R1_high_speed||text"
+msgid "Fast Forward"
+msgstr "Avanti veloce"
+
+msgctxt "38||pitcher_full||text"
+msgid "Pitcher"
+msgstr "Lanciatore"
+
+msgctxt "39||catcher_full||text"
+msgid "Catcher"
+msgstr "Ricevitore"
+
+msgctxt "43||short_stop_full||text"
+msgid "Shortstop"
+msgstr "Interbase"
+
+msgctxt "44||outfielder_full||text"
+msgid "Outfielder"
+msgstr "Esterno"
+
+msgctxt "45||right_pitch||text"
+msgid "Righty Pitcher"
+msgstr "Lanciatore destrorso"
+
+msgctxt "46||left_pitch||text"
+msgid "Lefty Pitcher"
+msgstr "Lanciatore mancino"
+
+msgctxt "47||right_hit||text"
+msgid "Righty Batter"
+msgstr "Battitore destrorso"
+
+msgctxt "48||left_hit||text"
+msgid "Lefty Batter"
+msgstr "Battitore mancino"
+
+msgctxt "49||outfielder||text"
+msgid "OF"
+msgstr "EST"
+
+msgctxt "50||first||text"
+msgid "1B"
+msgstr "1B"
+
+msgctxt "51||second||text"
+msgid "2B"
+msgstr "2B"
+
+msgctxt "52||third||text"
+msgid "3B"
+msgstr "3B"
+
+msgctxt "53||first_full||text"
+msgid "1st Baseman"
+msgstr "Prima base"
+
+msgctxt "54||second_full||text"
+msgid "2nd Baseman"
+msgstr "Seconda base"
+
+msgctxt "55||third_full||text"
+msgid "3rd Baseman"
+msgstr "Terza base"
+
+msgctxt "56||hit||text"
+msgid "H"
+msgstr "V"
+
+msgctxt "57||hit_2base||text"
+msgid "2B"
+msgstr "2B"
+
+msgctxt "58||hit_3base||text"
+msgid "3B"
+msgstr "3B"
+
+msgctxt "61||error||text"
+msgid "E"
+msgstr "E"
+
+msgctxt "62||fly||text"
+msgid "FB"
+msgstr "VOL"
+
+msgctxt "63||grounder||text"
+msgid "GB"
+msgstr "RIM"
+
+msgctxt "65||homerun_unit||text"
+msgid "${homerun_num}"
+msgstr "${homerun_num}"
+
+msgctxt "66||homerun_unit_consecutive||text"
+msgid "${homerun_num},"
+msgstr "${homerun_num},"
+
+msgctxt "68||closed_challenge||text"
+msgid "???"
+msgstr "???"
+
+msgctxt "69||inning||text"
+msgid "Inning"
+msgstr "Inning"
+
+msgctxt "70||slash||text"
+msgid "/"
+msgstr "/"
+
+msgctxt "71||hyphen||text"
+msgid "-"
+msgstr "-"
+
+msgctxt "72||plus||text"
+msgid "+"
+msgstr "+"
+
+msgctxt "73||level||text"
+msgid "Lv."
+msgstr "Liv."
+
+msgctxt "74||arrow||text"
+msgid "<symbol=arrow_right>"
+msgstr "<symbol=arrow_right>"
+
+msgctxt "75||MAX||text"
+msgid "<color=batting_pitch_red>MAX</color>"
+msgstr "<color=batting_pitch_red>MAX</color>"
+
+msgctxt "76||win_num||text"
+msgid "Wins"
+msgstr "Vittorie"
+
+msgctxt "77||save_num||text"
+msgid "S"
+msgstr "S"
+
+msgctxt "80||training_confirm_message||text"
+msgid "Use one <color=batting_pitch_red>Training Ticket</color> to train <color=batting_pitch_yellow>${player_name}</color>?"
+msgstr "Usare un <color=batting_pitch_red>Biglietto addestramento</color> per allenare <color=batting_pitch_yellow>${player_name}</color>?"
+
+msgctxt "82||training_level_max||text"
+msgid "<color=batting_pitch_yellow>${player_name}</color> is already maxed out."
+msgstr "<color=batting_pitch_yellow>${player_name}</color> ha già raggiunto il livello massimo."
+
+msgctxt "90||success||text"
+msgid "<color=batting_pitch_red>Success!</color>"
+msgstr "<color=batting_pitch_red>Successo!</color>"
+
+msgctxt "91||failure||text"
+msgid "<color=batting_pitch_blue>Fail...</color>"
+msgstr "<color=batting_pitch_blue>Fallimento...</color>"
+
+msgctxt "92||training_no_ticket||text"
+msgid "No <color=batting_pitch_red>Training Tickets</color> left. Get more by winning!"
+msgstr "Nessun <color=batting_pitch_red>Biglietto addestramento</color> rimasto. Vincine altri giocando!"
+
+msgctxt "93||substitute||text"
+msgid "SUB"
+msgstr "RIS"
+
+msgctxt "94||close_detail_flow||text"
+msgid "Close the results screen?"
+msgstr "Chiudere la schermata dei risultati?"
+
+msgctxt "95||skill_explanation_message||text"
+msgid "\r\n${name}\r\n\r\n${explanation}"
+msgstr "\r\n${name}\r\n\r\n${explanation}"
+
+msgctxt "97||training_gain_experience_normal||text"
+msgid "That Training Went Well!\r\nGained <color=batting_pitch_red>100</color> EXP!\r\n\r\n<color=batting_pitch_yellow>${after_experience}</color> EXP left to level up!"
+msgstr "L'allenamento è andato bene!\r\nOttenuti <color=batting_pitch_red>100</color> ESP!\r\n\r\nAncora <color=batting_pitch_yellow>${after_experience}</color> ESP per salire di livello!"
+
+msgctxt "98||training_gain_experience_great||text"
+msgid "That Training Went <color=batting_pitch_red>Great</color>!\r\nGained <color=batting_pitch_red>150</color> EXP!\r\n\r\n<color=batting_pitch_yellow>${after_experience}</color> EXP left to level up!"
+msgstr "L'allenamento è andato <color=batting_pitch_red>alla grande</color>!\r\nOttenuti <color=batting_pitch_red>150</color> ESP!\r\n\r\nAncora <color=batting_pitch_yellow>${after_experience}</color> ESP per salire di livello!"
+
+msgctxt "99||use_ticket_limig_warning||text"
+msgid "You've used the max number of Training Tickets already.\r\n*You can only use <color=batting_pitch_red>one</color> training ticket per player.\r\n*Limits <color=batting_pitch_red>reset when you play a game</color>."
+msgstr "Hai già usato il numero massimo di Biglietti addestramento.\r\n*Puoi usare solo <color=batting_pitch_red>un</color> biglietto per giocatore.\r\n*Il limite si <color=batting_pitch_red>ripristina giocando una partita</color>."
+
+msgctxt "101||result_ticket_clear||text"
+msgid "Challenge Clear"
+msgstr "Sfida superata"
+
+msgctxt "102||result_ticket_bonus||text"
+msgid "Bonus Clear"
+msgstr "Bonus superato"
+
+msgctxt "103||result_ticket_get||text"
+msgid "Tickets Acquired"
+msgstr "Biglietti ottenuti"
+
+msgctxt "104||result_ticket_total||text"
+msgid "Total Tickets Held"
+msgstr "Biglietti totali posseduti"
+
+msgctxt "105||info_window_member||text"
+msgid "Choose a starting lineup."
+msgstr "Scegli una formazione titolare."
+
+msgctxt "106||info_window_change_player||text"
+msgid "Change positions and switch players."
+msgstr "Cambia posizioni e sostituisci i giocatori."
+
+msgctxt "107||info_window_training||text"
+msgid "Choose a player to train using a <color=batting_pitch_red>Training Ticket</color>.\r\n*Limit one Training Ticket per player per game."
+msgstr "Scegli un giocatore da allenare usando un <color=batting_pitch_red>Biglietto addestramento</color>.\r\n*Limite di un Biglietto addestramento per giocatore a partita."
+
+msgctxt "108||info_window_menu||text"
+msgid "Choose an option."
+msgstr "Scegli un'opzione."
+
+msgctxt "109||strikeout_looking||text"
+msgid "Ⓚ"
+msgstr "Ⓚ"
+
+msgctxt "110||strikeout_swinging||text"
+msgid "K"
+msgstr "K"
+
+msgctxt "111||sacrifice||text"
+msgid "SF"
+msgstr "VS"
+
+msgctxt "112||catcher_eng||text"
+msgid "Catcher"
+msgstr "Ricevitore"
+
+msgctxt "113||first_eng||text"
+msgid "1st Baseman"
+msgstr "Prima base"
+
+msgctxt "114||second_eng||text"
+msgid "2nd Baseman"
+msgstr "Seconda base"
+
+msgctxt "115||third_eng||text"
+msgid "3rd Baseman"
+msgstr "Terza base"
+
+msgctxt "116||short_stop_eng||text"
+msgid "Shortstop"
+msgstr "Interbase"
+
+msgctxt "117||left_eng||text"
+msgid "Left Fielder"
+msgstr "Esterno sinistro"
+
+msgctxt "118||center_eng||text"
+msgid "Center Fielder"
+msgstr "Esterno centro"
+
+msgctxt "119||right_eng||text"
+msgid "Right Fielder"
+msgstr "Esterno destro"
+
+msgctxt "120||designated_hitter_eng||text"
+msgid "DH"
+msgstr "BD"
+
+msgctxt "121||breaking_ball_text||text"
+msgid "<color=${pitch_color}>${pitch_name}</color>"
+msgstr "<color=${pitch_color}>${pitch_name}</color>"
+
+msgctxt "122||font_color_hit||text"
+msgid "baseball_hit"
+msgstr "baseball_hit"
+
+msgctxt "123||font_color_out||text"
+msgid "default"
+msgstr "default"
+
+msgctxt "124||font_color_base_on_balls||text"
+msgid "baseball_base_on_balls"
+msgstr "baseball_base_on_balls"
+
+msgctxt "125||member_title_starting_member||text"
+msgid "Starting Lineup"
+msgstr "Formazione titolare"
+
+msgctxt "126||member_title_change_player||text"
+msgid "Player"
+msgstr "Giocatore"

@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||yakuman||text"
+msgid "Yakuman"
+msgstr "Yakuman"
+
+msgctxt "2||double_yakuman||text"
+msgid "Double Yakuman"
+msgstr "Doppio Yakuman"
+
+msgctxt "3||triple_yakuman||text"
+msgid "Triple Yakuman"
+msgstr "Triplo Yakuman"
+
+msgctxt "4||yonbai_yakuman||text"
+msgid "4x Yakuman"
+msgstr "4x Yakuman"
+
+msgctxt "5||gobai_yakuman||text"
+msgid "5x Yakuman"
+msgstr "5x Yakuman"
+
+msgctxt "6||rokubai_yakuman||text"
+msgid "6x Yakuman"
+msgstr "6x Yakuman"
+
+msgctxt "7||nanabai_yakuman||text"
+msgid "7x Yakuman"
+msgstr "7x Yakuman"

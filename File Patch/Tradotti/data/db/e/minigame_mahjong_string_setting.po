@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||taisen||text"
+msgid "Game Style"
+msgstr "Stile di gioco"
+
+msgctxt "2||kuitan||text"
+msgid "Kuitan"
+msgstr "Kuitan"
+
+msgctxt "3||ryanhansibari||text"
+msgid "Two Han Minimum"
+msgstr "Minimo due Han"
+
+msgctxt "4||akadora||text"
+msgid "Red Dora"
+msgstr "Dora rosse"

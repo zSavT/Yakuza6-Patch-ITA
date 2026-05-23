@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm? It feels like someone's watching me."
+msgstr "(Uhm? Mi sento osservato.)"
+
+msgctxt "1||||4"
+msgid "I must be imagining it."
+msgstr "(Me lo starò immaginando.)"
+
+msgctxt "3||||4"
+msgid "Who are you?"
+msgstr "Chi sei?"
+
+msgctxt "4||||4"
+msgid "No time for questions."
+msgstr "Non c'è tempo per le domande."
+
+msgctxt "6||||4"
+msgid "What the hell just happened to me?"
+msgstr "Che diavolo mi è appena successo?"
+
+msgctxt "7||||4"
+msgid "Hey. Y'look like y'just saw a ghost."
+msgstr "Ehi. Sembri uno che ha appena visto un fantasma."
+
+msgctxt "8||||4"
+msgid "Hm?"
+msgstr "Uhm?"
+
+msgctxt "9||||4"
+msgid "Y'did see it, didn't ya? Carryin' a sword."
+msgstr "L'hai visto, vero? Quello con la spada."
+
+msgctxt "10||||4"
+msgid "Y-Yeah. I actually did more than just see it."
+msgstr "S-sì. In realtà ho fatto molto più che vederlo."
+
+msgctxt "11||||4"
+msgid "Well, I'm the gravekeeper 'round these parts.\r\nStopped by 'cause somethin' felt off tonight."
+msgstr "Beh, sono il custode del cimitero da queste parti.\r\nSono passato perché stasera c'era qualcosa di strano nell'aria."
+
+msgctxt "12||||4"
+msgid "Guess that was yer fault."
+msgstr "Immagino sia stata colpa tua."
+
+msgctxt "13||||4"
+msgid "Wait. You've seen the ghost here, too?"
+msgstr "Aspetta. Hai visto il fantasma qui anche tu?"
+
+msgctxt "14||||4"
+msgid "Y'ain't from here, are ya?"
+msgstr "Non sei di queste parti, eh?"
+
+msgctxt "15||||4"
+msgid "Hm?"
+msgstr "Eh?"
+
+msgctxt "16||||4"
+msgid "Local folks wouldn't dare swing 'round my graveyard.\r\nEven kids're afraid t'come anywhere near."
+msgstr "La gente del posto non oserebbe mai aggirarsi per il mio cimitero.\r\nPersino i bambini hanno paura ad avvicinarsi."
+
+msgctxt "17||||4"
+msgid "Honestly, I ain't even heard of an outsider who\r\nwas brave enough t'show his face in here."
+msgstr "Onestamente, non ho mai neanche sentito di un forestiero\r\ncosì coraggioso da farsi vedere da queste parti."
+
+msgctxt "18||||4"
+msgid "Huh. I had no idea."
+msgstr "Capisco. Non ne avevo idea."
+
+msgctxt "19||||4"
+msgid "Don't worry 'bout it.\r\nI ain't tryin' to bring ya down."
+msgstr "Non preoccuparti.\r\nNon sto cercando di buttarti giù di morale."
+
+msgctxt "20||||4"
+msgid "If the legends're true, the ghosts that show up 'round\r\nhere are pirates who raided the Inland Sea ages ago."
+msgstr "Se le leggende sono vere, i fantasmi che compaiono qui\r\nsono pirati che razziavano il Mare Interno secoli fa."
+
+msgctxt "21||||4"
+msgid "(Pirates...?)"
+msgstr "(Pirati...?)"
+
+msgctxt "22||||4"
+msgid "These guys're a real rowdy bunch.\r\nEven in death, they're always itchin' fer a fight."
+msgstr "Questa gente è una vera banda di facinorosi.\r\nAnche da morti, hanno sempre una gran voglia di menare le mani."
+
+msgctxt "23||||4"
+msgid "If yer feelin' up to it, y'should come\r\nback and humor 'em sometime."
+msgstr "Se te la senti, dovresti tornare\r\ne assecondarli qualche volta."
+
+msgctxt "24||||4"
+msgid "What...?"
+msgstr "Cosa...?"
+
+msgctxt "26||||4"
+msgid "Pirate ghosts, huh?\r\nEven in a quiet town like this, I can't catch a break."
+msgstr "(Fantasmi di pirati, eh?\r\nNemmeno in una città tranquilla come questa posso tirare il fiato.)"
+
+msgctxt "27||||4"
+msgid "Something feels off again.\r\nIt must be the pirate ghosts."
+msgstr "(C'è di nuovo qualcosa di strano nell'aria.\r\nDevono essere i fantasmi dei pirati.)"
+
+msgctxt "28||||4"
+msgid "Long time no see."
+msgstr "È da un po' che non ci si vede."
+
+msgctxt "29||||4"
+msgid "What? There are two of you?"
+msgstr "Cosa? Siete in due?"
+
+msgctxt "32||||4"
+msgid "Ugh, that's enough sleeping on the ground for me."
+msgstr "Ugh, per oggi ne ho abbastanza di dormire per terra."
+
+msgctxt "33||||4"
+msgid "I knew ya'd be back."
+msgstr "Sapevo che saresti tornato."
+
+msgctxt "34||||4"
+msgid "Old man."
+msgstr "Vecchio."
+
+msgctxt "35||||4"
+msgid "What's yer name, kid?"
+msgstr "Come ti chiami, ragazzo?"
+
+msgctxt "36||||4"
+msgid "It's Kiryu. Kazuma Kiryu."
+msgstr "Kiryu. Kazuma Kiryu."
+
+msgctxt "37||||4"
+msgid "Kiryu-san, huh? Our spectral buddies're\r\nreally warmin' up to ya."
+msgstr "Kiryu-san, eh? I nostri amici spettrali\r\nsi stanno davvero affezionando a te."
+
+msgctxt "38||||4"
+msgid "And how exactly do you know that?"
+msgstr "E come fai a saperlo, di grazia?"
+
+msgctxt "39||||4"
+msgid "I've been watchin' over this place fer years.\r\nI can tell how they feel."
+msgstr "Veglio su questo posto da anni.\r\nRiesco a capire come si sentono."
+
+msgctxt "40||||4"
+msgid "Y'probly can't feel it, but there's a real lively\r\nenergy flowin' through the air right now."
+msgstr "Probabilmente non te ne accorgi, ma c'è un'energia\r\ndavvero vivace che scorre nell'aria in questo momento."
+
+msgctxt "41||||4"
+msgid "What do you mean?"
+msgstr "In che senso?"
+
+msgctxt "42||||4"
+msgid "Well it's usually real gloomy 'round here,\r\nbut it feels like the ghosts're takin' a shine t'ya."
+msgstr "Beh, di solito qui è molto tetro,\r\nma sembra che i fantasmi ti abbiano preso in simpatia."
+
+msgctxt "43||||4"
+msgid "Bet they're jus' lovin' all these fights."
+msgstr "Scommetto che adorano tutti questi combattimenti."
+
+msgctxt "44||||4"
+msgid "This doesn't make much sense."
+msgstr "La cosa non ha molto senso."
+
+msgctxt "45||||4"
+msgid "Y'know what? Y'might jus' be the one\r\nt'finally put their souls t'rest."
+msgstr "Sai che c'è? Forse sei proprio tu quello che\r\nriuscirà finalmente a dare pace alle loro anime."
+
+msgctxt "47||||4"
+msgid "The ghosts are here. I can feel it."
+msgstr "(I fantasmi sono qui. Riesco a percepirli.)"
+
+msgctxt "48||||4"
+msgid "I'm not that interested in fighting you guys."
+msgstr "Non mi interessa molto combattere contro di voi."
+
+msgctxt "49||||4"
+msgid "But I've done this much. I'll keep\r\ngoing until your souls are at peace."
+msgstr "Ma ormai sono arrivato fin qui. Continuerò\r\nfinché le vostre anime non troveranno pace."
+
+msgctxt "50||||4"
+msgid "Let's do this."
+msgstr "Facciamolo."
+
+msgctxt "53||||4"
+msgid "Ugh, I wish I didn't pass out every time."
+msgstr "Ugh, vorrei non svenire ogni singola volta."
+
+msgctxt "54||||4"
+msgid "Hm? It doesn't look like\r\nthe gravekeeper's coming this time."
+msgstr "Uhm? Sembra che stavolta\r\nil custode non si farà vivo."
+
+msgctxt "55||||4"
+msgid "They should be here soon."
+msgstr "(Dovrebbero essere qui a momenti.)"
+
+msgctxt "56||||4"
+msgid "So you're still trying to up the ante.\r\nThink three of you is enough to stop me?"
+msgstr "Quindi state ancora cercando di alzare la posta.\r\nPensate che in tre sarete abbastanza per fermarmi?"
+
+msgctxt "57||||4"
+msgid "You guys are quick, but I promise you won't be\r\ngetting the jump on me any time soon."
+msgstr "Siete veloci, ma vi assicuro che non\r\nmi coglierete di sorpresa tanto presto."
+
+msgctxt "60||||4"
+msgid "Every time it's the same thing..."
+msgstr "Ogni volta è la stessa storia..."
+
+msgctxt "61||||4"
+msgid "So yer back in style, Kiryu-san."
+msgstr "E così sei tornato in grande stile, Kiryu-san."
+
+msgctxt "62||||4"
+msgid "Old man."
+msgstr "Vecchio."
+
+msgctxt "63||||4"
+msgid "Thanks t'ya, the fog that's been hangin' over\r\nthis graveyard's finally startin' t'clear up."
+msgstr "Grazie a te, la nebbia che ha avvolto questo\r\ncimitero sta finalmente iniziando a diradarsi."
+
+msgctxt "64||||4"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "65||||4"
+msgid "I reckon it's 'cause yer resolvin' the regrets\r\nthose ghosts have about their ol' lives."
+msgstr "Credo sia perché stai placando i rimpianti\r\nche quei fantasmi avevano per le loro vecchie vite."
+
+msgctxt "66||||4"
+msgid "Who exactly are you, old man?\r\nAre you some kind of psychic?"
+msgstr "Chi sei esattamente, vecchio?\r\nSei una specie di sensitivo?"
+
+msgctxt "67||||4"
+msgid "Well, I'm roughly a tenth-generation\r\ndescendant of the ghosts y'been fightin'."
+msgstr "Beh, sono all'incirca un discendente di decima\r\ngenerazione dei fantasmi che hai combattuto."
+
+msgctxt "68||||4"
+msgid "You're related to them?"
+msgstr "Siete imparentati?"
+
+msgctxt "69||||4"
+msgid "Y'remember how I said they used t'be pirates\r\nback when they were still alive?"
+msgstr "Ricordi quando ti ho detto che erano pirati\r\nai tempi in cui erano ancora vivi?"
+
+msgctxt "70||||4"
+msgid "I do."
+msgstr "Sì."
+
+msgctxt "71||||4"
+msgid "T'be more precise, they were actually mercenaries\r\nwho were hired by a big band o' pirates."
+msgstr "Per essere più precisi, in realtà erano mercenari\r\nassoldati da una grossa banda di pirati."
+
+msgctxt "72||||4"
+msgid "Go on."
+msgstr "Continua."
+
+msgctxt "73||||4"
+msgid "Back 'round Nobunaga's time, in the 1500s, the pirates\r\no' Hiroshima got in a real big war with each other."
+msgstr "Ai tempi di Nobunaga, nel 1500, i pirati di\r\nHiroshima entrarono in una grande guerra tra loro."
+
+msgctxt "74||||4"
+msgid "In order t'tip the scales in their favor, one group\r\no' pirates hired these three legendary mercenaries."
+msgstr "Per far pendere l'ago della bilancia a loro favore, un gruppo\r\ndi pirati assoldò questi tre mercenari leggendari."
+
+msgctxt "75||||4"
+msgid "Story goes those three coulda taken over the whole\r\ncountry with jus' a sword if they were feelin' up to it."
+msgstr "Si dice che quei tre avrebbero potuto conquistare l'intero\r\npaese solo con una spada, se ne avessero avuto voglia."
+
+msgctxt "76||||4"
+msgid "Turns out they didn't really have sea legs, though."
+msgstr "A quanto pare, però, non avevano il piede marino."
+
+msgctxt "77||||4"
+msgid "Hm?"
+msgstr "Eh?"
+
+msgctxt "78||||4"
+msgid "Got so sick they couldn't even draw their swords.\r\nThey actually ended up fallin' overboard n' drownin'."
+msgstr "Si ammalarono così tanto da non riuscire nemmeno a sguainare le\r\nspade. Alla fine caddero in mare e annegarono."
+
+msgctxt "79||||4"
+msgid "All three of them?"
+msgstr "Tutti e tre?"
+
+msgctxt "80||||4"
+msgid "Mhm. All at the same time."
+msgstr "Mhm. Tutti nello stesso momento."
+
+msgctxt "81||||4"
+msgid "That's absurd."
+msgstr "È assurdo."
+
+msgctxt "82||||4"
+msgid "'Cause their prized mercenaries were gone, the pirates\r\nwho hired 'em got obliterated by a rival crew."
+msgstr "Persi i loro preziosi mercenari, i pirati che li\r\navevano assoldati furono annientati da una ciurma rivale."
+
+msgctxt "84||||4"
+msgid "So, the three of 'em died without fully honin'\r\ntheir skills. 'At's what they're regrettin' now."
+msgstr "Così, i tre morirono senza aver potuto sfruttare appieno le\r\nloro abilità. Ed è questo il loro rimpianto."
+
+msgctxt "85||||4"
+msgid "And that's why they're so eager to fight."
+msgstr "Ed è per questo che sono così ansiosi di combattere."
+
+msgctxt "86||||4"
+msgid "As their descendant, I've been hopin' fer a while now\r\nthat somebody'd come along n' lay 'em down fer good."
+msgstr "Come loro discendente, da un po' di tempo speravo che\r\nqualcuno arrivasse e li facesse riposare per sempre."
+
+msgctxt "87||||4"
+msgid "'Til that happens, they're jus' gonna\r\nkeep wanderin' around this graveyard."
+msgstr "Finché non succederà, continueranno semplicemente\r\na vagare per questo cimitero."
+
+msgctxt "88||||4"
+msgid "I gotta say, though... I'm thinkin' y'might be\r\nthe one who can finally put 'em to rest."
+msgstr "Devo dire, però... che penso tu possa essere\r\nquello che alla fine riuscirà a dar loro pace."
+
+msgctxt "90||||4"
+msgid "Yer probly the only person in the world who's\r\ngot the raw manpower y'need to do it. So..."
+msgstr "Probabilmente sei l'unica persona al mondo con la forza\r\nbruta necessaria per riuscirci. Quindi..."
+
+msgctxt "91||||4"
+msgid "Jus' one more fight. A final flourish t'let their\r\nsouls drift into the ether in peace. Please, Kiryu-san."
+msgstr "Solo un ultimo scontro. Un gran finale per permettere alle loro\r\nanime di scivolare in pace nell'aldilà. Ti prego, Kiryu-san."
+
+msgctxt "93||||4"
+msgid "Our last battle, huh?\r\nIt'll be sad to say goodbye."
+msgstr "(La nostra ultima battaglia, eh?\r\nSarà triste dirsi addio.)"
+
+msgctxt "94||||4"
+msgid "It seems like this will be the last time\r\nI deal with these graveyard ghosts."
+msgstr "(Sembra che questa sarà l'ultima volta che\r\navrò a che fare con i fantasmi del cimitero.)"
+
+msgctxt "95||||4"
+msgid "Right, then. They really are ready to end this."
+msgstr "Bene, allora. Sono davvero pronti a farla finita."
+
+msgctxt "96||||4"
+msgid "Hey, can I ask a favor of you guys?"
+msgstr "Ehi, posso chiedervi un favore, ragazzi?"
+
+msgctxt "98||||4"
+msgid "I always wake up on the ground after our fights,\r\nso my clothes get covered in dirt."
+msgstr "Mi sveglio sempre a terra dopo i nostri scontri,\r\ne i miei vestiti finiscono pieni di terra."
+
+msgctxt "99||||4"
+msgid "I was hoping you could help me with that somehow."
+msgstr "Speravo poteste aiutarmi a evitare la cosa, in qualche modo."
+
+msgctxt "100||||4"
+msgid "I wonder if they heard me..."
+msgstr "(Mi chiedo se mi abbiano sentito...)"
+
+msgctxt "103||||4"
+msgid "This is... my apartment?\r\nHow did I get here?"
+msgstr "(Questo è... il mio appartamento?\r\nCome ci sono arrivato?)"
+
+msgctxt "104||||4"
+msgid "And what ended up happening to the ghosts?\r\nI should head over to the graveyard..."
+msgstr "(E cos'è successo alla fine ai fantasmi?\r\nDovrei fare un salto al cimitero...)"
+
+msgctxt "105||||4"
+msgid "Kiryu-san."
+msgstr "Kiryu-san."
+
+msgctxt "106||||4"
+msgid "Old man."
+msgstr "Vecchio."
+
+msgctxt "107||||4"
+msgid "Allow me t'thank ya. 'Cause of ya,\r\nmy ancestors can finally rest in peace."
+msgstr "Permettimi di ringraziarti. Grazie a te,\r\ni miei antenati possono finalmente riposare in pace."
+
+msgctxt "108||||4"
+msgid "How can you tell, old man?"
+msgstr "Come fai a dirlo, vecchio?"
+
+msgctxt "109||||4"
+msgid "Trust me, I have my ways."
+msgstr "Fidati, ho i miei metodi."
+
+msgctxt "110||||4"
+msgid "......"
+msgstr "..."
+
+msgctxt "111||||4"
+msgid "I've really gotta thank ya fer this. Y'did\r\nwhat none o' their descendants could ever manage."
+msgstr "Devo davvero ringraziarti per questo. Hai fatto ciò che\r\nnessuno dei loro discendenti è mai riuscito a fare."
+
+msgctxt "112||||4"
+msgid "Honestly, I enjoyed going up against them, too.\r\nIt turned into some pretty decent sparring practice."
+msgstr "Onestamente, mi è piaciuto combattere contro di loro.\r\nSi è rivelato un ottimo allenamento."
+
+msgctxt "113||||4"
+msgid "Interestin'."
+msgstr "Interessante."
+
+msgctxt "114||||4"
+msgid "Y'know, I've always regretted not bein' able t'help\r\nmy ancestors. Guess ya helped ease my regrets, too."
+msgstr "Sai, ho sempre rimpianto di non essere riuscito ad aiutare i\r\nmiei antenati. Immagino che tu abbia alleviato anche i miei, di rimpianti."
+
+msgctxt "115||||4"
+msgid "Oh yeah. I'd be honored if ya'd accept this,\r\nKiryu-san. It's the only way I got t'thank ya."
+msgstr "Ah, sì. Sarei onorato se accettassi questo,\r\nKiryu-san. È l'unico modo che ho per ringraziarti."
+
+msgctxt "116||||4"
+msgid "Hm?"
+msgstr "Uhm?"
+
+msgctxt "117||||4"
+msgid "What is this?"
+msgstr "Cos'è questo?"
+
+msgctxt "118||||4"
+msgid "It's a talisman t'ward off spirits n' the like.\r\nY'won't see any more ghosts so long as yer holdin' it."
+msgstr "È un talismano per allontanare gli spiriti e cose simili.\r\nNon vedrai più alcun fantasma finché lo porterai con te."
+
+msgctxt "119||||4"
+msgid "That's almost depressing to hear."
+msgstr "Mi rattrista un po' sentirtelo dire."
+
+msgctxt "120||||4"
+msgid "Old man?"
+msgstr "Vecchio?"
+
+msgctxt "121||||4"
+msgid "Does that mean..."
+msgstr "Questo significa che..."
+
+msgctxt "122||||4"
+msgid "Hold on, just what was all of that...?"
+msgstr "Un momento, cos'è stato tutto questo...?"

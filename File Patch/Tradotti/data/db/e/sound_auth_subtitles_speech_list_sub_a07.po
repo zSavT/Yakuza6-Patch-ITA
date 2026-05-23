@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "You know, there's been a drone\r\nflying 'round here the past few days."
+msgstr "Sai, c'è un drone che vola\r\nda queste parti negli ultimi giorni."
+
+msgctxt "1||||4"
+msgid "For real? I've never actually seen one!\r\nIsn't flying them here illegal, though?"
+msgstr "Dici sul serio? Non ne ho mai visto uno!\r\nMa non è illegale farli volare qui?"
+
+msgctxt "2||||4"
+msgid "No clue."
+msgstr "Non ne ho idea."
+
+msgctxt "3||||4"
+msgid "A drone...?"
+msgstr "Un drone...?"
+
+msgctxt "6||||4"
+msgid "What in the...?"
+msgstr "Ma che...?"
+
+msgctxt "7||||4"
+msgid "What's wrong, you two?"
+msgstr "Che succede, voi due?"
+
+msgctxt "8||||4"
+msgid "Well, uh... We almost got hit by a drone."
+msgstr "Beh, ehm... Siamo quasi stati colpiti da un drone."
+
+msgctxt "9||||4"
+msgid "A drone?"
+msgstr "Un drone?"
+
+msgctxt "10||||4"
+msgid "Huh? You don't know about them?\r\nThey're like little remote-control helicopters."
+msgstr "Eh? Non sai cosa sono?\r\nSono come dei piccoli elicotteri telecomandati."
+
+msgctxt "11||||4"
+msgid "That technology is news to me...\r\nMore importantly, one attacked you?"
+msgstr "Questa tecnologia mi è nuova...\r\nMa la cosa più importante è: vi ha attaccato?"
+
+msgctxt "12||||4"
+msgid "I don't know if it was aiming for us,\r\nbut was definitely flying in our direction."
+msgstr "Non so se stesse puntando a noi,\r\nma volava decisamente nella nostra direzione."
+
+msgctxt "13||||4"
+msgid "We dodged it though, and it just flew off."
+msgstr "L'abbiamo schivato, però, ed è volato via."
+
+msgctxt "14||||4"
+msgid "And do you remember where it was heading?"
+msgstr "E vi ricordate in che direzione è andato?"
+
+msgctxt "15||||4"
+msgid "Hm? Ummm, probably that way."
+msgstr "Mh? Ummm, probabilmente da quella parte."
+
+msgctxt "16||||4"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "17||||4"
+msgid "What the!?"
+msgstr "Ma che!?"
+
+msgctxt "18||||4"
+msgid "So that's a drone, huh?\r\nWhat is it doing?"
+msgstr "Quindi quello è un drone, eh?\r\nCosa sta facendo?"
+
+msgctxt "19||||4"
+msgid "It went that way.\r\nI should get after it."
+msgstr "È andato da quella parte.\r\nDovrei seguirlo."
+
+msgctxt "20||||4"
+msgid "Not again!"
+msgstr "Non di nuovo!"
+
+msgctxt "21||||4"
+msgid "Hm? It's not flying away?"
+msgstr "Mh? Non vola via?"
+
+msgctxt "22||||4"
+msgid "Maybe it wants to play a game of tag.\r\nGet back here!"
+msgstr "Forse vuole giocare ad acchiapparella.\r\nTorna qui!"
+
+msgctxt "23||||4"
+msgid "You done playing now?"
+msgstr "Hai finito di giocare ora?"
+
+msgctxt "24||||4"
+msgid "P-Please help me!"
+msgstr "T-Ti prego, aiutami!"
+
+msgctxt "25||||4"
+msgid "Who are you?"
+msgstr "Chi sei?"
+
+msgctxt "26||||4"
+msgid "Th-Thank god! You're finally here!\r\nPlease, you have to help me!"
+msgstr "G-Grazie a Dio! Sei finalmente qui!\r\nTi prego, devi aiutarmi!"
+
+msgctxt "27||||4"
+msgid "Slow down. What's wrong?"
+msgstr "Rallenta un attimo. Che succede?"
+
+msgctxt "28||||4"
+msgid "I can explain it all to you later.\r\nRight now we need to go!"
+msgstr "Posso spiegarti tutto dopo.\r\nAdesso dobbiamo andarcene!"
+
+msgctxt "29||||4"
+msgid "Hey there, pretty boy.\r\nWhere're you runnin' off to?"
+msgstr "Ehi, bel faccino.\r\nDove credi di scappare?"
+
+msgctxt "30||||4"
+msgid "Crap..."
+msgstr "Merda..."
+
+msgctxt "31||||4"
+msgid "Who are you guys?\r\nWhat's your beef with this kid?"
+msgstr "Chi siete voi?\r\nQual è il vostro problema con questo ragazzino?"
+
+msgctxt "32||||4"
+msgid "Ah, we don't got a beef at all.\r\nWe're just some friends lookin' to hang."
+msgstr "Ah, non abbiamo nessun problema.\r\nSiamo solo degli amici in cerca di compagnia."
+
+msgctxt "33||||4"
+msgid "H-He's lying!\r\nThese guys are blackmailing me!"
+msgstr "S-Sta mentendo!\r\nQuesti tizi mi stanno ricattando!"
+
+msgctxt "34||||4"
+msgid "They make me use that drone to record the city!"
+msgstr "Mi costringono a usare quel drone per registrare la città!"
+
+msgctxt "35||||4"
+msgid "C'mon, you're gonna give him the wrong idea!\r\nQuit your fakin', punk!"
+msgstr "Andiamo, gli farai fare un'idea sbagliata!\r\nSmettila di fingere, teppistello!"
+
+msgctxt "36||||4"
+msgid "Nobody could fake the fear in his eyes."
+msgstr "Nessuno potrebbe fingere la paura nei suoi occhi."
+
+msgctxt "37||||4"
+msgid "I'm tellin' you, just get lost already!\r\nYou ain't lookin' to get pummeled, are ya?"
+msgstr "Te l'ho detto, sparisci e basta!\r\nNon vuoi farti riempire di botte, vero?"
+
+msgctxt "38||||4"
+msgid "You can't just prey on an innocent kid like this.\r\nThat's not what yakuza do."
+msgstr "Non potete prendervela con un ragazzino innocente in questo modo.\r\nNon è quello che fa la yakuza."
+
+msgctxt "39||||4"
+msgid "Thanks for the lesson.\r\nI'm thinkin' we should return the favor..."
+msgstr "Grazie per la lezione.\r\nPenso che dovremmo restituirti il favore..."
+
+msgctxt "40||||4"
+msgid "...by breakin' your legs!"
+msgstr "...spezzandoti le gambe!"
+
+msgctxt "41||||4"
+msgid "Wh-Whoa."
+msgstr "Wh-Whoa."
+
+msgctxt "42||||4"
+msgid "It's time for an explanation.\r\nTell me what happened."
+msgstr "È ora di dare delle spiegazioni.\r\nDimmi cos'è successo."
+
+msgctxt "43||||4"
+msgid "W-Well, I was flying my drone at a park\r\nin Kamurocho about six months ago."
+msgstr "B-Beh, stavo facendo volare il mio drone in un parco\r\na Kamurocho circa sei mesi fa."
+
+msgctxt "44||||4"
+msgid "But then the drone started acting weird,\r\nand then... totally stopped working."
+msgstr "Poi però il drone ha iniziato a comportarsi in modo strano,\r\ne dopo... ha smesso completamente di funzionare."
+
+msgctxt "45||||4"
+msgid "It fell right on top of these guys.\r\nI didn't realize they were yakuza..."
+msgstr "È caduto proprio addosso a questi tizi.\r\nNon avevo capito che fossero degli yakuza..."
+
+msgctxt "46||||4"
+msgid "Sounds like you were at fault."
+msgstr "Sembra che la colpa fosse tua."
+
+msgctxt "47||||4"
+msgid "Y-Yes, I agree!\r\nI apologized to them nonstop afterward."
+msgstr "S-Sì, sono d'accordo!\r\nMi sono scusato all'infinito con loro dopo."
+
+msgctxt "48||||4"
+msgid "I even said my parents would\r\ncover their hospital bills, but..."
+msgstr "Ho persino detto che i miei genitori avrebbero\r\ncoperto le loro spese mediche, ma..."
+
+msgctxt "49||||4"
+msgid "...they weren't interested in that.\r\nThey had their own idea of payback."
+msgstr "...non gli interessava.\r\nAvevano in mente un altro tipo di risarcimento."
+
+msgctxt "50||||4"
+msgid "Since then, I've been locked up here.\r\nDay in and day out, I fly that drone."
+msgstr "Da allora mi tengono rinchiuso qui.\r\nGiorno dopo giorno, faccio volare quel drone."
+
+msgctxt "51||||4"
+msgid "I don't understand.\r\nWhy would they want you to do that?"
+msgstr "Non capisco.\r\nPerché mai volevano farti fare una cosa del genere?"
+
+msgctxt "52||||4"
+msgid "I'm pretty sure they were looking\r\nfor info on the city."
+msgstr "Sono abbastanza sicuro che stessero\r\ncercando informazioni sulla città."
+
+msgctxt "53||||4"
+msgid "The more I flew, the more I realized\r\npeople don't expect surveillance from above."
+msgstr "Più volavo, più mi rendevo conto che la gente\r\nnon si aspetta di essere sorvegliata dall'alto."
+
+msgctxt "54||||4"
+msgid "They'll do all sorts of stuff they don't want\r\nothers seeing. But I could see it all."
+msgstr "Fanno un mucchio di cose che non vorrebbero\r\nfar vedere ad altri. Ma io potevo vedere tutto."
+
+msgctxt "55||||4"
+msgid "Right, information is money.\r\nThat's a lesson you learn early in this city."
+msgstr "Giusto, l'informazione è denaro.\r\nÈ una lezione che si impara in fretta in questa città."
+
+msgctxt "56||||4"
+msgid "But... I wanted to get away.\r\nI'd always fly low when I got the chance."
+msgstr "Ma... volevo scappare.\r\nVolavo sempre basso quando ne avevo l'occasione."
+
+msgctxt "57||||4"
+msgid "I was hoping someone'd chase after the drone."
+msgstr "Speravo che qualcuno inseguisse il drone."
+
+msgctxt "58||||4"
+msgid "But people just got scared instead.\r\nNobody ever came to help me."
+msgstr "Ma la gente si spaventava e basta.\r\nNessuno è mai venuto in mio aiuto."
+
+msgctxt "59||||4"
+msgid "But when I saw you, it seemed\r\nlike the perfect chance to try again."
+msgstr "Però quando ti ho visto, mi è sembrata\r\nl'occasione perfetta per riprovarci."
+
+msgctxt "60||||4"
+msgid "You seemed strong, so I thought\r\nyou'd be able to save me if I got you here."
+msgstr "Sembravi forte, così ho pensato che mi\r\navresti salvato se ti avessi portato qui."
+
+msgctxt "61||||4"
+msgid "So that business with the drone was just an SOS?"
+msgstr "Quindi tutta quella storia col drone era solo un SOS?"
+
+msgctxt "62||||4"
+msgid "You could have really hurt someone, you know.\r\nBe more careful next time."
+msgstr "Avresti potuto davvero ferire qualcuno, lo sai.\r\nFai più attenzione la prossima volta."
+
+msgctxt "63||||4"
+msgid "I will. Sorry about that."
+msgstr "Lo farò. Scusa per il disturbo."
+
+msgctxt "64||||4"
+msgid "Now get going.\r\nYour family must be worried."
+msgstr "Ora vai.\r\nLa tua famiglia sarà in pensiero."
+
+msgctxt "65||||4"
+msgid "R-Right. Um, thank you so much!"
+msgstr "G-Giusto. Ehm, grazie mille!"
+
+msgctxt "66||||4"
+msgid "They really used this for surveillance?\r\nI can't believe the technology nowadays..."
+msgstr "Lo usavano davvero per la sorveglianza?\r\nNon riesco a credere alla tecnologia di oggi..."

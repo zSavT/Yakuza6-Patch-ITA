@@ -1,0 +1,2153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Kiryu-san! Sorry I'm late. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Did you have to wait long...?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Kiryu-san! I couldn't wait to see you again! <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Where should we go?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Karaoke! Nice choice!"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "That sounds fun!\r\nI never really get to play darts."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "C'mon, let's go. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "I wonder what song you'll sing... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Let's see...\r\nWhat should I sing today? <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "I'm not so hot at darts, so go easy on me!"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "All right! Let's do this!"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "W-Well, we're just getting started.\r\nWe can still have some fun, right...?"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "That was fun! <symbol=note_with_outline>\r\nWe should do this again sometime."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "That was so fun! <symbol=heart_with_outline> It's rare to have a\r\ncustomer who's so fun to hang out with!"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Well, it's about that time.\r\nLet's head back to the club."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Oh, I love this song! <symbol=heart_with_outline>\r\nI want you to hear it. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Cool, they have this song at karaoke? <symbol=note_with_outline>\r\nThat's the one I'm singing then."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Hm... I'm having a hard time getting\r\nin the groove today..."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Kiryu-san! That's kinda distracting..."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "That was so fun!\r\nYou're great at getting the mood going. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "I feel like I sang my heart out. <symbol=heart_with_outline>\r\nYou made me feel right at home. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Hey, you're gonna sing something too, right? <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Aww... I wanted to hear what you sound like..."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Um, well...\r\nI think I could tell what you were going for!"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "You're a great singer! <symbol=note_with_outline>\r\nYou had me swept up in your voice."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "How did you become such a good singer!?\r\nI just want to listen to you forever... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Huh? Really!?\r\nYou've got deep pockets. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Oh, that one's really good. <symbol=note_with_outline>\r\nI like it, too. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Excuse me."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Nice to meet you.\r\nI'm Saki."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Fun fact, I'm actually a pro wrestler."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Huh. That's unusual.\r\nThis should be fun."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "I'm glad to hear you say that.\r\nUm, can I ask what your name is?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Yeah. Kazuma Kiryu."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Kiryu-san, then!\r\nLet's have some fun today then, hm? <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Thanks for requesting me today. <symbol=heart_with_outline>\r\nThink you'll come back again...?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Yeah, I had a good time."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "I'm happy to hear that."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Kiryu-san, I'm glad you came back."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Kiryu-san, I've been waiting for you. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Kiryu-san, I've been hoping you'd\r\nshow up... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "I'm glad we got to spend more time together\r\nthan usual today. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Come on in."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Thanks for coming today.\r\nHope to see you again."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Thanks for coming today. <symbol=note_with_outline>\r\nYou'd better come back, okay? <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Thank you, Kiryu-san. <symbol=note_with_outline>\r\nI want to see you again soon... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "I'll see you later, Kiryu-san. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Oh, Kiryu-san.\r\nDo you have a sec?"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Here's my number.\r\nI expect you to invite me out sometime, okay? <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "It's almost time.\r\nWhat do you wanna do?"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Time's up...\r\nThat really flew by."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Yay! I knew I could count on you, Kiryu-san. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Thanks a lot for today."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Oh, that's true!"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Yeah, I totally know what you mean!"
+msgstr ""
+
+msgctxt "59||||4"
+msgid "No doubt about it."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "I agree!\r\nI feel the same way."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Huh? I don't think so."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Hmm... Really?"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "I don't think so..."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Sorry, I don't really get it."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Geez, what are you saying, Kiryu-san?"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Yeah, that's right. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Wow, really?"
+msgstr ""
+
+msgctxt "68||||4"
+msgid "I wonder..."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "I have to say, it's rare for someone\r\nto be both a hostess and a pro wrestler."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Yeah, that's what everyone says."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "How do you feel about that?"
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Guys request me for the novelty of it, but the\r\nreaction's not great if they wanted a \"traditional\" girl."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Kinda makes me wonder... should I try to act\r\nmore feminine so I can be more popular?"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "You are who you are, right?"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "76||||4"
+msgid "You shouldn't have to hide who you really are.\r\nYour physique sets you apart, as far as I'm concerned."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Kiryu-san... Y-You're right!\r\nI was getting kinda self-conscious."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "You sound more optimistic already."
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Yeah! I'll aim for the number one\r\nspot in my own way!"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Yeah, and I'll support you however I can."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Well, you are kind of manly."
+msgstr ""
+
+msgctxt "83||||4"
+msgid "You're right... but guys do say it\r\nmakes me easier to talk to, though."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "Then, why not use that to your advantage?\r\nYou just have to own it and stay optimistic."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "You're right. No point being indecisive!\r\nI'll try to be more optimistic!"
+msgstr ""
+
+msgctxt "86||||4"
+msgid "There you go.\r\nThat's a manly thing to say."
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Come on, Kiryu-san.\r\nDon't tease me."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "I love... wrestling."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "What!? Pro wrestling?\r\nAren't you supposed to say you love me?"
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Just kidding. But I do think talking so\r\ncasually like this is part of your charm."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Kiryu-san... That's true.\r\nI do have my own way of doing things."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "I'm feeling more optimistic now!\r\nThank you, Kiryu-san."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "No problem. Good luck."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "By the way, Saki, why'd you go into pro\r\nwrestling? What was your motivation?"
+msgstr ""
+
+msgctxt "95||||4"
+msgid "Actually I wasn't interested at all at first,\r\nbut the more I did it, the more I fell in love."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "Before I realized it, going pro had its hooks\r\nin me. I've been working hard at it ever since!"
+msgstr ""
+
+msgctxt "97||||4"
+msgid "There were some bumps in the road, but I managed\r\nto make connections and now I'm a pro wrestler."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Huh. So you didn't like it at the start."
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Right. But I saw this match that really moved me.\r\nIt's like that match gave me a purpose in life."
+msgstr ""
+
+msgctxt "100||||4"
+msgid "When I saw that, I decided I wanted to be able\r\nto move people in the same way."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "That's great.\r\nI'd like to see if you stir my emotions, too."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "Kiryu-san, you've got it. I'll work at it\r\nuntil I've met your expectations!"
+msgstr ""
+
+msgctxt "103||||4"
+msgid "Someday maybe I'll let you\r\ntouch my championship belt."
+msgstr ""
+
+msgctxt "104||||4"
+msgid "Looking forward to it."
+msgstr ""
+
+msgctxt "105||||4"
+msgid "I'd like to move you, too."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Huh? Are you going to take up pro wrestling, too?\r\nYou do look capable enough..."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "No, you just looked so happy talking about your\r\ndreams. It made me feel like I have to keep up."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "In that sense...\r\nmaybe you've already moved me."
+msgstr ""
+
+msgctxt "109||||4"
+msgid "Kiryu-san... That makes me so happy.\r\nI hope I can really stir your emotions someday!"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Do one of your moves on me!"
+msgstr ""
+
+msgctxt "111||||4"
+msgid "Huh? Where'd that come from, Kiryu-san?"
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Well, I just thought I'd get a taste of what you\r\nfelt if you did one of your moves on me."
+msgstr ""
+
+msgctxt "113||||4"
+msgid "All you'd get from that is sore.\r\nIf you wanna be moved, come see a match sometime."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Okay.\r\nLooking forward to it."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "So now I know why you became a pro wrestler,\r\nbut what made you decide to become a hostess?"
+msgstr ""
+
+msgctxt "116||||4"
+msgid "I'm a tomboy and I'm a pro wrestler on top of it,\r\nso I wanted to become more feminine."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "I thought being a hostess might help me polish\r\nthat aspect of myself. Also... well, the money."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "Money?"
+msgstr ""
+
+msgctxt "119||||4"
+msgid "Yeah. The team I'm on isn't very big,\r\nso we're pretty poor, if I'm being honest."
+msgstr ""
+
+msgctxt "120||||4"
+msgid "Even when I fight, the money isn't very good.\r\nA lot of us have part-time jobs on the side."
+msgstr ""
+
+msgctxt "121||||4"
+msgid "And when you get hurt you have to pay for the\r\ntreatment... the costs really add up."
+msgstr ""
+
+msgctxt "122||||4"
+msgid "I see... Sounds like being a pro wrestler\r\ncan be kind of rough."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "It is. Someday I'd like to be able\r\nto focus on just wrestling, though."
+msgstr ""
+
+msgctxt "124||||4"
+msgid "It's great that you want to focus on wrestling,\r\nbut... that wouldn't be great for me."
+msgstr ""
+
+msgctxt "125||||4"
+msgid "Huh? Why's that?"
+msgstr ""
+
+msgctxt "126||||4"
+msgid "Because I wouldn't be able\r\nto see you anymore, of course."
+msgstr ""
+
+msgctxt "127||||4"
+msgid "Kiryu-san...\r\nGosh, what are you saying?"
+msgstr ""
+
+msgctxt "128||||4"
+msgid "But, you're right. I've actually met a lot of\r\npeople here that I've turned into wrestling fans."
+msgstr ""
+
+msgctxt "129||||4"
+msgid "I should continue working here and aim for the\r\ntop for their sake!"
+msgstr ""
+
+msgctxt "130||||4"
+msgid "Nice. Wouldn't it be even better to aim\r\nfor the top in both jobs?"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "Totally. I'll aim for the champion's\r\nbelt in the cabaret trade, too!"
+msgstr ""
+
+msgctxt "132||||4"
+msgid "What if I supported you?"
+msgstr ""
+
+msgctxt "133||||4"
+msgid "Really? That's so nice of you.\r\nBut, I'm happy enough that you offered."
+msgstr ""
+
+msgctxt "134||||4"
+msgid "I want to at least be able\r\nto support my own lifestyle."
+msgstr ""
+
+msgctxt "135||||4"
+msgid "I don't feel like I could entertain an audience\r\nif I were living off someone else's money."
+msgstr ""
+
+msgctxt "136||||4"
+msgid "I like that determination.\r\nYou're a real professional, Saki."
+msgstr ""
+
+msgctxt "137||||4"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "138||||4"
+msgid "But, when I retire from wrestling and run\r\nout of money, maybe I'll come knocking, huh?"
+msgstr ""
+
+msgctxt "139||||4"
+msgid "I'll think about it."
+msgstr ""
+
+msgctxt "140||||4"
+msgid "Then you should just marry me."
+msgstr ""
+
+msgctxt "141||||4"
+msgid "Huh!? Kiryu-san, where'd that come from!?"
+msgstr ""
+
+msgctxt "142||||4"
+msgid "Well, if we got married,\r\nI could support you as family."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "Oh, I see.\r\nI didn't think of it that way..."
+msgstr ""
+
+msgctxt "144||||4"
+msgid "But sheesh... That caught me off guard.\r\nMy heart's still racing..."
+msgstr ""
+
+msgctxt "145||||4"
+msgid "It was just a what-if.\r\nSorry to make you panic."
+msgstr ""
+
+msgctxt "146||||4"
+msgid "No, this'll make a great fantasy...\r\nThanks for the idea!"
+msgstr ""
+
+msgctxt "147||||4"
+msgid "Ooh, that's pretty good, too..."
+msgstr ""
+
+msgctxt "148||||4"
+msgid "What happened?\r\nYou're grinning ear to ear."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "Oh, sorry!\r\nI was off in fantasy land."
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Ohhh. Hm?\r\nIs that your fantasy notebook there?"
+msgstr ""
+
+msgctxt "151||||4"
+msgid "Yeah, it is. I write down my fantasy scenarios\r\nso I can come back to them later."
+msgstr ""
+
+msgctxt "152||||4"
+msgid "So diligent.\r\nWhy would you need to, though?"
+msgstr ""
+
+msgctxt "153||||4"
+msgid "So I can reuse them. That way I can enjoy\r\nthe same fantasy as many times as I want."
+msgstr ""
+
+msgctxt "154||||4"
+msgid "Wow... There's all sorts of stuff in here.\r\nHmm? \"Kiryu-san Scenarios\"...?"
+msgstr ""
+
+msgctxt "155||||4"
+msgid "Waaahhhhh! You can't look at that one!\r\nGeez, don't even open that, please!"
+msgstr ""
+
+msgctxt "156||||4"
+msgid "O-Oh. Sorry."
+msgstr ""
+
+msgctxt "157||||4"
+msgid "I can't let my guard down for\r\na second around you. Too close!"
+msgstr ""
+
+msgctxt "158||||4"
+msgid "Being around you makes me think\r\nfantasizing might be kind of fun."
+msgstr ""
+
+msgctxt "159||||4"
+msgid "It is fun! I recommend it.\r\nWhat do you say we give it a try!?"
+msgstr ""
+
+msgctxt "160||||4"
+msgid "So, Kiryu-san, what kind of scenario\r\nwould you imagine me in?"
+msgstr ""
+
+msgctxt "161||||4"
+msgid "A pro wrestler, I guess?"
+msgstr ""
+
+msgctxt "162||||4"
+msgid "That's what I already am.\r\nPut some imagination into it, please!"
+msgstr ""
+
+msgctxt "163||||4"
+msgid "Hm... This is pretty hard."
+msgstr ""
+
+msgctxt "164||||4"
+msgid "Sometimes I do find myself in\r\nfantasies based on reality, though."
+msgstr ""
+
+msgctxt "165||||4"
+msgid "Like, you invite me out on a date after work,\r\nand then you surprise me with a bouquet..."
+msgstr ""
+
+msgctxt "166||||4"
+msgid "Hey, I thought I was supposed\r\nto be the one fantasizing."
+msgstr ""
+
+msgctxt "167||||4"
+msgid "My wife, I guess."
+msgstr ""
+
+msgctxt "168||||4"
+msgid "Wha!? Um...\r\nYou mean we'd be... married?"
+msgstr ""
+
+msgctxt "169||||4"
+msgid "Yeah. It's fun talking with you,\r\nso it's not hard to imagine us married."
+msgstr ""
+
+msgctxt "170||||4"
+msgid "Kiryu-san... Oh man, this is kind of\r\nembarrassing. But, I'm really happy..."
+msgstr ""
+
+msgctxt "171||||4"
+msgid "You know, you don't have to let it end as a\r\nfantasy... We could make it a reality... Maybe?"
+msgstr ""
+
+msgctxt "172||||4"
+msgid "Hm? What was that?"
+msgstr ""
+
+msgctxt "173||||4"
+msgid "No-no-no-nope-nope-nope!\r\nThis is turning out to be a good day! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "174||||4"
+msgid "My mom, I guess."
+msgstr ""
+
+msgctxt "175||||4"
+msgid "What!? You mean I would be your mom?"
+msgstr ""
+
+msgctxt "176||||4"
+msgid "Yeah. I feel like you'd do\r\na great job raising me."
+msgstr ""
+
+msgctxt "177||||4"
+msgid "Kiryu-san, what exactly do you see me as?"
+msgstr ""
+
+msgctxt "178||||4"
+msgid "Well, I can't deny it would be\r\npretty great living together with you."
+msgstr ""
+
+msgctxt "179||||4"
+msgid "That does make me happy.\r\nBut, you should make me your wife, then."
+msgstr ""
+
+msgctxt "180||||4"
+msgid "Yeah, good point..."
+msgstr ""
+
+msgctxt "181||||4"
+msgid "Today's been fun. Thanks."
+msgstr ""
+
+msgctxt "182||||4"
+msgid "No, I should be thanking you. <symbol=heart_with_outline>\r\nBy the way, I have a proposal..."
+msgstr ""
+
+msgctxt "183||||4"
+msgid "Hm? What's that?"
+msgstr ""
+
+msgctxt "184||||4"
+msgid "Um, are you free after this?\r\nI was wondering if you'd like to go on a date."
+msgstr ""
+
+msgctxt "185||||4"
+msgid "I don't mind.\r\nYou're good to go?"
+msgstr ""
+
+msgctxt "186||||4"
+msgid "Of course! I'd follow you to the\r\nends of the Earth! All right! It's a promise!"
+msgstr ""
+
+msgctxt "187||||4"
+msgid "You okay with meeting in\r\nfront of the Millennium Tower?"
+msgstr ""
+
+msgctxt "188||||4"
+msgid "I'll text you later."
+msgstr ""
+
+msgctxt "189||||4"
+msgid "Yeah. See you soon."
+msgstr ""
+
+msgctxt "190||||4"
+msgid "Okay! Oh, I can't wait!"
+msgstr ""
+
+msgctxt "191||||4"
+msgid "My hobbies?\r\nMaybeee... fantasizing?"
+msgstr ""
+
+msgctxt "192||||4"
+msgid "F-Fantasizing?"
+msgstr ""
+
+msgctxt "193||||4"
+msgid "Yeah. I fantasize all the time! You know, like,\r\n\"What would it be like to date that guy?\""
+msgstr ""
+
+msgctxt "194||||4"
+msgid "Then, I write it all down in a notebook so\r\nI can come back to it if I want to."
+msgstr ""
+
+msgctxt "195||||4"
+msgid "Sounds like a good read.\r\nCan I see the notebook?"
+msgstr ""
+
+msgctxt "196||||4"
+msgid "Whaaaat!? No way!\r\nI'd just die!"
+msgstr ""
+
+msgctxt "197||||4"
+msgid "Aww, why not?"
+msgstr ""
+
+msgctxt "198||||4"
+msgid "Hmmm... Fine, how 'bout I choose some fantasies\r\nI'm okay with sharing and you can see those?"
+msgstr ""
+
+msgctxt "199||||4"
+msgid "It'd be too embarrassing to show\r\nyou the low quality ones."
+msgstr ""
+
+msgctxt "200||||4"
+msgid "S-Sure...\r\nThe mind of a pro is something else..."
+msgstr ""
+
+msgctxt "201||||4"
+msgid "You're not fantasizing about me, are you?"
+msgstr ""
+
+msgctxt "202||||4"
+msgid "Doesn't being told not to do something just make\r\nyou want to do it more? What should I picture?"
+msgstr ""
+
+msgctxt "203||||4"
+msgid "Heeey..."
+msgstr ""
+
+msgctxt "204||||4"
+msgid "Think you could fit me\r\ninto one of your fantasies?"
+msgstr ""
+
+msgctxt "205||||4"
+msgid "Sure! Kiryu-san...\r\nHmm, let's see here..."
+msgstr ""
+
+msgctxt "206||||4"
+msgid "Kiryu-san is actually a firefighter...\r\nAnd after we start dating, there's a fire..."
+msgstr ""
+
+msgctxt "207||||4"
+msgid "So he comes to save me, but...\r\nNaaaw, this is getting too clichéd."
+msgstr ""
+
+msgctxt "208||||4"
+msgid "Aww..."
+msgstr ""
+
+msgctxt "209||||4"
+msgid "I let myself get some sleep on my days off!\r\nAnd maybe fit in some online shopping?"
+msgstr ""
+
+msgctxt "210||||4"
+msgid "My job takes a lot out of me physically, so on\r\nmy days off, I just want to veg."
+msgstr ""
+
+msgctxt "211||||4"
+msgid "Not too long, actually.\r\nThere's still a lot I'm not used to."
+msgstr ""
+
+msgctxt "212||||4"
+msgid "I want to pick up the pace a little\r\nand figure out how to be a little more girly."
+msgstr ""
+
+msgctxt "213||||4"
+msgid "Based on the slight accent... Kyoto?"
+msgstr ""
+
+msgctxt "214||||4"
+msgid "Wow, good guess, Kiryu-san!\r\nI <font_kind=yakuza_italic>am</font_kind> from Kyoto."
+msgstr ""
+
+msgctxt "215||||4"
+msgid "Monkfish liver, I guess.\r\nAnything that goes down well with booze."
+msgstr ""
+
+msgctxt "216||||4"
+msgid "I'm glad you asked!\r\nI like my men like I like my gorillas!"
+msgstr ""
+
+msgctxt "217||||4"
+msgid "G-Gorillas?"
+msgstr ""
+
+msgctxt "218||||4"
+msgid "You mean, manly and rugged like a gorilla?"
+msgstr ""
+
+msgctxt "219||||4"
+msgid "Exactly, rugged is a good word for it.\r\nAnd gorillas have the kindest faces, right?"
+msgstr ""
+
+msgctxt "220||||4"
+msgid "A gorilla, huh?\r\nSo, someone like me?"
+msgstr ""
+
+msgctxt "221||||4"
+msgid "You <font_kind=yakuza_italic>may</font_kind> be just rugged enough\r\nto qualify as a gorilla, Kiryu-san!"
+msgstr ""
+
+msgctxt "222||||4"
+msgid "But you're like... a pure, refined,\r\nurban gorilla, or something. In a good way?"
+msgstr ""
+
+msgctxt "223||||4"
+msgid "An urban gorilla...\r\nI don't know how to feel about that."
+msgstr ""
+
+msgctxt "224||||4"
+msgid "Ook ook..."
+msgstr ""
+
+msgctxt "225||||4"
+msgid "Kiryu-san...!"
+msgstr ""
+
+msgctxt "226||||4"
+msgid "Never mind.\r\nForget I ever did that."
+msgstr ""
+
+msgctxt "227||||4"
+msgid "But that was pretty funny, Kiryu-san!\r\nYou're a riot!"
+msgstr ""
+
+msgctxt "228||||4"
+msgid "When I fall in love, I want to do anything I can\r\nfor that person. I'd even cook for him every day."
+msgstr ""
+
+msgctxt "229||||4"
+msgid "But when I say that kind of stuff, people tell\r\nme it's kind of out of character for me."
+msgstr ""
+
+msgctxt "230||||4"
+msgid "I don't think that's true. On the inside,\r\nmaybe you're girlier than you think."
+msgstr ""
+
+msgctxt "231||||4"
+msgid "Huh? You think so? You're the only person\r\nwho's ever told me that. I'm all happy now."
+msgstr ""
+
+msgctxt "232||||4"
+msgid "As a pro wrestler, only being the best.\r\nIn my private life, getting married, I guess?"
+msgstr ""
+
+msgctxt "233||||4"
+msgid "You wouldn't know to look at me, but I'm a great\r\ncook, and I'd be such a devoted, great wife to my husband!"
+msgstr ""
+
+msgctxt "234||||4"
+msgid "You're sure of yourself, huh?"
+msgstr ""
+
+msgctxt "235||||4"
+msgid "Sometimes you've gotta make a case for yourself,\r\ny'know? You mull it over, Kiryu-san. Sound good?"
+msgstr ""
+
+msgctxt "236||||4"
+msgid "My parents were both into martial arts,\r\nso I always dreamed of being some kind of fighter."
+msgstr ""
+
+msgctxt "237||||4"
+msgid "Honestly though, I never thought I'd become a pro\r\nwrestler. Life has a strange way of working out."
+msgstr ""
+
+msgctxt "238||||4"
+msgid "Special skills?\r\nHmmmmm.... I s'pose I'm a pretty good cook."
+msgstr ""
+
+msgctxt "239||||4"
+msgid "Other than that...\r\nhigh kicks and sleeper holds?"
+msgstr ""
+
+msgctxt "240||||4"
+msgid "Those are more techniques than skills..."
+msgstr ""
+
+msgctxt "241||||4"
+msgid "True! Oh, speaking of special techniques,\r\nI have a few original ones, you know."
+msgstr ""
+
+msgctxt "242||||4"
+msgid "Yeah? What are they called?"
+msgstr ""
+
+msgctxt "243||||4"
+msgid "Oh, whatever could they be?\r\nHere's a hint: \"Blank Galaxy.\""
+msgstr ""
+
+msgctxt "244||||4"
+msgid "Salaryman Galaxy!\r\nIs that right?"
+msgstr ""
+
+msgctxt "245||||4"
+msgid "Huh!? How did you know!? That's amazing!\r\nAre you a mind-reader?"
+msgstr ""
+
+msgctxt "246||||4"
+msgid "Nah, but maybe I'd heard it somewhere."
+msgstr ""
+
+msgctxt "247||||4"
+msgid "Whoa. Does that mean I'm actually getting famous?\r\nThat's the best news! <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "248||||4"
+msgid "Lover Love Galaxy!\r\nIs that right?"
+msgstr ""
+
+msgctxt "249||||4"
+msgid "Bzzzt!\r\nThe right answer was \"Salaryman Galaxy\"!"
+msgstr ""
+
+msgctxt "250||||4"
+msgid "How was I supposed to guess that...?"
+msgstr ""
+
+msgctxt "251||||4"
+msgid "But \"Lover Love Galaxy\" is kind of cute.\r\nMaybe that's what I'll call my next one..."
+msgstr ""
+
+msgctxt "252||||4"
+msgid "Nah, it's too embarrassing.\r\nForget it..."
+msgstr ""
+
+msgctxt "253||||4"
+msgid "Cinderella Galaxy!\r\nIs that right?"
+msgstr ""
+
+msgctxt "254||||4"
+msgid "Whoa! Isn't that some old song? And it's wrong,\r\nanyway! The right answer was \"Salaryman Galaxy\"!"
+msgstr ""
+
+msgctxt "255||||4"
+msgid "I never would have gotten that..."
+msgstr ""
+
+msgctxt "256||||4"
+msgid "Something interesting...\r\nHmmm... Meeting you, Kiryu-san?"
+msgstr ""
+
+msgctxt "257||||4"
+msgid "Am I that interesting?"
+msgstr ""
+
+msgctxt "258||||4"
+msgid "Kiryu-san, you're super interesting.\r\nMaybe you just don't know it?"
+msgstr ""
+
+msgctxt "259||||4"
+msgid "Not too many.\r\nI have a few good friends, though."
+msgstr ""
+
+msgctxt "260||||4"
+msgid "Huh, I see.\r\nYou seem like the type to have a lot."
+msgstr ""
+
+msgctxt "261||||4"
+msgid "You know how girls tend to hang out in packs?\r\nI've never really liked that."
+msgstr ""
+
+msgctxt "262||||4"
+msgid "Maybe that part of me's kinda boyish.\r\nBut once I fall in love, I'm all woman. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "263||||4"
+msgid "Makes sense. I think guys tend\r\nto like dating girls like that."
+msgstr ""
+
+msgctxt "264||||4"
+msgid "That's good. Pro wrestling is dominated by men.\r\nMaybe that's a good fit for me, in that sense."
+msgstr ""
+
+msgctxt "265||||4"
+msgid "I totally suck at games. But I like watching\r\nsometimes. I'd watch you play, Kiryu-san."
+msgstr ""
+
+msgctxt "266||||4"
+msgid "Hm? What's this then?\r\nWhat are these deep, dark secrets?"
+msgstr ""
+
+msgctxt "267||||4"
+msgid "I was actually a wrestler myself at one\r\ntime called \"Dragon Mask.\""
+msgstr ""
+
+msgctxt "268||||4"
+msgid "What!? Are you serious?"
+msgstr ""
+
+msgctxt "269||||4"
+msgid "I only did it to entertain some kids, though."
+msgstr ""
+
+msgctxt "270||||4"
+msgid "It's actually kind of hard to have a serious\r\nfight while trying to entertain an audience."
+msgstr ""
+
+msgctxt "271||||4"
+msgid "Yeah. You can't be just strong. You have to\r\nfight in a way the audience wants to watch."
+msgstr ""
+
+msgctxt "272||||4"
+msgid "It made me realize how deep pro wrestling is.\r\nIn fact, I found a new respect for pros like you."
+msgstr ""
+
+msgctxt "273||||4"
+msgid "Kiryu-san... Thank you.\r\nYou're too nice to me."
+msgstr ""
+
+msgctxt "274||||4"
+msgid "Huh!? You have a tattoo, Kiryu-san!?\r\nI wanna see! Tear your shirt off, right now!"
+msgstr ""
+
+msgctxt "275||||4"
+msgid "U-Uh... I can't do that in here..."
+msgstr ""
+
+msgctxt "276||||4"
+msgid "Alcohol? I love a good drink!"
+msgstr ""
+
+msgctxt "277||||4"
+msgid "As favorites go, it's shochu and sake...\r\nBut pretty much anything goes!"
+msgstr ""
+
+msgctxt "278||||4"
+msgid "Then we should drink the place dry."
+msgstr ""
+
+msgctxt "279||||4"
+msgid "Totally! Let's really crank up the fun.\r\nBesides, if sales go up, so does my rank!"
+msgstr ""
+
+msgctxt "280||||4"
+msgid "You're pretty clever."
+msgstr ""
+
+msgctxt "281||||4"
+msgid "I'm just joking.\r\nBut I'm plenty serious about the fun part. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "282||||4"
+msgid "Wow. It's unusual for someone your age to get\r\ninto the hard liquor."
+msgstr ""
+
+msgctxt "283||||4"
+msgid "I know, right? But I like how they're meant to\r\nbe savored, and they go great with snacks."
+msgstr ""
+
+msgctxt "284||||4"
+msgid "You know the right way to enjoy a drink.\r\nAnd I'll drink to that."
+msgstr ""
+
+msgctxt "285||||4"
+msgid "Oh, sounds good!\r\nI'll join you!"
+msgstr ""
+
+msgctxt "286||||4"
+msgid "Nice, then... I'll have a water!"
+msgstr ""
+
+msgctxt "287||||4"
+msgid "What the<symbol=em_dash_with_outline> You can't just do that!"
+msgstr ""
+
+msgctxt "288||||4"
+msgid "I'm joking."
+msgstr ""
+
+msgctxt "289||||4"
+msgid "Oh, Kiryu-san's apparently a comedian...\r\nYou're real funny..."
+msgstr ""
+
+msgctxt "290||||4"
+msgid "The Tojo... Clan?\r\nWasn't that the name of a pro wrestling team?"
+msgstr ""
+
+msgctxt "291||||4"
+msgid "No, it's not a wrestling team... Though they\r\nsure do get into about as many brawls..."
+msgstr ""
+
+msgctxt "292||||4"
+msgid "Oh, I know her!\r\nShe was on TV a while back, right?"
+msgstr ""
+
+msgctxt "293||||4"
+msgid "If I recall, she did a concert with another\r\ngroup called T-Back..."
+msgstr ""
+
+msgctxt "294||||4"
+msgid "...Pretty sure it was T-Set."
+msgstr ""
+
+msgctxt "295||||4"
+msgid "Oh man, I'd love to hear about\r\nyour crazy adventures, Kiryu-san!"
+msgstr ""
+
+msgctxt "296||||4"
+msgid "They weren't that crazy...\r\nAnd they'll take a while to explain..."
+msgstr ""
+
+msgctxt "297||||4"
+msgid "Oh, long story?\r\nThat's okay, forget it then!"
+msgstr ""
+
+msgctxt "298||||4"
+msgid "Hey now..."
+msgstr ""
+
+msgctxt "299||||4"
+msgid "I'm sure I don't look the part, but I cook a lot.\r\nI'm pretty good at making stews."
+msgstr ""
+
+msgctxt "300||||4"
+msgid "I'm good at stuff like stews and hot pots."
+msgstr ""
+
+msgctxt "301||||4"
+msgid "Those sound great. Now that I think about it,\r\nI haven't had hot pot in a long time."
+msgstr ""
+
+msgctxt "302||||4"
+msgid "Yeah, it's not a one-person meal.\r\nWanna come over and share some?"
+msgstr ""
+
+msgctxt "303||||4"
+msgid "You wouldn't mind?"
+msgstr ""
+
+msgctxt "304||||4"
+msgid "Course not! It'd be awesome\r\nto share a hot pot with you! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "305||||4"
+msgid "Looking forward to it."
+msgstr ""
+
+msgctxt "306||||4"
+msgid "What type do you think I am?"
+msgstr ""
+
+msgctxt "307||||4"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "308||||4"
+msgid "Type A!"
+msgstr ""
+
+msgctxt "309||||4"
+msgid "Oh, good guess!"
+msgstr ""
+
+msgctxt "310||||4"
+msgid "Type B!"
+msgstr ""
+
+msgctxt "311||||4"
+msgid "Nope. I'm a type A!"
+msgstr ""
+
+msgctxt "312||||4"
+msgid "Either AB or O."
+msgstr ""
+
+msgctxt "313||||4"
+msgid "Hey, c'mon now, Kiryu-san! No fair!\r\nThey're both wrong anyway!"
+msgstr ""
+
+msgctxt "314||||4"
+msgid "You really want to know?\r\nWell I'm not telling, mister pervert."
+msgstr ""
+
+msgctxt "315||||4"
+msgid "Nope! This is your chance, Kiryu-san!"
+msgstr ""
+
+msgctxt "316||||4"
+msgid "A lot of reasons really, but the biggest one\r\nhas to do with overcoming my complex."
+msgstr ""
+
+msgctxt "317||||4"
+msgid "Complex?"
+msgstr ""
+
+msgctxt "318||||4"
+msgid "Between my personality and being a pro wrestler,\r\nI don't get treated like a girl very often."
+msgstr ""
+
+msgctxt "319||||4"
+msgid "And part of me's not okay with that..."
+msgstr ""
+
+msgctxt "320||||4"
+msgid "That makes sense."
+msgstr ""
+
+msgctxt "321||||4"
+msgid "So I thought maybe working as a hostess would\r\nhelp me figure out how to be more feminine."
+msgstr ""
+
+msgctxt "322||||4"
+msgid "It's certainly true that femininity is how you\r\nget ahead in a cabaret club. It's the right idea."
+msgstr ""
+
+msgctxt "323||||4"
+msgid "Yeah, I'm going to keep trying to work\r\non being more of a girly girl."
+msgstr ""
+
+msgctxt "324||||4"
+msgid "Well, if you ask me, I think you're feminine\r\nenough as you are. I only see you as a woman."
+msgstr ""
+
+msgctxt "325||||4"
+msgid "Kiryu-san...! Thank you so much! Keep smooth\r\ntalkin' me like that and I might fall for you."
+msgstr ""
+
+msgctxt "326||||4"
+msgid "Whoa, Kiryu-san! That's a new one.\r\nYou're a funny guy."
+msgstr ""
+
+msgctxt "327||||4"
+msgid "I'm so not playing the king game, though."
+msgstr ""
+
+msgctxt "329||||4"
+msgid "Hmm... These days I've been listening to a lot\r\nof love songs and music aimed at girls."
+msgstr ""
+
+msgctxt "330||||4"
+msgid "Huh, that's different."
+msgstr ""
+
+msgctxt "331||||4"
+msgid "I may not have the look, but I'm pretty girly\r\non the inside. Cute, right?"
+msgstr ""
+
+msgctxt "332||||4"
+msgid "It's fun talking with you too, Kiryu-san."
+msgstr ""
+
+msgctxt "333||||4"
+msgid "Agreed... If I get sick from not dressing warm\r\nenough, I won't be able to wrestle."
+msgstr ""
+
+msgctxt "334||||4"
+msgid "Yeah... Try not to catch a cold, Kiryu-san."
+msgstr ""
+
+msgctxt "335||||4"
+msgid "Okay, how about I warm you up a bit?\r\nJoking. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "336||||4"
+msgid "Nice! That makes me really happy to hear.\r\nLet's throw a few more back!"
+msgstr ""
+
+msgctxt "337||||4"
+msgid "Wow, thank you so much!"
+msgstr ""
+
+msgctxt "338||||4"
+msgid "Wait, what!? You're just gonna confess to me\r\nout of the blue? I wasn't ready for that..."
+msgstr ""
+
+msgctxt "339||||4"
+msgid "I was kidding."
+msgstr ""
+
+msgctxt "340||||4"
+msgid "Oh, you're terrible!"
+msgstr ""
+
+msgctxt "341||||4"
+msgid "Yaaaaaaaay!\r\nThis is so fun."
+msgstr ""
+
+msgctxt "342||||4"
+msgid "Hi! How ya doin'?"
+msgstr ""
+
+msgctxt "343||||4"
+msgid "Great, thanks to you."
+msgstr ""
+
+msgctxt "344||||4"
+msgid "Huh? Wait, just out of the blue like that!?\r\nAre you serious, Kiryu-san?"
+msgstr ""
+
+msgctxt "345||||4"
+msgid "Yeah. I'm very serious."
+msgstr ""
+
+msgctxt "346||||4"
+msgid "I've never had anyone ask me\r\nto let them touch me so seriously like that!"
+msgstr ""
+
+msgctxt "347||||4"
+msgid "Really?"
+msgstr ""
+
+msgctxt "348||||4"
+msgid "Yes! You're a weird one, Kiryu-san."
+msgstr ""
+
+msgctxt "349||||4"
+msgid "I'm not serious."
+msgstr ""
+
+msgctxt "350||||4"
+msgid "You're such a funny guy!\r\nWell, either way, no touching!"
+msgstr ""
+
+msgctxt "352||||4"
+msgid "It's an American joke!"
+msgstr ""
+
+msgctxt "353||||4"
+msgid "That's not an American joke at all!\r\nKiryu-san... You're so funny."
+msgstr ""
+
+msgctxt "354||||4"
+msgid "(Wait... I can't get a read on her...)"
+msgstr ""
+
+msgctxt "355||||4"
+msgid "I'm so happy to hear that.\r\nOh no, I'm seein' hearts..."
+msgstr ""
+
+msgctxt "356||||4"
+msgid "Oh, I'm not, really!"
+msgstr ""
+
+msgctxt "357||||4"
+msgid "Wow! Kiryu-san, you're fluent in English!\r\nGood English!"
+msgstr ""
+
+msgctxt "358||||4"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "359||||4"
+msgid "Only you?\r\nHm, what should I do?"
+msgstr ""
+
+msgctxt "360||||4"
+msgid "Hey... You should only look\r\nat me too, okay?"
+msgstr ""
+
+msgctxt "361||||4"
+msgid "Huh? That's a secret. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "362||||4"
+msgid "You want me to tell you?\r\nHm, should I? <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "363||||4"
+msgid "Is there anyone you like?"
+msgstr ""
+
+msgctxt "364||||4"
+msgid "Oh, don't make me say it!\r\nOf course there is... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "365||||4"
+msgid "Really?\r\nMaybe I'll see what happens... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "366||||4"
+msgid "Thank you. The owners are really good people,\r\nso it's a nice place to work."
+msgstr ""
+
+msgctxt "367||||4"
+msgid "And they're really open-minded to actually hire\r\na pro wrestler like me."
+msgstr ""
+
+msgctxt "368||||4"
+msgid "I'd say they're good at their jobs to hire\r\na girl like you."
+msgstr ""
+
+msgctxt "369||||4"
+msgid "Too smooth, Kiryu-san!\r\nYou make me feel like I can do anything! <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "370||||4"
+msgid "I don't know too many, actually.\r\nBut I'm eager to try some new ones."
+msgstr ""
+
+msgctxt "371||||4"
+msgid "You go to places like that...? Oh no,\r\nI'm starting to imagine it! Let's change subjects!"
+msgstr ""
+
+msgctxt "372||||4"
+msgid "Huh!? You wrecked a convenience store?\r\nYou sure you don't wanna be a pro wrestler?"
+msgstr ""
+
+msgctxt "373||||4"
+msgid "Hmm, well, it wasn't intentional..."
+msgstr ""
+
+msgctxt "374||||4"
+msgid "Destroying a convenience store... Actually,\r\na convenience store death match could totally work!"
+msgstr ""
+
+msgctxt "375||||4"
+msgid "That's a great idea! Thank you!"
+msgstr ""
+
+msgctxt "376||||4"
+msgid "S-Sure..."
+msgstr ""
+
+msgctxt "377||||4"
+msgid "Whoa! Pulling out the heavy topics!"
+msgstr ""
+
+msgctxt "378||||4"
+msgid "Memories of someone who's passed on, huh? You\r\ncan't help but think about it sometimes."
+msgstr ""
+
+msgctxt "379||||4"
+msgid "Maybe it's not my place to say, but, I think\r\nyou've got to work hard for his sake, too."
+msgstr ""
+
+msgctxt "380||||4"
+msgid "True enough.\r\nI think that's the right attitude."
+msgstr ""
+
+msgctxt "381||||4"
+msgid "Yeah. I'm glad we got to talk about this."
+msgstr ""
+
+msgctxt "382||||4"
+msgid "A true friend, huh? That's someone you can say\r\nwhatever you really feel without holding back, I guess."
+msgstr ""
+
+msgctxt "383||||4"
+msgid "Speaking of friends...\r\ndo you think men and women can be just friends?"
+msgstr ""
+
+msgctxt "384||||4"
+msgid "Why not?\r\nI have some friends where gender means nothing."
+msgstr ""
+
+msgctxt "385||||4"
+msgid "Exactly, right!?\r\nI have a lot of guy friends!"
+msgstr ""
+
+msgctxt "386||||4"
+msgid "You're probably the type of person\r\nguys find easy to talk to."
+msgstr ""
+
+msgctxt "387||||4"
+msgid "You think so?\r\nPeople are always saying I'm so manly, though."
+msgstr ""
+
+msgctxt "388||||4"
+msgid "I don't think so.\r\nA guy always has ulterior motives."
+msgstr ""
+
+msgctxt "389||||4"
+msgid "What? You think so? I've got a lot of guy friends,\r\nso that's making me wonder."
+msgstr ""
+
+msgctxt "390||||4"
+msgid "You think so?\r\nPeople are always saying I'm so manly, though."
+msgstr ""
+
+msgctxt "391||||4"
+msgid "I think they can, but...\r\nI couldn't make that work with you."
+msgstr ""
+
+msgctxt "392||||4"
+msgid "Huh!? Why not!?\r\nDid I say something that got under your skin?"
+msgstr ""
+
+msgctxt "393||||4"
+msgid "No, I just mean I see you more\r\nas a woman than a friend."
+msgstr ""
+
+msgctxt "394||||4"
+msgid "K-Kiryu-san...! Seriously,\r\ndo you always have to be so cool?"
+msgstr ""
+
+msgctxt "395||||4"
+msgid "Whew... I haven't felt a rush\r\nlike that in a while."
+msgstr ""
+
+msgctxt "396||||4"
+msgid "Mission accomplished."
+msgstr ""
+
+msgctxt "397||||4"
+msgid "Really!? You <font_kind=yakuza_italic>do</font_kind> seem like you'd spoil them.\r\nYou're really kind."
+msgstr ""
+
+msgctxt "398||||4"
+msgid "Maybe if I were just a baby,\r\nyou'd be nicer to me!"
+msgstr ""
+
+msgctxt "399||||4"
+msgid "Hey, I'm plenty nice now, aren't I?"
+msgstr ""
+
+msgctxt "400||||4"
+msgid "You're right."
+msgstr ""
+
+msgctxt "401||||4"
+msgid "You fish, Kiryu-san?"
+msgstr ""
+
+msgctxt "402||||4"
+msgid "Yeah, I've been spearfishing lately."
+msgstr ""
+
+msgctxt "403||||4"
+msgid "That's so cool! I bet the fish\r\nyou catch would taste amazing!"
+msgstr ""
+
+msgctxt "404||||4"
+msgid "Wow, so kind of like a war between two teams?\r\nThis sounds like a pro wrestling storyline."
+msgstr ""
+
+msgctxt "405||||4"
+msgid "It's just because you look so strong, right?\r\nYou can't help but wanna conquer something strong."
+msgstr ""
+
+msgctxt "406||||4"
+msgid "If I'm bein' honest...\r\nI'd like to fight you sometime!"
+msgstr ""
+
+msgctxt "407||||4"
+msgid "Hey, it's not like I enjoy violence."
+msgstr ""
+
+msgctxt "408||||4"
+msgid "Sorry Kiryu-san, but that doesn't sound\r\nvery convincing coming from you."
+msgstr ""
+
+msgctxt "409||||4"
+msgid "Have you ever heard of Pocket Circuit?"
+msgstr ""
+
+msgctxt "410||||4"
+msgid "Of course I have! When I was little, I used to\r\nplay down at the stadium with all the boys."
+msgstr ""
+
+msgctxt "411||||4"
+msgid "My best car was a Golem Tiger, and for\r\nmy motor, I customized it like this..."
+msgstr ""
+
+msgctxt "412||||4"
+msgid "Wow! You really know your stuff!"
+msgstr ""
+
+msgctxt "413||||4"
+msgid "You're a gym rat, Kiryu-san?\r\nGood, if you don't work out, you'll get all weak."
+msgstr ""
+
+msgctxt "414||||4"
+msgid "It'd be pretty fun to go on a gym date\r\nwith you sometime...<symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "415||||4"
+msgid "Yeah, you seem like the quiet type, Kiryu-san."
+msgstr ""
+
+msgctxt "416||||4"
+msgid "But don't you ever feel like you\r\nwanna cut loose and get loud?"
+msgstr ""
+
+msgctxt "417||||4"
+msgid "Not really.\r\nThis is my default level."
+msgstr ""
+
+msgctxt "418||||4"
+msgid "You serious? I bet you have your\r\nmoments where you get amped up."
+msgstr ""
+
+msgctxt "419||||4"
+msgid "Well, who can say..."
+msgstr ""
+
+msgctxt "420||||4"
+msgid "I guess when I'm singing karaoke...\r\nI might get a little carried away."
+msgstr ""
+
+msgctxt "421||||4"
+msgid "Awesome! Now this I've gotta see!\r\nKiryu-san getting into the groove!"
+msgstr ""
+
+msgctxt "422||||4"
+msgid "Sometimes I might unintentionally,\r\nvery subconsciously, get like that."
+msgstr ""
+
+msgctxt "423||||4"
+msgid "Huh? You mean that?\r\nI bet you totally do it on purpose."
+msgstr ""
+
+msgctxt "424||||4"
+msgid "Maybe just when I'm around you."
+msgstr ""
+
+msgctxt "425||||4"
+msgid "Huh? If this is getting loud,\r\nwhat are you like normally...?"
+msgstr ""
+
+msgctxt "426||||4"
+msgid "Oh, really? I just assumed\r\nyou were the aggressive type."
+msgstr ""
+
+msgctxt "427||||4"
+msgid "Well, don't feel like you have to go all\r\nvegetarian with me! I'm a carnivore's delight."
+msgstr ""
+
+msgctxt "428||||4"
+msgid "I actually don't warm up to people very easily."
+msgstr ""
+
+msgctxt "429||||4"
+msgid "Really? But you're doing just fine with me.\r\nMaybe we're compatible."
+msgstr ""
+
+msgctxt "430||||4"
+msgid "Yeah, maybe."
+msgstr ""
+
+msgctxt "431||||4"
+msgid "Even if it's not a special occasion?\r\nYou go every time?"
+msgstr ""
+
+msgctxt "432||||4"
+msgid "A man likes to show off."
+msgstr ""
+
+msgctxt "433||||4"
+msgid "I see... Well if it were me,\r\nI'd put that money to better use."
+msgstr ""
+
+msgctxt "434||||4"
+msgid "You seem like the kinda guy that's younger than\r\nhe looks... I'll say, 39? How's that?"
+msgstr ""
+
+msgctxt "435||||4"
+msgid "It's nice to hear it, but unfortunately\r\nI'm well into my 40s."
+msgstr ""
+
+msgctxt "436||||4"
+msgid "Really!? You don't look that old at all!\r\nYou seem so young and brimming with energy!"
+msgstr ""
+
+msgctxt "437||||4"
+msgid "You're kinda like a sharp knife.\r\nYou look intimidating, but really cool, too."
+msgstr ""
+
+msgctxt "438||||4"
+msgid "I think you're a great guy. You look\r\npretty intimidating, but you're a sweetheart."
+msgstr ""
+
+msgctxt "439||||4"
+msgid "Older guys, I guess.\r\nI prefer a man who can take the lead."
+msgstr ""
+
+msgctxt "440||||4"
+msgid "I don't think I have any big fetishes!\r\nI make up for it with my fantasies."
+msgstr ""
+
+msgctxt "441||||4"
+msgid "What do I want?\r\nA belt, I guess."
+msgstr ""
+
+msgctxt "442||||4"
+msgid "A belt?\r\nFor your pants?"
+msgstr ""
+
+msgctxt "443||||4"
+msgid "No no, the wrestling kind."
+msgstr ""
+
+msgctxt "444||||4"
+msgid "Of course I want a champion's belt, Kiryu-san...\r\nbut yours would be fine..."
+msgstr ""
+
+msgctxt "445||||4"
+msgid "Hm? Excuse me?"
+msgstr ""
+
+msgctxt "446||||4"
+msgid "N-Never mind!\r\nI said nothing!"
+msgstr ""
+
+msgctxt "447||||4"
+msgid "My first love, huh? It was so long ago,\r\nand I was so young. Such bittersweet memories..."
+msgstr ""
+
+msgctxt "448||||4"
+msgid "What!? You can't ask a girl that!"
+msgstr ""
+
+msgctxt "449||||4"
+msgid "What a perv, Kiryu-san!\r\nI'm not answering any weird questions!"
+msgstr ""
+
+msgctxt "450||||4"
+msgid "Marriage, huh?\r\nWell, I dream about it as much as any girl!"
+msgstr ""
+
+msgctxt "451||||4"
+msgid "What about you?"
+msgstr ""
+
+msgctxt "452||||4"
+msgid "Me?\r\nWell... maybe someday..."
+msgstr ""
+
+msgctxt "453||||4"
+msgid "Oh, you're red red red!"
+msgstr ""
+
+msgctxt "454||||4"
+msgid "Marriage, huh? If I found a guy like you,\r\nI'd jump right in, Kiryu-san. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "455||||4"
+msgid "I don't really know how to respond when\r\nyou put me on the spot like that..."
+msgstr ""
+
+msgctxt "456||||4"
+msgid "Oh, Kiryu-san! I'm just joking. <symbol=note_with_outline>\r\nNo need to get all flustered. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "457||||4"
+msgid "No one's ever told me that before.\r\nI'm not even that good at it!"
+msgstr ""
+
+msgctxt "458||||4"
+msgid "Really?\r\nThen maybe you're just naturally beautiful."
+msgstr ""
+
+msgctxt "459||||4"
+msgid "Whoa! Kiryu-san, too smooth!"
+msgstr ""
+
+msgctxt "460||||4"
+msgid "Hey... Have we met somewhere before?"
+msgstr ""
+
+msgctxt "461||||4"
+msgid "Huh? Have we...?"
+msgstr ""
+
+msgctxt "462||||4"
+msgid "I might've seen you at a wrestling match."
+msgstr ""
+
+msgctxt "463||||4"
+msgid "Oh, that'd make sense.\r\nI suppose it's possible!"
+msgstr ""
+
+msgctxt "464||||4"
+msgid "I'd be thrilled if you'd seen\r\none of my matches, Kiryu-san!"
+msgstr ""
+
+msgctxt "465||||4"
+msgid "Nah, I was overthinking it.\r\nForget I said anything."
+msgstr ""
+
+msgctxt "466||||4"
+msgid "Aw, don't go gettin' my hopes\r\nup like that..."
+msgstr ""
+
+msgctxt "467||||4"
+msgid "Maybe... we met in a dream."
+msgstr ""
+
+msgctxt "468||||4"
+msgid "And now you're a romantic all of a sudden,\r\nKiryu-san? You're a real strange guy..."
+msgstr ""
+
+msgctxt "469||||4"
+msgid "Thanks! Maybe it's because I train so much. \r\nAlthough I'm worried my abs are starting to show..."
+msgstr ""
+
+msgctxt "470||||4"
+msgid "Cheating? Well, it certainly\r\nsucks when it happens to you!"
+msgstr ""
+
+msgctxt "471||||4"
+msgid "Don't tell me...\r\nYou're a cheater, Kiryu-san!?"
+msgstr ""
+
+msgctxt "472||||4"
+msgid "Yes, actually..."
+msgstr ""
+
+msgctxt "473||||4"
+msgid "Whoa! Putting it right out there, huh!? Well,\r\nKiryu-san, I'm sure you're popular with the ladies."
+msgstr ""
+
+msgctxt "474||||4"
+msgid "I get it! You get a pass this once, Kiryu-san!"
+msgstr ""
+
+msgctxt "475||||4"
+msgid "O-Oh. Thanks..."
+msgstr ""
+
+msgctxt "476||||4"
+msgid "No, that's not what I meant."
+msgstr ""
+
+msgctxt "477||||4"
+msgid "Really? That's what they all say. A lady's man\r\nlike you, Kiryu-san? I'm kinda suspicious..."
+msgstr ""
+
+msgctxt "478||||4"
+msgid "You're the only one for me."
+msgstr ""
+
+msgctxt "479||||4"
+msgid "Wh-What's all this out of the blue, Kiryu-san!?"
+msgstr ""
+
+msgctxt "480||||4"
+msgid "You're making me all flustered!\r\nYou've got a mean sense of humor..."
+msgstr ""
+
+msgctxt "482||||4"
+msgid "I prefer staying in, I think. I get so much\r\nexercise, I just wanna relax at home when I can."
+msgstr ""
+
+msgctxt "483||||4"
+msgid "Oh, you're one of those people, Kiryu-san?\r\nMe too!"
+msgstr ""
+
+msgctxt "484||||4"
+msgid "Maybe it's because I push myself so hard every\r\nday, but it makes me just want to relax at home."
+msgstr ""
+
+msgctxt "485||||4"
+msgid "I'm on the same page!\r\nIf we were dating, I'm sure we'd get along. <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "486||||4"
+msgid "Yeah, I did. So, pop quiz.\r\nWhat team was I on?"
+msgstr ""
+
+msgctxt "487||||4"
+msgid "You're tall, so... volleyball?"
+msgstr ""
+
+msgctxt "488||||4"
+msgid "Whoa! You got it, Kiryu-san!\r\nI'm impressed."
+msgstr ""
+
+msgctxt "489||||4"
+msgid "I heard they scout people based on height.\r\nI'm sure you were the perfect fit."
+msgstr ""
+
+msgctxt "490||||4"
+msgid "Aw, thanks."
+msgstr ""
+
+msgctxt "491||||4"
+msgid "You're a pro wrestler, so... wrestling?"
+msgstr ""
+
+msgctxt "492||||4"
+msgid "Nope! Wrong.\r\nBack then I wasn't that into wrestling yet."
+msgstr ""
+
+msgctxt "493||||4"
+msgid "I love it now, but the right answer\r\nwas the volleyball team."
+msgstr ""
+
+msgctxt "494||||4"
+msgid "Volleyball, huh?\r\nYou do seem like you'd be a good fit for that."
+msgstr ""
+
+msgctxt "495||||4"
+msgid "Were you... not on a team?"
+msgstr ""
+
+msgctxt "496||||4"
+msgid "Bzzzt! The right answer is... the volleyball team!\r\nI just told I was on a team, didn't I?"
+msgstr ""
+
+msgctxt "497||||4"
+msgid "But when I was a kid, I kinda lost sight of my\r\ngoals... I was just coasting without a plan."
+msgstr ""
+
+msgctxt "498||||4"
+msgid "Looking back on it, I have no idea what I was\r\nthinking. I was just a dumb teenager, I guess."
+msgstr ""
+
+msgctxt "499||||4"
+msgid "That's life."
+msgstr ""
+
+msgctxt "500||||4"
+msgid "What? No way. Laundry sucks.\r\nWash them yourself, please."
+msgstr ""
+
+msgctxt "501||||4"
+msgid "Oh, are you asking me to be your girlfriend?\r\nWhatever should I do...? <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "502||||4"
+msgid "You should save that line for\r\nthe girl you want to marry."
+msgstr ""
+
+msgctxt "503||||4"
+msgid "Huh? Are you serious?"
+msgstr ""
+
+msgctxt "504||||4"
+msgid "Huh? A-Are you asking...\r\nIf you'll have me... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "505||||4"
+msgid "Oho? Why do you think that?"
+msgstr ""
+
+msgctxt "506||||4"
+msgid "Most of them can't even speak properly."
+msgstr ""
+
+msgctxt "507||||4"
+msgid "Y'know, Kiryu...\r\nIt ain't right."
+msgstr ""
+
+msgctxt "508||||4"
+msgid "Hey, is that how you really talk?"
+msgstr ""
+
+msgctxt "509||||4"
+msgid "Joking, joking. <symbol=heart_with_outline> If you can be polite to\r\nstrangers, then be polite to your friends."
+msgstr ""
+
+msgctxt "510||||4"
+msgid "They just lack conviction."
+msgstr ""
+
+msgctxt "511||||4"
+msgid "Oh, I can get on board with that.\r\nI see it a lot in young pro wrestlers."
+msgstr ""
+
+msgctxt "512||||4"
+msgid "It's like... they have no passion.\r\nNo desire to make it big."
+msgstr ""
+
+msgctxt "513||||4"
+msgid "Man, saying all this makes me sound like an\r\nold woman. I gotta watch it."
+msgstr ""
+
+msgctxt "514||||4"
+msgid "Looks like we're on the same side."
+msgstr ""
+
+msgctxt "515||||4"
+msgid "Hey, you take that back.\r\nI'm still young and lively, I swear!"
+msgstr ""
+
+msgctxt "516||||4"
+msgid "The girls are really letting themselves go...\r\nKinda gross."
+msgstr ""
+
+msgctxt "517||||4"
+msgid "Oh, is that what you meant?\r\nI was thinking you'd have a lot worse to say!"
+msgstr ""
+
+msgctxt "518||||4"
+msgid "I sing a lot, but I like the cutesy songs.\r\nThey're such a breath of fresh air."
+msgstr ""
+
+msgctxt "519||||4"
+msgid "Really? I don't know if I agree.\r\nI like a man who's more calm and collected."
+msgstr ""
+
+msgctxt "520||||4"
+msgid "Someone who's kind and open-minded...\r\nwith a face like a gorilla!"
+msgstr ""
+
+msgctxt "521||||4"
+msgid "A gorilla..."
+msgstr ""
+
+msgctxt "522||||4"
+msgid "He wears an eyepatch and he's half naked under a\r\nweird jacket? Is this Majima-san a pro wrestler?"
+msgstr ""
+
+msgctxt "523||||4"
+msgid "No, he's a civilian... Well, not exactly.\r\nBut, he's strong enough to impress a wrestler."
+msgstr ""
+
+msgctxt "524||||4"
+msgid "What!? I really want to meet him now...\r\nI might totally fall for this guy if we met..."
+msgstr ""
+
+msgctxt "525||||4"
+msgid "Ah, Majima-san..."
+msgstr ""
+
+msgctxt "526||||4"
+msgid "Hey, what part of anything I just said\r\nmakes this guy sound attractive?"
+msgstr ""
+
+msgctxt "527||||4"
+msgid "A detective, huh? Sounds a little scatterbrained,\r\nbut I'm sure he's good guy."
+msgstr ""
+
+msgctxt "528||||4"
+msgid "This Akiyama-san is an entrepreneur?\r\nSounds rich! Ah, you should bring him by!"
+msgstr ""
+
+msgctxt "529||||4"
+msgid "If I can just get him to request me..."
+msgstr ""
+
+msgctxt "530||||4"
+msgid "What!?\r\nHe took down a bear!?"
+msgstr ""
+
+msgctxt "531||||4"
+msgid "It's my <font_kind=yakuza_italic>dream</font_kind> as a fighter to take down a bear!\r\nGive me details here!"
+msgstr ""
+
+msgctxt "532||||4"
+msgid "S-Sure...\r\nDidn't figure that would strike a chord..."
+msgstr ""
+
+msgctxt "533||||4"
+msgid "You trust him a lot, huh? I'd like\r\nto get to that level with you, Kiryu-san."
+msgstr ""
+
+msgctxt "534||||4"
+msgid "I've never been before.\r\nWhat do you do for fun there, Kiryu-san?"
+msgstr ""
+
+msgctxt "535||||4"
+msgid "Well...\r\nAbout all they've got there are bars."
+msgstr ""
+
+msgctxt "536||||4"
+msgid "I spend most of the time just chatting with\r\nthe bartender, sipping a glass of liquor."
+msgstr ""
+
+msgctxt "537||||4"
+msgid "Huh! That sounds like a nice little situation.\r\nI could have some good fantasies about that... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "538||||4"
+msgid "Don't go too crazy."
+msgstr ""
+

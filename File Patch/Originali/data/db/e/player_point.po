@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||money||title"
+msgid "Money"
+msgstr ""
+
+msgctxt "2||exp_muscle||title"
+msgid "Strength"
+msgstr ""
+
+msgctxt "3||exp_quickness||title"
+msgid "Agility"
+msgstr ""
+
+msgctxt "4||exp_guts||title"
+msgid "Spirit"
+msgstr ""
+
+msgctxt "5||exp_technique||title"
+msgid "Technique"
+msgstr ""
+
+msgctxt "6||exp_charm||title"
+msgid "Charm"
+msgstr ""
+
+msgctxt "7||stomach||title"
+msgid "Hunger"
+msgstr ""
+
+msgctxt "8||ten_mahjong||title"
+msgid "Mahjong Points"
+msgstr ""
+
+msgctxt "9||ability_hit_point||title"
+msgid "Health"
+msgstr ""
+
+msgctxt "10||ability_attack||title"
+msgid "Attack"
+msgstr ""
+
+msgctxt "11||ability_defense||title"
+msgid "Defense"
+msgstr ""
+
+msgctxt "12||ability_agility||title"
+msgid "Evasion"
+msgstr ""
+
+msgctxt "13||ability_heat_gauge||title"
+msgid "Heat Gauge"
+msgstr ""
+
+msgctxt "14||ability_resist_sword||title"
+msgid "Blade Resistance"
+msgstr ""
+
+msgctxt "15||ability_resist_gun||title"
+msgid "Gun Resistance"
+msgstr ""
+
+msgctxt "16||ability_stamina||title"
+msgid "Stamina"
+msgstr ""
+
+msgctxt "44||training_ticket||title"
+msgid "Training Tickets"
+msgstr ""
+
+msgctxt "1||money||unit"
+msgid "yen"
+msgstr ""
+
+msgctxt "7||stomach||unit"
+msgid "%"
+msgstr ""
+

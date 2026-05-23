@@ -1,0 +1,673 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 7
+msgctxt "Offset_0x3069D_Len_7"
+msgid " |Eqm~E"
+msgstr ""
+
+#. Max bytes: 46
+msgctxt "Offset_0x4B6A4_Len_46"
+msgid "So, what's wrong, Ando-san? What's got y'down?"
+msgstr "Allora, che succede Ando-san? Sei giù?"
+
+#. Max bytes: 42
+msgctxt "Offset_0x4B904_Len_42"
+msgid "Something happen at the pawn shop earlier?"
+msgstr "Qualcosa al banco dei pegni prima?"
+
+#. Max bytes: 11
+msgctxt "Offset_0x4BBC4_Len_11"
+msgid "A customer?"
+msgstr "Un cliente?"
+
+#. Max bytes: 48
+msgctxt "Offset_0x4BDE4_Len_48"
+msgid "Care to talk? No promises, but maybe it'll help."
+msgstr "Vuoi parlarne? Nessuna promessa, ma aiuterà."
+
+#. Max bytes: 50
+msgctxt "Offset_0x4C054_Len_50"
+msgid "It'd be a miracle if we actually solved a problem."
+msgstr "Sarebbe un miracolo se risolvessimo il problema."
+
+#. Max bytes: 10
+msgctxt "Offset_0x4C2C4_Len_10"
+msgid "True that."
+msgstr "È vero."
+
+#. Max bytes: 11
+msgctxt "Offset_0x4C2E4_Len_11"
+msgid "Trunk that."
+msgstr "Ma certo."
+
+#. Max bytes: 17
+msgctxt "Offset_0x4C304_Len_17"
+msgid "That old popstar?"
+msgstr "Quella popstar?"
+
+#. Max bytes: 12
+msgctxt "Offset_0x4C334_Len_12"
+msgid "That's true."
+msgstr "Vero."
+
+#. Max bytes: 24
+msgctxt "Offset_0x4C964_Len_24"
+msgid "Aw, you're really upset."
+msgstr "Ah, sei davvero scosso."
+
+#. Max bytes: 46
+msgctxt "Offset_0x4CBA4_Len_46"
+msgid "That guy from earlier came t'sell something..."
+msgstr "Il tizio di prima è venuto a vendere..."
+
+#. Max bytes: 8
+msgctxt "Offset_0x4CDF4_Len_8"
+msgid "Oh shit."
+msgstr "Cazzo."
+
+#. Max bytes: 11
+msgctxt "Offset_0x4CE24_Len_11"
+msgid "Oh hell no."
+msgstr "Oh, no."
+
+#. Max bytes: 9
+msgctxt "Offset_0x4CE44_Len_9"
+msgid "For real?"
+msgstr "Davvero?"
+
+#. Max bytes: 63
+msgctxt "Offset_0x4CE64_Len_63"
+msgid "A wedding ring... 'Cept it had my ex-wife's and my names on it."
+msgstr "Una fede... Solo che aveva inciso i nomi mio e della mia ex."
+
+#. Max bytes: 37
+msgctxt "Offset_0x4D0D4_Len_37"
+msgid "Wha? Ex-wife? Meaning y'got divorced?"
+msgstr "Cosa? Ex moglie? Cioè divorziato?"
+
+#. Max bytes: 48
+msgctxt "Offset_0x4D334_Len_48"
+msgid "That's right. We split up a while back though..."
+msgstr "Sì. Ci siamo separati un po' di tempo fa..."
+
+#. Max bytes: 10
+msgctxt "Offset_0x4D5A4_Len_10"
+msgid "You can't!"
+msgstr "Non puoi!"
+
+#. Max bytes: 18
+msgctxt "Offset_0x4D5D4_Len_18"
+msgid "She probably died."
+msgstr "Forse è morta."
+
+#. Max bytes: 9
+msgctxt "Offset_0x4D604_Len_9"
+msgid "You were?"
+msgstr "Ah sì?"
+
+#. Max bytes: 59
+msgctxt "Offset_0x4D624_Len_59"
+msgid "But weren't y'talkin' about gettin' her back jus' recently?"
+msgstr "Non parlavi da poco di volerla riconquistare?"
+
+#. Max bytes: 36
+msgctxt "Offset_0x4D894_Len_36"
+msgid "Oh, y'must be real broken up then..."
+msgstr "Oh, devi essere a pezzi allora..."
+
+#. Max bytes: 8
+msgctxt "Offset_0x4DAE4_Len_8"
+msgid "So true."
+msgstr "Vero."
+
+#. Max bytes: 9
+msgctxt "Offset_0x4DB14_Len_9"
+msgid "So wrong."
+msgstr "Così no."
+
+#. Max bytes: 9
+msgctxt "Offset_0x4DB34_Len_9"
+msgid "Soda pop."
+msgstr "Gassosa."
+
+#. Max bytes: 52
+msgctxt "Offset_0x4DB54_Len_52"
+msgid "Sometimes y'don't know what ya got until ya lose it!"
+msgstr "Non sai cos'hai finché non lo perdi!"
+
+#. Max bytes: 54
+msgctxt "Offset_0x4DDD4_Len_54"
+msgid "But by the time y'realize it, it's usually too late..."
+msgstr "Ma quando te ne accorgi, è sempre troppo tardi..."
+
+#. Max bytes: 47
+msgctxt "Offset_0x4E044_Len_47"
+msgid "Mama... Y'don't gotta rub salt in his wounds..."
+msgstr "Mama... Non rigirare il coltello nella piaga..."
+
+#. Max bytes: 18
+msgctxt "Offset_0x4E2A4_Len_18"
+msgid "Not if she's dead."
+msgstr "Se è morta no."
+
+#. Max bytes: 11
+msgctxt "Offset_0x4E2E4_Len_11"
+msgid "Yeah right."
+msgstr "Certo."
+
+#. Max bytes: 13
+msgctxt "Offset_0x4E304_Len_13"
+msgid "You think so?"
+msgstr "Dici?"
+
+#. Max bytes: 51
+msgctxt "Offset_0x4E324_Len_51"
+msgid "Still, the relationship ain't beyond repair, right?"
+msgstr "Eppure, potete ancora sistemare le cose, no?"
+
+#. Max bytes: 48
+msgctxt "Offset_0x4E594_Len_48"
+msgid "Yeah, she's been slowly replying to my messages."
+msgstr "Sì, ha iniziato a risp. ai miei messaggi."
+
+#. Max bytes: 46
+msgctxt "Offset_0x4E804_Len_46"
+msgid "We even talked about meetin' up over dinner..."
+msgstr "Ne abbiamo parlato davanti a una cena..."
+
+#. Max bytes: 47
+msgctxt "Offset_0x4EA54_Len_47"
+msgid "Sounds like a tease t'me. She some kinda witch?"
+msgstr "Sembra una presa in giro. È forse una strega?"
+
+#. Max bytes: 37
+msgctxt "Offset_0x4ECC4_Len_37"
+msgid "I wouldn't say she's a tease, though."
+msgstr "Non direi una presa in giro."
+
+#. Max bytes: 50
+msgctxt "Offset_0x4EF14_Len_50"
+msgid "Women hide behind lots of different masks in life."
+msgstr "Le donne celano il volto in molti modi diversi."
+
+#. Max bytes: 18
+msgctxt "Offset_0x4F1A4_Len_18"
+msgid "Women, am I right?"
+msgstr "Donne, eh?"
+
+#. Max bytes: 16
+msgctxt "Offset_0x4F1D4_Len_16"
+msgid "Men, am I right?"
+msgstr "Uomini, vero?"
+
+#. Max bytes: 49
+msgctxt "Offset_0x4F204_Len_49"
+msgid "Maybe y'never even got to see who she really was."
+msgstr "Forse non sai nemmeno chi fosse in realtà."
+
+#. Max bytes: 22
+msgctxt "Offset_0x4F474_Len_22"
+msgid "Wow Mama, that's deep."
+msgstr "Wow Mama, è profondo."
+
+#. Max bytes: 36
+msgctxt "Offset_0x4F6B4_Len_36"
+msgid "It jus' takes time. Pay her no mind."
+msgstr "Ci vuole tempo. Lascia correre."
+
+#. Max bytes: 34
+msgctxt "Offset_0x4F904_Len_34"
+msgid "No more open tabs for you nitwits."
+msgstr "Niente scroccate, idioti."
+
+#. Max bytes: 10
+msgctxt "Offset_0x4FD64_Len_10"
+msgid "Come on..."
+msgstr "Su dai..."
+
+#. Max bytes: 32
+msgctxt "Offset_0x4FF84_Len_32"
+msgid "It's bad to crack your knuckles."
+msgstr "Pessimo scrocchiarsi le dita."
+
+#. Max bytes: 21
+msgctxt "Offset_0x4FFD4_Len_21"
+msgid "It's all speculation."
+msgstr "Tutte ipotesi."
+
+#. Max bytes: 26
+msgctxt "Offset_0x50014_Len_26"
+msgid "What happened to the ring?"
+msgstr "E all'anello?"
+
+#. Max bytes: 15
+msgctxt "Offset_0x50054_Len_15"
+msgid "Well, anyway..."
+msgstr "Beh, comunque..."
+
+#. Max bytes: 27
+msgctxt "Offset_0x50274_Len_27"
+msgid "What happened to that ring?"
+msgstr "Quell'anello, invece?"
+
+#. Max bytes: 21
+msgctxt "Offset_0x504A4_Len_21"
+msgid "Did you turn it down?"
+msgstr "L'hai rifiutato?"
+
+#. Max bytes: 22
+msgctxt "Offset_0x50784_Len_22"
+msgid "Huh? What did you say?"
+msgstr "Eh? Cosa hai detto?"
+
+#. Max bytes: 34
+msgctxt "Offset_0x509B4_Len_34"
+msgid "N-No, sorry. Ignore what I said..."
+msgstr "N-No, scusate. Come non detto..."
+
+#. Max bytes: 60
+msgctxt "Offset_0x50CA4_Len_60"
+msgid "I'm still a businessman, so I bought it off him. 10,000 yen."
+msgstr "Sono un commerciante, l'ho comprato da lui. 10.000 yen."
+
+#. Max bytes: 11
+msgctxt "Offset_0x50F14_Len_11"
+msgid "It sure is."
+msgstr "Così pare."
+
+#. Max bytes: 11
+msgctxt "Offset_0x50F34_Len_11"
+msgid "Not really."
+msgstr "Non molto."
+
+#. Max bytes: 21
+msgctxt "Offset_0x50F54_Len_21"
+msgid "I'll give you TRAGIC."
+msgstr "Ti do il TRAGICO."
+
+#. Max bytes: 23
+msgctxt "Offset_0x50F84_Len_23"
+msgid "Oh no, that's tragic..."
+msgstr "Oh no, che tragedia..."
+
+#. Max bytes: 46
+msgctxt "Offset_0x511B4_Len_46"
+msgid "Who came to sell it? It wasn't your ex, right?"
+msgstr "Chi l'ha venduto? Non era la tua ex, giusto?"
+
+#. Max bytes: 23
+msgctxt "Offset_0x51414_Len_23"
+msgid "Some young, suave type."
+msgstr "Un giovane soave."
+
+#. Max bytes: 29
+msgctxt "Offset_0x51654_Len_29"
+msgid "Y'think he's her new husband?"
+msgstr "È il nuovo marito?"
+
+#. Max bytes: 14
+msgctxt "Offset_0x51884_Len_14"
+msgid "Am I her type?"
+msgstr "Sono il tipo?"
+
+#. Max bytes: 17
+msgctxt "Offset_0x518B4_Len_17"
+msgid "Are you her type?"
+msgstr "Tu sei il tipo?"
+
+#. Max bytes: 13
+msgctxt "Offset_0x518E4_Len_13"
+msgid "Are you sure?"
+msgstr "Sicuro?"
+
+#. Max bytes: 44
+msgctxt "Offset_0x51904_Len_44"
+msgid "No way she remarried!  ...He's not her type!"
+msgstr "Non si è risposata! ...Non è il suo tipo!"
+
+#. Max bytes: 42
+msgctxt "Offset_0x51B74_Len_42"
+msgid "Women do like t'change things up though..."
+msgstr "Le donne amano il cambiamento, però..."
+
+#. Max bytes: 21
+msgctxt "Offset_0x51DD4_Len_21"
+msgid "Okay, enough of that."
+msgstr "Basta così."
+
+#. Max bytes: 18
+msgctxt "Offset_0x52214_Len_18"
+msgid "Did the love fade?"
+msgstr "Amore scemato?"
+
+#. Max bytes: 13
+msgctxt "Offset_0x52254_Len_13"
+msgid "Too personal!"
+msgstr "Personale!"
+
+#. Max bytes: 16
+msgctxt "Offset_0x52274_Len_16"
+msgid "Can we ask that?"
+msgstr "Possiamo?"
+
+#. Max bytes: 30
+msgctxt "Offset_0x522A4_Len_30"
+msgid "Why'd you two split up anyway?"
+msgstr "Perché vi siete lasciati?"
+
+#. Max bytes: 47
+msgctxt "Offset_0x524E4_Len_47"
+msgid "I was a workaholic, so I didn't come home much."
+msgstr "Lavoravo molto, stavo poco a casa."
+
+#. Max bytes: 54
+msgctxt "Offset_0x52744_Len_54"
+msgid "I knew she was lonely, but I thought she understood..."
+msgstr "Sapevo che era sola, ma pensavo capisse..."
+
+#. Max bytes: 41
+msgctxt "Offset_0x529B4_Len_41"
+msgid "A divorce kinda makes sense in that case."
+msgstr "Così un divorzio ha un suo senso."
+
+#. Max bytes: 49
+msgctxt "Offset_0x52C24_Len_49"
+msgid "But I did some soul searchin', and I quit my job."
+msgstr "Però ho cercato la mia strada e lasciato il lavoro."
+
+#. Max bytes: 10
+msgctxt "Offset_0x52EA4_Len_10"
+msgid "I get you."
+msgstr "Capisco."
+
+#. Max bytes: 17
+msgctxt "Offset_0x52EC4_Len_17"
+msgid "I get the chills."
+msgstr "Ho i brividi."
+
+#. Max bytes: 19
+msgctxt "Offset_0x52EF4_Len_19"
+msgid "I'll get your coat."
+msgstr "Prendo il cappotto"
+
+#. Max bytes: 52
+msgctxt "Offset_0x52F24_Len_52"
+msgid "I opened my pawn shop t'spend more time with family."
+msgstr "Ho aperto il banco dei pegni per stare con lei."
+
+#. Max bytes: 59
+msgctxt "Offset_0x531A4_Len_59"
+msgid "Business is good, so I thought maybe we could start over..."
+msgstr "Gli affari vanno bene, pensavo di ripartire..."
+
+#. Max bytes: 7
+msgctxt "Offset_0x53424_Len_7"
+msgid "Me too."
+msgstr "Anch'io"
+
+#. Max bytes: 16
+msgctxt "Offset_0x53444_Len_16"
+msgid "Pain don't hurt."
+msgstr "Il dolore no."
+
+#. Max bytes: 10
+msgctxt "Offset_0x53474_Len_10"
+msgid "Don't lie!"
+msgstr "Bugiardo!"
+
+#. Max bytes: 47
+msgctxt "Offset_0x53494_Len_47"
+msgid "I'm seriously startin' to feel sorry for you..."
+msgstr "Comincio sul serio a provare pena per te..."
+
+#. Max bytes: 45
+msgctxt "Offset_0x536E4_Len_45"
+msgid "Yeah, I feel bad I wasn't paying attention..."
+msgstr "Sì, mi spiace di non aver fatto attenzione..."
+
+#. Max bytes: 14
+msgctxt "Offset_0x53944_Len_14"
+msgid "Hey, hey, hey."
+msgstr "Ehi, ehi, ehi."
+
+#. Max bytes: 8
+msgctxt "Offset_0x53964_Len_8"
+msgid "Hey now."
+msgstr "Ehi ora."
+
+#. Max bytes: 18
+msgctxt "Offset_0x53984_Len_18"
+msgid "Hey is for horses."
+msgstr "Ehi è per loro."
+
+#. Max bytes: 52
+msgctxt "Offset_0x539B4_Len_52"
+msgid "Pay attention, then! C'mon, at least pretend t'care."
+msgstr "Fai attenzione, su! Almeno fai finta che ti importi."
+
+#. Max bytes: 27
+msgctxt "Offset_0x53C44_Len_27"
+msgid "Anyone got New Years plans?"
+msgstr "Piani per l'anno nuovo?"
+
+#. Max bytes: 27
+msgctxt "Offset_0x53C84_Len_27"
+msgid "You should talk to your ex."
+msgstr "Dovresti parlare all'ex."
+
+#. Max bytes: 27
+msgctxt "Offset_0x53CD4_Len_27"
+msgid "Who's got the bill tonight?"
+msgstr "Chi paga stasera?"
+
+#. Max bytes: 15
+msgctxt "Offset_0x53D14_Len_15"
+msgid "Well, anyway..."
+msgstr "Beh, comunque..."
+
+#. Max bytes: 42
+msgctxt "Offset_0x53F34_Len_42"
+msgid "Why don't you go talk it out with your ex?"
+msgstr "Perché non parli con la tua ex?"
+
+#. Max bytes: 50
+msgctxt "Offset_0x54184_Len_50"
+msgid "Yeah, you'll have to talk to her to get the truth."
+msgstr "Già, le dovrai parlare per avere la verità."
+
+#. Max bytes: 17
+msgctxt "Offset_0x544A4_Len_17"
+msgid "Hm? What's wrong?"
+msgstr "Hm? Che c'è?"
+
+#. Max bytes: 31
+msgctxt "Offset_0x546D4_Len_31"
+msgid "S-Sorry, I dozed off for a bit."
+msgstr "S-Scusa, mi sono distratto."
+
+#. Max bytes: 54
+msgctxt "Offset_0x54914_Len_54"
+msgid "Keep it together. Why don't you try calling her first?"
+msgstr "Non mollare. Perché prima non provi a chiamarla?"
+
+#. Max bytes: 56
+msgctxt "Offset_0x54C34_Len_56"
+msgid "Actually, I've been calling all day. She won't answer..."
+msgstr "A dire il vero, la chiamo da oggi. Non risponde..."
+
+#. Max bytes: 10
+msgctxt "Offset_0x54EE4_Len_10"
+msgid "It's fine."
+msgstr "Tutto ok."
+
+#. Max bytes: 18
+msgctxt "Offset_0x54F04_Len_18"
+msgid "She probably died."
+msgstr "Forse è morta."
+
+#. Max bytes: 24
+msgctxt "Offset_0x54F34_Len_24"
+msgid "That doesn't sound good."
+msgstr "Non sembra un bene."
+
+#. Max bytes: 45
+msgctxt "Offset_0x55164_Len_45"
+msgid "What if she shows up t'introduce her new man?"
+msgstr "E se lei si fa vedere col tipo nuovo?"
+
+#. Max bytes: 22
+msgctxt "Offset_0x553D4_Len_22"
+msgid "Come on, Akiyoshi-kun."
+msgstr "Dai, Akiyoshi-kun."
+
+#. Max bytes: 12
+msgctxt "Offset_0x55614_Len_12"
+msgid "Oh, sorry..."
+msgstr "Oh, scusa..."
+
+#. Max bytes: 25
+msgctxt "Offset_0x55834_Len_25"
+msgid "You mean you'll run away."
+msgstr "Fuggirai, quindi."
+
+#. Max bytes: 17
+msgctxt "Offset_0x55874_Len_17"
+msgid "You mean to Mars?"
+msgstr "Tipo su Marte?"
+
+#. Max bytes: 14
+msgctxt "Offset_0x558A4_Len_14"
+msgid "You mean that?"
+msgstr "Pensi quello?"
+
+#. Max bytes: 23
+msgctxt "Offset_0x558C4_Len_23"
+msgid "Maybe I'll jus' travel."
+msgstr "Forse viaggerò."
+
+#. Max bytes: 59
+msgctxt "Offset_0x55D04_Len_59"
+msgid "I came out here so we could start over, but this is just..."
+msgstr "Sono venuto qui per ripartire, ma questo è troppo..."
+
+#. Max bytes: 12
+msgctxt "Offset_0x55F84_Len_12"
+msgid "She's right."
+msgstr "Ha ragione."
+
+#. Max bytes: 24
+msgctxt "Offset_0x55FA4_Len_24"
+msgid "Join the yakuza instead."
+msgstr "Unisciti alla yakuza."
+
+#. Max bytes: 26
+msgctxt "Offset_0x55FD4_Len_26"
+msgid "Open an orphanage instead."
+msgstr "Aprire un orfanotrofio?"
+
+#. Max bytes: 29
+msgctxt "Offset_0x56004_Len_29"
+msgid "Hey, don't go down that path!"
+msgstr "Ehi, non farlo!"
+
+#. Max bytes: 65
+msgctxt "Offset_0x56244_Len_65"
+msgid "No, I already decided. I'm gonna get a fresh start in a new city!"
+msgstr "No, l'ho già deciso. Inizierò daccapo in una nuova città!"
+
+#. Max bytes: 28
+msgctxt "Offset_0x564D4_Len_28"
+msgid "The hell is he raving about?"
+msgstr "Di che diavolo farnetica?"
+
+#. Max bytes: 32
+msgctxt "Offset_0x56934_Len_32"
+msgid "It's still too early to give up!"
+msgstr "È presto per rinunciare!"
+
+#. Max bytes: 26
+msgctxt "Offset_0x56B74_Len_26"
+msgid "It's too early to give up!"
+msgstr "Presto per mollare!"
+
+#. Max bytes: 28
+msgctxt "Offset_0x56DA4_Len_28"
+msgid "But, I don't got a choice..."
+msgstr "Ma, non ho molta scelta..."
+
+#. Max bytes: 45
+msgctxt "Offset_0x56FD4_Len_45"
+msgid "That ring raised more questions than answers."
+msgstr "Quell'anello ha sollevato troppe domande."
+
+#. Max bytes: 45
+msgctxt "Offset_0x57234_Len_45"
+msgid "Can't you wait until we have a clear picture?"
+msgstr "Non puoi aspettare e schiarirti le idee?"
+
+#. Max bytes: 14
+msgctxt "Offset_0x574A4_Len_14"
+msgid "Damn straight."
+msgstr "Sacrosanto."
+
+#. Max bytes: 58
+msgctxt "Offset_0x576B4_Len_58"
+msgid "'Sides, if you close, where else am I gonna buy tableware?"
+msgstr "Inoltre se chiudi, dove vado a comprare le stoviglie?"
+
+#. Max bytes: 36
+msgctxt "Offset_0x57934_Len_36"
+msgid "So y'got these from the pawn shop..."
+msgstr "Li hai presi dal banco dei pegni..."
+
+#. Max bytes: 56
+msgctxt "Offset_0x57B84_Len_56"
+msgid "I really like your store, y'know? Y'oughta rethink this."
+msgstr "Amo il tuo negozio. Dovresti ripensarci su, lo sai?"
+
+#. Max bytes: 46
+msgctxt "Offset_0x57DE4_Len_46"
+msgid "Guys... Okay, I'll think it through some more."
+msgstr "Ragazzi... Va bene, io ci rifletterò su."
+
+#. Max bytes: 57
+msgctxt "Offset_0x58034_Len_57"
+msgid "You've worked hard, Ando-san. Yer luck's bound to change."
+msgstr "Hai lavorato duro, Ando-san. La tua fortuna girerà."
+
+#. Max bytes: 56
+msgctxt "Offset_0x582A4_Len_56"
+msgid "Then raise a glass to Ando-san findin' his happiness...!"
+msgstr "Allora brindiamo alla felicità di Ando-san...!"
+
+#. Max bytes: 16
+msgctxt "Offset_0x58724_Len_16"
+msgid "No... It's fine."
+msgstr "No... Vabbè."
+
+#. Max bytes: 55
+msgctxt "Offset_0x58954_Len_55"
+msgid "Where can I find a boat to the nearest deserted island?"
+msgstr "Dove trovo una barca per un'isola deserta vicina?"
+
+#. Max bytes: 44
+msgctxt "Offset_0x58BC4_Len_44"
+msgid "C'mon now, let's just start with this drink."
+msgstr "Forza, iniziamo con questo drink."
+
+#. Max bytes: 28
+msgctxt "Offset_0x58E14_Len_28"
+msgid "We'll keep ya company today."
+msgstr "Staremo con te oggi."
+
+#. Max bytes: 29
+msgctxt "Offset_0x59254_Len_29"
+msgid "(We couldn't cheer him up...)"
+msgstr "(Impossibile consolarlo...)"

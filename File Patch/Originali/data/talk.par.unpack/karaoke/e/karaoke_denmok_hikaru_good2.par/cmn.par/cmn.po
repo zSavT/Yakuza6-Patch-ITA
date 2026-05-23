@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 5
+msgctxt "Offset_0x7103_Len_5"
+msgid "> ?a>"
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0xBFDC_Len_31"
+msgid "You grew even closer to Hikaru."
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0xC1A4_Len_31"
+msgid "You grew even closer to Hikaru."
+msgstr ""
+

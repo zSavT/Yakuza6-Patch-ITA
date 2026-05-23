@@ -1,0 +1,616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Ah!\r\nI finally found you, Kiryu-san!"
+msgstr "Ah!\r\nFinalmente ti ho trovato, Kiryu-san!"
+
+msgctxt "1||||4"
+msgid "Hm?"
+msgstr "(Uhm?)"
+
+msgctxt "2||||4"
+msgid "You're... the mascot guy."
+msgstr "Tu sei... il tizio della mascotte."
+
+msgctxt "3||||4"
+msgid "Righto! I'm Ono Michio-kun's\r\nproducer, Hironaka."
+msgstr "Esatto! Sono il produttore di\r\nOno Michio-kun, Hironaka."
+
+msgctxt "4||||4"
+msgid "I really can't thank you enough for your\r\nperformance as Ono Michio-kun the other day!"
+msgstr "Non ti ringrazierò mai abbastanza per la tua\r\nesibizione come Ono Michio-kun dell'altro giorno!"
+
+msgctxt "5||||4"
+msgid "Let me guess...\r\nYou want me to do it again?"
+msgstr "Fammi indovinare...\r\nVuoi che lo faccia di nuovo?"
+
+msgctxt "6||||4"
+msgid "You're sharper than you look!\r\nI <font_kind=yakuza_italic>do</font_kind> want that! I do, I do!"
+msgstr "Sei più perspicace di quel che sembri!\r\nLo voglio <font_kind=yakuza_italic>eccome</font_kind>! Assolutamente sì!"
+
+msgctxt "7||||4"
+msgid "Hey! Hold on a sec, please!"
+msgstr "Ehi! Aspetta un secondo, ti prego!"
+
+msgctxt "8||||4"
+msgid "I'm begging you! Michio-kun's popularity has\r\nbeen through the roof since the last event!"
+msgstr "Ti supplico! La popolarità di Michio-kun è\r\nalle stelle dall'ultimo evento!"
+
+msgctxt "9||||4"
+msgid "We can't just stop now.\r\nThink about how disappointed your fans would be."
+msgstr "Non possiamo fermarci ora.\r\nPensa a quanto rimarrebbero delusi i tuoi fan."
+
+msgctxt "10||||4"
+msgid "You're not dragging me into this again.\r\nNo way am I doing another talk show."
+msgstr "Non mi trascinerai di nuovo in questa storia.\r\nNon farò un altro talk show, scordatelo."
+
+msgctxt "11||||4"
+msgid "Oh, you don't need to worry, then.\r\nThat's not what it'll be this time."
+msgstr "Oh, allora non devi preoccuparti.\r\nNon sarà questo il caso, stavolta."
+
+msgctxt "12||||4"
+msgid "Oh yeah?"
+msgstr "Ah sì?"
+
+msgctxt "13||||4"
+msgid "It's, drum roll... A concert!"
+msgstr "Sarà, rullo di tamburi... un concerto!"
+
+msgctxt "14||||4"
+msgid "A concert...?"
+msgstr "Un concerto...?"
+
+msgctxt "15||||4"
+msgid "Yup! We've actually been thinking about\r\nproducing an Ono Michio-kun music CD."
+msgstr "Già! A dire il vero stavamo pensando di\r\nprodurre un CD musicale di Ono Michio-kun."
+
+msgctxt "16||||4"
+msgid "But before we can do that, Ono Michio-kun\r\nwill have to show off his pipes!"
+msgstr "Ma prima di poterlo fare, Ono Michio-kun\r\ndovrà darci dentro con l'ugola!"
+
+msgctxt "17||||4"
+msgid "Kiryu-san. Do you like to sing?"
+msgstr "Kiryu-san. Ti piace cantare?"
+
+msgctxt "18||||4"
+msgid "Uh, I guess it's not so bad..."
+msgstr "Uh, suppongo non sia malaccio..."
+
+msgctxt "19||||4"
+msgid "Perfect! Will you be Ono Michio-kun\r\nfor our concert then? Whaddya say?"
+msgstr "Perfetto! Sarai Ono Michio-kun\r\nper il nostro concerto allora? Che ne dici?"
+
+msgctxt "20||||4"
+msgid "Go away."
+msgstr "Vattene."
+
+msgctxt "21||||4"
+msgid "Don't be like that!\r\nCan't you make an exception for the children?"
+msgstr "Non fare così!\r\nNon puoi fare un'eccezione per i bambini?"
+
+msgctxt "22||||4"
+msgid "And just think, Michio-kun's rising popularity\r\nwill be great PR for Onomichi!"
+msgstr "Pensa, la crescente popolarità di Michio-kun\r\nsarà un'ottima mossa di PR per Onomichi!"
+
+msgctxt "23||||4"
+msgid "It'll be a kick in the pants for this sleepy town.\r\nJust what the aging population needs nowadays."
+msgstr "Darà una bella scossa a questa città addormentata.\r\nProprio ciò di cui la popolazione anziana ha bisogno oggi."
+
+msgctxt "24||||4"
+msgid "So won't you help me out? For Onomichi.\r\nI'll reward you handsomely, of course!"
+msgstr "Quindi, non vuoi darmi una mano? Per Onomichi.\r\nTi ricompenserò profumatamente, ovvio!"
+
+msgctxt "25||||4"
+msgid "Not just for the children, but for the town, too...\r\nI guess I <font_kind=yakuza_italic>do</font_kind> want to give back. What should I do?"
+msgstr "(Non solo per i bambini, ma anche per la città...\r\nImmagino di voler <font_kind=yakuza_italic>davvero</font_kind> ricambiare. Che dovrei fare?)"
+
+msgctxt "26||||4"
+msgid "Sorry, let me think it over."
+msgstr "Scusa, fammici pensare su."
+
+msgctxt "27||||4"
+msgid "All right! I'll be waiting for you,\r\nso just let me know when you decide!"
+msgstr "D'accordo! Ti aspetterò,\r\nquindi fammi sapere quando hai deciso!"
+
+msgctxt "28||||4"
+msgid "Fine, I'll do it.\r\nBut this is the last time, you got it?"
+msgstr "Va bene, lo farò.\r\nMa questa è l'ultima volta, intesi?"
+
+msgctxt "29||||4"
+msgid "Anything for my savior!\r\nCome on, let's get you suited up!"
+msgstr "Qualsiasi cosa per il mio salvatore!\r\nForza, andiamo a vestirti!"
+
+msgctxt "30||||4"
+msgid "That damn costume again...?"
+msgstr "(Di nuovo quel maledetto costume...?)"
+
+msgctxt "31||||4"
+msgid "Mm, a perfect fit! Not that I'm surprised."
+msgstr "Mm, ti calza a pennello! Non che mi sorprenda."
+
+msgctxt "32||||4"
+msgid "It's still heavy. And hot. And hard to breathe in.\r\nAnyway, where's this concert?"
+msgstr "È ancora pesante. E fa caldo. Ed è difficile respirarci dentro.\r\nComunque, dov'è questo concerto?"
+
+msgctxt "33||||4"
+msgid "Well... It's right here!"
+msgstr "Beh... È proprio qui!"
+
+msgctxt "34||||4"
+msgid "Seriously? This is a pretty strange venue."
+msgstr "Sul serio? È un posto piuttosto insolito."
+
+msgctxt "35||||4"
+msgid "There wasn't anywhere better.\r\nYou know how rural Onomichi is."
+msgstr "Non c'era nessun posto migliore.\r\nSai com'è rurale Onomichi."
+
+msgctxt "36||||4"
+msgid "Well, step right in!"
+msgstr "Beh, entra pure!"
+
+msgctxt "37||||4"
+msgid "O-Okay..."
+msgstr "O-okay..."
+
+msgctxt "38||||4"
+msgid "Kiryu-san, please!\r\nBe Michio-kun for our concert!"
+msgstr "Kiryu-san, ti prego!\r\nSii Michio-kun per il nostro concerto!"
+
+msgctxt "39||||4"
+msgid "Hi there! Thanks for letting us perform here!"
+msgstr "Salve! Grazie per averci permesso di esibirci qui!"
+
+msgctxt "40||||4"
+msgid "No, thank <font_kind=yakuza_italic>you</font_kind>."
+msgstr "No, grazie a <font_kind=yakuza_italic>te</font_kind>."
+
+msgctxt "41||||4"
+msgid "Crap, it's Mama."
+msgstr "(Merda, è la Mama.)"
+
+msgctxt "42||||4"
+msgid "Oh, is that our Michio-kun?\r\nHe's a <font_kind=yakuza_italic>cutey</font_kind>. Hi there!"
+msgstr "Oh, è il nostro Michio-kun?\r\nÈ proprio <font_kind=yakuza_italic>carino</font_kind>. Ciao!"
+
+msgctxt "43||||4"
+msgid "I can't let her recognize my voice.\r\nHm, maybe if I change it a bit..."
+msgstr "(Non posso permettere che riconosca la mia voce.\r\nUhm, forse se la cambio un po'...)"
+
+msgctxt "44||||4"
+msgid "N-Nice to michi."
+msgstr "P-piacere di conoscermichi."
+
+msgctxt "45||||4"
+msgid "Wow, you sound super manly.\r\nAlmost familiar, somehow..."
+msgstr "Wow, hai una voce super virile.\r\nQuasi familiare, in un certo senso..."
+
+msgctxt "46||||4"
+msgid "Probably a coincidence-michi."
+msgstr "Probabilmente è una coincidenza-michi."
+
+msgctxt "47||||4"
+msgid "Yeah, I'm sure.\r\nNobody I know would ever get in that thing."
+msgstr "Già, ne sono certa.\r\nNessuno che conosco entrerebbe mai in quell'affare."
+
+msgctxt "48||||4"
+msgid "That's right-michi."
+msgstr "Proprio così-michi."
+
+msgctxt "49||||4"
+msgid "I think I fooled her."
+msgstr "(Credo di averla ingannata.)"
+
+msgctxt "50||||4"
+msgid "All right, Michio-kun!\r\nThe customers are coming, so get in position!"
+msgstr "D'accordo, Michio-kun!\r\nI clienti stanno arrivando, quindi mettiti in posizione!"
+
+msgctxt "51||||4"
+msgid "W-Will do..."
+msgstr "S-sarà fatto..."
+
+msgctxt "52||||4"
+msgid "It's great seeing you all at our special\r\nOno Michio-kun concert! Thank you for coming!"
+msgstr "È fantastico vedervi tutti al nostro speciale\r\nconcerto di Ono Michio-kun! Grazie per essere venuti!"
+
+msgctxt "53||||4"
+msgid "Man, I'm pumped!"
+msgstr "Cavolo, sono su di giri!"
+
+msgctxt "54||||4"
+msgid "Michio!"
+msgstr "Michio!"
+
+msgctxt "55||||4"
+msgid "I think yer my type, Michio!"
+msgstr "Credo proprio tu sia il mio tipo, Michio!"
+
+msgctxt "56||||4"
+msgid "Hey, these aren't kids at all.\r\nIt's just a bunch of old men."
+msgstr "Ehi, questi non sono affatto bambini.\r\nSono solo un mucchio di vecchi."
+
+msgctxt "57||||4"
+msgid "We <font_kind=yakuza_italic>are</font_kind> at a bar. Only adults\r\nare allowed in a place like this."
+msgstr "Siamo <font_kind=yakuza_italic>pur sempre</font_kind> in un bar. Solo gli adulti\r\nsono ammessi in un posto del genere."
+
+msgctxt "58||||4"
+msgid "But look! Aren't their smiles\r\njust so innocent and childlike?"
+msgstr "Ma guarda! I loro sorrisi non sono\r\nforse così innocenti e infantili?"
+
+msgctxt "59||||4"
+msgid "Don't try to talk your way out of this.\r\nOld men are old men."
+msgstr "Non cercare di rigirare la frittata.\r\nI vecchi sono vecchi."
+
+msgctxt "60||||4"
+msgid "Meh, oh well. Too late now!"
+msgstr "Mah, vabbè. Troppo tardi ormai!"
+
+msgctxt "61||||4"
+msgid "The song I want you to sing is called\r\n<font_kind=yakuza_italic>Today is a Diamond</font_kind>. You know it, right?"
+msgstr "La canzone che voglio che tu canti si intitola\r\n<font_kind=yakuza_italic>Today is a Diamond</font_kind>. La conosci, vero?"
+
+msgctxt "62||||4"
+msgid "I do..."
+msgstr "Sì..."
+
+msgctxt "63||||4"
+msgid "As you know, the lyrics are amazing!\r\nYou'll do great! Now, get out there!"
+msgstr "Come sai, il testo è incredibile!\r\nAndrai alla grande! Ora, vai là fuori!"
+
+msgctxt "64||||4"
+msgid "I won't forget this."
+msgstr "(Questa me la lego al dito.)"
+
+msgctxt "65||||4"
+msgid "Now then, Michio-kun!\r\nWhat are you singing for us today?"
+msgstr "E allora, Michio-kun!\r\nCosa canterai per noi oggi?"
+
+msgctxt "66||||4"
+msgid "Um... Do you know <font_kind=yakuza_italic>Today is a Diamond</font_kind>?"
+msgstr "Ehm... Conoscete <font_kind=yakuza_italic>Today is a Diamond</font_kind>?"
+
+msgctxt "67||||4"
+msgid "Ooooh, hell yeah! What a pick!"
+msgstr "Ooooh, diamine sì! Che bella scelta!"
+
+msgctxt "68||||4"
+msgid "You've got great taste, Michio-kun!"
+msgstr "Hai ottimi gusti, Michio-kun!"
+
+msgctxt "69||||4"
+msgid "I'm pissin' myself with excitement!"
+msgstr "Mi sto pisciando sotto per l'emozione!"
+
+msgctxt "70||||4"
+msgid "Now, it would be a little too boring\r\nif we just had him sing for us normally, right?"
+msgstr "Ora, sarebbe un po' troppo noioso\r\nse lo facessimo solo cantare normalmente, giusto?"
+
+msgctxt "71||||4"
+msgid "That's why we'll be using a special rule today!"
+msgstr "Ecco perché oggi useremo una regola speciale!"
+
+msgctxt "72||||4"
+msgid "What...?"
+msgstr "Cosa...?"
+
+msgctxt "73||||4"
+msgid "For this concert, we'll take advantage\r\nof Joysound's grading feature!"
+msgstr "Per questo concerto, sfrutteremo\r\nla funzione di valutazione del Joysound!"
+
+msgctxt "74||||4"
+msgid "If Michio-kun gets 80 points or higher...\r\nhe'll be signed for his very own CD debut!"
+msgstr "Se Michio-kun otterrà 80 punti o più...\r\nfirmerà per il suo vero e proprio debutto su CD!"
+
+msgctxt "75||||4"
+msgid "Whoaaaaaa!"
+msgstr "Uaaaaao!"
+
+msgctxt "76||||4"
+msgid "Fer real!? That's incredible!"
+msgstr "Sul serio!? È incredibile!"
+
+msgctxt "77||||4"
+msgid "Dudeee!"
+msgstr "Amicooo!"
+
+msgctxt "78||||4"
+msgid "No way..."
+msgstr "Pazzesco..."
+
+msgctxt "79||||4"
+msgid "Glad to see you all so excited!\r\nIt's almost time for the main event!"
+msgstr "Sono felice di vedervi tutti così su di giri!\r\nÈ quasi ora dell'evento principale!"
+
+msgctxt "80||||4"
+msgid "Ono Michio-kun's <font_kind=yakuza_italic>Today is a Diamond</font_kind>!\r\nLet's hear it!"
+msgstr "L'esibizione di Ono Michio-kun con <font_kind=yakuza_italic>Today is a Diamond</font_kind>!\r\nAscoltiamolo!"
+
+msgctxt "81||||4"
+msgid "Hey, you did great, Michio-kun!"
+msgstr "Ehi, sei andato alla grande, Michio-kun!"
+
+msgctxt "82||||4"
+msgid "Wahoo!"
+msgstr "Urrà!"
+
+msgctxt "83||||4"
+msgid "Nice job, Michio! Nice job!"
+msgstr "Ottimo lavoro, Michio! Ottimo lavoro!"
+
+msgctxt "84||||4"
+msgid "I got less than 80 points..."
+msgstr "(Ho fatto meno di 80 punti...)"
+
+msgctxt "85||||4"
+msgid "Thanks so much! I could really\r\nfeel the raw passion in your voice!"
+msgstr "Grazie infinite! Ho potuto davvero\r\nsentire la pura passione nella tua voce!"
+
+msgctxt "86||||4"
+msgid "But... Uh oh!\r\nHe didn't beat the 80 point requirement..."
+msgstr "Ma... oh oh!\r\nNon ha superato il requisito degli 80 punti..."
+
+msgctxt "87||||4"
+msgid "Michio-kun won't be able to make\r\nhis CD debut with that low of a score."
+msgstr "Michio-kun non potrà fare il suo\r\ndebutto su CD con un punteggio così basso."
+
+msgctxt "88||||4"
+msgid "Huhhhhhh!?"
+msgstr "Eeeehhhh!?"
+
+msgctxt "89||||4"
+msgid "What!? Jus' let the guy sing!"
+msgstr "Cosa!? Fai cantare il ragazzo e basta!"
+
+msgctxt "90||||4"
+msgid "Boo, boo!"
+msgstr "Buuu, buuu!"
+
+msgctxt "91||||4"
+msgid "Although... Requests are coming in from\r\nall over the country for a Michio-kun CD."
+msgstr "Tuttavia... stanno arrivando richieste da\r\ntutto il paese per un CD di Michio-kun."
+
+msgctxt "92||||4"
+msgid "Okay! As a thank you to our fans,\r\nwe'll go ahead with the CD debut!"
+msgstr "Okay! Come ringraziamento ai nostri fan,\r\nandremo avanti con il debutto su CD!"
+
+msgctxt "93||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "94||||4"
+msgid "That was great!"
+msgstr "È stato fantastico!"
+
+msgctxt "95||||4"
+msgid "Yeah! Yer the best!"
+msgstr "Sì! Sei il migliore!"
+
+msgctxt "96||||4"
+msgid "Nice one, Michio-kun!"
+msgstr "Ben fatto, Michio-kun!"
+
+msgctxt "97||||4"
+msgid "Not bad."
+msgstr "Niente male."
+
+msgctxt "98||||4"
+msgid "What a beautiful voice! Thank you so much!"
+msgstr "Che voce bellissima! Grazie infinite!"
+
+msgctxt "99||||4"
+msgid "And since he got over 80 points,\r\nhis CD debut is all but confirmed!"
+msgstr "E visto che ha superato gli 80 punti,\r\nil suo debutto su CD è praticamente confermato!"
+
+msgctxt "100||||4"
+msgid "Wahooooooooo!"
+msgstr "Urrààààà!"
+
+msgctxt "101||||4"
+msgid "He did it!"
+msgstr "Ce l'ha fatta!"
+
+msgctxt "102||||4"
+msgid "Amazing!"
+msgstr "Incredibile!"
+
+msgctxt "103||||4"
+msgid "Isn't this great, Michio-kun?"
+msgstr "Non è fantastico, Michio-kun?"
+
+msgctxt "104||||4"
+msgid "Y-Yeah..."
+msgstr "G-già..."
+
+msgctxt "105||||4"
+msgid "Michio! Michio! Michio!"
+msgstr "Michio! Michio! Michio!"
+
+msgctxt "106||||4"
+msgid "Michio! Michio! Michio!"
+msgstr "Michio! Michio! Michio!"
+
+msgctxt "107||||4"
+msgid "Michio! Michio! Michio!"
+msgstr "Michio! Michio! Michio!"
+
+msgctxt "108||||4"
+msgid "Your fans really love you!"
+msgstr "I tuoi fan ti amano davvero!"
+
+msgctxt "109||||4"
+msgid "Yeah, I guess so..."
+msgstr "Sì, immagino di sì..."
+
+msgctxt "110||||4"
+msgid "Michio-kun, you can't leave them hanging.\r\nGive them your trademark introduction!"
+msgstr "Michio-kun, non puoi lasciarli sulle spine.\r\nFai la tua presentazione marchio di fabbrica!"
+
+msgctxt "111||||4"
+msgid "Ugh, that again?"
+msgstr "(Ugh, di nuovo quella storia?)"
+
+msgctxt "112||||4"
+msgid "Oh well... Here we go!"
+msgstr "E vabbè... Eccoci qua!"
+
+msgctxt "113||||4"
+msgid "With my charming hassaku face!"
+msgstr "Col mio affascinante volto ad arancia hassaku!"
+
+msgctxt "114||||4"
+msgid "Steamy Onomichi ramen hat!"
+msgstr "Il fumante cappello a forma di ramen di Onomichi!"
+
+msgctxt "115||||4"
+msgid "Cute fish pouch!"
+msgstr "Un simpatico borsello a forma di pesce!"
+
+msgctxt "116||||4"
+msgid "Cool boots, vital for any fisherman!"
+msgstr "I fantastici stivali, vitali per qualsiasi pescatore!"
+
+msgctxt "117||||4"
+msgid "And my bold and trendy Ono shirt!\r\nThat's right, I'm the pride of Onomichi..."
+msgstr "E la mia audace e alla moda maglietta Ono!\r\nEsatto, sono l'orgoglio di Onomichi..."
+
+msgctxt "118||||4"
+msgid "Ono..."
+msgstr "Ono..."
+
+msgctxt "119||||4"
+msgid "Michio!"
+msgstr "Michio!"
+
+msgctxt "120||||4"
+msgid "Yeahhhhhh!"
+msgstr "Sìììììì!"
+
+msgctxt "122||||4"
+msgid "Kiryu-san really has it rough."
+msgstr "Kiryu-san se la passa proprio male."
+
+msgctxt "123||||4"
+msgid "I've really gotta thank you for today!\r\nEveryone's so pumped for Michio-kun's debut!"
+msgstr "Devo davvero ringraziarti per oggi!\r\nSono tutti così su di giri per il debutto di Michio-kun!"
+
+msgctxt "124||||4"
+msgid "You probably would've gone ahead with\r\nthe CD no matter what score I got, huh?"
+msgstr "Probabilmente saresti andato avanti col\r\nCD a prescindere dal mio punteggio, eh?"
+
+msgctxt "125||||4"
+msgid "I wonder...\r\nAnyway, here you go! This is your reward!"
+msgstr "Chissà...\r\nComunque, tieni! Questa è la tua ricompensa!"
+
+msgctxt "126||||4"
+msgid "Oh, and take this!"
+msgstr "Oh, e prendi questo!"
+
+msgctxt "127||||4"
+msgid "Hm?"
+msgstr "Uhm?"
+
+msgctxt "128||||4"
+msgid "Th-This is..."
+msgstr "Q-questo è..."
+
+msgctxt "129||||4"
+msgid "It's a preview of the upcoming Michio-kun CD.\r\nI wanted you to see it before anyone else!"
+msgstr "È un'anteprima del prossimo CD di Michio-kun.\r\nVolevo che lo vedessi prima di chiunque altro!"
+
+msgctxt "130||||4"
+msgid "Soooooo? What do you think?"
+msgstr "Alloooora? Che ne pensi?"
+
+msgctxt "131||||4"
+msgid "Hm... I'm not really sure."
+msgstr "Uhm... Non saprei dirti."
+
+msgctxt "132||||4"
+msgid "Either way, you came through in the clutch there!\r\nI can't wait until next time!"
+msgstr "In ogni caso, hai davvero salvato la situazione!\r\nNon vedo l'ora che arrivi la prossima volta!"
+
+msgctxt "133||||4"
+msgid "No, I'm finished.\r\nThere <font_kind=yakuza_italic>is</font_kind> no \"next time.\""
+msgstr "No, ho chiuso.\r\nNon ci <font_kind=yakuza_italic>sarà</font_kind> nessuna \"prossima volta\"."
+
+msgctxt "134||||4"
+msgid "Whattt, really?\r\nBut he's just getting popular!"
+msgstr "Coooosa, davvero?\r\nMa sta diventando popolare proprio adesso!"
+
+msgctxt "135||||4"
+msgid "People will like him no matter who's inside.\r\nIt doesn't have to be me."
+msgstr "Alla gente piacerà a prescindere da chi c'è dentro.\r\nNon devo per forza essere io."
+
+msgctxt "136||||4"
+msgid "You can't keep forcing me into this."
+msgstr "Non puoi continuare a costringermi a farlo."
+
+msgctxt "137||||4"
+msgid "I'm not here for fun. There's something important\r\nI have to do, and I'm damn well gonna do it."
+msgstr "Non sono qui per divertirmi. Ho qualcosa di importante\r\nda fare, e ho tutta l'intenzione di farlo."
+
+msgctxt "138||||4"
+msgid "I can't help you anymore, you got that?\r\nYou'll have to move forward on your own."
+msgstr "Non posso più aiutarti, chiaro?\r\nDovrai andare avanti con le tue gambe."
+
+msgctxt "139||||4"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "140||||4"
+msgid "I get it. You were just so good, though.\r\nThat's why I kept relying on you."
+msgstr "Capisco. Eri semplicemente bravissimo, però.\r\nEcco perché continuavo ad affidarmi a te."
+
+msgctxt "141||||4"
+msgid "But even with your skill,\r\nI shouldn't have pressured you so much."
+msgstr "Ma pur con la tua bravura,\r\nnon avrei dovuto farti così tanta pressione."
+
+msgctxt "142||||4"
+msgid "...I understand.\r\nI won't trouble you anymore, Kiryu-san."
+msgstr "...Capisco.\r\nNon ti disturberò più, Kiryu-san."
+
+msgctxt "143||||4"
+msgid "I'll do whatever it takes to make Michio-kun\r\nthe most popular mascot around!"
+msgstr "Farò tutto il necessario per rendere Michio-kun\r\nla mascotte più popolare in circolazione!"
+
+msgctxt "144||||4"
+msgid "You'll come crawling back asking\r\nto get inside that costume again, Kiryu-san."
+msgstr "Tornerai strisciando a implorarmi\r\ndi rimetterti quel costume, Kiryu-san."
+
+msgctxt "145||||4"
+msgid "That's the spirit. I can't wait."
+msgstr "Questo è lo spirito giusto. Non vedo l'ora."
+
+msgctxt "146||||4"
+msgid "Oh... And take care of Michio."
+msgstr "Oh... E abbi cura di Michio."
+
+msgctxt "147||||4"
+msgid "I will!"
+msgstr "Lo farò!"
+
+msgctxt "148||||4"
+msgid "Kiryu-san... Thank you so much!"
+msgstr "Kiryu-san... Grazie infinite!"
+
+msgctxt "149||||4"
+msgid "No, that's not right..."
+msgstr "(No, non si dice così...)"
+
+msgctxt "150||||4"
+msgid "Hm?"
+msgstr "Uhm?"
+
+msgctxt "151||||4"
+msgid "Thank you so michi!"
+msgstr "Grazie mille-michi!"
+
+msgctxt "152||||4"
+msgid "You're welcome-michi."
+msgstr "Prego-michi."

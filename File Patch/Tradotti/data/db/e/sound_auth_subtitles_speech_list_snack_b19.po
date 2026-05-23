@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "What could make ya hate me so much, Gen-san?"
+msgstr "Cosa ho fatto per farmi odiare così tanto, Gen-san?"
+
+msgctxt "1||||4"
+msgid "Mama, do you know what my hobby is?"
+msgstr "Mama, sai qual è il mio hobby?"
+
+msgctxt "2||||4"
+msgid "Karaoke, right?"
+msgstr "Il karaoke, giusto?"
+
+msgctxt "3||||4"
+msgid "Anyone who's ever been to this bar would know that."
+msgstr "Chiunque sia mai stato in questo bar lo saprebbe."
+
+msgctxt "4||||4"
+msgid "He's been practicing his vocal work, too."
+msgstr "Si è anche esercitato con la voce."
+
+msgctxt "5||||4"
+msgid "Whoa, I didn't know that."
+msgstr "Whoa, questo non lo sapevo."
+
+msgctxt "6||||4"
+msgid "Aren't you glad it's been upgraded?"
+msgstr "Non sei contento che sia stato aggiornato?"
+
+msgctxt "7||||4"
+msgid "I splurged on the latest model, y'know. Make sure you sing a lot."
+msgstr "Ho fatto una pazzia per l'ultimo modello, sapete. Assicurati di cantare tanto."
+
+msgctxt "8||||4"
+msgid "There's no way I can sing on that..."
+msgstr "Non c'è modo che io riesca a cantare con quello..."
+
+msgctxt "9||||4"
+msgid "Why not?"
+msgstr "Perché no?"
+
+msgctxt "10||||4"
+msgid "It's way too high-tech for me."
+msgstr "È troppo all'avanguardia per me."
+
+msgctxt "11||||4"
+msgid "Ah, come to think of it, Gen-san hasn't sung lately."
+msgstr "Ah, ora che ci penso, Gen-san non canta da un po'."
+
+msgctxt "12||||4"
+msgid "But didn't you enjoy listening to other people singing?"
+msgstr "Ma non ti piaceva ascoltare gli altri cantare?"
+
+msgctxt "13||||4"
+msgid "Well sure, I like listening just as much as I like singing."
+msgstr "Beh certo, mi piace ascoltare tanto quanto mi piace cantare."
+
+msgctxt "14||||4"
+msgid "The thing sounds great. I can tell it's a great machine."
+msgstr "Ha un suono fantastico. Si vede che è un'ottima macchina."
+
+msgctxt "15||||4"
+msgid "Then sing already. Why waste those lungs?"
+msgstr "Allora canta e basta. Perché sprecare quei polmoni?"
+
+msgctxt "16||||4"
+msgid "Relax, Mama."
+msgstr "Calmati, Mama."
+
+msgctxt "17||||4"
+msgid "There's no way I could use such a fancy machine."
+msgstr "Non c'è modo che io sappia usare una macchina così complicata."
+
+msgctxt "18||||4"
+msgid "It's even got a remote control with a screen on it..."
+msgstr "Ha persino un telecomando con uno schermo sopra..."
+
+msgctxt "19||||4"
+msgid "That's what makes it useful!"
+msgstr "È proprio questo a renderlo utile!"
+
+msgctxt "20||||4"
+msgid "It's easier to choose a song."
+msgstr "È più facile scegliere una canzone."
+
+msgctxt "21||||4"
+msgid "Yeah, but..."
+msgstr "Sì, ma..."
+
+msgctxt "22||||4"
+msgid "Wait, have you not even sung on the new machine once yet?"
+msgstr "Aspetta, non hai ancora cantato neanche una volta con la nuova macchina?"
+
+msgctxt "23||||4"
+msgid "That's right. The shower is my only concert venue now."
+msgstr "Esatto. La doccia è il mio unico luogo di concerti ora."
+
+msgctxt "24||||4"
+msgid "That so...?"
+msgstr "Ah sì...?"
+
+msgctxt "25||||4"
+msgid "I can't believe your complaint is that I got a better machine."
+msgstr "Non ci credo che ti stai lamentando perché ho preso una macchina migliore."
+
+msgctxt "26||||4"
+msgid "What do you think, Kiryu-san?"
+msgstr "Tu cosa ne pensi, Kiryu-san?"
+
+msgctxt "27||||4"
+msgid "Why don't you try singing on it once?"
+msgstr "Perché non provi a cantarci almeno una volta?"
+
+msgctxt "28||||4"
+msgid "Yeah, you've never even tried."
+msgstr "Sì, non ci hai nemmeno mai provato."
+
+msgctxt "29||||4"
+msgid "Huh? Kiryu-san, were you even paying attention?"
+msgstr "Eh? Kiryu-san, stavi almeno prestando attenzione?"
+
+msgctxt "30||||4"
+msgid "Oh, sorry... What were we talking about?"
+msgstr "Oh, scusate... Di che stavamo parlando?"
+
+msgctxt "31||||4"
+msgid "Gen-san's hating on the new machine without trying it."
+msgstr "Gen-san sta odiando la nuova macchina senza averla provata."
+
+msgctxt "32||||4"
+msgid "I just really dislike newfangled gadgets."
+msgstr "È che detesto proprio i marchingegni moderni."
+
+msgctxt "33||||4"
+msgid "I only just started learning how to use cordless phones..."
+msgstr "Ho appena iniziato a imparare a usare i telefoni senza fili..."
+
+msgctxt "34||||4"
+msgid "Gen-san, did you time travel from the past or something?"
+msgstr "Gen-san, ma per caso hai viaggiato nel tempo dal passato?"
+
+msgctxt "35||||4"
+msgid "Nope."
+msgstr "No."
+
+msgctxt "36||||4"
+msgid "Geez! I only bought it because I thought you'd use it."
+msgstr "Cavolo! L'ho comprata solo perché pensavo che l'avresti usata."
+
+msgctxt "37||||4"
+msgid "Now I'm gonna be in the red!"
+msgstr "Ora finirò in rosso!"
+
+msgctxt "38||||4"
+msgid "Ah, I figured money was your aim."
+msgstr "Ah, immaginavo che lo scopo fossero i soldi."
+
+msgctxt "39||||4"
+msgid "Hey, it's still a business after all."
+msgstr "Ehi, è pur sempre un'attività dopotutto."
+
+msgctxt "40||||4"
+msgid "Sheesh, I don't like depending on machines for everything."
+msgstr "Accidenti, non mi piace dipendere dalle macchine per ogni cosa."
+
+msgctxt "41||||4"
+msgid "It's just asking for humanity to be taken over by a robot uprising."
+msgstr "È come pregare che l'umanità venga conquistata da una rivolta di robot."
+
+msgctxt "42||||4"
+msgid "The previous karaoke was a machine too..."
+msgstr "Anche il karaoke precedente era una macchina..."
+
+msgctxt "43||||4"
+msgid "Now now, let's calm down, Gen-san."
+msgstr "Su, su, calmati, Gen-san."
+
+msgctxt "44||||4"
+msgid "Yeah, machines just take getting used to. Right?"
+msgstr "Già, con le macchine bisogna solo farci l'abitudine. Giusto?"
+
+msgctxt "45||||4"
+msgid "Yeah..."
+msgstr "Sì..."
+
+msgctxt "46||||4"
+msgid "Machines can be handy once you actually start using them."
+msgstr "Le macchine possono essere comode una volta che inizi a usarle."
+
+msgctxt "47||||4"
+msgid "Yup, I agree."
+msgstr "Sì, sono d'accordo."
+
+msgctxt "48||||4"
+msgid "Huh? What did you say?"
+msgstr "Eh? Che hai detto?"
+
+msgctxt "49||||4"
+msgid "S-Sorry, I was thinking about something else..."
+msgstr "S-Scusate, stavo pensando a qualcos'altro..."
+
+msgctxt "50||||4"
+msgid "Even though it's new, I was surprised by it suddenly showing up."
+msgstr "Anche se è nuova, mi ha sorpreso che sia spuntata all'improvviso."
+
+msgctxt "51||||4"
+msgid "So stay current. You got used to it right away, right?"
+msgstr "Quindi tieniti aggiornato. Tu ci hai fatto subito l'abitudine, vero?"
+
+msgctxt "52||||4"
+msgid "Yeah, I get pretty worked up trying to get my ranking up."
+msgstr "Sì, mi ci metto d'impegno per cercare di alzare la mia posizione in classifica."
+
+msgctxt "53||||4"
+msgid "You know this bar doesn't have a whole lot of customers."
+msgstr "Sai bene che questo bar non ha tantissimi clienti."
+
+msgctxt "54||||4"
+msgid "Shut up."
+msgstr "Chiudi il becco."
+
+msgctxt "55||||4"
+msgid "Not the bar's ranking. The national ranking!"
+msgstr "Non la classifica del bar. La classifica nazionale!"
+
+msgctxt "56||||4"
+msgid "National?"
+msgstr "Nazionale?"
+
+msgctxt "57||||4"
+msgid "That machine instantly ranks you against others in the country."
+msgstr "Quella macchina ti classifica all'istante contro altre persone in tutto il paese."
+
+msgctxt "58||||4"
+msgid "Even though the bar is small, I can sing against lots of people."
+msgstr "Anche se il bar è piccolo, posso cantare sfidando un sacco di gente."
+
+msgctxt "59||||4"
+msgid "Do you guys have a problem with my bar's size...?"
+msgstr "Avete problemi con le dimensioni del mio bar per caso...?"
+
+msgctxt "60||||4"
+msgid "N-National karaoke ranking..."
+msgstr "L-La classifica nazionale del karaoke..."
+
+msgctxt "61||||4"
+msgid "That's incredible! Is that really a thing!?"
+msgstr "È incredibile! Esiste davvero!?"
+
+msgctxt "62||||4"
+msgid "Yeah, it is."
+msgstr "Certo che sì."
+
+msgctxt "63||||4"
+msgid "Why didn't you tell me!?"
+msgstr "Perché non me l'avete detto!?"
+
+msgctxt "64||||4"
+msgid "Maybe because you were whining and not listening?"
+msgstr "Forse perché stavi frignando e non ascoltavi?"
+
+msgctxt "65||||4"
+msgid "Uh..."
+msgstr "Uh..."
+
+msgctxt "66||||4"
+msgid "It really isn't that complicated."
+msgstr "Non è poi così complicato."
+
+msgctxt "67||||4"
+msgid "Umm..."
+msgstr "Uhm..."
+
+msgctxt "68||||4"
+msgid "Let's try it, Gen-san! I sing karaoke from time to time."
+msgstr "Proviamola, Gen-san! Anch'io canto al karaoke ogni tanto."
+
+msgctxt "69||||4"
+msgid "Yeah... I guess I'll give it a shot."
+msgstr "Sì... Immagino che farò un tentativo."
+
+msgctxt "70||||4"
+msgid "Yep yep, you'll figure it out in no time."
+msgstr "Sì, sì, ci capirai qualcosa in men che non si dica."
+
+msgctxt "71||||4"
+msgid "By the way, what type of songs do you sing, Gen-san?"
+msgstr "A proposito, che tipo di canzoni canti, Gen-san?"
+
+msgctxt "72||||4"
+msgid "You used to sing a lot of enka, right?"
+msgstr "Cantavi un sacco di enka, giusto?"
+
+msgctxt "73||||4"
+msgid "Well, I like enka, but I want to sing this one song right now."
+msgstr "Mi piace l'enka, ma ora vorrei cantare questa canzone in particolare."
+
+msgctxt "74||||4"
+msgid "Which song?"
+msgstr "Quale canzone?"
+
+msgctxt "75||||4"
+msgid "It's called \"Today is a Diamond.\""
+msgstr "Si intitola \"Today is a Diamond\"."
+
+msgctxt "76||||4"
+msgid "Wait, you actually like pop music!?"
+msgstr "Aspetta, ti piace davvero la musica pop!?"
+
+msgctxt "77||||4"
+msgid "I've never heard of it."
+msgstr "Non l'ho mai sentita."
+
+msgctxt "78||||4"
+msgid "Yeah, I listen to pop songs now and then."
+msgstr "Sì, ascolto canzoni pop di tanto in tanto."
+
+msgctxt "79||||4"
+msgid "It's been stuck in my head ever since I heard it on the radio."
+msgstr "Mi è rimasta in testa da quando l'ho sentita alla radio."
+
+msgctxt "80||||4"
+msgid "Does that karaoke machine have \"Today is a Diamond\" in it?"
+msgstr "Quella macchina del karaoke ha \"Today is a Diamond\"?"
+
+msgctxt "81||||4"
+msgid "Of course it does! I just sang it yesterday."
+msgstr "Certo che sì! L'ho cantata proprio ieri."
+
+msgctxt "82||||4"
+msgid "All right, then I'm gonna give it a go!"
+msgstr "D'accordo, allora farò un tentativo!"
+
+msgctxt "83||||4"
+msgid "Let's teach you karaoke and take on Japan with \"Today is a Diamond\"!"
+msgstr "Ti insegneremo il karaoke e conquisteremo il Giappone con \"Today is a Diamond\"!"
+
+msgctxt "84||||4"
+msgid "OH!"
+msgstr "OH!"
+
+msgctxt "85||||4"
+msgid "But then, something about using a new machine..."
+msgstr "Però, c'è qualcosa nell'usare una nuova macchina..."
+
+msgctxt "86||||4"
+msgid "I'd probably make it explode if I used it..."
+msgstr "Probabilmente la farei esplodere se la usassi..."
+
+msgctxt "87||||4"
+msgid "It's not going to explode."
+msgstr "Non esploderà."
+
+msgctxt "88||||4"
+msgid "I'm sure I'll be fine once I start using it."
+msgstr "Sono sicuro che me la caverò non appena inizierò a usarla."
+
+msgctxt "89||||4"
+msgid "But I'll give it a try when I'm in the mood."
+msgstr "Ma farò un tentativo quando sarò dell'umore giusto."
+
+msgctxt "90||||4"
+msgid "Thanks..."
+msgstr "Grazie..."
+
+msgctxt "91||||4"
+msgid "(That was a rather dull ending...)"
+msgstr "(È stato un finale piuttosto piatto...)"
+

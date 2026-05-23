@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||setouchi_warriors||name"
+msgid "Setouchi Warriors"
+msgstr "Setouchi Warriors"
+
+msgctxt "2||gokuaku_thunders||name"
+msgid "Jingai Thunders"
+msgstr "Jingai Thunders"
+
+msgctxt "3||onomichi_legends||name"
+msgid "Onomichi Legends"
+msgstr "Onomichi Legends"
+
+msgctxt "4||kanamizawa_gorgeous||name"
+msgid "Kanamizawa Gorgeous"
+msgstr "Kanamizawa Gorgeous"
+
+msgctxt "5||gokuaku_thunders_second||name"
+msgid "Jingai Thunders"
+msgstr "Jingai Thunders"
+
+msgctxt "1||setouchi_warriors||name_initial"
+msgid "Setouchi"
+msgstr "Setouchi"
+
+msgctxt "2||gokuaku_thunders||name_initial"
+msgid "Jingai"
+msgstr "Jingai"
+
+msgctxt "3||onomichi_legends||name_initial"
+msgid "Onomichi"
+msgstr "Onomichi"
+
+msgctxt "4||kanamizawa_gorgeous||name_initial"
+msgid "Kanamizawa"
+msgstr "Kanamizawa"
+
+msgctxt "5||gokuaku_thunders_second||name_initial"
+msgid "Jingai"
+msgstr "Jingai"

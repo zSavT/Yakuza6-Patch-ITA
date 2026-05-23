@@ -1,0 +1,953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Um, Aniki.\r\nSpeakin' of Haruka-san..."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Right. I actually went to Kiyomi's to ask\r\nabout her after our conversation last night."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Kiyo-chan... Did she tell ya anythin'?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Actually, she wasn't there,\r\nso I couldn't ask her."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Weird.\r\nShe's usually at the bar 'round then."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "She left a note for me, though."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "And what did it say?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Apparently she wants to\r\ntalk to me alone."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "I'm meeting her up at the\r\ntop of the ropeway tonight."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "How 'bout that.\r\nGuess she's the same as us, then."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Even Kiyo-chan's sick of hidin'\r\nthe truth about Haruka-san from ya."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Why do you sound so damn proud of yerself?"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "You couldn't lie to save your life, Cap.\r\nCould'ya have been more obvious?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Shut yer sorry mouth!\r\nThat ain't true!"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Aniki didn't realize we had any info\r\n'til I talked t'him last night!"
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Not quite. I've known since I showed you\r\nthe photo. It was written all over your face."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "If you want to compare acting chops,\r\nI'd say Haruto has you beat."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Y-Y'gotta be kiddin' me!\r\nGimme a break, Aniki!"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "(I still have time before my meeting with\r\nKiyomi. Maybe I'll check out the town.)"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "(It's almost time for my\r\nmeeting with Kiyomi.)"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "(We're supposed to meet at the top of the\r\nropeway. I should head to the station...)"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "He finally fell asleep."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Aniki. We'll watch the kid."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "If yer meetin' up with Kiyo-chan,\r\ny'should jus' leave him to us."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "You sure?"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "I bet he'll be thrilled about\r\nlyin' here asleep while yer out."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Y'don't gotta worry."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Thanks for the help."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Would you like to buy a ticket?\r\nOne way is 320 yen."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "A one-way ticket, please."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Sure, here you go. Trams run every\r\n15 minutes, so thanks for your patience."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "A round trip ticket, please."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Sure, here you go. Trams run every\r\n15 minutes, so thanks for your patience."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "No, I'm all right for now."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Please come again. Keep in mind,\r\nthe tram only runs during the day."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "(Looks like the tram doesn't run at night.)"
+msgstr ""
+
+msgctxt "36||||4"
+msgid "(Should I head back to town?)"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Kiryu-san. I know this is a little\r\nout of the way. Sorry about that."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "No, it's all right."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Nagumo-kun told you, didn't he? About\r\nhow Haruka-chan used to work for me."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Yeah, he did. If you don't mind,\r\ncan you tell me how Haruka got here?"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "The first time we met was\r\nthree years ago, down by the harbor."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "She was gazing out at the water\r\nwith the saddest look on her face."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "I thought maybe she would jump,\r\nso I called out to her."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "That's how we started talking."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "It didn't take long to learn Haruka-chan\r\nhad nowhere to go."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "She was a runaway, all alone in the country.\r\nI couldn't abandon someone so vulnerable."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "So, I decided to offer her a futon at\r\nmy place, at least for the night."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Before the evening was gone, it was\r\nclear something was bothering her."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "I could tell she was a nice girl, though."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "That's when I asked her if she wanted\r\nto take a job at my bar for a while."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "As you know, I can handle the bar just\r\nfine by myself, but she needed help."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "From that day forward,\r\nwe had a partnership."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "You know, Haruka-chan never seemed like\r\nthe idol type. She was always so sweet."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "So you had already realized\r\nwho she was by then."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Yes, but... Even though the whole town\r\nknew, they still treated her like normal."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "As the months passed, Haruka-chan\r\nstarted smiling more and more."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "That is, until that day."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "She came in with tears in her eyes,\r\nbut even then she was grinning through it."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "To this day, I wish I'd asked what was wrong."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "The next day, she disappeared\r\nfrom this town for good."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Knowing Haruka, I'd bet she'd just learned\r\nshe was pregnant. That must be why she left."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Yeah, I think you're right."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Sounds like you have history with him."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "I don't want to pry into your past, though.\r\nAll I'm after is details about Haruka."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "But, I think that can wait for now."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "No, don't be."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Thank you, Kiryu-san."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "W-Wait, what the shit happened!?"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Well, I was over at Kiyomi's bar\r\nwhen some yakuza jus' busted in."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "They forced 'er to get in their car."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "I tried to stop 'em, but all I got\r\nwas the crap beaten outta me."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "As they were drivin' away,\r\nKiyo-chan told me not t'worry..."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "So y'chose to run here instead'a helpin'!?\r\nY'freakin' coward!"
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Ain't savin' Kiyo-chan worth breakin'\r\na goddamn arm or two!?"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Cap, stop!\r\nHe already took a beatin'!"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "What about these yakuza?\r\nWere they Yomei Alliance men?"
+msgstr ""
+
+msgctxt "82||||4"
+msgid "N-No, looked like some Tokyo group.\r\nThe boss looked young."
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Someya..."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "So it's true. There really was\r\nsomethin' between him and Kiyomi."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Hold on, Nagumo.\r\nWhere do you think you're going?"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Can't y'tell?\r\nI'm gonna go save Kiyo-chan."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "This Someya fella's stayin' in\r\nthe hotel up on the hill, ain't he?"
+msgstr ""
+
+msgctxt "89||||4"
+msgid "Don't take the Tojo lightly.\r\nYou can't handle them alone."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "I'm not backin' down.\r\nThis is one order o' yers I can't follow, Aniki."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Hold up! Y'ain't gotta do this alone, Cap.\r\nWe're comin' with ya!"
+msgstr ""
+
+msgctxt "92||||4"
+msgid "Kiyomi-san means the world to us too, y'know!"
+msgstr ""
+
+msgctxt "93||||4"
+msgid "That's right! We ain't gonna sit around n'\r\nlet some Tokyo assholes humiliate us!"
+msgstr ""
+
+msgctxt "94||||4"
+msgid "Did you forget that Someya\r\nis here as a Yomei Alliance guest?"
+msgstr ""
+
+msgctxt "95||||4"
+msgid "If you guys just barge in there, you'll\r\nstand to lose more than your pinkies."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "They could shut the Hirose Family down in\r\na heartbeat. Think about your patriarch."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Fine then. I'll offer t'leave the family!"
+msgstr ""
+
+msgctxt "99||||4"
+msgid "I'll take responsibility fer our actions\r\nand cut my ties t'the Hirose!"
+msgstr ""
+
+msgctxt "100||||4"
+msgid "A yakuza who can't protect the woman\r\nhe loves ain't a true yakuza!"
+msgstr ""
+
+msgctxt "101||||4"
+msgid "Seriously?\r\nYou guys are pretty stupid sometimes."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "Say whatever y'wanna say.\r\nWe're doin' this whether y'like it or not."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "Right. You may be stupid,\r\nbut your plan's stupid enough to work."
+msgstr ""
+
+msgctxt "104||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "105||||4"
+msgid "The Hirose Family can't be involved, though.\r\nIf I do this alone, nobody has to get punished."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Am I wrong?"
+msgstr ""
+
+msgctxt "107||||4"
+msgid "W-Well, I know yer real strong n' all, Aniki..."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "...But it'd be suicide if y'tried to\r\ngo in there all on yer own."
+msgstr ""
+
+msgctxt "109||||4"
+msgid "Hey, what's all the fuss about?"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Boss! Yer here too?"
+msgstr ""
+
+msgctxt "111||||4"
+msgid "Hey, all you need is a way to keep 'em\r\nfrom knowing you're in the family, right?"
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Yeah, I guess yer right."
+msgstr ""
+
+msgctxt "113||||4"
+msgid "Well, I've got just the trick.\r\nCheck it out."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Well, I should be on my way.\r\nGood luck, you guys."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "All right, Cap.\r\nWhat's our gameplan here?"
+msgstr ""
+
+msgctxt "116||||4"
+msgid "Lemme think."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "Wait, I think we've got one o' them\r\nhotel pamphlets somewhere 'round here."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "I'll go grab it."
+msgstr ""
+
+msgctxt "119||||4"
+msgid "Here we go.\r\nThis is a map of the hotel."
+msgstr ""
+
+msgctxt "120||||4"
+msgid "Apparently, they built it fer people who were\r\ncomin' to buy ships from Iwami Shipbuilding."
+msgstr ""
+
+msgctxt "121||||4"
+msgid "First floor's the lobby, second n' third're guest rooms,\r\nand the fourth is a restaurant and bath."
+msgstr ""
+
+msgctxt "122||||4"
+msgid "Looks like the fifth floor's jus'\r\nsome kinda fancy suite."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "It's fuckin' huge. How're we\r\ns'posed to find Kiyomi in there?"
+msgstr ""
+
+msgctxt "124||||4"
+msgid "If we take too long, we'll have\r\nthe whole Tojo Clan to deal with."
+msgstr ""
+
+msgctxt "125||||4"
+msgid "All right, this is how we're\r\ngonna save Kiyo-chan."
+msgstr ""
+
+msgctxt "126||||4"
+msgid "First off, we bust in the front door n'\r\nhead up the stairs t'the second floor."
+msgstr ""
+
+msgctxt "127||||4"
+msgid "There we'll split in two n'\r\ncheck all the guest rooms."
+msgstr ""
+
+msgctxt "128||||4"
+msgid "Matsunaga, Tagashira, n' Yuta'll go to the\r\nright. Me n' Kiryu-aniki'll head to the left."
+msgstr ""
+
+msgctxt "129||||4"
+msgid "If we can't find her on the second floor,\r\nwe'll head up t'the third n' do it again."
+msgstr ""
+
+msgctxt "130||||4"
+msgid "If yer group finds Kiyo-chan,\r\ngimme a call right away."
+msgstr ""
+
+msgctxt "131||||4"
+msgid "Then once we've got her, we run down\r\nt'the lobby and zoom off in our escape car!"
+msgstr ""
+
+msgctxt "132||||4"
+msgid "So, y'guys all set?"
+msgstr ""
+
+msgctxt "133||||4"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "134||||4"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "135||||4"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "136||||4"
+msgid "This is gettin' good now!"
+msgstr ""
+
+msgctxt "137||||4"
+msgid "Aniki. Are y'ready to go?"
+msgstr ""
+
+msgctxt "138||||4"
+msgid "No, not yet."
+msgstr ""
+
+msgctxt "139||||4"
+msgid "Kiyo-chan might be in more danger\r\nthan we realize. Try n' hurry, okay?"
+msgstr ""
+
+msgctxt "140||||4"
+msgid "Yeah, let's do this."
+msgstr ""
+
+msgctxt "141||||4"
+msgid "All right! We're comin' fer ya, Kiyo-chan!"
+msgstr ""
+
+msgctxt "142||||4"
+msgid "She wasn't in any of our rooms, Cap."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "Guess Kiyo-chan ain't on this floor, then."
+msgstr ""
+
+msgctxt "144||||4"
+msgid "All right, let's head up."
+msgstr ""
+
+msgctxt "145||||4"
+msgid "Goddammit!\r\nWhere the hell is Kiyo-chan at!?"
+msgstr ""
+
+msgctxt "146||||4"
+msgid "We're gonna have t'convince Someya t'tell us.\r\nNothin' a few punches can't fix, though."
+msgstr ""
+
+msgctxt "147||||4"
+msgid "Someya's up in the bathhouse!"
+msgstr ""
+
+msgctxt "149||||4"
+msgid "Kiryu-aniki.\r\nLet's get goin' to the fourth floor."
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Cap! We'll go on n' check the rooms\r\nover this way."
+msgstr ""
+
+msgctxt "151||||4"
+msgid "Let's head up."
+msgstr ""
+
+msgctxt "152||||4"
+msgid "Wh-Who the hell're you!?"
+msgstr ""
+
+msgctxt "153||||4"
+msgid "So, where's Someya?"
+msgstr ""
+
+msgctxt "154||||4"
+msgid "You. Show me your face."
+msgstr ""
+
+msgctxt "156||||4"
+msgid "Hey, whaddya think you're doing!?"
+msgstr ""
+
+msgctxt "158||||4"
+msgid "Not him."
+msgstr ""
+
+msgctxt "159||||4"
+msgid "You bastards...\r\nYou think you can take us!?"
+msgstr ""
+
+msgctxt "160||||4"
+msgid "Go after Someya, Aniki."
+msgstr ""
+
+msgctxt "161||||4"
+msgid "Isn't this view incredible?\r\nI love how Onomichi looks from the water."
+msgstr ""
+
+msgctxt "163||||4"
+msgid "Beyond that, there is no better place than\r\nthis to discuss important matters."
+msgstr ""
+
+msgctxt "164||||4"
+msgid "We can speak freely here without\r\nfear of any eavesdropping."
+msgstr ""
+
+msgctxt "165||||4"
+msgid "Important matters?"
+msgstr ""
+
+msgctxt "166||||4"
+msgid "To be honest, Kiryu-san...\r\nI have a request to make of you."
+msgstr ""
+
+msgctxt "167||||4"
+msgid "I would like you to bear witness to the pact\r\nsworn between Koshimizu and Someya-san."
+msgstr ""
+
+msgctxt "168||||4"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "169||||4"
+msgid "As I'm sure you know, the Yomei Alliance has\r\nnever allied with either the Tojo or the Omi."
+msgstr ""
+
+msgctxt "170||||4"
+msgid "We have always chosen to\r\nremain a neutral party."
+msgstr ""
+
+msgctxt "171||||4"
+msgid "Why do you think that is?"
+msgstr ""
+
+msgctxt "173||||4"
+msgid "Our moving outside of Hiroshima would disrupt\r\nthe equilibrium of the entire yakuza world."
+msgstr ""
+
+msgctxt "174||||4"
+msgid "If we sided with the far larger Omi Alliance,\r\nthe Tojo Clan would have no hope of survival."
+msgstr ""
+
+msgctxt "175||||4"
+msgid "But if we joined with the Tojo Clan instead,\r\nthe Omi's existence would also be in peril."
+msgstr ""
+
+msgctxt "176||||4"
+msgid "If the Omi Alliance were to learn of the pact\r\nwe are hoping to make with the Tojo Clan..."
+msgstr ""
+
+msgctxt "177||||4"
+msgid "...They would take whatever steps\r\nnecessary to stop us."
+msgstr ""
+
+msgctxt "178||||4"
+msgid "If we take even a single misstep, the whole\r\nof the underworld could be dragged into war."
+msgstr ""
+
+msgctxt "179||||4"
+msgid "Chairman Kurusu. If there's such great risk,\r\nwhy are you still intent on this alliance?"
+msgstr ""
+
+msgctxt "180||||4"
+msgid "We can't talk t'ya about that yet."
+msgstr ""
+
+msgctxt "181||||4"
+msgid "If y'wanna know so bad, yer gonna hav'ta\r\npromise to be our witness, Kiryu-san."
+msgstr ""
+
+msgctxt "183||||4"
+msgid "The current leaders of the Omi Alliance have\r\ngreat respect for you, a legendary yakuza."
+msgstr ""
+
+msgctxt "184||||4"
+msgid "If this pact of ours were to have\r\nyour stamp of approval on it..."
+msgstr ""
+
+msgctxt "185||||4"
+msgid "...The Omi Alliance would begrudgingly accept."
+msgstr ""
+
+msgctxt "186||||4"
+msgid "The Dragon of Dojima name still carries\r\na great deal of weight. I have faith in that."
+msgstr ""
+
+msgctxt "187||||4"
+msgid "All right. I understand the situation."
+msgstr ""
+
+msgctxt "188||||4"
+msgid "Then, your answer?"
+msgstr ""
+
+msgctxt "189||||4"
+msgid "I'll pass."
+msgstr ""
+
+msgctxt "190||||4"
+msgid "Do you care to explain why?"
+msgstr ""
+
+msgctxt "191||||4"
+msgid "The sixth chairman of the Tojo Clan,\r\nDaigo Dojima, is currently in jail."
+msgstr ""
+
+msgctxt "192||||4"
+msgid "Sugai has taken the role in his absence,\r\nbut it's only temporary."
+msgstr ""
+
+msgctxt "193||||4"
+msgid "I'm sure it's clear now, but if I agreed to this\r\npact without consulting the sixth chairman..."
+msgstr ""
+
+msgctxt "194||||4"
+msgid "It would be nothing short of\r\ntreason against the Tojo Clan."
+msgstr ""
+
+msgctxt "195||||4"
+msgid "Very well. That is a logical argument."
+msgstr ""
+
+msgctxt "196||||4"
+msgid "However, with your refusal, we are bound\r\nto abandon our agreement with Someya-san."
+msgstr ""
+
+msgctxt "197||||4"
+msgid "And it's not unlikely that we would seek\r\na similar deal with the Omi Alliance instead."
+msgstr ""
+
+msgctxt "198||||4"
+msgid "Would you be able to accept\r\nthat outcome, Fourth Chairman?"
+msgstr ""
+
+msgctxt "199||||4"
+msgid "I couldn't care less who you ally with or don't.\r\nI left the Tojo Clan behind."
+msgstr ""
+
+msgctxt "200||||4"
+msgid "That's a strange response."
+msgstr ""
+
+msgctxt "201||||4"
+msgid "If you truly aren't with the Tojo, how\r\nwould this be considered a betrayal?"
+msgstr ""
+
+msgctxt "202||||4"
+msgid "Do you see?"
+msgstr ""
+
+msgctxt "204||||4"
+msgid "Enough, Tsuneo."
+msgstr ""
+
+msgctxt "206||||4"
+msgid "Kiryu-san has already given us his answer.\r\nLet's not prolong the conversation."
+msgstr ""
+
+msgctxt "207||||4"
+msgid "My apologies, Chairman."
+msgstr ""
+
+msgctxt "208||||4"
+msgid "Pardon me for approaching you about this\r\nmatter in such an inelegant way."
+msgstr ""
+
+msgctxt "209||||4"
+msgid "The older you get, the more you just\r\nwant to see things get done."
+msgstr ""
+
+msgctxt "210||||4"
+msgid "It's fine."
+msgstr ""
+
+msgctxt "211||||4"
+msgid "Now then, shall we continue our meal?"
+msgstr ""
+
+msgctxt "212||||4"
+msgid "Yeah. Um, I think there's a good chance\r\nthat Tatsukawa-kun is Haruto-kun's father."
+msgstr ""
+
+msgctxt "213||||4"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "215||||4"
+msgid "Who is that?"
+msgstr ""
+
+msgctxt "216||||4"
+msgid "A childhood friend o' mine. We swore\r\nour oaths to Hirose-san together."
+msgstr ""
+
+msgctxt "217||||4"
+msgid "He's part of the Hirose Family, then?"
+msgstr ""
+
+msgctxt "218||||4"
+msgid "Well, not exactly.\r\nT'be honest, he left a ways back."
+msgstr ""
+
+msgctxt "220||||4"
+msgid "Kiyomi-san.\r\nWhy d'ya think it's Tatsukawa?"
+msgstr ""
+
+msgctxt "221||||4"
+msgid "Something happened just before\r\nHaruka-chan left town."
+msgstr ""
+
+msgctxt "222||||4"
+msgid "I overheard Tatsukawa-kun talking on\r\nthe phone to someone outside my bar."
+msgstr ""
+
+msgctxt "223||||4"
+msgid "He said that having the baby wasn't going\r\nto make anyone happy. To get rid of it."
+msgstr ""
+
+msgctxt "224||||4"
+msgid "Get rid of it? Like, an abortion?"
+msgstr ""
+
+msgctxt "225||||4"
+msgid "That's probably what he meant."
+msgstr ""
+
+msgctxt "226||||4"
+msgid "Hold up. How do y'know that Haruka-chan\r\nwas the one on the other end o' the line?"
+msgstr ""
+
+msgctxt "227||||4"
+msgid "Well back then, it wasn't very clear\r\nwho Tatsukawa-kun was talking to."
+msgstr ""
+
+msgctxt "228||||4"
+msgid "I could tell it was a sad situation,\r\nbut I didn't want to butt in."
+msgstr ""
+
+msgctxt "229||||4"
+msgid "But now that Haruka-chan disappeared\r\nand had Haruto-kun, it all makes sense."
+msgstr ""
+
+msgctxt "230||||4"
+msgid "Where is this Tatsukawa guy now?"
+msgstr ""
+
+msgctxt "231||||4"
+msgid "Before he left the family, he said\r\nhe was gonna make it big up in Tokyo."
+msgstr ""
+
+msgctxt "232||||4"
+msgid "Hm? As a musician or something?"
+msgstr ""
+
+msgctxt "233||||4"
+msgid "Well, I dunno about that."
+msgstr ""
+
+msgctxt "234||||4"
+msgid "Pretty sure he jus' thought going to Tokyo\r\nwould make him rich one way or another."
+msgstr ""
+
+msgctxt "235||||4"
+msgid "Oh, Tatsukawa's a host in Kamurocho now."
+msgstr ""
+
+msgctxt "236||||4"
+msgid "A host!?"
+msgstr ""
+
+msgctxt "237||||4"
+msgid "Tagashira! How'd y'get yer hands\r\non that kinda info?"
+msgstr ""
+
+msgctxt "238||||4"
+msgid "Well, we've been keepin' in touch."
+msgstr ""
+
+msgctxt "239||||4"
+msgid "He's kept me in the loop\r\never since he moved to Tokyo."
+msgstr ""
+
+msgctxt "240||||4"
+msgid "Huh? And he chose t'talk to you?\r\nWhy didn't he message me?"
+msgstr ""
+
+msgctxt "241||||4"
+msgid "I don't get it."
+msgstr ""
+
+msgctxt "242||||4"
+msgid "Tagashira. Can you still reach him?"
+msgstr ""
+
+msgctxt "243||||4"
+msgid "Uh, I dunno 'bout that. I haven't heard from\r\nhim in ages, and he ain't readin' my messages."
+msgstr ""
+
+msgctxt "244||||4"
+msgid "He probly got a new phone or somethin'."
+msgstr ""
+
+msgctxt "245||||4"
+msgid "I see..."
+msgstr ""
+
+msgctxt "246||||4"
+msgid "Sorry we don't have anything\r\nmore concrete for you."
+msgstr ""
+
+msgctxt "247||||4"
+msgid "No, even this clue is a huge step forward."
+msgstr ""
+
+msgctxt "248||||4"
+msgid "Kamurocho..."
+msgstr ""
+
+msgctxt "249||||4"
+msgid "Haruto, hang in there.\r\nIt won't be much longer now."
+msgstr ""
+

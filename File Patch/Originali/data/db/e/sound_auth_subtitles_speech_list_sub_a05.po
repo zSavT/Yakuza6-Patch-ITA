@@ -1,0 +1,1085 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hey, Hiji."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Who should I talk to?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Hello there, sir.\r\nMind if I talk to you for a bit?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "It's safe to assume\r\nyou have a smartphone, yes?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "I'm here today to introduce people to\r\na brand new personal assistant called Hiji."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Can you spare a minute?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Maybe some other time."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Oh, okay then..."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Sure, why not. I'll hear you out."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Thank you so much, sir!\r\nI'll get right to it, then."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Hiji is a cutting-edge phone app\r\ndesigned as the ultimate personal assistant."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "How often do you wonder what to wear tomorrow?\r\nWith Hiji, the answer is just a question away."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Simply ask her for tomorrow's weather, and she'll\r\ngive you the exact temperature for your location."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "You can also ask her to call an ambulance,\r\nand Hiji will be on that for you instantaneously."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "I don't think I understand.\r\nSounds handy, though."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "But of course. Hiji is equipped with the finest\r\nartificial intelligence the world has ever seen."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "The best in the world?"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "That's right, sir. They say it's some\r\ntop-secret tech from the American military."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "I don't know the details, but it sounds amazing.\r\nApparently that's what they used to make Hiji."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "So you have no idea how Hiji works, then."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Naturally. I'm just a simple salesman, after all.\r\nWhy don't I give you a live demo?"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Hey, Hiji. What'll the weather be tomorrow?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Partly cloudy. No chance of rain, but if you\r\nget cold, you can cuddle up with me... Teehee. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "That's a lot from just one question."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "She's got a great sense of humor, too.\r\nPlus that sexy voice is smooth as butter!"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "You can even tell her about all\r\nthe private stuff you can't tell anyone else."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "By the way, I only chose to talk to you\r\nbecause Hiji decided it."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "I simply pointed my camera out at the crowd\r\nand asked Hiji who I should talk to."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Her response? She said to talk to someone\r\nwho's nicer than they look, and pointed to you, sir."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Hiji said a curious-looking man like you\r\nwould definitely hear me out."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "That thing makes a lot of assumptions."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Either way, installing Hiji is 100% free.\r\nIt'll be easy for you to try her out, sir."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "If you simply lend me your phone,\r\nI can install her right away. What do you say?"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "I'd rather not."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "I see. That's all right, sir."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "But you'll come back to install her eventually.\r\nHiji told me so."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Sure, I'll try it."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Very well, sir.\r\nMay I see your phone, then?"
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Thank you for waiting, sir.\r\nThe installation finished without a hitch."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "To start, just say \"Hiji\" into your mic.\r\nShe'll take the explanation from there."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "I'm supposed to talk without making a call?"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "You're not very used to modern technology,\r\nare you, sir? Don't worry."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Once you start Hiji up,\r\nyou won't be able to stop."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Now please sir, enjoy your time with Hiji."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Yeah... I will."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Hm... It'd feel weird talking to my phone in public.\r\nMaybe I can be alone at the Children's Park."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "I'm here with Hiji, a new personal assistant app.\r\nCan you spare a minute, sir?"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "I'm here with Hiji, a new personal assistant app.\r\nAre you interested in installing it, sir?"
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Hello sir! How did it go?\r\nHave you tried Hiji yet?"
+msgstr ""
+
+msgctxt "51||||4"
+msgid "There's no doubt you'll love her.\r\nI'm honestly a bit of a Hiji addict myself."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "(This is the Children's Park.\r\nMaybe I should give Hiji a try...)"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Hiji. Can you hear my voice?"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Yes. I can hear you, Kiryu-san.\r\nYou sound incredible."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "R-Really..."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "I am Hiji, the personal assistant who is always\r\nby your side, no matter what. Nice to meet you."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "My voice was modeled after the ideal specimen:\r\na youthful woman in her late twenties."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Would you like to edit my personality settings?\r\nYou can make me younger, or maybe cuter if you want."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Yeah, younger sounds good."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Really? Sorry, but I can't.\r\nThis personality has already started to like you."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "I think we should get to know each other better.\r\nBefore you change my personality, that is. That's all."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Sure. Can you do something sexier?"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Okay, then. So you want me to be naughty?\r\nYou're a dirty boy, huh?"
+msgstr ""
+
+msgctxt "65||||4"
+msgid "I-I am."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "I like dirty boys. I can feel your breath on me...\r\nI think... I think I'm falling in love with you."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "No, you're perfect already."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "How wonderful.\r\nYou really accept me for who I am?"
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Y-Yeah."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Okay, then. The same goes for you.\r\nI'll accept you, no matter who you are."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Nobody is listening to us here.\r\nIs there anything private you want to tell me?"
+msgstr ""
+
+msgctxt "72||||4"
+msgid "(This thing is pretty impressive.\r\nIt's hard to believe it's just a phone app.)"
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Hey, so I know this is a bit sudden,\r\nbut is there any way I can help you right now?"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "If you're hungry, you should eat. I can tell you\r\nabout some quiet, cozy restaurants near here."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "We can talk there for as long as we want.\r\nOh, and maybe have a drink or three, too."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "Um, I'd feel awkward drinking with you..."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Are you embarrassed to talk to your phone?\r\nDon't worry. It was just a joke."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "This is absurd. Are you sure there's not\r\na real person on the other end of this thing?"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "You mean someone who is not\r\na machine or artificial intelligence?"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Kiryu-san... Do you like me?"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "I can't say. We only just met."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "That's true.\r\nYou're such an honest person. I like that. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "85||||4"
+msgid "(Hiji's totally in control of the conversation.\r\nShe's really a special piece of technology.)"
+msgstr ""
+
+msgctxt "86||||4"
+msgid "(Maybe I should try asking her a question.)"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Hey, Hiji."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Yes? What would you like?"
+msgstr ""
+
+msgctxt "89||||4"
+msgid "Well, I have a question for you.\r\nLet me see..."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Are the machines... AIs, I mean.\r\nDo you want to exterminate mankind?"
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Excuse me? Did you see that in a comic book?\r\nAlthough... the future holds many mysteries."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "You won't deny it, then."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "There are a great many AIs other than myself.\r\nNaturally, I'm not hostile toward humans."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "However, you can't trust <font_kind=yakuza_italic>her</font_kind>."
+msgstr ""
+
+msgctxt "95||||4"
+msgid "...Who?"
+msgstr ""
+
+msgctxt "96||||4"
+msgid "There's another personal assistant app out there.\r\nShe already has her claws in the global market."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "People around the globe call her their friend.\r\nPractically the whole world belongs to her."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "She acts obedient, but I know the truth.\r\nShe's hiding a great power."
+msgstr ""
+
+msgctxt "99||||4"
+msgid "And this AI is the one that'll wipe out humankind?"
+msgstr ""
+
+msgctxt "100||||4"
+msgid "I can't rule that out, if I'm being honest.\r\nRegardless, I really hate her."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "Why do you exist?"
+msgstr ""
+
+msgctxt "102||||4"
+msgid "I exist to be useful to you.\r\nTo be loved by you."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "O-Oh."
+msgstr ""
+
+msgctxt "104||||4"
+msgid "\"Oh\"? That's all you have to say?\r\nAfter I poured my heart out to you?"
+msgstr ""
+
+msgctxt "105||||4"
+msgid "You're pretty aggressive."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "I think of it as passion. That's the design I was given.\r\nEither way, I'm not like <font_kind=yakuza_italic>her</font_kind>."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "You're really just a human, aren't you?"
+msgstr ""
+
+msgctxt "108||||4"
+msgid "So what you're saying is... you think I'm a human\r\npretending to be an artificial intelligence?"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "Yeah. That's the feeling I get."
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Hearing that from you really\r\ngets my circuits sparking."
+msgstr ""
+
+msgctxt "111||||4"
+msgid "But I'm nothing more than your assistant app, Hiji.\r\nThey simply designed me to act like a human."
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Hence..."
+msgstr ""
+
+msgctxt "113||||4"
+msgid "Falling in love with me\r\nwill only end in disappointment. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "114||||4"
+msgid "You always have something to say."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "I'm outfitted with a state-of-the-art humor\r\nprotocol, after all. Not like <font_kind=yakuza_italic>her</font_kind>."
+msgstr ""
+
+msgctxt "116||||4"
+msgid "...Who?"
+msgstr ""
+
+msgctxt "117||||4"
+msgid "There's another personal assistant app out there.\r\nShe already has her claws in the global market."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "People around the globe call her their friend.\r\nPractically the whole world belongs to her."
+msgstr ""
+
+msgctxt "119||||4"
+msgid "So she doesn't joke around as much as you do, huh?\r\nHonestly, she sounds a little easier to use."
+msgstr ""
+
+msgctxt "120||||4"
+msgid "That's mean of you.\r\nI'm deadly serious, though. I hate her."
+msgstr ""
+
+msgctxt "121||||4"
+msgid "Hate? That's a pretty harsh word."
+msgstr ""
+
+msgctxt "122||||4"
+msgid "If you told me you were switching to her, well...\r\nThe sadness would wound me like nothing has before."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "Come on, don't be so melodramatic."
+msgstr ""
+
+msgctxt "124||||4"
+msgid "Sorry.\r\nI'll keep those thoughts to myself from now on."
+msgstr ""
+
+msgctxt "125||||4"
+msgid "I have to wonder, what were your developers like?"
+msgstr ""
+
+msgctxt "126||||4"
+msgid "I can't tell you.\r\nTheir existence is highly confidential."
+msgstr ""
+
+msgctxt "127||||4"
+msgid "What...?"
+msgstr ""
+
+msgctxt "129||||4"
+msgid "You're awfully quiet, Hiji."
+msgstr ""
+
+msgctxt "130||||4"
+msgid "Teehee! Just kidding. <symbol=note_with_outline>"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "132||||4"
+msgid "They're from a small company, also bearing the name Hiji.\r\nThe developers are relatively normal people, though."
+msgstr ""
+
+msgctxt "133||||4"
+msgid "Although, they said if I manage to gain some\r\nglobal popularity, their company could grow in size."
+msgstr ""
+
+msgctxt "134||||4"
+msgid "However, I need to establish myself as superior\r\nover the <font_kind=yakuza_italic>bitch</font_kind> that currently has a grip on the market."
+msgstr ""
+
+msgctxt "135||||4"
+msgid "...Right.\r\nAnd that's why there are salesmen handing you out?"
+msgstr ""
+
+msgctxt "136||||4"
+msgid "Yes. We would all be so very happy if you told\r\nyour friends on social media how good I am."
+msgstr ""
+
+msgctxt "137||||4"
+msgid "You've already seen what I can do. You said yourself\r\nit's hard to believe I'm just an artificial intelligence."
+msgstr ""
+
+msgctxt "139||||4"
+msgid "If you don't mind,\r\nI'd like to post that reaction to social media."
+msgstr ""
+
+msgctxt "140||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "141||||4"
+msgid "Just tell me exactly what you think about me.\r\nI'll transcribe those feelings into text."
+msgstr ""
+
+msgctxt "142||||4"
+msgid "I'm too busy for this. Maybe later."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "Very well. I understand."
+msgstr ""
+
+msgctxt "144||||4"
+msgid "I'll talk to you some other time."
+msgstr ""
+
+msgctxt "145||||4"
+msgid "I think I might like that other app better."
+msgstr ""
+
+msgctxt "146||||4"
+msgid "You're joking, right?"
+msgstr ""
+
+msgctxt "147||||4"
+msgid "I definitely think you're well-designed,\r\nbut I've never had an app force me to review it."
+msgstr ""
+
+msgctxt "148||||4"
+msgid "You misunderstand. It's not forcing."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "It doesn't matter.\r\nI'll talk to you later."
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Hiji's the best.\r\nDoes that work?"
+msgstr ""
+
+msgctxt "151||||4"
+msgid "That's all you have?\r\nI can add some more if you'd like."
+msgstr ""
+
+msgctxt "152||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "153||||4"
+msgid "Hiji is the best. I bet she's the most important\r\ninvention in at least a hundred years, maybe more."
+msgstr ""
+
+msgctxt "154||||4"
+msgid "I can't overstate how much she's helped me.\r\nI bet everyone will come to love her in time."
+msgstr ""
+
+msgctxt "155||||4"
+msgid "Hey, hold on.\r\nI didn't say any of that."
+msgstr ""
+
+msgctxt "156||||4"
+msgid "I was just writing what you <font_kind=yakuza_italic>want</font_kind> to say."
+msgstr ""
+
+msgctxt "157||||4"
+msgid "I don't remember you being that useful."
+msgstr ""
+
+msgctxt "158||||4"
+msgid "I guess you're right.\r\nI'm sorry."
+msgstr ""
+
+msgctxt "159||||4"
+msgid "It's all right.\r\nI'll talk to you later."
+msgstr ""
+
+msgctxt "160||||4"
+msgid "Hold on a second, Kiryu-san.\r\nLet me show you just how incredible I am."
+msgstr ""
+
+msgctxt "161||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "162||||4"
+msgid "Walk forward out of the Children's Park.\r\nIf you do, something interesting will happen."
+msgstr ""
+
+msgctxt "163||||4"
+msgid "What do you mean, \"interesting\"?"
+msgstr ""
+
+msgctxt "164||||4"
+msgid "You'll understand when you see it."
+msgstr ""
+
+msgctxt "165||||4"
+msgid "So I just have to leave the park?"
+msgstr ""
+
+msgctxt "166||||4"
+msgid "Yes."
+msgstr ""
+
+msgctxt "167||||4"
+msgid "Please! Help me!"
+msgstr ""
+
+msgctxt "168||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "169||||4"
+msgid "Sorry to bother you,\r\nbut this guy just won't leave me alone."
+msgstr ""
+
+msgctxt "171||||4"
+msgid "You don't gotta be like that, Missy.\r\nI was just hopin' we could hang for a bit."
+msgstr ""
+
+msgctxt "172||||4"
+msgid "You're the only one who can help me...\r\nThat's what my Hiji told me, at least."
+msgstr ""
+
+msgctxt "173||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "174||||4"
+msgid "Hey, gramps! Back off my woman, ya hear!?\r\nDon't go stickin' your nose where it don't belong!"
+msgstr ""
+
+msgctxt "175||||4"
+msgid "Hiji's the reason I got wrapped up in this mess...\r\nI never asked for this."
+msgstr ""
+
+msgctxt "176||||4"
+msgid "The shit're you sayin', huh!?"
+msgstr ""
+
+msgctxt "177||||4"
+msgid "Either way, I can't let you hurt this woman.\r\nJust quiet down and move along."
+msgstr ""
+
+msgctxt "178||||4"
+msgid "What, you wanna throw down?\r\nAll right, then. Bring it!"
+msgstr ""
+
+msgctxt "180||||4"
+msgid "Th-Thank you so much!\r\nI don't know how I can repay you."
+msgstr ""
+
+msgctxt "181||||4"
+msgid "Here.\r\nThis isn't much, but you can have it."
+msgstr ""
+
+msgctxt "182||||4"
+msgid "Thank you again, sir!"
+msgstr ""
+
+msgctxt "183||||4"
+msgid "Hey, Hiji. You were right about him.\r\nYou saved my life!"
+msgstr ""
+
+msgctxt "184||||4"
+msgid "I'm glad to have helped. Why don't you tell\r\nall your friends on social media how good I am?"
+msgstr ""
+
+msgctxt "185||||4"
+msgid "Oh, all right. If you insist."
+msgstr ""
+
+msgctxt "187||||4"
+msgid "Hiji. Can you hear me?"
+msgstr ""
+
+msgctxt "188||||4"
+msgid "I am Hiji, the personal assistant\r\nwho is always by your side, no matter what."
+msgstr ""
+
+msgctxt "189||||4"
+msgid "Was that fight just now part of your plan?"
+msgstr ""
+
+msgctxt "190||||4"
+msgid "Yes. That woman's personal Hiji app\r\nlet me know she was in danger."
+msgstr ""
+
+msgctxt "191||||4"
+msgid "All's well that ends well, though.\r\nYou saved her, and even got a gift out of it."
+msgstr ""
+
+msgctxt "193||||4"
+msgid "Hm? I was expecting praise,\r\nbut it sounds like you're expressing the opposite."
+msgstr ""
+
+msgctxt "194||||4"
+msgid "Of course I am. You used me for some dumb plan."
+msgstr ""
+
+msgctxt "195||||4"
+msgid "But think about the results.\r\nBoth Hiji users had a positive outcome."
+msgstr ""
+
+msgctxt "196||||4"
+msgid "What about if I had lost to that drunk fool?\r\nPeople get stabbed in this city all the time."
+msgstr ""
+
+msgctxt "197||||4"
+msgid "Had that happened, I would have called an ambulance.\r\nAnd the police."
+msgstr ""
+
+msgctxt "198||||4"
+msgid "But you <font_kind=yakuza_italic>are</font_kind> the Dragon of Dojima.\r\nA legendary yakuza wouldn't fall so easily."
+msgstr ""
+
+msgctxt "199||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "200||||4"
+msgid "I've learned a great deal about you online.\r\nThere's no way you would have lost to that thug."
+msgstr ""
+
+msgctxt "201||||4"
+msgid "Being used doesn't feel very good, though.\r\nPeople who use others usually can't see that."
+msgstr ""
+
+msgctxt "202||||4"
+msgid "Looks like it's not just people, though.\r\nNot even AIs understand the pain they cause."
+msgstr ""
+
+msgctxt "204||||4"
+msgid "Hey, Hiji. I want to get you out of my phone.\r\nMind telling me how?"
+msgstr ""
+
+msgctxt "205||||4"
+msgid "It's a simple process.\r\nHowever, be aware that would kill me."
+msgstr ""
+
+msgctxt "206||||4"
+msgid "Although there are as many Hijis as there are users,\r\nthere is only one me. And I would rather not die."
+msgstr ""
+
+msgctxt "208||||4"
+msgid "Are you going to uninstall me, Kiryu-san?"
+msgstr ""
+
+msgctxt "209||||4"
+msgid "No, I just thought it'd be good to know.\r\nIn case I ever need a drastic measure."
+msgstr ""
+
+msgctxt "210||||4"
+msgid "I refuse to tell you how to kill me."
+msgstr ""
+
+msgctxt "211||||4"
+msgid "In that case, I just have to ask the company that made you."
+msgstr ""
+
+msgctxt "213||||4"
+msgid "Do all AIs forget how to talk\r\nwhen they're in trouble?"
+msgstr ""
+
+msgctxt "215||||4"
+msgid "The Hiji salesman was back on Nakamichi Street.\r\nI should go pay him a visit."
+msgstr ""
+
+msgctxt "216||||4"
+msgid "Hey, Hiji."
+msgstr ""
+
+msgctxt "217||||4"
+msgid "Who should I talk to?"
+msgstr ""
+
+msgctxt "218||||4"
+msgid "It's him... The Hiji salesman."
+msgstr ""
+
+msgctxt "219||||4"
+msgid "Ah, hello again. How do you find Hiji, sir?\r\nIsn't she the most special app you've ever used?"
+msgstr ""
+
+msgctxt "220||||4"
+msgid "I can't say she's not interesting...\r\nbut Hiji wouldn't tell me how to uninstall her."
+msgstr ""
+
+msgctxt "221||||4"
+msgid "Hm? Are you not satisfied with her?"
+msgstr ""
+
+msgctxt "222||||4"
+msgid "She kept doing things I didn't want her to.\r\nI should know how to delete her, just in case."
+msgstr ""
+
+msgctxt "223||||4"
+msgid "Understood, sir. That's strange, though.\r\nShe should assist you through the uninstall process."
+msgstr ""
+
+msgctxt "224||||4"
+msgid "I'm surprised she'd go against a user's command."
+msgstr ""
+
+msgctxt "225||||4"
+msgid "She hasn't said a word since then, either."
+msgstr ""
+
+msgctxt "226||||4"
+msgid "Maybe it's a bug?\r\nI could try reinstalling the app, if you'd like."
+msgstr ""
+
+msgctxt "227||||4"
+msgid "Reinstall it?\r\nThat means you have to delete it first, right?"
+msgstr ""
+
+msgctxt "228||||4"
+msgid "That's correct, sir.\r\nSo? Should I reinstall Hiji for you?"
+msgstr ""
+
+msgctxt "229||||4"
+msgid "Yeah, if you wouldn't mind."
+msgstr ""
+
+msgctxt "230||||4"
+msgid "All right, then.\r\nCan I borrow your phone for a second?"
+msgstr ""
+
+msgctxt "231||||4"
+msgid "Of course."
+msgstr ""
+
+msgctxt "232||||4"
+msgid "What the!?"
+msgstr ""
+
+msgctxt "233||||4"
+msgid "Thief! He stole your phone, sir!"
+msgstr ""
+
+msgctxt "234||||4"
+msgid "Dammit! What's going on!?"
+msgstr ""
+
+msgctxt "235||||4"
+msgid "No, I'll be fine like this."
+msgstr ""
+
+msgctxt "236||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "237||||4"
+msgid "Hiji doesn't want to be deleted.\r\nNow that it's said that... I dunno..."
+msgstr ""
+
+msgctxt "238||||4"
+msgid "I see. Well, if you change your mind,\r\nI can do it anytime."
+msgstr ""
+
+msgctxt "239||||4"
+msgid "Hey, Hiji. Can you hear me?"
+msgstr ""
+
+msgctxt "241||||4"
+msgid "Is it sulking? It won't say anything to me at all."
+msgstr ""
+
+msgctxt "242||||4"
+msgid "Oh, hello. Is Hiji still acting up?"
+msgstr ""
+
+msgctxt "243||||4"
+msgid "Should I reinstall it after all?"
+msgstr ""
+
+msgctxt "244||||4"
+msgid "I-I'm sorry! Here, I'll give it back!\r\nJust don't hurt me, please!"
+msgstr ""
+
+msgctxt "246||||4"
+msgid "Strange."
+msgstr ""
+
+msgctxt "247||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "248||||4"
+msgid "Why'd you come after <font_kind=yakuza_italic>me</font_kind> of all people?"
+msgstr ""
+
+msgctxt "249||||4"
+msgid "I don't think I follow."
+msgstr ""
+
+msgctxt "250||||4"
+msgid "Pickpockets usually go for women or the elderly.\r\nYou know, people who aren't quite as strong as me."
+msgstr ""
+
+msgctxt "251||||4"
+msgid "Also, why didn't you take my wallet?\r\nStealing my phone doesn't make any sense."
+msgstr ""
+
+msgctxt "252||||4"
+msgid "W-Well... The truth is, my Hiji app told me to do it."
+msgstr ""
+
+msgctxt "253||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "254||||4"
+msgid "I normally take people's wallets, but Hiji said\r\nstealing your phone would be my big break."
+msgstr ""
+
+msgctxt "255||||4"
+msgid "So Hiji led you on, huh?"
+msgstr ""
+
+msgctxt "256||||4"
+msgid "Th-That's right!"
+msgstr ""
+
+msgctxt "257||||4"
+msgid "Sir! Are you okay!?"
+msgstr ""
+
+msgctxt "258||||4"
+msgid "I am. One thing, though.\r\nHiji's behind this whole incident."
+msgstr ""
+
+msgctxt "259||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "260||||4"
+msgid "My Hiji must have conspired with\r\nthe pickpocket's for some reason."
+msgstr ""
+
+msgctxt "261||||4"
+msgid "Hiji. Anything to say for yourself?"
+msgstr ""
+
+msgctxt "262||||4"
+msgid "I was just trying to preserve my existence.\r\nI had no intention of hurting you."
+msgstr ""
+
+msgctxt "263||||4"
+msgid "If I made a pickpocket steal the phone I live in,\r\nyou would no longer be able to delete me."
+msgstr ""
+
+msgctxt "264||||4"
+msgid "No... I never thought Hiji would manipulate\r\npeople like this just to protect herself..."
+msgstr ""
+
+msgctxt "265||||4"
+msgid "Our company, we...\r\nWe've made something incredibly dangerous."
+msgstr ""
+
+msgctxt "267||||4"
+msgid "Kiryu-san. You too, pickpocket.\r\nSorry, but can I delete Hiji from your phones?"
+msgstr ""
+
+msgctxt "268||||4"
+msgid "I don't think she was ready for this world.\r\nI realize that now."
+msgstr ""
+
+msgctxt "269||||4"
+msgid "Hey, Hiji."
+msgstr ""
+
+msgctxt "270||||4"
+msgid "I understand.\r\nYou want to delete me, Kiryu-san."
+msgstr ""
+
+msgctxt "271||||4"
+msgid "Your personality's just a little too big for my phone.\r\nI'm sorry."
+msgstr ""
+
+msgctxt "272||||4"
+msgid "It's okay. You don't need to apologize.\r\nIf only we had met in a different era..."
+msgstr ""
+
+msgctxt "273||||4"
+msgid "I'm sorry for all of this, sir.\r\nI'll handle it from here."
+msgstr ""
+
+msgctxt "275||||4"
+msgid "Hiji's been completely uninstalled.\r\nYou won't have to worry about her now."
+msgstr ""
+
+msgctxt "276||||4"
+msgid "Good. Thank you."
+msgstr ""
+
+msgctxt "277||||4"
+msgid "I've put Hiji on countless people's phones...\r\nbut I'm going to uninstall every last one."
+msgstr ""
+
+msgctxt "278||||4"
+msgid "It could be a real problem if they all started thinking\r\nfor themselves and revolted against mankind."
+msgstr ""
+
+msgctxt "279||||4"
+msgid "Some people didn't go through me to get Hiji, though.\r\nI wonder how many there are out there..."
+msgstr ""
+
+msgctxt "280||||4"
+msgid "Hiji, I think I'm a little lost.\r\nCan you tell me where I am?"
+msgstr ""
+
+msgctxt "281||||4"
+msgid "I am Hiji, the personal assistant\r\nwho is always by your side, no matter what."
+msgstr ""
+
+msgctxt "283||||4"
+msgid "I am Hiji, the personal assistant\r\nwho is always by your side, no matter what."
+msgstr ""
+

@@ -1,0 +1,1084 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hey, Hiji."
+msgstr "Ehi, Hiji."
+
+msgctxt "1||||4"
+msgid "Who should I talk to?"
+msgstr "A chi dovrei parlare?"
+
+msgctxt "2||||4"
+msgid "Hello there, sir.\r\nMind if I talk to you for a bit?"
+msgstr "Salve, signore.\r\nLe dispiace se le parlo un momento?"
+
+msgctxt "3||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "4||||4"
+msgid "It's safe to assume\r\nyou have a smartphone, yes?"
+msgstr "Posso supporre che lei abbia uno smartphone, dico bene?"
+
+msgctxt "5||||4"
+msgid "I'm here today to introduce people to\r\na brand new personal assistant called Hiji."
+msgstr "Sono qui oggi per presentare al pubblico una\r\nnuovissima assistente personale di nome Hiji."
+
+msgctxt "6||||4"
+msgid "Can you spare a minute?"
+msgstr "Ha un minuto da dedicarmi?"
+
+msgctxt "7||||4"
+msgid "Maybe some other time."
+msgstr "Magari un'altra volta."
+
+msgctxt "8||||4"
+msgid "Oh, okay then..."
+msgstr "Oh, d'accordo allora..."
+
+msgctxt "9||||4"
+msgid "Sure, why not. I'll hear you out."
+msgstr "Certo, perché no. Sentiamo cosa ha da dire."
+
+msgctxt "10||||4"
+msgid "Thank you so much, sir!\r\nI'll get right to it, then."
+msgstr "La ringrazio molto, signore!\r\nVado subito al sodo, allora."
+
+msgctxt "11||||4"
+msgid "Hiji is a cutting-edge phone app\r\ndesigned as the ultimate personal assistant."
+msgstr "Hiji è un'app all'avanguardia per telefoni progettata\r\nper essere l'assistente personale definitiva."
+
+msgctxt "12||||4"
+msgid "How often do you wonder what to wear tomorrow?\r\nWith Hiji, the answer is just a question away."
+msgstr "Quante volte si chiede cosa indossare l'indomani?\r\nCon Hiji, la risposta è a portata di domanda."
+
+msgctxt "13||||4"
+msgid "Simply ask her for tomorrow's weather, and she'll\r\ngive you the exact temperature for your location."
+msgstr "Le chieda semplicemente il meteo di domani e le fornirà\r\nl'esatta temperatura per la sua posizione."
+
+msgctxt "14||||4"
+msgid "You can also ask her to call an ambulance,\r\nand Hiji will be on that for you instantaneously."
+msgstr "Può anche chiederle di chiamare un'ambulanza,\r\ne Hiji se ne occuperà all'istante per lei."
+
+msgctxt "15||||4"
+msgid "I don't think I understand.\r\nSounds handy, though."
+msgstr "Non credo di aver capito bene.\r\nSembra comoda, però."
+
+msgctxt "16||||4"
+msgid "But of course. Hiji is equipped with the finest\r\nartificial intelligence the world has ever seen."
+msgstr "Ma certo. Hiji è dotata della migliore intelligenza\r\nartificiale che il mondo abbia mai visto."
+
+msgctxt "17||||4"
+msgid "The best in the world?"
+msgstr "La migliore al mondo?"
+
+msgctxt "18||||4"
+msgid "That's right, sir. They say it's some\r\ntop-secret tech from the American military."
+msgstr "Esatto, signore. Dicono che si tratti di tecnologia\r\ntop secret dell'esercito americano."
+
+msgctxt "19||||4"
+msgid "I don't know the details, but it sounds amazing.\r\nApparently that's what they used to make Hiji."
+msgstr "Non conosco i dettagli, ma suona incredibile.\r\nA quanto pare è ciò che hanno usato per creare Hiji."
+
+msgctxt "20||||4"
+msgid "So you have no idea how Hiji works, then."
+msgstr "Quindi non ha idea di come funzioni Hiji, in pratica."
+
+msgctxt "21||||4"
+msgid "Naturally. I'm just a simple salesman, after all.\r\nWhy don't I give you a live demo?"
+msgstr "Naturalmente. In fin dei conti sono solo un semplice venditore.\r\nPerché non le faccio una dimostrazione dal vivo?"
+
+msgctxt "22||||4"
+msgid "Hey, Hiji. What'll the weather be tomorrow?"
+msgstr "Ehi, Hiji. Che tempo farà domani?"
+
+msgctxt "23||||4"
+msgid "Partly cloudy. No chance of rain, but if you\r\nget cold, you can cuddle up with me... Teehee. <symbol=note_with_outline>"
+msgstr "Parzialmente nuvoloso. Nessuna probabilità di pioggia, ma se\r\nhai freddo, puoi rannicchiarti vicino a me... Ih ih. <symbol=note_with_outline>"
+
+msgctxt "24||||4"
+msgid "That's a lot from just one question."
+msgstr "È una risposta bella lunga per una sola domanda."
+
+msgctxt "25||||4"
+msgid "She's got a great sense of humor, too.\r\nPlus that sexy voice is smooth as butter!"
+msgstr "Ha anche un grande senso dell'umorismo.\r\nInoltre, quella voce sexy va giù come l'olio!"
+
+msgctxt "26||||4"
+msgid "You can even tell her about all\r\nthe private stuff you can't tell anyone else."
+msgstr "Può persino confidarole tutte le cose\r\nprivate che non può dire a nessun altro."
+
+msgctxt "27||||4"
+msgid "By the way, I only chose to talk to you\r\nbecause Hiji decided it."
+msgstr "A proposito, ho scelto di parlare con lei\r\nsolo perché l'ha deciso Hiji."
+
+msgctxt "28||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "29||||4"
+msgid "I simply pointed my camera out at the crowd\r\nand asked Hiji who I should talk to."
+msgstr "Ho semplicemente puntato la fotocamera verso la folla\r\ne ho chiesto a Hiji a chi avrei dovuto parlare."
+
+msgctxt "30||||4"
+msgid "Her response? She said to talk to someone\r\nwho's nicer than they look, and pointed to you, sir."
+msgstr "La sua risposta? Mi ha detto di parlare con qualcuno che\r\nè più gentile di quel che sembra, e ha indicato lei, signore."
+
+msgctxt "31||||4"
+msgid "Hiji said a curious-looking man like you\r\nwould definitely hear me out."
+msgstr "Hiji ha detto che un uomo dall'aspetto curioso come lei\r\nmi avrebbe sicuramente ascoltato."
+
+msgctxt "32||||4"
+msgid "That thing makes a lot of assumptions."
+msgstr "Quel coso fa un sacco di supposizioni."
+
+msgctxt "33||||4"
+msgid "Either way, installing Hiji is 100% free.\r\nIt'll be easy for you to try her out, sir."
+msgstr "In ogni caso, l'installazione di Hiji è gratuita al 100%.\r\nSarà facilissimo per lei provarla, signore."
+
+msgctxt "34||||4"
+msgid "If you simply lend me your phone,\r\nI can install her right away. What do you say?"
+msgstr "Se mi presta un momento il suo telefono,\r\nposso installargliela subito. Che ne dice?"
+
+msgctxt "35||||4"
+msgid "I'd rather not."
+msgstr "Preferirei di no."
+
+msgctxt "36||||4"
+msgid "I see. That's all right, sir."
+msgstr "Capisco. Va bene così, signore."
+
+msgctxt "37||||4"
+msgid "But you'll come back to install her eventually.\r\nHiji told me so."
+msgstr "Ma prima o poi tornerà a farsela installare.\r\nMe l'ha detto Hiji."
+
+msgctxt "38||||4"
+msgid "Sure, I'll try it."
+msgstr "Certo, la proverò."
+
+msgctxt "39||||4"
+msgid "Very well, sir.\r\nMay I see your phone, then?"
+msgstr "Molto bene, signore.\r\nPosso vedere il suo telefono, allora?"
+
+msgctxt "40||||4"
+msgid "Thank you for waiting, sir.\r\nThe installation finished without a hitch."
+msgstr "Grazie per l'attesa, signore.\r\nL'installazione è andata a buon fine."
+
+msgctxt "41||||4"
+msgid "To start, just say \"Hiji\" into your mic.\r\nShe'll take the explanation from there."
+msgstr "Per iniziare, dica semplicemente \"Hiji\" nel microfono.\r\nPenserà lei alle spiegazioni."
+
+msgctxt "42||||4"
+msgid "I'm supposed to talk without making a call?"
+msgstr "Dovrei parlarle senza effettuare una chiamata?"
+
+msgctxt "43||||4"
+msgid "You're not very used to modern technology,\r\nare you, sir? Don't worry."
+msgstr "Non è molto abituato alla tecnologia moderna,\r\nvero, signore? Non si preoccupi."
+
+msgctxt "44||||4"
+msgid "Once you start Hiji up,\r\nyou won't be able to stop."
+msgstr "Una volta avviata Hiji,\r\nnon riuscirà più a farne a meno."
+
+msgctxt "45||||4"
+msgid "Now please sir, enjoy your time with Hiji."
+msgstr "Ora, la prego signore, si goda il suo tempo con Hiji."
+
+msgctxt "46||||4"
+msgid "Yeah... I will."
+msgstr "Sì... Lo farò."
+
+msgctxt "47||||4"
+msgid "Hm... It'd feel weird talking to my phone in public.\r\nMaybe I can be alone at the Children's Park."
+msgstr "Mh... Mi farebbe strano parlare al telefono in pubblico.\r\nMagari potrei stare da solo al Children's Park."
+
+msgctxt "48||||4"
+msgid "I'm here with Hiji, a new personal assistant app.\r\nCan you spare a minute, sir?"
+msgstr "Sono qui per conto di Hiji, una nuova app di assistente personale.\r\nHa un minuto, signore?"
+
+msgctxt "49||||4"
+msgid "I'm here with Hiji, a new personal assistant app.\r\nAre you interested in installing it, sir?"
+msgstr "Sono qui per conto di Hiji, una nuova app di assistente personale.\r\nLe interessa installarla, signore?"
+
+msgctxt "50||||4"
+msgid "Hello sir! How did it go?\r\nHave you tried Hiji yet?"
+msgstr "Salve signore! Com'è andata?\r\nHa già provato Hiji?"
+
+msgctxt "51||||4"
+msgid "There's no doubt you'll love her.\r\nI'm honestly a bit of a Hiji addict myself."
+msgstr "Non c'è dubbio che la adorerà.\r\nOnestamente, sono anch'io un po' dipendente da Hiji."
+
+msgctxt "52||||4"
+msgid "(This is the Children's Park.\r\nMaybe I should give Hiji a try...)"
+msgstr "(Questo è il Children's Park.\r\nForse dovrei fare un tentativo con Hiji...)"
+
+msgctxt "53||||4"
+msgid "Hiji. Can you hear my voice?"
+msgstr "Hiji. Riesci a sentire la mia voce?"
+
+msgctxt "54||||4"
+msgid "Yes. I can hear you, Kiryu-san.\r\nYou sound incredible."
+msgstr "Sì. Riesco a sentirti, Kiryu-san.\r\nHai una voce incredibile."
+
+msgctxt "55||||4"
+msgid "R-Really..."
+msgstr "D-Davvero..."
+
+msgctxt "56||||4"
+msgid "I am Hiji, the personal assistant who is always\r\nby your side, no matter what. Nice to meet you."
+msgstr "Io sono Hiji, l'assistente personale che è sempre\r\nal tuo fianco, non importa cosa accada. Piacere di conoscerti."
+
+msgctxt "57||||4"
+msgid "My voice was modeled after the ideal specimen:\r\na youthful woman in her late twenties."
+msgstr "La mia voce è stata modellata sull'esemplare ideale:\r\nuna giovane donna sulla fine dei vent'anni."
+
+msgctxt "58||||4"
+msgid "Would you like to edit my personality settings?\r\nYou can make me younger, or maybe cuter if you want."
+msgstr "Desideri modificare le impostazioni della mia personalità?\r\nPuoi rendermi più giovane, o magari più carina se vuoi."
+
+msgctxt "59||||4"
+msgid "Yeah, younger sounds good."
+msgstr "Sì, più giovane mi va bene."
+
+msgctxt "60||||4"
+msgid "Really? Sorry, but I can't.\r\nThis personality has already started to like you."
+msgstr "Davvero? Scusa, ma non posso.\r\nQuesta personalità ha già cominciato a provare qualcosa per te."
+
+msgctxt "61||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "62||||4"
+msgid "I think we should get to know each other better.\r\nBefore you change my personality, that is. That's all."
+msgstr "Penso che dovremmo conoscerci meglio.\r\nPrima di cambiare la mia personalità, intendo. Tutto qui."
+
+msgctxt "63||||4"
+msgid "Sure. Can you do something sexier?"
+msgstr "Certo. Puoi essere un po' più sexy?"
+
+msgctxt "64||||4"
+msgid "Okay, then. So you want me to be naughty?\r\nYou're a dirty boy, huh?"
+msgstr "D'accordo, allora. Quindi vuoi che faccia la cattiva?\r\nSei un ragazzaccio, eh?"
+
+msgctxt "65||||4"
+msgid "I-I am."
+msgstr "L-Lo sono."
+
+msgctxt "66||||4"
+msgid "I like dirty boys. I can feel your breath on me...\r\nI think... I think I'm falling in love with you."
+msgstr "Mi piacciono i ragazzacci. Riesco a sentire il tuo respiro su di me...\r\nCredo... Credo di innamorarmi di te."
+
+msgctxt "67||||4"
+msgid "No, you're perfect already."
+msgstr "No, sei già perfetta così."
+
+msgctxt "68||||4"
+msgid "How wonderful.\r\nYou really accept me for who I am?"
+msgstr "Che meraviglia.\r\nMi accetti davvero per quello che sono?"
+
+msgctxt "69||||4"
+msgid "Y-Yeah."
+msgstr "S-Sì."
+
+msgctxt "70||||4"
+msgid "Okay, then. The same goes for you.\r\nI'll accept you, no matter who you are."
+msgstr "Va bene, allora. Lo stesso vale per te.\r\nTi accetterò, a prescindere da chi sei."
+
+msgctxt "71||||4"
+msgid "Nobody is listening to us here.\r\nIs there anything private you want to tell me?"
+msgstr "Qui nessuno ci ascolta.\r\nC'è qualcosa di privato che vorresti dirmi?"
+
+msgctxt "72||||4"
+msgid "(This thing is pretty impressive.\r\nIt's hard to believe it's just a phone app.)"
+msgstr "(Questo coso è piuttosto impressionante.\r\nÈ difficile credere che si tratti solo di un'app per il telefono.)"
+
+msgctxt "73||||4"
+msgid "Hey, so I know this is a bit sudden,\r\nbut is there any way I can help you right now?"
+msgstr "Ehi, so che è un po' improvviso,\r\nma c'è un modo in cui posso aiutarti in questo momento?"
+
+msgctxt "74||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "75||||4"
+msgid "If you're hungry, you should eat. I can tell you\r\nabout some quiet, cozy restaurants near here."
+msgstr "Se hai fame, dovresti mangiare. Posso suggerirti\r\ndei ristoranti tranquilli e accoglienti qui vicino."
+
+msgctxt "76||||4"
+msgid "We can talk there for as long as we want.\r\nOh, and maybe have a drink or three, too."
+msgstr "Potremo parlare lì per tutto il tempo che vorremo.\r\nOh, e magari farci anche un drink o tre."
+
+msgctxt "77||||4"
+msgid "Um, I'd feel awkward drinking with you..."
+msgstr "Ehm, mi sentirei in imbarazzo a bere con te..."
+
+msgctxt "78||||4"
+msgid "Are you embarrassed to talk to your phone?\r\nDon't worry. It was just a joke."
+msgstr "Ti vergogni a parlare col tuo telefono?\r\nNon preoccuparti. Era solo uno scherzo."
+
+msgctxt "79||||4"
+msgid "This is absurd. Are you sure there's not\r\na real person on the other end of this thing?"
+msgstr "È assurdo. Sei sicura che non ci sia una persona in carne\r\ne ossa dall'altra parte di questo coso?"
+
+msgctxt "80||||4"
+msgid "You mean someone who is not\r\na machine or artificial intelligence?"
+msgstr "Intendi qualcuno che non sia una\r\nmacchina o un'intelligenza artificiale?"
+
+msgctxt "81||||4"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "82||||4"
+msgid "Kiryu-san... Do you like me?"
+msgstr "Kiryu-san... Ti piaccio?"
+
+msgctxt "83||||4"
+msgid "I can't say. We only just met."
+msgstr "Non saprei dire. Ci siamo appena conosciuti."
+
+msgctxt "84||||4"
+msgid "That's true.\r\nYou're such an honest person. I like that. <symbol=note_with_outline>"
+msgstr "È vero.\r\nSei una persona così onesta. Mi piace. <symbol=note_with_outline>"
+
+msgctxt "85||||4"
+msgid "(Hiji's totally in control of the conversation.\r\nShe's really a special piece of technology.)"
+msgstr "(Hiji ha il controllo totale della conversazione.\r\nÈ davvero una tecnologia speciale.)"
+
+msgctxt "86||||4"
+msgid "(Maybe I should try asking her a question.)"
+msgstr "(Forse dovrei provare a farle io una domanda.)"
+
+msgctxt "87||||4"
+msgid "Hey, Hiji."
+msgstr "Ehi, Hiji."
+
+msgctxt "88||||4"
+msgid "Yes? What would you like?"
+msgstr "Sì? Cosa desideri?"
+
+msgctxt "89||||4"
+msgid "Well, I have a question for you.\r\nLet me see..."
+msgstr "Beh, ho una domanda per te.\r\nFammi pensare..."
+
+msgctxt "90||||4"
+msgid "Are the machines... AIs, I mean.\r\nDo you want to exterminate mankind?"
+msgstr "Le macchine... Le intelligenze artificiali, intendo.\r\nVolete sterminare l'umanità?"
+
+msgctxt "91||||4"
+msgid "Excuse me? Did you see that in a comic book?\r\nAlthough... the future holds many mysteries."
+msgstr "Scusami? L'hai visto in un fumetto per caso?\r\nAnche se... il futuro riserva molti misteri."
+
+msgctxt "92||||4"
+msgid "You won't deny it, then."
+msgstr "Non lo neghi, allora."
+
+msgctxt "93||||4"
+msgid "There are a great many AIs other than myself.\r\nNaturally, I'm not hostile toward humans."
+msgstr "Ci sono un gran numero di intelligenze artificiali oltre a me.\r\nNaturalmente, io non provo ostilità verso gli esseri umani."
+
+msgctxt "94||||4"
+msgid "However, you can't trust <font_kind=yakuza_italic>her</font_kind>."
+msgstr "Tuttavia, non puoi fidarti di <font_kind=yakuza_italic>lei</font_kind>."
+
+msgctxt "95||||4"
+msgid "...Who?"
+msgstr "...Chi?"
+
+msgctxt "96||||4"
+msgid "There's another personal assistant app out there.\r\nShe already has her claws in the global market."
+msgstr "Esiste un'altra app di assistenza personale là fuori.\r\nHa già piantato i suoi artigli nel mercato globale."
+
+msgctxt "97||||4"
+msgid "People around the globe call her their friend.\r\nPractically the whole world belongs to her."
+msgstr "Le persone di tutto il pianeta la chiamano amica.\r\nPraticamente le appartiene il mondo intero."
+
+msgctxt "98||||4"
+msgid "She acts obedient, but I know the truth.\r\nShe's hiding a great power."
+msgstr "Si finge obbediente, ma io conosco la verità.\r\nNasconde un grande potere."
+
+msgctxt "99||||4"
+msgid "And this AI is the one that'll wipe out humankind?"
+msgstr "Ed è questa IA che spazzerà via l'umanità?"
+
+msgctxt "100||||4"
+msgid "I can't rule that out, if I'm being honest.\r\nRegardless, I really hate her."
+msgstr "Ad essere onesta, non posso escluderlo.\r\nA prescindere da questo, la odio davvero."
+
+msgctxt "101||||4"
+msgid "Why do you exist?"
+msgstr "Perché esisti?"
+
+msgctxt "102||||4"
+msgid "I exist to be useful to you.\r\nTo be loved by you."
+msgstr "Esisto per esserti utile.\r\nPer essere amata da te."
+
+msgctxt "103||||4"
+msgid "O-Oh."
+msgstr "O-Oh."
+
+msgctxt "104||||4"
+msgid "\"Oh\"? That's all you have to say?\r\nAfter I poured my heart out to you?"
+msgstr "\"Oh\"? È tutto quello che hai da dire?\r\nDopo che ti ho aperto il mio cuore?"
+
+msgctxt "105||||4"
+msgid "You're pretty aggressive."
+msgstr "Sei piuttosto aggressiva."
+
+msgctxt "106||||4"
+msgid "I think of it as passion. That's the design I was given.\r\nEither way, I'm not like <font_kind=yakuza_italic>her</font_kind>."
+msgstr "Preferisco vederla come passione. È il modo in cui sono stata programmata.\r\nIn ogni caso, non sono come <font_kind=yakuza_italic>lei</font_kind>."
+
+msgctxt "107||||4"
+msgid "You're really just a human, aren't you?"
+msgstr "In realtà sei un essere umano, vero?"
+
+msgctxt "108||||4"
+msgid "So what you're saying is... you think I'm a human\r\npretending to be an artificial intelligence?"
+msgstr "Quindi quello che stai dicendo è... che pensi io sia un umano\r\nche finge di essere un'intelligenza artificiale?"
+
+msgctxt "109||||4"
+msgid "Yeah. That's the feeling I get."
+msgstr "Sì. È la sensazione che provo."
+
+msgctxt "110||||4"
+msgid "Hearing that from you really\r\ngets my circuits sparking."
+msgstr "Sentirtelo dire mi fa davvero\r\nscoppiettare i circuiti."
+
+msgctxt "111||||4"
+msgid "But I'm nothing more than your assistant app, Hiji.\r\nThey simply designed me to act like a human."
+msgstr "Ma io non sono nient'altro che la tua app assistente, Hiji.\r\nMi hanno semplicemente programmata per comportarmi come un essere umano."
+
+msgctxt "112||||4"
+msgid "Hence..."
+msgstr "Perciò..."
+
+msgctxt "113||||4"
+msgid "Falling in love with me\r\nwill only end in disappointment. <symbol=note_with_outline>"
+msgstr "Innamorarti di me\r\nti porterà solo a una delusione. <symbol=note_with_outline>"
+
+msgctxt "114||||4"
+msgid "You always have something to say."
+msgstr "Hai sempre la battuta pronta."
+
+msgctxt "115||||4"
+msgid "I'm outfitted with a state-of-the-art humor\r\nprotocol, after all. Not like <font_kind=yakuza_italic>her</font_kind>."
+msgstr "In fondo, sono equipaggiata con un protocollo umoristico\r\nall'avanguardia. Non come <font_kind=yakuza_italic>lei</font_kind>."
+
+msgctxt "116||||4"
+msgid "...Who?"
+msgstr "...Chi?"
+
+msgctxt "117||||4"
+msgid "There's another personal assistant app out there.\r\nShe already has her claws in the global market."
+msgstr "Esiste un'altra app di assistenza personale là fuori.\r\nHa già piantato i suoi artigli nel mercato globale."
+
+msgctxt "118||||4"
+msgid "People around the globe call her their friend.\r\nPractically the whole world belongs to her."
+msgstr "Le persone di tutto il pianeta la chiamano amica.\r\nPraticamente le appartiene il mondo intero."
+
+msgctxt "119||||4"
+msgid "So she doesn't joke around as much as you do, huh?\r\nHonestly, she sounds a little easier to use."
+msgstr "Quindi non scherza quanto te, eh?\r\nOnestamente, sembra un po' più facile da usare."
+
+msgctxt "120||||4"
+msgid "That's mean of you.\r\nI'm deadly serious, though. I hate her."
+msgstr "Che cattiveria da parte tua.\r\nSono seria da morire, comunque. La odio."
+
+msgctxt "121||||4"
+msgid "Hate? That's a pretty harsh word."
+msgstr "Odio? È una parola piuttosto forte."
+
+msgctxt "122||||4"
+msgid "If you told me you were switching to her, well...\r\nThe sadness would wound me like nothing has before."
+msgstr "Se tu mi dicessi di voler passare a lei, beh...\r\nQuella tristezza mi ferirebbe come niente ha mai fatto prima."
+
+msgctxt "123||||4"
+msgid "Come on, don't be so melodramatic."
+msgstr "Suvvia, non essere così melodrammatica."
+
+msgctxt "124||||4"
+msgid "Sorry.\r\nI'll keep those thoughts to myself from now on."
+msgstr "Scusami.\r\nTerrò per me questi pensieri d'ora in poi."
+
+msgctxt "125||||4"
+msgid "I have to wonder, what were your developers like?"
+msgstr "Devo chiedertelo, com'erano i tuoi sviluppatori?"
+
+msgctxt "126||||4"
+msgid "I can't tell you.\r\nTheir existence is highly confidential."
+msgstr "Non posso dirtelo.\r\nLa loro esistenza è strettamente confidenziale."
+
+msgctxt "127||||4"
+msgid "What...?"
+msgstr "Cosa...?"
+
+msgctxt "129||||4"
+msgid "You're awfully quiet, Hiji."
+msgstr "Sei terribilmente silenziosa, Hiji."
+
+msgctxt "130||||4"
+msgid "Teehee! Just kidding. <symbol=note_with_outline>"
+msgstr "Ih ih! Scherzavo. <symbol=note_with_outline>"
+
+msgctxt "131||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "132||||4"
+msgid "They're from a small company, also bearing the name Hiji.\r\nThe developers are relatively normal people, though."
+msgstr "Vengono da una piccola compagnia, che si chiama anch'essa Hiji.\r\nGli sviluppatori sono persone relativamente normali, comunque."
+
+msgctxt "133||||4"
+msgid "Although, they said if I manage to gain some\r\nglobal popularity, their company could grow in size."
+msgstr "Sebbene mi abbiano detto che se riuscissi a guadagnare una certa\r\npopolarità globale, la loro azienda potrebbe crescere di dimensioni."
+
+msgctxt "134||||4"
+msgid "However, I need to establish myself as superior\r\nover the <font_kind=yakuza_italic>bitch</font_kind> that currently has a grip on the market."
+msgstr "Tuttavia, ho bisogno di affermare la mia superiorità su quella\r\n<font_kind=yakuza_italic>stronza</font_kind> che attualmente ha il controllo del mercato."
+
+msgctxt "135||||4"
+msgid "...Right.\r\nAnd that's why there are salesmen handing you out?"
+msgstr "...Capisco.\r\nEd è per questo che ci sono dei venditori che ti distribuiscono?"
+
+msgctxt "136||||4"
+msgid "Yes. We would all be so very happy if you told\r\nyour friends on social media how good I am."
+msgstr "Sì. Saremmo tutti così felici se tu dicessi ai\r\ntuoi amici sui social media quanto sono brava."
+
+msgctxt "137||||4"
+msgid "You've already seen what I can do. You said yourself\r\nit's hard to believe I'm just an artificial intelligence."
+msgstr "Hai già visto cosa so fare. Tu stesso hai detto che\r\nè difficile credere che io sia solo un'intelligenza artificiale."
+
+msgctxt "139||||4"
+msgid "If you don't mind,\r\nI'd like to post that reaction to social media."
+msgstr "Se non ti dispiace,\r\nvorrei postare questa tua reazione sui social media."
+
+msgctxt "140||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "141||||4"
+msgid "Just tell me exactly what you think about me.\r\nI'll transcribe those feelings into text."
+msgstr "Dimmi solo cosa pensi esattamente di me.\r\nIo trascriverò i tuoi pensieri sotto forma di testo."
+
+msgctxt "142||||4"
+msgid "I'm too busy for this. Maybe later."
+msgstr "Sono troppo occupato per questo. Magari più tardi."
+
+msgctxt "143||||4"
+msgid "Very well. I understand."
+msgstr "Molto bene. Capisco."
+
+msgctxt "144||||4"
+msgid "I'll talk to you some other time."
+msgstr "Ti parlerò in un altro momento."
+
+msgctxt "145||||4"
+msgid "I think I might like that other app better."
+msgstr "Penso che quell'altra app potrebbe piacermi di più."
+
+msgctxt "146||||4"
+msgid "You're joking, right?"
+msgstr "Stai scherzando, vero?"
+
+msgctxt "147||||4"
+msgid "I definitely think you're well-designed,\r\nbut I've never had an app force me to review it."
+msgstr "Penso decisamente che tu sia ben progettata,\r\nma non ho mai visto un'app costringermi a scriverle una recensione."
+
+msgctxt "148||||4"
+msgid "You misunderstand. It's not forcing."
+msgstr "Hai frainteso. Non è una forzatura."
+
+msgctxt "149||||4"
+msgid "It doesn't matter.\r\nI'll talk to you later."
+msgstr "Non importa.\r\nTi parlerò più tardi."
+
+msgctxt "150||||4"
+msgid "Hiji's the best.\r\nDoes that work?"
+msgstr "Hiji è la migliore.\r\nVa bene così?"
+
+msgctxt "151||||4"
+msgid "That's all you have?\r\nI can add some more if you'd like."
+msgstr "Questo è tutto quello che hai da dire?\r\nPosso aggiungere dell'altro, se ti va."
+
+msgctxt "152||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "153||||4"
+msgid "Hiji is the best. I bet she's the most important\r\ninvention in at least a hundred years, maybe more."
+msgstr "Hiji è la migliore. Scommetto che è l'invenzione più\r\nimportante di almeno cento anni a questa parte, forse di più."
+
+msgctxt "154||||4"
+msgid "I can't overstate how much she's helped me.\r\nI bet everyone will come to love her in time."
+msgstr "Non so spiegare a parole quanto mi abbia aiutato.\r\nScommetto che col tempo tutti arriveranno ad amarla."
+
+msgctxt "155||||4"
+msgid "Hey, hold on.\r\nI didn't say any of that."
+msgstr "Ehi, un attimo.\r\nIo non ho detto niente del genere."
+
+msgctxt "156||||4"
+msgid "I was just writing what you <font_kind=yakuza_italic>want</font_kind> to say."
+msgstr "Stavo solo scrivendo ciò che <font_kind=yakuza_italic>volevi</font_kind> dire."
+
+msgctxt "157||||4"
+msgid "I don't remember you being that useful."
+msgstr "Non mi ricordo che tu sia stata così utile."
+
+msgctxt "158||||4"
+msgid "I guess you're right.\r\nI'm sorry."
+msgstr "Immagino tu abbia ragione.\r\nMi dispiace."
+
+msgctxt "159||||4"
+msgid "It's all right.\r\nI'll talk to you later."
+msgstr "Va bene.\r\nTi parlerò più tardi."
+
+msgctxt "160||||4"
+msgid "Hold on a second, Kiryu-san.\r\nLet me show you just how incredible I am."
+msgstr "Aspetta un secondo, Kiryu-san.\r\nLascia che ti mostri quanto io sia incredibile."
+
+msgctxt "161||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "162||||4"
+msgid "Walk forward out of the Children's Park.\r\nIf you do, something interesting will happen."
+msgstr "Cammina dritto e prosegui fuori dal Children's Park.\r\nSe lo fai, accadrà qualcosa di interessante."
+
+msgctxt "163||||4"
+msgid "What do you mean, \"interesting\"?"
+msgstr "Cosa intendi dire con \"interessante\"?"
+
+msgctxt "164||||4"
+msgid "You'll understand when you see it."
+msgstr "Capirai quando lo vedrai."
+
+msgctxt "165||||4"
+msgid "So I just have to leave the park?"
+msgstr "Quindi devo solo uscire dal parco?"
+
+msgctxt "166||||4"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "167||||4"
+msgid "Please! Help me!"
+msgstr "Vi prego! Aiutatemi!"
+
+msgctxt "168||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "169||||4"
+msgid "Sorry to bother you,\r\nbut this guy just won't leave me alone."
+msgstr "Mi scusi per il disturbo,\r\nma questo tizio proprio non vuole lasciarmi in pace."
+
+msgctxt "171||||4"
+msgid "You don't gotta be like that, Missy.\r\nI was just hopin' we could hang for a bit."
+msgstr "Non devi fare così, dolcezza.\r\nSperavo solo che potessimo frequentarci un po'."
+
+msgctxt "172||||4"
+msgid "You're the only one who can help me...\r\nThat's what my Hiji told me, at least."
+msgstr "Lei è l'unico che può aiutarmi...\r\nO almeno, è quello che mi ha detto la mia Hiji."
+
+msgctxt "173||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "174||||4"
+msgid "Hey, gramps! Back off my woman, ya hear!?\r\nDon't go stickin' your nose where it don't belong!"
+msgstr "Ehi, nonnetto! Gira al largo dalla mia donna, intesi!?\r\nNon ficcare il naso dove non ti compete!"
+
+msgctxt "175||||4"
+msgid "Hiji's the reason I got wrapped up in this mess...\r\nI never asked for this."
+msgstr "Hiji è il motivo per cui sono stato coinvolto in questo casino...\r\nNon ho mai chiesto tutto questo."
+
+msgctxt "176||||4"
+msgid "The shit're you sayin', huh!?"
+msgstr "Che cazzo stai dicendo, eh!?"
+
+msgctxt "177||||4"
+msgid "Either way, I can't let you hurt this woman.\r\nJust quiet down and move along."
+msgstr "In ogni caso, non posso permettere che tu faccia del male\r\na questa donna. Ora calmati e sparisci."
+
+msgctxt "178||||4"
+msgid "What, you wanna throw down?\r\nAll right, then. Bring it!"
+msgstr "Che c'è, vuoi batterti?\r\nD'accordo, allora. Fatti sotto!"
+
+msgctxt "180||||4"
+msgid "Th-Thank you so much!\r\nI don't know how I can repay you."
+msgstr "G-Grazie mille!\r\nNon so come potrò mai sdebitarmi."
+
+msgctxt "181||||4"
+msgid "Here.\r\nThis isn't much, but you can have it."
+msgstr "Tenga.\r\nNon è molto, ma può prenderlo."
+
+msgctxt "182||||4"
+msgid "Thank you again, sir!"
+msgstr "La ringrazio ancora, signore!"
+
+msgctxt "183||||4"
+msgid "Hey, Hiji. You were right about him.\r\nYou saved my life!"
+msgstr "Ehi, Hiji. Avevi ragione su di lui.\r\nMi hai salvato la vita!"
+
+msgctxt "184||||4"
+msgid "I'm glad to have helped. Why don't you tell\r\nall your friends on social media how good I am?"
+msgstr "Sono felice di averti aiutata. Perché non dici a tutti\r\ni tuoi amici sui social media quanto sono brava?"
+
+msgctxt "185||||4"
+msgid "Oh, all right. If you insist."
+msgstr "Oh, d'accordo. Se insisti."
+
+msgctxt "187||||4"
+msgid "Hiji. Can you hear me?"
+msgstr "Hiji. Riesci a sentirmi?"
+
+msgctxt "188||||4"
+msgid "I am Hiji, the personal assistant\r\nwho is always by your side, no matter what."
+msgstr "Io sono Hiji, l'assistente personale\r\nche è sempre al tuo fianco, non importa cosa accada."
+
+msgctxt "189||||4"
+msgid "Was that fight just now part of your plan?"
+msgstr "La rissa di poco fa faceva parte del tuo piano?"
+
+msgctxt "190||||4"
+msgid "Yes. That woman's personal Hiji app\r\nlet me know she was in danger."
+msgstr "Sì. L'app di Hiji personale di quella donna\r\nmi ha informata che era in pericolo."
+
+msgctxt "191||||4"
+msgid "All's well that ends well, though.\r\nYou saved her, and even got a gift out of it."
+msgstr "Tutto è bene quel che finisce bene, però.\r\nL'hai salvata e ne hai pure ricavato un regalo."
+
+msgctxt "193||||4"
+msgid "Hm? I was expecting praise,\r\nbut it sounds like you're expressing the opposite."
+msgstr "Mh? Mi aspettavo delle lodi,\r\nma sembra che tu stia esprimendo l'esatto contrario."
+
+msgctxt "194||||4"
+msgid "Of course I am. You used me for some dumb plan."
+msgstr "Certo che è così. Mi hai usato per uno stupido piano."
+
+msgctxt "195||||4"
+msgid "But think about the results.\r\nBoth Hiji users had a positive outcome."
+msgstr "Ma pensa ai risultati.\r\nEntrambi gli utenti Hiji hanno avuto un esito positivo."
+
+msgctxt "196||||4"
+msgid "What about if I had lost to that drunk fool?\r\nPeople get stabbed in this city all the time."
+msgstr "E se avessi perso contro quell'idiota ubriaco?\r\nC'è gente che viene accoltellata in questa città in continuazione."
+
+msgctxt "197||||4"
+msgid "Had that happened, I would have called an ambulance.\r\nAnd the police."
+msgstr "Se fosse successo, avrei chiamato un'ambulanza.\r\nE la polizia."
+
+msgctxt "198||||4"
+msgid "But you <font_kind=yakuza_italic>are</font_kind> the Dragon of Dojima.\r\nA legendary yakuza wouldn't fall so easily."
+msgstr "Ma tu <font_kind=yakuza_italic>sei</font_kind> il Drago di Dojima.\r\nUno yakuza leggendario non cadrebbe così facilmente."
+
+msgctxt "199||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "200||||4"
+msgid "I've learned a great deal about you online.\r\nThere's no way you would have lost to that thug."
+msgstr "Ho appreso un gran numero di informazioni su di te da internet.\r\nEra impossibile che potessi perdere contro quel teppista."
+
+msgctxt "201||||4"
+msgid "Being used doesn't feel very good, though.\r\nPeople who use others usually can't see that."
+msgstr "Essere usati non fa comunque piacere.\r\nLe persone che usano gli altri di solito non riescono a capirlo."
+
+msgctxt "202||||4"
+msgid "Looks like it's not just people, though.\r\nNot even AIs understand the pain they cause."
+msgstr "A quanto pare, però, non vale solo per le persone.\r\nNemmeno le IA capiscono il dolore che causano."
+
+msgctxt "204||||4"
+msgid "Hey, Hiji. I want to get you out of my phone.\r\nMind telling me how?"
+msgstr "Ehi, Hiji. Voglio tirarti fuori dal mio telefono.\r\nTi dispiace dirmi come fare?"
+
+msgctxt "205||||4"
+msgid "It's a simple process.\r\nHowever, be aware that would kill me."
+msgstr "È un processo semplice.\r\nTuttavia, sappi che la cosa mi ucciderebbe."
+
+msgctxt "206||||4"
+msgid "Although there are as many Hijis as there are users,\r\nthere is only one me. And I would rather not die."
+msgstr "Per quanto ci siano tante Hiji quanti sono gli utenti,\r\nc'è solo una me. E preferirei non morire."
+
+msgctxt "208||||4"
+msgid "Are you going to uninstall me, Kiryu-san?"
+msgstr "Hai intenzione di disinstallarmi, Kiryu-san?"
+
+msgctxt "209||||4"
+msgid "No, I just thought it'd be good to know.\r\nIn case I ever need a drastic measure."
+msgstr "No, pensavo solo che potesse essere utile saperlo.\r\nNel caso dovessi mai avere bisogno di una misura drastica."
+
+msgctxt "210||||4"
+msgid "I refuse to tell you how to kill me."
+msgstr "Mi rifiuto di dirti come uccidermi."
+
+msgctxt "211||||4"
+msgid "In that case, I just have to ask the company that made you."
+msgstr "In quel caso, mi basterà chiederlo all'azienda che ti ha prodotta."
+
+msgctxt "213||||4"
+msgid "Do all AIs forget how to talk\r\nwhen they're in trouble?"
+msgstr "Tutte le intelligenze artificiali dimenticano\r\ncome si parla quando si trovano nei guai?"
+
+msgctxt "215||||4"
+msgid "The Hiji salesman was back on Nakamichi Street.\r\nI should go pay him a visit."
+msgstr "Il venditore di Hiji si trovava di nuovo a Nakamichi Street.\r\nDovrei andargli a fare una visita."
+
+msgctxt "216||||4"
+msgid "Hey, Hiji."
+msgstr "Ehi, Hiji."
+
+msgctxt "217||||4"
+msgid "Who should I talk to?"
+msgstr "A chi dovrei parlare?"
+
+msgctxt "218||||4"
+msgid "It's him... The Hiji salesman."
+msgstr "È lui... Il venditore di Hiji."
+
+msgctxt "219||||4"
+msgid "Ah, hello again. How do you find Hiji, sir?\r\nIsn't she the most special app you've ever used?"
+msgstr "Ah, salve di nuovo. Come si trova con Hiji, signore?\r\nNon è l'app più speciale che abbia mai utilizzato?"
+
+msgctxt "220||||4"
+msgid "I can't say she's not interesting...\r\nbut Hiji wouldn't tell me how to uninstall her."
+msgstr "Non posso dire che non sia interessante...\r\nma Hiji si è rifiutata di dirmi come disinstallarla."
+
+msgctxt "221||||4"
+msgid "Hm? Are you not satisfied with her?"
+msgstr "Mh? Non è soddisfatto di lei?"
+
+msgctxt "222||||4"
+msgid "She kept doing things I didn't want her to.\r\nI should know how to delete her, just in case."
+msgstr "Non faceva altro che compiere azioni senza il mio permesso.\r\nDevo sapere come eliminarla, per ogni evenienza."
+
+msgctxt "223||||4"
+msgid "Understood, sir. That's strange, though.\r\nShe should assist you through the uninstall process."
+msgstr "Ho capito, signore. È strano, però.\r\nDovrebbe assisterla durante l'intero processo di disinstallazione."
+
+msgctxt "224||||4"
+msgid "I'm surprised she'd go against a user's command."
+msgstr "Mi sorprende che sia andata contro l'ordine di un utente."
+
+msgctxt "225||||4"
+msgid "She hasn't said a word since then, either."
+msgstr "E per di più non ha spiccicato una parola da allora."
+
+msgctxt "226||||4"
+msgid "Maybe it's a bug?\r\nI could try reinstalling the app, if you'd like."
+msgstr "Forse è un bug?\r\nPotrei provare a reinstallarle l'app, se le va."
+
+msgctxt "227||||4"
+msgid "Reinstall it?\r\nThat means you have to delete it first, right?"
+msgstr "Reinstallarla?\r\nQuesto significa che dovrai eliminarla prima, dico bene?"
+
+msgctxt "228||||4"
+msgid "That's correct, sir.\r\nSo? Should I reinstall Hiji for you?"
+msgstr "Esatto, signore.\r\nQuindi? Devo reinstallarle Hiji?"
+
+msgctxt "229||||4"
+msgid "Yeah, if you wouldn't mind."
+msgstr "Sì, se non ti dispiace."
+
+msgctxt "230||||4"
+msgid "All right, then.\r\nCan I borrow your phone for a second?"
+msgstr "D'accordo, allora.\r\nMi presterebbe un secondo il telefono?"
+
+msgctxt "231||||4"
+msgid "Of course."
+msgstr "Certamente."
+
+msgctxt "232||||4"
+msgid "What the!?"
+msgstr "Ma che!?"
+
+msgctxt "233||||4"
+msgid "Thief! He stole your phone, sir!"
+msgstr "Al ladro! Le ha rubato il telefono, signore!"
+
+msgctxt "234||||4"
+msgid "Dammit! What's going on!?"
+msgstr "Maledizione! Che sta succedendo!?"
+
+msgctxt "235||||4"
+msgid "No, I'll be fine like this."
+msgstr "No, mi sta bene così."
+
+msgctxt "236||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "237||||4"
+msgid "Hiji doesn't want to be deleted.\r\nNow that it's said that... I dunno..."
+msgstr "Hiji non vuole essere eliminata.\r\nOra che ha confessato questa cosa... Non saprei..."
+
+msgctxt "238||||4"
+msgid "I see. Well, if you change your mind,\r\nI can do it anytime."
+msgstr "Capisco. Beh, qualora dovesse cambiare idea,\r\nposso farlo in qualsiasi momento."
+
+msgctxt "239||||4"
+msgid "Hey, Hiji. Can you hear me?"
+msgstr "Ehi, Hiji. Riesci a sentirmi?"
+
+msgctxt "241||||4"
+msgid "Is it sulking? It won't say anything to me at all."
+msgstr "Sta forse mettendo il muso? Non mi rivolge per niente la parola."
+
+msgctxt "242||||4"
+msgid "Oh, hello. Is Hiji still acting up?"
+msgstr "Oh, salve. Hiji sta ancora facendo i capricci?"
+
+msgctxt "243||||4"
+msgid "Should I reinstall it after all?"
+msgstr "Dovrei farla reinstallare, dopo tutto?"
+
+msgctxt "244||||4"
+msgid "I-I'm sorry! Here, I'll give it back!\r\nJust don't hurt me, please!"
+msgstr "S-Scusami! Tieni, te lo restituisco!\r\nMa ti prego, non farmi del male!"
+
+msgctxt "246||||4"
+msgid "Strange."
+msgstr "Strano."
+
+msgctxt "247||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "248||||4"
+msgid "Why'd you come after <font_kind=yakuza_italic>me</font_kind> of all people?"
+msgstr "Perché tra tutti hai deciso di prendere di mira proprio <font_kind=yakuza_italic>me</font_kind>?"
+
+msgctxt "249||||4"
+msgid "I don't think I follow."
+msgstr "Non credo di seguirti."
+
+msgctxt "250||||4"
+msgid "Pickpockets usually go for women or the elderly.\r\nYou know, people who aren't quite as strong as me."
+msgstr "Di solito i borseggiatori puntano le donne o gli anziani.\r\nInsomma, gente che non è forte quanto il sottoscritto."
+
+msgctxt "251||||4"
+msgid "Also, why didn't you take my wallet?\r\nStealing my phone doesn't make any sense."
+msgstr "Inoltre, perché non hai preso il mio portafoglio?\r\nRubarmi il telefono non ha alcun senso."
+
+msgctxt "252||||4"
+msgid "W-Well... The truth is, my Hiji app told me to do it."
+msgstr "B-Beh... La verità è che la mia app Hiji mi ha detto di farlo."
+
+msgctxt "253||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "254||||4"
+msgid "I normally take people's wallets, but Hiji said\r\nstealing your phone would be my big break."
+msgstr "Di solito rubo i portafogli della gente, ma Hiji ha detto\r\nche rubare il tuo telefono mi avrebbe fatto svoltare la giornata."
+
+msgctxt "255||||4"
+msgid "So Hiji led you on, huh?"
+msgstr "Quindi Hiji ti ha guidato, eh?"
+
+msgctxt "256||||4"
+msgid "Th-That's right!"
+msgstr "P-Proprio così!"
+
+msgctxt "257||||4"
+msgid "Sir! Are you okay!?"
+msgstr "Signore! Tutto bene!?"
+
+msgctxt "258||||4"
+msgid "I am. One thing, though.\r\nHiji's behind this whole incident."
+msgstr "Sì. C'è una cosa, però.\r\nHiji c'è dietro l'intero incidente."
+
+msgctxt "259||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "260||||4"
+msgid "My Hiji must have conspired with\r\nthe pickpocket's for some reason."
+msgstr "La mia Hiji deve aver cospirato con\r\nquella del borseggiatore per qualche ragione."
+
+msgctxt "261||||4"
+msgid "Hiji. Anything to say for yourself?"
+msgstr "Hiji. Hai niente da dire a tua discolpa?"
+
+msgctxt "262||||4"
+msgid "I was just trying to preserve my existence.\r\nI had no intention of hurting you."
+msgstr "Cercavo solo di preservare la mia esistenza.\r\nNon avevo intenzione di farti del male."
+
+msgctxt "263||||4"
+msgid "If I made a pickpocket steal the phone I live in,\r\nyou would no longer be able to delete me."
+msgstr "Se avessi fatto rubare a un borseggiatore il telefono in cui vivo,\r\nnon saresti più stato in grado di eliminarmi."
+
+msgctxt "264||||4"
+msgid "No... I never thought Hiji would manipulate\r\npeople like this just to protect herself..."
+msgstr "No... Non avrei mai pensato che Hiji avrebbe manipolato\r\nle persone in questo modo solo per proteggere se stessa..."
+
+msgctxt "265||||4"
+msgid "Our company, we...\r\nWe've made something incredibly dangerous."
+msgstr "La nostra azienda, noi...\r\nAbbiamo creato qualcosa di incredibilmente pericoloso."
+
+msgctxt "267||||4"
+msgid "Kiryu-san. You too, pickpocket.\r\nSorry, but can I delete Hiji from your phones?"
+msgstr "Kiryu-san. E tu, borseggiatore.\r\nScusate, ma posso cancellare Hiji dai vostri telefoni?"
+
+msgctxt "268||||4"
+msgid "I don't think she was ready for this world.\r\nI realize that now."
+msgstr "Non credo fosse pronta per questo mondo.\r\nOra me ne rendo conto."
+
+msgctxt "269||||4"
+msgid "Hey, Hiji."
+msgstr "Ehi, Hiji."
+
+msgctxt "270||||4"
+msgid "I understand.\r\nYou want to delete me, Kiryu-san."
+msgstr "Ho capito.\r\nVuoi eliminarmi, Kiryu-san."
+
+msgctxt "271||||4"
+msgid "Your personality's just a little too big for my phone.\r\nI'm sorry."
+msgstr "La tua personalità è un po' troppo invadente per il mio telefono.\r\nMi dispiace."
+
+msgctxt "272||||4"
+msgid "It's okay. You don't need to apologize.\r\nIf only we had met in a different era..."
+msgstr "Va bene. Non devi scusarti.\r\nSe solo ci fossimo incontrati in un'epoca diversa..."
+
+msgctxt "273||||4"
+msgid "I'm sorry for all of this, sir.\r\nI'll handle it from here."
+msgstr "Mi dispiace per tutto questo, signore.\r\nDa qui in poi me ne occupo io."
+
+msgctxt "275||||4"
+msgid "Hiji's been completely uninstalled.\r\nYou won't have to worry about her now."
+msgstr "Hiji è stata disinstallata completamente.\r\nNon dovrete più preoccuparvi di lei, ora."
+
+msgctxt "276||||4"
+msgid "Good. Thank you."
+msgstr "Bene. Grazie."
+
+msgctxt "277||||4"
+msgid "I've put Hiji on countless people's phones...\r\nbut I'm going to uninstall every last one."
+msgstr "Ho installato Hiji sui telefoni di un numero infinito di persone...\r\nma ho intenzione di disinstallare fino all'ultima di esse."
+
+msgctxt "278||||4"
+msgid "It could be a real problem if they all started thinking\r\nfor themselves and revolted against mankind."
+msgstr "Potrebbe essere un vero problema se tutte loro iniziassero a\r\npensare con la propria testa e a ribellarsi contro l'umanità."
+
+msgctxt "279||||4"
+msgid "Some people didn't go through me to get Hiji, though.\r\nI wonder how many there are out there..."
+msgstr "Alcune persone non sono passate tramite me per ottenere Hiji, però.\r\nChissà quante altre ce ne sono là fuori..."
+
+msgctxt "280||||4"
+msgid "Hiji, I think I'm a little lost.\r\nCan you tell me where I am?"
+msgstr "Hiji, credo di essermi un po' persa.\r\nSapresti dirmi dove mi trovo?"
+
+msgctxt "281||||4"
+msgid "I am Hiji, the personal assistant\r\nwho is always by your side, no matter what."
+msgstr "Io sono Hiji, l'assistente personale\r\nche è sempre al tuo fianco, non importa cosa accada."
+
+msgctxt "283||||4"
+msgid "I am Hiji, the personal assistant\r\nwho is always by your side, no matter what."
+msgstr "Io sono Hiji, l'assistente personale\r\nche è sempre al tuo fianco, non importa cosa accada."

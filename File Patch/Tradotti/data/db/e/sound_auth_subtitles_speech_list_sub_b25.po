@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "I ain't doin' it!"
+msgstr "Non se ne parla!"
+
+msgctxt "1||||4"
+msgid "But I'm begging you!"
+msgstr "Ma ti supplico!"
+
+msgctxt "2||||4"
+msgid "No means no!"
+msgstr "No significa no!"
+
+msgctxt "3||||4"
+msgid "But...!"
+msgstr "Ma...!"
+
+msgctxt "4||||4"
+msgid "What is it, you two?\r\nAnother argument?"
+msgstr "Che succede, voi due?\r\nUn'altra discussione?"
+
+msgctxt "5||||4"
+msgid "Ah, Kiryu-san..."
+msgstr "Ah, Kiryu-san..."
+
+msgctxt "6||||4"
+msgid "What's wrong this time?\r\nDoes the world's tastiest salmon live here, too?"
+msgstr "Qual è il problema stavolta?\r\nIl salmone più buono del mondo vive forse anche qui?"
+
+msgctxt "7||||4"
+msgid "It... came back."
+msgstr "È... tornato."
+
+msgctxt "8||||4"
+msgid "The salmon?"
+msgstr "Il salmone?"
+
+msgctxt "9||||4"
+msgid "No... It's a shark."
+msgstr "No... È uno squalo."
+
+msgctxt "10||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "11||||4"
+msgid "There's a huge man-eatin' terror that roams\r\n'round these parts... The Bloody Shark."
+msgstr "C'è un enorme terrore mangia-uomini che si aggira\r\nda queste parti... Lo Squalo sanguinario."
+
+msgctxt "12||||4"
+msgid "The Bloody Shark..."
+msgstr "Lo Squalo sanguinario..."
+
+msgctxt "13||||4"
+msgid "Yup. It's a real frightenin' sight,\r\nwith rows o' teeth n' huge blood-red eyes."
+msgstr "Sì. È uno spettacolo davvero spaventoso,\r\ncon file di denti ed enormi occhi rosso sangue."
+
+msgctxt "14||||4"
+msgid "It used t'wreak havoc 'round here years back,\r\nbut it disappeared... 'til lately, that is."
+msgstr "Seminava il caos da queste parti anni fa,\r\nma poi scomparve... almeno fino ad oggi, ecco."
+
+msgctxt "15||||4"
+msgid "That thing's what wrecked my leg, too.\r\nIt's a monster."
+msgstr "Quella cosa è ciò che ha distrutto anche la mia gamba.\r\nÈ un mostro."
+
+msgctxt "16||||4"
+msgid "Sounds like it..."
+msgstr "Così sembra..."
+
+msgctxt "17||||4"
+msgid "I'm lucky t'have got off this easy, though.\r\nTons o' other fishermen fell victim to that thing."
+msgstr "Però mi ritengo fortunato ad essermela cavata con così poco.\r\nUn mucchio di altri pescatori sono caduti vittime di quella bestia."
+
+msgctxt "18||||4"
+msgid "Includin' Amano's old man."
+msgstr "Incluso il vecchio di Amano."
+
+msgctxt "19||||4"
+msgid "Huh? Really?"
+msgstr "Cosa? Davvero?"
+
+msgctxt "21||||4"
+msgid "Guy was one o' the best fishermen in town.\r\nOne o' my closest friends, too."
+msgstr "Era uno dei migliori pescatori della città.\r\nAnche uno dei miei amici più cari."
+
+msgctxt "22||||4"
+msgid "But one day, he met that monster out on the water.\r\nN' that was the last we saw o' him..."
+msgstr "Ma un giorno ha incontrato quel mostro in acqua.\r\nE quella è stata l'ultima volta che l'abbiamo visto..."
+
+msgctxt "23||||4"
+msgid "That's horrible..."
+msgstr "È terribile..."
+
+msgctxt "24||||4"
+msgid "That's why... That's why I need to fight!\r\nI have to avenge my father's death!"
+msgstr "È per questo... È per questo che devo combattere!\r\nDevo vendicare la morte di mio padre!"
+
+msgctxt "25||||4"
+msgid "I'm begging you, Isao-san!\r\nTake me to where this monster is!"
+msgstr "Ti supplico, Isao-san!\r\nPortami dove si trova questo mostro!"
+
+msgctxt "26||||4"
+msgid "Y'ain't goin' nowhere!\r\nYer never gonna win against that thing!"
+msgstr "Non andrai da nessuna parte!\r\nNon vinceresti mai contro quella cosa!"
+
+msgctxt "27||||4"
+msgid "A girl like ya without a shred o' experience\r\nwould get swallowed whole out there!"
+msgstr "Una ragazza come te senza un briciolo di esperienza\r\nverrebbe inghiottita intera là fuori!"
+
+msgctxt "28||||4"
+msgid "Think o' how yer old man'd feel\r\nif that happened to ya!"
+msgstr "Pensa a come si sentirebbe tuo padre\r\nse ti succedesse una cosa del genere!"
+
+msgctxt "29||||4"
+msgid "But... But..."
+msgstr "Ma... Ma..."
+
+msgctxt "30||||4"
+msgid "I ain't lettin' up!\r\nEnough's enough!"
+msgstr "Non lascerò correre!\r\nQuando è troppo è troppo!"
+
+msgctxt "32||||4"
+msgid "Hey!"
+msgstr "Ehi!"
+
+msgctxt "33||||4"
+msgid "Geez... That girl's even more\r\nstubborn than her old man was."
+msgstr "Cavoli... Quella ragazza è ancora\r\npiù testarda del suo vecchio."
+
+msgctxt "34||||4"
+msgid "What about this Bloody Shark?\r\nIs it <font_kind=yakuza_italic>really</font_kind> that dangerous?"
+msgstr "E a proposito di questo Squalo sanguinario?\r\nÈ <font_kind=yakuza_italic>davvero</font_kind> così pericoloso?"
+
+msgctxt "35||||4"
+msgid "Yup, it's jus' like I told ya.\r\nScariest thing in the ocean, if ya ask me."
+msgstr "Sì, proprio come ti ho detto.\r\nLa cosa più spaventosa dell'oceano, se chiedi a me."
+
+msgctxt "36||||4"
+msgid "But... if we don't do somethin' fast,\r\nwe might have another victim on our hands."
+msgstr "Ma... se non facciamo qualcosa in fretta,\r\npotremmo ritrovarci con un'altra vittima tra le mani."
+
+msgctxt "37||||4"
+msgid "What a mess..."
+msgstr "(Che disastro...)"
+
+msgctxt "39||||4"
+msgid "S'pose all we can do is wait 'til it leaves..."
+msgstr "Immagino che tutto ciò che possiamo fare sia aspettare che se ne vada..."
+
+msgctxt "40||||4"
+msgid "Y'better stay outta the water too, Kiryu-san.\r\nThing's dangerous, y'hear?"
+msgstr "E faresti meglio a stare fuori dall'acqua anche tu, Kiryu-san.\r\nQuell'affare è pericoloso, mi hai sentito?"
+
+msgctxt "41||||4"
+msgid "No... I'm going. \r\nI'll chase that beast away."
+msgstr "No... Io vado. \r\nCaccerò via quella bestia."
+
+msgctxt "42||||4"
+msgid "Huh!?\r\nWait... Y'can't be serious!"
+msgstr "Cosa!?\r\nAspetta... Non puoi dire sul serio!"
+
+msgctxt "43||||4"
+msgid "I am. Who knows how many more fishermen\r\ncould fall victim to that monster if I don't."
+msgstr "Dico sul serio. Chissà quanti altri pescatori potrebbero\r\ncadere vittime di quel mostro se non lo faccio."
+
+msgctxt "44||||4"
+msgid "And if that happened, even more kids\r\nwould end up just like Amano."
+msgstr "E se ciò accadesse, ancora più bambini\r\nfinirebbero proprio come Amano."
+
+msgctxt "45||||4"
+msgid "It hurts to lose a father... I understand that.\r\nAnd I want to help others avoid that pain."
+msgstr "Fa male perdere un padre... Lo capisco.\r\nE voglio aiutare gli altri ad evitare quel dolore."
+
+msgctxt "46||||4"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "47||||4"
+msgid "Besides, this thing took Amano's father from her.\r\nShe deserves a little bit of closure."
+msgstr "E poi, quella bestia ha portato via il padre di Amano.\r\nMerita un po' di pace e di potersi mettere il cuore in pace."
+
+msgctxt "48||||4"
+msgid "And for Amano, I'd gladly provide it."
+msgstr "E per Amano, gliela procurerò volentieri."
+
+msgctxt "49||||4"
+msgid "Sheesh, yer a real charmer.\r\nI'd fall fer ya if I was a woman..."
+msgstr "Cavoli, sei un vero gentiluomo.\r\nMi innamorerei di te se fossi una donna..."
+
+msgctxt "50||||4"
+msgid "A-Anyways!\r\nC'mon, I'll take ya over t'that thing's lair."
+msgstr "C-comunque!\r\nAndiamo, ti porterò alla tana di quella bestia."
+
+msgctxt "51||||4"
+msgid "It's leagues stronger than yer other opponents, though.\r\nMake sure yer spear and yer mind're sharp first."
+msgstr "Però è di gran lunga più forte degli altri tuoi avversari.\r\nAssicurati che sia il tuo fucile che la tua mente siano affilati prima."
+
+msgctxt "52||||4"
+msgid "Right."
+msgstr "Certamente."
+
+msgctxt "53||||4"
+msgid "If ya died out there, Kiryu-san,\r\nAmano'd have one more thing t'be sad about..."
+msgstr "Se morissi là fuori, Kiryu-san,\r\nAmano avrebbe un motivo in più per essere triste..."
+
+msgctxt "54||||4"
+msgid "N' if that happened, I'd never forgive ya."
+msgstr "E se succedesse, non te lo perdonerei mai."
+
+msgctxt "55||||4"
+msgid "You really care for Amano, huh?"
+msgstr "Tieni davvero ad Amano, eh?"
+
+msgctxt "56||||4"
+msgid "'Course I do! Anyways, I'll prep the boat\r\nwhen yer good n' ready. Jus' lemme know."
+msgstr "Certo che sì! Comunque, preparerò la barca\r\nnon appena sarai pronto. Fammi solo sapere."
+
+msgctxt "57||||4"
+msgid "Got it."
+msgstr "Ricevuto."
+
+msgctxt "58||||4"
+msgid "Yo, Kiryu-san. Y'ready to head out?"
+msgstr "Ehi, Kiryu-san. Pronto a partire?"
+
+msgctxt "59||||4"
+msgid "Come talk to me if y'wanna set sail."
+msgstr "Vieni a parlarmi quando vuoi levare l'ancora."
+
+msgctxt "60||||4"
+msgid "All right, let's get movin'!\r\nY'can do it, Kiryu-san!"
+msgstr "D'accordo, andiamo!\r\nPuoi farcela, Kiryu-san!"
+
+msgctxt "62||||4"
+msgid "I never shoulda doubted ya, Kiryu-san!\r\nY'kicked the stuffin' outta that thing!"
+msgstr "Non avrei mai dovuto dubitare di te, Kiryu-san!\r\nHai fatto a polpette quell'affare!"
+
+msgctxt "63||||4"
+msgid "Yer really somethin' else!\r\nHow 'bout a drink t'celebrate!?"
+msgstr "Sei davvero eccezionale!\r\nChe ne diresti di bere un bicchiere per festeggiare!?"
+
+msgctxt "64||||4"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "65||||4"
+msgid "Oh, Amano."
+msgstr "Oh, Amano."
+
+msgctxt "66||||4"
+msgid "Listen t'this, Amano!\r\nKiryu-san got revenge fer yer old man!"
+msgstr "Ascolta qui, Amano!\r\nKiryu-san ha vendicato il tuo vecchio!"
+
+msgctxt "67||||4"
+msgid "Idiot!"
+msgstr "Idiota!"
+
+msgctxt "69||||4"
+msgid "Huh? Hey, what's 'at fer!?\r\nKiryu-san did this fer you!"
+msgstr "Eh? Ehi, per cosa era questo!?\r\nKiryu-san lo ha fatto per te!"
+
+msgctxt "70||||4"
+msgid "You left without even saying goodbye...\r\nI was so worried..."
+msgstr "Te ne sei andato senza nemmeno salutare...\r\nEro così preoccupata..."
+
+msgctxt "71||||4"
+msgid "I thought you were gonna meet\r\nthe same end my father did, Kiryu-san..."
+msgstr "Pensavo che avresti fatto\r\nla stessa fine di mio padre, Kiryu-san..."
+
+msgctxt "72||||4"
+msgid "Amano..."
+msgstr "Amano..."
+
+msgctxt "73||||4"
+msgid "Don't be ridiculous."
+msgstr "Non dire sciocchezze."
+
+msgctxt "74||||4"
+msgid "I wouldn't die on you."
+msgstr "Non ti abbandonerei in quel modo."
+
+msgctxt "75||||4"
+msgid "You should know by now...\r\nI can handle anything the ocean throws at me."
+msgstr "Dovresti saperlo ormai...\r\nPosso gestire qualsiasi cosa l'oceano mi lanci contro."
+
+msgctxt "76||||4"
+msgid "Besides, Isao-san would never forgive me\r\nif I made you sad again."
+msgstr "Inoltre, Isao-san non mi perdonerebbe mai\r\nse ti facessi piangere di nuovo."
+
+msgctxt "78||||4"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "79||||4"
+msgid "Enough of the tears now, okay?\r\nSmiling suits you far better."
+msgstr "Basta lacrime adesso, d'accordo?\r\nSorridere ti si addice molto di più."
+
+msgctxt "80||||4"
+msgid "Okay!"
+msgstr "Okay!"
+
+msgctxt "81||||4"
+msgid "Mkay, we're done with the sobbin', then!\r\nWe took down that monster, after all!"
+msgstr "Okay, abbiamo finito con i piagnistei, allora!\r\nAbbiamo abbattuto quel mostro, dopotutto!"
+
+msgctxt "82||||4"
+msgid "It's time t'celebrate!\r\nWe gotta get ready, Amano!"
+msgstr "È ora di festeggiare!\r\nDobbiamo prepararci, Amano!"
+
+msgctxt "83||||4"
+msgid "Right!"
+msgstr "Sì!"
+
+msgctxt "84||||4"
+msgid "Ahhh, I jus' love drinkin' with you two!\r\nAin't it great, Kiryu-san?"
+msgstr "Ahhh, adoro bere con voi due!\r\nNon è fantastico, Kiryu-san?"
+
+msgctxt "85||||4"
+msgid "Yeah."
+msgstr "Già."
+
+msgctxt "86||||4"
+msgid "Oh, Kiryu-san!\r\nThis is your payment for today!"
+msgstr "Oh, Kiryu-san!\r\nEcco il tuo compenso per oggi!"
+
+msgctxt "87||||4"
+msgid "This is even more than usual.\r\nAre you sure about this?"
+msgstr "È persino più del solito.\r\nNe sei sicura?"
+
+msgctxt "88||||4"
+msgid "Darn tootin'.\r\nThe other fishermen pitched in."
+msgstr "Certo che sì.\r\nGli altri pescatori hanno fatto una colletta."
+
+msgctxt "89||||4"
+msgid "What...?"
+msgstr "Cosa...?"
+
+msgctxt "90||||4"
+msgid "Everyone's free t'fish again now that ya\r\nspeared that giant shark. This is yer thanks."
+msgstr "Tutti sono di nuovo liberi di pescare ora che hai\r\nfiocinato quello squalo gigante. Questo è per ringraziarti."
+
+msgctxt "91||||4"
+msgid "It's not much of a reward fer riskin' yer life,\r\nbut it's all fer you."
+msgstr "Non è una gran ricompensa per aver rischiato la vita,\r\nma è tutto per te."
+
+msgctxt "92||||4"
+msgid "Got it. I'll gladly accept."
+msgstr "Capisco. L'accetto volentieri."
+
+msgctxt "93||||4"
+msgid "I ain't finished, though.\r\nYa've been a real lifesaver 'round here."
+msgstr "Non ho ancora finito, però.\r\nSei stato un vero salvavita da queste parti."
+
+msgctxt "94||||4"
+msgid "Lemme thank ya again, Kiryu-san."
+msgstr "Lasciami ringraziarti ancora, Kiryu-san."
+
+msgctxt "95||||4"
+msgid "Thank you!"
+msgstr "Grazie!"
+
+msgctxt "96||||4"
+msgid "It was nothing. I'm thankful\r\nfor all our time together, too."
+msgstr "Non è stato niente. Sono grato anch'io\r\nper tutto il tempo passato insieme."
+
+msgctxt "97||||4"
+msgid "Um... By the way, Kiryu-san...\r\nhow would you feel about fishing with us some more?"
+msgstr "Ehm... A proposito, Kiryu-san...\r\ncome ti sembrerebbe l'idea di pescare ancora un po' con noi?"
+
+msgctxt "98||||4"
+msgid "Yeah, c'mon!\r\nY'should stick around 'til I'm all healed up!"
+msgstr "Già, andiamo!\r\nDovresti restare in giro finché non sarò completamente guarito!"
+
+msgctxt "99||||4"
+msgid "I appreciate the offer, but I really\r\ndon't know how long I'll be in this town."
+msgstr "Apprezzo l'offerta, ma davvero\r\nnon so per quanto tempo resterò in questa città."
+
+msgctxt "100||||4"
+msgid "There's something else I need to do."
+msgstr "C'è qualcos'altro che devo fare."
+
+msgctxt "101||||4"
+msgid "Oh... I guess I'm not surprised."
+msgstr "Oh... Immagino che non mi sorprenda."
+
+msgctxt "102||||4"
+msgid "This place means a lot to me, though.\r\nI promise to keep coming back as long as I can."
+msgstr "Questo posto significa molto per me, però.\r\nPrometto di continuare a tornare finché potrò."
+
+msgctxt "103||||4"
+msgid "That okay with you?"
+msgstr "Per te va bene?"
+
+msgctxt "104||||4"
+msgid "Y-Yes, of course it is!\r\nRight, Isao-san!?"
+msgstr "S-sì, certo che sì!\r\nGiusto, Isao-san!?"
+
+msgctxt "105||||4"
+msgid "Y'don't even gotta ask.\r\nWe're gonna pull up some huge hauls, Kiryu-san!"
+msgstr "Non c'è nemmeno bisogno di chiederlo.\r\nTireremo su delle pescate giganti, Kiryu-san!"
+
+msgctxt "106||||4"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "107||||4"
+msgid "Anyways, let's pull ourselves together\r\nn' go fer another round!"
+msgstr "Comunque, diamoci una raddrizzata\r\ne facciamoci un altro giro!"
+
+msgctxt "108||||4"
+msgid "Huh? I think I've had enough for today!"
+msgstr "Eh? Penso di averne avuto abbastanza per oggi!"
+
+msgctxt "109||||4"
+msgid "What're ya sayin'!?\r\nKiryu-san's never gonna go fer a lightweight like you!"
+msgstr "Che stai dicendo!?\r\nKiryu-san non andrà mai da un peso piuma come te!"
+
+msgctxt "110||||4"
+msgid "G-Go for me...?\r\nWh-Wh-What're you talking about!? Geez!"
+msgstr "A-Andare da me...?\r\nM-m-ma che stai dicendo!? Cavoli!"
+
+msgctxt "113||||4"
+msgid "Ya did good out there. Amano ain't around,\r\nso I'll be givin' ya yer reward today."
+msgstr "Hai fatto un buon lavoro là fuori. Amano non è in giro,\r\nquindi sarò io a darti la tua ricompensa, oggi."
+
+msgctxt "114||||4"
+msgid "See ya next time."
+msgstr "Ci vediamo la prossima volta."
+
+msgctxt "115||||4"
+msgid "\r\nRumor has is another shark's been hangin' around...\r\nNear identical t'the one from before."
+msgstr "\r\nSi dice che ci sia un altro squalo che si aggira in zona...\r\nQuasi identico a quello di prima."
+
+msgctxt "116||||4"
+msgid "Don't wanna pressure ya, but I was hopin'\r\ny'could get rid o' this one, too."
+msgstr "Non voglio metterti fretta, ma speravo che\r\npotessi sbarazzarti anche di questo."
+
+msgctxt "117||||4"
+msgid "Hey, don't make it sound so simple."
+msgstr "Ehi, non farla sembrare così semplice."
+
+msgctxt "118||||4"
+msgid "C'mon, it should be a piece o' cake fer ya!\r\nAnyways, good luck out there!"
+msgstr "Andiamo, dovrebbe essere una passeggiata per te!\r\nComunque, buona fortuna là fuori!"
+
+msgctxt "119||||4"
+msgid "Sheesh. Some friend you are..."
+msgstr "Cavoli. Bell'amico che sei..."

@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 4
+msgctxt "Offset_0x1654_Len_4"
+msgid "J Y="
+msgstr ""
+
+#. Max bytes: 60
+msgctxt "Offset_0x25EEC_Len_60"
+msgid "Misa's beloved Kase-senpai\nhas joined the Setouchi Warriors!"
+msgstr ""
+

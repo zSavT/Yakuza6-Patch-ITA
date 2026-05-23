@@ -1,0 +1,1873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Kiryu's arrest was just a performance\r\nto win back some public approval."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "A performance?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "There's no doubt the Omi Alliance\r\nwas responsible for the war..."
+msgstr ""
+
+msgctxt "3||||4"
+msgid "...but to the public, the Tojo Clan and\r\nthe Omi Alliance are equally problematic."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "If the cops didn't take in someone\r\nfrom both sides, people would riot."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Well, I guess they're just trying to\r\nprove they can still do their jobs."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Kiryu <font_kind=yakuza_italic>was</font_kind> kinda the fourth\r\nchairman of the Tojo Clan."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "That said, he's also the one who stuck his\r\nneck out\r furthest to end the fighting."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Can't you do something, Date-san?\r\nIsn't Kiryu-san your responsibility?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "He's nobody's \"responsibility.\"\r\nHe's not a child."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Besides, why is Kiryu-san the only\r\nguy getting arrested here anyway?"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "I heard the Tojo Clan officers aren't\r\neven getting slapped on the wrist."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "The cops could round up all the Tojo officers,\r\nbut who'd\r be left to keep the clan in check?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "If the police ended up reigniting this\r\nyakuza war after it finally ended..."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "...It'd be their necks on the line."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "And that's why they're still treating\r\nKiryu-san as part of the Tojo Clan?"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "He's far more than just\r\nthe ex-fourth chairman."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Kazuma Kiryu is the Dragon of Dojima.\r\nA yakuza legend."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "No matter how far removed he is\r\nfrom\r that, he's no regular civilian."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Um..."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Is Uncle Kaz going to end up\r in prison again?"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "If he gets himself a decent lawyer,\r\nhe\r should get off without jail time, but..."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "...that all depends on Kiryu."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Way to dodge the question."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Kiryu and I have known\r\neach other for a long time."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "I think by now, I have a pretty\r\ngood idea of how he thinks."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Where... Where am I...?"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "(I must still be alive if\r they're here with me...)"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Kiryu-chan!"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Majima-san..."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Lieutenant advisor to the Tojo Clan...\r\nGoro Majima. The Mad Dog of Shimano."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "No matter how many times we've fought since\r\nI retired, I can still never get a read on him."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "For whatever reason, our fates are tied."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "These days he's made a name for himself\r\nas a high-ranking officer of the Tojo Clan."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "He's also very close to another\r Tojo Clan\r\nofficer, his sworn brother, Taiga Saejima."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Kiryu-san."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Akiyama..."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "CEO of the Kamurocho-based loan\r\ncompany Sky Finance... Shun Akiyama."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "He was apparently a banking elite...\r\nuntil he was framed for embezzlement."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "That hit him so hard that he was\r\neven homeless for a time."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "But after investing a small windfall, his\r\nnet worth grew to over 100 billion yen."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "I first met him through \rSaejima's sister, Yasuko."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "In Osaka, where Haruka was working as an idol,\r\nhe watched over her in my place."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Kiryu."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Saejima..."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "A legendary Tojo Clan yakuza said to have\r\nkilled eighteen of his foes... Taiga Saejima."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "When we first met, Saejima was\r\non the lam as a prison escapee."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "After confronting the truth of the eighteen murders,\r\nhe started the Saejima Family under the Tojo Clan."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "But, he got sucked into an Omi Alliance\r\nplot in 2012 after escaping prison again."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Both of us were targeted as\r\nrepresentatives of the Tojo Clan."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Uncle Kaz."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Haruka..."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "A girl who was orphaned by\r\nthe only woman I ever loved."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "When we met, she was just a child caught\r\nin the middle of a brutal yakuza war."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "She was the only emotional support I had\r\nas I lost nearly everyone dear to me."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "If there's one thing I'm proud of in life..."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "...It's my decision to take her in and\r\nraise her as my own daughter."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Fourth Chairman."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Daigo..."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "The only son of Sohei Dojima, a ranking\r\nTojo Clan officer and my yakuza patriarch."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Even though Daigo wanted to distance\r\nhimself from the underworld..."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "...I forced him back into action as\r\nthe sixth chairman of the Tojo Clan."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "If anyone can unify the 25,000 members\r\nof the Tojo Clan, it's Daigo Dojima."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "I don't just believe that, though.\r\nDaigo has proven it."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Kiryu."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Date-san..."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "He used to be an elite police detective,\r\nbut his career derailed when he met me."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Over the years I've known him, he's acted\r\nas both a partner and a good friend."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Having raised his daughter alone\r\nas a single father..."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "...I expect Date-san to continue fighting\r\nto keep justice alive in Kamurocho."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "77||||4"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Taichi, Koji, Mitsuo, Shiro,\r\nAyako, Izumi, Riona, Eri."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "As an orphan myself, I decided to start\r\nthe Morning Glory orphanage in Okinawa."
+msgstr ""
+
+msgctxt "83||||4"
+msgid "It's hard to describe how much Haruka and\r\nthese kids have helped me in life..."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "...But if I want to live with them in peace\r again,\r\nthere's something I need to do."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "Something that will take a long time..."
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Are you awake, Fourth Chairman?"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Daigo?"
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Looks like things aren't going so well\r\nfor either of us, Sixth Chairman."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "You're better off than me, Kiryu-san."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Maybe I am.\r\nSo, you need something?"
+msgstr ""
+
+msgctxt "91||||4"
+msgid "I do. I heard some rumors about\r\nyou recently, Kiryu-san."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "If it's all right with you, I'd like to\r\nget some fresh air while we talk."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "I'm sure you know what I've heard.\r\nIt's about you going to jail, Kiryu-san."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "With a decent lawyer, you could avoid that\r\nentirely. So why exactly won't you?"
+msgstr ""
+
+msgctxt "97||||4"
+msgid "So I can go back in peace."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "You mean to Morning Glory, yes?"
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "100||||4"
+msgid "If I went back to Okinawa now, there'd be\r\nno peace for Haruka and those kids."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "No matter how I spin it, I'm ex-yakuza...\r\nand now Haruka is tied to that."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "The media's going to be even more vigilant\r\nnow that society has me in the spotlight."
+msgstr ""
+
+msgctxt "104||||4"
+msgid "Haruka and I can handle that, but the\r\nkids at Morning Glory shouldn't have to."
+msgstr ""
+
+msgctxt "105||||4"
+msgid "If I want to greet them with my head\r\nheld high, I need to take responsibility."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "I understand that."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "But if you really do go to prison,\r\nwho knows how long you'll be in for?"
+msgstr ""
+
+msgctxt "108||||4"
+msgid "You intend to make Haruka-chan and\r\nthe\r others wait for you that whole time?"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "Kiryu-san... You're comfortable with that?"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Haruka and I are the center of attention\r\nright now. The timing couldn't be better."
+msgstr ""
+
+msgctxt "111||||4"
+msgid "Once I'm out, I'll be able to\r walk free\r\nwith a clear conscience."
+msgstr ""
+
+msgctxt "113||||4"
+msgid "On that Japan Dome stage, Haruka\r\ntook pride in calling me her family."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "I need to know I deserve that honor\r\nbefore going back to the orphanage."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "So about this search for Haruka-chan...\r\nWhat are you going to do, Uncle Kaz?"
+msgstr ""
+
+msgctxt "116||||4"
+msgid "Well, I'm going to start by talking to\r\nan acquaintance of mine from Kamurocho."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "Who's that?"
+msgstr ""
+
+msgctxt "118||||4"
+msgid "A man named Akiyama. He's helped\r\nHaruka before in both Osaka and Kamurocho."
+msgstr ""
+
+msgctxt "119||||4"
+msgid "There's a chance he's heard\r\nsomething about where she is."
+msgstr ""
+
+msgctxt "120||||4"
+msgid "I'll go give him a call now."
+msgstr ""
+
+msgctxt "121||||4"
+msgid "(I should give Akiyama a call. He might\r\nhave heard something about Haruka.)"
+msgstr ""
+
+msgctxt "122||||4"
+msgid "The number you have dialed\r\nis currently out of service."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "Please confirm you have the\r\ncorrect number and try again."
+msgstr ""
+
+msgctxt "124||||4"
+msgid "(Did Akiyama get a new phone number?\r\nDammit, what's going on...?)"
+msgstr ""
+
+msgctxt "125||||4"
+msgid "Uncle Kaz. Did you manage to get\r\nin touch with that Akiyama guy?"
+msgstr ""
+
+msgctxt "126||||4"
+msgid "No, it looks like his number changed."
+msgstr ""
+
+msgctxt "127||||4"
+msgid "What? No..."
+msgstr ""
+
+msgctxt "128||||4"
+msgid "If his phone's cut off, I may have to\r\ngo to Kamurocho and find him myself."
+msgstr ""
+
+msgctxt "129||||4"
+msgid "So then... does that mean you're\r\ngoing to be leaving us here again?"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "Ayako-chan is the worst.\r\nI can't believe she didn't tell us."
+msgstr ""
+
+msgctxt "132||||4"
+msgid "You shouldn't blame her for this. What\r\nhappened with Haruka wasn't her fault."
+msgstr ""
+
+msgctxt "133||||4"
+msgid "Put yourself in Ayako's shoes. It must\r\nhave been hard keeping it a secret."
+msgstr ""
+
+msgctxt "134||||4"
+msgid "I mean, I know that..."
+msgstr ""
+
+msgctxt "135||||4"
+msgid "...But I just wish she would've at\r\nleast told her family the truth."
+msgstr ""
+
+msgctxt "137||||4"
+msgid "I should start getting dinner ready soon."
+msgstr ""
+
+msgctxt "138||||4"
+msgid "Ah, Uncle Kaz."
+msgstr ""
+
+msgctxt "139||||4"
+msgid "You're in charge of dinner prep, huh?\r\nAnything I can do to help?"
+msgstr ""
+
+msgctxt "140||||4"
+msgid "No, I'll be fine.\r\nI can do it all by myself!"
+msgstr ""
+
+msgctxt "141||||4"
+msgid "Besides, I should be more independent.\r\nI can't rely on grown-ups for everything."
+msgstr ""
+
+msgctxt "142||||4"
+msgid "Good point."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "Um, Uncle Kaz..."
+msgstr ""
+
+msgctxt "144||||4"
+msgid "Even if you do manage to\r\nfind Haruka-chan somehow..."
+msgstr ""
+
+msgctxt "145||||4"
+msgid "...We still don't know that she'll\r\nwant to come back with you, right?"
+msgstr ""
+
+msgctxt "146||||4"
+msgid "Don't think like that. If I can talk to her,\r\nI know she'll want to come back."
+msgstr ""
+
+msgctxt "147||||4"
+msgid "No need to worry about that."
+msgstr ""
+
+msgctxt "148||||4"
+msgid "Okay."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "Oh, Uncle Kaz!"
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Already lunchtime for Mame, huh?\r\nHe hasn't slowed down at all."
+msgstr ""
+
+msgctxt "152||||4"
+msgid "Not yet, Mame.\r\nWait for the magic word."
+msgstr ""
+
+msgctxt "153||||4"
+msgid "Go!"
+msgstr ""
+
+msgctxt "154||||4"
+msgid "I wonder what Haruka-chan's doing\r\nnow... You think she's eating good?"
+msgstr ""
+
+msgctxt "155||||4"
+msgid "I'm sure she's doing fine.\r\nShe must be up in Kamurocho."
+msgstr ""
+
+msgctxt "156||||4"
+msgid "I hope you're right."
+msgstr ""
+
+msgctxt "157||||4"
+msgid "Oh, Uncle Kaz."
+msgstr ""
+
+msgctxt "158||||4"
+msgid "I've done a bunch of research online..."
+msgstr ""
+
+msgctxt "159||||4"
+msgid "...but no one seems to have anything\r\non where Haruka might be these days."
+msgstr ""
+
+msgctxt "160||||4"
+msgid "She's gone dark on social media, too."
+msgstr ""
+
+msgctxt "161||||4"
+msgid "Got it. Thanks for trying."
+msgstr ""
+
+msgctxt "162||||4"
+msgid "For now, my best lead is getting in touch\r\nwith an acquaintance in Kamurocho."
+msgstr ""
+
+msgctxt "163||||4"
+msgid "If anyone's going to know\r\nwhere Haruka is, it's him."
+msgstr ""
+
+msgctxt "164||||4"
+msgid "Okay. I'll keep an eye on the net\r\nto see if anything pops up."
+msgstr ""
+
+msgctxt "165||||4"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "166||||4"
+msgid "Uncle Kaz...\r\nWhat do you think\r I should do?"
+msgstr ""
+
+msgctxt "167||||4"
+msgid "Don't worry about Haruka.\r\nJust focus on your baseball."
+msgstr ""
+
+msgctxt "168||||4"
+msgid "But..."
+msgstr ""
+
+msgctxt "169||||4"
+msgid "I promise I'll bring her back."
+msgstr ""
+
+msgctxt "170||||4"
+msgid "And once I do, we'll all come cheer for\r\nyou together. Give it all you got, okay?"
+msgstr ""
+
+msgctxt "171||||4"
+msgid "I will."
+msgstr ""
+
+msgctxt "172||||4"
+msgid "Hey, um... When was the last time\r\nyou saw Haruka-chan, Uncle Kaz?"
+msgstr ""
+
+msgctxt "173||||4"
+msgid "Three years ago. She came to see me\r\nwhile I was still behind bars."
+msgstr ""
+
+msgctxt "174||||4"
+msgid "She said everyone here at\r\nMorning Glory was doing well, though."
+msgstr ""
+
+msgctxt "175||||4"
+msgid "Oh."
+msgstr ""
+
+msgctxt "176||||4"
+msgid "Even back then, I'm sure she was worried\r\nabout how you guys were coping."
+msgstr ""
+
+msgctxt "177||||4"
+msgid "This could have all been avoided if\r\nI'd just noticed it... I'm so sorry."
+msgstr ""
+
+msgctxt "178||||4"
+msgid "It's not your fault, Uncle Kaz."
+msgstr ""
+
+msgctxt "179||||4"
+msgid "But we've gotta find Haruka soon.\r\nWhat if she's caught up in something shady?"
+msgstr ""
+
+msgctxt "180||||4"
+msgid "Right. I promise I'll find her...\r\nand I'll bring her back, too."
+msgstr ""
+
+msgctxt "181||||4"
+msgid "I never thought Haruka-chan would be\r\nso worried about all of us here."
+msgstr ""
+
+msgctxt "182||||4"
+msgid "And I didn't even notice..."
+msgstr ""
+
+msgctxt "183||||4"
+msgid "It's okay."
+msgstr ""
+
+msgctxt "184||||4"
+msgid "Man, Haruka-chan worries way too much!"
+msgstr ""
+
+msgctxt "185||||4"
+msgid "Uncle Kaz! You better talk some sense\r\ninto her when you figure out where she is!"
+msgstr ""
+
+msgctxt "186||||4"
+msgid "Let her know we don't mind having her\r\naround, no matter what happens!"
+msgstr ""
+
+msgctxt "187||||4"
+msgid "Yeah, I'll tell her soon enough.\r\nDon't worry."
+msgstr ""
+
+msgctxt "188||||4"
+msgid "(I can't let them keep worrying like this.)"
+msgstr ""
+
+msgctxt "189||||4"
+msgid "(I just need to find Haruka, fast.)"
+msgstr ""
+
+msgctxt "190||||4"
+msgid "(All right... Tomorrow I'll head up to Kamurocho.)"
+msgstr ""
+
+msgctxt "191||||4"
+msgid "Well, I'm heading out."
+msgstr ""
+
+msgctxt "192||||4"
+msgid "Next time you're gonna be back,\r\nlet us know first, okay?"
+msgstr ""
+
+msgctxt "193||||4"
+msgid "It'll be cleaner if you give us some notice."
+msgstr ""
+
+msgctxt "194||||4"
+msgid "Funny you say that.\r\nWhen was the last time you cleaned, Shiro?"
+msgstr ""
+
+msgctxt "195||||4"
+msgid "You're going to Kamurocho, right?\r\nIs it gonna be dangerous, Uncle Kaz?"
+msgstr ""
+
+msgctxt "196||||4"
+msgid "Once I find Akiyama,\r\nI'll get right out of there."
+msgstr ""
+
+msgctxt "197||||4"
+msgid "I doubt I'll be there long."
+msgstr ""
+
+msgctxt "198||||4"
+msgid "Don't get too upset with Haruka-chan\r\nonce you find her, Uncle Kaz."
+msgstr ""
+
+msgctxt "199||||4"
+msgid "I won't. Mitsuo, good luck with\r\nyour baseball training."
+msgstr ""
+
+msgctxt "200||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "201||||4"
+msgid "And Taichi, Koji, Shiro,\r\nEri, Riona, Izumi, Ayako..."
+msgstr ""
+
+msgctxt "202||||4"
+msgid "I won't make you wait long this time.\r\nHaruka and I will be back soon, I promise."
+msgstr ""
+
+msgctxt "203||||4"
+msgid "Right, I almost forgot Mame."
+msgstr ""
+
+msgctxt "204||||4"
+msgid "I'm looking forward to seeing everyone\r\nsmile again. Goodbye for now."
+msgstr ""
+
+msgctxt "205||||4"
+msgid "(Akiyama's company, Sky Finance, is on\r\nTenkaichi Street. I should get going.)"
+msgstr ""
+
+msgctxt "206||||4"
+msgid "(No matter how many years pass, Kamurocho\r\nstays the same. There's always trouble.)"
+msgstr ""
+
+msgctxt "207||||4"
+msgid "Hey, stop right there!"
+msgstr ""
+
+msgctxt "208||||4"
+msgid "I knew it was you, Kiryu!"
+msgstr ""
+
+msgctxt "209||||4"
+msgid "Date-san!"
+msgstr ""
+
+msgctxt "210||||4"
+msgid "What are you doing here?\r\nWhen did you get out?"
+msgstr ""
+
+msgctxt "211||||4"
+msgid "Just the other day, actually."
+msgstr ""
+
+msgctxt "212||||4"
+msgid "Seriously? I kept telling them to\r\nlet me know when you'd get out."
+msgstr ""
+
+msgctxt "213||||4"
+msgid "Nobody said a damn word to me."
+msgstr ""
+
+msgctxt "214||||4"
+msgid "Eh, all's well that ends well.\r\nWe still\r ended up finding each other."
+msgstr ""
+
+msgctxt "215||||4"
+msgid "Hey, you've aged."
+msgstr ""
+
+msgctxt "216||||4"
+msgid "It's finally catching up to me.\r\nNot that you can talk."
+msgstr ""
+
+msgctxt "217||||4"
+msgid "Heh, fair enough."
+msgstr ""
+
+msgctxt "218||||4"
+msgid "It's been too long, Kiryu.\r\nGlad you made it through all that."
+msgstr ""
+
+msgctxt "219||||4"
+msgid "Though I would've thought you'd\r\nhead to Okinawa after getting out."
+msgstr ""
+
+msgctxt "220||||4"
+msgid "I actually just came from there."
+msgstr ""
+
+msgctxt "221||||4"
+msgid "Huh, that so?"
+msgstr ""
+
+msgctxt "222||||4"
+msgid "Looks like you're still swamped, Date-san."
+msgstr ""
+
+msgctxt "223||||4"
+msgid "There's been a murder. A Tojo guy\r\nstabbed to death by a Chinese immigrant."
+msgstr ""
+
+msgctxt "224||||4"
+msgid "Kamurocho's getting torn apart by a war\r\nbetween the Tojo Clan and the triads."
+msgstr ""
+
+msgctxt "225||||4"
+msgid "The Chinese mafia?"
+msgstr ""
+
+msgctxt "226||||4"
+msgid "Right. A lot went down while\r\nyou were behind bars."
+msgstr ""
+
+msgctxt "227||||4"
+msgid "Speaking of, did you hear about\r\nthe big Kamurocho fire last year?"
+msgstr ""
+
+msgctxt "228||||4"
+msgid "Yeah, when I was in prison."
+msgstr ""
+
+msgctxt "229||||4"
+msgid "That fire finally cost the Tojo Clan\r\ntheir chokehold on Kamurocho."
+msgstr ""
+
+msgctxt "230||||4"
+msgid "Little Asia went up in smoke, and this\r\nSaio Triad smelled blood in the water."
+msgstr ""
+
+msgctxt "231||||4"
+msgid "Their war with the Tojo Clan broke out\r\nsoon after. Even civilians are fair game now."
+msgstr ""
+
+msgctxt "232||||4"
+msgid "The cops got pretty desperate to resolve it,\r\nso they\r pinned the whole thing on the Tojo Clan."
+msgstr ""
+
+msgctxt "233||||4"
+msgid "Both Majima and Daigo Dojima\r have been arrested."
+msgstr ""
+
+msgctxt "234||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "235||||4"
+msgid "You hadn't heard?\r\nThat was almost\r six months ago."
+msgstr ""
+
+msgctxt "236||||4"
+msgid "If they got Daigo, who's calling\r\nthe shots for the Tojo Clan?"
+msgstr ""
+
+msgctxt "237||||4"
+msgid "Some advisor at the headquarters level...\r\nMan named Sugai. You know him?"
+msgstr ""
+
+msgctxt "238||||4"
+msgid "Not personally. Pretty sure he's been\r\naround since the second chairman, though."
+msgstr ""
+
+msgctxt "239||||4"
+msgid "Yup, that's the guy.\r\nNailed it."
+msgstr ""
+
+msgctxt "240||||4"
+msgid "Huh."
+msgstr ""
+
+msgctxt "241||||4"
+msgid "Anyway, you should probably stay as far\r\naway as you can from this Tojo Clan mess."
+msgstr ""
+
+msgctxt "242||||4"
+msgid "That's what landed you in prison in the\r\nfirst place. Let's change the subject."
+msgstr ""
+
+msgctxt "243||||4"
+msgid "How's Haruka doing? Come to think of it,\r\nwhy are you even in Kamurocho?"
+msgstr ""
+
+msgctxt "244||||4"
+msgid "I'm here to find Akiyama."
+msgstr ""
+
+msgctxt "245||||4"
+msgid "More specifically, I need to ask him\r\nif he knows where Haruka is."
+msgstr ""
+
+msgctxt "246||||4"
+msgid "You lost Haruka?"
+msgstr ""
+
+msgctxt "247||||4"
+msgid "She up and left Okinawa a while back.\r\nNobody knows where she is."
+msgstr ""
+
+msgctxt "248||||4"
+msgid "What the hell!?"
+msgstr ""
+
+msgctxt "249||||4"
+msgid "The kids at Morning Glory just told me."
+msgstr ""
+
+msgctxt "250||||4"
+msgid "I was thinking Akiyama might know something,\r\nbut his number's been disconnected."
+msgstr ""
+
+msgctxt "251||||4"
+msgid "You know, I've been wondering about him.\r\nDid you hear he closed up shop?"
+msgstr ""
+
+msgctxt "252||||4"
+msgid "Wait, he shut down Sky Finance?"
+msgstr ""
+
+msgctxt "253||||4"
+msgid "Apparently it's temporary. I bet\r he's\r\nstill in Kamurocho somewhere."
+msgstr ""
+
+msgctxt "254||||4"
+msgid "That said, I've heard whispers that\r\nthe triads are after him."
+msgstr ""
+
+msgctxt "255||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "256||||4"
+msgid "Sorry, but I've got to be getting back.\r\nI'll call you later, okay? We can talk then."
+msgstr ""
+
+msgctxt "257||||4"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "258||||4"
+msgid "Oh, and steer clear of Little Asia.\r\nThe triads are getting pretty ballsy."
+msgstr ""
+
+msgctxt "259||||4"
+msgid "Guy like you shouldn't even go near it."
+msgstr ""
+
+msgctxt "260||||4"
+msgid "Right, I'll be careful.\r\nThanks for everything, Date-san."
+msgstr ""
+
+msgctxt "261||||4"
+msgid "'Course. See you around."
+msgstr ""
+
+msgctxt "262||||4"
+msgid "(So, Akiyama closed Sky Finance...)"
+msgstr ""
+
+msgctxt "263||||4"
+msgid "(It's not like I have any other leads though,\r\nso I'll just check it out anyway.)"
+msgstr ""
+
+msgctxt "264||||4"
+msgid "(If I remember, it was on the fourth floor of\r\nthe Serena building. The stairs are in the back...)"
+msgstr ""
+
+msgctxt "265||||4"
+msgid "(Maybe I should hit up some of the stores\r\nI know around town for more info.)"
+msgstr ""
+
+msgctxt "266||||4"
+msgid "(This is where Sky Finance used to be...)"
+msgstr ""
+
+msgctxt "267||||4"
+msgid "(It says they're accepting tenant applications.\r\nI guess Akiyama really did sell the company.)"
+msgstr ""
+
+msgctxt "268||||4"
+msgid "Wait, did you seriously get hammered\r\nover in Little Asia last night?"
+msgstr ""
+
+msgctxt "269||||4"
+msgid "Y-Yeah. I started drinking around here..."
+msgstr ""
+
+msgctxt "270||||4"
+msgid "...but then before I knew it, I was\r\nsmack dab in the middle of Little Asia."
+msgstr ""
+
+msgctxt "271||||4"
+msgid "What were you thinking? Don't you\r\nknow how dangerous that place is?"
+msgstr ""
+
+msgctxt "272||||4"
+msgid "Once I realized, I just put my money\r\non the counter and snuck out."
+msgstr ""
+
+msgctxt "273||||4"
+msgid "You didn't drop a business card\r\nor anything, did you?"
+msgstr ""
+
+msgctxt "274||||4"
+msgid "N-No, I don't think so."
+msgstr ""
+
+msgctxt "275||||4"
+msgid "Good. Can't have the triads kicking our\r\ndoor down just to get their hands on you."
+msgstr ""
+
+msgctxt "276||||4"
+msgid "R-Right. I'm sorry for worrying you."
+msgstr ""
+
+msgctxt "277||||4"
+msgid "Huh? Is that you, Kiryu-san!?"
+msgstr ""
+
+msgctxt "278||||4"
+msgid "Long time no see, Mama."
+msgstr ""
+
+msgctxt "279||||4"
+msgid "You shouldn't surprise me like this!\r\nI might have had a heart attack!"
+msgstr ""
+
+msgctxt "280||||4"
+msgid "Heh, sorry about that."
+msgstr ""
+
+msgctxt "281||||4"
+msgid "This means you're a free man, right?\r\nI know, we should get everyone together!"
+msgstr ""
+
+msgctxt "282||||4"
+msgid "That won't be necessary, Mama.\r\nI just dropped in to say hello."
+msgstr ""
+
+msgctxt "283||||4"
+msgid "Oh, is that all?"
+msgstr ""
+
+msgctxt "284||||4"
+msgid "Anyway, I ran into Date-san.\r\nSounds like the city's getting dangerous."
+msgstr ""
+
+msgctxt "285||||4"
+msgid "It's true. Can't seem to go a day without\r\nhearing about another murder."
+msgstr ""
+
+msgctxt "286||||4"
+msgid "It feels like things are changing,\r\nand not for the better."
+msgstr ""
+
+msgctxt "287||||4"
+msgid "You should be careful, Kiryu-san."
+msgstr ""
+
+msgctxt "288||||4"
+msgid "Right."
+msgstr ""
+
+msgctxt "289||||4"
+msgid "By the way, Mama, there are\r\nsome things I wanted to ask you."
+msgstr ""
+
+msgctxt "290||||4"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "291||||4"
+msgid "Do you know where Akiyama is?"
+msgstr ""
+
+msgctxt "292||||4"
+msgid "Oh, Akiyama-san?\r\nSorry, I have no idea."
+msgstr ""
+
+msgctxt "293||||4"
+msgid "He closed shop a little while back.\r\nI haven't seen him since he left."
+msgstr ""
+
+msgctxt "294||||4"
+msgid "I just hope he hasn't gotten himself\r\nwrapped up in anything dubious."
+msgstr ""
+
+msgctxt "295||||4"
+msgid "Agreed."
+msgstr ""
+
+msgctxt "296||||4"
+msgid "Have you seen Haruka around at all?"
+msgstr ""
+
+msgctxt "297||||4"
+msgid "Huh? Haruka-chan?\r\nWhy do you ask?"
+msgstr ""
+
+msgctxt "298||||4"
+msgid "Not long after I went to jail,\r\nshe left Okinawa all by herself."
+msgstr ""
+
+msgctxt "299||||4"
+msgid "There's more to the story than that,\r\nbut I'm only back here to look for her."
+msgstr ""
+
+msgctxt "300||||4"
+msgid "Wow, that must be tough on you.\r\nI thought she was still in Okinawa."
+msgstr ""
+
+msgctxt "301||||4"
+msgid "To be honest, it's been years\r\nsince I saw her last."
+msgstr ""
+
+msgctxt "302||||4"
+msgid "I see..."
+msgstr ""
+
+msgctxt "303||||4"
+msgid "But I'll call you if I hear anything."
+msgstr ""
+
+msgctxt "304||||4"
+msgid "Oh, and feel free to drop in here\r\nwhenever you want. Don't be shy."
+msgstr ""
+
+msgctxt "305||||4"
+msgid "I appreciate it, Mama."
+msgstr ""
+
+msgctxt "306||||4"
+msgid "Sorry, we're still closed for today."
+msgstr ""
+
+msgctxt "307||||4"
+msgid "Wait, is that you, Kiryu-san!?"
+msgstr ""
+
+msgctxt "308||||4"
+msgid "It's been a while, old friend."
+msgstr ""
+
+msgctxt "309||||4"
+msgid "You're darn right it has.\r\nLet me pour you a drink, Kiryu-san."
+msgstr ""
+
+msgctxt "310||||4"
+msgid "I appreciate the offer, but I'm actually\r\njust here to ask a few questions."
+msgstr ""
+
+msgctxt "311||||4"
+msgid "That so? How can I help?"
+msgstr ""
+
+msgctxt "312||||4"
+msgid "You know Akiyama from\r\nover at Sky Finance?"
+msgstr ""
+
+msgctxt "313||||4"
+msgid "Oh, Akiyama-san.\r\nOf course I know him."
+msgstr ""
+
+msgctxt "314||||4"
+msgid "He's been impossible to reach lately.\r\nYou haven't seen him around, have you?"
+msgstr ""
+
+msgctxt "315||||4"
+msgid "To tell the truth, I haven't. He stopped\r\ntaking his strolls by here a while back."
+msgstr ""
+
+msgctxt "316||||4"
+msgid "I see."
+msgstr ""
+
+msgctxt "317||||4"
+msgid "Rumor has it, he got caught in a feud\r\nwith those folks over in Little Asia."
+msgstr ""
+
+msgctxt "318||||4"
+msgid "I haven't seen or heard from him since."
+msgstr ""
+
+msgctxt "319||||4"
+msgid "Hm, I'll keep that in mind.\r\nThanks."
+msgstr ""
+
+msgctxt "320||||4"
+msgid "Has Haruka been by here at all?"
+msgstr ""
+
+msgctxt "321||||4"
+msgid "Wait, Haruka-chan? I would have\r\nthought she'd be with you."
+msgstr ""
+
+msgctxt "322||||4"
+msgid "She's not. Long story short,\r\nI need to figure out where she is."
+msgstr ""
+
+msgctxt "323||||4"
+msgid "Oh, sorry to hear that.\r\nWish I could do more for you."
+msgstr ""
+
+msgctxt "324||||4"
+msgid "If I hear anything,\r\nyou'll be the first to know."
+msgstr ""
+
+msgctxt "325||||4"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "326||||4"
+msgid "(Looks like Little Asia is the only option\r\nI've got left. Let's just hope for the best.)"
+msgstr ""
+
+msgctxt "327||||4"
+msgid "(Hold on, didn't Little Asia burn down?\r\nThey built all this back up in a year...?)"
+msgstr ""
+
+msgctxt "328||||4"
+msgid "(If they're really this capable, no wonder\r\nthe Tojo Clan is struggling with them.)"
+msgstr ""
+
+msgctxt "329||||4"
+msgid "Goddamn Chinese!\r\nThey took out two more!"
+msgstr ""
+
+msgctxt "330||||4"
+msgid "They'll pay for this!"
+msgstr ""
+
+msgctxt "331||||4"
+msgid "These guys must be the triads."
+msgstr ""
+
+msgctxt "332||||4"
+msgid "Hey. You got problem?"
+msgstr ""
+
+msgctxt "333||||4"
+msgid "No, not really."
+msgstr ""
+
+msgctxt "334||||4"
+msgid "I don't like look of you."
+msgstr ""
+
+msgctxt "336||||4"
+msgid "That's a strange way to say hello.\r\nWhat did I do to you?"
+msgstr ""
+
+msgctxt "337||||4"
+msgid "Let go!"
+msgstr ""
+
+msgctxt "338||||4"
+msgid "Wh-Who are you?\r\nWhat you want?"
+msgstr ""
+
+msgctxt "339||||4"
+msgid "Funny you ask.\r\nI have a question for you."
+msgstr ""
+
+msgctxt "340||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "341||||4"
+msgid "Do you know a man named Akiyama?\r\nHe used\r to run a company called Sky Finance."
+msgstr ""
+
+msgctxt "342||||4"
+msgid "I was told you guys were looking for him."
+msgstr ""
+
+msgctxt "343||||4"
+msgid "I not know this Akiyama man."
+msgstr ""
+
+msgctxt "344||||4"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "346||||4"
+msgid "[Hey, we're done here. Come on.]"
+msgstr ""
+
+msgctxt "347||||4"
+msgid "Th-There's no mistaking him.\r\nThat guy is the fourth chairman."
+msgstr ""
+
+msgctxt "348||||4"
+msgid "The Dragon of Dojima is back?"
+msgstr ""
+
+msgctxt "349||||4"
+msgid "Let's go. HQ needs to hear this."
+msgstr ""
+
+msgctxt "350||||4"
+msgid "(Looks like I've hit a dead end here.)"
+msgstr ""
+
+msgctxt "351||||4"
+msgid "(I guess I'll head back to Sky Finance\r\nto see what I can learn.)"
+msgstr ""
+
+msgctxt "352||||4"
+msgid "What you want? This area off-limits.\r\nGo away."
+msgstr ""
+
+msgctxt "353||||4"
+msgid "(More Chinese? They seem to be triads too.)"
+msgstr ""
+
+msgctxt "354||||4"
+msgid "Why you just stand there?\r\nHurry up and go!"
+msgstr ""
+
+msgctxt "355||||4"
+msgid "No need to take that tone.\r\nAre you hiding something back there?"
+msgstr ""
+
+msgctxt "356||||4"
+msgid "Absolutely not!\r\nJust get out of here like I say!"
+msgstr ""
+
+msgctxt "358||||4"
+msgid "What you think you doing?\r\nWhy you so quiet?"
+msgstr ""
+
+msgctxt "360||||4"
+msgid "Fine, you got it. You wanna know what we\r\ngot back here so bad, I let you see. Come."
+msgstr ""
+
+msgctxt "361||||4"
+msgid "[Stay here.\r\nMake sure nobody else gets in.]"
+msgstr ""
+
+msgctxt "362||||4"
+msgid "[Hey, who the hell is that guy? I thought\r\nI told you not to let anyone back here!]"
+msgstr ""
+
+msgctxt "363||||4"
+msgid "[Some shady bastard. He insisted, so I\r\nthought we'd have him join the party.]"
+msgstr ""
+
+msgctxt "364||||4"
+msgid "[What should we do with him then?\r\nYou want to kill him too?]"
+msgstr ""
+
+msgctxt "365||||4"
+msgid "[Fine by me. Killing one more of\r\nthese fools won't make a difference.]"
+msgstr ""
+
+msgctxt "366||||4"
+msgid "Kinda weird. I don't speak a word of\r\nChinese, but I got the gist of that."
+msgstr ""
+
+msgctxt "367||||4"
+msgid "Wait, you're Japanese, aren't you!?"
+msgstr ""
+
+msgctxt "368||||4"
+msgid "Help! They're gonna slice me to bits!\r\nPlease, you gotta help me!"
+msgstr ""
+
+msgctxt "369||||4"
+msgid "Shut up!"
+msgstr ""
+
+msgctxt "371||||4"
+msgid "I'm not sure what's going on here,\r\nbut I can't just leave this guy to die."
+msgstr ""
+
+msgctxt "372||||4"
+msgid "Hm? You really want to take all of\r\nus at once? This going to be fun."
+msgstr ""
+
+msgctxt "373||||4"
+msgid "[Don't hold anything back.\r\nLet's kill this bastard!]"
+msgstr ""
+
+msgctxt "374||||4"
+msgid "Ah, I'm saved!\r\nHey, come untie me. Hurry!"
+msgstr ""
+
+msgctxt "376||||4"
+msgid "I can't believe I'm still alive.\r\nGuess I should be thanking you."
+msgstr ""
+
+msgctxt "377||||4"
+msgid "I gotta say, old man, you're a crazy\r\ngood fighter. That was incredible!"
+msgstr ""
+
+msgctxt "378||||4"
+msgid "That's enough about me.\r\nWhy were these guys trying to kill you?"
+msgstr ""
+
+msgctxt "379||||4"
+msgid "Well... Because I'm in the Tojo Clan."
+msgstr ""
+
+msgctxt "380||||4"
+msgid "The triads will go after any yakuza\r\nthey spot, even green ones like me."
+msgstr ""
+
+msgctxt "381||||4"
+msgid "Traveling in groups seems to be the\r\nonly way to make them back down."
+msgstr ""
+
+msgctxt "382||||4"
+msgid "I was just unlucky enough to get\r\ncaught\r while I was out by myself."
+msgstr ""
+
+msgctxt "383||||4"
+msgid "So that attack was totally unprovoked?\r\nThey must really be out for blood."
+msgstr ""
+
+msgctxt "384||||4"
+msgid "It's not just Tojo guys either. They're\r\neven\r going after gray-area civilians."
+msgstr ""
+
+msgctxt "385||||4"
+msgid "Anyone with half a brain has gone\r\ninto hiding to avoid getting targeted."
+msgstr ""
+
+msgctxt "386||||4"
+msgid "Interesting."
+msgstr ""
+
+msgctxt "387||||4"
+msgid "I get it now. That must be why they're\r\nhunting down Akiyama, too."
+msgstr ""
+
+msgctxt "388||||4"
+msgid "Did you just say Akiyama?"
+msgstr ""
+
+msgctxt "389||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "390||||4"
+msgid "The guy from Sky Finance?\r\nShun Akiyama?"
+msgstr ""
+
+msgctxt "391||||4"
+msgid "You know him?"
+msgstr ""
+
+msgctxt "392||||4"
+msgid "Hell yeah I do. Sky Finance used to\r\nbe right here in this building."
+msgstr ""
+
+msgctxt "393||||4"
+msgid "It shut down a few months ago, though."
+msgstr ""
+
+msgctxt "394||||4"
+msgid "I heard Akiyama's been avoiding the\r\nChinese ever since."
+msgstr ""
+
+msgctxt "395||||4"
+msgid "He's got connections to the Tojo Clan's\r\nsixth chairman, so they want him bad."
+msgstr ""
+
+msgctxt "396||||4"
+msgid "Do you know where\r Akiyama is now?"
+msgstr ""
+
+msgctxt "397||||4"
+msgid "Not exactly. I saw him around\r\npretty recently, though."
+msgstr ""
+
+msgctxt "398||||4"
+msgid "He was looking pretty rough, chilling with\r a\r\nbunch of hobos over at the Children's Park."
+msgstr ""
+
+msgctxt "399||||4"
+msgid "You looking for Akiyama too, old man?"
+msgstr ""
+
+msgctxt "400||||4"
+msgid "I am. Thanks for the info."
+msgstr ""
+
+msgctxt "401||||4"
+msgid "It's the least I can do!\r\nYou totally saved my life!"
+msgstr ""
+
+msgctxt "402||||4"
+msgid "Hey, I'm Murota from the Jinsei Family.\r\nI'm a recent recruit, but I know I can help."
+msgstr ""
+
+msgctxt "403||||4"
+msgid "What's your name, tough guy?"
+msgstr ""
+
+msgctxt "404||||4"
+msgid "Kiryu."
+msgstr ""
+
+msgctxt "405||||4"
+msgid "Kiryu-san, huh...\r\nWell, I'll see you around!"
+msgstr ""
+
+msgctxt "406||||4"
+msgid "Kiryu... Kiryu...?\r\nKazuma Kiryu...!?"
+msgstr ""
+
+msgctxt "407||||4"
+msgid "Nahhh, no way."
+msgstr ""
+
+msgctxt "408||||4"
+msgid "Th-That couldn't have been him... Right?"
+msgstr ""
+
+msgctxt "409||||4"
+msgid "Hey, man. You know a guy named Akiyama?"
+msgstr ""
+
+msgctxt "410||||4"
+msgid "He used to run a loan company\r called Sky Finance."
+msgstr ""
+
+msgctxt "411||||4"
+msgid "I heard he was seen here recently."
+msgstr ""
+
+msgctxt "412||||4"
+msgid "What've you got to do with him?"
+msgstr ""
+
+msgctxt "413||||4"
+msgid "He's an old friend of mine. Now what do\r\nyou know about Akiyama? Where is he?"
+msgstr ""
+
+msgctxt "414||||4"
+msgid "Who can say?"
+msgstr ""
+
+msgctxt "415||||4"
+msgid "Tell me what you know. Kiryu's the one\r\nasking, if that counts for anything."
+msgstr ""
+
+msgctxt "416||||4"
+msgid "Wait, Kiryu?\r\nAs in, Kazuma Kiryu?"
+msgstr ""
+
+msgctxt "417||||4"
+msgid "That's right."
+msgstr ""
+
+msgctxt "418||||4"
+msgid "S-Seriously?"
+msgstr ""
+
+msgctxt "419||||4"
+msgid "Man, I knew I recognized you somehow.\r\nI think I saw you on TV a ways back!"
+msgstr ""
+
+msgctxt "420||||4"
+msgid "Weren't you on the news or something?\r\nMaybe three or four years ago?"
+msgstr ""
+
+msgctxt "421||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "422||||4"
+msgid "Akiyama-san's mentioned you before.\r\nHm, he'd probably wanna see you."
+msgstr ""
+
+msgctxt "423||||4"
+msgid "So you know where he is after all.\r\nWhere can I find him?"
+msgstr ""
+
+msgctxt "424||||4"
+msgid "He's close. I could show you..."
+msgstr ""
+
+msgctxt "425||||4"
+msgid "...But there's something I need before\r\nI can do that. Got time to hear me out?"
+msgstr ""
+
+msgctxt "426||||4"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "427||||4"
+msgid "Could you maybe grab me one of\r\nthem convenience store bentos?"
+msgstr ""
+
+msgctxt "428||||4"
+msgid "Hm? That's all?"
+msgstr ""
+
+msgctxt "429||||4"
+msgid "That's all. Happiness is a warm meal,\r\nyou know?"
+msgstr ""
+
+msgctxt "430||||4"
+msgid "After ya've been on the streets this long,\r\nthat's all that really matters."
+msgstr ""
+
+msgctxt "431||||4"
+msgid "All right. I'll be back soon."
+msgstr ""
+
+msgctxt "432||||4"
+msgid "Here you go.\r\nI brought you a bento."
+msgstr ""
+
+msgctxt "433||||4"
+msgid "Thanks, friend.\r\nMan, I'm starving."
+msgstr ""
+
+msgctxt "434||||4"
+msgid "Mmm, so freaking good. It's been\r\nages since I've felt this full."
+msgstr ""
+
+msgctxt "435||||4"
+msgid "Guess I should keep my promise.\r\nI'll tell you where Akiyama is."
+msgstr ""
+
+msgctxt "436||||4"
+msgid "You said he's close by, right?"
+msgstr ""
+
+msgctxt "437||||4"
+msgid "Yup, closer than you'd think."
+msgstr ""
+
+msgctxt "438||||4"
+msgid "Just down here."
+msgstr ""
+
+msgctxt "439||||4"
+msgid "I see what you meant by \"close.\"\r\nAkiyama's inside, then?"
+msgstr ""
+
+msgctxt "440||||4"
+msgid "You'll find out soon enough."
+msgstr ""
+
+msgctxt "441||||4"
+msgid "Then... You don't know\r\nwhere Haruka is either."
+msgstr ""
+
+msgctxt "442||||4"
+msgid "I'm sorry, Kiryu-san. I know you came\r\nall the way from Okinawa for this."
+msgstr ""
+
+msgctxt "443||||4"
+msgid "It's okay. I didn't even stop to consider\r\nyour situation before barging in here."
+msgstr ""
+
+msgctxt "444||||4"
+msgid "So what's the plan now?"
+msgstr ""
+
+msgctxt "445||||4"
+msgid "I'll keep asking around Kamurocho\r\nabout\r Haruka. Not much choice."
+msgstr ""
+
+msgctxt "446||||4"
+msgid "You know I'd help if I could."
+msgstr ""
+
+msgctxt "447||||4"
+msgid "Just keep yourself safe."
+msgstr ""
+
+msgctxt "448||||4"
+msgid "Oh crap..."
+msgstr ""
+
+msgctxt "449||||4"
+msgid "Who's he?"
+msgstr ""
+
+msgctxt "450||||4"
+msgid "The big guy in the back? That's Ed.\r\nHe's the Saio Triad's welcoming committee."
+msgstr ""
+
+msgctxt "451||||4"
+msgid "Ed?"
+msgstr ""
+
+msgctxt "452||||4"
+msgid "Not to pin this all on you, but...\r\nKiryu-san, were you followed?"
+msgstr ""
+
+msgctxt "454||||4"
+msgid "Hey, that look..."
+msgstr ""
+
+msgctxt "455||||4"
+msgid "I heard a very interesting man\r\nshowed up in Kamurocho today."
+msgstr ""
+
+msgctxt "456||||4"
+msgid "Quite convenient that he\r\nled me right to Akiyama here."
+msgstr ""
+
+msgctxt "457||||4"
+msgid "So, this guy is actually strong enough\r\nto force you into hiding?"
+msgstr ""
+
+msgctxt "458||||4"
+msgid "Well, he did make me abandon my\r\ncompany\r and move to the sewers."
+msgstr ""
+
+msgctxt "459||||4"
+msgid "I almost didn't recognize you,\r\nAkiyama-san."
+msgstr ""
+
+msgctxt "460||||4"
+msgid "You used to have such style, but now\r\nyour\r stench makes the bigger impact."
+msgstr ""
+
+msgctxt "461||||4"
+msgid "He's really good at pissing me off, too."
+msgstr ""
+
+msgctxt "462||||4"
+msgid "And Akiyama-san has a guest. I see now.\r\nOur grunts were never a match for you."
+msgstr ""
+
+msgctxt "463||||4"
+msgid "You're... Kazuma Kiryu, aren't you?"
+msgstr ""
+
+msgctxt "465||||4"
+msgid "Former Tojo Clan Fourth Chairman,\r\nthe Dragon\r of Dojima. A legend among yakuza."
+msgstr ""
+
+msgctxt "466||||4"
+msgid "Your name made the list as well."
+msgstr ""
+
+msgctxt "467||||4"
+msgid "Kiryu-san. You as rusty as the bars\r\nyou were locked behind?"
+msgstr ""
+
+msgctxt "468||||4"
+msgid "Not sure. I never skipped\r\nmy morning exercises, though."
+msgstr ""
+
+msgctxt "469||||4"
+msgid "What a healthy guy."
+msgstr ""
+
+msgctxt "470||||4"
+msgid "Unfortunately for you, yakuza\r cannot\r\nchoose where they meet their end."
+msgstr ""
+
+msgctxt "471||||4"
+msgid "The two of you will die where you stand!"
+msgstr ""
+
+msgctxt "472||||4"
+msgid "You cowards! How dare you\r\nteam up against a single opponent!"
+msgstr ""
+
+msgctxt "473||||4"
+msgid "You're one to talk. By my count,\r\nyou had four dudes backing you up."
+msgstr ""
+
+msgctxt "474||||4"
+msgid "Consider this fight a mere greeting.\r\nI will see the two of you again."
+msgstr ""
+
+msgctxt "477||||4"
+msgid "You know, there's no way I could've\r\nhandled that guy without you."
+msgstr ""
+
+msgctxt "478||||4"
+msgid "Glad you're on my side, Kiryu-san."
+msgstr ""
+
+msgctxt "479||||4"
+msgid "Likewise. Even so, he got\r\naway fairly unscathed."
+msgstr ""
+
+msgctxt "480||||4"
+msgid "There a lot of guys in the triad like him?"
+msgstr ""
+
+msgctxt "481||||4"
+msgid "I prefer to think of him as an exception."
+msgstr ""
+
+msgctxt "482||||4"
+msgid "Either way, my palace here isn't much of\r\na hideout anymore. Let's head up."
+msgstr ""
+
+msgctxt "484||||4"
+msgid "(How did Haruka end up in an accident?\r\nDamn it, what's going on here!?)"
+msgstr ""
+

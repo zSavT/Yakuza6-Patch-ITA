@@ -2,7 +2,7 @@
 ;==========================================
 ; Title:  packager.py
 ; Author: zSavT
-; Date:   12/04/2025
+; Date:   12/04/2024
 ;==========================================
 
 Script per creare un archivio ZIP criptato (.pkg) di una cartella specificata.

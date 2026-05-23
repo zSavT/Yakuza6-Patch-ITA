@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||adventure||name"
+msgid "Adventure"
+msgstr "Avventura"
+
+msgctxt "2||battle||name"
+msgid "Battle"
+msgstr "Battaglia"
+
+msgctxt "3||substory||name"
+msgid "Substories"
+msgstr "Storie secondarie"
+
+msgctxt "4||playspot||name"
+msgid "Minigames"
+msgstr "Minigiochi"
+
+msgctxt "5||clan_creator||name"
+msgid "Clan Creator"
+msgstr "Creatore di Clan"

@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "2||||4"
+msgid "Hm?"
+msgstr "Mhm?"
+
+msgctxt "3||||4"
+msgid "Oh, that laughter's coming from the bar..."
+msgstr "Oh, quelle risate vengono dal bar..."
+
+msgctxt "4||||4"
+msgid "Come to think of it, I haven't gone\r\ninto a bar for laughs and drinks here..."
+msgstr "A pensarci bene, qui non sono ancora andato\r\nin un bar per bere qualcosa e farmi due risate..."
+
+msgctxt "5||||4"
+msgid "Well, I guess I drank with Haruto at\r\nKiyomi's bar... But he was drinking milk."
+msgstr "Beh, in realtà ho bevuto con Haruto al\r\nbar di Kiyomi... ma lui beveva latte."
+
+msgctxt "6||||4"
+msgid "Hm? What're ya doin' standing out\r\nhere gawkin' at the bar?"
+msgstr "Mh? Che ci fai piantato\r\nqui fuori a fissare il bar?"
+
+msgctxt "7||||4"
+msgid "Oh, I get it, y'must be too nervous\r\nto go in because it's your first time!"
+msgstr "Oh, ho capito, devi essere troppo nervoso per\r\nentrare perché è la tua prima volta!"
+
+msgctxt "8||||4"
+msgid "N-No, that's not it..."
+msgstr "N-No, non è per questo..."
+
+msgctxt "9||||4"
+msgid "No need t'feel ashamed,\r\nI was in your shoes once."
+msgstr "Non c'è bisogno di vergognarsi,\r\nsono stato nei tuoi panni un tempo."
+
+msgctxt "10||||4"
+msgid "I remember peekin' in the door a bit\r\nt'see what it was like inside..."
+msgstr "Ricordo di aver sbirciato un po' dalla porta\r\nper vedere com'era dentro..."
+
+msgctxt "11||||4"
+msgid "Yer lookin' like a newcomer to\r\nbar culture. That right?"
+msgstr "Hai l'aria di un novellino della\r\ncultura dei bar. Dico bene?"
+
+msgctxt "12||||4"
+msgid "I don't know if that's really a thing,\r\nbut yeah, I grew out of the bar scene."
+msgstr "Non so se si possa chiamare così,\r\nma sì, non frequento più i bar da un po'."
+
+msgctxt "13||||4"
+msgid "Alrighty then! Fate musta sent ya\r\nmy way, then. I'll join ya. C'mon!"
+msgstr "D'accordo allora! Il destino deve averti mandato\r\nsulla mia strada. Vengo con te. Andiamo!"
+
+msgctxt "14||||4"
+msgid "W-Wait, I never said I wanted to..."
+msgstr "A-Aspetta, non ho mai detto di voler..."
+
+msgctxt "15||||4"
+msgid "Now now, not another word. It's my treat. \r\n'Sides, a drink with Mama cures what ails ya!"
+msgstr "Su, su, non un'altra parola. Offro io.\r\nE poi, un drink con Mama cura ogni male!"
+
+msgctxt "16||||4"
+msgid "Not t'mention drinking buddies.\r\nStep on in."
+msgstr "Senza contare i compagni di bevute.\r\nEntra pure."
+
+msgctxt "17||||4"
+msgid "Heh... Well, one glass wouldn't hurt."
+msgstr "Heh... Beh, un bicchiere non farà male."
+
+msgctxt "18||||4"
+msgid "That's the spirit! C'mon now!\r\nNo time like the present."
+msgstr "Questo è lo spirito! Dai, andiamo!\r\nNon c'è momento migliore del presente."
+
+msgctxt "19||||4"
+msgid "Hey Mama, I'm back!"
+msgstr "Ehi Mama, sono tornato!"
+
+msgctxt "20||||4"
+msgid "Welcome back, Hatakeyama-san!\r\nThis a friend of yours?"
+msgstr "Bentornato, Hatakeyama-san!\r\nÈ un tuo amico?"
+
+msgctxt "21||||4"
+msgid "He was peepin' inside, so I invited him in.\r\nUm... Oh wait, I didn't catch yer name."
+msgstr "Stava sbirciando dentro, così l'ho invitato a entrare.\r\nEhm... Oh aspetta, non mi hai detto il tuo nome."
+
+msgctxt "22||||4"
+msgid "Oh, I'm Kazuma Kiryu."
+msgstr "Oh, sono Kazuma Kiryu."
+
+msgctxt "23||||4"
+msgid "Kiryu-san, eh?\r\nI'm Hatakeyama."
+msgstr "Kiryu-san, eh?\r\nIo sono Hatakeyama."
+
+msgctxt "24||||4"
+msgid "Glad t'meetchya, Kiryu-san.\r\nWelcome."
+msgstr "Piacere di conoscerti, Kiryu-san.\r\nBenvenuto."
+
+msgctxt "25||||4"
+msgid "Y-Yeah."
+msgstr "S-Sì."
+
+msgctxt "26||||4"
+msgid "Tch, y'ain't welcome. I don't much\r\ncare fer strangers gettin' in my space."
+msgstr "Tsk, non sei il benvenuto. Non mi piace\r\nche gli estranei invadano i miei spazi."
+
+msgctxt "28||||4"
+msgid "Hey Kaneko-san. Don't be like that.\r\nThe bar's open to everyone."
+msgstr "Ehi Kaneko-san. Non fare così.\r\nIl bar è aperto a tutti."
+
+msgctxt "29||||4"
+msgid "Feh."
+msgstr "Tsk."
+
+msgctxt "30||||4"
+msgid "W-Well, we have some fussy regulars, but\r\nhe'll warm up t'ya the more ya stop in."
+msgstr "B-Beh, abbiamo dei clienti abituali difficili, ma\r\nsi scioglierà man mano che verrai qui."
+
+msgctxt "31||||4"
+msgid "That all it takes?"
+msgstr "Basta solo questo?"
+
+msgctxt "32||||4"
+msgid "Let's just have a drink. I'll show ya\r\nhow t'enjoy yourself at a bar."
+msgstr "Beviamoci su. Ti mostrerò\r\ncome divertirti in un bar."
+
+msgctxt "33||||4"
+msgid "Oh, Mama, gimme the usual.\r\nMake it double for Kiryu-san here."
+msgstr "Oh, Mama, dammi il solito.\r\nE fanne uno doppio per Kiryu-san."
+
+msgctxt "34||||4"
+msgid "Sure."
+msgstr "Subito."
+
+msgctxt "35||||4"
+msgid "Alrighty then, lemme give ya the\r\nscoop on small town bar culture."
+msgstr "D'accordo, allora, lascia che ti dia\r\nqualche dritta sulla cultura dei bar di provincia."
+
+msgctxt "36||||4"
+msgid "Hey, don't get too big fer yer\r\nbritches now."
+msgstr "Ehi, non darti troppe\r\narie, adesso."
+
+msgctxt "37||||4"
+msgid "I-I know that!\r\nI'm doin' him a kindness here."
+msgstr "L-Lo so!\r\nGli sto facendo un favore."
+
+msgctxt "38||||4"
+msgid "'Sides, if Kiryu-san becomes a regular,\r\nit's your sales goin' up, ain't it Mama?"
+msgstr "E poi, se Kiryu-san diventa un cliente fisso,\r\ni tuoi incassi saliranno, non è vero Mama?"
+
+msgctxt "39||||4"
+msgid "That's a fine point. Hatakeyama-san,\r\nyou tell him jus' how great we are, then."
+msgstr "Ottima osservazione. Hatakeyama-san,\r\ngli spieghi tu quanto siamo fantastici, allora."
+
+msgctxt "40||||4"
+msgid "Y-Yeah..."
+msgstr "S-Sì..."
+
+msgctxt "41||||4"
+msgid "Anyhow, bars are great for enjoying a drink\r\nand a chat with all sortsa different folks."
+msgstr "Comunque, i bar sono fantastici per godersi un drink\r\ne scambiare due chiacchiere con persone diverse."
+
+msgctxt "42||||4"
+msgid "Sometimes we even gather around\r\nto have a long, lively conversation."
+msgstr "A volte ci riuniamo anche\r\nper fare lunghe e vivaci conversazioni."
+
+msgctxt "43||||4"
+msgid "Huh, everyone's like family then..."
+msgstr "Oh, siete tutti come una famiglia, allora..."
+
+msgctxt "44||||4"
+msgid "Those talks are a right good time. Though\r\nwe usually talk about pretty dumb stuff."
+msgstr "Quelle chiacchierate sono davvero divertenti. Anche se\r\ndi solito parliamo di cose piuttosto stupide."
+
+msgctxt "45||||4"
+msgid "Mhm, Kiryu-san, once you're friendly with\r\neveryone, join in and liven up conversations."
+msgstr "Mhm, Kiryu-san, una volta che avrai preso confidenza\r\ncon tutti, unisciti a noi e ravviva le conversazioni."
+
+msgctxt "46||||4"
+msgid "O-Okay, got it.\r\nI need to be friendly, huh...?"
+msgstr "O-Okay, capito.\r\nDevo prendere confidenza, eh...?"
+
+msgctxt "47||||4"
+msgid "Oh, y'ain't worried about all this, are ya?\r\nDon't be, everyone here's good at heart."
+msgstr "Oh, non ti starai mica preoccupando per questo?\r\nNon farlo, qui sono tutti dei bravi ragazzi in fondo."
+
+msgctxt "48||||4"
+msgid "Exactly, don't sweat it. All the\r\nregulars here have their particulars."
+msgstr "Esatto, non preoccuparti. Tutti i\r\nclienti abituali qui hanno le loro particolarità."
+
+msgctxt "49||||4"
+msgid "Right, Kaneko-san?"
+msgstr "Vero, Kaneko-san?"
+
+msgctxt "50||||4"
+msgid "Oh, shut it."
+msgstr "Oh, piantala."
+
+msgctxt "51||||4"
+msgid "Some day soon you'll fit right in\r\nwith us here, Kiryu-san."
+msgstr "Molto presto ti integrerai\r\ncon noi, Kiryu-san."
+
+msgctxt "52||||4"
+msgid "My bar offers karaoke n' darts, too.\r\nNothin' beats those fer makin' friends."
+msgstr "Il mio bar offre anche karaoke e freccette.\r\nNon c'è niente di meglio per farsi degli amici."
+
+msgctxt "53||||4"
+msgid "Oh yeah, Gen-san loves his karaoke."
+msgstr "Oh sì, Gen-san adora il karaoke."
+
+msgctxt "54||||4"
+msgid "Doesn't he?"
+msgstr "Vero?"
+
+msgctxt "55||||4"
+msgid "Heh, seems like a lively little place."
+msgstr "Heh, sembra un posticino vivace."
+
+msgctxt "56||||4"
+msgid "Yeah, 'cept most of us're all old men."
+msgstr "Già, peccato che quasi tutti noi siamo dei vecchietti."
+
+msgctxt "57||||4"
+msgid "So all these older guys have their\r\neyes on the mama then?"
+msgstr "Quindi tutti questi uomini più grandi\r\nhanno messo gli occhi su Mama?"
+
+msgctxt "58||||4"
+msgid "Well, sure Mama's a pretty number,\r\nbut she don't put up with no tomfoolery."
+msgstr "Beh, certo, Mama è una bella donna,\r\nma non sopporta le sciocchezze."
+
+msgctxt "59||||4"
+msgid "Huh..."
+msgstr "Mh..."
+
+msgctxt "60||||4"
+msgid "Oh, y'see that sofa yonder?"
+msgstr "Oh, vedi quel divano laggiù?"
+
+msgctxt "61||||4"
+msgid "The center seat is the throne of the\r\nbar... A man has t'earn that seat."
+msgstr "Il posto al centro è il trono del\r\nbar... Un uomo deve guadagnarsi quel posto."
+
+msgctxt "62||||4"
+msgid "Th-Throne...?"
+msgstr "Tr-Trono...?"
+
+msgctxt "63||||4"
+msgid "Yeah. Unless you're the king of regulars,\r\ny'ain't allowed t'drink from that spot."
+msgstr "Già. A meno che tu non sia il re dei clienti abituali,\r\nnon ti è permesso bere da quel posto."
+
+msgctxt "64||||4"
+msgid "In other words, it means it's reserved\r\nfor the one true King of New Gaudi."
+msgstr "In altre parole, è riservato\r\nall'unico vero Re del New Gaudi."
+
+msgctxt "65||||4"
+msgid "King of New Gaudi... Huh."
+msgstr "Re del New Gaudi... Mh."
+
+msgctxt "66||||4"
+msgid "And, y'best known Mama's approval don't\r\ncome easy. She's a tough cookie to figure."
+msgstr "E l'approvazione di Mama non si ottiene\r\nfacilmente. È un osso duro."
+
+msgctxt "67||||4"
+msgid "She's genuine and nice, but a right mystery.\r\nShe don't jus' open her heart to anyone..."
+msgstr "È genuina e gentile, ma è un vero mistero.\r\nNon apre il suo cuore a chiunque..."
+
+msgctxt "68||||4"
+msgid "Hatakeyama-san, I can hear every word!"
+msgstr "Hatakeyama-san, sento ogni parola!"
+
+msgctxt "69||||4"
+msgid "Oh no, that's um, not my opinion.\r\nJus' word 'round the campfire..."
+msgstr "Oh no, questa ehm, non è un'opinione mia.\r\nSono solo voci che girano..."
+
+msgctxt "71||||4"
+msgid "So much fer my chance at the throne..."
+msgstr "Addio alle mie possibilità di salire al trono..."
+
+msgctxt "72||||4"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "73||||4"
+msgid "W-Well, Kiryu-san, if y'want to sit there,\r\ny'best start gettin' friendly with folks."
+msgstr "B-Beh, Kiryu-san, se vuoi sederti lì,\r\nti conviene iniziare a fare amicizia con la gente."
+
+msgctxt "74||||4"
+msgid "Hmm, I see. Basically, I just need\r\nto talk to all the customers."
+msgstr "Mh, capisco. In sostanza, devo\r\nchiacchierare con tutti i clienti."
+
+msgctxt "75||||4"
+msgid "That's right. If y'keep widening your\r\ncircle, only good'll come of it!"
+msgstr "Esatto. Se continui ad allargare le tue\r\nconoscenze, non potrà che derivarne del buono!"
+
+msgctxt "76||||4"
+msgid "Like I said, all the regulars here are good folks.\r\nThey're there when you need them."
+msgstr "Come ho detto, tutti i clienti abituali qui sono brave persone.\r\nCi sono quando ne hai bisogno."
+
+msgctxt "77||||4"
+msgid "Heh... Is that so? Thanks for today.\r\nI had a great time and a nice drink."
+msgstr "Heh... Davvero? Grazie per oggi.\r\nMi sono divertito e ho bevuto un buon drink."
+
+msgctxt "78||||4"
+msgid "Let's drink again soon, Kiryu-san."
+msgstr "Beviamo di nuovo insieme, Kiryu-san."
+
+msgctxt "79||||4"
+msgid "We'll be here fer ya, Kiryu-san.\r\nAnd Hatakeyama-san, let's have some words."
+msgstr "Noi saremo qui per te, Kiryu-san.\r\nE Hatakeyama-san, dobbiamo fare due chiacchiere."
+
+msgctxt "80||||4"
+msgid "Y-Yeah..."
+msgstr "S-Sì..."
+
+msgctxt "81||||4"
+msgid "The New Gaudi Bar, huh? Might be a nice\r\nplace to come in for a drink once in a while."
+msgstr "Il bar New Gaudi, eh? Potrebbe essere un bel\r\nposto dove bere qualcosa, di tanto in tanto."
+
+msgctxt "82||||4"
+msgid "There's some real characters here.\r\nMaybe I'll even make some friends."
+msgstr "Ci sono dei veri e propri personaggi qui.\r\nForse mi farò anche degli amici."
+
+msgctxt "83||||4"
+msgid "I'll check back if I find the time."
+msgstr "Ci tornerò se trovo il tempo."

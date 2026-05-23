@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||money||title"
+msgid "Money"
+msgstr "Denaro"
+
+msgctxt "2||exp_muscle||title"
+msgid "Strength"
+msgstr "Forza"
+
+msgctxt "3||exp_quickness||title"
+msgid "Agility"
+msgstr "Agilità"
+
+msgctxt "4||exp_guts||title"
+msgid "Spirit"
+msgstr "Spirito"
+
+msgctxt "5||exp_technique||title"
+msgid "Technique"
+msgstr "Tecnica"
+
+msgctxt "6||exp_charm||title"
+msgid "Charm"
+msgstr "Fascino"
+
+msgctxt "7||stomach||title"
+msgid "Hunger"
+msgstr "Fame"
+
+msgctxt "8||ten_mahjong||title"
+msgid "Mahjong Points"
+msgstr "Punti Mahjong"
+
+msgctxt "9||ability_hit_point||title"
+msgid "Health"
+msgstr "Salute"
+
+msgctxt "10||ability_attack||title"
+msgid "Attack"
+msgstr "Attacco"
+
+msgctxt "11||ability_defense||title"
+msgid "Defense"
+msgstr "Difesa"
+
+msgctxt "12||ability_agility||title"
+msgid "Evasion"
+msgstr "Schivata"
+
+msgctxt "13||ability_heat_gauge||title"
+msgid "Heat Gauge"
+msgstr "Barra Furore"
+
+msgctxt "14||ability_resist_sword||title"
+msgid "Blade Resistance"
+msgstr "Resistenza alle lame"
+
+msgctxt "15||ability_resist_gun||title"
+msgid "Gun Resistance"
+msgstr "Resistenza alle armi da fuoco"
+
+msgctxt "16||ability_stamina||title"
+msgid "Stamina"
+msgstr "Resistenza"
+
+msgctxt "44||training_ticket||title"
+msgid "Training Tickets"
+msgstr "Ticket allenamento"
+
+msgctxt "1||money||unit"
+msgid "yen"
+msgstr "yen"
+
+msgctxt "7||stomach||unit"
+msgid "%"
+msgstr "%"

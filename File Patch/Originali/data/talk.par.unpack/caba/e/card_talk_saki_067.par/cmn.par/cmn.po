@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 28
+msgctxt "Offset_0xC714_Len_28"
+msgid "I saw you in a match, maybe."
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0xC754_Len_22"
+msgid "I was overthinking it."
+msgstr ""
+
+#. Max bytes: 27
+msgctxt "Offset_0xC794_Len_27"
+msgid "Maybe... we met in a dream."
+msgstr ""
+

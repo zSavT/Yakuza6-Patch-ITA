@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "20||base_on_balls_advance||text"
+msgid "A keen eye is what got him on base that time."
+msgstr ""
+
+msgctxt "24||error_advance||text"
+msgid "<color=baseball_player>${player_name}</color> made it on base thanks to that <color=baseball_base_on_balls>error</color>!"
+msgstr ""
+
+msgctxt "41||playball_0||text"
+msgid "This is <color=baseball_player>Miyaken</color>, your village nobody color commentator!"
+msgstr ""
+
+msgctxt "42||playball_1||text"
+msgid "It's <color=baseball_player>Miyaken</color> on the color commentary! My life is a sacrifice bunt!"
+msgstr ""
+
+msgctxt "43||playball_2||text"
+msgid "Today's color commentary by \"I haven't told my wife that I'm here\" <color=baseball_player>Miyaken</color>!"
+msgstr ""
+
+msgctxt "44||gameset_0||text"
+msgid "There's the ball game! The <color=baseball_player>${team_name}</color> win!"
+msgstr ""
+
+msgctxt "45||gameset_1||text"
+msgid "That's it for this game! The <color=baseball_player>${team_name}</color> win!"
+msgstr ""
+
+msgctxt "46||gameset_2||text"
+msgid "Side retired! The <color=baseball_player>${team_name}</color> win!"
+msgstr ""
+
+msgctxt "47||change_player_0||text"
+msgid "Looks like <color=baseball_player>${player_name}</color> will be filling in for <color=baseball_player>${prev_player_name}</color>."
+msgstr ""
+
+msgctxt "48||change_player_1||text"
+msgid "Here comes <color=baseball_player>${player_name}</color> filling in for <color=baseball_player>${prev_player_name}</color>!"
+msgstr ""
+
+msgctxt "49||change_player_2||text"
+msgid "Now, <color=baseball_player>${player_name}</color> is filling in for <color=baseball_player>${prev_player_name}</color>!"
+msgstr ""
+
+msgctxt "50||change_player_3||text"
+msgid "Here comes <color=baseball_player>${player_name}</color> as the pinch-hitter!"
+msgstr ""
+
+msgctxt "51||in_batter_box_0||text"
+msgid "Number ${order_index} ${position}<color=baseball_player> ${player_name}</color> is entering the batter's box."
+msgstr ""
+
+msgctxt "52||in_batter_box_1||text"
+msgid "Number ${order_index} ${position}<color=baseball_player> ${player_name}</color> is at bat."
+msgstr ""
+
+msgctxt "53||chance_0||text"
+msgid "Stepping up to the plate is <color=baseball_player>${player_name}</color>!"
+msgstr ""
+
+msgctxt "54||chance_1||text"
+msgid "<color=baseball_player>${player_name}</color> is at bat! Keep an eye on the ball now!"
+msgstr ""
+
+msgctxt "55||chance_2||text"
+msgid "<color=baseball_player>${player_name}</color> is up to bat at this crucial moment!"
+msgstr ""
+
+msgctxt "56||strikeout_looking_0||text"
+msgid "It shot past him and he watched it go! Strikeout!"
+msgstr ""
+
+msgctxt "57||strikeout_looking_1||text"
+msgid "Not even a swing! Out!"
+msgstr ""
+
+msgctxt "58||strikeout_looking_2||text"
+msgid "Striiiike! Thought it was a ball!"
+msgstr ""
+
+msgctxt "59||strikeout_swinging_0||text"
+msgid "Swing and a miss! Out!"
+msgstr ""
+
+msgctxt "60||strikeout_swinging_1||text"
+msgid "The bat gets a whole lot of air! Out!"
+msgstr ""
+
+msgctxt "61||strikeout_swinging_2||text"
+msgid "He's swatting flies with that one! Out!"
+msgstr ""
+
+msgctxt "62||grounder_0||text"
+msgid "Just a grounder to infield!"
+msgstr ""
+
+msgctxt "63||grounder_1||text"
+msgid "A weak infield grounder!"
+msgstr ""
+
+msgctxt "64||grounder_2||text"
+msgid "A hit! It's staying infield."
+msgstr ""
+
+msgctxt "68||fly_0||text"
+msgid "He pops it up! ${position} catches it and he's out!"
+msgstr ""
+
+msgctxt "69||fly_1||text"
+msgid "He's giving the birds a show? ${position} catches it and he's out!"
+msgstr ""
+
+msgctxt "70||fly_2||text"
+msgid "Up it goes! ${position} catches it and out he goes!"
+msgstr ""
+
+msgctxt "74||hit_outfield_0||text"
+msgid "Line drive right through the infield! It's a <color=baseball_hit>hit</color>!"
+msgstr ""
+
+msgctxt "75||hit_outfield_1||text"
+msgid "A nice <color=baseball_hit>hit</color> to the outfield!"
+msgstr ""
+
+msgctxt "76||hit_outfield_2||text"
+msgid "The infield's watching it go right over 'em! It's a <color=baseball_hit>hit</color>!"
+msgstr ""
+
+msgctxt "77||hit_2base_0||text"
+msgid "This one's going long! A <color=baseball_hit>double</color>!"
+msgstr ""
+
+msgctxt "78||hit_2base_1||text"
+msgid "It broke past the outfielders! The batter makes it a <color=baseball_hit>double</color>!"
+msgstr ""
+
+msgctxt "79||hit_2base_2||text"
+msgid "What a hit! He can practically walk to 2nd on that <color=baseball_hit>double</color>!"
+msgstr ""
+
+msgctxt "80||hit_3base_0||text"
+msgid "What a hit! He's going all the way to third with a <color=baseball_hit>triple</color>!"
+msgstr ""
+
+msgctxt "81||hit_3base_1||text"
+msgid "It's just rolling through the outfield! A <color=baseball_hit>triple</color>!"
+msgstr ""
+
+msgctxt "82||hit_3base_2||text"
+msgid "A hit! Line drive to the outfield! A <color=baseball_hit>Triple</color>!"
+msgstr ""
+
+msgctxt "83||homerun_0||text"
+msgid "Going... Going... Gone! <color=baseball_hit>Home run</color>!"
+msgstr ""
+
+msgctxt "84||hoemrun_1||text"
+msgid "They know that one's gone! <color=baseball_hit>Home run</color>!"
+msgstr ""
+
+msgctxt "85||hoemrun_2||text"
+msgid "Looooong fly to the outfield... GONE! <color=baseball_hit>Home run</color>!"
+msgstr ""
+
+msgctxt "86||base_on_balls_0||text"
+msgid "The pitcher is losing his touch! <color=baseball_base_on_balls>A walk</color>!"
+msgstr ""
+
+msgctxt "87||base_on_balls_1||text"
+msgid "Ball 4! <color=baseball_base_on_balls>A walk!</color> Was it tactical!?"
+msgstr ""
+
+msgctxt "88||base_on_balls_2||text"
+msgid "Ball 4! It's a <color=baseball_base_on_balls>walk</color>."
+msgstr ""
+
+msgctxt "89||hit_infield_0||text"
+msgid "Infield's going for that hard... But he's <color=baseball_hit>safe</color>!"
+msgstr ""
+
+msgctxt "90||hit_infield_1||text"
+msgid "A bouncer! It's caught, but... Too late! <color=baseball_hit>Safe</color>!"
+msgstr ""
+
+msgctxt "91||hit_infield_2||text"
+msgid "The ball gets scooped up and there's the throw! <color=baseball_hit>Safe</color> at first!"
+msgstr ""
+
+msgctxt "92||error_0||text"
+msgid "Right between the legs! An <color=baseball_base_on_balls>error</color>! That's gotta hurt!"
+msgstr ""
+
+msgctxt "93||error_1||text"
+msgid "He's out! Wait...! The catcher dropped it! An <color=baseball_base_on_balls>error</color> at a time like this!"
+msgstr ""
+
+msgctxt "94||error_2||text"
+msgid "Tipped off the bat and it's as good as... dropped!? Oh my! An <color=baseball_base_on_balls>error</color>!"
+msgstr ""
+
+msgctxt "95||sacrifice_fly_0||text"
+msgid "High fly! It's a <color=baseball_hit>sacrifice fly</color>! The runner on third scores!"
+msgstr ""
+
+msgctxt "96||sacrifice_fly_1||text"
+msgid "To the outfield! Looks like this is about to be a <color=baseball_hit>sacrifice fly</color>! The runner makes it home!"
+msgstr ""
+
+msgctxt "97||sacrifice_fly_2||text"
+msgid "Pie in the sky sacrifice fly! The third base runner <color=baseball_hit>tags up</color> and makes it home!"
+msgstr ""
+
+msgctxt "98||strikeout_0||text"
+msgid "<color=baseball_player>${player_name}</color> couldn't get to a base!"
+msgstr ""
+
+msgctxt "99||strikeout_1||text"
+msgid "<color=baseball_player>${player_name}</color> is out!"
+msgstr ""
+
+msgctxt "100||strikeout_2||text"
+msgid "<color=baseball_player>${player_name}</color> needs to aim!"
+msgstr ""
+
+msgctxt "101||hit_advance_0||text"
+msgid "That's the kind of swing <color=baseball_player>${player_name}</color> is known for!"
+msgstr ""
+
+msgctxt "102||hit_advance_1||text"
+msgid "<color=baseball_player>${player_name}</color>, creating a window of opportunity!"
+msgstr ""
+
+msgctxt "103||hit_advance_2||text"
+msgid "<color=baseball_player>${player_name}</color> gets on base by sheer determination!"
+msgstr ""
+
+msgctxt "104||homerun_advance_0||text"
+msgid "<color=baseball_player>${player_name}</color> deserves a pat on the back for that hit!"
+msgstr ""
+
+msgctxt "105||homerun_advance_1||text"
+msgid "He was batting like a pro baller with his eye on the prize!"
+msgstr ""
+
+msgctxt "106||homerun_advance_2||text"
+msgid "There's a sure-fire hit!"
+msgstr ""
+
+msgctxt "107||hit_advance_homein_0||text"
+msgid "Runner on first goes all the way home!"
+msgstr ""
+
+msgctxt "108||hit_advance_homein_1||text"
+msgid "Even the runner on first scored!"
+msgstr ""
+
+msgctxt "109||hit_advance_homein_2||text"
+msgid "Just one hit takes the runner on first all the way home!"
+msgstr ""
+
+msgctxt "110||strikeout_chance_0||text"
+msgid "<color=baseball_player>${player_name}</color> missed his window!"
+msgstr ""
+
+msgctxt "111||strikeout_chance_1||text"
+msgid "<color=baseball_player>${player_name}</color> was too stiff!"
+msgstr ""
+
+msgctxt "112||strikeout_chance_2||text"
+msgid "<color=baseball_player>${player_name}</color> got outclassed by the opponent!"
+msgstr ""
+
+msgctxt "113||hit_advance_chance_0||text"
+msgid "<color=baseball_player>${player_name}</color> is the reason we watch!"
+msgstr ""
+
+msgctxt "114||hit_advance_chance_1||text"
+msgid "<color=baseball_player>${player_name}</color>, demonstrating his true skill!"
+msgstr ""
+
+msgctxt "115||hit_advance_chance_2||text"
+msgid "The window's still open and the air's breezy!"
+msgstr ""
+
+msgctxt "116||sacrifice_fly_advance||text"
+msgid "<color=baseball_player>${player_name}</color> got the job done, at least!"
+msgstr ""
+
+msgctxt "117||homerun_advance_chance_0||text"
+msgid "<color=baseball_player>${player_name}</color> wows the crowd with a <color=baseball_hit>home run</color>!"
+msgstr ""
+
+msgctxt "118||homerun_advance_chance_1||text"
+msgid "<color=baseball_player>${player_name}</color> was swinging for home there!"
+msgstr ""
+
+msgctxt "119||homerun_advance_chance_2||text"
+msgid "<color=baseball_player>${player_name}</color> couldn't have asked for more!"
+msgstr ""
+
+msgctxt "120||base_on_balls_advance_cance||text"
+msgid "Connected by a <color=baseball_base_on_balls>walk</color>!"
+msgstr ""
+
+msgctxt "121||error_advance_chance||text"
+msgid "<color=baseball_player>${player_name}</color>, saved by an <color=baseball_base_on_balls>error</color>!"
+msgstr ""
+
+msgctxt "122||steal_0||text"
+msgid "<color=baseball_player>${player_name}</color> steals that base like candy from a baby!"
+msgstr ""
+
+msgctxt "123||steal_1||text"
+msgid "<color=baseball_player>${player_name}</color> captures third base with speed like a race car!"
+msgstr ""
+
+msgctxt "124||gameset_walk_off||text"
+msgid "Can you feel the drama!? It's a walk-off win for the <color=baseball_player>${team_name}s</color>!"
+msgstr ""
+

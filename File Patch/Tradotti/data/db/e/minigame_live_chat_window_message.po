@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||no_money||message"
+msgid "You do not have enough money."
+msgstr "Non hai abbastanza denaro."
+
+msgctxt "2||no_point||message"
+msgid "You do not have enough points."
+msgstr "Non hai abbastanza punti."
+
+msgctxt "3||max_point||message"
+msgid "You cannot add any more points."
+msgstr "Non puoi aggiungere altri punti."
+
+msgctxt "4||will_be_max_point||message"
+msgid "You cannot add any more points."
+msgstr "Non puoi aggiungere altri punti."
+
+msgctxt "5||really_buy_question||message"
+msgid "Enter this chat room?"
+msgstr "Entrare in questa stanza chat?"
+
+msgctxt "6||really_charge_question||message"
+msgid "Add points?"
+msgstr "Aggiungere punti?"
+
+msgctxt "7||really_exit_question||message"
+msgid "Leave the chat room?"
+msgstr "Uscire dalla stanza chat?"

@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Welcome, welcome.\r\nWhat do you want to do today?"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Okay, then. Please drop in again\r\nif you're ever in the mood."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "This store is known for our Lullaby Battle Royale,\r\na blazing battle against our top three players."
+msgstr ""
+
+msgctxt "3||||4"
+msgid "If you want to compete, you'll have to meet the\r\nfollowing conditions and pay a participation fee."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "I'm sorry, but it looks like you don't\r\nqualify for the battle royale right now."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Come back and talk to me once\r\nyou manage to meet the conditions."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Congrats! You're qualified for our battle royale!"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "All you have to do now is pay the participation\r\nfee and you'll be ready to rumble."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "If you finish between 2nd place and 4th place,\r\nyour participation fee will go down the drain."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "But if you somehow beat our champions,\r\nyou'll net a pretty hefty profit."
+msgstr ""
+
+msgctxt "10||||4"
+msgid "So, what'll it be? Do you want to\r\ntake on the Lullaby Battle Royale?"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Sorry, but you don't have enough cash\r\nto cover your participation fee."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Talk to me again once you have\r\na little more money on you."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Great, just hand over that fee and we'll be\r\nready to roll. Good luck... You'll need it."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Got it. Just talk to me again if you ever\r\nfeel like giving the battle royale a shot."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Nice try there. Please drop in again\r\nif you're ever in the mood."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Congrats on your 1st place finish! Please\r\ndrop in again if you're ever in the mood."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "If you wanna do the battle royale again,\r\nyou'll have to meet the conditions again, too."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Here's the point bonuses our parlor offers."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Welcome, sir. What are you\r\nlooking to do today?"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Very well, then. We greatly\r\nanticipate your next visit."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "This store plays host to the Modern Battle Royale,\r\nwhich pits you against our top mahjong experts."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "If you wish to compete, we ask that you fulfill\r\nthese requirements and pay us a participation fee."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Unfortunately, it appears as though you\r\ndo not meet the necessary conditions."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Please return to this desk and notify me once\r\nyou have fulfilled the tasks at hand."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Congratulations, sir. You currently meet\r\nthe requirements for battle royale participation."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "In order to continue onward to the event,\r\nyou must now pay your participation fee."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Please note that you will lose that fee if\r\nyou do not finish at the head of the table."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "However, if you do indeed manage to win,\r\nyou will receive quite a generous prize sum."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Now then, what will you do, sir? Do you wish\r\nto compete in the Modern Battle Royale?"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "It appears as though you lack the money\r\nnecessary to cover your participation fee."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Please return to this desk and notify me once\r\nyou have the required funds in your possession."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Excellent. Allow me to take your participation\r\nfee, then. I wish you the best of luck today, sir."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Very well, sir. Please return to this desk and\r\nnotify me if you ever gain the necessary courage."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "That was a good attempt, sir. We look forward\r\nto your continued patronage in the future."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Well met, sir. Winning the table is quite the feat!\r\nWe look forward to your continued patronage."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "If you wish to compete in the battle royale again,\r\nwe ask that you once again fulfill our requirements."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "At this establishment, you will receive the\r\nfollowing bonus points depending on your rank."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Yo, how 'bout a bit of mahjong? As you can\r\nprobably tell, we're not the greatest players."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "If you wanna play, it'll cost ya 12,500 yen."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Mkay, then. Fork up that cool 12,500."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "That's a damn shame... I guess just\r\ncome back when you wanna play with us."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Hey, you wanna play mahjong with us?\r\nIf you do, it'll run ya 12,500 yen."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "That was a real hoot.\r\nCome back sometime, ya hear?"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "You up for some mahjong?\r\nWe're kinda good, if I do say so myself."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "If you're looking to jump in, you'll\r\nhave to pay the 25,000 yen entry fee."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "All righty. Just hand over that\r\n25,000 and we'll be ready to go."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Well that's a downer... Just come talk\r\nto me if you ever wanna play, okay?"
+msgstr ""
+
+msgctxt "48||||4"
+msgid "You down to throw down, mahjong style?\r\nIt'll cost you 25,000 to play at this table."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "They say luck changes with the tides...\r\nWell, let's give it another go sometime."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Are you interested in some mahjong?\r\nWe are all pretty decent players."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "If you'd like to join us, we only\r\nask that you put up 25,000 yen."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Wonderful. I'll be taking that 25,000 then."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Oh, I see... Well then, please come speak\r\nto us again if you're ever interested."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Do you want to play with us? You'll just\r\nneed to put in 25,000 yen to join."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "That was a good match.\r\nLet's play together again sometime."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Could I interest you in a round of mahjong?\r\nThough I must warn you, we are quite advanced."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "If you wish to participate, we require\r\nthat you place a 50,000 yen bet."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Splendid. Now the 50,000, please."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "How unfortunate. If you ever wish to put your\r\nmahjong mettle to the test, please return to us."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Has our table piqued your interest? You will\r\nneed to place a 50,000 yen bet to join us."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "My word... That result was quite unexpected.\r\nLet us play again in the near future."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Oh, uh... Never mind."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Yeah. Let's see what this battle royale is all about."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "No, maybe some other time."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Yeah, I'll give it a shot."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "No, I think I'll pass."
+msgstr ""
+

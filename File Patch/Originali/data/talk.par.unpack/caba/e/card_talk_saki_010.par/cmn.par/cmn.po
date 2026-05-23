@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0xE09A_Len_6"
+msgid " A{T4C"
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x174E8_Len_17"
+msgid "Salaryman Galaxy!"
+msgstr ""
+
+#. Max bytes: 18
+msgctxt "Offset_0x17528_Len_18"
+msgid "Lover Love Galaxy!"
+msgstr ""
+
+#. Max bytes: 18
+msgctxt "Offset_0x17568_Len_18"
+msgid "Cinderella Galaxy!"
+msgstr ""
+

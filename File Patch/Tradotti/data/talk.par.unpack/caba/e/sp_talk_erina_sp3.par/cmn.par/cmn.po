@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0x1ACDE_Len_6"
+msgid " A=\n7B"
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x2B584_Len_22"
+msgid "I feel lonely already."
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0x2B5C4_Len_16"
+msgid "Don't overdo it."
+msgstr ""
+
+#. Max bytes: 27
+msgctxt "Offset_0x2B604_Len_27"
+msgid "I'll make more friends too!"
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x2BB14_Len_35"
+msgid "Erina's rank has increased to Gold."
+msgstr ""
+
+#. Max bytes: 42
+msgctxt "Offset_0x2BB44_Len_42"
+msgid "艾莉娜的階級已成為「Gold Cast」"
+msgstr ""
+

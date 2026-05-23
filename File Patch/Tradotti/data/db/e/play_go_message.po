@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||wait_min||text"
+msgid "Installation must complete\r\nto proceed beyond here.\r\n(Time remaining: ${hour} hour(s) ${min} minute(s))"
+msgstr "L'installazione deve essere completata\r\nper poter proseguire.\r\n(Tempo rimanente: ${hour} ora/e ${min} minuto/i)"
+
+msgctxt "2||download_completed||text"
+msgid "Installation complete."
+msgstr "Installazione completata."
+
+msgctxt "3||wait_min2||text"
+msgid "Installation must complete to play here.\r\n(Time remaining: ${hour} hour(s) ${min} minute(s))"
+msgstr "L'installazione deve essere completata per giocare qui.\r\n(Tempo rimanente: ${hour} ora/e ${min} minuto/i)"
+
+msgctxt "4||wait_f2p||text"
+msgid "You cannot proceed beyond\r\nthis point in the trial version."
+msgstr "Non puoi proseguire oltre\r\nquesto punto nella versione di prova."
+
+msgctxt "5||wait_f2p2||text"
+msgid "This content is not available\r\nin the trial version."
+msgstr "Questo contenuto non è disponibile\r\nnella versione di prova."
+

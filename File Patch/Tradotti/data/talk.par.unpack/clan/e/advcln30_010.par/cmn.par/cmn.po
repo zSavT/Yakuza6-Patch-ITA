@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0x11EAA_Len_6"
+msgid "i=*l <"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x12038_Len_4"
+msgid "*l <"
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x2C895_Len_22"
+msgid "*<DFjsnid^YTOID?:4/*% "
+msgstr ""
+
+#. Max bytes: 427
+msgctxt "Offset_0x44118_Len_427"
+msgid "Scouting New Recruits\n\nOnomichi is brimming with bloodthirsty punks, thugs,\nand hooligans who will challenge you to a fight if\nyou approach them.\n\nIf you can successfully put these brutes in their place,\nthey will come to respect Kiryu's power and may just\noffer to join his clan.\n\nBe proactive in asserting your dominance over the\ncity, challenging the strong, and making the Kiryu\nClan a name to be recognized in the streets!"
+msgstr ""
+

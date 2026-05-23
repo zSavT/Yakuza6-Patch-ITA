@@ -1,0 +1,728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm...?"
+msgstr "Uhm...?"
+
+msgctxt "1||||4"
+msgid "This isn't a number I recognize.\r\nWho could it be...?"
+msgstr "Non conosco questo numero.\r\nChi può essere...?"
+
+msgctxt "2||||4"
+msgid "Hello?"
+msgstr "Pronto?"
+
+msgctxt "3||||4"
+msgid "Ah, hi there!\r\nIt's me!"
+msgstr "Ah, ciao!\r\nSono io!"
+
+msgctxt "4||||4"
+msgid "Hm... Me?"
+msgstr "Uhm... Io?"
+
+msgctxt "5||||4"
+msgid "Yup. You know who I am."
+msgstr "Sì. Sai chi sono."
+
+msgctxt "6||||4"
+msgid "(I wonder who this guy is...\r\nWait, I think I recognize his voice.)"
+msgstr "(Mi chiedo chi sia questo tizio...\r\nAspetta, credo di riconoscere la sua voce.)"
+
+msgctxt "7||||4"
+msgid "(Could it be... Daigo?)"
+msgstr "(Che sia... Daigo?)"
+
+msgctxt "8||||4"
+msgid "(No. Daigo's young, but he's not <font_kind=yakuza_italic>this</font_kind> young.)"
+msgstr "(No. Daigo è giovane, ma non <font_kind=yakuza_italic>così</font_kind> giovane.)"
+
+msgctxt "9||||4"
+msgid "(It couldn't be Haruto, could it...?)"
+msgstr "(Non può essere Haruto, vero...?)"
+
+msgctxt "10||||4"
+msgid "(No, Haruto's too young to stand up\r\non his own, let alone talk on the phone.)"
+msgstr "(No, Haruto è troppo piccolo per reggersi in piedi\r\nda solo, figuriamoci parlare al telefono.)"
+
+msgctxt "11||||4"
+msgid "Is that you... Taichi?"
+msgstr "Sei tu... Taichi?"
+
+msgctxt "12||||4"
+msgid "Yeah! It's me, Taichi!"
+msgstr "Sì! Sono io, Taichi!"
+
+msgctxt "13||||4"
+msgid "I could barely tell. Do you have a cold\r\nor something? You sound kinda weird."
+msgstr "Ti riconoscevo a malapena. Hai il raffreddore\r\no qualcosa del genere? Hai una voce strana."
+
+msgctxt "14||||4"
+msgid "Yeah, this sore throat is doing a\r\nnumber on my voice!"
+msgstr "Sì, questo mal di gola mi sta\r\ndistruggendo le corde vocali!"
+
+msgctxt "15||||4"
+msgid "Well, that's no good.\r\nMake sure you get some rest."
+msgstr "Beh, non va bene.\r\nAssicurati di riposare un po'."
+
+msgctxt "16||||4"
+msgid "I will. By the way, are you good to talk?\r\nWhere are you right now?"
+msgstr "Lo farò. A proposito, puoi parlare?\r\nDove sei adesso?"
+
+msgctxt "17||||4"
+msgid "Hm? Oh, I'm in Kamurocho."
+msgstr "Mh? Oh, sono a Kamurocho."
+
+msgctxt "18||||4"
+msgid "Got it. Kamurocho, then."
+msgstr "Capito. A Kamurocho, quindi."
+
+msgctxt "19||||4"
+msgid "Um... I know this is kinda out of the blue,\r\nbut I have something I need to ask."
+msgstr "Ehm... So che è una cosa un po' improvvisa,\r\nma avrei un favore da chiederti."
+
+msgctxt "20||||4"
+msgid "Hm? What is it?"
+msgstr "Mh? Che c'è?"
+
+msgctxt "21||||4"
+msgid "Well, one of my friends got hurt\r\nreal bad, and it's totally my fault."
+msgstr "Beh, uno dei miei amici si è fatto molto male,\r\ned è tutta colpa mia."
+
+msgctxt "22||||4"
+msgid "What...!?"
+msgstr "Cosa...!?"
+
+msgctxt "23||||4"
+msgid "They're asking me to cover both\r\nthe treatment and his hospital bills."
+msgstr "Mi stanno chiedendo di coprire sia i\r\ncosti delle cure che quelli dell'ospedale."
+
+msgctxt "24||||4"
+msgid "I don't have that kind of money, though..."
+msgstr "Io però non ho tutti quei soldi..."
+
+msgctxt "25||||4"
+msgid "So, um... I was wondering if you'd\r\nbe able to spot me a bit of cash."
+msgstr "Quindi, ehm... Mi chiedevo se per caso\r\npotessi anticiparmi un po' di contanti."
+
+msgctxt "26||||4"
+msgid "If you can't, I'll probably end up\r\nsaddled with debt for years to come."
+msgstr "Se non puoi, probabilmente finirò per\r\nritrovarmi sommerso dai debiti per anni."
+
+msgctxt "27||||4"
+msgid "(Taichi is really in trouble here...)"
+msgstr "(Taichi è davvero nei guai...)"
+
+msgctxt "28||||4"
+msgid "(Wait a second...)"
+msgstr "(Un attimo...)"
+
+msgctxt "29||||4"
+msgid "(I feel like I've heard about scams\r\nthat sound a little like this.)"
+msgstr "(Mi sembra di aver sentito parlare di truffe\r\nche suonano un po' in questo modo.)"
+
+msgctxt "30||||4"
+msgid "(I should figure out what's going on here.)"
+msgstr "(Devo capire cosa sta succedendo qui.)"
+
+msgctxt "31||||4"
+msgid "Taichi, where are you calling me from?\r\nI don't recognize this number."
+msgstr "Taichi, da dove mi stai chiamando?\r\nNon conosco questo numero."
+
+msgctxt "32||||4"
+msgid "Oh, I got a new phone.\r\nA new number, too."
+msgstr "Oh, ho un telefono nuovo.\r\nE anche un numero nuovo."
+
+msgctxt "33||||4"
+msgid "Wait, have you ever even owned a phone?\r\nThat's news to me."
+msgstr "Aspetta, hai mai avuto un telefono tuo?\r\nQuesta mi è nuova."
+
+msgctxt "34||||4"
+msgid "Huh? Oh, s-sorry."
+msgstr "Eh? Oh, s-scusa."
+
+msgctxt "35||||4"
+msgid "Guess I just forgot to tell you.\r\nI actually bought one a little while ago."
+msgstr "Credo di essermi dimenticato di dirtelo.\r\nNe ho comprato uno un po' di tempo fa."
+
+msgctxt "36||||4"
+msgid "(Hm...)"
+msgstr "(Mh...)"
+
+msgctxt "37||||4"
+msgid "(This is no time to be distrustful.\r\nTaichi needs my help here.)"
+msgstr "(Non è il momento di essere diffidenti.\r\nTaichi ha bisogno del mio aiuto.)"
+
+msgctxt "38||||4"
+msgid "Okay, then.\r\nHow much do you need?"
+msgstr "D'accordo, allora.\r\nDi quanto hai bisogno?"
+
+msgctxt "39||||4"
+msgid "They said around 200,000..."
+msgstr "Hanno detto circa 200.000..."
+
+msgctxt "40||||4"
+msgid "200 grand!?"
+msgstr "200 mila!?"
+
+msgctxt "41||||4"
+msgid "Oh, but if that's too much for you,\r\nI'll take whatever you can get your hands on."
+msgstr "Oh, ma se sono troppi per te,\r\naccetterò qualsiasi cifra tu riesca a darmi."
+
+msgctxt "42||||4"
+msgid "I should be able to scrounge\r\ntogether the rest myself."
+msgstr "Dovrei riuscire a racimolare\r\nil resto da solo."
+
+msgctxt "43||||4"
+msgid "A-All right..."
+msgstr "D-D'accordo..."
+
+msgctxt "44||||4"
+msgid "I have to wonder, though...\r\nHow did you hurt your friend so badly?"
+msgstr "Però devo chiedertelo...\r\nCome hai fatto a ferire così gravemente il tuo amico?"
+
+msgctxt "45||||4"
+msgid "Well, uh... We got in a terrible accident."
+msgstr "Beh, ehm... Abbiamo avuto un brutto incidente."
+
+msgctxt "46||||4"
+msgid "What? You mean, like a car accident?\r\nYou don't even have a driver's license."
+msgstr "Cosa? Intendi, un incidente d'auto?\r\nNon hai nemmeno la patente."
+
+msgctxt "47||||4"
+msgid "Oh, uh... That's not it at all!\r\nIt was, um... more like a freak accident."
+msgstr "Oh, uh... No, non è andata così!\r\nÈ stato, ehm... più un incidente bizzarro."
+
+msgctxt "48||||4"
+msgid "(What is that even supposed to mean?\r\nI wonder...)"
+msgstr "(Che diavolo dovrebbe significare?\r\nMi chiedo se...)"
+
+msgctxt "49||||4"
+msgid "Have you been wrestling again?"
+msgstr "Avete giocato di nuovo al wrestling?"
+
+msgctxt "50||||4"
+msgid "Uh, yeah! My friend and I were\r\npretending we were pros..."
+msgstr "Ah, sì! Il mio amico e io stavamo\r\nfingendo di essere dei professionisti..."
+
+msgctxt "51||||4"
+msgid "Taichi, I don't want to treat you like a kid."
+msgstr "Taichi, non voglio trattarti come un bambino."
+
+msgctxt "52||||4"
+msgid "But that means you need to stop behaving\r\nlike one. Try to act your age, okay?"
+msgstr "Ma questo significa che devi smettere di comportarti\r\ncome tale. Cerca di fare la persona matura, ok?"
+
+msgctxt "53||||4"
+msgid "S-Sorry..."
+msgstr "S-Scusa..."
+
+msgctxt "54||||4"
+msgid "And your friend?\r\nHow's he doing?"
+msgstr "E il tuo amico?\r\nCome sta?"
+
+msgctxt "55||||4"
+msgid "W-Well, the doctor said he'll be totally\r\nfine as long as he gets into surgery soon."
+msgstr "B-Beh, il dottore ha detto che si riprenderà\r\ncompletamente se si opera al più presto."
+
+msgctxt "56||||4"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "57||||4"
+msgid "So, his surgery is the top priority."
+msgstr "Quindi l'intervento chirurgico è la priorità."
+
+msgctxt "58||||4"
+msgid "How do you want me to send the money?\r\nI can't come back to Okinawa right now."
+msgstr "Come vuoi che ti mandi i soldi?\r\nNon posso tornare a Okinawa adesso."
+
+msgctxt "59||||4"
+msgid "Huh? Okinawa?"
+msgstr "Eh? Okinawa?"
+
+msgctxt "60||||4"
+msgid "Aren't you still at Morning Glory?\r\nDon't tell me... Did you leave Okinawa, too?"
+msgstr "Non sei ancora al Morning Glory?\r\nNon dirmi che... Anche tu hai lasciato Okinawa?"
+
+msgctxt "61||||4"
+msgid "U-Uh, oh! Th-That's right! As is the\r\ncustomary greeting in Okinawa, \"mensore\"!"
+msgstr "E-Ehm, oh! G-Giusto! Come vuole il\r\nsolito saluto di Okinawa: \"mensore\"!"
+
+msgctxt "62||||4"
+msgid "(Why would he give me an Okinawan welcome?\r\nI wonder why he's acting so strange...)"
+msgstr "(Perché mai dovrebbe darmi il benvenuto a Okinawa?\r\nMi chiedo perché si comporti in modo così strano...)"
+
+msgctxt "63||||4"
+msgid "(With everything that's happened,\r\nhe's probably just looking for a distraction.)"
+msgstr "(Con tutto quello che è successo,\r\nprobabilmente cerca solo una distrazione.)"
+
+msgctxt "64||||4"
+msgid "Taichi. I know things are rough right now,\r\nbut times like this are what make a man."
+msgstr "Taichi. So che le cose sono difficili adesso,\r\nma sono momenti come questo a formare un uomo."
+
+msgctxt "65||||4"
+msgid "Yeah... You're right.\r\nI've gotta get a grip here."
+msgstr "Sì... Hai ragione.\r\nDevo darmi una controllata."
+
+msgctxt "66||||4"
+msgid "(With everything that's happened,\r\nhe's probably just looking for a distraction.)"
+msgstr "(Con tutto quello che è successo,\r\nprobabilmente cerca solo una distrazione.)"
+
+msgctxt "67||||4"
+msgid "(I should try to help get his mind off it.)"
+msgstr "(Dovrei cercare di aiutarlo a distrarsi.)"
+
+msgctxt "68||||4"
+msgid "Ah, mensore!"
+msgstr "Ah, mensore!"
+
+msgctxt "69||||4"
+msgid "Wh-What? What's all that about?"
+msgstr "Ch-Che? Di che si tratta?"
+
+msgctxt "70||||4"
+msgid "...Huh?"
+msgstr "...Eh?"
+
+msgctxt "71||||4"
+msgid "Anyway, I'm kinda in a hurry here.\r\nCan we get back to the point?"
+msgstr "Comunque, ho un po' di fretta.\r\nPossiamo tornare al punto?"
+
+msgctxt "72||||4"
+msgid "......"
+msgstr "......"
+
+msgctxt "73||||4"
+msgid "I'm down in Okinawa right now."
+msgstr "Adesso mi trovo giù a Okinawa."
+
+msgctxt "74||||4"
+msgid "My hurt buddy's dad is apparently\r\nin Tokyo on business, though."
+msgstr "A quanto pare, però, il padre del mio amico\r\nferito si trova a Tokyo per affari."
+
+msgctxt "75||||4"
+msgid "I'm gonna need you to give him the cash."
+msgstr "Avrei bisogno che tu dessi i contanti a lui."
+
+msgctxt "76||||4"
+msgid "I'll tell him to wait over by\r\nthe Millennium Tower for you."
+msgstr "Gli dirò di aspettarti laggiù, vicino\r\nalla Millennium Tower."
+
+msgctxt "77||||4"
+msgid "You think you'll be able to scrape up\r\nthe money and head over there now?"
+msgstr "Pensi di riuscire a racimolare\r\ni soldi e andare lì adesso?"
+
+msgctxt "78||||4"
+msgid "...Yeah, I can do that."
+msgstr "...Sì, posso farlo."
+
+msgctxt "79||||4"
+msgid "Great! His dad's name is Ishigaki-san,\r\njust so you know. Well, thanks again!"
+msgstr "Fantastico! Suo padre si chiama Ishigaki,\r\ngiusto per informazione. Beh, grazie ancora!"
+
+msgctxt "80||||4"
+msgid "All right then, off to the Millennium Tower.\r\nIshigaki-san's waiting for me."
+msgstr "D'accordo, direzione Millennium Tower.\r\nIshigaki mi sta aspettando."
+
+msgctxt "81||||4"
+msgid "(This must be someone trying to scam me.)"
+msgstr "(Dev'essere qualcuno che cerca di truffarmi.)"
+
+msgctxt "82||||4"
+msgid "(I can't believe they'd really steal from\r\na random stranger over the phone.)"
+msgstr "(Non posso credere che ruberebbero a\r\nuno sconosciuto a caso per telefono.)"
+
+msgctxt "83||||4"
+msgid "(I should play along and show him what\r\nhappens to people who pull stunts like this.)"
+msgstr "(Starò al gioco e gli mostrerò cosa succede\r\na chi tenta giochetti del genere.)"
+
+msgctxt "84||||4"
+msgid "All right. What do you need me to do?"
+msgstr "D'accordo. Cosa devo fare?"
+
+msgctxt "85||||4"
+msgid "Oh, I actually just heard my friend's dad\r\nis up in Kamurocho right now."
+msgstr "Oh, in realtà ho appena saputo che il padre\r\ndel mio amico adesso si trova a Kamurocho."
+
+msgctxt "86||||4"
+msgid "Do, um... Do you think you could\r\ngive him the money for me?"
+msgstr "Pensi... Pensi che potresti\r\ndare i soldi a lui al posto mio?"
+
+msgctxt "87||||4"
+msgid "Wow. That's a pretty amazing coincidence."
+msgstr "Wow. È davvero una bella coincidenza."
+
+msgctxt "88||||4"
+msgid "Isn't it? His dad's name is Ishigaki-san, by the way.\r\nI'll tell him to wait over by the Millennium Tower."
+msgstr "Vero? Suo padre si chiama Ishigaki, a proposito.\r\nGli dirò di aspettarti vicino alla Millennium Tower."
+
+msgctxt "89||||4"
+msgid "Please, can you bring him the money?"
+msgstr "Ti prego, puoi portargli tu i soldi?"
+
+msgctxt "90||||4"
+msgid "...Yeah, I can do that."
+msgstr "...Sì, posso farlo."
+
+msgctxt "91||||4"
+msgid "Really!? Great!\r\nWell, thanks again!"
+msgstr "Davvero!? Fantastico!\r\nBeh, grazie ancora!"
+
+msgctxt "92||||4"
+msgid "All right then, off to the Millennium Tower.\r\nI'm coming for you, you thieving bastard."
+msgstr "D'accordo, direzione Millennium Tower.\r\nSto arrivando, bastardo ladruncolo."
+
+msgctxt "93||||4"
+msgid "(Is this the father of the kid Taichi hurt?\r\nI'm pretty sure his name is Ishigaki.)"
+msgstr "(È lui il padre del ragazzo ferito da Taichi?\r\nSono abbastanza sicuro che si chiami Ishigaki.)"
+
+msgctxt "94||||4"
+msgid "So, are you Ishigaki-san?"
+msgstr "Dunque, lei è il signor Ishigaki?"
+
+msgctxt "95||||4"
+msgid "Ah, yes. I'm Akira Ishigaki.\r\nAnd you are?"
+msgstr "Ah, sì. Sono Akira Ishigaki.\r\nE lei è...?"
+
+msgctxt "96||||4"
+msgid "It's Kiryu."
+msgstr "Sono Kiryu."
+
+msgctxt "97||||4"
+msgid "Oh, so you're the guy.\r\nTaichi-kun told me everything."
+msgstr "Oh, allora è lei.\r\nIl giovane Taichi mi ha raccontato tutto."
+
+msgctxt "98||||4"
+msgid "I'm sorry he's put your family\r\nthrough so much trouble."
+msgstr "Mi dispiace che abbia causato alla vostra\r\nfamiglia così tanti problemi."
+
+msgctxt "99||||4"
+msgid "It's okay. For now, I just want to get\r\nback to my son as soon as possible!"
+msgstr "Non importa. Per ora voglio solo tornare\r\nda mio figlio il prima possibile!"
+
+msgctxt "100||||4"
+msgid "Is it all right if you cover\r\nthe treatment fees, Kiryu-san?"
+msgstr "Va bene per lei se le spese mediche\r\nrestano a suo carico, Kiryu-san?"
+
+msgctxt "101||||4"
+msgid "I don't want to put Taichi-kun in debt,\r\nbut he'll need to pay for it if you can't help."
+msgstr "Non voglio far indebitare il giovane Taichi,\r\nma dovrà pagare lui se lei non può aiutarlo."
+
+msgctxt "102||||4"
+msgid "(I need to make sure they have enough\r\nto cover their son's hospital bills.)"
+msgstr "(Devo assicurarmi che abbiano abbastanza soldi\r\nper coprire le spese ospedaliere del figlio.)"
+
+msgctxt "103||||4"
+msgid "(More importantly, I can't let\r\nTaichi end up in debt!)"
+msgstr "(Cosa ancora più importante, non posso permettere\r\nche Taichi finisca sommerso dai debiti!)"
+
+msgctxt "104||||4"
+msgid "I'm sorry about this. I didn't have much\r\ntime, so I couldn't get the full amount."
+msgstr "Mi dispiace per questo. Non ho avuto molto tempo,\r\nquindi non ho potuto prelevare l'importo per intero."
+
+msgctxt "105||||4"
+msgid "I see... Okay, then. For now, I'll gladly\r\ntake whatever you have to offer."
+msgstr "Capisco... D'accordo, allora. Per ora accetterò\r\nvolentieri qualsiasi cifra possa offrirmi."
+
+msgctxt "106||||4"
+msgid "Here you are, 200 grand.\r\nPlease use this to save your son."
+msgstr "Ecco a lei, 200 mila yen.\r\nLa prego di usarli per salvare suo figlio."
+
+msgctxt "107||||4"
+msgid "Thank you so much.\r\nYou're a good man."
+msgstr "La ringrazio molto.\r\nÈ davvero un brav'uomo."
+
+msgctxt "108||||4"
+msgid "Well then, it's about time I head\r\nback to Okinawa to help my son!"
+msgstr "Bene allora, è tempo che me ne torni\r\nad Okinawa per assistere mio figlio!"
+
+msgctxt "109||||4"
+msgid "Once he's out of surgery, I'll have\r\nTaichi-kun get in touch with you."
+msgstr "Una volta uscito dalla sala operatoria, dirò\r\nal giovane Taichi di mettersi in contatto con lei."
+
+msgctxt "110||||4"
+msgid "Okay."
+msgstr "Va bene."
+
+msgctxt "111||||4"
+msgid "I hope his son recovers soon."
+msgstr "Spero che suo figlio si rimetta presto."
+
+msgctxt "112||||4"
+msgid "I should let Taichi know I gave him the money.\r\nThe number he called me from earlier should work."
+msgstr "Dovrei far sapere a Taichi che gli ho dato i soldi.\r\nIl numero da cui mi ha chiamato prima dovrebbe andare."
+
+msgctxt "113||||4"
+msgid "Hm? Damn, voicemail..."
+msgstr "Mh? Maledizione, segreteria telefonica..."
+
+msgctxt "114||||4"
+msgid "Oh well. I'll just call Morning Glory instead."
+msgstr "Oh, beh. Chiamerò direttamente il Morning Glory."
+
+msgctxt "115||||4"
+msgid "Hello, Ayako? Is Taichi there?\r\nYeah, I need to talk to him for a bit."
+msgstr "Pronto, Ayako? C'è Taichi?\r\nSì, ho bisogno di parlargli un attimo."
+
+msgctxt "116||||4"
+msgid "Taichi? I just gave Ishigaki-san the money.\r\nYou don't need to worry."
+msgstr "Taichi? Ho appena dato i soldi al signor Ishigaki.\r\nNon hai più niente di cui preoccuparti."
+
+msgctxt "117||||4"
+msgid "Huh? You don't know an Ishigaki?\r\nBut he's the father of the friend you hurt!"
+msgstr "Eh? Non conosci nessun Ishigaki?\r\nMa è il padre dell'amico che hai ferito!"
+
+msgctxt "118||||4"
+msgid "...What? You didn't hurt any of your friends?"
+msgstr "...Come? Non hai ferito nessuno dei tuoi amici?"
+
+msgctxt "119||||4"
+msgid "By the way, your throat sounds a lot better.\r\nIt's amazing how fast you recovered."
+msgstr "A proposito, la tua gola sembra stare molto meglio.\r\nÈ incredibile quanto in fretta tu sia guarito."
+
+msgctxt "120||||4"
+msgid "What do you mean?\r\nAre you messing with me?"
+msgstr "Cosa intendi dire?\r\nMi stai prendendo in giro?"
+
+msgctxt "121||||4"
+msgid "No, it's just... Yeah.\r\nSorry for all the weird questions."
+msgstr "No, è solo che... Già.\r\nScusa per tutte queste domande strane."
+
+msgctxt "122||||4"
+msgid "R-Right. Talk to you later."
+msgstr "C-Certo. Ci sentiamo dopo."
+
+msgctxt "123||||4"
+msgid "(Hmm...)"
+msgstr "(Uhm...)"
+
+msgctxt "124||||4"
+msgid "Oh yeah. Have you seen the news on all\r\nthose phone scams that've been going around?"
+msgstr "Oh, già. Hai visto al telegiornale di tutte\r\nquelle truffe telefoniche che girano ultimamente?"
+
+msgctxt "125||||4"
+msgid "Yeah, I feel like everyone was talking about them.\r\nThe ones where they pretend to be someone you know."
+msgstr "Sì, mi sembra che ne parlassero tutti.\r\nQuelle dove fingono di essere un tuo conoscente."
+
+msgctxt "126||||4"
+msgid "I dunno, but wouldn't their voice be different?\r\nWho'd fall for something like that?"
+msgstr "Non so, ma la voce non dovrebbe essere diversa?\r\nChi ci cascherebbe in una cosa del genere?"
+
+msgctxt "127||||4"
+msgid "For real. Anyone dumb enough to get suckered\r\nin by something like that practically deserves it."
+msgstr "Dico davvero. Chiunque sia così stupido da farsi\r\nfregare da una roba simile praticamente se lo merita."
+
+msgctxt "128||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "129||||4"
+msgid "Let's get out of here."
+msgstr "Togliamoci di torno."
+
+msgctxt "130||||4"
+msgid "R-Right!"
+msgstr "G-Giusto!"
+
+msgctxt "131||||4"
+msgid "Dammit. That lesson came at a price."
+msgstr "Maledizione. Questa lezione mi è costata cara."
+
+msgctxt "132||||4"
+msgid "(Something seems wrong about this.\r\nIt has to be a scam...)"
+msgstr "(C'è qualcosa di strano in tutto questo.\r\nDeve essere una truffa...)"
+
+msgctxt "133||||4"
+msgid "(I should try to catch him in his lie.)"
+msgstr "(Dovrei cercare di smascherarlo.)"
+
+msgctxt "134||||4"
+msgid "Hold on.\r\nCan I actually ask you something first?"
+msgstr "Un momento.\r\nPosso farle prima una domanda?"
+
+msgctxt "135||||4"
+msgid "S-Sure."
+msgstr "C-Certo."
+
+msgctxt "136||||4"
+msgid "(This must be the guy that fake Taichi told me about.)"
+msgstr "(Dev'essere il tizio di cui mi ha parlato il finto Taichi.)"
+
+msgctxt "137||||4"
+msgid "So, are you Ishigaki-san?"
+msgstr "Dunque, lei è il signor Ishigaki?"
+
+msgctxt "138||||4"
+msgid "Ah, yes. I'm Akira Ishigaki. And you are?"
+msgstr "Ah, sì. Sono Akira Ishigaki. E lei è...?"
+
+msgctxt "139||||4"
+msgid "The name's Kiryu."
+msgstr "Il mio nome è Kiryu."
+
+msgctxt "140||||4"
+msgid "Oh, so you're the guy.\r\nTaichi-kun told me everything."
+msgstr "Oh, allora è lei.\r\nIl giovane Taichi mi ha raccontato tutto."
+
+msgctxt "141||||4"
+msgid "Anyway, about those treatment fees..."
+msgstr "Comunque, riguardo a quelle spese mediche..."
+
+msgctxt "142||||4"
+msgid "Actually, can I ask you something first?"
+msgstr "In realtà, posso chiederle una cosa prima?"
+
+msgctxt "143||||4"
+msgid "S-Sure."
+msgstr "C-Certo."
+
+msgctxt "144||||4"
+msgid "You've... spent some time with\r\nTaichi before, haven't you?"
+msgstr "Lei... ha già passato del tempo con\r\nTaichi in passato, non è vero?"
+
+msgctxt "145||||4"
+msgid "Yes, of course."
+msgstr "Sì, certamente."
+
+msgctxt "146||||4"
+msgid "Then, you know about the huge burn scar\r\nhe has across the side of his face, right?"
+msgstr "Allora saprà dell'enorme cicatrice da ustione\r\nche ha su un lato del viso, giusto?"
+
+msgctxt "147||||4"
+msgid "Has he ever mentioned how it happened?"
+msgstr "Le ha mai detto come se l'è procurata?"
+
+msgctxt "148||||4"
+msgid "No, he's never brought it up.\r\nIt seemed best not to mention it."
+msgstr "No, non ne ha mai parlato.\r\nMi è sembrato meglio non farglielo notare."
+
+msgctxt "149||||4"
+msgid "(Got him.)"
+msgstr "(Preso.)"
+
+msgctxt "150||||4"
+msgid "Kiryu-san? Is something wrong?"
+msgstr "Kiryu-san? C'è qualcosa che non va?"
+
+msgctxt "151||||4"
+msgid "Not at all. I just didn't think you'd\r\ngive yourself away so easily. Thanks for that."
+msgstr "Assolutamente no. Non pensavo ti saresti smascherato\r\ncosì facilmente. Grazie per la collaborazione."
+
+msgctxt "152||||4"
+msgid "...Huh?"
+msgstr "...Eh?"
+
+msgctxt "153||||4"
+msgid "If you knew Taichi, you'd know\r\nhe doesn't have a scar at all."
+msgstr "Se tu conoscessi Taichi, sapresti\r\nche non ha alcuna cicatrice."
+
+msgctxt "154||||4"
+msgid "Wh-What!?"
+msgstr "Ch-Cosa!?"
+
+msgctxt "155||||4"
+msgid "I wasn't expecting it to be that easy.\r\nYou thieves aren't the brightest."
+msgstr "Non mi aspettavo fosse così facile.\r\nVoi ladruncoli non siete delle cime."
+
+msgctxt "156||||4"
+msgid "You fucking prick. I guess I don't have a choice\r\nnow that you caught me. Hey, c'mon out!"
+msgstr "Pezzo di merda. Immagino di non avere altra\r\nscelta ora che mi hai beccato. Ehi, venite fuori!"
+
+msgctxt "157||||4"
+msgid "Man, this old fart figured us out?\r\nWhat a pain in the ass."
+msgstr "Amico, questo vecchio bacucco ci ha scoperti?\r\nChe rottura di palle."
+
+msgctxt "158||||4"
+msgid "You... You're the one from the phone."
+msgstr "Tu... Sei quello del telefono."
+
+msgctxt "159||||4"
+msgid "It's me, Taichi!"
+msgstr "Sono io, Taichi!"
+
+msgctxt "160||||4"
+msgid "Heh, guess we're gonna have to do this the hard way.\r\nTime to beat the cash outta you!"
+msgstr "Heh, mi sa che dovremo usare le maniere forti.\r\nÈ tempo di farti sganciare i soldi a suon di botte!"
+
+msgctxt "161||||4"
+msgid "Hey, gramps! You're finished!"
+msgstr "Ehi, nonnetto! Sei finito!"
+
+msgctxt "162||||4"
+msgid "P-Please, we've had enough!"
+msgstr "T-Ti prego, ne abbiamo avuto abbastanza!"
+
+msgctxt "163||||4"
+msgid "You better swear... you'll never try to pull\r\nanother one of these ridiculous scams again!"
+msgstr "Giura... che non proverai mai più\r\na organizzare queste truffe ridicole!"
+
+msgctxt "164||||4"
+msgid "O-Okay! We promise, we promise!"
+msgstr "O-Okay! Lo promettiamo, lo promettiamo!"
+
+msgctxt "165||||4"
+msgid "R-Run away!"
+msgstr "S-Scappiamo!"
+
+msgctxt "166||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "167||||4"
+msgid "Hello?"
+msgstr "Pronto?"
+
+msgctxt "168||||4"
+msgid "Ah, hi there!\r\nIt's me!"
+msgstr "Ah, ciao!\r\nSono io!"
+
+msgctxt "169||||4"
+msgid "Me...?"
+msgstr "Io...?"
+
+msgctxt "170||||4"
+msgid "Yeah! It's me, Taichi!"
+msgstr "Sì! Sono io, Taichi!"
+
+msgctxt "171||||4"
+msgid "It hasn't even been 30 seconds, you little punk.\r\nDo you need me to teach you another lesson!?"
+msgstr "Non sono passati neanche 30 secondi, teppistello.\r\nHai bisogno che ti dia un'altra lezione!?"
+
+msgctxt "172||||4"
+msgid "U-Uncle Kaz, is something wrong?\r\nYou're scaring me."
+msgstr "Z-Zio Kaz, c'è qualcosa che non va?\r\nMi stai spaventando."
+
+msgctxt "173||||4"
+msgid "Wait, is this really Taichi?"
+msgstr "Aspetta, sei davvero Taichi?"
+
+msgctxt "174||||4"
+msgid "I mean, I said it was Taichi, right?"
+msgstr "Sì, ho detto che sono Taichi, giusto?"
+
+msgctxt "175||||4"
+msgid "I was just calling to say hello.\r\nSorry, are you too busy?"
+msgstr "Ti stavo chiamando solo per un saluto.\r\nScusa, sei troppo impegnato?"
+
+msgctxt "176||||4"
+msgid "O-Oh. No, it's okay."
+msgstr "O-Oh. No, va tutto bene."
+
+msgctxt "177||||4"
+msgid "Phew. I'm glad I got to hear your voice,\r\nUncle Kaz. Anyway, talk to you later!"
+msgstr "Fiuu. Sono contento di aver sentito la tua voce,\r\nZio Kaz. Comunque, ci sentiamo dopo!"
+
+msgctxt "178||||4"
+msgid "Right. Say hi to the others for me."
+msgstr "D'accordo. Saluta gli altri da parte mia."
+
+msgctxt "179||||4"
+msgid "Scams are everywhere... I've gotta check\r\nwho's on the other end when I answer."
+msgstr "Le truffe sono ovunque... Devo assicurarmi di\r\nsapere chi c'è dall'altra parte quando rispondo."

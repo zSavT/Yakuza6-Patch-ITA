@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Welcome to Club Shine."
+msgstr "Benvenuto al Club Shine."
+
+msgctxt "1||||4"
+msgid "We offer a 6,000 yen package with an additional\r\n2,000 yen service fee."
+msgstr "Offriamo un pacchetto da 6.000 yen, con un\r\nsupplemento di 2.000 yen per il servizio."
+
+msgctxt "2||||4"
+msgid "There is also a separate 2,000 yen request fee."
+msgstr "C'è inoltre una quota separata di 2.000 yen per la richiesta."
+
+msgctxt "3||||4"
+msgid "Are you interested?"
+msgstr "È interessato?"
+
+msgctxt "4||||4"
+msgid "Who would you like to request?"
+msgstr "Chi vorrebbe richiedere?"
+
+msgctxt "5||||4"
+msgid "Very well.\r\nWe look forward to your next visit."
+msgstr "Molto bene.\r\nL'aspettiamo per la sua prossima visita."
+
+msgctxt "6||||4"
+msgid "Riona? Just a moment, please."
+msgstr "Riona? Un momento, per favore."
+
+msgctxt "7||||4"
+msgid "Saki? Just a moment, please."
+msgstr "Saki? Un momento, per favore."
+
+msgctxt "8||||4"
+msgid "Erina? Just a moment, please."
+msgstr "Erina? Un momento, per favore."
+
+msgctxt "9||||4"
+msgid "Sora? Just a moment, please."
+msgstr "Sora? Un momento, per favore."
+
+msgctxt "10||||4"
+msgid "Hikaru? Just a moment, please."
+msgstr "Hikaru? Un momento, per favore."
+
+msgctxt "11||||4"
+msgid "If you'll excuse me."
+msgstr "Con permesso."
+
+msgctxt "12||||4"
+msgid "Just a moment, sir."
+msgstr "Solo un momento, signore."
+
+msgctxt "13||||4"
+msgid "Your drink, sir."
+msgstr "Il suo drink, signore."
+
+msgctxt "14||||4"
+msgid "Your order, sir."
+msgstr "La sua ordinazione, signore."
+
+msgctxt "15||||4"
+msgid "I'm afraid your time is almost up."
+msgstr "Temo che il suo tempo sia quasi scaduto."
+
+msgctxt "16||||4"
+msgid "What would you like to do?"
+msgstr "Come desidera procedere?"
+
+msgctxt "17||||4"
+msgid "Take your time, sir."
+msgstr "Faccia con comodo, signore."
+
+msgctxt "18||||4"
+msgid "Very well."
+msgstr "Molto bene."
+
+msgctxt "19||||4"
+msgid "Your bill, sir."
+msgstr "Il suo conto, signore."
+
+msgctxt "20||||4"
+msgid "Thank you very much."
+msgstr "La ringraziamo molto."
+
+msgctxt "21||||4"
+msgid "(I'm starting to feel the alcohol.)"
+msgstr "(L'alcol inizia a farsi sentire.)"
+
+msgctxt "22||||4"
+msgid "(Seems I'm short on cash...)"
+msgstr "(Sembra che io sia a corto di contanti...)"
+
+msgctxt "23||||4"
+msgid "Maybe next time."
+msgstr "Magari la prossima volta."
+
+msgctxt "24||||4"
+msgid "(The hostess I requested isn't here today...)"
+msgstr "(La hostess che ho richiesto non c'è oggi...)"
+
+msgctxt "25||||4"
+msgid "(I'm short on cash. I should check the prices\r\nbefore I walk into these things.)"
+msgstr "(Sono a corto di contanti. Dovrei controllare i prezzi\r\nprima di infilarmi in questi posti.)"
+
+msgctxt "26||||4"
+msgid "(I'm really feeling the alcohol...\r\nI might have to leave soon.)"
+msgstr "(L'alcol si fa proprio sentire...\r\nPotrei dover andare via a breve.)"
+
+msgctxt "27||||4"
+msgid "(I'm practically drunk... I should sober\r\nup a bit before I head out to meet her.)"
+msgstr "(Sono praticamente ubriaco... Dovrei smaltire\r\nun po' la sbronza prima di andare a incontrarla.)"
+

@@ -1,0 +1,804 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "U-Um... Hey, Mister!\r\nCan I get a minute of your time?"
+msgstr "E-ehm... Ehi, signore!\r\nPosso rubarle un minuto?"
+
+msgctxt "1||||4"
+msgid "Hm?"
+msgstr "(Uhm?)"
+
+msgctxt "2||||4"
+msgid "There's something I need t'ask ya.\r\nWhat, um... What year is it?"
+msgstr "C'è una cosa che le devo chiedere.\r\nIn che... in che anno siamo?"
+
+msgctxt "3||||4"
+msgid "Excuse me?"
+msgstr "Come scusa?"
+
+msgctxt "4||||4"
+msgid "Wellll, like, um...\r\nI wanna know what year it is."
+msgstr "Beeeh, ecco, ehm...\r\nVoglio sapere che anno è."
+
+msgctxt "5||||4"
+msgid "It's 2016."
+msgstr "Siamo nel 2016."
+
+msgctxt "6||||4"
+msgid "2016? Y'mean it!?\r\nY'really really mean it!?"
+msgstr "2016? Sul serio!?\r\nDice davvero, davvero sul serio!?"
+
+msgctxt "7||||4"
+msgid "Yesss! I actually did it!\r\nSo then... this is really a year in the past?"
+msgstr "Sììì! Ce l'ho fatta davvero!\r\nE quindi... sono davvero in un anno del passato?"
+
+msgctxt "8||||4"
+msgid "And this is what I was like a year ago?\r\nOh yeah, my boobs are totally smaller now!"
+msgstr "E questo è l'aspetto che avevo un anno fa?\r\nOh già, le mie tette sono decisamente più piccole ora!"
+
+msgctxt "9||||4"
+msgid "What? What the hell are you saying?"
+msgstr "Cosa? Che diavolo stai dicendo?"
+
+msgctxt "10||||4"
+msgid "Oh, sorry about that.\r\nI went off on a tangent there."
+msgstr "Oh, mi scusi.\r\nHo perso il filo del discorso."
+
+msgctxt "11||||4"
+msgid "Hm?"
+msgstr "(Uhm?)"
+
+msgctxt "12||||4"
+msgid "The thing is, well... I just performed\r\na time leap from a year in the future!"
+msgstr "Il punto è, beh... Ho appena fatto\r\nun salto temporale da un anno nel futuro!"
+
+msgctxt "13||||4"
+msgid "A time leap?"
+msgstr "Un salto temporale?"
+
+msgctxt "14||||4"
+msgid "Yup! I'm actually from the year 2017!"
+msgstr "Già! In realtà vengo dall'anno 2017!"
+
+msgctxt "15||||4"
+msgid "I don't understand."
+msgstr "Non capisco."
+
+msgctxt "16||||4"
+msgid "Oh, did I not make it clear?"
+msgstr "Oh, non sono stata chiara?"
+
+msgctxt "17||||4"
+msgid "Okeydokey! Let me start by explaining the\r\ndifference between time travel and a time leap."
+msgstr "Okie dokie! Lasci che le spieghi la\r\ndifferenza tra un viaggio nel tempo e un salto temporale."
+
+msgctxt "18||||4"
+msgid "(What is she talking about...?)"
+msgstr "(Ma di che sta parlando...?)"
+
+msgctxt "19||||4"
+msgid "A time leap is when your consciousness transfers\r\nfrom one point in time to your body in another time."
+msgstr "Un salto temporale è quando la tua coscienza si trasferisce\r\nda un punto nel tempo al tuo corpo in un altro momento."
+
+msgctxt "20||||4"
+msgid "...Uh-huh."
+msgstr "...Mh-mh."
+
+msgctxt "21||||4"
+msgid "As for time travel, it's more like when you\r\nmove through time with a machine or something."
+msgstr "Un viaggio nel tempo, invece, è più quando ti\r\nmuovi attraverso il tempo con una macchina o roba simile."
+
+msgctxt "22||||4"
+msgid "For example, if a guy goes back a day in a time machine,\r\nboth him and the him from yesterday would be there."
+msgstr "Per esempio, se un tizio torna indietro di un giorno con una macchina del tempo,\r\nci sarebbero sia lui che la sua versione di ieri."
+
+msgctxt "23||||4"
+msgid "Basically two of the same guy would\r\nexist in the same place and time."
+msgstr "In pratica ci sarebbero due versioni dello stesso tizio\r\nnello stesso posto e nello stesso momento."
+
+msgctxt "24||||4"
+msgid "With a time leap, just his consciousness transfers\r\ninto his past body, so there's only one of him."
+msgstr "Con un salto temporale, solo la sua coscienza si trasferisce\r\nnel suo corpo passato, quindi ce n'è solo uno."
+
+msgctxt "25||||4"
+msgid "Well? Do y'get it now?"
+msgstr "Allora? Ha capito adesso?"
+
+msgctxt "26||||4"
+msgid "Yeah, I think I do."
+msgstr "Sì, credo di sì."
+
+msgctxt "27||||4"
+msgid "In my case, my consciousness from 2017 has\r\ncome back a year to inhabit my 2016 body!"
+msgstr "Nel mio caso, la mia coscienza del 2017 è\r\ntornata indietro di un anno per abitare il mio corpo del 2016!"
+
+msgctxt "28||||4"
+msgid "I didn't think I'd be able to leap a whole year!\r\nI'm pretty damn awesome, huh?"
+msgstr "Non pensavo di riuscire a saltare di un anno intero!\r\nSono una forza della natura, eh?"
+
+msgctxt "29||||4"
+msgid "Sure, I guess you could say that.\r\nWell, sorry for holding you up."
+msgstr "Certo, suppongo si possa dire così.\r\nBeh, scusa se ti ho trattenuto."
+
+msgctxt "30||||4"
+msgid "Um, what? Don't leave!\r\nCome back, Mister!"
+msgstr "Ehm, cosa? Non se ne vada!\r\nTorni qui, signore!"
+
+msgctxt "31||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "32||||4"
+msgid "I just made a pretty spectacular claim.\r\nDon't you like, have questions or something?"
+msgstr "Ho appena fatto una rivelazione piuttosto spettacolare.\r\nNon ha, tipo, delle domande o cose così?"
+
+msgctxt "33||||4"
+msgid "Nah, I'm all right."
+msgstr "Nah, sto a posto così."
+
+msgctxt "34||||4"
+msgid "Huh? Reallyyyyy?"
+msgstr "Eh? Davveroooo?"
+
+msgctxt "35||||4"
+msgid "If you insist.\r\nI guess I can stick around a while."
+msgstr "Se proprio insisti.\r\nSuppongo di poter restare un altro po'."
+
+msgctxt "36||||4"
+msgid "Yay, thanks Mister!\r\nOh, and my name's Miku."
+msgstr "Evviva, grazie signore!\r\nOh, il mio nome è Miku."
+
+msgctxt "37||||4"
+msgid "I'm Kiryu."
+msgstr "Io sono Kiryu."
+
+msgctxt "38||||4"
+msgid "Gotcha! Kiryu-san, right?\r\nI'm gonna go out on a limb here..."
+msgstr "Ricevuto! Kiryu-san, giusto?\r\nMi lancerò in un'ipotesi..."
+
+msgctxt "39||||4"
+msgid "...But you don't believe I actually\r\ntime leaped just now, do ya?"
+msgstr "...Ma tu non credi che io abbia\r\nveramente fatto un salto temporale, vero?"
+
+msgctxt "40||||4"
+msgid "You mean how you came back here from\r\nthe future? Of course I don't."
+msgstr "Intendi la storia di come saresti tornata dal\r\nfuturo? Certo che non ci credo."
+
+msgctxt "41||||4"
+msgid "Then how can I convince ya\r\nI'm telling the truth?"
+msgstr "Allora come posso convincerti\r\nche sto dicendo la verità?"
+
+msgctxt "42||||4"
+msgid "Well, I'm not sure you can.\r\nHmmm..."
+msgstr "Beh, non sono sicuro tu possa farlo.\r\nUhm..."
+
+msgctxt "44||||4"
+msgid "Actually, if you're really from 2017,\r\nyou know the future, right?"
+msgstr "In realtà, se vieni davvero dal 2017,\r\nconosci il futuro, giusto?"
+
+msgctxt "45||||4"
+msgid "Does anything strange happen in the next year?"
+msgstr "Succede niente di strano nel prossimo anno?"
+
+msgctxt "46||||4"
+msgid "Strange? So like, something major?\r\nHm..."
+msgstr "Strano? Tipo, qualcosa di grosso?\r\nUhm..."
+
+msgctxt "47||||4"
+msgid "It's hard t'think of examples on the spot.\r\nCan y'ask me something specific?"
+msgstr "È difficile pensare a degli esempi su due piedi.\r\nPuoi chiedermi qualcosa di specifico?"
+
+msgctxt "48||||4"
+msgid "If I have to. Let's see..."
+msgstr "Se proprio devo. Vediamo..."
+
+msgctxt "49||||4"
+msgid "Are there gonna be any serious natural disasters?"
+msgstr "Ci saranno gravi disastri naturali?"
+
+msgctxt "50||||4"
+msgid "Ummm, I don't <font_kind=yakuza_italic>think</font_kind> so...?\r\nThere might be a few earthquakes..."
+msgstr "Uhm, non <font_kind=yakuza_italic>credo</font_kind>...?\r\nForse qualche terremoto..."
+
+msgctxt "51||||4"
+msgid "Oh, there was one pretty interesting disaster!\r\nMy mom totally ran over my dad with her car."
+msgstr "Oh, c'è stato un disastro piuttosto interessante!\r\nMia mamma ha totalmente investito mio papà con la macchina."
+
+msgctxt "52||||4"
+msgid "He came out of it totally fine...\r\nbut ugh, my dad's so lame."
+msgstr "Ne è uscito completamente illeso...\r\nma ugh, mio papà è così sfigato."
+
+msgctxt "53||||4"
+msgid "Hold on, I don't care about your family issues.\r\nI want to know what the papers write about."
+msgstr "Aspetta, non mi interessano i tuoi problemi familiari.\r\nVoglio sapere di cosa scrivono i giornali."
+
+msgctxt "54||||4"
+msgid "C'mon, nobody reads the papers nowadays.\r\nWe get news through our phones."
+msgstr "Andiamo, nessuno legge i giornali al giorno d'oggi.\r\nLe notizie le leggiamo sui cellulari."
+
+msgctxt "55||||4"
+msgid "Oh yeah! We have these fancy things\r\ncalled smartphones in 2017!"
+msgstr "Oh già! Noi abbiamo questi cosi di lusso\r\nchiamati smartphone nel 2017!"
+
+msgctxt "56||||4"
+msgid "They were around in 2016, too..."
+msgstr "C'erano in giro anche nel 2016..."
+
+msgctxt "57||||4"
+msgid "Oh, yeah. I guess you're right!"
+msgstr "Oh, già. Immagino tu abbia ragione!"
+
+msgctxt "58||||4"
+msgid "Can you tell me who'll win the big horse races?"
+msgstr "Puoi dirmi chi vincerà le grandi corse dei cavalli?"
+
+msgctxt "59||||4"
+msgid "Oh, that makes sense! That would prove\r\nI came from the future for sure!"
+msgstr "Oh, ha senso! Questo proverebbe\r\nsicuramente che vengo dal futuro!"
+
+msgctxt "60||||4"
+msgid "I didn't think of it this time...\r\nbut I'll definitely remember for my next time leap!"
+msgstr "Non ci ho pensato stavolta...\r\nma me ne ricorderò di sicuro per il mio prossimo salto temporale!"
+
+msgctxt "61||||4"
+msgid "Thanks a bunch!\r\nYour idea's gonna make me real rich, Kiryu-san!"
+msgstr "Grazie mille!\r\nLa tua idea mi farà diventare straricca, Kiryu-san!"
+
+msgctxt "62||||4"
+msgid "Wait, your next time leap?\r\nThat doesn't prove anything here."
+msgstr "Aspetta, il tuo prossimo salto temporale?\r\nQuesto non prova niente qui e ora."
+
+msgctxt "63||||4"
+msgid "Huhhh? But I can't answer your question now..."
+msgstr "Eeeeh? Ma adesso non posso rispondere alla tua domanda..."
+
+msgctxt "64||||4"
+msgid "Where will I be a year from now?"
+msgstr "Dove sarò io tra un anno?"
+
+msgctxt "65||||4"
+msgid "How am I s'posed to know that?\r\nI only just met ya, Kiryu-san."
+msgstr "Come faccio a saperlo?\r\nTi ho appena conosciuto, Kiryu-san."
+
+msgctxt "66||||4"
+msgid "Oh, maybe I could time leap forward a year!\r\nThen I'd be able t'tell ya the answer!"
+msgstr "Oh, forse potrei fare un salto temporale avanti di un anno!\r\nCosì potrei dirti la risposta!"
+
+msgctxt "67||||4"
+msgid "Although, it might be hard telling you the truth\r\nif things go south for you. Like if you die..."
+msgstr "Anche se, potrebbe essere difficile dirti la verità\r\nse le cose ti andassero male. Tipo se muori..."
+
+msgctxt "68||||4"
+msgid "That's fine.\r\nJust tell me whatever you see."
+msgstr "Va bene.\r\nDimmi semplicemente quello che vedi."
+
+msgctxt "69||||4"
+msgid "You're so calm about this.\r\nI guess you don't believe in me at all, huh?"
+msgstr "Sei così calmo al riguardo.\r\nImmagino tu non mi creda affatto, eh?"
+
+msgctxt "70||||4"
+msgid "Hold on a sec. I just realized, nothing you say\r\ncan really prove you're from the future."
+msgstr "Aspetta un attimo. Ho appena realizzato che niente di ciò che\r\ndici può provare realmente che vieni dal futuro."
+
+msgctxt "71||||4"
+msgid "Don't you have any physical proof?\r\nSomething that's definitely from 2017?"
+msgstr "Non hai nessuna prova materiale?\r\nQualcosa che provenga decisamente dal 2017?"
+
+msgctxt "72||||4"
+msgid "Uhhh... Like, a newspaper dated in the future?\r\nOr maybe a 100 yen coin?"
+msgstr "Uhhh... Tipo, un giornale datato nel futuro?\r\nO forse una moneta da 100 yen?"
+
+msgctxt "73||||4"
+msgid "Yeah, that would be more convincing."
+msgstr "Sì, quello sarebbe più convincente."
+
+msgctxt "74||||4"
+msgid "I already told you though,\r\nonly my consciousness came back here."
+msgstr "Ma ti ho già detto che\r\nè tornata indietro solo la mia coscienza."
+
+msgctxt "75||||4"
+msgid "So you can't prove it."
+msgstr "Quindi non puoi provarlo."
+
+msgctxt "76||||4"
+msgid "My words should be proof enough.\r\nJust look me in the eyes and say you believe me!"
+msgstr "Le mie parole dovrebbero essere una prova sufficiente.\r\nGuardami negli occhi e dimmi che mi credi!"
+
+msgctxt "77||||4"
+msgid "......"
+msgstr "..."
+
+msgctxt "78||||4"
+msgid "All right, I believe you."
+msgstr "D'accordo, ti credo."
+
+msgctxt "79||||4"
+msgid "Huh? You mean it!?"
+msgstr "Eh? Dici davvero!?"
+
+msgctxt "80||||4"
+msgid "Come on. You can't expect that to work."
+msgstr "Andiamo. Non crederai mica che possa funzionare."
+
+msgctxt "81||||4"
+msgid "Huh? But I told you so much!"
+msgstr "Eh? Ma ti ho raccontato un sacco di cose!"
+
+msgctxt "82||||4"
+msgid "I will say though, you don't really seem\r\nlike the kind of girl who'd pull a trick like this."
+msgstr "Devo ammettere però che non mi sembri\r\nil tipo di ragazza che farebbe uno scherzo del genere."
+
+msgctxt "83||||4"
+msgid "Ah, so you <font_kind=yakuza_italic>do</font_kind> believe me!"
+msgstr "Ah, quindi mi credi <font_kind=yakuza_italic>davvero</font_kind>!"
+
+msgctxt "84||||4"
+msgid "This would go on forever if I didn't.\r\nI don't have that kind of time."
+msgstr "Se non lo facessi questa storia andrebbe avanti all'infinito.\r\nE non ho tutto questo tempo da perdere."
+
+msgctxt "85||||4"
+msgid "That's kinda rude..."
+msgstr "È un po' scortese da parte tua..."
+
+msgctxt "86||||4"
+msgid "Either way, you have a reason for coming back\r\nto 2016, right? I should get out of your hair."
+msgstr "In ogni caso, hai un motivo per essere tornata\r\nnel 2016, giusto? Non dovrei mettermi tra i piedi."
+
+msgctxt "87||||4"
+msgid "You know, you're actually pretty cute."
+msgstr "Sai, in realtà sei piuttosto carino."
+
+msgctxt "88||||4"
+msgid "Huh? Where'd that come from?\r\nAlthough, I'm kinda into older guys."
+msgstr "Eh? E questa da dove esce?\r\nAnche se, i tipi più grandi mi piacciono."
+
+msgctxt "89||||4"
+msgid "Even though I'm probably older than your father?"
+msgstr "Anche se probabilmente sono più grande di tuo padre?"
+
+msgctxt "90||||4"
+msgid "My dad? I don't wanna think about him now. <symbol=note_with_outline>"
+msgstr "Mio papà? Non voglio pensare a lui adesso. <symbol=note_with_outline>"
+
+msgctxt "92||||4"
+msgid "But... you might really be older than him, Kiryu-san.\r\nUgh, I'm just thinking of his face now!"
+msgstr "Ma... potresti davvero essere più grande di lui, Kiryu-san.\r\nUgh, adesso mi sta venendo in mente la sua faccia!"
+
+msgctxt "93||||4"
+msgid "Teenagers really can't stand their parents, huh..."
+msgstr "(Gli adolescenti proprio non sopportano i genitori, eh...)"
+
+msgctxt "94||||4"
+msgid "Heck no..."
+msgstr "Proprio per niente..."
+
+msgctxt "95||||4"
+msgid "Anyway, I should get going.\r\nI really don't have time to waste."
+msgstr "Comunque, dovrei andare.\r\nNon ho davvero tempo da perdere."
+
+msgctxt "96||||4"
+msgid "What about the time leap?\r\nI guess you don't believe in it, huh?"
+msgstr "E che mi dici del salto temporale?\r\nImmagino che non ci credi, eh?"
+
+msgctxt "97||||4"
+msgid "Yup. Time's up."
+msgstr "Già. Tempo scaduto."
+
+msgctxt "98||||4"
+msgid "Besides, if you really <font_kind=yakuza_italic>are</font_kind> telling the truth,\r\nyou must have a reason to be back in 2016."
+msgstr "Inoltre, se stai dicendo <font_kind=yakuza_italic>davvero</font_kind> la verità,\r\ndevi avere un motivo per essere tornata nel 2016."
+
+msgctxt "99||||4"
+msgid "I shouldn't keep you from it."
+msgstr "Non dovrei trattenerti."
+
+msgctxt "100||||4"
+msgid "I actually don't have a reason."
+msgstr "In realtà non ho un motivo."
+
+msgctxt "101||||4"
+msgid "I only discovered my time leap power\r\na couple of days ago, after all."
+msgstr "Ho scoperto il mio potere di saltare nel tempo\r\nsolo un paio di giorni fa, dopotutto."
+
+msgctxt "102||||4"
+msgid "I've been trying t'figure out where I got it,\r\nbut my search has come up empty so far."
+msgstr "Ho cercato di capire da dove mi sia venuto,\r\nma per ora le mie ricerche non hanno portato a niente."
+
+msgctxt "103||||4"
+msgid "So, I decided to test out a few time leaps\r\nto see what my limits were!"
+msgstr "Così, ho deciso di provare a fare qualche salto\r\nper vedere quali fossero i miei limiti!"
+
+msgctxt "104||||4"
+msgid "In that case, let me know if you learn anything.\r\nSee you later."
+msgstr "In tal caso, fammi sapere se scopri qualcosa.\r\nCi vediamo."
+
+msgctxt "105||||4"
+msgid "Huhhh?"
+msgstr "Eeeeh?"
+
+msgctxt "106||||4"
+msgid "Hey Mister, can we talk about my time leap?\r\nI wanna prove I'm not just messing with you."
+msgstr "Ehi signore, possiamo parlare del mio salto temporale?\r\nVoglio provare che non ti sto solo prendendo in giro."
+
+msgctxt "107||||4"
+msgid "Wanna let me explain in a bit more detail?"
+msgstr "Vuoi lasciarmelo spiegare un po' più nel dettaglio?"
+
+msgctxt "108||||4"
+msgid "What do I do...?\r\nI'm gonna be stuck here forever..."
+msgstr "E adesso che faccio...?\r\nRimarrò bloccata qui per sempre..."
+
+msgctxt "109||||4"
+msgid "Hey, what's wrong?"
+msgstr "Ehi, che succede?"
+
+msgctxt "110||||4"
+msgid "Huh? \r\nOh, it's you, Kiryu-san."
+msgstr "Eh?\r\nOh, sei tu, Kiryu-san."
+
+msgctxt "111||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "112||||4"
+msgid "Remember me? Miku!\r\nI'm the time leaper..."
+msgstr "Ti ricordi di me? Miku!\r\nQuella dei salti temporali..."
+
+msgctxt "113||||4"
+msgid "Of course I remember.\r\nWhat's wrong? Why the tears?"
+msgstr "Certo che mi ricordo.\r\nQual è il problema? Perché stai piangendo?"
+
+msgctxt "114||||4"
+msgid "Um, it's a kinda long story.\r\nDo y'wanna listen, Kiryu-san?"
+msgstr "Ehm, è una storia un po' lunga.\r\nVuoi ascoltarla, Kiryu-san?"
+
+msgctxt "115||||4"
+msgid "Nah, maybe some other time."
+msgstr "Nah, magari un'altra volta."
+
+msgctxt "116||||4"
+msgid "Right. You must be busy, Kiryu-san."
+msgstr "Giusto. Devi essere occupato, Kiryu-san."
+
+msgctxt "117||||4"
+msgid "Of course. I wouldn't just abandon you.\r\nSo go on, let's hear what you have to say."
+msgstr "Certo. Non ti abbandonerei mai in questo stato.\r\nForza, sentiamo cos'hai da dire."
+
+msgctxt "118||||4"
+msgid "Um, well... The thing is...\r\nI... I lost my time leap powers!"
+msgstr "Ehm, beh... Il punto è che...\r\nIo... Ho perso i miei poteri!"
+
+msgctxt "119||||4"
+msgid "...Right."
+msgstr "...Capisco."
+
+msgctxt "120||||4"
+msgid "I knew it.\r\nYou still don't believe me, do you?"
+msgstr "Lo sapevo.\r\nNon mi credi ancora, vero?"
+
+msgctxt "122||||4"
+msgid "I'm not lying t'ya, though!\r\nI really <font_kind=yakuza_italic>can</font_kind> leap through time!"
+msgstr "Non ti sto mentendo, però!\r\nIo <font_kind=yakuza_italic>posso</font_kind> davvero viaggiare nel tempo!"
+
+msgctxt "123||||4"
+msgid "Let's suppose you can, then.\r\nHow exactly do you do it?"
+msgstr "Supponiamo tu possa, allora.\r\nCome fai esattamente?"
+
+msgctxt "124||||4"
+msgid "I just close my eyes and think back to\r\na moment I wanna revisit. That's all it takes."
+msgstr "Chiudo semplicemente gli occhi e ripenso a\r\nun momento in cui voglio tornare. Questo è tutto."
+
+msgctxt "126||||4"
+msgid "My first time leap was right after\r\nI said something really horrible to my dad."
+msgstr "Il mio primo salto è stato subito dopo\r\naver detto una cosa orribile a mio papà."
+
+msgctxt "127||||4"
+msgid "I wanted t'take back what I said, so I prayed.\r\nPrayed that I could go back."
+msgstr "Volevo rimangiarmi quello che avevo detto, così ho pregato.\r\nPregato di poter tornare indietro."
+
+msgctxt "128||||4"
+msgid "What exactly did you say to him?"
+msgstr "Cos'hai detto di preciso?"
+
+msgctxt "129||||4"
+msgid "Well, my dad's really lame. He doesn't have any\r\nself-confidence, and barely even acts like a dad."
+msgstr "Beh, mio papà è proprio uno sfigato. Non ha la minima\r\nfiducia in sé stesso, e a stento si comporta da padre."
+
+msgctxt "130||||4"
+msgid "Because of that, my mom...\r\nShe started cheatin' on him."
+msgstr "Per via di questo, mia mamma...\r\nHa iniziato a tradirlo."
+
+msgctxt "132||||4"
+msgid "The family was falling apart. My dad knew about\r\nthe affair, but was too afraid t'say anything."
+msgstr "La famiglia stava cadendo a pezzi. Mio papà sapeva della\r\nrelazione, ma aveva troppa paura per dire qualcosa."
+
+msgctxt "133||||4"
+msgid "Then one humid day, my mom was out neglecting\r\nour family again. Probably was out with her boytoy."
+msgstr "Poi, un giorno d'estate, mia mamma era fuori a trascurare la nostra\r\nfamiglia, come al solito. Probabilmente era col suo toyboy."
+
+msgctxt "134||||4"
+msgid "I got a bad grade on a test that day, too.\r\nAnd on top of that, the sink was totally busted."
+msgstr "Tra l'altro, quel giorno presi un brutto voto in un test.\r\nE come se non bastasse, il lavandino era completamente rotto."
+
+msgctxt "135||||4"
+msgid "That's when... I snapped. I took it all out on my dad,\r\neven though my mom was the real problem."
+msgstr "È stato allora che... sono sbottata. Me la sono presa con mio papà,\r\nanche se il vero problema era mia mamma."
+
+msgctxt "136||||4"
+msgid "I blamed him for mom's affair.\r\nCalled him a coward for not confronting her..."
+msgstr "Gli ho dato la colpa della relazione di mamma.\r\nL'ho chiamato codardo per non averla affrontata..."
+
+msgctxt "137||||4"
+msgid "And my dad just sat there crying. All because of me...\r\nBut that just made it harder t'stop!"
+msgstr "E mio papà è rimasto lì seduto a piangere. Tutto per colpa mia...\r\nMa questo mi ha reso solo più difficile fermarmi!"
+
+msgctxt "138||||4"
+msgid "I get it. That stuff's not easy for a kid."
+msgstr "Capisco. Queste cose non sono facili per una ragazzina."
+
+msgctxt "139||||4"
+msgid "That's when I leapt back to before I yelled at him.\r\nThis time I didn't say any of that stuff."
+msgstr "È stato allora che ho saltato indietro a prima di urlargli contro.\r\nE quella volta non gli ho detto nessuna di quelle cose."
+
+msgctxt "140||||4"
+msgid "I'm really glad I got a redo."
+msgstr "Sono davvero contenta di aver avuto una seconda occasione."
+
+msgctxt "142||||4"
+msgid "I've been obsessed with time leaps since then.\r\nI couldn't stop reading sci-fi books from the library."
+msgstr "Da allora sono diventata ossessionata dai salti temporali.\r\nNon riuscivo a smettere di leggere libri di fantascienza in biblioteca."
+
+msgctxt "143||||4"
+msgid "They helped me forget about how sad my life was."
+msgstr "Mi hanno aiutato a dimenticare quanto fosse triste la mia vita."
+
+msgctxt "144||||4"
+msgid "But now for some reason...\r\nmy time leap power's totally gone."
+msgstr "Ma ora per qualche motivo...\r\nil mio potere è completamente svanito."
+
+msgctxt "146||||4"
+msgid "What can I do?\r\nIf I'm stuck here, I..."
+msgstr "Cosa posso fare?\r\nSe rimango bloccata qui, io..."
+
+msgctxt "147||||4"
+msgid "Look, Miku.\r\nI'm not so sure this is a problem."
+msgstr "Ascolta, Miku.\r\nNon sono poi così sicuro che sia un problema."
+
+msgctxt "148||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "149||||4"
+msgid "You only went a year into the past.\r\nCan't you just wait until you're back in 2017?"
+msgstr "Sei tornata solo di un anno nel passato.\r\nNon puoi semplicemente aspettare finché non sarai di nuovo nel 2017?"
+
+msgctxt "150||||4"
+msgid "Well, I'd normally agree with you.\r\nBut..."
+msgstr "Beh, di solito sarei d'accordo con te.\r\nMa..."
+
+msgctxt "151||||4"
+msgid "...I can't go through all of that again!\r\nI can't stand another year with my dad!"
+msgstr "...non posso passare di nuovo attraverso tutto questo!\r\nNon posso sopportare un altro anno con mio papà!"
+
+msgctxt "152||||4"
+msgid "Miku... I'm sorry."
+msgstr "Miku... mi dispiace."
+
+msgctxt "153||||4"
+msgid "Heyyy! Miku!"
+msgstr "Ehiii! Miku!"
+
+msgctxt "154||||4"
+msgid "Ah... Dad?"
+msgstr "Ah... Papà?"
+
+msgctxt "155||||4"
+msgid "Hey, I'm just headin' on home now.\r\nY'wanna come with?"
+msgstr "Ehi, stavo giusto tornando a casa.\r\nVuoi venire con me?"
+
+msgctxt "156||||4"
+msgid "Uh, but..."
+msgstr "Uh, ma..."
+
+msgctxt "157||||4"
+msgid "Who's this fella?"
+msgstr "Chi è questo signore?"
+
+msgctxt "158||||4"
+msgid "Oh, this is Kiryu-san.\r\nI only just met him."
+msgstr "Oh, lui è Kiryu-san.\r\nL'ho appena conosciuto."
+
+msgctxt "159||||4"
+msgid "I'm Kiryu. Don't worry,\r\nI'll make sure your daughter gets back safe."
+msgstr "Sono Kiryu. Non si preoccupi,\r\nmi assicurerò che sua figlia torni a casa sana e salva."
+
+msgctxt "160||||4"
+msgid "\r\nWill y'now? Ah, that's awful nice.\r\nHope she ain't causin' ya trouble."
+msgstr "\r\nDavvero? Ah, è terribilmente gentile da parte sua.\r\nSpero non le stia causando problemi."
+
+msgctxt "161||||4"
+msgid "Anyway Miku, I'm hittin' the road.\r\nMom says she's cookin' up a feast tonight!"
+msgstr "Comunque Miku, io mi rimetto in strada.\r\nLa mamma dice che stasera preparerà un banchetto!"
+
+msgctxt "162||||4"
+msgid "Your story doesn't add up. Your dad seems fine,\r\nand it sounds like he gets along with your mom, too."
+msgstr "La tua storia non quadra. Tuo padre sembra stare bene,\r\ne pare che vada d'accordo anche con tua madre."
+
+msgctxt "163||||4"
+msgid "Oh yeah... This is before everything changed..."
+msgstr "Ah già... Questo accadeva prima che tutto cambiasse..."
+
+msgctxt "164||||4"
+msgid "I remember now!\r\nDad! Don't go that way!"
+msgstr "Ora ricordo!\r\nPapà! Non andare da quella parte!"
+
+msgctxt "165||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "166||||4"
+msgid "Dad!"
+msgstr "Papà!"
+
+msgctxt "167||||4"
+msgid "Oh, my apologies."
+msgstr "Oh, chiedo scusa."
+
+msgctxt "168||||4"
+msgid "What the!?"
+msgstr "Ma che!?"
+
+msgctxt "169||||4"
+msgid "Owwwwww! Man that hurts!"
+msgstr "Ahiiiii! Cavolo, fa male!"
+
+msgctxt "170||||4"
+msgid "Huh? But, I didn't mean..."
+msgstr "Eh? Ma, non volevo..."
+
+msgctxt "171||||4"
+msgid "Ya broke my arm, ya piece o' shit!\r\nIt's gonna cost ya, y'hear? Ugh, it hurts!"
+msgstr "Mi hai rotto il braccio, pezzo di merda!\r\nTi costerà caro, mi senti? Ugh, fa male!"
+
+msgctxt "172||||4"
+msgid "Please, um... Please forgive me!"
+msgstr "Vi prego, ehm... Vi prego di perdonarmi!"
+
+msgctxt "173||||4"
+msgid "Get down on yer knees n' beg!\r\nI ain't gonna let you off that easy, y'hear!?"
+msgstr "Mettiti in ginocchio e implora!\r\nNon te la lascerò passare liscia così facilmente, chiaro!?"
+
+msgctxt "174||||4"
+msgid "No... I've seen this happen before.\r\nThey made Dad kneel down to them, and then..."
+msgstr "No... L'ho già visto succedere.\r\nHanno costretto papà a inginocchiarsi davanti a loro, e poi..."
+
+msgctxt "175||||4"
+msgid "A-Ahhh!"
+msgstr "A-Ahhh!"
+
+msgctxt "176||||4"
+msgid "Don't worry, Miku. What you're about to see\r\nis probably different from the future you know."
+msgstr "Non preoccuparti, Miku. Quello che stai per vedere\r\nè probabilmente diverso dal futuro che conosci."
+
+msgctxt "177||||4"
+msgid "Huh...?"
+msgstr "Eh...?"
+
+msgctxt "178||||4"
+msgid "Hey, keep your hands off him."
+msgstr "Ehi, tenete giù le mani."
+
+msgctxt "179||||4"
+msgid "Huh? N' who're you?"
+msgstr "Eh? E tu chi saresti?"
+
+msgctxt "180||||4"
+msgid "I'm the one who's going to change history.\r\nNow if you're done talking... Bring it on!"
+msgstr "Sono colui che cambierà la storia.\r\nE ora, se avete finito di parlare... Fatevi sotto!"
+
+msgctxt "181||||4"
+msgid "Kiryu-san... Can you hear me out?"
+msgstr "Kiryu-san... Puoi starmi a sentire un attimo?"
+
+msgctxt "182||||4"
+msgid "It's kinda a long story...\r\nbut I wanna talk about time leaps again."
+msgstr "È una storia un po' lunga...\r\nma vorrei parlarti ancora di salti temporali."
+
+msgctxt "183||||4"
+msgid "Thank you so much, Kiryu-san.\r\nHistory's been changed because of you."
+msgstr "Grazie infinite, Kiryu-san.\r\nLa storia è cambiata grazie a te."
+
+msgctxt "184||||4"
+msgid "What originally happened was, those thugs forced\r\nmy dad to kneel and then they just beat on him."
+msgstr "Originariamente, quei teppisti avevano costretto mio\r\npapà a inginocchiarsi e poi l'avevano riempito di botte."
+
+msgctxt "185||||4"
+msgid "They totally humiliated him here on this bridge.\r\nMy dad probably didn't want me t'see him like that."
+msgstr "Lo umiliarono completamente qui su questo ponte.\r\nMio papà probabilmente non voleva che lo vedessi in quello stato."
+
+msgctxt "186||||4"
+msgid "I'm sure."
+msgstr "Ne sono certo."
+
+msgctxt "187||||4"
+msgid "He was always so cheerful, but from that day on,\r\nhe wouldn't even look me in the eye."
+msgstr "Era sempre stato così allegro, ma da quel giorno in poi,\r\nnon mi guardò più negli occhi."
+
+msgctxt "188||||4"
+msgid "That's when things got bad at home, too.\r\nHe and my mom barely talked after that."
+msgstr "È stato allora che le cose sono peggiorate anche a casa.\r\nLui e la mamma non si sono quasi più parlati da allora."
+
+msgctxt "189||||4"
+msgid "They used t'be so close..."
+msgstr "Prima erano così affiatati..."
+
+msgctxt "190||||4"
+msgid "So thanks to your time leap, you managed\r\nto rewrite some bitter history?"
+msgstr "Quindi grazie al tuo salto temporale sei riuscita a\r\nriscrivere un pezzo di storia doloroso?"
+
+msgctxt "191||||4"
+msgid "Yup. If I had t'guess, I'd say that's why\r\nI got my powers in the first place."
+msgstr "Già. Se dovessi indovinare, direi che è per questo\r\nche ho ottenuto i miei poteri fin dall'inizio."
+
+msgctxt "193||||4"
+msgid "Well, Kiryu-san? Do you believe my story?\r\nDo you think I really leapt through time?"
+msgstr "Allora, Kiryu-san? Credi alla mia storia?\r\nPensi davvero che io abbia viaggiato nel tempo?"
+
+msgctxt "194||||4"
+msgid "No way.\r\nYour word is all I have to go on, after all."
+msgstr "Assolutamente no.\r\nIn fondo, devo basarmi solo sulla tua parola."
+
+msgctxt "195||||4"
+msgid "Geez, you don't trust me at all!?"
+msgstr "Cavoli, non ti fidi per niente!?"
+
+msgctxt "196||||4"
+msgid "I'm not sure if the power to redo the past\r\nreally exists in this world."
+msgstr "Non sono sicuro che il potere di riscrivere\r\nil passato esista davvero in questo mondo."
+
+msgctxt "197||||4"
+msgid "You only get one chance at life. You're born once,\r\nand you die once. The same applies to you."
+msgstr "Hai solo un'opportunità nella vita. Si nasce una sola volta,\r\ne si muore una sola volta. E lo stesso vale per te."
+
+msgctxt "198||||4"
+msgid "But you can change the middle as much as you want.\r\nDon't forget that."
+msgstr "Ma nel mezzo puoi cambiare le cose quante volte vuoi.\r\nNon dimenticartelo."
+
+msgctxt "199||||4"
+msgid "Yeah, you're right."
+msgstr "Sì, hai ragione."
+
+msgctxt "200||||4"
+msgid "Hey, Kiryu-san.\r\nIs there anything you'd wanna do over?"
+msgstr "Ehi, Kiryu-san.\r\nC'è qualcosa che vorresti rifare da capo?"
+
+msgctxt "201||||4"
+msgid "I'm not sure. I try to let the past\r\nstay in the past. That's how it works for me."
+msgstr "Non saprei. Cerco di lasciare il passato\r\nnel passato. Per me funziona così."
+
+msgctxt "202||||4"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "203||||4"
+msgid "Well, if I <font_kind=yakuza_italic>do</font_kind> manage to time leap again,\r\nI'll come prove it to you, Kiryu-san."
+msgstr "Beh, se dovessi <font_kind=yakuza_italic>davvero</font_kind> riuscire a fare un altro salto,\r\nverrò a dimostrartelo, Kiryu-san."
+
+msgctxt "204||||4"
+msgid "Tell me what happens in the races, then.\r\nIf you're right about that, I'll believe you."
+msgstr "In tal caso, dimmi cosa succede alle corse.\r\nSe ci avrai azzeccato, allora ti crederò."
+
+msgctxt "205||||4"
+msgid "Will do! Bye now, Kiryu-san!\r\nThank you so much for everything!"
+msgstr "Sarà fatto! Ciao, Kiryu-san!\r\nGrazie mille di tutto!"
+
+msgctxt "206||||4"
+msgid "No problem."
+msgstr "Di niente."

@@ -1,0 +1,32 @@
+name: Controllo gettext PO
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'File Patch/Tradotti/**'
+  pull_request:
+    branches: [ main ]
+
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install gettext
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gettext
+
+      - name: Validate PO Syntax
+        run: |
+          TARGET_DIR="File Patch/Tradotti"
+          find "$TARGET_DIR" -name "*.po" -print0 | xargs -0 -I {} bash -c '
+            if ! OUTPUT=$(msgfmt -c -o /dev/null "$1" 2>&1); then
+              echo "❌ ERRORE CRITICO: $1"
+              echo "$OUTPUT"
+              exit 255
+            fi
+          ' _ "{}"

@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Greetings, citizens of Kamurocho.\r\nPardon the interruption. It will only be a moment."
+msgstr "Saluti, cittadini di Kamurocho.\r\nPerdonate l'interruzione. Sarà solo un momento."
+
+msgctxt "1||||4"
+msgid "What is this...?"
+msgstr "Che cos'è questo...?"
+
+msgctxt "2||||4"
+msgid "I urge you all to stop\r\nand listen to what I have to say."
+msgstr "Vi esorto tutti a fermarvi\r\ne ad ascoltare ciò che ho da dirvi."
+
+msgctxt "4||||4"
+msgid "As you may know, this city has been\r\ninfected by a vile group called the Saio Triad."
+msgstr "Come forse saprete, questa città è stata\r\ninfettata da un vile gruppo chiamato Triade Saio."
+
+msgctxt "5||||4"
+msgid "Since their arrival, Kamurocho has\r\nbecome host to an endless conflict."
+msgstr "Dal loro arrivo, Kamurocho ha\r\nospitato un conflitto senza fine."
+
+msgctxt "6||||4"
+msgid "If we wish to rid ourselves of them, we need\r\na strong voice to force them out. <font_kind=yakuza_italic>Your</font_kind> voice."
+msgstr "Se vogliamo liberarci di loro, ci serve\r\nuna voce forte per scacciarli. La <font_kind=yakuza_italic>vostra</font_kind> voce."
+
+msgctxt "7||||4"
+msgid "The first step is ensuring they know\r\nwe will not stand for their criminal acts."
+msgstr "Il primo passo è assicurarsi che sappiano\r\nche non tollereremo i loro atti criminali."
+
+msgctxt "8||||4"
+msgid "We must boycott their nerve center, Little Asia.\r\nDo not line their pockets by shopping there."
+msgstr "Dobbiamo boicottare il loro centro nevralgico, Little Asia.\r\nNon riempite le loro tasche facendo acquisti laggiù."
+
+msgctxt "9||||4"
+msgid "Further, I suggest you stay away for\r\nyour own safety as well. If you don't..."
+msgstr "Inoltre, vi suggerisco di starne alla larga anche\r\nper la vostra sicurezza. Se non lo farete..."
+
+msgctxt "10||||4"
+msgid "...You may just find yourself on\r\nthe receiving end of something like this."
+msgstr "...Potreste ritrovarvi a essere\r\nle vittime di qualcosa del genere."
+
+msgctxt "11||||4"
+msgid "Hm...?"
+msgstr "Mh...?"
+
+msgctxt "12||||4"
+msgid "Wh-What's going on!?"
+msgstr "Ch-Cosa sta succedendo!?"
+
+msgctxt "13||||4"
+msgid "Have I made myself clear?"
+msgstr "Sono stato chiaro?"
+
+msgctxt "14||||4"
+msgid "To fund them is to be complicit.\r\nEven those who pay them for \"protection.\""
+msgstr "Finanziarli significa esserne complici.\r\nAnche quelli che li pagano per la \"protezione\"."
+
+msgctxt "15||||4"
+msgid "If you wish to live, cut all ties with the Saio Triad.\r\nOnly then will our city be cleansed of them."
+msgstr "Se volete vivere, tagliate ogni legame con la Triade Saio.\r\nSolo allora la nostra città sarà ripulita da loro."
+
+msgctxt "16||||4"
+msgid "Kamurocho is ours.\r\nIt is about time we prove it."
+msgstr "Kamurocho è nostra.\r\nÈ giunto il momento di dimostrarlo."
+
+msgctxt "17||||4"
+msgid "Urgh... That trash bag...\r\nWhat did I do wrong...?"
+msgstr "Urgh... Quel sacco della spazzatura...\r\nCosa ho fatto di male...?"
+
+msgctxt "19||||4"
+msgid "I don't get it... Why?"
+msgstr "Non capisco... Perché?"
+
+msgctxt "20||||4"
+msgid "Hey, are you okay?"
+msgstr "Ehi, tutto bene?"
+
+msgctxt "21||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "22||||4"
+msgid "That blast looked pretty strong.\r\nAre you hurt?"
+msgstr "Quell'esplosione sembrava piuttosto forte.\r\nSei ferito?"
+
+msgctxt "23||||4"
+msgid "I-I think I'm okay, yeah...\r\nYou saw it, too?"
+msgstr "C-Credo di stare bene, sì...\r\nL'hai vista anche tu?"
+
+msgctxt "24||||4"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "25||||4"
+msgid "I thought that bag was suspicious..."
+msgstr "Pensavo che quel sacco fosse sospetto..."
+
+msgctxt "26||||4"
+msgid "I didn't think it'd actually explode, though...\r\nThere must've been a bomb in there!"
+msgstr "Non pensavo potesse davvero esplodere, però...\r\nDeve esserci stata una bomba lì dentro!"
+
+msgctxt "27||||4"
+msgid "The bag, huh...\r\nThere's no way to trace it, then."
+msgstr "Il sacco, eh...\r\nNon c'è modo di rintracciarlo, allora."
+
+msgctxt "28||||4"
+msgid "I saw the guy, though!\r\nI watched him put that bag there!"
+msgstr "Io però ho visto il tizio!\r\nL'ho visto mentre metteva quel sacco lì!"
+
+msgctxt "29||||4"
+msgid "What...?"
+msgstr "Cosa...?"
+
+msgctxt "30||||4"
+msgid "It was a guy in his 40's wearing a yellow tracksuit.\r\nPretty sure he was Chinese."
+msgstr "Era un tizio sulla quarantina con una tuta gialla.\r\nSono abbastanza sicuro che fosse cinese."
+
+msgctxt "31||||4"
+msgid "Chinese? Wait, was he with the Saio?\r\nThe guy on the screen was against them, though..."
+msgstr "Cinese? Un attimo, stava con la Triade Saio?\r\nIl tizio sullo schermo però era contro di loro..."
+
+msgctxt "32||||4"
+msgid "I don't have a clue."
+msgstr "Non ne ho la più pallida idea."
+
+msgctxt "33||||4"
+msgid "\r\nAll I know for sure is I heard the guy who\r\nput that trash bag there speaking Chinese."
+msgstr "\r\nTutto quello che so di per certo è di aver sentito il\r\ntizio che ha posato quel sacco parlare in cinese."
+
+msgctxt "34||||4"
+msgid "And where did you hear him?"
+msgstr "E dove l'hai sentito?"
+
+msgctxt "35||||4"
+msgid "Over at the Yoshida Batting Center."
+msgstr "Laggiù, allo Yoshida Batting Center."
+
+msgctxt "36||||4"
+msgid "Thanks for the info."
+msgstr "Grazie per l'informazione."
+
+msgctxt "37||||4"
+msgid "That trash bag exploded!"
+msgstr "Quel sacco della spazzatura è esploso!"
+
+msgctxt "38||||4"
+msgid "I saw the whole thing."
+msgstr "Ho visto tutto."
+
+msgctxt "39||||4"
+msgid "Hm? You there.\r\nYou want to hear about the explosion, too?"
+msgstr "Mh? Tu lì.\r\nVuoi sentire anche tu dell'esplosione?"
+
+msgctxt "40||||4"
+msgid "Well, the bomb went off right next to me.\r\nI thought I was done for..."
+msgstr "Beh, la bomba è esplosa proprio accanto a me.\r\nPensavo fosse la fine..."
+
+msgctxt "41||||4"
+msgid "I remember.\r\nI was around here when it happened."
+msgstr "Mi ricordo.\r\nEro da queste parti quando è successo."
+
+msgctxt "42||||4"
+msgid "Really!? You were there, too?\r\nThen, I'll tell you..."
+msgstr "Davvero!? C'eri anche tu?\r\nAllora, ti racconterò..."
+
+msgctxt "43||||4"
+msgid "The guy who planted that bomb was definitely Chinese.\r\nHe was in a yellow tracksuit over at the batting center."
+msgstr "Il tizio che ha piazzato quella bomba era decisamente cinese.\r\nEra in tuta gialla laggiù al Batting Center."
+
+msgctxt "44||||4"
+msgid "(So the guy who planted the bomb\r\nis over at the batting center...)"
+msgstr "(Quindi il tizio che ha piazzato la bomba\r\nsi trova al Batting Center...)"
+
+msgctxt "45||||4"
+msgid "(He should be wearing a yellow tracksuit.)"
+msgstr "(Dovrebbe indossare una tuta gialla.)"
+
+msgctxt "46||||4"
+msgid "What you want?"
+msgstr "Cosa volere tu?"
+
+msgctxt "47||||4"
+msgid "You're Chinese, right?\r\nAre you with the Saio Triad?"
+msgstr "Sei cinese, giusto?\r\nSei della Triade Saio?"
+
+msgctxt "48||||4"
+msgid "Excuse me?"
+msgstr "Prego?"
+
+msgctxt "49||||4"
+msgid "I've run into all sorts of Chinese here,\r\nbut every one of them was Saio."
+msgstr "Mi sono imbattuto in ogni sorta di cinese qui,\r\nma ognuno di loro era dei Saio."
+
+msgctxt "50||||4"
+msgid "I not part of Saio Triad.\r\nI no think like them."
+msgstr "Io non fare parte di Triade Saio.\r\nIo non pensare come loro."
+
+msgctxt "51||||4"
+msgid "Well then... who are you?"
+msgstr "E allora... chi sei?"
+
+msgctxt "52||||4"
+msgid "You say who you are first!\r\nWe only just meet, but you annoy me!"
+msgstr "Tu dire prima chi essere tu!\r\nNoi appena incontrati, ma tu già dare fastidio a me!"
+
+msgctxt "53||||4"
+msgid "Somebody told me they saw you leaving\r\na black trash bag over on Tenkaichi Street."
+msgstr "Qualcuno mi ha detto di averti visto lasciare un sacco\r\ndella spazzatura nero laggiù in Tenkaichi Street."
+
+msgctxt "54||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "55||||4"
+msgid "I was there when the bag exploded.\r\nI saw everything."
+msgstr "Ero lì quando il sacco è esploso.\r\nHo visto tutto."
+
+msgctxt "57||||4"
+msgid "You planted that bomb, didn't you?"
+msgstr "L'hai piazzata tu quella bomba, non è vero?"
+
+msgctxt "58||||4"
+msgid "Who tell you they saw me there?\r\nWas it information desk guy?"
+msgstr "Chi dire a te che vedere me lì?\r\nEssere forse tizio di sportello informazioni?"
+
+msgctxt "59||||4"
+msgid "What if it was?"
+msgstr "E se fosse stato lui?"
+
+msgctxt "60||||4"
+msgid "I knew it, he looking at me whole time.\r\nNow he know my face."
+msgstr "Io sapere, lui guardare me per tutto tempo.\r\nOra lui conoscere mia faccia."
+
+msgctxt "61||||4"
+msgid "I shut him up later.\r\nBut now, I shut you up!"
+msgstr "Io fare chiudere sua bocca dopo.\r\nMa ora, io fare chiudere tua bocca!"
+
+msgctxt "62||||4"
+msgid "Who <font_kind=yakuza_italic>are</font_kind> you!?"
+msgstr "Chi <font_kind=yakuza_italic>sei</font_kind> tu!?"
+
+msgctxt "63||||4"
+msgid "That's what I want you to tell me.\r\nIf you're not Saio, who are you with?"
+msgstr "Questo è quello che voglio che mi dica tu.\r\nSe non sei dei Saio, con chi stai?"
+
+msgctxt "64||||4"
+msgid "Planting bombs isn't exactly a civilian thing."
+msgstr "Piazzare bombe non è esattamente roba da civili."
+
+msgctxt "65||||4"
+msgid "You think I give up that easy?"
+msgstr "Tu pensare che io arrendersi così facile?"
+
+msgctxt "66||||4"
+msgid "Get back here!"
+msgstr "Torna qui!"
+
+msgctxt "67||||4"
+msgid "That's it. It's time you tell me the truth.\r\nWho are you with if not the Saio Triad?"
+msgstr "Basta così. È ora che mi dica la verità.\r\nDi chi fai parte se non della Triade Saio?"
+
+msgctxt "68||||4"
+msgid "Even if I tell you, you no know their name."
+msgstr "Anche se io dire a te, tu non conoscere loro nome."
+
+msgctxt "69||||4"
+msgid "Go on."
+msgstr "Continua."
+
+msgctxt "70||||4"
+msgid "Our group famous in Kamurocho many years ago.\r\nBack then, we even as strong as Tojo Clan."
+msgstr "Nostro gruppo famoso in Kamurocho molti anni fa.\r\nA quel tempo, noi forti anche come Clan Tojo."
+
+msgctxt "71||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "72||||4"
+msgid "My group called Snake Flower Triad!"
+msgstr "Mio gruppo chiamarsi Triade Snake Flower!"
+
+msgctxt "73||||4"
+msgid "Snake Flower...!"
+msgstr "Snake Flower...!"
+
+msgctxt "75||||4"
+msgid "Right, I remember you guys.\r\nIt's been a while since I've heard that name."
+msgstr "Giusto, mi ricordo di voi.\r\nÈ passato un po' di tempo da quando ho sentito quel nome."
+
+msgctxt "76||||4"
+msgid "You... know Snake Flower Triad?"
+msgstr "Tu... conoscere Triade Snake Flower?"
+
+msgctxt "77||||4"
+msgid "They were the most brutal mafia in town,\r\nled by a guy named Lau Ka Long."
+msgstr "Erano la mafia più brutale in città,\r\nguidata da un tizio di nome Lau Ka Long."
+
+msgctxt "78||||4"
+msgid "Yes, exactly!\r\nOh man, I so happy now!"
+msgstr "Sì, esatto!\r\nOh amico, io così felice ora!"
+
+msgctxt "79||||4"
+msgid "Lau tried to murder me when I was still a\r\njunior Dojima Family man. I'm Kazuma Kiryu."
+msgstr "Lau ha cercato di uccidermi quando ero ancora un\r\nmembro novellino della Famiglia Dojima. Sono Kazuma Kiryu."
+
+msgctxt "80||||4"
+msgid "Kiryu? Kazuma Kiryu!?\r\nYou're... really him!?"
+msgstr "Kiryu? Kazuma Kiryu!?\r\nTu essere... davvero lui!?"
+
+msgctxt "81||||4"
+msgid "So you guys are back in Kamurocho."
+msgstr "Quindi siete tornati a Kamurocho."
+
+msgctxt "85||||4"
+msgid "Are there any more of you?"
+msgstr "Ce ne sono altri di voi?"
+
+msgctxt "86||||4"
+msgid "Not really. Our leader is guy in mask\r\nwho was on the big screen before explosion."
+msgstr "Non molto. Nostro leader essere tizio con maschera\r\nche essere su grande schermo prima di esplosione."
+
+msgctxt "87||||4"
+msgid "Right. Makes sense."
+msgstr "Giusto. Ha senso."
+
+msgctxt "88||||4"
+msgid "Long ago, you crush Snake Flower Triad.\r\nNow I here in Japan to rebuild from ground up."
+msgstr "Molto tempo fa, tu distrutto Triade Snake Flower.\r\nOra io qui in Giappone per ricostruire da zero."
+
+msgctxt "89||||4"
+msgid "Rebuild?"
+msgstr "Ricostruire?"
+
+msgctxt "90||||4"
+msgid "If only Lau Ka Long still alive.\r\nMaybe this go well then. But..."
+msgstr "Se solo Lau Ka Long essere ancora vivo.\r\nForse tutto andare bene allora. Ma..."
+
+msgctxt "91||||4"
+msgid "Snake Flower officers realize their planning very poor.\r\nSo, they lose interest in Japan."
+msgstr "Ufficiali di Snake Flower capire che loro pianificazione molto scarsa.\r\nCosì, loro perso interesse in Giappone."
+
+msgctxt "92||||4"
+msgid "They lose interest in us, too.\r\nNobody even remember we here!"
+msgstr "Loro perso interesse anche in noi.\r\nNessuno ricordare nemmeno che noi essere qui!"
+
+msgctxt "93||||4"
+msgid "Your superiors literally forgot about you?"
+msgstr "I vostri superiori si sono letteralmente dimenticati di voi?"
+
+msgctxt "94||||4"
+msgid "We no have money to go back home.\r\nDay after day, we live here alone in this city."
+msgstr "Noi non avere soldi per tornare a casa.\r\nGiorno dopo giorno, noi vivere qui soli in questa città."
+
+msgctxt "95||||4"
+msgid "Then Saio Triad arrives in Kamurocho.\r\nThey come later than us, then ignore us!"
+msgstr "Poi Triade Saio arrivare in Kamurocho.\r\nLoro venire dopo di noi, poi ignorare noi!"
+
+msgctxt "96||||4"
+msgid "Now <font_kind=yakuza_italic>they</font_kind> at war with Tojo Clan.\r\nBarely know Snake Flower exists! So humiliating!"
+msgstr "Ora <font_kind=yakuza_italic>loro</font_kind> in guerra con Clan Tojo.\r\nA malapena sapere che Snake Flower esistere! Così umiliante!"
+
+msgctxt "97||||4"
+msgid "Wait just a sec...\r\nDo I have this straight?"
+msgstr "Aspetta un secondo...\r\nFammi capire bene."
+
+msgctxt "98||||4"
+msgid "The reason you set off that bomb...\r\nis so people would notice you? Really?"
+msgstr "Il motivo per cui hai fatto esplodere quella bomba...\r\nè solo per farvi notare dalla gente? Davvero?"
+
+msgctxt "99||||4"
+msgid "We want to make Saio Triad pay\r\nfor embarrassment they cause us!"
+msgstr "Noi volere fare pagare a Triade Saio\r\nper imbarazzo che loro causare a noi!"
+
+msgctxt "100||||4"
+msgid "...I almost understand how slighted you feel,\r\nbut you need to stop antagonizing the Saio."
+msgstr "...Riesco quasi a capire quanto vi sentiate offesi,\r\nma dovete smetterla di provocare i Saio."
+
+msgctxt "101||||4"
+msgid "<font_kind=yakuza_italic>I</font_kind> managed to find you with barely any effort.\r\nImagine how easy it would be for them."
+msgstr "<font_kind=yakuza_italic>Io</font_kind> sono riuscito a trovarvi con pochissimo sforzo.\r\nImmagina quanto sarebbe facile per loro."
+
+msgctxt "102||||4"
+msgid "You wouldn't even stand a chance.\r\nThey'd slaughter you."
+msgstr "Non avreste nemmeno una possibilità.\r\nVi massacrerebbero."
+
+msgctxt "103||||4"
+msgid "Ah... Dammit!"
+msgstr "Ah... Maledizione!"
+
+msgctxt "104||||4"
+msgid "It's up to you... but don't throw your lives away.\r\nI'll look past the bomb thing... this time."
+msgstr "Dipende da te... ma non buttate via le vostre vite.\r\nChiuderò un occhio sulla faccenda della bomba... per questa volta."
+
+msgctxt "105||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "106||||4"
+msgid "I don't have time to deal with this nonsense.\r\nJust go back to leading honest lives."
+msgstr "Non ho tempo per occuparmi di queste sciocchezze.\r\nTornatevene a condurre una vita onesta."
+
+msgctxt "107||||4"
+msgid "Kazuma Kiryu, the Dragon of Dojima.\r\nWe cannot defeat him now... We lose."
+msgstr "Kazuma Kiryu, il Drago di Dojima.\r\nNoi non potere sconfiggerlo ora... Noi arresi."

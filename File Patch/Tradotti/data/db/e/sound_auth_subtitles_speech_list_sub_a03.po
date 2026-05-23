@@ -1,0 +1,1168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Come on, Mom! You said you'd\r\nbuy me whatever I wanted!"
+msgstr "Dai, mamma! Avevi detto che mi\r\navresti comprato quello che volevo!"
+
+msgctxt "1||||4"
+msgid "No means no, Ayaka! Let's go find\r\nsomething else for you, okay?"
+msgstr "No significa no, Ayaka! Andiamo a cercare\r\nqualcos'altro per te, va bene?"
+
+msgctxt "2||||4"
+msgid "I don't want anything else!\r\nI already told you, I want Haruka-chan stuff!"
+msgstr "Non voglio nient'altro!\r\nTe l'ho già detto, voglio la roba di Haruka-chan!"
+
+msgctxt "3||||4"
+msgid "Did she just say Haruka?"
+msgstr "Ha appena detto Haruka?"
+
+msgctxt "4||||4"
+msgid "I know that's what you want, but no stores are\r\ngoing to keep her merchandise in stock these days."
+msgstr "So che è quello che vuoi, ma nessun negozio terrà\r\npiù la sua merce in magazzino di questi tempi."
+
+msgctxt "5||||4"
+msgid "L-Let's keep looking, then!\r\nHaruka-chan's the only one I want!"
+msgstr "A-Allora continuiamo a cercare!\r\nVoglio solo Haruka-chan!"
+
+msgctxt "6||||4"
+msgid "Even if we find a place, I'm not buying anything\r\nof hers for you. Her father is a very bad man, you know."
+msgstr "Anche se trovassimo un posto, non ti comprerei niente\r\ndi suo. Suo padre è un uomo molto cattivo, sai."
+
+msgctxt "7||||4"
+msgid "The daughter of such a terrible person must be\r\nterrible, too. There must be someone better out there."
+msgstr "Anche la figlia di una persona così terribile\r\ndev'esserlo. Ci deve essere qualcuno di meglio là fuori."
+
+msgctxt "9||||4"
+msgid "Mama, have you ever met Haruka-chan's dad?"
+msgstr "Mamma, hai mai conosciuto il papà di Haruka-chan?"
+
+msgctxt "10||||4"
+msgid "Huh? O-Of course I haven't."
+msgstr "Eh? C-Certo che no."
+
+msgctxt "11||||4"
+msgid "So you're just gonna decide he's bad\r\nbefore you even know what he's like?"
+msgstr "Quindi hai deciso che è cattivo senza\r\nnemmeno sapere com'è fatto?"
+
+msgctxt "12||||4"
+msgid "Maybe he's really a good guy!"
+msgstr "Magari in realtà è un brav'uomo!"
+
+msgctxt "13||||4"
+msgid "L-Look, my answer is final!\r\nI said no, so stop questioning me!"
+msgstr "S-Senti, la mia decisione è definitiva!\r\nHo detto di no, quindi smettila di farmi domande!"
+
+msgctxt "14||||4"
+msgid "That girl is a bad apple!"
+msgstr "Quella ragazza è una mela marcia!"
+
+msgctxt "15||||4"
+msgid "Seriously. There's no way someone raised\r\nby a yakuza could turn out okay."
+msgstr "Dico davvero. È impossibile che qualcuno cresciuto\r\nda uno yakuza possa rivelarsi una brava persona."
+
+msgctxt "16||||4"
+msgid "So, that girl's a Haruka fan..."
+msgstr "Quindi, quella bambina è una fan di Haruka..."
+
+msgctxt "17||||4"
+msgid "Hey, you."
+msgstr "Ehi, tu."
+
+msgctxt "18||||4"
+msgid "Huh? Wh-What do you want?"
+msgstr "Eh? Ch-Che cosa vuoi?"
+
+msgctxt "19||||4"
+msgid "Are you a Haruka fan?"
+msgstr "Sei una fan di Haruka?"
+
+msgctxt "20||||4"
+msgid "Y-Yeah, I am."
+msgstr "S-Sì, lo sono."
+
+msgctxt "21||||4"
+msgid "Oh! Do you like her too, Mister?"
+msgstr "Oh! Piace anche a te, signore?"
+
+msgctxt "22||||4"
+msgid "Hm? W-Well, yeah.\r\nI, um... I've always supported Haruka-chan."
+msgstr "Mh? B-Beh, sì.\r\nIo, ehm... ho sempre sostenuto Haruka-chan."
+
+msgctxt "23||||4"
+msgid "Really? I didn't know there were adults\r\nout there who like her! You're weird, Mister!"
+msgstr "Davvero? Non sapevo ci fossero degli adulti là\r\nfuori a cui piacesse! Sei strano, signore!"
+
+msgctxt "24||||4"
+msgid "......"
+msgstr "......"
+
+msgctxt "25||||4"
+msgid "Hey, Mister. Do you know anywhere\r\nI can buy some Haruka-chan stuff?"
+msgstr "Ehi, signore. Sai dove potrei comprare\r\ndella roba di Haruka-chan?"
+
+msgctxt "26||||4"
+msgid "They used to sell it everywhere,\r\nbut now it's gone from all the stores."
+msgstr "Prima la vendevano ovunque,\r\nma ora è sparita da tutti i negozi."
+
+msgctxt "27||||4"
+msgid "Sorry, I'm not really sure."
+msgstr "Mi dispiace, non ne ho idea."
+
+msgctxt "28||||4"
+msgid "Oh... Maybe they got rid of\r\nit all 'cause her dad is a yakuza."
+msgstr "Oh... Forse hanno tolto tutto perché\r\nsuo papà è uno yakuza."
+
+msgctxt "30||||4"
+msgid "I dunno what a yakuza is, but my mom says\r\nit means Haruka-chan's dad is a really bad man."
+msgstr "Non so cosa sia uno yakuza, ma mia mamma dice che\r\nsignifica che il papà di Haruka-chan è molto cattivo."
+
+msgctxt "31||||4"
+msgid "Oh, and she thinks that means his\r\ndaughter has gotta be bad, too."
+msgstr "Oh, e pensa che questo significhi che\r\nanche sua figlia debba essere cattiva."
+
+msgctxt "32||||4"
+msgid "I'm not even allowed to listen to\r\nHaruka-chan's music anymore."
+msgstr "Non mi è nemmeno più permesso di\r\nascoltare la musica di Haruka-chan."
+
+msgctxt "33||||4"
+msgid "I see. I'm sorry to hear that."
+msgstr "Capisco. Mi dispiace sentirlo."
+
+msgctxt "34||||4"
+msgid "By the way, when exactly did you\r\nstart liking Haruka-chan?"
+msgstr "A proposito, quand'è che ti è\r\ncominciata a piacere Haruka-chan?"
+
+msgctxt "35||||4"
+msgid "Um, it was a long time ago! Back when I lived in\r\nOsaka, I went to one of her handshake events."
+msgstr "Ehm, molto tempo fa! Quando vivevo a Osaka,\r\nsono andata a un suo evento di strette di mano."
+
+msgctxt "36||||4"
+msgid "My family's always moving 'cause of my dad's job,\r\nso it's been hard for me to make friends at school."
+msgstr "La mia famiglia trasloca sempre per il lavoro del mio papà,\r\nquindi per me è stato difficile fare amicizia a scuola."
+
+msgctxt "37||||4"
+msgid "That changed at that event, though."
+msgstr "Le cose sono cambiate in quell'evento, però."
+
+msgctxt "38||||4"
+msgid "When I was there, I asked Haruka-chan\r\nwhat I can do to make more friends."
+msgstr "Mentre ero lì, ho chiesto a Haruka-chan\r\ncosa potessi fare per avere più amici."
+
+msgctxt "39||||4"
+msgid "And? What did she say?"
+msgstr "E? Lei cosa ti ha risposto?"
+
+msgctxt "40||||4"
+msgid "\"I'm not that good at making friends either,\r\nbut you can do it if you just keep smiling.\""
+msgstr "\"Nemmeno io sono molto brava a fare amicizia,\r\nma se continui a sorridere ci riuscirai.\""
+
+msgctxt "41||||4"
+msgid "\"Let's smile together!\"\r\nThat's what she told me."
+msgstr "\"Sorridiamo insieme!\"\r\nEcco cosa mi ha detto."
+
+msgctxt "42||||4"
+msgid "Haruka really said that?"
+msgstr "Haruka ha detto davvero questo?"
+
+msgctxt "43||||4"
+msgid "Yup! And once I did what she said and\r\nsmiled a lot, I made tons of friends at school!"
+msgstr "Sì! E dopo che ho seguito il suo consiglio e ho sorriso\r\ntanto, ho fatto un sacco di amicizie a scuola!"
+
+msgctxt "44||||4"
+msgid "That's why I'm Haruka-chan's biggest fan!"
+msgstr "Ecco perché sono la più grande fan di Haruka-chan!"
+
+msgctxt "45||||4"
+msgid "I see. I'm glad you asked her advice."
+msgstr "Capisco. Sono felice che tu le abbia chiesto consiglio."
+
+msgctxt "46||||4"
+msgid "Me too!"
+msgstr "Anch'io!"
+
+msgctxt "48||||4"
+msgid "What's your favorite thing about Haruka-chan, Mister?"
+msgstr "Qual è la cosa che ti piace di più di Haruka-chan, signore?"
+
+msgctxt "49||||4"
+msgid "How kind she is."
+msgstr "La sua gentilezza."
+
+msgctxt "50||||4"
+msgid "How kind she is...?"
+msgstr "La sua gentilezza...?"
+
+msgctxt "51||||4"
+msgid "Yeah. She always puts others first,\r\neven before her own needs."
+msgstr "Sì. Mette sempre gli altri al primo posto,\r\npersino prima dei propri bisogni."
+
+msgctxt "52||||4"
+msgid "That's her greatest strength, without a doubt."
+msgstr "Questa è senza dubbio la sua più grande forza."
+
+msgctxt "53||||4"
+msgid "Oh, I totally get what you mean!"
+msgstr "Oh, capisco perfettamente cosa intendi!"
+
+msgctxt "54||||4"
+msgid "Even after that handshake event was over, I stayed\r\nbehind in the park so I could watch her some more."
+msgstr "Anche dopo che quell'evento è finito, sono rimasta\r\nnel parco così potevo guardarla ancora un po'."
+
+msgctxt "55||||4"
+msgid "Haruka-chan didn't sit by and let everyone else\r\nclean up, though. She joined in right away!"
+msgstr "Però Haruka-chan non è rimasta seduta a guardare gli\r\naltri che pulivano. Ha dato subito una mano!"
+
+msgctxt "56||||4"
+msgid "When I saw that, I knew she wasn't just cute.\r\nShe was super cool, too!"
+msgstr "Quando l'ho visto, ho capito che non era solo\r\ncarina. Era anche fortissima!"
+
+msgctxt "57||||4"
+msgid "Not surprising. That sounds just like her."
+msgstr "Non mi sorprende. È proprio da lei."
+
+msgctxt "58||||4"
+msgid "Huh? Why do you have that\r\nbig smile on your face, Mister?"
+msgstr "Eh? Perché hai un sorriso\r\ncosì grande stampato in faccia, signore?"
+
+msgctxt "59||||4"
+msgid "D-Do I?"
+msgstr "D-Davvero?"
+
+msgctxt "60||||4"
+msgid "You're so weird!"
+msgstr "Sei così strano!"
+
+msgctxt "61||||4"
+msgid "Her voice."
+msgstr "La sua voce."
+
+msgctxt "62||||4"
+msgid "To be honest, it's saved me many times."
+msgstr "A dire il vero, mi ha salvata molte volte."
+
+msgctxt "63||||4"
+msgid "I agree! Hearing her sing always pumps me up!"
+msgstr "Sono d'accordo! Sentirla cantare mi dà sempre la carica!"
+
+msgctxt "64||||4"
+msgid "Four years ago, as I was about to draw my last breath,\r\nher voice is what woke me up to reality."
+msgstr "Quattro anni fa, mentre stavo per esalare il mio ultimo respiro,\r\nla sua voce è stata ciò che mi ha risvegliato alla realtà."
+
+msgctxt "65||||4"
+msgid "Huh? Whaddya mean?"
+msgstr "Eh? Cosa vuoi dire?"
+
+msgctxt "66||||4"
+msgid "O-Oh, uh, I mean I've been using\r\none of her songs as my alarm clock since then."
+msgstr "O-Oh, ehm, voglio dire che da allora uso\r\nuna delle sue canzoni come sveglia."
+
+msgctxt "67||||4"
+msgid "Really!? Haruka-chan's songs are what\r\nwake me up in the morning, too!"
+msgstr "Davvero!? Le canzoni di Haruka-chan sono ciò\r\nche mi sveglia la mattina!"
+
+msgctxt "68||||4"
+msgid "H-Huh. What a coincidence."
+msgstr "M-Mh. Che coincidenza."
+
+msgctxt "69||||4"
+msgid "Her face."
+msgstr "Il suo viso."
+
+msgctxt "70||||4"
+msgid "Yeah! Isn't she so totally cute?\r\nI love how Haruka-chan looks when she smiles!"
+msgstr "Sì! Non è carinissima?\r\nAdoro l'espressione di Haruka-chan quando sorride!"
+
+msgctxt "71||||4"
+msgid "I agree."
+msgstr "Sono d'accordo."
+
+msgctxt "72||||4"
+msgid "When I first met her, she was just a cheeky little brat,\r\nbut somewhere along the way, she started smiling."
+msgstr "Quando l'ho incontrata la prima volta, era solo una mocciosa impertinente,\r\nma a un certo punto ha cominciato a sorridere."
+
+msgctxt "73||||4"
+msgid "When you first met her...?"
+msgstr "Quando l'hai incontrata la prima volta...?"
+
+msgctxt "74||||4"
+msgid "Yeah, a-about that. It must have been\r\na bit before her stage debut."
+msgstr "Sì, r-riguardo a quello. Dev'essere stato\r\nun po' prima del suo debutto sul palco."
+
+msgctxt "75||||4"
+msgid "Oh, really? Haruka-chan was probably\r\nsuper nervous about all sorts of stuff back then."
+msgstr "Oh, davvero? Haruka-chan all'epoca era probabilmente\r\nsuper nervosa per un sacco di cose."
+
+msgctxt "76||||4"
+msgid "Probably, yeah."
+msgstr "Probabilmente, sì."
+
+msgctxt "77||||4"
+msgid "She was always so cute during performances, though.\r\nEven if she was nervous, she'd smile straight through."
+msgstr "Però era sempre così carina durante le esibizioni.\r\nAnche se era nervosa, continuava a sorridere."
+
+msgctxt "78||||4"
+msgid "I'm so bad at hiding how I feel.\r\nI wish I could be like her..."
+msgstr "Io sono così incapace di nascondere quello che provo.\r\nVorrei essere come lei..."
+
+msgctxt "79||||4"
+msgid "No, I think being genuine is important, too."
+msgstr "No, penso che anche essere genuini sia importante."
+
+msgctxt "80||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "81||||4"
+msgid "Haruka tends to keep her real emotions hidden away.\r\nThat's how she can act so strong and confident on stage."
+msgstr "Haruka tende a tenere nascoste le sue vere emozioni.\r\nÈ così che riesce a sembrare tanto forte e sicura di sé sul palco."
+
+msgctxt "82||||4"
+msgid "I took that strength for granted, though."
+msgstr "Tuttavia, ho dato per scontata quella sua forza."
+
+msgctxt "83||||4"
+msgid "Hm...? What do you mean, Mister?"
+msgstr "Mh...? Cosa vuoi dire, signore?"
+
+msgctxt "84||||4"
+msgid "Uh, never mind. It's nothing."
+msgstr "Ehm, lascia perdere. Non è niente."
+
+msgctxt "85||||4"
+msgid "What I want to say is,\r\nit's not a bad thing to express how you feel."
+msgstr "Quello che voglio dire è che\r\nnon è una cosa sbagliata esprimere i propri sentimenti."
+
+msgctxt "86||||4"
+msgid "If you're sad, you should cry. If you're happy, you\r\nshould smile like Haruka does. There's no shame in that."
+msgstr "Se sei triste, dovresti piangere. Se sei felice, dovresti\r\nsorridere come fa Haruka. Non c'è nulla di cui vergognarsi."
+
+msgctxt "87||||4"
+msgid "Huh...? Okay."
+msgstr "Eh...? Okay."
+
+msgctxt "88||||4"
+msgid "I'm so happy I get to talk about Haruka-chan!"
+msgstr "Sono così felice di poter parlare di Haruka-chan!"
+
+msgctxt "89||||4"
+msgid "Me too."
+msgstr "Anch'io."
+
+msgctxt "90||||4"
+msgid "I always used to see her on TV,\r\nor talk to people about her at school..."
+msgstr "Di solito la vedevo sempre in TV,\r\noppure ne parlavo con la gente a scuola..."
+
+msgctxt "91||||4"
+msgid "...but everyone changed their minds after that concert."
+msgstr "...ma hanno tutti cambiato idea dopo quel concerto."
+
+msgctxt "92||||4"
+msgid "That's when my mom started saying Haruka-chan was\r\nraised by a bad man and I should support someone else."
+msgstr "È da allora che la mia mamma ha cominciato a dire che Haruka-chan\r\nè stata cresciuta da un uomo cattivo e che dovrei sostenere qualcun altro."
+
+msgctxt "93||||4"
+msgid "Right..."
+msgstr "Certo..."
+
+msgctxt "94||||4"
+msgid "Even so, I wanna keep cheering for her\r\nafter all the help she gave me!"
+msgstr "Nonostante tutto, voglio continuare a fare il tifo\r\nper lei dopo tutto l'aiuto che mi ha dato!"
+
+msgctxt "95||||4"
+msgid "She might not be an idol anymore,\r\nbut that doesn't mean I don't love her!"
+msgstr "Forse non sarà più un'idol,\r\nma questo non significa che io non le voglia bene!"
+
+msgctxt "96||||4"
+msgid "That's good to hear."
+msgstr "Mi fa piacere sentirlo."
+
+msgctxt "97||||4"
+msgid "I really wanted some Haruka-chan stuff, though.\r\nI asked for it for my birthday and everything."
+msgstr "Però volevo davvero qualcosa di Haruka-chan.\r\nL'avevo persino chiesto per il mio compleanno."
+
+msgctxt "98||||4"
+msgid "...Okay. I'll go find some Haruka merchandise for you."
+msgstr "...Okay. Andrò a cercarti un po' di merchandise di Haruka."
+
+msgctxt "99||||4"
+msgid "Huh? You will, Mister?"
+msgstr "Eh? Lo farai davvero, signore?"
+
+msgctxt "100||||4"
+msgid "I will. It's your birthday, isn't it?\r\nThink of this as a present."
+msgstr "Sì. È il tuo compleanno, no?\r\nConsideralo come un regalo."
+
+msgctxt "101||||4"
+msgid "You mean it!? Thank you so much, Mister!\r\nOh, and my name's Ayaka. What's yours?"
+msgstr "Dici davvero!? Grazie mille, signore!\r\nOh, e io mi chiamo Ayaka. Il tuo nome qual è?"
+
+msgctxt "102||||4"
+msgid "Kiryu."
+msgstr "Kiryu."
+
+msgctxt "103||||4"
+msgid "That's your last name, right?\r\nI wanna know your first name!"
+msgstr "Quello è il tuo cognome, vero?\r\nVoglio sapere il tuo nome di battesimo!"
+
+msgctxt "104||||4"
+msgid "...It's Kazuma."
+msgstr "...È Kazuma."
+
+msgctxt "105||||4"
+msgid "Kazuma-san! I can't wait for all the\r\nHaruka-chan stuff you're gonna bring me!"
+msgstr "Signor Kazuma! Non vedo l'ora che tu mi porti\r\ntutta la roba di Haruka-chan!"
+
+msgctxt "106||||4"
+msgid "All right, I'm going to get going now.\r\nWait for me here, okay?"
+msgstr "D'accordo, adesso devo andare.\r\nAspettami qui, va bene?"
+
+msgctxt "107||||4"
+msgid "Yeah, I'll be here! Thanks, Mister Kazuma!"
+msgstr "Sì, sarò qui! Grazie, signor Kazuma!"
+
+msgctxt "108||||4"
+msgid "Now then, where can I buy\r\nsome Haruka merchandise?"
+msgstr "Bene, allora, dove posso comprare\r\ndel merchandise di Haruka?"
+
+msgctxt "109||||4"
+msgid "Maybe I should check over at Don Quijote.\r\nThey sell practically everything there."
+msgstr "Forse dovrei controllare al Don Quijote.\r\nLì vendono praticamente di tutto."
+
+msgctxt "110||||4"
+msgid "Welcome!"
+msgstr "Benvenuto!"
+
+msgctxt "111||||4"
+msgid "Right, I'm supposed to be helping Ayaka look for\r\nHaruka merchandise. I should ask if they have any."
+msgstr "Giusto, dovrei aiutare Ayaka a cercare\r\nmerchandise di Haruka. Dovrei chiedere se ne hanno."
+
+msgctxt "112||||4"
+msgid "I have a question for you. Do you sell any merchandise\r\nhere of the former idol Haruka Sawamura?"
+msgstr "Avrei una domanda. Vendete per caso del merchandise\r\ndell'ex idol Haruka Sawamura?"
+
+msgctxt "113||||4"
+msgid "Haruka Sawamura, right? Let me go check\r\nin the back. Please hold on a moment."
+msgstr "Haruka Sawamura, giusto? Vado a controllare\r\nnel retro. Attenda solo un momento."
+
+msgctxt "114||||4"
+msgid "Okay."
+msgstr "Va bene."
+
+msgctxt "115||||4"
+msgid "I'm sorry to keep you waiting, sir."
+msgstr "Mi scusi per l'attesa, signore."
+
+msgctxt "116||||4"
+msgid "It looks like Haruka Sawamura merchandise has been\r\ndiscontinued nationwide. We don't have anything."
+msgstr "Sembra che il merchandise di Haruka Sawamura sia\r\nstato ritirato a livello nazionale. Non abbiamo niente."
+
+msgctxt "117||||4"
+msgid "Right, okay then.\r\nI'll try somewhere else. Thank you."
+msgstr "Capisco, va bene.\r\nProverò da qualche altra parte. Grazie."
+
+msgctxt "118||||4"
+msgid "Um..."
+msgstr "Ehm..."
+
+msgctxt "119||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "120||||4"
+msgid "You might find something at the Club SEGA\r\nover in Theater Square."
+msgstr "Potrebbe trovare qualcosa al Club SEGA\r\nlaggiù a Theater Square."
+
+msgctxt "121||||4"
+msgid "I occasionally see people over there who exchange\r\nall sorts of idol merchandise with each other."
+msgstr "Di tanto in tanto vedo persone da quelle parti scambiarsi\r\nogni genere di merchandise legato alle idol."
+
+msgctxt "122||||4"
+msgid "Is that so? You really know your stuff."
+msgstr "Ah, sì? Siete davvero molto informati."
+
+msgctxt "123||||4"
+msgid "I spend most of my free time there.\r\nAnyway, I didn't mean to intrude."
+msgstr "Trascorro la maggior parte del mio tempo libero lì.\r\nComunque, non volevo essere invadente."
+
+msgctxt "124||||4"
+msgid "No, you were a big help. Thanks."
+msgstr "No, mi è stato di grande aiuto. Grazie."
+
+msgctxt "125||||4"
+msgid "All right."
+msgstr "D'accordo."
+
+msgctxt "126||||4"
+msgid "Are those the idol fans that guy was telling me about?"
+msgstr "Sono quelli i fan delle idol di cui mi parlava quel ragazzo?"
+
+msgctxt "127||||4"
+msgid "I should try talking to them."
+msgstr "Dovrei provare a parlarci."
+
+msgctxt "128||||4"
+msgid "Excuse me. Can I ask you a question?"
+msgstr "Scusami. Posso farti una domanda?"
+
+msgctxt "129||||4"
+msgid "Huh? Whaddya want, old man?"
+msgstr "Eh? Che vuoi, vecchio?"
+
+msgctxt "130||||4"
+msgid "I'm trying to find merchandise for an idol named\r\nHaruka Sawamura. Know where I can get some?"
+msgstr "Sto cercando del merchandise di un'idol di nome\r\nHaruka Sawamura. Sai dove potrei trovarne un po'?"
+
+msgctxt "131||||4"
+msgid "Sawamura? Who's that?"
+msgstr "Sawamura? E chi è?"
+
+msgctxt "132||||4"
+msgid "I gotta admit, it does sound familiar.\r\nI'm not really into oldies, though."
+msgstr "Devo ammettere che mi suona familiare.\r\nPerò non mi interessano i vecchi ruderi."
+
+msgctxt "133||||4"
+msgid "Pardon?"
+msgstr "Come, scusa?"
+
+msgctxt "134||||4"
+msgid "The chart-topping Yukitty's the only idol\r\nworth caring about nowadays!"
+msgstr "La primatista delle classifiche Yukitty è l'unica\r\n idol che valga la pena seguire al giorno d'oggi!"
+
+msgctxt "135||||4"
+msgid "Whoever the premiere idol is,\r\nI'll be there cheering her on!"
+msgstr "Chiunque sia la migliore idol in circolazione,\r\nio sarò lì a fare il tifo per lei!"
+
+msgctxt "136||||4"
+msgid "So, I don't know much about people\r\nfrom the past. Sorry sorry!"
+msgstr "Quindi, non so molto sulla gente\r\ndel passato. Scusa tanto!"
+
+msgctxt "137||||4"
+msgid "It's all right..."
+msgstr "Va bene..."
+
+msgctxt "138||||4"
+msgid "Excuse me. Can I ask you a question?"
+msgstr "Scusami. Posso farti una domanda?"
+
+msgctxt "139||||4"
+msgid "Y-Yes! What is it?"
+msgstr "S-Sì! Dimmi pure!"
+
+msgctxt "140||||4"
+msgid "I'm trying to find merchandise for an idol named\r\nHaruka Sawamura. Know where I can get some?"
+msgstr "Sto cercando del merchandise di un'idol di nome\r\nHaruka Sawamura. Sai dove potrei trovarne un po'?"
+
+msgctxt "141||||4"
+msgid "Haruka Sawamura...? Sorry, but I'm\r\nnot too familiar with national idols."
+msgstr "Haruka Sawamura...? Mi dispiace, ma non\r\nsono molto esperto di idol nazionali."
+
+msgctxt "142||||4"
+msgid "Hm? What do you mean?"
+msgstr "Mh? Cosa vuoi dire?"
+
+msgctxt "143||||4"
+msgid "W-Well, I'm all about the small-time\r\nlocal beauties these days."
+msgstr "B-Beh, in questo periodo seguo unicamente\r\nle bellezze locali emergenti."
+
+msgctxt "144||||4"
+msgid "I don't really care much for the idols who prance\r\naround on national TV like they're so hot. Nope."
+msgstr "Non mi interessano molto le idol che si pavoneggiano\r\nin TV a livello nazionale sentendosi chissà chi. No."
+
+msgctxt "145||||4"
+msgid "Providing support for the hardworking\r\nsmall-time idols of Japan is my life's goal!"
+msgstr "Fornire supporto alle instancabili piccole idol\r\ndel Giappone è lo scopo della mia vita!"
+
+msgctxt "146||||4"
+msgid "I even have a collection of photos for idols from\r\nHokkaido all the way down to Okinawa. Wanna see?"
+msgstr "Ho persino una collezione di foto di idol dall'Hokkaido\r\nfino giù a Okinawa. Vuoi vederla?"
+
+msgctxt "147||||4"
+msgid "M-Maybe later."
+msgstr "F-Forse più tardi."
+
+msgctxt "148||||4"
+msgid "Excuse me. Can I ask you a question?"
+msgstr "Scusami. Posso farti una domanda?"
+
+msgctxt "149||||4"
+msgid "Hmph? What seems to be the matter?\r\nYou require something of me?"
+msgstr "Mh? Cosa c'è che non va?\r\nDesidera forse qualcosa da me?"
+
+msgctxt "150||||4"
+msgid "I'm trying to find merchandise for an idol named\r\nHaruka Sawamura. Know where I can get some?"
+msgstr "Sto cercando del merchandise di un'idol di nome\r\nHaruka Sawamura. Sai dove potrei trovarne un po'?"
+
+msgctxt "151||||4"
+msgid "Haruka Sawamura... The name eludes me.\r\nShe must be an idol of the modern day, yes?"
+msgstr "Haruka Sawamura... Questo nome mi sfugge.\r\nDev'essere un'idol dell'epoca moderna, dico bene?"
+
+msgctxt "152||||4"
+msgid "No, she actually retired three years ago.\r\nI don't think that's very recent."
+msgstr "No, in realtà si è ritirata tre anni fa.\r\nNon credo sia molto recente."
+
+msgctxt "153||||4"
+msgid "I beg to differ, good sir."
+msgstr "Mi permetto di dissentire, buon signore."
+
+msgctxt "154||||4"
+msgid "Pardon?"
+msgstr "Come, scusi?"
+
+msgctxt "155||||4"
+msgid "In my humble opinion, idols are better\r\nwhen aged like a fine wine."
+msgstr "A mio modesto parere, le idol sono migliori\r\nquando invecchiano come il buon vino."
+
+msgctxt "156||||4"
+msgid "The current generation of stars all appear\r\nthe same to me. It is quite a disconcerting trend."
+msgstr "L'attuale generazione di stelle mi sembra tutta\r\nuguale. È una tendenza alquanto sconcertante."
+
+msgctxt "157||||4"
+msgid "O-Oh. Sorry, I guess I asked the wrong person.\r\nForget I mentioned it."
+msgstr "O-Oh. Scusi, mi sa che ho chiesto alla persona sbagliata.\r\nDimentichi quello che ho detto."
+
+msgctxt "158||||4"
+msgid "Halt!"
+msgstr "Fermo lì!"
+
+msgctxt "159||||4"
+msgid "Why don't we let our ears bear witness to the glorious\r\nsongs of the 70s together? They are quite riveting!"
+msgstr "Perché non lasciamo che le nostre orecchie siano testimoni\r\ninsieme delle gloriose canzoni degli anni '70? Sono a dir poco avvincenti!"
+
+msgctxt "160||||4"
+msgid "I'd rather not."
+msgstr "Preferirei di no."
+
+msgctxt "161||||4"
+msgid "Excuse me. Can I ask you a question?"
+msgstr "Scusami. Posso farti una domanda?"
+
+msgctxt "162||||4"
+msgid "Sure. What is it?"
+msgstr "Certo. Che c'è?"
+
+msgctxt "163||||4"
+msgid "I'm trying to find merchandise for an idol named\r\nHaruka Sawamura. Know where I can get some?"
+msgstr "Sto cercando del merchandise di un'idol di nome\r\nHaruka Sawamura. Sai dove potrei trovarne un po'?"
+
+msgctxt "164||||4"
+msgid "Hold on, did I hear you say Haruka Sawamura?"
+msgstr "Un attimo, ti ho sentito dire Haruka Sawamura?"
+
+msgctxt "165||||4"
+msgid "Y-Yeah. I need some merchandise of hers for<symbol=em_dash_with_outline>"
+msgstr "S-Sì. Mi servirebbe del suo merchandise per<symbol=em_dash_with_outline>"
+
+msgctxt "166||||4"
+msgid "Brother!"
+msgstr "Fratello!"
+
+msgctxt "167||||4"
+msgid "Wh-What?"
+msgstr "Ch-Cosa?"
+
+msgctxt "168||||4"
+msgid "I still remember her enchanting rise to stardom!\r\nRetirement came far too soon for such a fair maiden!"
+msgstr "Ricordo ancora la sua incantevole ascesa verso la celebrità!\r\nIl ritiro è giunto fin troppo presto per una fanciulla così pura!"
+
+msgctxt "169||||4"
+msgid "If you really are a fellow fan of Haruka Sawamura,\r\nthat means we're brothers in love!"
+msgstr "Se sei davvero un fan di Haruka Sawamura anche tu,\r\nallora siamo fratelli di passione!"
+
+msgctxt "170||||4"
+msgid "Y-Yeah, she's great.\r\nHaruka-san's songs really touched my heart."
+msgstr "S-Sì, è fantastica.\r\nLe canzoni di Haruka-san mi hanno davvero toccato il cuore."
+
+msgctxt "171||||4"
+msgid "I'm building a collection of her merchandise, but it's\r\nbeen tough finding things. Do you have any leads?"
+msgstr "Sto mettendo insieme una collezione del suo merchandise,\r\nma è stata dura trovare qualcosa. Hai qualche pista?"
+
+msgctxt "172||||4"
+msgid "I seeeee."
+msgstr "Capiscoooo."
+
+msgctxt "173||||4"
+msgid "Due to Haruka-san's turbulent retirement, all her merch\r\nis off the shelves. It's really driven up the resale price."
+msgstr "A causa del ritiro burrascoso di Haruka-san, il suo merchandise\r\nnon si trova più. I prezzi di rivendita sono schizzati alle stelle."
+
+msgctxt "174||||4"
+msgid "The amount of time that's passed since then\r\nhas made things even more difficult, too!"
+msgstr "Inoltre, tutto il tempo che è passato da allora\r\nha reso le cose ancora più difficili!"
+
+msgctxt "175||||4"
+msgid "So that's what happened."
+msgstr "Ecco cosa è successo."
+
+msgctxt "176||||4"
+msgid "However, I just heard the other day about a store\r\nthat has a super-rare photo of Haruka-san in stock."
+msgstr "Comunque, proprio l'altro giorno ho saputo di un negozio\r\nche ha a disposizione una rarissima foto di Haruka-san."
+
+msgctxt "177||||4"
+msgid "I was about to head over and snag it for myself,\r\nbut I don't mind surrendering it to you this time."
+msgstr "Stavo per andarci e prenderla io stesso, ma\r\nper questa volta non mi dispiace cedertela."
+
+msgctxt "178||||4"
+msgid "Are you sure!? Where is this store?"
+msgstr "Sei sicuro!? Dov'è questo negozio?"
+
+msgctxt "179||||4"
+msgid "Just one second. It's still possible that you're just\r\na lowly scalper hoping to score a sweet haul to sell later."
+msgstr "Solo un secondo. È ancora possibile che tu sia solo un meschino\r\nbagarin che spera di fare un bel bottino da rivendere dopo."
+
+msgctxt "180||||4"
+msgid "To prove your honor, you'll have to\r\nanswer a simple Haruka-san question."
+msgstr "Per dimostrare il tuo onore, dovrai rispondere a\r\nuna semplice domanda su Haruka-san."
+
+msgctxt "181||||4"
+msgid "If you get it right, I'll know you're truly my brother\r\nand tell you where the store is."
+msgstr "Se indovini, saprò che sei davvero mio fratello\r\ne ti dirò dov'è il negozio."
+
+msgctxt "182||||4"
+msgid "Okay, let's do this."
+msgstr "Okay, facciamolo."
+
+msgctxt "183||||4"
+msgid "All right! It's question time!"
+msgstr "Molto bene! È il momento della domanda!"
+
+msgctxt "184||||4"
+msgid "What is the name of the incredibly famous song\r\nHaruka-san sang in her first Princess League appearance?"
+msgstr "Qual è il nome dell'incredibile e famosissima canzone cantata da\r\nHaruka-san nella sua prima esibizione alla Princess League?"
+
+msgctxt "185||||4"
+msgid "So Much More!"
+msgstr "So Much More!"
+
+msgctxt "187||||4"
+msgid "That's correct!"
+msgstr "Esatto!"
+
+msgctxt "188||||4"
+msgid "You really are a brother of mine!\r\nThough, that was pretty easy..."
+msgstr "Sei davvero un mio fratello!\r\nAnche se, in effetti, era piuttosto semplice..."
+
+msgctxt "189||||4"
+msgid "Anyway, I'll tell you what I know."
+msgstr "Ad ogni modo, ti dirò quello che so."
+
+msgctxt "190||||4"
+msgid "The photo of Haruka-san is waiting for you\r\nover at a pawn shop called Ebisu."
+msgstr "La foto di Haruka-san ti aspetta in un\r\nbanco dei pegni chiamato Ebisu."
+
+msgctxt "191||||4"
+msgid "But remember, it's a collector's item.\r\nThere are probably others trying to get their hands on it."
+msgstr "Ma ricorda, è un oggetto da collezione.\r\nProbabilmente ci sono altri che cercano di accaparrarsela."
+
+msgctxt "192||||4"
+msgid "I wish you the best of luck, brother!"
+msgstr "Ti auguro buona fortuna, fratello!"
+
+msgctxt "193||||4"
+msgid "Right, it sounds like I should hurry.\r\nWell, thanks for everything."
+msgstr "Giusto, mi sa che mi conviene sbrigarmi.\r\nBeh, grazie di tutto."
+
+msgctxt "194||||4"
+msgid "So Much Less!"
+msgstr "So Much Less!"
+
+msgctxt "196||||4"
+msgid "Hmmm! Close, but no cigar!"
+msgstr "Mh! Ci sei andato vicino, ma non è questa!"
+
+msgctxt "197||||4"
+msgid "What!? I could've sworn that was it..."
+msgstr "Cosa!? Avrei giurato che fosse questa..."
+
+msgctxt "198||||4"
+msgid "If you can't answer my question, you'll\r\nnever be my true brother. Try again!"
+msgstr "Se non sai rispondere alla mia domanda, non sarai\r\nmai un mio vero fratello. Riprova!"
+
+msgctxt "199||||4"
+msgid "Please, No More!"
+msgstr "Please, No More!"
+
+msgctxt "201||||4"
+msgid "That's what I should be saying to you\r\nwith an answer like that."
+msgstr "Sarei io a doverti dire una cosa\r\ndel genere per avermi dato una risposta così."
+
+msgctxt "202||||4"
+msgid "What!? I got it wrong?"
+msgstr "Cosa!? Ho sbagliato?"
+
+msgctxt "203||||4"
+msgid "If you can't answer my question, you'll never\r\nbe my true brother. Try again!"
+msgstr "Se non sai rispondere alla mia domanda, non sarai\r\nmai un mio vero fratello. Riprova!"
+
+msgctxt "204||||4"
+msgid "Sorry, I got a little confused earlier.\r\nI'm ready now, though. Give me the question."
+msgstr "Scusa, prima mi sono un po' confuso.\r\nAdesso però sono pronto. Fammi la domanda."
+
+msgctxt "205||||4"
+msgid "Hey, I have something to ask you."
+msgstr "Salve, avrei una cosa da chiederle."
+
+msgctxt "206||||4"
+msgid "Yes, what is it, sir?"
+msgstr "Sì, mi dica pure, signore."
+
+msgctxt "207||||4"
+msgid "I heard you guys had a rare photo of\r\nHaruka Sawamura here. Do you still have it in stock?"
+msgstr "Ho saputo che avevate una rara foto di\r\nHaruka Sawamura. È ancora disponibile?"
+
+msgctxt "208||||4"
+msgid "Well, we did get one in recently,\r\nbut I actually sold it moments ago."
+msgstr "Beh, ce n'è arrivata una di recente,\r\nma in realtà l'ho venduta poco fa."
+
+msgctxt "209||||4"
+msgid "What!? A-All right then. Thank you..."
+msgstr "Come!? D-D'accordo, allora. La ringrazio..."
+
+msgctxt "210||||4"
+msgid "I look forward to your next visit, sir."
+msgstr "Attendo con ansia la sua prossima visita, signore."
+
+msgctxt "211||||4"
+msgid "Wh-What are you guys doing!? Give it back!\r\nKeep your filthy hands off my Haruka-chan!"
+msgstr "Ch-Cosa state facendo!? Restituitemela!\r\nTogliete le vostre sporche mani dalla mia Haruka-chan!"
+
+msgctxt "212||||4"
+msgid "What the...?"
+msgstr "Ma che...?"
+
+msgctxt "213||||4"
+msgid "What're you whinin' over this\r\nlittle scrap of trash for, huh?"
+msgstr "Perché frigni per questo\r\npezzetto di spazzatura, eh?"
+
+msgctxt "214||||4"
+msgid "Hey, nerd! How 'bout you give us So Much More of yer\r\nmoney instead of buyin' this crap? You got more, yeah?"
+msgstr "Ehi, nerd! Che ne dici di darci So Much More dei tuoi\r\nsoldi invece di comprare questa merda? Ne hai ancora, eh?"
+
+msgctxt "215||||4"
+msgid "G-Give it back!"
+msgstr "R-Restituitela!"
+
+msgctxt "216||||4"
+msgid "That's enough outta you.\r\nJust hurry up and give us your wallet!"
+msgstr "Ne abbiamo abbastanza di te.\r\nMuoviti e dacci il tuo portafoglio!"
+
+msgctxt "217||||4"
+msgid "Hold on a second."
+msgstr "Un momento."
+
+msgctxt "218||||4"
+msgid "The hell do you want?"
+msgstr "Che cazzo vuoi?"
+
+msgctxt "219||||4"
+msgid "You there."
+msgstr "Tu lì."
+
+msgctxt "220||||4"
+msgid "Huh? Y-You mean me?"
+msgstr "Eh? D-Dici a me?"
+
+msgctxt "221||||4"
+msgid "Yeah, that's right.\r\nAre you a fan of Haruka Sawamura?"
+msgstr "Sì, esatto.\r\nSei un fan di Haruka Sawamura?"
+
+msgctxt "222||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "223||||4"
+msgid "What?"
+msgstr "Che cosa?"
+
+msgctxt "224||||4"
+msgid "The hell's this bitch sayin'?"
+msgstr "Che cazzo sta dicendo 'sto stronzo?"
+
+msgctxt "225||||4"
+msgid "What's your answer?"
+msgstr "Qual è la tua risposta?"
+
+msgctxt "226||||4"
+msgid "Y-Yes, I'm a huge fan."
+msgstr "S-Sì, sono un suo grandissimo fan."
+
+msgctxt "227||||4"
+msgid "All right, then."
+msgstr "D'accordo, allora."
+
+msgctxt "228||||4"
+msgid "What's all this about, gramps?"
+msgstr "Che significa tutto questo, nonnetto?"
+
+msgctxt "229||||4"
+msgid "You punks just ran out of luck.\r\nI can't let you abuse a Haruka fan like this."
+msgstr "Siete appena rimasti a corto di fortuna, teppistelli.\r\nNon posso permettervi di maltrattare un fan di Haruka in questo modo."
+
+msgctxt "230||||4"
+msgid "Huh? You trippin', man?"
+msgstr "Eh? Ma sei fatto, amico?"
+
+msgctxt "231||||4"
+msgid "Whatever. C'mon, we're just gonna have\r\nto take both of their wallets instead!"
+msgstr "Non importa. Su, vorrà dire che dovremo\r\nprendere il portafoglio a entrambi!"
+
+msgctxt "233||||4"
+msgid "The hell's up with this nerd?\r\nWhy's he so strong!?"
+msgstr "Che cazzo ha questo nerd?\r\nPerché è così forte!?"
+
+msgctxt "234||||4"
+msgid "Hey, are you okay?"
+msgstr "Ehi, stai bene?"
+
+msgctxt "235||||4"
+msgid "Y-Yes! Thank you so much for helping me!"
+msgstr "S-Sì! Ti ringrazio molto per avermi aiutato!"
+
+msgctxt "236||||4"
+msgid "Here. I got your picture back for you."
+msgstr "Tieni. Ho recuperato la tua foto."
+
+msgctxt "237||||4"
+msgid "Oh, actually..."
+msgstr "Oh, a dire il vero..."
+
+msgctxt "238||||4"
+msgid "I'd like to give it to you!\r\nThink of it as a gift for rescuing me!"
+msgstr "Vorrei darla a te!\r\nConsideralo un regalo per avermi salvato!"
+
+msgctxt "239||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "240||||4"
+msgid "I might be wrong about this,\r\nbut you're a Haruka-chan fan too, aren't you?"
+msgstr "Forse mi sbaglio,\r\nma anche tu sei un fan di Haruka-chan, vero?"
+
+msgctxt "241||||4"
+msgid "You had this determined look on your face when you\r\nasked if I was a fan myself. That made it kinda obvious."
+msgstr "Avevi un'espressione così determinata quando mi hai chiesto\r\nse fossi un suo fan. Questo lo ha reso piuttosto ovvio."
+
+msgctxt "242||||4"
+msgid "Besides, it was really cool seeing you\r\nbeat the crap out of those guys."
+msgstr "Inoltre, è stato davvero fantastico vederti\r\nriempire di botte quei tizi."
+
+msgctxt "243||||4"
+msgid "Please, take it. This picture is gonna\r\nbe happier with you, I just know it."
+msgstr "Per favore, prendila. Questa foto sarà\r\npiù felice con te, me lo sento."
+
+msgctxt "244||||4"
+msgid "Thank you. Fandom really is a bizarre thing, huh?"
+msgstr "Grazie. Il fandom è davvero una cosa bizzarra, eh?"
+
+msgctxt "245||||4"
+msgid "I guess you're right. Honestly, I'm just happy I got\r\nto meet someone else who likes Haruka-chan."
+msgstr "Immagino che tu abbia ragione. Onestamente, sono solo felice di\r\naver incontrato qualcun altro a cui piace Haruka-chan."
+
+msgctxt "246||||4"
+msgid "It's been getting harder and harder\r\nto support her publicly lately."
+msgstr "Ultimamente è diventato sempre più difficile\r\nsostenerla pubblicamente."
+
+msgctxt "247||||4"
+msgid "Have you followed Haruka-chan since the beginning?"
+msgstr "Segui Haruka-chan fin dall'inizio?"
+
+msgctxt "248||||4"
+msgid "Yeah, of course! I was even there for her\r\nfinal show at the Japan Dome a couple of years ago!"
+msgstr "Sì, certo! C'ero persino per il suo ultimo\r\nspettacolo al Japan Dome un paio di anni fa!"
+
+msgctxt "249||||4"
+msgid "The media kept calling her the yakuza's daughter,\r\nsaying she betrayed her fans by lying to us."
+msgstr "I media continuavano a chiamarla la figlia dello yakuza,\r\ndicendo che ha tradito i suoi fan mentendoci."
+
+msgctxt "250||||4"
+msgid "But I don't think she betrayed us at all."
+msgstr "Ma io non credo affatto che ci abbia traditi."
+
+msgctxt "251||||4"
+msgid "The courage and strength her songs gave me was real.\r\nI can't fault her for some personal issues after that."
+msgstr "Il coraggio e la forza che le sue canzoni mi hanno dato erano reali.\r\nNon posso fargliene una colpa per via di questioni personali."
+
+msgctxt "252||||4"
+msgid "If Haruka-chan finds her way back on stage, I'll be there\r\ncheering my lungs out for her every step of the way."
+msgstr "Se Haruka-chan troverà la strada per tornare sul palco, io sarò lì\r\na gridare a squarciagola per lei in ogni momento."
+
+msgctxt "253||||4"
+msgid "I'm glad to hear that. It sounds like\r\nHaruka's even luckier than she realizes."
+msgstr "Sono felice di sentirlo. Sembra che\r\nHaruka sia ancora più fortunata di quanto pensi."
+
+msgctxt "254||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "255||||4"
+msgid "Oh, it's nothing. Thanks again."
+msgstr "Oh, niente. Grazie ancora."
+
+msgctxt "256||||4"
+msgid "I'm the one who should be thanking you!\r\nYou really saved my skin, fellow Haruka fan!"
+msgstr "Sono io che dovrei ringraziarti!\r\nMi hai davvero salvato la pelle, collega fan di Haruka!"
+
+msgctxt "257||||4"
+msgid "All right, I should bring this back to Ayaka.\r\nI think she's over in the Children's Park."
+msgstr "Molto bene, dovrei riportarla ad Ayaka.\r\nCredo si trovi nel Children's Park."
+
+msgctxt "258||||4"
+msgid "Oh! Mister Kazuma-san!"
+msgstr "Oh! Signor Kazuma!"
+
+msgctxt "259||||4"
+msgid "Here you go. This is your present."
+msgstr "Ecco qui. Questo è il tuo regalo."
+
+msgctxt "260||||4"
+msgid "Wow, it's amazing! She's so pretty!"
+msgstr "Wow, è stupenda! È così bella!"
+
+msgctxt "261||||4"
+msgid "Thanks a bunch, Mister!"
+msgstr "Grazie mille, signore!"
+
+msgctxt "262||||4"
+msgid "Take care of it, okay?"
+msgstr "Abbine cura, d'accordo?"
+
+msgctxt "263||||4"
+msgid "I will! I'll treasure it forever!\r\nThis is the best!"
+msgstr "Lo farò! La custodirò per sempre!\r\nÈ il regalo più bello di tutti!"
+
+msgctxt "264||||4"
+msgid "I'm gonna go home and decorate it now!\r\nBye bye, Mister! Thank you so much!"
+msgstr "Ora vado a casa e la incornicio!\r\nCiao ciao, signore! Grazie mille!"
+
+msgctxt "265||||4"
+msgid "Of course. Be safe on your way home, okay?"
+msgstr "Ma certo. Fai attenzione tornando a casa, va bene?"
+
+msgctxt "266||||4"
+msgid "Mhm!"
+msgstr "Mhm!"
+
+msgctxt "267||||4"
+msgid "Phew, she seems thrilled with that picture.\r\nIt was definitely worth all the trouble."
+msgstr "Fiuu, sembra davvero entusiasta di quella foto.\r\nNe è valsa decisamente la pena."
+
+msgctxt "268||||4"
+msgid "Oh, Mister Kazuma! I'm so glad I found you!\r\nI've been looking everywhere!"
+msgstr "Oh, signor Kazuma! Sono così felice di averti trovato!\r\nTi ho cercato dappertutto!"
+
+msgctxt "269||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "270||||4"
+msgid "Here, I made you a drawing!"
+msgstr "Tieni, ti ho fatto un disegno!"
+
+msgctxt "271||||4"
+msgid "This is..."
+msgstr "Questo è..."
+
+msgctxt "272||||4"
+msgid "It's me, Haruka-chan, and you, Mister Kazuma!"
+msgstr "Siamo io, Haruka-chan e te, signor Kazuma!"
+
+msgctxt "273||||4"
+msgid "You included me?"
+msgstr "Hai disegnato anche me?"
+
+msgctxt "274||||4"
+msgid "Well, you're Haruka-chan's dad,\r\nright Mister Kazuma?"
+msgstr "Beh, tu sei il papà di Haruka-chan,\r\ngiusto signor Kazuma?"
+
+msgctxt "275||||4"
+msgid "How did you know...?"
+msgstr "Come lo sapevi...?"
+
+msgctxt "276||||4"
+msgid "I realized it the first time you talked to me!"
+msgstr "L'ho capito la prima volta che mi hai parlato!"
+
+msgctxt "277||||4"
+msgid "When you mentioned Haruka-chan,\r\nyour eyes lit up like only a dad's eyes would."
+msgstr "Quando hai menzionato Haruka-chan, i tuoi occhi si\r\nsono illuminati come farebbero solo quelli di un papà."
+
+msgctxt "278||||4"
+msgid "......"
+msgstr "......"
+
+msgctxt "279||||4"
+msgid "I love my dad. He has the warmest,\r\nmost calmest eyes in the world."
+msgstr "Voglio bene al mio papà. Ha gli occhi più\r\ncaldi e rassicuranti di tutto il mondo."
+
+msgctxt "280||||4"
+msgid "That's kinda how you looked, Mister."
+msgstr "E i tuoi erano un po' così, signore."
+
+msgctxt "281||||4"
+msgid "I guess I can't hide it."
+msgstr "Immagino di non poterlo nascondere."
+
+msgctxt "282||||4"
+msgid "Anyways, Haruka-chan's just an idol to me."
+msgstr "Comunque, per me Haruka-chan è solo un'idol."
+
+msgctxt "283||||4"
+msgid "But it's different for you. You probably\r\nknow like, everything about her, Mister."
+msgstr "Ma per te è diverso. Tu probabilmente\r\nsai tutto di lei, signore."
+
+msgctxt "284||||4"
+msgid "You might be right."
+msgstr "Potresti avere ragione."
+
+msgctxt "285||||4"
+msgid "Someday, I wanna hang out with you guys. Just me,\r\nHaruka-chan, and Mister Kazuma. That's why I drew this!"
+msgstr "Un giorno voglio uscire con voi. Solo io, Haruka-chan\r\ne il signor Kazuma. Ecco perché l'ho disegnato!"
+
+msgctxt "286||||4"
+msgid "It's actually pretty good. They look just like us."
+msgstr "In effetti è molto bello. Ci assomigliamo tanto."
+
+msgctxt "287||||4"
+msgid "Thanks. Um, I wish Haruka-chan could see it, too."
+msgstr "Grazie. Ehm, mi piacerebbe che potesse vederlo anche Haruka-chan."
+
+msgctxt "288||||4"
+msgid "Yeah. I was thinking the same thing."
+msgstr "Già. Pensavo la stessa cosa."
+
+msgctxt "289||||4"
+msgid "You know what? I'll take it upon myself\r\nto make sure she gets it."
+msgstr "Sai una cosa? Mi prenderò la responsabilità\r\ndi assicurarmi che le arrivi."
+
+msgctxt "290||||4"
+msgid "Really!?"
+msgstr "Davvero!?"
+
+msgctxt "291||||4"
+msgid "I promise you."
+msgstr "Te lo prometto."
+
+msgctxt "292||||4"
+msgid "Thanks so much, Mister!"
+msgstr "Grazie mille, signore!"
+
+msgctxt "293||||4"
+msgid "Oh, it's really late! My mom's gonna be\r\nsuper worried if I'm not home soon!"
+msgstr "Oh, è tardissimo! Mia mamma si preoccuperà\r\ntantissimo se non torno presto a casa!"
+
+msgctxt "294||||4"
+msgid "Bye bye, Mister Kazuma.\r\nPlease show this to Haruka-chan for me!"
+msgstr "Ciao ciao, signor Kazuma.\r\nFallo vedere ad Haruka-chan per me!"
+
+msgctxt "295||||4"
+msgid "Don't worry, I will."
+msgstr "Non preoccuparti, lo farò."
+
+msgctxt "296||||4"
+msgid "Please, No More!"
+msgstr "Please, No More!"

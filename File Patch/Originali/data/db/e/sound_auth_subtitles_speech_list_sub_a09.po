@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Kazuma Kiryu, yes?\r\nI was under the impression you left Kamurocho."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "The heir to the legacy of Lau Ka Long."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "So the Snake Flower Triad?\r\nWhat do you want?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "I was simply hoping to make\r\nan introduction in person."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Sorry, I'm not interested.\r\n...Hm?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Up here, Kiryu."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Do you remember this man?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Your advice had a great impact on him.\r\nHe came to me begging to back off the Saio Triad."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "In other words, he chose to disobey my orders.\r\nAnd there is only one punishment for that."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Thanks to you, this man's life is forfeit.\r\nIf you want to stop me, go to where you last saw him."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Come alone. I'll be waiting."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "The last place I saw him...\r\nThat would be the Yoshida Batting Center."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "This is the place. The Snake Flower\r\nshould be waiting for me here…"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Hey, are you okay?"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Somehow...\r\nThat you, Kiryu?"
+msgstr ""
+
+msgctxt "20||||4"
+msgid "So the Snake Flower would do\r\nthis to one of their own?"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "What about the man in the mask?\r\nWhere'd he go?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "Right here... Kazuma Kiryu."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "I'm surprised you came. I didn't imagine\r\nthis little punk would matter that much to you."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Is this really necessary?\r\nYou could've just talked to me from that screen."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Yes, I can't deny that. However, I have\r\nsome people here I'd like you to meet."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "These are the Snake Flower elite forces,\r\nsent directly from the homeland."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "What...?"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "They were quick to arrive when I told\r\nthem I could give them Kazuma Kiryu."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "You destroyed any hope we had of conquering Japan\r\nso many years ago. We cannot forgive that."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "And yet, our moronic friend here had different ideas.\r\nHe wanted to let you go free."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "He claimed you weren't as bad as we said,\r\nalmost as though under the dragon's spell."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Between the screen hacking and the bomb placement,\r\nthough... nothing gets done unless <font_kind=yakuza_italic>I</font_kind> do it myself."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Pathetic, isn't it?"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Couldn't say."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "No matter. After I finish you once and for all,\r\nthe Snake Flower Triad will take Kamurocho for good."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "And then, I will cement my position as\r\nLau Ka Long's successor. I will reign supreme."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Sounds like I don't have to hold back, then.\r\nSomeone as supreme as you can handle anything."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Very well.\r\nI'll show you what true pain feels like, Kiryu!"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "I-I don't get it... This is impossible!\r\nThe Snake Flower was supposed to rise again...!"
+msgstr ""
+
+msgctxt "43||||4"
+msgid "You sound ridiculous."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "45||||4"
+msgid "I'd never lose to even your best.\r\nYour leadership needs to do the research."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "You have a lot to learn if you want to rebuild.\r\nTry following in the Saio Triad's footsteps."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "They had the foresight to weasel into\r\nKamurocho with hundreds of men."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Their boss is a strategic mastermind as well.\r\nHe's not a common thug like you."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "What... did you call me?"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "You're just as soft as everyone says, Kiryu.\r\nYou really won't finish me off?"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "If you let me leave here, you'll regret it."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "You're in no position to be boasting.\r\nLook around you."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Y-You...!"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "This traitor wanted to kill me.\r\nI saved because of you, Kiryu."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "You think I moron, huh?\r\nYou think you so much smarter than me!?"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "H-Hold on a second.\r\nI didn't<symbol=em_dash_with_outline>"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Shut your mouth!\r\nYou listen to me from now on!"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Kazuma Kiryu. Nothing good happens\r\nwhen my gang take you on."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "To Snake Flower, you like poison."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Heh... True enough."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "We keep our heads down for little bit.\r\nI no kill this guy. Don't worry."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Good. That's the right call.\r\nBye, then."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "If the Dragon of Dojima in Kamurocho,\r\nthe Saio be forced to leave someday."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "Until then, we wait in shadows,\r\nbiding our time..."
+msgstr ""
+

@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+msgctxt "Offset_0x22CDE_Len_6"
+msgid " A)\\4C"
+msgstr ""
+
+#. Max bytes: 29
+msgctxt "Offset_0x38ED8_Len_29"
+msgid "That could be misinterpreted."
+msgstr ""
+
+#. Max bytes: 24
+msgctxt "Offset_0x38F18_Len_24"
+msgid "You're fine how you are."
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x38F58_Len_17"
+msgid "They're the best."
+msgstr ""
+
+#. Max bytes: 37
+msgctxt "Offset_0x39468_Len_37"
+msgid "Erina's rank has increased to Silver."
+msgstr ""
+
+#. Max bytes: 44
+msgctxt "Offset_0x39498_Len_44"
+msgid "艾莉娜的階級已成為「Silver Cast」"
+msgstr ""
+

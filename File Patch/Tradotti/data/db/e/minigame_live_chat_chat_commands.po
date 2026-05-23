@@ -1,0 +1,2060 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "22||anri_01_01_chat01||input_character"
+msgid "YOURE SEXY"
+msgstr "SEI SEXY"
+
+msgctxt "23||anri_01_01_chat02||input_character"
+msgid "DEFINITELY"
+msgstr "ASSOLUTAMENTE"
+
+msgctxt "24||anri_01_01_chat03||input_character"
+msgid "IM GONNA DIE"
+msgstr "MUOIO"
+
+msgctxt "26||anri_01_02_chat01||input_character"
+msgid "LIKEWISE"
+msgstr "ALTRETTANTO"
+
+msgctxt "27||anri_01_02_chat02||input_character"
+msgid "IM IN LOVE"
+msgstr "SONO INNAMORATO"
+
+msgctxt "28||anri_01_02_chat03||input_character"
+msgid "NATURALLY"
+msgstr "NATURALMENTE"
+
+msgctxt "30||anri_01_03_chat01||input_character"
+msgid "HELLO AGAIN"
+msgstr "DI NUOVO CIAO"
+
+msgctxt "31||anri_01_03_chat02||input_character"
+msgid "I MISSED YOU"
+msgstr "MI SEI MANCATA"
+
+msgctxt "32||anri_01_03_chat03||input_character"
+msgid "ILL TAKE YOU"
+msgstr "TI PRENDO IO"
+
+msgctxt "34||anri_02_01_chat01||input_character"
+msgid "WHERE?"
+msgstr "DOVE?"
+
+msgctxt "35||anri_02_01_chat02||input_character"
+msgid "BOOOOBS"
+msgstr "TEEEETTE"
+
+msgctxt "36||anri_02_01_chat03||input_character"
+msgid "JACKPOT"
+msgstr "BINGO"
+
+msgctxt "40||anri_02_02_chat01||input_character"
+msgid "S OR M?"
+msgstr "S O M?"
+
+msgctxt "41||anri_02_02_chat02||input_character"
+msgid "S"
+msgstr "S"
+
+msgctxt "42||anri_02_02_chat03||input_character"
+msgid "HURT ME BABY"
+msgstr "FAMMI MALE BABY"
+
+msgctxt "43||anri_02_02_chat04||input_character"
+msgid "YOU BETCHA"
+msgstr "PUOI DIRLO"
+
+msgctxt "44||anri_02_03_chat01||input_character"
+msgid "IVE NOTICED"
+msgstr "L'HO NOTATO"
+
+msgctxt "45||anri_02_03_chat02||input_character"
+msgid "YOU"
+msgstr "TU"
+
+msgctxt "46||anri_02_03_chat03||input_character"
+msgid "SHOW ME"
+msgstr "MOSTRAMI"
+
+msgctxt "50||anri_02_04_chat01||input_character"
+msgid "YOU LOOK HOT"
+msgstr "SEI HOT"
+
+msgctxt "51||anri_02_04_chat02||input_character"
+msgid "STRIP?"
+msgstr "TI SPOGLI?"
+
+msgctxt "52||anri_02_04_chat03||input_character"
+msgid "YOU CAN DO IT"
+msgstr "PUOI FARLO"
+
+msgctxt "53||anri_02_04_chat04||input_character"
+msgid "PLEASE"
+msgstr "TI PREGO"
+
+msgctxt "54||anri_02_05_chat01||input_character"
+msgid "YOU"
+msgstr "TU"
+
+msgctxt "55||anri_02_05_chat02||input_character"
+msgid "AND YOU?"
+msgstr "E TU?"
+
+msgctxt "56||anri_02_05_chat03||input_character"
+msgid "DOWN THERE?"
+msgstr "LAGGIÙ?"
+
+msgctxt "57||anri_02_05_chat04||input_character"
+msgid "MY BANANA"
+msgstr "LA MIA BANANA"
+
+msgctxt "58||anri_02_06_chat01||input_character"
+msgid "GO GO GO"
+msgstr "VAI VAI VAI"
+
+msgctxt "59||anri_02_06_chat02||input_character"
+msgid "PLEASE"
+msgstr "TI PREGO"
+
+msgctxt "60||anri_02_06_chat03||input_character"
+msgid "HMMM"
+msgstr "HMMM"
+
+msgctxt "61||anri_02_06_chat04||input_character"
+msgid "OOH"
+msgstr "OOH"
+
+msgctxt "70||anri_03_01_chat01||input_character"
+msgid "AROUSED"
+msgstr "ECCITATO"
+
+msgctxt "71||anri_03_01_chat02||input_character"
+msgid "ITS GROWING"
+msgstr "STA CRESCENDO"
+
+msgctxt "72||anri_03_01_chat03||input_character"
+msgid "MY DESIRE"
+msgstr "IL MIO DESIDERIO"
+
+msgctxt "73||anri_03_01_chat04||input_character"
+msgid "PAY ATTENTION"
+msgstr "FA' ATTENZIONE"
+
+msgctxt "74||anri_03_02_chat01||input_character"
+msgid "PERFECTION"
+msgstr "PERFEZIONE"
+
+msgctxt "75||anri_03_02_chat02||input_character"
+msgid "I ADORE THEM"
+msgstr "LE ADORO"
+
+msgctxt "76||anri_03_02_chat03||input_character"
+msgid "OOH"
+msgstr "OOH"
+
+msgctxt "77||anri_03_02_chat04||input_character"
+msgid "OOOOH"
+msgstr "OOOOH"
+
+msgctxt "78||anri_03_03_chat01||input_character"
+msgid "STRIP"
+msgstr "SPOGLIATI"
+
+msgctxt "79||anri_03_03_chat02||input_character"
+msgid "PRETTY PLEASE"
+msgstr "TI PREGO DAI"
+
+msgctxt "80||anri_03_03_chat03||input_character"
+msgid "WHO KNOWS?"
+msgstr "CHI LO SA?"
+
+msgctxt "81||anri_03_03_chat04||input_character"
+msgid "ITS SOOO BIG"
+msgstr "È COSÌ GRANDE"
+
+msgctxt "82||anri_03_04_chat01||input_character"
+msgid "LEGS"
+msgstr "GAMBE"
+
+msgctxt "83||anri_03_04_chat02||input_character"
+msgid "OKAY"
+msgstr "OKAY"
+
+msgctxt "84||anri_03_04_chat03||input_character"
+msgid "PLEEEEEEASE"
+msgstr "TI PREEEEGO"
+
+msgctxt "85||anri_03_04_chat04||input_character"
+msgid "OOH"
+msgstr "OOH"
+
+msgctxt "86||anri_03_05_chat01||input_character"
+msgid "NI HAO"
+msgstr "NI HAO"
+
+msgctxt "87||anri_03_05_chat02||input_character"
+msgid "ITS SO SEXY"
+msgstr "È COSÌ SEXY"
+
+msgctxt "88||anri_03_05_chat03||input_character"
+msgid "MY DUMPLING"
+msgstr "MIO RAVIOLINO"
+
+msgctxt "89||anri_03_05_chat04||input_character"
+msgid "STRIP STRIP"
+msgstr "SPOGLIATI"
+
+msgctxt "90||anri_03_06_chat01||input_character"
+msgid "FINALLY"
+msgstr "FINALMENTE"
+
+msgctxt "91||anri_03_06_chat02||input_character"
+msgid "SPECTACULAR"
+msgstr "SPETTACOLARE"
+
+msgctxt "92||anri_03_06_chat03||input_character"
+msgid "YES"
+msgstr "SÌ"
+
+msgctxt "93||anri_03_06_chat04||input_character"
+msgid "YES YES"
+msgstr "SÌ SÌ"
+
+msgctxt "94||anri_04_01_chat01||input_character"
+msgid "ILL DO IT"
+msgstr "LO FACCIO IO"
+
+msgctxt "95||anri_04_01_chat02||input_character"
+msgid "RUB RUB RUB"
+msgstr "STROFINA STROFINA"
+
+msgctxt "96||anri_04_01_chat03||input_character"
+msgid "GOOD?"
+msgstr "BENE?"
+
+msgctxt "97||anri_04_01_chat04||input_character"
+msgid "LIKE THIS???"
+msgstr "COSÌ???"
+
+msgctxt "98||anri_04_02_chat01||input_character"
+msgid "YOURE DIVINE"
+msgstr "SEI DIVINA"
+
+msgctxt "99||anri_04_02_chat02||input_character"
+msgid "I LOVE YOU"
+msgstr "TI AMO"
+
+msgctxt "100||anri_04_02_chat03||input_character"
+msgid "BARE IT ALL"
+msgstr "MOSTRA TUTTO"
+
+msgctxt "101||anri_04_02_chat04||input_character"
+msgid "STRIP FOR US"
+msgstr "SPOGLIATI PER NOI"
+
+msgctxt "102||anri_04_03_chat01||input_character"
+msgid "ABSOLUTELY"
+msgstr "ASSOLUTAMENTE"
+
+msgctxt "103||anri_04_03_chat02||input_character"
+msgid "I WANNA TOUCH"
+msgstr "VOGLIO TOCCARE"
+
+msgctxt "104||anri_04_03_chat03||input_character"
+msgid "CAN I?"
+msgstr "POSSO?"
+
+msgctxt "106||anri_04_04_chat01||input_character"
+msgid "ME TOO"
+msgstr "ANCHE IO"
+
+msgctxt "107||anri_04_04_chat02||input_character"
+msgid "LETS DO IT"
+msgstr "FACCIAMOLO"
+
+msgctxt "108||anri_04_04_chat03||input_character"
+msgid "ALONE TIME"
+msgstr "DA SOLI"
+
+msgctxt "109||anri_04_04_chat04||input_character"
+msgid "PLEASURE"
+msgstr "PIACERE"
+
+msgctxt "110||anri_04_05_chat01||input_character"
+msgid "ME NEITHER"
+msgstr "NEMMENO IO"
+
+msgctxt "124||anri_02_06_chat05||input_character"
+msgid "OOOOH"
+msgstr "OOOOH"
+
+msgctxt "125||anri_02_06_chat06||input_character"
+msgid "OOOOOOOH"
+msgstr "OOOOOOOH"
+
+msgctxt "126||anri_02_06_chat07||input_character"
+msgid "HELL YEAH"
+msgstr "OH SÌ"
+
+msgctxt "127||anri_03_04_chat05||input_character"
+msgid "OOOOH"
+msgstr "OOOOH"
+
+msgctxt "128||anri_03_04_chat06||input_character"
+msgid "OOOOOOOH"
+msgstr "OOOOOOOH"
+
+msgctxt "129||anri_03_04_chat07||input_character"
+msgid "SO SATISFIED"
+msgstr "COSÌ SODDISFATTO"
+
+msgctxt "132||anri_03_05_chat05||input_character"
+msgid "REALLY!?"
+msgstr "DAVVERO!?"
+
+msgctxt "133||anri_03_06_chat05||input_character"
+msgid "YES YES YES"
+msgstr "SÌ SÌ SÌ"
+
+msgctxt "135||anri_04_01_chat05||input_character"
+msgid "SO SOFT"
+msgstr "COSÌ SOFFICE"
+
+msgctxt "136||anri_04_04_chat05||input_character"
+msgid "ECSTASY"
+msgstr "ESTASI"
+
+msgctxt "140||yua_01_01_chat01||input_character"
+msgid "YEAH"
+msgstr "SÌ"
+
+msgctxt "141||yua_01_01_chat02||input_character"
+msgid "HOW EXACTLY?"
+msgstr "COME DI PRECISO?"
+
+msgctxt "142||yua_01_01_chat03||input_character"
+msgid "GOOD LUCK"
+msgstr "BUONA FORTUNA"
+
+msgctxt "143||yua_01_02_chat01||input_character"
+msgid "YOU KNOW IT"
+msgstr "LO SAI BENE"
+
+msgctxt "144||yua_01_02_chat02||input_character"
+msgid "LETS HAVE FUN"
+msgstr "DIVERTIAMOCI"
+
+msgctxt "145||yua_01_02_chat03||input_character"
+msgid "CANT WAIT"
+msgstr "NON VEDO L'ORA"
+
+msgctxt "146||yua_01_03_chat01||input_character"
+msgid "HERE I AM"
+msgstr "ECCOMI"
+
+msgctxt "147||yua_01_03_chat02||input_character"
+msgid "YOU MEAN IT?"
+msgstr "DICI DAVVERO?"
+
+msgctxt "148||yua_01_03_chat03||input_character"
+msgid "GLADLY"
+msgstr "VOLENTIERI"
+
+msgctxt "149||yua_01_03_chat04||input_character"
+msgid "LETS GOOO"
+msgstr "ANDIAMOOO"
+
+msgctxt "151||yua_02_01_chat01||input_character"
+msgid "RELAX"
+msgstr "RILASSATI"
+
+msgctxt "152||yua_02_01_chat02||input_character"
+msgid "TRY SMILING"
+msgstr "PROVA A SORRIDERE"
+
+msgctxt "153||yua_02_01_chat03||input_character"
+msgid "SO CUTE"
+msgstr "CHE CARINA"
+
+msgctxt "154||yua_02_01_chat04||input_character"
+msgid "KISS ME"
+msgstr "BACIACI"
+
+msgctxt "155||yua_02_01_chat05||input_character"
+msgid "YESSSSSS"
+msgstr "SÌÌÌÌÌÌ"
+
+msgctxt "156||yua_02_02_chat01||input_character"
+msgid "YOU GOT A BF?"
+msgstr "HAI IL RAGAZZO?"
+
+msgctxt "157||yua_02_02_chat02||input_character"
+msgid "WHY NOT?"
+msgstr "PERCHÉ NO?"
+
+msgctxt "158||yua_02_02_chat03||input_character"
+msgid "BE-YUA-TIFUL"
+msgstr "BE-YUA-TIFUL"
+
+msgctxt "159||yua_02_02_chat04||input_character"
+msgid "MARRY ME"
+msgstr "SPOSAMI"
+
+msgctxt "160||yua_02_03_chat01||input_character"
+msgid "SEX"
+msgstr "SESSO"
+
+msgctxt "161||yua_02_03_chat02||input_character"
+msgid "S OR M?"
+msgstr "S O M?"
+
+msgctxt "162||yua_02_03_chat03||input_character"
+msgid "DEFINITELY M"
+msgstr "DECISAMENTE M"
+
+msgctxt "163||yua_02_03_chat04||input_character"
+msgid "NAILED IT"
+msgstr "CI HO PRESO"
+
+msgctxt "164||yua_02_03_chat05||input_character"
+msgid "IT MIGHT HURT"
+msgstr "POTREBBE FAR MALE"
+
+msgctxt "165||yua_02_04_chat01||input_character"
+msgid "YOU LOOK HOT"
+msgstr "SEI HOT"
+
+msgctxt "166||yua_02_04_chat02||input_character"
+msgid "STRIP?"
+msgstr "TI SPOGLI?"
+
+msgctxt "167||yua_02_04_chat03||input_character"
+msgid "ITLL BE NICE"
+msgstr "SARÀ BELLO"
+
+msgctxt "168||yua_02_04_chat04||input_character"
+msgid "PRETTY PLEASE"
+msgstr "TI PREGO DAI"
+
+msgctxt "169||yua_02_04_chat05||input_character"
+msgid "GO AHEAD"
+msgstr "VAI PURE"
+
+msgctxt "170||yua_02_05_chat01||input_character"
+msgid "YOU"
+msgstr "TU"
+
+msgctxt "171||yua_02_05_chat02||input_character"
+msgid "WHATS YOURS?"
+msgstr "QUAL È IL TUO?"
+
+msgctxt "172||yua_02_05_chat03||input_character"
+msgid "DOWN THERE?"
+msgstr "LAGGIÙ?"
+
+msgctxt "173||yua_02_05_chat04||input_character"
+msgid "NEVERMIND"
+msgstr "LASCIA PERDERE"
+
+msgctxt "174||yua_02_05_chat05||input_character"
+msgid "MY SAUSAGE"
+msgstr "LA MIA SALSICCIA"
+
+msgctxt "177||yua_02_06_chat01||input_character"
+msgid "STRIP"
+msgstr "SPOGLIATI"
+
+msgctxt "178||yua_02_06_chat02||input_character"
+msgid "JUST A BIT"
+msgstr "SOLO UN PO'"
+
+msgctxt "179||yua_02_06_chat03||input_character"
+msgid "MAN OH MAN"
+msgstr "MAMMA MIA"
+
+msgctxt "180||yua_02_06_chat04||input_character"
+msgid "WHOA"
+msgstr "WHOA"
+
+msgctxt "181||yua_02_06_chat05||input_character"
+msgid "BRILLIANT"
+msgstr "FANTASTICO"
+
+msgctxt "183||yua_03_01_chat01||input_character"
+msgid "YUP"
+msgstr "SÌ"
+
+msgctxt "184||yua_03_01_chat02||input_character"
+msgid "ITS GROWING"
+msgstr "STA CRESCENDO"
+
+msgctxt "185||yua_03_01_chat03||input_character"
+msgid "MY LOVE"
+msgstr "AMORE MIO"
+
+msgctxt "186||yua_03_01_chat04||input_character"
+msgid "YES PLEASE"
+msgstr "SÌ GRAZIE"
+
+msgctxt "187||yua_03_02_chat01||input_character"
+msgid "NICE"
+msgstr "BELLO"
+
+msgctxt "188||yua_03_02_chat02||input_character"
+msgid "YOU SHOULD"
+msgstr "DOVRESTI"
+
+msgctxt "189||yua_03_02_chat03||input_character"
+msgid "COME CLOSER"
+msgstr "AVVICINATI"
+
+msgctxt "190||yua_03_02_chat04||input_character"
+msgid "MMMMMMMMMMMM"
+msgstr "MMMMMMMMMMMM"
+
+msgctxt "191||yua_03_02_chat05||input_character"
+msgid "BREATHTAKING"
+msgstr "MOZZAFIATO"
+
+msgctxt "192||yua_03_03_chat01||input_character"
+msgid "MORE NUDITY"
+msgstr "PIÙ NUDITÀ"
+
+msgctxt "193||yua_03_03_chat02||input_character"
+msgid "JUST A BIT?"
+msgstr "SOLO UN PO'?"
+
+msgctxt "194||yua_03_03_chat03||input_character"
+msgid "I WONDER..."
+msgstr "MI CHIEDO..."
+
+msgctxt "195||yua_03_03_chat04||input_character"
+msgid "WANNA WATCH?"
+msgstr "VUOI GUARDARE?"
+
+msgctxt "196||yua_03_04_chat01||input_character"
+msgid "LEGS PLEASE"
+msgstr "GAMBE GRAZIE"
+
+msgctxt "197||yua_03_04_chat02||input_character"
+msgid "LEGSLEGSLEGS"
+msgstr "GAMBEGAMBEGAMBE"
+
+msgctxt "198||yua_03_04_chat03||input_character"
+msgid "OOOH"
+msgstr "OOOH"
+
+msgctxt "199||yua_03_04_chat04||input_character"
+msgid "OOOOOOOOOH"
+msgstr "OOOOOOOOOH"
+
+msgctxt "200||yua_03_04_chat05||input_character"
+msgid "A LITTLE BIT"
+msgstr "UN POCHINO"
+
+msgctxt "201||yua_03_05_chat01||input_character"
+msgid "HELLOOO NURSE"
+msgstr "CIAOOO INFERMIERA"
+
+msgctxt "202||yua_03_05_chat02||input_character"
+msgid "COUGH COUGH"
+msgstr "COUGH COUGH"
+
+msgctxt "203||yua_03_05_chat03||input_character"
+msgid "LIKEWISE"
+msgstr "ALTRETTANTO"
+
+msgctxt "204||yua_03_05_chat04||input_character"
+msgid "A BIG FAT ONE"
+msgstr "UNA GRANDE E GROSSA"
+
+msgctxt "205||yua_03_05_chat05||input_character"
+msgid "ILL BE GENTLE"
+msgstr "SARÒ GENTILE"
+
+msgctxt "207||yua_03_06_chat01||input_character"
+msgid "HEAT IT UP"
+msgstr "ALZA LA TEMPERATURA"
+
+msgctxt "208||yua_03_06_chat02||input_character"
+msgid "GOTCHA"
+msgstr "RICEVUTO"
+
+msgctxt "209||yua_03_06_chat03||input_character"
+msgid "NICE"
+msgstr "BELLO"
+
+msgctxt "210||yua_03_06_chat04||input_character"
+msgid "AMAZING"
+msgstr "INCREDIBILE"
+
+msgctxt "211||yua_03_06_chat05||input_character"
+msgid "SO SKILLFUL"
+msgstr "COSÌ BRAVA"
+
+msgctxt "212||yua_03_06_chat06||input_character"
+msgid "OKAY"
+msgstr "OKAY"
+
+msgctxt "213||yua_04_01_chat01||input_character"
+msgid "ILL DO IT"
+msgstr "LO FACCIO IO"
+
+msgctxt "214||yua_04_01_chat02||input_character"
+msgid "RUB RUB RUB"
+msgstr "STROFINA STROFINA"
+
+msgctxt "215||yua_04_01_chat03||input_character"
+msgid "GOOD?"
+msgstr "BENE?"
+
+msgctxt "216||yua_04_01_chat04||input_character"
+msgid "LIKE THIS???"
+msgstr "COSÌ???"
+
+msgctxt "218||yua_04_02_chat01||input_character"
+msgid "SUPER CUTE"
+msgstr "SUPER CARINA"
+
+msgctxt "219||yua_04_02_chat02||input_character"
+msgid "JE T'AIME"
+msgstr "JE T'AIME"
+
+msgctxt "220||yua_04_02_chat03||input_character"
+msgid "BARE IT ALL"
+msgstr "MOSTRA TUTTO"
+
+msgctxt "221||yua_04_02_chat04||input_character"
+msgid "JUST FOR US"
+msgstr "SOLO PER NOI"
+
+msgctxt "222||yua_04_03_chat01||input_character"
+msgid "I WANNA TOUCH"
+msgstr "VOGLIO TOCCARE"
+
+msgctxt "223||yua_04_03_chat02||input_character"
+msgid "I WANNA RUB"
+msgstr "VOGLIO STROFINARE"
+
+msgctxt "224||yua_04_03_chat03||input_character"
+msgid "I DONT MIND"
+msgstr "NON MI DISPIACE"
+
+msgctxt "225||yua_04_03_chat04||input_character"
+msgid "MMMMMM"
+msgstr "MMMMMM"
+
+msgctxt "228||yua_04_04_chat01||input_character"
+msgid "ME TOO"
+msgstr "ANCHE IO"
+
+msgctxt "229||yua_04_04_chat02||input_character"
+msgid "ILL HELP YOU"
+msgstr "TI AIUTO IO"
+
+msgctxt "230||yua_04_04_chat03||input_character"
+msgid "A MASSAGE"
+msgstr "UN MASSAGGIO"
+
+msgctxt "231||yua_04_04_chat04||input_character"
+msgid "ALONE"
+msgstr "DA SOLI"
+
+msgctxt "232||yua_04_04_chat05||input_character"
+msgid "HOW BOUT IT?"
+msgstr "CHE NE DICI?"
+
+msgctxt "234||yua_04_05_chat01||input_character"
+msgid "ME TOO"
+msgstr "ANCHE IO"
+
+msgctxt "241||anri_03_02_chat05||input_character"
+msgid "OOOOOOOH"
+msgstr "OOOOOOOH"
+
+msgctxt "242||anri_03_02_chat06||input_character"
+msgid "BOOBIES"
+msgstr "TETTE"
+
+msgctxt "266||anri_04_06_chat01||input_character"
+msgid "YEAH"
+msgstr "SÌ"
+
+msgctxt "267||yua_04_06_chat01||input_character"
+msgid "YEAH"
+msgstr "SÌ"
+
+msgctxt "22||anri_01_01_chat01||chat_message"
+msgid "You're sexy."
+msgstr "Sei sexy."
+
+msgctxt "23||anri_01_01_chat02||chat_message"
+msgid "Definitely."
+msgstr "Assolutamente."
+
+msgctxt "24||anri_01_01_chat03||chat_message"
+msgid "I'm gonna die of excitement."
+msgstr "Muoio dall'eccitazione."
+
+msgctxt "26||anri_01_02_chat01||chat_message"
+msgid "Likewise."
+msgstr "Altrettanto."
+
+msgctxt "27||anri_01_02_chat02||chat_message"
+msgid "I'm in love."
+msgstr "Sono innamorato."
+
+msgctxt "28||anri_01_02_chat03||chat_message"
+msgid "Naturally!"
+msgstr "Naturalmente!"
+
+msgctxt "30||anri_01_03_chat01||chat_message"
+msgid "Hello again."
+msgstr "Di nuovo ciao."
+
+msgctxt "31||anri_01_03_chat02||chat_message"
+msgid "I missed you."
+msgstr "Mi sei mancata."
+
+msgctxt "32||anri_01_03_chat03||chat_message"
+msgid "I'll take you."
+msgstr "Ti prendo io."
+
+msgctxt "34||anri_02_01_chat01||chat_message"
+msgid "Where?"
+msgstr "Dove?"
+
+msgctxt "35||anri_02_01_chat02||chat_message"
+msgid "Boooobs...!"
+msgstr "Teeeette...!"
+
+msgctxt "36||anri_02_01_chat03||chat_message"
+msgid "Jackpot."
+msgstr "Bingo."
+
+msgctxt "40||anri_02_02_chat01||chat_message"
+msgid "S or M?"
+msgstr "S o M?"
+
+msgctxt "41||anri_02_02_chat02||chat_message"
+msgid "S."
+msgstr "S."
+
+msgctxt "42||anri_02_02_chat03||chat_message"
+msgid "Hurt me, baby."
+msgstr "Fammi male, baby."
+
+msgctxt "43||anri_02_02_chat04||chat_message"
+msgid "You betcha."
+msgstr "Puoi dirlo."
+
+msgctxt "44||anri_02_03_chat01||chat_message"
+msgid "I've noticed."
+msgstr "L'ho notato."
+
+msgctxt "45||anri_02_03_chat02||chat_message"
+msgid "You."
+msgstr "Tu."
+
+msgctxt "46||anri_02_03_chat03||chat_message"
+msgid "Show me!"
+msgstr "Mostrami!"
+
+msgctxt "50||anri_02_04_chat01||chat_message"
+msgid "You <font_kind=yakuza_italic>do</font_kind> look hot."
+msgstr "Sei <font_kind=yakuza_italic>davvero</font_kind> hot."
+
+msgctxt "51||anri_02_04_chat02||chat_message"
+msgid "Strip?"
+msgstr "Ti spogli?"
+
+msgctxt "52||anri_02_04_chat03||chat_message"
+msgid "You can do it!"
+msgstr "Puoi farlo!"
+
+msgctxt "53||anri_02_04_chat04||chat_message"
+msgid "Please!"
+msgstr "Ti prego!"
+
+msgctxt "54||anri_02_05_chat01||chat_message"
+msgid "You."
+msgstr "Tu."
+
+msgctxt "55||anri_02_05_chat02||chat_message"
+msgid "And you?"
+msgstr "E tu?"
+
+msgctxt "56||anri_02_05_chat03||chat_message"
+msgid "Down there?"
+msgstr "Laggiù?"
+
+msgctxt "57||anri_02_05_chat04||chat_message"
+msgid "My banana..."
+msgstr "La mia banana..."
+
+msgctxt "58||anri_02_06_chat01||chat_message"
+msgid "Go go go!"
+msgstr "Vai vai vai!"
+
+msgctxt "59||anri_02_06_chat02||chat_message"
+msgid "PLEASE!"
+msgstr "TI PREGO!"
+
+msgctxt "60||anri_02_06_chat03||chat_message"
+msgid "Hmmm..."
+msgstr "Hmmm..."
+
+msgctxt "61||anri_02_06_chat04||chat_message"
+msgid "Ooh."
+msgstr "Ooh."
+
+msgctxt "70||anri_03_01_chat01||chat_message"
+msgid "Aroused."
+msgstr "Eccitato."
+
+msgctxt "71||anri_03_01_chat02||chat_message"
+msgid "It's growing..."
+msgstr "Sta crescendo..."
+
+msgctxt "72||anri_03_01_chat03||chat_message"
+msgid "My desire."
+msgstr "Il mio desiderio."
+
+msgctxt "73||anri_03_01_chat04||chat_message"
+msgid "Pay attention then!"
+msgstr "Fa' attenzione allora!"
+
+msgctxt "74||anri_03_02_chat01||chat_message"
+msgid "Perfection..."
+msgstr "Perfezione..."
+
+msgctxt "75||anri_03_02_chat02||chat_message"
+msgid "I adore them."
+msgstr "Le adoro."
+
+msgctxt "76||anri_03_02_chat03||chat_message"
+msgid "Ooh."
+msgstr "Ooh."
+
+msgctxt "77||anri_03_02_chat04||chat_message"
+msgid "Ooooh!"
+msgstr "Ooooh!"
+
+msgctxt "78||anri_03_03_chat01||chat_message"
+msgid "Strip."
+msgstr "Spogliati."
+
+msgctxt "79||anri_03_03_chat02||chat_message"
+msgid "Pretty please."
+msgstr "Ti prego dai."
+
+msgctxt "80||anri_03_03_chat03||chat_message"
+msgid "Who knows...?"
+msgstr "Chi lo sa...?"
+
+msgctxt "81||anri_03_03_chat04||chat_message"
+msgid "It's sooo big."
+msgstr "È cooosì grande."
+
+msgctxt "82||anri_03_04_chat01||chat_message"
+msgid "Legs."
+msgstr "Gambe."
+
+msgctxt "83||anri_03_04_chat02||chat_message"
+msgid "Okay."
+msgstr "Okay."
+
+msgctxt "84||anri_03_04_chat03||chat_message"
+msgid "Pleeeeeease!"
+msgstr "Ti preeeeeego!"
+
+msgctxt "85||anri_03_04_chat04||chat_message"
+msgid "Ooh."
+msgstr "Ooh."
+
+msgctxt "86||anri_03_05_chat01||chat_message"
+msgid "Ni hao."
+msgstr "Ni hao."
+
+msgctxt "87||anri_03_05_chat02||chat_message"
+msgid "It's so sexy."
+msgstr "È così sexy."
+
+msgctxt "88||anri_03_05_chat03||chat_message"
+msgid "My dumpling..."
+msgstr "Mio raviolino..."
+
+msgctxt "89||anri_03_05_chat04||chat_message"
+msgid "Strip, strip!"
+msgstr "Spogliati, spogliati!"
+
+msgctxt "90||anri_03_06_chat01||chat_message"
+msgid "Finally!"
+msgstr "Finalmente!"
+
+msgctxt "91||anri_03_06_chat02||chat_message"
+msgid "Spectacular..."
+msgstr "Spettacolare..."
+
+msgctxt "92||anri_03_06_chat03||chat_message"
+msgid "Yes..."
+msgstr "Sì..."
+
+msgctxt "93||anri_03_06_chat04||chat_message"
+msgid "Yes yes..."
+msgstr "Sì sì..."
+
+msgctxt "94||anri_04_01_chat01||chat_message"
+msgid "I'll do it."
+msgstr "Lo faccio io."
+
+msgctxt "95||anri_04_01_chat02||chat_message"
+msgid "Rub rub rub..."
+msgstr "Strofina strofina..."
+
+msgctxt "96||anri_04_01_chat03||chat_message"
+msgid "Good?"
+msgstr "Bene?"
+
+msgctxt "97||anri_04_01_chat04||chat_message"
+msgid "Like this???"
+msgstr "Così???"
+
+msgctxt "98||anri_04_02_chat01||chat_message"
+msgid "You're divine."
+msgstr "Sei divina."
+
+msgctxt "99||anri_04_02_chat02||chat_message"
+msgid "I love you..."
+msgstr "Ti amo..."
+
+msgctxt "100||anri_04_02_chat03||chat_message"
+msgid "Bare it all."
+msgstr "Mostra tutto."
+
+msgctxt "101||anri_04_02_chat04||chat_message"
+msgid "Strip for us."
+msgstr "Spogliati per noi."
+
+msgctxt "102||anri_04_03_chat01||chat_message"
+msgid "Absolutely."
+msgstr "Assolutamente."
+
+msgctxt "103||anri_04_03_chat02||chat_message"
+msgid "I wanna touch..."
+msgstr "Voglio toccare..."
+
+msgctxt "104||anri_04_03_chat03||chat_message"
+msgid "Can I?"
+msgstr "Posso?"
+
+msgctxt "106||anri_04_04_chat01||chat_message"
+msgid "Me too."
+msgstr "Anche io."
+
+msgctxt "107||anri_04_04_chat02||chat_message"
+msgid "Let's do it."
+msgstr "Facciamolo."
+
+msgctxt "108||anri_04_04_chat03||chat_message"
+msgid "Alone time."
+msgstr "Da soli."
+
+msgctxt "109||anri_04_04_chat04||chat_message"
+msgid "Pleasure."
+msgstr "Piacere."
+
+msgctxt "110||anri_04_05_chat01||chat_message"
+msgid "Me neither."
+msgstr "Nemmeno io."
+
+msgctxt "124||anri_02_06_chat05||chat_message"
+msgid "Ooooh!"
+msgstr "Ooooh!"
+
+msgctxt "125||anri_02_06_chat06||chat_message"
+msgid "OOOOOOOH!"
+msgstr "OOOOOOOH!"
+
+msgctxt "126||anri_02_06_chat07||chat_message"
+msgid "Hell yeah."
+msgstr "Oh sì."
+
+msgctxt "127||anri_03_04_chat05||chat_message"
+msgid "Ooooh!"
+msgstr "Ooooh!"
+
+msgctxt "128||anri_03_04_chat06||chat_message"
+msgid "OOOOOOOH!"
+msgstr "OOOOOOOH!"
+
+msgctxt "129||anri_03_04_chat07||chat_message"
+msgid "So satisfied..."
+msgstr "Così soddisfatto..."
+
+msgctxt "132||anri_03_05_chat05||chat_message"
+msgid "Really!?"
+msgstr "Davvero!?"
+
+msgctxt "133||anri_03_06_chat05||chat_message"
+msgid "Yes yes yes!"
+msgstr "Sì sì sì!"
+
+msgctxt "135||anri_04_01_chat05||chat_message"
+msgid "So soft."
+msgstr "Così soffice."
+
+msgctxt "136||anri_04_04_chat05||chat_message"
+msgid "Ecstasy."
+msgstr "Estasi."
+
+msgctxt "140||yua_01_01_chat01||chat_message"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "141||yua_01_01_chat02||chat_message"
+msgid "How exactly?"
+msgstr "Come di preciso?"
+
+msgctxt "142||yua_01_01_chat03||chat_message"
+msgid "Good luck!"
+msgstr "Buona fortuna!"
+
+msgctxt "143||yua_01_02_chat01||chat_message"
+msgid "You know it."
+msgstr "Lo sai bene."
+
+msgctxt "144||yua_01_02_chat02||chat_message"
+msgid "Let's have fun."
+msgstr "Divertiamoci."
+
+msgctxt "145||yua_01_02_chat03||chat_message"
+msgid "Can't wait!"
+msgstr "Non vedo l'ora!"
+
+msgctxt "146||yua_01_03_chat01||chat_message"
+msgid "Here I am."
+msgstr "Eccomi."
+
+msgctxt "147||yua_01_03_chat02||chat_message"
+msgid "You mean it?"
+msgstr "Dici davvero?"
+
+msgctxt "148||yua_01_03_chat03||chat_message"
+msgid "Gladly."
+msgstr "Volentieri."
+
+msgctxt "149||yua_01_03_chat04||chat_message"
+msgid "Let's gooo!"
+msgstr "Andiamooo!"
+
+msgctxt "151||yua_02_01_chat01||chat_message"
+msgid "Relax."
+msgstr "Rilassati."
+
+msgctxt "152||yua_02_01_chat02||chat_message"
+msgid "Try smiling."
+msgstr "Prova a sorridere."
+
+msgctxt "153||yua_02_01_chat03||chat_message"
+msgid "So cute..."
+msgstr "Che carina..."
+
+msgctxt "154||yua_02_01_chat04||chat_message"
+msgid "Kiss me."
+msgstr "Baciaci."
+
+msgctxt "155||yua_02_01_chat05||chat_message"
+msgid "Yessssss!"
+msgstr "Sìììììì!"
+
+msgctxt "156||yua_02_02_chat01||chat_message"
+msgid "You got a BF?"
+msgstr "Hai il ragazzo?"
+
+msgctxt "157||yua_02_02_chat02||chat_message"
+msgid "Why not?"
+msgstr "Perché no?"
+
+msgctxt "158||yua_02_02_chat03||chat_message"
+msgid "Be-Yua-tiful."
+msgstr "Be-Yua-tiful."
+
+msgctxt "159||yua_02_02_chat04||chat_message"
+msgid "Marry me."
+msgstr "Sposami."
+
+msgctxt "160||yua_02_03_chat01||chat_message"
+msgid "Sex."
+msgstr "Sesso."
+
+msgctxt "161||yua_02_03_chat02||chat_message"
+msgid "S or M?"
+msgstr "S o M?"
+
+msgctxt "162||yua_02_03_chat03||chat_message"
+msgid "Definitely M."
+msgstr "Decisamente M."
+
+msgctxt "163||yua_02_03_chat04||chat_message"
+msgid "Nailed it!"
+msgstr "Ci ho preso!"
+
+msgctxt "164||yua_02_03_chat05||chat_message"
+msgid "It might hurt."
+msgstr "Potrebbe far male."
+
+msgctxt "165||yua_02_04_chat01||chat_message"
+msgid "You look hot."
+msgstr "Sei hot."
+
+msgctxt "166||yua_02_04_chat02||chat_message"
+msgid "Strip?"
+msgstr "Ti spogli?"
+
+msgctxt "167||yua_02_04_chat03||chat_message"
+msgid "It'll be nice."
+msgstr "Sarà bello."
+
+msgctxt "168||yua_02_04_chat04||chat_message"
+msgid "Pretty please."
+msgstr "Ti prego dai."
+
+msgctxt "169||yua_02_04_chat05||chat_message"
+msgid "Go ahead!"
+msgstr "Vai pure!"
+
+msgctxt "170||yua_02_05_chat01||chat_message"
+msgid "You."
+msgstr "Tu."
+
+msgctxt "171||yua_02_05_chat02||chat_message"
+msgid "What's yours?"
+msgstr "Qual è il tuo?"
+
+msgctxt "172||yua_02_05_chat03||chat_message"
+msgid "Down there?"
+msgstr "Laggiù?"
+
+msgctxt "173||yua_02_05_chat04||chat_message"
+msgid "Never mind then."
+msgstr "Lascia perdere."
+
+msgctxt "174||yua_02_05_chat05||chat_message"
+msgid "My sausage...!"
+msgstr "La mia salsiccia...!"
+
+msgctxt "177||yua_02_06_chat01||chat_message"
+msgid "Strip..."
+msgstr "Spogliati..."
+
+msgctxt "178||yua_02_06_chat02||chat_message"
+msgid "Just a bit."
+msgstr "Solo un po'."
+
+msgctxt "179||yua_02_06_chat03||chat_message"
+msgid "Man oh man..."
+msgstr "Mamma mia..."
+
+msgctxt "180||yua_02_06_chat04||chat_message"
+msgid "Whoa..."
+msgstr "Whoa..."
+
+msgctxt "181||yua_02_06_chat05||chat_message"
+msgid "Brilliant...!"
+msgstr "Fantastico...!"
+
+msgctxt "183||yua_03_01_chat01||chat_message"
+msgid "Yup."
+msgstr "Sì."
+
+msgctxt "184||yua_03_01_chat02||chat_message"
+msgid "It's growing..."
+msgstr "Sta crescendo..."
+
+msgctxt "185||yua_03_01_chat03||chat_message"
+msgid "My love."
+msgstr "Amore mio."
+
+msgctxt "186||yua_03_01_chat04||chat_message"
+msgid "Yes please."
+msgstr "Sì grazie."
+
+msgctxt "187||yua_03_02_chat01||chat_message"
+msgid "Nice!"
+msgstr "Bello!"
+
+msgctxt "188||yua_03_02_chat02||chat_message"
+msgid "You should."
+msgstr "Dovresti."
+
+msgctxt "189||yua_03_02_chat03||chat_message"
+msgid "Come closer..."
+msgstr "Avvicinati..."
+
+msgctxt "190||yua_03_02_chat04||chat_message"
+msgid "Mmmmmmmmmmmm...!"
+msgstr "Mmmmmmmmmmmm...!"
+
+msgctxt "191||yua_03_02_chat05||chat_message"
+msgid "Breathtaking!"
+msgstr "Mozzafiato!"
+
+msgctxt "192||yua_03_03_chat01||chat_message"
+msgid "More nudity."
+msgstr "Più nudità."
+
+msgctxt "193||yua_03_03_chat02||chat_message"
+msgid "Just a bit?"
+msgstr "Solo un po'?"
+
+msgctxt "194||yua_03_03_chat03||chat_message"
+msgid "I wonder..."
+msgstr "Mi chiedo..."
+
+msgctxt "195||yua_03_03_chat04||chat_message"
+msgid "Wanna watch?"
+msgstr "Vuoi guardare?"
+
+msgctxt "196||yua_03_04_chat01||chat_message"
+msgid "Legs please."
+msgstr "Gambe grazie."
+
+msgctxt "197||yua_03_04_chat02||chat_message"
+msgid "Legslegslegs!"
+msgstr "Gambegambegambe!"
+
+msgctxt "198||yua_03_04_chat03||chat_message"
+msgid "Oooh..."
+msgstr "Oooh..."
+
+msgctxt "199||yua_03_04_chat04||chat_message"
+msgid "Oooooooh!"
+msgstr "Oooooooh!"
+
+msgctxt "200||yua_03_04_chat05||chat_message"
+msgid "A little bit."
+msgstr "Un pochino."
+
+msgctxt "201||yua_03_05_chat01||chat_message"
+msgid "Hellooo nurse!"
+msgstr "Ciaooo infermiera!"
+
+msgctxt "202||yua_03_05_chat02||chat_message"
+msgid "Cough cough..."
+msgstr "Cough cough..."
+
+msgctxt "203||yua_03_05_chat03||chat_message"
+msgid "Likewise."
+msgstr "Altrettanto."
+
+msgctxt "204||yua_03_05_chat04||chat_message"
+msgid "A big, fat one."
+msgstr "Una grande e grossa."
+
+msgctxt "205||yua_03_05_chat05||chat_message"
+msgid "I'll be gentle."
+msgstr "Sarò gentile."
+
+msgctxt "207||yua_03_06_chat01||chat_message"
+msgid "Heat it up!"
+msgstr "Alza la temperatura!"
+
+msgctxt "208||yua_03_06_chat02||chat_message"
+msgid "Gotcha."
+msgstr "Ricevuto."
+
+msgctxt "209||yua_03_06_chat03||chat_message"
+msgid "Nice!"
+msgstr "Bello!"
+
+msgctxt "210||yua_03_06_chat04||chat_message"
+msgid "Amazing...!"
+msgstr "Incredibile...!"
+
+msgctxt "211||yua_03_06_chat05||chat_message"
+msgid "So skillful!"
+msgstr "Così brava!"
+
+msgctxt "212||yua_03_06_chat06||chat_message"
+msgid "Okay!"
+msgstr "Okay!"
+
+msgctxt "213||yua_04_01_chat01||chat_message"
+msgid "I'll do it."
+msgstr "Lo faccio io."
+
+msgctxt "214||yua_04_01_chat02||chat_message"
+msgid "Rub rub rub..."
+msgstr "Strofina strofina..."
+
+msgctxt "215||yua_04_01_chat03||chat_message"
+msgid "Good?"
+msgstr "Bene?"
+
+msgctxt "216||yua_04_01_chat04||chat_message"
+msgid "Like this???"
+msgstr "Così???"
+
+msgctxt "218||yua_04_02_chat01||chat_message"
+msgid "Super cute."
+msgstr "Super carina."
+
+msgctxt "219||yua_04_02_chat02||chat_message"
+msgid "Je t'aime."
+msgstr "Je t'aime."
+
+msgctxt "220||yua_04_02_chat03||chat_message"
+msgid "Bare it all..."
+msgstr "Mostra tutto..."
+
+msgctxt "221||yua_04_02_chat04||chat_message"
+msgid "Just for us."
+msgstr "Solo per noi."
+
+msgctxt "222||yua_04_03_chat01||chat_message"
+msgid "I wanna touch."
+msgstr "Voglio toccare."
+
+msgctxt "223||yua_04_03_chat02||chat_message"
+msgid "I wanna rub..."
+msgstr "Voglio strofinare..."
+
+msgctxt "224||yua_04_03_chat03||chat_message"
+msgid "I don't mind."
+msgstr "Non mi dispiace."
+
+msgctxt "225||yua_04_03_chat04||chat_message"
+msgid "Mmmmmm...!"
+msgstr "Mmmmmm...!"
+
+msgctxt "228||yua_04_04_chat01||chat_message"
+msgid "Me too."
+msgstr "Anche io."
+
+msgctxt "229||yua_04_04_chat02||chat_message"
+msgid "I'll help you."
+msgstr "Ti aiuto io."
+
+msgctxt "230||yua_04_04_chat03||chat_message"
+msgid "A massage."
+msgstr "Un massaggio."
+
+msgctxt "231||yua_04_04_chat04||chat_message"
+msgid "...Alone."
+msgstr "...Da soli."
+
+msgctxt "232||yua_04_04_chat05||chat_message"
+msgid "How 'bout it?"
+msgstr "Che ne dici?"
+
+msgctxt "234||yua_04_05_chat01||chat_message"
+msgid "Me too."
+msgstr "Anche io."
+
+msgctxt "241||anri_03_02_chat05||chat_message"
+msgid "OOOOOOOH!"
+msgstr "OOOOOOOH!"
+
+msgctxt "242||anri_03_02_chat06||chat_message"
+msgid "Boobies...!"
+msgstr "Tette...!"
+
+msgctxt "266||anri_04_06_chat01||chat_message"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "267||yua_04_06_chat01||chat_message"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "22||anri_01_01_chat01||failed_chat_message"
+msgid "Hello!"
+msgstr "Ciao!"
+
+msgctxt "23||anri_01_01_chat02||failed_chat_message"
+msgid "So gripping!"
+msgstr "Così avvincente!"
+
+msgctxt "24||anri_01_01_chat03||failed_chat_message"
+msgid "Yes!"
+msgstr "Sì!"
+
+msgctxt "26||anri_01_02_chat01||failed_chat_message"
+msgid "Sup sup"
+msgstr "Ehilà"
+
+msgctxt "27||anri_01_02_chat02||failed_chat_message"
+msgid "I'm a fan!"
+msgstr "Sono un fan!"
+
+msgctxt "28||anri_01_02_chat03||failed_chat_message"
+msgid "Go to the end!"
+msgstr "Vai fino in fondo!"
+
+msgctxt "30||anri_01_03_chat01||failed_chat_message"
+msgid "Yeah!"
+msgstr "Sì!"
+
+msgctxt "31||anri_01_03_chat02||failed_chat_message"
+msgid "Me too..."
+msgstr "Anch'io..."
+
+msgctxt "32||anri_01_03_chat03||failed_chat_message"
+msgid "Yesssssss"
+msgstr "Sììììììì"
+
+msgctxt "34||anri_02_01_chat01||failed_chat_message"
+msgid "What. Where where?"
+msgstr "Cosa. Dove, dove?"
+
+msgctxt "35||anri_02_01_chat02||failed_chat_message"
+msgid "Boobs, boobs!"
+msgstr "Tette, tette!"
+
+msgctxt "36||anri_02_01_chat03||failed_chat_message"
+msgid "Scooooooore!!"
+msgstr "Biiiingooo!!"
+
+msgctxt "40||anri_02_02_chat01||failed_chat_message"
+msgid "Are you an S? Are you a M!?"
+msgstr "Sei una S? O sei una M!?"
+
+msgctxt "41||anri_02_02_chat02||failed_chat_message"
+msgid "I hope for an S!"
+msgstr "Spero per una S!"
+
+msgctxt "42||anri_02_02_chat03||failed_chat_message"
+msgid "Thank you so much!"
+msgstr "Grazie mille!"
+
+msgctxt "43||anri_02_02_chat04||failed_chat_message"
+msgid "You are most definitely an S"
+msgstr "Sei quasi certamente una S"
+
+msgctxt "44||anri_02_03_chat01||failed_chat_message"
+msgid "Yeah"
+msgstr "Sì"
+
+msgctxt "45||anri_02_03_chat02||failed_chat_message"
+msgid "I want Anri-chan!"
+msgstr "Voglio Anri-chan!"
+
+msgctxt "46||anri_02_03_chat03||failed_chat_message"
+msgid "So sexy."
+msgstr "Così sexy."
+
+msgctxt "50||anri_02_04_chat01||failed_chat_message"
+msgid "Good do more!"
+msgstr "Bene dai, di più!"
+
+msgctxt "51||anri_02_04_chat02||failed_chat_message"
+msgid "It'll get cool if you take your clothes off!"
+msgstr "Si raffredderà l'aria se ti togli i vestiti!"
+
+msgctxt "52||anri_02_04_chat03||failed_chat_message"
+msgid "You'll definitely cool down if you take your clothes off!"
+msgstr "Ti rinfrescherai di sicuro se ti spogli!"
+
+msgctxt "53||anri_02_04_chat04||failed_chat_message"
+msgid "We can look forward to this right...?"
+msgstr "Possiamo aspettarcelo vero...?"
+
+msgctxt "54||anri_02_05_chat01||failed_chat_message"
+msgid "Definitely Anri-chan!"
+msgstr "Sicuramente Anri-chan!"
+
+msgctxt "55||anri_02_05_chat02||failed_chat_message"
+msgid "What are Anri-chan's tastes?"
+msgstr "Quali sono i gusti di Anri-chan?"
+
+msgctxt "56||anri_02_05_chat03||failed_chat_message"
+msgid "Down there?"
+msgstr "Laggiù?"
+
+msgctxt "57||anri_02_05_chat04||failed_chat_message"
+msgid "Fooooo"
+msgstr "Fooooo"
+
+msgctxt "58||anri_02_06_chat01||failed_chat_message"
+msgid "Yes!"
+msgstr "Sì!"
+
+msgctxt "59||anri_02_06_chat02||failed_chat_message"
+msgid "Looking so forward to this!"
+msgstr "Non vedo l'ora!"
+
+msgctxt "60||anri_02_06_chat03||failed_chat_message"
+msgid "Oh"
+msgstr "Oh"
+
+msgctxt "61||anri_02_06_chat04||failed_chat_message"
+msgid "Ohhh"
+msgstr "Ohhh"
+
+msgctxt "70||anri_03_01_chat01||failed_chat_message"
+msgid "So irresistible!"
+msgstr "Così irresistibile!"
+
+msgctxt "71||anri_03_01_chat02||failed_chat_message"
+msgid "It's swelling!"
+msgstr "Si sta gonfiando!"
+
+msgctxt "72||anri_03_01_chat03||failed_chat_message"
+msgid "The desire!"
+msgstr "Il desiderio!"
+
+msgctxt "73||anri_03_01_chat04||failed_chat_message"
+msgid "I'll show it!"
+msgstr "Lo mostrerò!"
+
+msgctxt "74||anri_03_02_chat01||failed_chat_message"
+msgid "Marvelous..."
+msgstr "Meraviglioso..."
+
+msgctxt "75||anri_03_02_chat02||failed_chat_message"
+msgid "It's a once in a century level"
+msgstr "È roba che si vede una volta in un secolo"
+
+msgctxt "76||anri_03_02_chat03||failed_chat_message"
+msgid "YES!"
+msgstr "SÌ!"
+
+msgctxt "77||anri_03_02_chat04||failed_chat_message"
+msgid "YES! YES!"
+msgstr "SÌ! SÌ!"
+
+msgctxt "78||anri_03_03_chat01||failed_chat_message"
+msgid "Please take your clothes off!"
+msgstr "Ti prego, togliti i vestiti!"
+
+msgctxt "79||anri_03_03_chat02||failed_chat_message"
+msgid "Please!"
+msgstr "Ti prego!"
+
+msgctxt "80||anri_03_03_chat03||failed_chat_message"
+msgid "What I'm going to do."
+msgstr "Cosa ho intenzione di fare."
+
+msgctxt "81||anri_03_03_chat04||failed_chat_message"
+msgid "Want me to show it to you?"
+msgstr "Vuoi che te lo mostri?"
+
+msgctxt "82||anri_03_04_chat01||failed_chat_message"
+msgid "Your legs!"
+msgstr "Le tue gambe!"
+
+msgctxt "83||anri_03_04_chat02||failed_chat_message"
+msgid "I wanna see it!"
+msgstr "Voglio vederlo!"
+
+msgctxt "84||anri_03_04_chat03||failed_chat_message"
+msgid "I wanna see it so much!"
+msgstr "Voglio vederlo così tanto!"
+
+msgctxt "85||anri_03_04_chat04||failed_chat_message"
+msgid "Woah"
+msgstr "Woah"
+
+msgctxt "86||anri_03_05_chat01||failed_chat_message"
+msgid "It's a china outfit!"
+msgstr "È un completo cinese!"
+
+msgctxt "87||anri_03_05_chat02||failed_chat_message"
+msgid "You're sexy!"
+msgstr "Sei sexy!"
+
+msgctxt "88||anri_03_05_chat03||failed_chat_message"
+msgid "So hot."
+msgstr "Che figa."
+
+msgctxt "89||anri_03_05_chat04||failed_chat_message"
+msgid "You should take it off since it doesn't look good on you."
+msgstr "Dovresti togliertelo visto che non ti sta bene."
+
+msgctxt "90||anri_03_06_chat01||failed_chat_message"
+msgid "I was waiting for it."
+msgstr "Lo stavo aspettando."
+
+msgctxt "91||anri_03_06_chat02||failed_chat_message"
+msgid "Ogling"
+msgstr "Guarda che roba"
+
+msgctxt "92||anri_03_06_chat03||failed_chat_message"
+msgid "Fooo..."
+msgstr "Fooo..."
+
+msgctxt "93||anri_03_06_chat04||failed_chat_message"
+msgid "Outrageous, truly outrageous."
+msgstr "Assurdo, davvero assurdo."
+
+msgctxt "94||anri_04_01_chat01||failed_chat_message"
+msgid "I want to do it too!"
+msgstr "Voglio farlo anche io!"
+
+msgctxt "95||anri_04_01_chat02||failed_chat_message"
+msgid "Grope grope"
+msgstr "Palpa palpa"
+
+msgctxt "96||anri_04_01_chat03||failed_chat_message"
+msgid "Does it feel nice?"
+msgstr "Ti piace?"
+
+msgctxt "97||anri_04_01_chat04||failed_chat_message"
+msgid "Squeeze!"
+msgstr "Strizz!"
+
+msgctxt "98||anri_04_02_chat01||failed_chat_message"
+msgid "You're so great."
+msgstr "Sei fantastica."
+
+msgctxt "99||anri_04_02_chat02||failed_chat_message"
+msgid "Love love love you so much!"
+msgstr "Ti amo amo amo troppo!"
+
+msgctxt "100||anri_04_02_chat03||failed_chat_message"
+msgid "Anri-chan"
+msgstr "Anri-chan"
+
+msgctxt "101||anri_04_02_chat04||failed_chat_message"
+msgid "I want you to show me."
+msgstr "Voglio che me lo mostri."
+
+msgctxt "102||anri_04_03_chat01||failed_chat_message"
+msgid "So beautiful."
+msgstr "Così bella."
+
+msgctxt "103||anri_04_03_chat02||failed_chat_message"
+msgid "I want to touch every inch of you."
+msgstr "Voglio toccare ogni centimetro di te."
+
+msgctxt "104||anri_04_03_chat03||failed_chat_message"
+msgid "Can I? Can I?"
+msgstr "Posso? Posso?"
+
+msgctxt "106||anri_04_04_chat01||failed_chat_message"
+msgid "Me too."
+msgstr "Anche io."
+
+msgctxt "107||anri_04_04_chat02||failed_chat_message"
+msgid "I'll handle it!"
+msgstr "Ci penso io!"
+
+msgctxt "108||anri_04_04_chat03||failed_chat_message"
+msgid "Just the two of us."
+msgstr "Solo noi due."
+
+msgctxt "109||anri_04_04_chat04||failed_chat_message"
+msgid "It's gonna be amazing."
+msgstr "Sarà fantastico."
+
+msgctxt "110||anri_04_05_chat01||failed_chat_message"
+msgid "Next time too."
+msgstr "Anche la prossima volta."
+
+msgctxt "124||anri_02_06_chat05||failed_chat_message"
+msgid "Woaaaah!"
+msgstr "Woaaaah!"
+
+msgctxt "125||anri_02_06_chat06||failed_chat_message"
+msgid "Akaljsdfkas"
+msgstr "Akaljsdfkas"
+
+msgctxt "126||anri_02_06_chat07||failed_chat_message"
+msgid "So beautiful."
+msgstr "Così bella."
+
+msgctxt "127||anri_03_04_chat05||failed_chat_message"
+msgid "Woaaaah"
+msgstr "Woaaaah"
+
+msgctxt "128||anri_03_04_chat06||failed_chat_message"
+msgid "Uhahaaa"
+msgstr "Uhahaaa"
+
+msgctxt "129||anri_03_04_chat07||failed_chat_message"
+msgid "I wanna see more."
+msgstr "Voglio vedere di più."
+
+msgctxt "132||anri_03_05_chat05||failed_chat_message"
+msgid "Hurry... Take it off right now..."
+msgstr "Sbrigati... Toglitelo subito..."
+
+msgctxt "133||anri_03_06_chat05||failed_chat_message"
+msgid "More more!"
+msgstr "Ancora ancora!"
+
+msgctxt "135||anri_04_01_chat05||failed_chat_message"
+msgid "So soft..."
+msgstr "Così morbida..."
+
+msgctxt "136||anri_04_04_chat05||failed_chat_message"
+msgid "It really is going to be amazing."
+msgstr "Sarà davvero fantastico."
+
+msgctxt "140||yua_01_01_chat01||failed_chat_message"
+msgid "That's right."
+msgstr "Proprio così."
+
+msgctxt "141||yua_01_01_chat02||failed_chat_message"
+msgid "How are you gonna do that?"
+msgstr "Come hai intenzione di farlo?"
+
+msgctxt "142||yua_01_01_chat03||failed_chat_message"
+msgid "Try super hard!"
+msgstr "Impegnati al massimo!"
+
+msgctxt "143||yua_01_02_chat01||failed_chat_message"
+msgid "I wanted to see you!"
+msgstr "Volevo vederti!"
+
+msgctxt "144||yua_01_02_chat02||failed_chat_message"
+msgid "Let's enjoy ourselves."
+msgstr "Divertiamoci."
+
+msgctxt "145||yua_01_02_chat03||failed_chat_message"
+msgid "If you want!"
+msgstr "Se ti va!"
+
+msgctxt "146||yua_01_03_chat01||failed_chat_message"
+msgid "I'm backkk!"
+msgstr "Sono tornatooo!"
+
+msgctxt "147||yua_01_03_chat02||failed_chat_message"
+msgid "Don't flatter me!"
+msgstr "Non adularmi!"
+
+msgctxt "148||yua_01_03_chat03||failed_chat_message"
+msgid "I'm so happy..."
+msgstr "Sono così felice..."
+
+msgctxt "149||yua_01_03_chat04||failed_chat_message"
+msgid "I can do that! <symbol=heart_with_outline>"
+msgstr "Posso farlo! <symbol=heart_with_outline>"
+
+msgctxt "151||yua_02_01_chat01||failed_chat_message"
+msgid "Don't think too much!"
+msgstr "Non pensarci troppo!"
+
+msgctxt "152||yua_02_01_chat02||failed_chat_message"
+msgid "Give us a smile : )"
+msgstr "Regalaci un sorriso : )"
+
+msgctxt "153||yua_02_01_chat03||failed_chat_message"
+msgid "Beautiful <symbol=heart_with_outline>"
+msgstr "Bellissima <symbol=heart_with_outline>"
+
+msgctxt "154||yua_02_01_chat04||failed_chat_message"
+msgid "I want a kiss!"
+msgstr "Voglio un bacio!"
+
+msgctxt "155||yua_02_01_chat05||failed_chat_message"
+msgid "Woooo!"
+msgstr "Woooo!"
+
+msgctxt "156||yua_02_02_chat01||failed_chat_message"
+msgid "Do you have a boyfriend?"
+msgstr "Hai un fidanzato?"
+
+msgctxt "157||yua_02_02_chat02||failed_chat_message"
+msgid "What's your type?"
+msgstr "Qual è il tuo tipo?"
+
+msgctxt "158||yua_02_02_chat03||failed_chat_message"
+msgid "Show me Yua moves!"
+msgstr "Mostrami le mosse di Yua!"
+
+msgctxt "159||yua_02_02_chat04||failed_chat_message"
+msgid "Will you go on a date with me?"
+msgstr "Usciresti con me?"
+
+msgctxt "160||yua_02_03_chat01||failed_chat_message"
+msgid "Let's talk about some sexy stuff."
+msgstr "Parliamo di cose sexy."
+
+msgctxt "161||yua_02_03_chat02||failed_chat_message"
+msgid "Are you an S? Or maybe an M!?"
+msgstr "Sei una S? O forse una M!?"
+
+msgctxt "162||yua_02_03_chat03||failed_chat_message"
+msgid "M!!!"
+msgstr "M!!!"
+
+msgctxt "163||yua_02_03_chat04||failed_chat_message"
+msgid "YESSS!"
+msgstr "SÌÌÌÌ!"
+
+msgctxt "164||yua_02_03_chat05||failed_chat_message"
+msgid "I'll dominate you."
+msgstr "Ti dominerò."
+
+msgctxt "165||yua_02_04_chat01||failed_chat_message"
+msgid "I love AC."
+msgstr "Adoro l'aria condizionata."
+
+msgctxt "166||yua_02_04_chat02||failed_chat_message"
+msgid "Take your clothes off!"
+msgstr "Togliti i vestiti!"
+
+msgctxt "167||yua_02_04_chat03||failed_chat_message"
+msgid "It'll feel good, I promise!"
+msgstr "Sarà bello, te lo prometto!"
+
+msgctxt "168||yua_02_04_chat04||failed_chat_message"
+msgid "I wanna seeee!"
+msgstr "Voglio vedereee!"
+
+msgctxt "169||yua_02_04_chat05||failed_chat_message"
+msgid "Please do!"
+msgstr "Ti prego, fallo!"
+
+msgctxt "170||yua_02_05_chat01||failed_chat_message"
+msgid "Uh, you."
+msgstr "Uh, tu."
+
+msgctxt "171||yua_02_05_chat02||failed_chat_message"
+msgid "I wonder what your type is."
+msgstr "Mi chiedo quale sia il tuo tipo."
+
+msgctxt "172||yua_02_05_chat03||failed_chat_message"
+msgid "You mean... Down there?"
+msgstr "Intendi... Laggiù?"
+
+msgctxt "173||yua_02_05_chat04||failed_chat_message"
+msgid "So you don't want that to be firm?"
+msgstr "Quindi non vuoi che sia sodo?"
+
+msgctxt "174||yua_02_05_chat05||failed_chat_message"
+msgid "Let me show you mine..."
+msgstr "Lascia che ti mostri il mio..."
+
+msgctxt "177||yua_02_06_chat01||failed_chat_message"
+msgid "Why don't you take your clothes off?"
+msgstr "Perché non ti togli i vestiti?"
+
+msgctxt "178||yua_02_06_chat02||failed_chat_message"
+msgid "Right, just a bit!"
+msgstr "Giusto, solo un po'!"
+
+msgctxt "179||yua_02_06_chat03||failed_chat_message"
+msgid "So pumped..."
+msgstr "Così carico..."
+
+msgctxt "180||yua_02_06_chat04||failed_chat_message"
+msgid "Looking good, Yua-chan!"
+msgstr "Stai benissimo, Yua-chan!"
+
+msgctxt "181||yua_02_06_chat05||failed_chat_message"
+msgid "Bravo!"
+msgstr "Bravo!"
+
+msgctxt "183||yua_03_01_chat01||failed_chat_message"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "184||yua_03_01_chat02||failed_chat_message"
+msgid "I'm growing!"
+msgstr "Sto crescendo!"
+
+msgctxt "185||yua_03_01_chat03||failed_chat_message"
+msgid "My love! And something else too!"
+msgstr "Amore mio! E anche qualcos'altro!"
+
+msgctxt "186||yua_03_01_chat04||failed_chat_message"
+msgid "You can do it!"
+msgstr "Puoi farcela!"
+
+msgctxt "187||yua_03_02_chat01||failed_chat_message"
+msgid "Good stuff!"
+msgstr "Ottimo!"
+
+msgctxt "188||yua_03_02_chat02||failed_chat_message"
+msgid "Be more confident!"
+msgstr "Sii più sicura di te!"
+
+msgctxt "189||yua_03_02_chat03||failed_chat_message"
+msgid "Get right up on the screen!"
+msgstr "Avvicinati allo schermo!"
+
+msgctxt "190||yua_03_02_chat04||failed_chat_message"
+msgid "Oooooh...!"
+msgstr "Oooooh...!"
+
+msgctxt "191||yua_03_02_chat05||failed_chat_message"
+msgid "So good..."
+msgstr "Così bello..."
+
+msgctxt "192||yua_03_03_chat01||failed_chat_message"
+msgid "Take some more off?"
+msgstr "Togliti qualcos'altro?"
+
+msgctxt "193||yua_03_03_chat02||failed_chat_message"
+msgid "Just a bit more!"
+msgstr "Solo un po' di più!"
+
+msgctxt "194||yua_03_03_chat03||failed_chat_message"
+msgid "Hmmm..."
+msgstr "Hmmm..."
+
+msgctxt "195||yua_03_03_chat04||failed_chat_message"
+msgid "You wanna take a look?"
+msgstr "Vuoi dare un'occhiata?"
+
+msgctxt "196||yua_03_04_chat01||failed_chat_message"
+msgid "Legs! Show us your legs!"
+msgstr "Gambe! Mostraci le gambe!"
+
+msgctxt "197||yua_03_04_chat02||failed_chat_message"
+msgid "C'monnnn!"
+msgstr "Daaaai!"
+
+msgctxt "198||yua_03_04_chat03||failed_chat_message"
+msgid "Ooooh!"
+msgstr "Ooooh!"
+
+msgctxt "199||yua_03_04_chat04||failed_chat_message"
+msgid "Whoa..."
+msgstr "Whoa..."
+
+msgctxt "200||yua_03_04_chat05||failed_chat_message"
+msgid "Yup."
+msgstr "Sì."
+
+msgctxt "201||yua_03_05_chat01||failed_chat_message"
+msgid "An apple a day keeps Yua's clothes away."
+msgstr "Una mela al giorno toglie i vestiti di Yua di torno."
+
+msgctxt "202||yua_03_05_chat02||failed_chat_message"
+msgid "Take care of me..."
+msgstr "Prenditi cura di me..."
+
+msgctxt "203||yua_03_05_chat03||failed_chat_message"
+msgid "I wanna do it to you!"
+msgstr "Voglio farlo a te!"
+
+msgctxt "204||yua_03_05_chat04||failed_chat_message"
+msgid "A huge needle!"
+msgstr "Un ago enorme!"
+
+msgctxt "205||yua_03_05_chat05||failed_chat_message"
+msgid "I'll go easy on you."
+msgstr "Ci andrò piano con te."
+
+msgctxt "207||yua_03_06_chat01||failed_chat_message"
+msgid "You're super hot."
+msgstr "Sei super hot."
+
+msgctxt "208||yua_03_06_chat02||failed_chat_message"
+msgid "Okay!"
+msgstr "Okay!"
+
+msgctxt "209||yua_03_06_chat03||failed_chat_message"
+msgid "Wow!"
+msgstr "Wow!"
+
+msgctxt "210||yua_03_06_chat04||failed_chat_message"
+msgid "You're amazing!"
+msgstr "Sei incredibile!"
+
+msgctxt "211||yua_03_06_chat05||failed_chat_message"
+msgid "Pinch me, I'm dreaming!"
+msgstr "Pizzicatemi, sto sognando!"
+
+msgctxt "212||yua_03_06_chat06||failed_chat_message"
+msgid "Mhm!"
+msgstr "Mhm!"
+
+msgctxt "213||yua_04_01_chat01||failed_chat_message"
+msgid "Leave it to me!"
+msgstr "Lascia fare a me!"
+
+msgctxt "214||yua_04_01_chat02||failed_chat_message"
+msgid "Squeeze squeeze..."
+msgstr "Strizza strizza..."
+
+msgctxt "215||yua_04_01_chat03||failed_chat_message"
+msgid "Whaddya think?"
+msgstr "Che ne pensi?"
+
+msgctxt "216||yua_04_01_chat04||failed_chat_message"
+msgid "Here we gooo!"
+msgstr "Si vaaa!"
+
+msgctxt "218||yua_04_02_chat01||failed_chat_message"
+msgid "You're so cute..."
+msgstr "Sei così carina..."
+
+msgctxt "219||yua_04_02_chat02||failed_chat_message"
+msgid "I love you!"
+msgstr "Ti amo!"
+
+msgctxt "220||yua_04_02_chat03||failed_chat_message"
+msgid "I wanna see everything."
+msgstr "Voglio vedere tutto."
+
+msgctxt "221||yua_04_02_chat04||failed_chat_message"
+msgid "Show us your body."
+msgstr "Mostraci il tuo corpo."
+
+msgctxt "222||yua_04_03_chat01||failed_chat_message"
+msgid "I want to touch you so bad."
+msgstr "Voglio toccarti così tanto."
+
+msgctxt "223||yua_04_03_chat02||failed_chat_message"
+msgid "Just a little touch."
+msgstr "Solo un piccolo tocco."
+
+msgctxt "224||yua_04_03_chat03||failed_chat_message"
+msgid "That's fine by me!"
+msgstr "Per me va bene!"
+
+msgctxt "225||yua_04_03_chat04||failed_chat_message"
+msgid "I adore you, Yua-chan!"
+msgstr "Ti adoro, Yua-chan!"
+
+msgctxt "228||yua_04_04_chat01||failed_chat_message"
+msgid "Same!"
+msgstr "Idem!"
+
+msgctxt "229||yua_04_04_chat02||failed_chat_message"
+msgid "Want me to help?"
+msgstr "Vuoi una mano?"
+
+msgctxt "230||yua_04_04_chat03||failed_chat_message"
+msgid "I'll give you a private session."
+msgstr "Ti farò una sessione privata."
+
+msgctxt "231||yua_04_04_chat04||failed_chat_message"
+msgid "Who knows what'll happen then..."
+msgstr "Chissà cosa succederà dopo..."
+
+msgctxt "232||yua_04_04_chat05||failed_chat_message"
+msgid "What do you say?"
+msgstr "Che ne dici?"
+
+msgctxt "234||yua_04_05_chat01||failed_chat_message"
+msgid "I can't wait til next time."
+msgstr "Non vedo l'ora della prossima volta."
+
+msgctxt "241||anri_03_02_chat05||failed_chat_message"
+msgid "YEEEEEEEEEES!"
+msgstr "SÌÌÌÌÌÌÌÌÌÌ!"
+
+msgctxt "242||anri_03_02_chat06||failed_chat_message"
+msgid "Nn!"
+msgstr "Nn!"
+
+msgctxt "266||anri_04_06_chat01||failed_chat_message"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "267||yua_04_06_chat01||failed_chat_message"
+msgid "Yes please!"
+msgstr "Sì per favore!"

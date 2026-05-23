@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||telop"
+msgid "Upsy-daisy!"
+msgstr "Oplà!"
+
+msgctxt "1||||telop"
+msgid "You're okay, you're okay."
+msgstr "Va tutto bene, va tutto bene."
+
+msgctxt "2||||telop"
+msgid "Who wants a swing?"
+msgstr "Chi vuole dondolare?"
+
+msgctxt "3||||telop"
+msgid "Okay, up we go!"
+msgstr "Ok, andiamo su!"
+
+msgctxt "4||||telop"
+msgid "(Does he want me to lift him?)"
+msgstr "(Vuole che lo sollevi?)"
+
+msgctxt "5||||telop"
+msgid "(I think he wants me to swing him...)"
+msgstr "(Credo voglia essere dondolato...)"
+
+msgctxt "6||||telop"
+msgid "(I think he wants the upsy-daisy trick...)"
+msgstr "(Credo voglia fare oplà...)"
+
+msgctxt "7||||telop"
+msgid "(Looks like he wants rubs...)"
+msgstr "(Sembra che voglia i grattini...)"

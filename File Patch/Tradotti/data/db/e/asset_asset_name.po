@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "2||_e382a2e383b3e38397||arms_name"
+msgid "Amp"
+msgstr "Amplificatore"
+
+msgctxt "3||_e38186e38195e3818ee381aee381ace38184e38190e3828be381bf||arms_name"
+msgid "Bunny plush"
+msgstr "Peluche di coniglio"
+
+msgctxt "4||_e382a8e382b9e38397e383ace38383e382bde3839ee382b7e383b3||arms_name"
+msgid "Espresso maker"
+msgstr "Macchina per caffè espresso"
+
+msgctxt "5||_e3818ae38197e381bce3828ae382a6e382a9e383bce3839ee383bc||arms_name"
+msgid "Towel warmer"
+msgstr "Scaldasalviette"
+
+msgctxt "6||_e382ace382b9e382b3e383b3e383ad||arms_name"
+msgid "Gas stove"
+msgstr "Fornello a gas"
+
+msgctxt "7||_e382ace382b9e3839ce383b3e38399||arms_name"
+msgid "Gas canister"
+msgstr "Bombola di gas"
+
+msgctxt "8||_e382abe38397e382bbe383abe38388e382a4||arms_name"
+msgid "Capsule toy machines"
+msgstr "Distributori di capsule"
+
+msgctxt "9||_e382abe383a9e383b3e38393e38383e38388e3838ae382a4e38395||arms_name"
+msgid "Karambit knife"
+msgstr "Coltello karambit"
+
+msgctxt "10||_e382afe38383e382b7e383a7e383b3e38389e383a9e383a0||arms_name"
+msgid "Crash cushion"
+msgstr "Attenuatore d'urto"
+
+msgctxt "11||_e3818fe381bee381aee381ace38184e38190e3828be381bf||arms_name"
+msgid "Teddy bear"
+msgstr "Orsacchiotto"
+
+msgctxt "12||_e382b3e383bce38392e383bce382b5e383bce38390e383bc||arms_name"
+msgid "Coffee pot"
+msgstr "Caffettiera"
+
+msgctxt "13||_e382b3e383bce38392e383bce383a1e383bce382abe383bc||arms_name"
+msgid "Coffee maker"
+msgstr "Macchina per il caffè"
+
+msgctxt "14||_e382b3e383bce383b3||arms_name"
+msgid "Traffic cone"
+msgstr "Cono stradale"
+
+msgctxt "15||_e382b4e3839fe7aeb1||arms_name"
+msgid "Trash can"
+msgstr "Cestino"
+
+msgctxt "16||_e382b3e383b3e382afe383aae383bce38388e38396e383ade38383e382af||arms_name"
+msgid "Concrete block"
+msgstr "Blocco di cemento"
+
+msgctxt "17||_e382b5e382a4e383b3e3839de383bce383ab||arms_name"
+msgid "Signpost"
+msgstr "Cartello stradale"
+
+msgctxt "18||_e382b5e38383e382abe383bce3839ce383bce383ab||arms_name"
+msgid "Soccer ball"
+msgstr "Pallone da calcio"
+
+msgctxt "19||_e382b5e38396e3839ee382b7e383b3e382ace383b3||arms_name"
+msgid "Submachine gun"
+msgstr "Mitra"
+
+msgctxt "20||_e382b7e382a7e382a4e382abe383bc||arms_name"
+msgid "Cocktail shaker"
+msgstr "Shaker"
+
+msgctxt "21||_e382b8e383a7e382a6e383ad||arms_name"
+msgid "Watering can"
+msgstr "Annaffiatoio"
+
+msgctxt "22||_e382b9e38384e383bce383ab||arms_name"
+msgid "Stool"
+msgstr "Sgabello"
+
+msgctxt "23||_e382b9e38394e383bce382abe383bc||arms_name"
+msgid "Speaker"
+msgstr "Altoparlante"
+
+msgctxt "24||_e382b9e3839de38383e38388e383a9e382a4e38388||arms_name"
+msgid "Spotlight"
+msgstr "Riflettore"
+
+msgctxt "25||_e382bde38395e382a1||arms_name"
+msgid "Loveseat"
+msgstr "Divanetto"
+
+msgctxt "26||_e382bde38395e382a1e383bc||arms_name"
+msgid "Sofa"
+msgstr "Divano"
+
+msgctxt "27||_e382bfe382a4e383a4||arms_name"
+msgid "Tire"
+msgstr "Pneumatico"
+
+msgctxt "28||_e38380e383b3e3839ce383bce383abe7aeb1||arms_name"
+msgid "Cardboard box"
+msgstr "Scatolone di cartone"
+
+msgctxt "29||_e38387e382a3e382b9e38397e383ace382a4e382afe383bce383a9e383bc||arms_name"
+msgid "Cooler"
+msgstr "Frigo portatile"
+
+msgctxt "30||_e38386e383bce38396e383ab||arms_name"
+msgid "Table"
+msgstr "Tavolo"
+
+msgctxt "31||_e38386e382b9e38388e98a83||arms_name"
+msgid "Model gun"
+msgstr "Riproduzione di pistola"
+
+msgctxt "32||_e38386e383ace38393||arms_name"
+msgid "TV"
+msgstr "TV"
+
+msgctxt "33||_e38389e382b9||arms_name"
+msgid "Dagger"
+msgstr "Pugnale"
+
+msgctxt "34||_e38389e383a9e383a0e7bcb6||arms_name"
+msgid "Steel drum"
+msgstr "Barile d'acciaio"
+
+msgctxt "35||_e38389e383aae383b3e382afe382b5e383bce38390e383bc||arms_name"
+msgid "Drink dispenser"
+msgstr "Distributore di bevande"
+
+msgctxt "36||_e3838ae382a4e38395||arms_name"
+msgid "Knife"
+msgstr "Coltello"
+
+msgctxt "37||_e38390e383bce383ab||arms_name"
+msgid "Crowbar"
+msgstr "Piede di porco"
+
+msgctxt "38||_e38390e382b9e382b1e38383e38388||arms_name"
+msgid "Basket"
+msgstr "Cesto"
+
+msgctxt "39||_e38391e382bde382b3e383b3||arms_name"
+msgid "Computer"
+msgstr "Computer"
+
+msgctxt "40||_e3838fe383b3e3839ee383bc||arms_name"
+msgid "Hammer"
+msgstr "Martello"
+
+msgctxt "41||_e38393e383bce383abe6a8bd||arms_name"
+msgid "Beer keg"
+msgstr "Barile di birra"
+
+msgctxt "42||_e38393e383b3||arms_name"
+msgid "Bottle"
+msgstr "Bottiglia"
+
+msgctxt "43||_e38397e383a9e382b9e38381e38383e382afe382b1e383bce382b9||arms_name"
+msgid "Plastic case"
+msgstr "Cassa di plastica"
+
+msgctxt "44||_e38397e383ace383bce38388||arms_name"
+msgid "Plate"
+msgstr "Piatto"
+
+msgctxt "45||_e38395e383ade383bce38388||arms_name"
+msgid "Buoy"
+msgstr "Boa"
+
+msgctxt "46||_e3839ae38383e38388e3839ce38388e383ab||arms_name"
+msgid "Plastic bottle"
+msgstr "Bottiglia di plastica"
+
+msgctxt "47||_e38399e383b3e38381||arms_name"
+msgid "Bench"
+msgstr "Panchina"
+
+msgctxt "48||_e3839de38383e38388||arms_name"
+msgid "Pot"
+msgstr "Pentola"
+
+msgctxt "49||_e3839ee382b0e383a9e382a4e38388||arms_name"
+msgid "Flashlight"
+msgstr "Torcia"
+
+msgctxt "50||_e383a2e3838be382bfe383bc||arms_name"
+msgid "Monitor"
+msgstr "Monitor"
+
+msgctxt "51||_e383a9e383b3e38397||arms_name"
+msgid "Lamp"
+msgstr "Lampada"
+
+msgctxt "52||_e383a9e383b3e38397e382b9e382bfe383b3e38389||arms_name"
+msgid "Lamp stand"
+msgstr "Piantana"
+
+msgctxt "53||_e383ace382b3e383bce38389e38397e383ace382a4e383a4e383bc||arms_name"
+msgid "Record player"
+msgstr "Giradischi"
+
+msgctxt "54||_e383ade382b1e38383e38388e383a9e383b3e38381e383a3e383bc||arms_name"
+msgid "Rocket launcher"
+msgstr "Lanciarazzi"
+
+msgctxt "55||_e383afe382b4e383b3||arms_name"
+msgid "Wagon"
+msgstr "Carrello"
+
+msgctxt "56||_e6a485e5ad90||arms_name"
+msgid "Chair"
+msgstr "Sedia"
+
+msgctxt "57||_e58cbbe79982e6a99fe599a8||arms_name"
+msgid "Medical equipment"
+msgstr "Attrezzatura medica"
+
+msgctxt "58||_e4b880e69697e7bcb6||arms_name"
+msgid "18-liter can"
+msgstr "Tanica da 18 litri"
+
+msgctxt "59||_e5a38ae3828ce3819fe38393e383b3||arms_name"
+msgid "Broken bottle"
+msgstr "Bottiglia rotta"
+
+msgctxt "60||_e5a38ae3828ce3819fe38399e383b3e38381||arms_name"
+msgid "Broken bench"
+msgstr "Panchina rotta"
+
+msgctxt "61||_e781b0e79abf||arms_name"
+msgid "Ashtray"
+msgstr "Portacenere"
+
+msgctxt "62||_e589b2e3828ce3819fe38393e383b3||arms_name"
+msgid "Shattered bottle"
+msgstr "Bottiglia in frantumi"
+
+msgctxt "63||_e79c8be69dbf||arms_name"
+msgid "Sign"
+msgstr "Insegna"
+
+msgctxt "64||_e7bcb6||arms_name"
+msgid "Can"
+msgstr "Lattina"
+
+msgctxt "65||_e8a6b3e89189e6a48de789a9||arms_name"
+msgid "Houseplant"
+msgstr "Pianta da appartamento"
+
+msgctxt "66||_e7899be58880||arms_name"
+msgid "Chef's knife"
+msgstr "Coltello da chef"
+
+msgctxt "67||_e5b7a8e5a4a7e382b3e383bce383b3||arms_name"
+msgid "Giant traffic cone"
+msgstr "Cono stradale gigante"
+
+msgctxt "68||_e98791e5b19ee38390e38383e38388||arms_name"
+msgid "Metal bat"
+msgstr "Mazza di metallo"
+
+msgctxt "69||_e98791e6a78c||arms_name"
+msgid "Hammer"
+msgstr "Martello"
+
+msgctxt "70||_e68bb3e98a83||arms_name"
+msgid "Pistol"
+msgstr "Pistola"
+
+msgctxt "71||_e5b7a5e4ba8be79c8be69dbf||arms_name"
+msgid "Construction sign"
+msgstr "Cartello di lavori in corso"
+
+msgctxt "72||_e7a1ace79083||arms_name"
+msgid "Baseball"
+msgstr "Palla da baseball"
+
+msgctxt "73||_e58298e7ab8be381a6||arms_name"
+msgid "Umbrella holder"
+msgstr "Portaombrelli"
+
+msgctxt "74||_e5ad90e4be9be382b7e383bce38388||arms_name"
+msgid "Child seat"
+msgstr "Seggiolino per bambini"
+
+msgctxt "75||_e4ba8be58b99e794a8e59381||arms_name"
+msgid "Office supplies"
+msgstr "Articoli da ufficio"
+
+msgctxt "76||_e887aae8bba2e8bb8a||arms_name"
+msgid "Bicycle"
+msgstr "Bicicletta"
+
+msgctxt "77||_e8bb8ae6a485e5ad90||arms_name"
+msgid "Wheelchair"
+msgstr "Sedia a rotelle"
+
+msgctxt "78||_e981aee696ade6a1bf||arms_name"
+msgid "Boom gate"
+msgstr "Sbarra di accesso"
+
+msgctxt "79||_e6898be6a6b4e5bcbe||arms_name"
+msgid "Hand grenade"
+msgstr "Granata"
+
+msgctxt "80||_e98592e6a8bd||arms_name"
+msgid "Cask"
+msgstr "Botte"
+
+msgctxt "81||_e9878de79fb3||arms_name"
+msgid "Sand weight"
+msgstr "Peso di sabbia"
+
+msgctxt "82||_e5b08fe789a9||arms_name"
+msgid "Small accessory"
+msgstr "Piccolo accessorio"
+
+msgctxt "83||_e69dbee89189e69d96||arms_name"
+msgid "Crutch"
+msgstr "Stampella"
+
+msgctxt "84||_e6b688e781abe599a8||arms_name"
+msgid "Fire extinguisher"
+msgstr "Estintore"
+
+msgctxt "85||_e7828ae9a3afe599a8||arms_name"
+msgid "Rice cooker"
+msgstr "Cuociriso"
+
+msgctxt "86||_e5afb8e883b4||arms_name"
+msgid "Large pot"
+msgstr "Pentolone"
+
+msgctxt "87||_e8a3bde6b0b7e6a99f||arms_name"
+msgid "Ice machine"
+msgstr "Macchina del ghiaccio"
+
+msgctxt "88||_e99d92e7ab9ce58880||arms_name"
+msgid "Crescent blade"
+msgstr "Lama a mezzaluna"
+
+msgctxt "89||_e8a296e69cba||arms_name"
+msgid "File cabinet"
+msgstr "Schedario"
+
+msgctxt "90||_e58fb0e8bb8a||arms_name"
+msgid "Hand cart"
+msgstr "Carrello a mano"
+
+msgctxt "91||_e6a39a||arms_name"
+msgid "Shelf"
+msgstr "Scaffale"
+
+msgctxt "92||_e4b8ade88fafe98d8b||arms_name"
+msgid "Wok"
+msgstr "Wok"
+
+msgctxt "93||_e4b8ade88fafe58c85e4b881||arms_name"
+msgid "Chinese cleaver"
+msgstr "Mannaia cinese"
+
+msgctxt "94||_e98984e38391e382a4e38397||arms_name"
+msgid "Iron pipe"
+msgstr "Tubo di ferro"
+
+msgctxt "95||_e98984e69dbf||arms_name"
+msgid "Steel plate"
+msgstr "Piastra d'acciaio"
+
+msgctxt "96||_e99bbbe6b097e3839de38383e38388||arms_name"
+msgid "Electric pot"
+msgstr "Bollitore elettrico"
+
+msgctxt "97||_e99bbbe5ad90e383ace383b3e382b8||arms_name"
+msgid "Microwave"
+msgstr "Microonde"
+
+msgctxt "98||_e88289e5a18a||arms_name"
+msgid "Meat"
+msgstr "Carne"
+
+msgctxt "99||_e697a5e69cace58880||arms_name"
+msgid "Katana"
+msgstr "Katana"
+
+msgctxt "100||_e799bae99bbbe6a99f||arms_name"
+msgid "Generator"
+msgstr "Generatore"
+
+msgctxt "101||_e6b0b7e38390e382b1e38384||arms_name"
+msgid "Ice bucket"
+msgstr "Secchiello del ghiaccio"
+
+msgctxt "102||_e9a2a8e59182e6a1b6||arms_name"
+msgid "Wooden bucket"
+msgstr "Secchio di legno"
+
+msgctxt "103||_e7b289e8a28b||arms_name"
+msgid "Powder bag"
+msgstr "Sacco di polvere"
+
+msgctxt "104||_e696b9e59091e68c87e7a4bae69dbf||arms_name"
+msgid "Arrow sign"
+msgstr "Cartello a freccia"
+
+msgctxt "105||_e69ca8e58880||arms_name"
+msgid "Wooden sword"
+msgstr "Spada di legno"
+
+msgctxt "106||_e8bcb8e6b6b2e3839de383b3e38397||arms_name"
+msgid "Infusion pump"
+msgstr "Pompa da infusione"
+
+msgctxt "107||_e8aa98e5b08ee6a392||arms_name"
+msgid "Traffic wand"
+msgstr "Paletta del traffico"
+
+msgctxt "108||_e5a3ba||arms_name"
+msgid "Vase"
+msgstr "Vaso"
+
+msgctxt "109||_e887aae692aee3828ae6a392||arms_name"
+msgid "Selfie stick"
+msgstr "Bastone per selfie"
+
+msgctxt "110||_e7aeb8||arms_name"
+msgid "Chopsticks"
+msgstr "Bacchette"
+
+msgctxt "111||_416d6f6e2044726f6e65||arms_name"
+msgid "Amon drone"
+msgstr "Drone di Amon"
+
+msgctxt "112||_e4ba9ce99680e68e83e999a4e383ade3839c||arms_name"
+msgid "Amon cleaning drone"
+msgstr "Drone per pulizie di Amon"
+
+msgctxt "113||_e382bde383bce382b8e383bce78886e5bcbe||arms_name"
+msgid "Soji bomb"
+msgstr "Bomba di Soji"
+

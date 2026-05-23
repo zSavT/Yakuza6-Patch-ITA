@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Ah, Kiryu-san!\r\nWe been waiting fer ya!"
+msgstr "Ah, Kiryu-san!\r\nTi stavamo aspettando!"
+
+msgctxt "1||||4"
+msgid "It's finally time to take on the Thunders' farm team."
+msgstr "È finalmente giunto il momento di affrontare la squadra riserve dei Thunders."
+
+msgctxt "2||||4"
+msgid "Ahhh, I'm gettin' nervous...!"
+msgstr "Ahhh, sto diventando nervoso...!"
+
+msgctxt "3||||4"
+msgid "Hey now.\r\nLet's not get nervous playing 'gainst a farm team."
+msgstr "Ehi, andiamo.\r\nNon innervosiamoci per una partita contro una squadra riserve."
+
+msgctxt "4||||4"
+msgid "Moritsuka... You're looking the part."
+msgstr "Moritsuka... Hai proprio il look adatto."
+
+msgctxt "5||||4"
+msgid "Yeah well... I think I'd look even\r\nsnappier in a major league uniform..."
+msgstr "Sì, beh... Credo che starei ancora\r\nmeglio con l'uniforme di una squadra della major league..."
+
+msgctxt "6||||4"
+msgid "But, I s'pose this suits me fer now."
+msgstr "Ma suppongo che questa mi si addica, per ora."
+
+msgctxt "7||||4"
+msgid "Show us what you got today, all right?"
+msgstr "Facci vedere di che pasta sei fatto oggi, d'accordo?"
+
+msgctxt "8||||4"
+msgid "Yeah, y'won't regret bringin' me aboard.\r\nSo... Let's crush 'em."
+msgstr "Già, non vi pentirete di avermi tirato a bordo.\r\nQuindi... distruggiamoli."
+
+msgctxt "9||||4"
+msgid "Well well, greetings, my Warriors friends."
+msgstr "Bene bene, saluti, amici dei Warriors."
+
+msgctxt "10||||4"
+msgid "Huh? Why're you here, Hamana?"
+msgstr "Eh? Perché sei qui, Hamana?"
+
+msgctxt "11||||4"
+msgid "Whoa, let's not get snotty, now.\r\nI cleared my calendar t'see this dog n' pony show."
+msgstr "Ehi, non facciamo gli arroganti, ora.\r\nHo liberato i miei impegni per vedere questo spettacoletto da quattro soldi."
+
+msgctxt "12||||4"
+msgid "I jus' wanted t'burn the look on yer faces\r\nwhen y'lose to my farm team into my mind."
+msgstr "Volevo solo imprimermi nella mente l'espressione sulle vostre facce\r\nquando perderete contro la mia squadra riserve."
+
+msgctxt "13||||4"
+msgid "Ha, always the jackass, Hamana."
+msgstr "Ah, sei sempre il solito stronzo, Hamana."
+
+msgctxt "14||||4"
+msgid "Funny hearin' that from a guy drunk\r\noutta his socks 'til yesterday."
+msgstr "Divertente sentirselo dire da un tizio che era\r\nubriaco fradicio fino a ieri."
+
+msgctxt "15||||4"
+msgid "You promised, we'll play the real Thunders\r\nonce we beat yer farm team today, right?"
+msgstr "Hai promesso che giocheremo contro i veri Thunders\r\nuna volta battuta la tua squadra riserve oggi, giusto?"
+
+msgctxt "16||||4"
+msgid "Yeah, I promised.\r\nBut, y'gotta beat 'em first."
+msgstr "Sì, l'ho promesso.\r\nMa prima dovete batterli."
+
+msgctxt "17||||4"
+msgid "Second string or not, they're still Thunders.\r\nAnd they don't lose to losers."
+msgstr "Seconde linee o meno, sono pur sempre Thunders.\r\nE non perdono contro dei falliti."
+
+msgctxt "18||||4"
+msgid "If y'think y'can beat em, shall we get goin'?"
+msgstr "Se pensate di poterli battere, vogliamo cominciare?"
+
+msgctxt "19||||4"
+msgid "More than happy to!"
+msgstr "Saremo più che felici di farlo!"
+
+msgctxt "20||||4"
+msgid "I'll be watchin' the show from\r\nthe dugout. Best o' luck to ya."
+msgstr "Mi guarderò lo spettacolo dalla\r\npanchina. Buona fortuna a voi."
+
+msgctxt "21||||4"
+msgid "We can't lose this one...!"
+msgstr "Non possiamo perdere questa partita...!"
+
+msgctxt "22||||4"
+msgid "Yeah... Let's humiliate 'em."
+msgstr "Sì... Umiliamoli."
+
+msgctxt "23||||4"
+msgid "Kiryu-san, when yer ready,\r\njust come lemme know."
+msgstr "Kiryu-san, quando sei pronto,\r\nvieni a farmelo sapere."
+
+msgctxt "24||||4"
+msgid "Let's figure out the batting lineup and\r\nfield positions, then start the game!"
+msgstr "Scegliamo l'ordine di battuta e le posizioni\r\nin campo, poi iniziamo la partita!"
+
+msgctxt "25||||4"
+msgid "Got it."
+msgstr "Ricevuto."
+
+msgctxt "26||||4"
+msgid "Kiryu-san! Let's win this one!"
+msgstr "Kiryu-san! Vinciamo questa partita!"
+
+msgctxt "27||||4"
+msgid "W-We lost..."
+msgstr "A-abbiamo perso..."
+
+msgctxt "28||||4"
+msgid "Really? You guys lost?\r\nWhat happened t'all that trash talk earlier, hm?"
+msgstr "Davvero? Avete perso?\r\nChe fine ha fatto tutta quella spavalderia di prima, eh?"
+
+msgctxt "30||||4"
+msgid "Damn, guys. I didn't think a team\r\ncould even be this bad!"
+msgstr "Cavolo, ragazzi. Non pensavo che una squadra\r\npotesse fare così pena!"
+
+msgctxt "31||||4"
+msgid "Well, the farm team'll be here if y'ever\r\nwant a rematch! Try as many times as y'want!"
+msgstr "Beh, la squadra riserve sarà qui se mai vorrete\r\nuna rivincita! Provateci tutte le volte che volete!"
+
+msgctxt "32||||4"
+msgid "Maybe you'll even be a little less pathetic\r\nnext time..."
+msgstr "Forse sarete un po' meno patetici\r\nla prossima volta..."
+
+msgctxt "34||||4"
+msgid "Kiryu-san... Let's train and gather more players...\r\nThen we can try again."
+msgstr "Kiryu-san... Alleniamoci e reclutiamo altri giocatori...\r\nPoi potremo riprovarci."
+
+msgctxt "35||||4"
+msgid "I won't let it end like this!"
+msgstr "Non lascerò che finisca così!"
+
+msgctxt "36||||4"
+msgid "Yeah, you're right."
+msgstr "Sì, hai ragione."
+
+msgctxt "37||||4"
+msgid "We did it!"
+msgstr "Ce l'abbiamo fatta!"
+
+msgctxt "38||||4"
+msgid "Yeaaaahhh!"
+msgstr "Sììììì!"
+
+msgctxt "39||||4"
+msgid "Hell yeah!"
+msgstr "Oh, cacchio sì!"
+
+msgctxt "40||||4"
+msgid "All right!"
+msgstr "Evvai!"
+
+msgctxt "41||||4"
+msgid "Kiryu-san, we did it!\r\nOur first victory as the reborn Warriors!"
+msgstr "Kiryu-san, ce l'abbiamo fatta!\r\nLa nostra prima vittoria come i nuovi Warriors!"
+
+msgctxt "42||||4"
+msgid "Yeah, we did it."
+msgstr "Sì, ce l'abbiamo fatta."
+
+msgctxt "43||||4"
+msgid "Aw yeah!\r\nI'm crackin' open a cold one tonight!"
+msgstr "Oh sì!\r\nMi stapperò una birra ghiacciata stasera!"
+
+msgctxt "44||||4"
+msgid "Amazing... I forgot what it was like t'win...\r\nI guess we're capable if we put in the work."
+msgstr "Incredibile... Avevo dimenticato cosa si provasse a vincere...\r\nImmagino che ne siamo capaci, se ci impegniamo."
+
+msgctxt "45||||4"
+msgid "Thank you, Kiryu-san...\r\nWe owe a lot of this win to you!"
+msgstr "Grazie, Kiryu-san...\r\nDobbiamo gran parte di questa vittoria a te!"
+
+msgctxt "46||||4"
+msgid "Baseball is a team sport.\r\nIt wasn't just me. We won together, right?"
+msgstr "Il baseball è uno sport di squadra.\r\nNon sono stato solo io. Abbiamo vinto insieme, no?"
+
+msgctxt "47||||4"
+msgid "Kiryu-san...! Yes!\r\nWe're all winners today!"
+msgstr "Kiryu-san...! Sì!\r\nSiamo tutti vincitori oggi!"
+
+msgctxt "48||||4"
+msgid "Dipshits!\r\nHow'd ya'll lose to a team this pathetic!?"
+msgstr "Pezzi di idioti!\r\nCome avete fatto a perdere contro una squadra così patetica!?"
+
+msgctxt "49||||4"
+msgid "W-We're sorry...!"
+msgstr "C-ci dispiace...!"
+
+msgctxt "50||||4"
+msgid "Screw it! Y'boys owe me some laps!\r\nGet a move on, right now!"
+msgstr "Al diavolo! Voi ragazzi mi dovete qualche giro di campo!\r\nMuovetevi, subito!"
+
+msgctxt "52||||4"
+msgid "Not too shabby... Setouchi Warriors...!"
+msgstr "Niente male... Setouchi Warriors...!"
+
+msgctxt "53||||4"
+msgid "Don't forget your promise.\r\nThe next game is against the real Thunders!"
+msgstr "Non dimenticarti della promessa.\r\nLa prossima partita è contro i veri Thunders!"
+
+msgctxt "54||||4"
+msgid "That's fine.\r\nMaybe you'll make a nice warm-up fer us."
+msgstr "Va bene.\r\nForse sarete un bel riscaldamento per noi."
+
+msgctxt "55||||4"
+msgid "Still... Don't expect us t'go down like\r\nthese second string rejects."
+msgstr "Tuttavia... non aspettatevi che cadiamo come\r\nquesti scarti delle seconde linee."
+
+msgctxt "56||||4"
+msgid "Thunder... always brings the noise."
+msgstr "Il Tuono... fa sempre un gran rumore."
+
+msgctxt "57||||4"
+msgid "Kiryu-san... He's right, the second string\r\nThunders don't hold a candle to the main team."
+msgstr "Kiryu-san... Ha ragione, le riserve dei\r\nThunders non reggono il confronto con la squadra titolare."
+
+msgctxt "58||||4"
+msgid "We should gather more players, train 'em up,\r\nand get in some practice games before that."
+msgstr "Dovremmo reclutare più giocatori, allenarli,\r\ne fare qualche partita di pratica prima di allora."
+
+msgctxt "59||||4"
+msgid "Yeah, let's do it."
+msgstr "Sì, facciamolo."
+
+msgctxt "60||||4"
+msgid "Hey! Chiba-san! Kiryu-san!"
+msgstr "Ehi! Chiba-san! Kiryu-san!"
+
+msgctxt "61||||4"
+msgid "Hm?"
+msgstr "Uhm?"
+
+msgctxt "62||||4"
+msgid "Since we got our first victory...\r\nWe gotta celebrate with some drinks!"
+msgstr "Dato che abbiamo ottenuto la nostra prima vittoria...\r\nDobbiamo festeggiare con qualche drink!"
+
+msgctxt "63||||4"
+msgid "Get a move on! I'm feelin' great,\r\nso it's my treat tonight!"
+msgstr "Forza, muoviamoci! Mi sento alla grande,\r\nquindi stasera offro io!"
+
+msgctxt "64||||4"
+msgid "Damn, that's mighty generous!"
+msgstr "Caspita, è davvero generoso da parte tua!"
+
+msgctxt "65||||4"
+msgid "But the next match'll be tough...\r\nWe can't go drinkin'... Right?"
+msgstr "Ma la prossima partita sarà dura...\r\nNon possiamo andare a bere... Giusto?"
+
+msgctxt "66||||4"
+msgid "Nah, let them celebrate, Chiba.\r\nIt's important to remember the taste of victory."
+msgstr "Nah, lasciali festeggiare, Chiba.\r\nÈ importante ricordare il sapore della vittoria."
+
+msgctxt "67||||4"
+msgid "I-Is that so?\r\nYeah, I guess you're right!"
+msgstr "D-dici davvero?\r\nSì, suppongo tu abbia ragione!"
+
+msgctxt "68||||4"
+msgid "We'll be there soon!\r\nKiryu-san, let's go!"
+msgstr "Arriviamo subito!\r\nKiryu-san, andiamo!"
+
+msgctxt "69||||4"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "70||||4"
+msgid "All right, let's keep up the momentum!"
+msgstr "Molto bene, non perdiamo lo slancio!"
+
+msgctxt "71||||4"
+msgid "That was a riot.\r\nThe team's gettin' fired up."
+msgstr "(È stato uno spasso.\r\nLa squadra si sta caricando.)"
+
+msgctxt "72||||4"
+msgid "Whoa, one too many fer me.\r\nBut tomorrow we hit the field hard!"
+msgstr "Uao, uno di troppo per me.\r\nMa domani daremo il massimo in campo!"
+
+msgctxt "73||||4"
+msgid "We do gotta practice!\r\nI wanna keep winnin'!"
+msgstr "Dobbiamo proprio allenarci!\r\nVoglio continuare a vincere!"
+
+msgctxt "74||||4"
+msgid "All right, I'm gonna take off."
+msgstr "D'accordo, io vado."
+
+msgctxt "75||||4"
+msgid "No prob, Kiryu-san!\r\nThanks for everything!"
+msgstr "Nessun problema, Kiryu-san!\r\nGrazie di tutto!"
+
+msgctxt "76||||4"
+msgid "Our next opponent is the Thunders proper...\r\nThey talk so much trash, I wanna beat 'em!"
+msgstr "I nostri prossimi avversari sono i veri Thunders...\r\nParlano così tanto a vanvera, voglio proprio batterli!"
+
+msgctxt "77||||4"
+msgid "I'll do everything in my power...\r\nSo stay with us a while, Kiryu-san."
+msgstr "Farò tutto ciò che è in mio potere...\r\nQuindi resta con noi ancora un po', Kiryu-san."
+
+msgctxt "78||||4"
+msgid "Yeah, of course."
+msgstr "Sì, certo."
+
+msgctxt "79||||4"
+msgid "Nice! I'll see ya on the field then,\r\nKiryu-san! Later!"
+msgstr "Fantastico! Ci vediamo in campo allora,\r\nKiryu-san! A dopo!"
+
+msgctxt "80||||4"
+msgid "Heh, Chiba sounds like he's\r\nfloating on air now..."
+msgstr "(Heh, sembra che Chiba stia\r\ncamminando a tre metri da terra ora...)"
+
+msgctxt "81||||4"
+msgid "Victory drinks tasted great tonight...\r\nWhen we beat that punk, they'll be even better."
+msgstr "(I drink della vittoria avevano un sapore fantastico stasera...\r\nQuando batteremo quel teppistello, saranno ancora meglio.)"

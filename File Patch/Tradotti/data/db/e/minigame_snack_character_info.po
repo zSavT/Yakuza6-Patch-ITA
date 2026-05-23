@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||mama||name"
+msgid "Mama"
+msgstr "Mama"
+
+msgctxt "2||guest_a||name"
+msgid "Hatakeyama-san"
+msgstr "Hatakeyama-san"
+
+msgctxt "3||guest_b||name"
+msgid "Akiyoshi-san"
+msgstr "Akiyoshi-san"
+
+msgctxt "4||guest_c||name"
+msgid "Gen-san"
+msgstr "Gen-san"
+
+msgctxt "5||guest_d||name"
+msgid "Ando-san"
+msgstr "Ando-san"
+
+msgctxt "6||guest_e||name"
+msgid "Kaneko-san"
+msgstr "Kaneko-san"
+
+msgctxt "8||darts||name"
+msgid "Darts"
+msgstr "Freccette"
+
+msgctxt "9||karaoke||name"
+msgid "Karaoke"
+msgstr "Karaoke"
+
+

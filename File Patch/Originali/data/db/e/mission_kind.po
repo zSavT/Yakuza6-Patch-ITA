@@ -1,0 +1,5853 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "3||i_sample||title"
+msgid "Defeat the Enemies"
+msgstr ""
+
+msgctxt "5||i_test01||title"
+msgid "Defeat the Enemies"
+msgstr ""
+
+msgctxt "14||i_test_pattern01||title"
+msgid "Intercept the Mugger"
+msgstr ""
+
+msgctxt "122||i_haruto_dandle||title"
+msgid "Soothe Haruto"
+msgstr ""
+
+msgctxt "123||i_encount_btl||title"
+msgid "Defend Yourself"
+msgstr ""
+
+msgctxt "124||i_test_encount_boss||title"
+msgid "Defeat the Boss"
+msgstr ""
+
+msgctxt "128||i_09_ikinari_shikaku||title"
+msgid "An Assassin Appears"
+msgstr ""
+
+msgctxt "129||i_11_kami_ga_nai||title"
+msgid "Wiped Out"
+msgstr ""
+
+msgctxt "130||i_25_kuinige||title"
+msgid "Dine and Dash"
+msgstr ""
+
+msgctxt "135||m_adv01_050||title"
+msgid "Calm Down the Kids"
+msgstr ""
+
+msgctxt "136||m_adv01_070||title"
+msgid "Go to Sky Finance"
+msgstr ""
+
+msgctxt "138||m_adv01_086||title"
+msgid "Go to Little Asia"
+msgstr ""
+
+msgctxt "141||m_adv01_150||title"
+msgid "Go to the Children's Park"
+msgstr ""
+
+msgctxt "142||m_adv01_160||title"
+msgid "Get a Bento Set"
+msgstr ""
+
+msgctxt "143||m_adv01_170||title"
+msgid "Head Into the Sewer"
+msgstr ""
+
+msgctxt "144||m_adv01_210||title"
+msgid "Take a Taxi to Touto Hospital"
+msgstr ""
+
+msgctxt "145||m_adv02_010||title"
+msgid "Investigate the Accident"
+msgstr ""
+
+msgctxt "146||m_adv02_060||title"
+msgid "Take a Taxi to Tojo HQ"
+msgstr ""
+
+msgctxt "147||m_adv02_070||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "148||m_adv02_071||title"
+msgid "Hit the Streets"
+msgstr ""
+
+msgctxt "149||m_adv03_010||title"
+msgid "Gather Info"
+msgstr ""
+
+msgctxt "150||m_adv03_050||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "152||m_adv03_110||title"
+msgid "Get Some Milk"
+msgstr ""
+
+msgctxt "153||m_adv03_120||title"
+msgid "Go to the Pharmacy"
+msgstr ""
+
+msgctxt "154||m_adv03_130||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "155||m_adv03_140||title"
+msgid "Go to the Barber Shop"
+msgstr ""
+
+msgctxt "156||m_adv03_160||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "157||m_adv03_180||title"
+msgid "Gather Info"
+msgstr ""
+
+msgctxt "158||m_adv03_190||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "160||m_adv03_250||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "161||m_adv03_270||title"
+msgid "Find Nagumo"
+msgstr ""
+
+msgctxt "162||m_adv03_271||title"
+msgid "Go to the Top of the Hill"
+msgstr ""
+
+msgctxt "163||m_adv04_020||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "164||m_adv04_060||title"
+msgid "Go to Kiyomi's Bar"
+msgstr ""
+
+msgctxt "165||m_adv04_090||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "166||m_adv04_140||title"
+msgid "Go to Ryunan Shrine"
+msgstr ""
+
+msgctxt "167||m_adv04_210||title"
+msgid "Find Matsunaga"
+msgstr ""
+
+msgctxt "168||m_adv05_010||title"
+msgid "Gather Info"
+msgstr ""
+
+msgctxt "169||m_adv06_040||title"
+msgid "Go to Café Alps"
+msgstr ""
+
+msgctxt "171||m_adv06_120||title"
+msgid "Go to Stardust"
+msgstr ""
+
+msgctxt "172||m_adv06_190||title"
+msgid "Go to the Ouka Building"
+msgstr ""
+
+msgctxt "173||m_adv07_010||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "174||m_adv07_120||title"
+msgid "Go to Little Asia"
+msgstr ""
+
+msgctxt "175||m_adv08_060||title"
+msgid "Go to Shangri-La"
+msgstr ""
+
+msgctxt "176||m_adv09_010||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "177||m_adv09_030||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "179||m_adv09_150||title"
+msgid "Go to Snack Hourglass"
+msgstr ""
+
+msgctxt "180||m_adv09_170||title"
+msgid "Go to Ryunan Shrine"
+msgstr ""
+
+msgctxt "181||m_adv10_030||title"
+msgid "Head After Yuta and the Others"
+msgstr ""
+
+msgctxt "182||m_adv10_050||title"
+msgid "Go to the Dock"
+msgstr ""
+
+msgctxt "183||m_adv11_020||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "184||m_adv11_080||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "186||m_btl01_010||title"
+msgid "Defeat Nagumo"
+msgstr ""
+
+msgctxt "187||m_btl01_020||title"
+msgid "Defeat the Saio Triad Members"
+msgstr ""
+
+msgctxt "188||m_btl01_030||title"
+msgid "Defeat the Saio Triad Members"
+msgstr ""
+
+msgctxt "189||m_btl01_040||title"
+msgid "Defeat Ed"
+msgstr ""
+
+msgctxt "190||m_btl02_010||title"
+msgid "Catch the Suspicious Man"
+msgstr ""
+
+msgctxt "191||m_btl02_020||title"
+msgid "Defeat Akiyama"
+msgstr ""
+
+msgctxt "192||m_btl03_010||title"
+msgid "Defeat Nagumo"
+msgstr ""
+
+msgctxt "193||m_btl03_020||title"
+msgid "Defeat the Drunkard"
+msgstr ""
+
+msgctxt "194||m_btl03_030||title"
+msgid "Defeat the Jingai Thunders"
+msgstr ""
+
+msgctxt "195||m_btl03_040||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "196||m_btl04_010||title"
+msgid "Defeat the Drunk Customers"
+msgstr ""
+
+msgctxt "197||m_btl04_020||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "198||m_btl04_030||title"
+msgid "Defeat Tagashira and Yuta"
+msgstr ""
+
+msgctxt "199||m_btl04_040||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "200||m_btl05_010_01||title"
+msgid "Rescue Kiyomi"
+msgstr ""
+
+msgctxt "201||m_btl05_010_02||title"
+msgid "Rescue Kiyomi"
+msgstr ""
+
+msgctxt "202||m_btl05_010_03||title"
+msgid "Rescue Kiyomi"
+msgstr ""
+
+msgctxt "203||m_btl05_020||title"
+msgid "Chase Someya"
+msgstr ""
+
+msgctxt "204||m_btl05_030||title"
+msgid "Defeat Someya"
+msgstr ""
+
+msgctxt "205||m_btl06_010||title"
+msgid "Defeat the Jingweon Mafia Members"
+msgstr ""
+
+msgctxt "206||m_btl06_020||title"
+msgid "Defeat Joon-gi Han"
+msgstr ""
+
+msgctxt "207||m_btl07_010||title"
+msgid "Defeat the Saio Triad Members"
+msgstr ""
+
+msgctxt "208||m_btl07_020||title"
+msgid "Defeat the Mysterious Assassins"
+msgstr ""
+
+msgctxt "209||m_btl07_030||title"
+msgid "Find Ed"
+msgstr ""
+
+msgctxt "210||m_btl07_040||title"
+msgid "Defeat Ed"
+msgstr ""
+
+msgctxt "211||m_btl08_010||title"
+msgid "Go to Big Lo's Room"
+msgstr ""
+
+msgctxt "212||m_btl08_020||title"
+msgid "Defeat Someya"
+msgstr ""
+
+msgctxt "213||m_btl09_010||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "214||m_btl09_020||title"
+msgid "Chapter Nine"
+msgstr ""
+
+msgctxt "215||m_btl09_030||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "216||m_btl09_040||title"
+msgid "Chapter Nine"
+msgstr ""
+
+msgctxt "217||m_btl09_050||title"
+msgid "Defeat Koshimizu"
+msgstr ""
+
+msgctxt "218||m_btl10_010||title"
+msgid "Defeat the Men in Black"
+msgstr ""
+
+msgctxt "219||m_btl10_020||title"
+msgid "Defeat Joon-gi Han"
+msgstr ""
+
+msgctxt "220||m_btl10_030||title"
+msgid "Take Back Haruto"
+msgstr ""
+
+msgctxt "221||m_btl10_040||title"
+msgid "Take Back Haruto"
+msgstr ""
+
+msgctxt "222||m_btl10_050||title"
+msgid "Defeat Joon-gi Han"
+msgstr ""
+
+msgctxt "223||m_btl11_010||title"
+msgid "Find Yuta"
+msgstr ""
+
+msgctxt "224||m_btl11_020||title"
+msgid "Defeat Ed"
+msgstr ""
+
+msgctxt "225||m_btl11_030||title"
+msgid "Defeat Yuta"
+msgstr ""
+
+msgctxt "226||m_btl12_010||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "227||m_btl12_020||title"
+msgid "Defeat Nagumo"
+msgstr ""
+
+msgctxt "228||m_btl12_030||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "229||m_btl12_050||title"
+msgid "Find the Secret of Onomichi"
+msgstr ""
+
+msgctxt "230||m_btl12_060||title"
+msgid "Find the Secret of Onomichi"
+msgstr ""
+
+msgctxt "231||m_btl12_070||title"
+msgid "Defeat Hirose"
+msgstr ""
+
+msgctxt "232||m_btl13_010||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "233||m_btl13_020||title"
+msgid "Defeat the Yomei Alliance Members"
+msgstr ""
+
+msgctxt "234||m_btl13_030||title"
+msgid "Go to the Top Floor"
+msgstr ""
+
+msgctxt "235||m_btl13_040||title"
+msgid "Go to the Top Floor"
+msgstr ""
+
+msgctxt "236||m_btl13_050||title"
+msgid "Defeat Someya"
+msgstr ""
+
+msgctxt "237||m_btl13_060||title"
+msgid "Defeat All Enemies"
+msgstr ""
+
+msgctxt "238||m_btl13_070||title"
+msgid "Defeat Tsuneo Iwami"
+msgstr ""
+
+msgctxt "249||s_SUB_A_01_01||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "250||s_SUB_A_01_02||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "251||s_SUB_A_01_03||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "252||s_SUB_A_01_04||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "253||s_SUB_A_01_05||title"
+msgid "The Kabedon Prince"
+msgstr ""
+
+msgctxt "254||s_SUB_A_02_01||title"
+msgid "Hey, It's Me!"
+msgstr ""
+
+msgctxt "255||s_SUB_A_02_02||title"
+msgid "Hey, It's Me!"
+msgstr ""
+
+msgctxt "256||s_SUB_A_02_03||title"
+msgid "Hey, It's Me!"
+msgstr ""
+
+msgctxt "257||s_SUB_A_02_04||title"
+msgid "Hey, It's Me!"
+msgstr ""
+
+msgctxt "259||s_SUB_B_01_01||title"
+msgid "The Fools Who Dream"
+msgstr ""
+
+msgctxt "260||s_SUB_B_01_02||title"
+msgid "The Fools Who Dream"
+msgstr ""
+
+msgctxt "261||s_SUB_B_01_03||title"
+msgid "The Fools Who Dream"
+msgstr ""
+
+msgctxt "262||s_SUB_B_01_04||title"
+msgid "The Fools Who Dream"
+msgstr ""
+
+msgctxt "264||i_01_katsuage_01||title"
+msgid "Mugging"
+msgstr ""
+
+msgctxt "265||i_encboss_k_01||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "266||i_encboss_k_02||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "267||i_encboss_k_03||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "268||i_encboss_k_04||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "269||i_encboss_k_05||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "270||i_encboss_k_06||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "271||i_encboss_k_07||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "272||i_encboss_k_08||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "273||i_encboss_k_max01||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "274||i_encboss_k_max02||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "275||i_encboss_k_max03||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "276||i_encboss_k_max04||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "277||i_encboss_k_max05||title"
+msgid "A Powerful Foe Appears: Kamurocho"
+msgstr ""
+
+msgctxt "278||i_encboss_o_01||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "279||i_encboss_o_02||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "280||i_encboss_o_03||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "281||i_encboss_o_04||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "282||i_encboss_o_05||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "283||i_encboss_o_06||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "284||i_encboss_o_07||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "285||i_encboss_o_08||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "286||i_encboss_o_max01||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "287||i_encboss_o_max02||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "288||i_encboss_o_max03||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "289||i_encboss_o_max04||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "290||i_encboss_o_max05||title"
+msgid "A Powerful Foe Appears: Onomichi"
+msgstr ""
+
+msgctxt "291||i_sample_event_encount_01||title"
+msgid "sample_eventencount"
+msgstr ""
+
+msgctxt "292||i_01_event_encount_A01||title"
+msgid "Shake Up the Shakedown Squad"
+msgstr ""
+
+msgctxt "293||i_01_event_encount_A02||title"
+msgid "Shake Up the Shakedown Squad 2"
+msgstr ""
+
+msgctxt "294||i_01_event_encount_A03||title"
+msgid "Shake Up the Shakedown Squad 3"
+msgstr ""
+
+msgctxt "295||i_02_event_encount_A01||title"
+msgid "Menace to the Middle-aged"
+msgstr ""
+
+msgctxt "296||i_02_event_encount_A02||title"
+msgid "Menace to the Middle-aged 2"
+msgstr ""
+
+msgctxt "297||i_02_event_encount_A03||title"
+msgid "Menace to the Middle-aged 3"
+msgstr ""
+
+msgctxt "298||i_03_event_encount_A01||title"
+msgid "In Defense of Chivalry"
+msgstr ""
+
+msgctxt "299||i_03_event_encount_A02||title"
+msgid "In Defense of Chivalry 2"
+msgstr ""
+
+msgctxt "300||i_03_event_encount_A03||title"
+msgid "In Defense of Chivalry 3"
+msgstr ""
+
+msgctxt "301||i_04_event_encount_A01||title"
+msgid "Keeping the Peace"
+msgstr ""
+
+msgctxt "302||i_04_event_encount_A02||title"
+msgid "Keeping the Peace 2"
+msgstr ""
+
+msgctxt "303||i_04_event_encount_A03||title"
+msgid "Keeping the Peace 3"
+msgstr ""
+
+msgctxt "304||i_05_event_encount_A01||title"
+msgid "A Danger to Dating"
+msgstr ""
+
+msgctxt "305||i_05_event_encount_A02||title"
+msgid "A Danger to Dating 2"
+msgstr ""
+
+msgctxt "306||i_05_event_encount_A03||title"
+msgid "A Danger to Dating 3"
+msgstr ""
+
+msgctxt "307||i_10_kyuubyounin||title"
+msgid "An Onomichi Illness"
+msgstr ""
+
+msgctxt "308||i_12_houkama||title"
+msgid "The Flames of Vengeance"
+msgstr ""
+
+msgctxt "309||i_21_hittakuri||title"
+msgid "Rumblings in Onomichi"
+msgstr ""
+
+msgctxt "310||i_33_harapeko||title"
+msgid "Starving"
+msgstr ""
+
+msgctxt "312||s_SUB_A_99_01||title"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "313||s_SUB_A_99_02||title"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "314||s_SUB_A_99_03||title"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "315||m_btl13_030b||title"
+msgid "Go to the Top Floor"
+msgstr ""
+
+msgctxt "316||m_btl13_040b||title"
+msgid "Final Chapter"
+msgstr ""
+
+msgctxt "317||s_SUB_A_19_01||title"
+msgid "Hostess with a Heart of Gold"
+msgstr ""
+
+msgctxt "318||s_SUB_A_19_02||title"
+msgid "Hostess with a Heart of Gold"
+msgstr ""
+
+msgctxt "319||s_SUB_A_17_01||title"
+msgid "Listen to Your Heart"
+msgstr ""
+
+msgctxt "320||s_SUB_A_15_01||title"
+msgid "Face Your Fears"
+msgstr ""
+
+msgctxt "321||s_SUB_A_15_02||title"
+msgid "Face Your Fears"
+msgstr ""
+
+msgctxt "322||m_adv03_070||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "323||m_adv03_200||title"
+msgid "Go to the Ropeway Station"
+msgstr ""
+
+msgctxt "324||m_adv02_072||title"
+msgid "Go to Touto Hospital"
+msgstr ""
+
+msgctxt "325||m_adv05_012||title"
+msgid "Go to the Ropeway Station"
+msgstr ""
+
+msgctxt "326||m_adv06_150||title"
+msgid "Go to Stardust"
+msgstr ""
+
+msgctxt "327||s_SUB_A_21_01||title"
+msgid "A Promise Between Men"
+msgstr ""
+
+msgctxt "328||s_SUB_A_21_02||title"
+msgid "A Promise Between Men"
+msgstr ""
+
+msgctxt "329||i_test_chase||title"
+msgid "Chase Down the Enemy"
+msgstr ""
+
+msgctxt "330||m_btl01_015||title"
+msgid "Defeat the Muggers"
+msgstr ""
+
+msgctxt "331||m_adv11_090||title"
+msgid "Go to the Emergency Exit"
+msgstr ""
+
+msgctxt "332||m_adv11_100||title"
+msgid "Hurry to Little Asia"
+msgstr ""
+
+msgctxt "333||m_adv12_050||title"
+msgid "Go to the Roof"
+msgstr ""
+
+msgctxt "334||m_adv12_100||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "335||m_adv12_150_01||title"
+msgid "Gather Info on the Code"
+msgstr ""
+
+msgctxt "336||m_adv12_150_02||title"
+msgid "Go to the Cemetery"
+msgstr ""
+
+msgctxt "337||m_adv12_160||title"
+msgid "Go to the Dock"
+msgstr ""
+
+msgctxt "338||m_adv13_030||title"
+msgid "Go to the Dock"
+msgstr ""
+
+msgctxt "339||m_adv13_040||title"
+msgid "Hurry to the Hirose Family Office"
+msgstr ""
+
+msgctxt "340||m_adv13_070||title"
+msgid "Final Day in Onomichi"
+msgstr ""
+
+msgctxt "341||m_adv13_090||title"
+msgid "Go to the Police Hospital"
+msgstr ""
+
+msgctxt "342||m_adv13_130||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "343||m_adv13_170||title"
+msgid "Go to the Roof"
+msgstr ""
+
+msgctxt "344||s_SUB_B_13_01||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "345||s_SUB_B_13_02||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "346||s_SUB_B_13_03||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "347||s_SUB_B_13_04||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "348||s_SUB_B_13_05||title"
+msgid "The Sweet Taste of Victory"
+msgstr ""
+
+msgctxt "349||m_adv01_085_before||title"
+msgid "Gather Info on Akiyama"
+msgstr ""
+
+msgctxt "350||m_adv01_085_after||title"
+msgid "Gather Info on Akiyama"
+msgstr ""
+
+msgctxt "351||s_SUB_B_15_01||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "352||s_SUB_B_15_02||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "353||s_SUB_B_15_03||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "354||s_SUB_B_15_04||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "355||s_SUB_B_15_05||title"
+msgid "The Throne of Onomichi"
+msgstr ""
+
+msgctxt "356||s_SUB_B_12_01||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "357||s_SUB_B_12_02||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "358||s_SUB_B_12_03||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "359||s_SUB_B_12_04||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "360||s_SUB_B_12_05||title"
+msgid "We Need a Ringer"
+msgstr ""
+
+msgctxt "361||s_SUB_B_14_01||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "362||s_SUB_B_14_02||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "363||s_SUB_B_14_03||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "364||s_SUB_B_14_04||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "365||s_SUB_B_14_05||title"
+msgid "Decisive Battle! Jingai Thunders"
+msgstr ""
+
+msgctxt "366||s_SUB_A_13_01||title"
+msgid "The Legendary Paul Lim"
+msgstr ""
+
+msgctxt "367||s_SUB_A_13_02||title"
+msgid "The Legendary Paul Lim"
+msgstr ""
+
+msgctxt "369||s_SUB_A_20_01||title"
+msgid "Step Up to the Plate"
+msgstr ""
+
+msgctxt "370||s_SUB_A_20_02||title"
+msgid "Step Up to the Plate"
+msgstr ""
+
+msgctxt "371||s_SUB_B_11_01||title"
+msgid "Assemble the Team"
+msgstr ""
+
+msgctxt "374||s_SUB_B_11_04||title"
+msgid "Assemble the Team"
+msgstr ""
+
+msgctxt "375||i_13_tourima||title"
+msgid "The Slasher Appears"
+msgstr ""
+
+msgctxt "376||i_14_kaji||title"
+msgid "Put Out the Fire"
+msgstr ""
+
+msgctxt "381||i_22_suri||title"
+msgid "Pickpocket"
+msgstr ""
+
+msgctxt "382||i_23_manbiki||title"
+msgid "A Shoplifter Appears"
+msgstr ""
+
+msgctxt "383||i_24_goutou||title"
+msgid "A Thief Appears"
+msgstr ""
+
+msgctxt "384||i_27_twitter||title"
+msgid "An Explosive End"
+msgstr ""
+
+msgctxt "385||i_28_yokoku||title"
+msgid "An Explosive Game"
+msgstr ""
+
+msgctxt "386||i_29_sos||title"
+msgid "SOS"
+msgstr ""
+
+msgctxt "387||i_30_clan||title"
+msgid "Defeat the Enemy Team!"
+msgstr ""
+
+msgctxt "388||i_31_yopparai||title"
+msgid "A Sauced-up Sod"
+msgstr ""
+
+msgctxt "389||i_32_deliver||title"
+msgid "Delivery"
+msgstr ""
+
+msgctxt "390||i_34_rakugaki||title"
+msgid "Graffiti Suspicion"
+msgstr ""
+
+msgctxt "391||i_38_toritetsu||title"
+msgid "Railway Enthusiast"
+msgstr ""
+
+msgctxt "392||i_39_seafood||title"
+msgid "Freshly Caught Fish"
+msgstr ""
+
+msgctxt "393||i_40_tombraider||title"
+msgid "Graveyard Man"
+msgstr ""
+
+msgctxt "394||i_41_missing||title"
+msgid "Lost and Found"
+msgstr ""
+
+msgctxt "395||i_46_fire||title"
+msgid "Building Fire"
+msgstr ""
+
+msgctxt "396||i_47_tsutsumotase||title"
+msgid "Beware the Beauty"
+msgstr ""
+
+msgctxt "397||i_48_spam||title"
+msgid "Suspicions"
+msgstr ""
+
+msgctxt "398||s_SUB_A_03_01||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "399||s_SUB_A_03_02||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "400||s_SUB_A_03_03||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "401||s_SUB_A_03_04||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "402||s_SUB_A_03_05||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "403||s_SUB_A_03_06||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "404||s_SUB_A_03_07||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "405||s_SUB_A_04_01||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "406||s_SUB_A_04_02||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "407||s_SUB_A_04_03||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "408||s_SUB_A_04_04||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "409||s_SUB_A_05_01||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "410||s_SUB_A_05_02||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "411||s_SUB_A_05_03||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "412||s_SUB_A_05_04||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "413||s_SUB_A_05_05||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "414||s_SUB_A_05_06||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "415||s_SUB_A_06_01||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "416||s_SUB_A_06_02||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "417||s_SUB_A_06_03||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "418||s_SUB_A_06_04||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "419||s_SUB_A_06_05||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "420||s_SUB_A_06_06||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "421||s_SUB_A_07_01||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "422||s_SUB_A_07_02||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "423||s_SUB_A_07_03||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "424||s_SUB_A_07_04||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "425||s_SUB_A_07_05||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "426||s_SUB_A_07_06||title"
+msgid "Follow That Drone!"
+msgstr ""
+
+msgctxt "427||s_SUB_A_08_01||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "428||s_SUB_A_08_02||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "429||s_SUB_A_08_03||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "430||s_SUB_A_08_04||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "431||s_SUB_A_08_05||title"
+msgid "Baring Their Fangs"
+msgstr ""
+
+msgctxt "434||s_SUB_A_09_01||title"
+msgid "A Rivalry Reborn"
+msgstr ""
+
+msgctxt "435||s_SUB_A_09_02||title"
+msgid "A Rivalry Reborn"
+msgstr ""
+
+msgctxt "436||s_SUB_A_09_03||title"
+msgid "A Rivalry Reborn"
+msgstr ""
+
+msgctxt "437||s_SUB_A_11_01||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "438||s_SUB_A_11_02||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "439||s_SUB_A_11_03||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "440||s_SUB_A_11_04||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "441||s_SUB_A_12_01||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "442||s_SUB_A_12_02||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "443||s_SUB_A_12_03||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "444||s_SUB_A_12_04||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "445||s_SUB_A_12_05||title"
+msgid "Favor for an Old Friend"
+msgstr ""
+
+msgctxt "446||s_SUB_A_16_01||title"
+msgid "A Shady Business"
+msgstr ""
+
+msgctxt "447||s_SUB_A_16_02||title"
+msgid "A Shady Business"
+msgstr ""
+
+msgctxt "448||s_SUB_A_16_03||title"
+msgid "A Shady Business"
+msgstr ""
+
+msgctxt "449||s_SUB_A_18_01||title"
+msgid "Caught in a Love Triangle"
+msgstr ""
+
+msgctxt "450||s_SUB_A_24_01||title"
+msgid "The Temptation of Live Chat"
+msgstr ""
+
+msgctxt "451||s_SUB_A_26_01||title"
+msgid "A Man Rises Up"
+msgstr ""
+
+msgctxt "452||s_SUB_A_26_02||title"
+msgid "A Man Rises Up"
+msgstr ""
+
+msgctxt "453||c_CLN01_01||title"
+msgid "Vs. Muggers"
+msgstr ""
+
+msgctxt "454||c_CLN02_01||title"
+msgid "Vs. JUSTIS Thugs"
+msgstr ""
+
+msgctxt "455||c_CLN02_02||title"
+msgid "Save Sachiko"
+msgstr ""
+
+msgctxt "456||c_CLN05_01||title"
+msgid "Vs. Lunatic Yano"
+msgstr ""
+
+msgctxt "457||c_CLN07_01||title"
+msgid "Vs. Lunatic Naito"
+msgstr ""
+
+msgctxt "458||c_CLN11_01||title"
+msgid "Vs. The TenCozy Tag Team"
+msgstr ""
+
+msgctxt "459||c_CLN13_01||title"
+msgid "Vs. Lunatic Tanahashi"
+msgstr ""
+
+msgctxt "460||c_CLN15_01||title"
+msgid "Vs. Rainmaker"
+msgstr ""
+
+msgctxt "461||c_CLN16_01||title"
+msgid "Vs. Satsuki"
+msgstr ""
+
+msgctxt "462||s_SUB_B_02_01||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "463||s_SUB_B_02_02||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "464||s_SUB_B_02_03||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "465||s_SUB_B_02_04||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "466||s_SUB_B_02_05||title"
+msgid "Sins of the Father"
+msgstr ""
+
+msgctxt "467||s_SUB_B_03_01||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "468||s_SUB_B_03_02||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "469||s_SUB_B_03_03||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "470||s_SUB_B_03_04||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "471||s_SUB_B_03_05||title"
+msgid "Pocket Circuit Fighter Returns"
+msgstr ""
+
+msgctxt "473||s_SUB_B_04_01||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "474||s_SUB_B_04_02||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "475||s_SUB_B_04_03||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "476||s_SUB_B_04_04||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "477||s_SUB_B_04_05||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "478||s_SUB_B_04_06||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "479||s_SUB_B_04_07||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "480||s_SUB_B_04_08||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "481||s_SUB_B_04_09||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "482||s_SUB_B_04_10||title"
+msgid "The Curse of Onomichi"
+msgstr ""
+
+msgctxt "483||s_SUB_B_05_01||title"
+msgid "Oh No! It's Ono Michio!"
+msgstr ""
+
+msgctxt "484||s_SUB_B_05_02||title"
+msgid "Oh No! It's Ono Michio!"
+msgstr ""
+
+msgctxt "485||s_SUB_B_05_03||title"
+msgid "Oh No! It's Ono Michio!"
+msgstr ""
+
+msgctxt "486||s_SUB_B_06_01||title"
+msgid "The Ono Michio Show"
+msgstr ""
+
+msgctxt "487||s_SUB_B_06_02||title"
+msgid "The Ono Michio Show"
+msgstr ""
+
+msgctxt "488||s_SUB_B_07_01||title"
+msgid "Putting on a Brave Face"
+msgstr ""
+
+msgctxt "489||s_SUB_B_07_02||title"
+msgid "Putting on a Brave Face"
+msgstr ""
+
+msgctxt "490||s_SUB_B_07_03||title"
+msgid "Putting on a Brave Face"
+msgstr ""
+
+msgctxt "491||s_SUB_B_07_04||title"
+msgid "Putting on a Brave Face"
+msgstr ""
+
+msgctxt "492||s_SUB_B_08_01||title"
+msgid "The Girl Who Leapt Through Time?"
+msgstr ""
+
+msgctxt "493||s_SUB_B_08_02||title"
+msgid "The Girl Who Leapt Through Time?"
+msgstr ""
+
+msgctxt "494||s_SUB_B_08_03||title"
+msgid "The Girl Who Leapt Through Time?"
+msgstr ""
+
+msgctxt "495||s_SUB_B_08_04||title"
+msgid "The Girl Who Leapt Through Time?"
+msgstr ""
+
+msgctxt "496||s_SUB_B_09_01||title"
+msgid "A Freaky Situation"
+msgstr ""
+
+msgctxt "497||s_SUB_B_09_02||title"
+msgid "A Freaky Situation"
+msgstr ""
+
+msgctxt "498||s_SUB_B_09_03||title"
+msgid "A Freaky Situation"
+msgstr ""
+
+msgctxt "499||s_SUB_B_17_01||title"
+msgid "What's the Matter with Kids Today?"
+msgstr ""
+
+msgctxt "500||s_SUB_B_17_02||title"
+msgid "What's the Matter with Kids Today?"
+msgstr ""
+
+msgctxt "501||s_SUB_B_17_03||title"
+msgid "What's the Matter with Kids Today?"
+msgstr ""
+
+msgctxt "502||s_SUB_B_18_01||title"
+msgid "Powerful Memories"
+msgstr ""
+
+msgctxt "503||s_SUB_B_18_02||title"
+msgid "Powerful Memories"
+msgstr ""
+
+msgctxt "504||s_SUB_B_18_03||title"
+msgid "Powerful Memories"
+msgstr ""
+
+msgctxt "505||s_SUB_B_19_01||title"
+msgid "Tech Support"
+msgstr ""
+
+msgctxt "506||s_SUB_B_19_02||title"
+msgid "Tech Support"
+msgstr ""
+
+msgctxt "507||s_SUB_B_19_03||title"
+msgid "Tech Support"
+msgstr ""
+
+msgctxt "508||s_SUB_B_19_04||title"
+msgid "Tech Support"
+msgstr ""
+
+msgctxt "509||s_SUB_B_20_01||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "510||s_SUB_B_20_02||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "511||s_SUB_B_20_03||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "512||s_SUB_B_20_04||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "513||s_SUB_B_20_05||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "514||s_SUB_B_20_06||title"
+msgid "The Price of Love"
+msgstr ""
+
+msgctxt "515||s_SUB_B_21_01||title"
+msgid "Kaneko's Resolve"
+msgstr ""
+
+msgctxt "516||s_SUB_B_21_02||title"
+msgid "Kaneko's Resolve"
+msgstr ""
+
+msgctxt "517||s_SUB_B_21_03||title"
+msgid "Kaneko's Resolve"
+msgstr ""
+
+msgctxt "518||s_SUB_B_22_01||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "519||s_SUB_B_22_02||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "520||s_SUB_B_22_03||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "521||s_SUB_B_22_04||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "522||s_SUB_B_22_05||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "523||s_SUB_B_22_06||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "525||s_SUB_B_22_08||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "526||s_SUB_B_22_09||title"
+msgid "Thanks for Everything, Mama"
+msgstr ""
+
+msgctxt "527||s_SUB_B_23_01||title"
+msgid "The Old Man and the Sea"
+msgstr ""
+
+msgctxt "528||s_SUB_B_23_02||title"
+msgid "The Old Man and the Sea"
+msgstr ""
+
+msgctxt "529||s_SUB_B_23_03||title"
+msgid "The Old Man and the Sea"
+msgstr ""
+
+msgctxt "530||s_SUB_B_24_01||title"
+msgid "World's Best Octopus"
+msgstr ""
+
+msgctxt "531||s_SUB_B_25_01||title"
+msgid "Deep Blue Sea"
+msgstr ""
+
+msgctxt "532||s_SUB_B_26_01||title"
+msgid "Crisis Management Professional"
+msgstr ""
+
+msgctxt "533||s_SUB_B_26_02||title"
+msgid "Crisis Management Professional"
+msgstr ""
+
+msgctxt "534||s_SUB_B_26_03||title"
+msgid "Crisis Management Professional"
+msgstr ""
+
+msgctxt "535||s_SUB_B_27_01||title"
+msgid "The Joys of Adulthood"
+msgstr ""
+
+msgctxt "536||i_sample_talk||title"
+msgid "sample_conversation"
+msgstr ""
+
+msgctxt "537||m_adv11_040||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "540||m_adv01_120_before||title"
+msgid "Go to Sky Finance"
+msgstr ""
+
+msgctxt "541||m_adv01_120_after||title"
+msgid "Go to Sky Finance"
+msgstr ""
+
+msgctxt "542||m_adv03_150||title"
+msgid "Go to the Barber Shop"
+msgstr ""
+
+msgctxt "543||i_harutobtl_c03_a||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "544||i_42_falling||title"
+msgid "On the Edge: Onomichi"
+msgstr ""
+
+msgctxt "545||c_CLN31_01||title"
+msgid "Vs. Tamotsu"
+msgstr ""
+
+msgctxt "546||c_CLN31_02||title"
+msgid "Vs. Yasu"
+msgstr ""
+
+msgctxt "547||c_CLN31_03||title"
+msgid "Vs. Dobashi"
+msgstr ""
+
+msgctxt "548||c_CLN31_04||title"
+msgid "Vs. Tanogami"
+msgstr ""
+
+msgctxt "549||c_CLN31_05||title"
+msgid "Vs. Nogami"
+msgstr ""
+
+msgctxt "550||c_CLN31_06||title"
+msgid "Vs. Samurai"
+msgstr ""
+
+msgctxt "551||c_CLN31_07||title"
+msgid "Vs. Obara"
+msgstr ""
+
+msgctxt "552||c_CLN31_08||title"
+msgid "Vs. Jono"
+msgstr ""
+
+msgctxt "553||c_CLN31_09||title"
+msgid "Vs. Fujitake"
+msgstr ""
+
+msgctxt "554||c_CLN31_10||title"
+msgid "Vs. Hashimoto"
+msgstr ""
+
+msgctxt "555||m_adv04_080||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "556||m_adv04_160||title"
+msgid "Go to Ryunan Shrine"
+msgstr ""
+
+msgctxt "557||m_adv04_170||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "558||m_adv04_240||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "559||i_10_kyuubyounin_k00||title"
+msgid "Queasy in Kamurocho"
+msgstr ""
+
+msgctxt "560||i_42_falling_k00||title"
+msgid "On the Edge: Kamurocho"
+msgstr ""
+
+msgctxt "561||m_adv06_020||title"
+msgid "Go to the Navy Apartments"
+msgstr ""
+
+msgctxt "562||m_adv06_060||title"
+msgid "Go to Stardust"
+msgstr ""
+
+msgctxt "563||m_adv07_020||title"
+msgid "Go to the Sewer"
+msgstr ""
+
+msgctxt "564||m_adv07_050||title"
+msgid "Go to the APA Hotel"
+msgstr ""
+
+msgctxt "565||m_adv07_080||title"
+msgid "Go to the APA Hotel 6th Floor"
+msgstr ""
+
+msgctxt "566||m_adv07_100||title"
+msgid "Go to New Serena"
+msgstr ""
+
+msgctxt "567||m_adv07_060||title"
+msgid "Shake Off the Pursuers"
+msgstr ""
+
+msgctxt "568||m_adv07_130||title"
+msgid "Follow Akiyama"
+msgstr ""
+
+msgctxt "569||m_adv08_030||title"
+msgid "Prepare to Meet Big Lo"
+msgstr ""
+
+msgctxt "570||m_adv09_020||title"
+msgid "Return to Onomichi"
+msgstr ""
+
+msgctxt "571||m_adv09_040||title"
+msgid "Go to Moreno"
+msgstr ""
+
+msgctxt "572||i_harutobtl_c03_b||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "573||i_harutobtl_c03_c||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "574||i_harutobtl_c03_d||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "575||i_harutobtl_c03_e||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "576||i_harutobtl_c03_f||title"
+msgid "Stop the Public Disturbance"
+msgstr ""
+
+msgctxt "577||m_adv09_080||title"
+msgid "Find Hirose"
+msgstr ""
+
+msgctxt "578||m_adv09_120||title"
+msgid "Find Hirose"
+msgstr ""
+
+msgctxt "579||m_adv10_031||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "580||m_adv09_130||title"
+msgid "Investigate Hirose's Room"
+msgstr ""
+
+msgctxt "581||m_adv09_131||title"
+msgid "Go to Snack Hourglass"
+msgstr ""
+
+msgctxt "582||m_adv13_200||title"
+msgid "Final Night in Kamurocho"
+msgstr ""
+
+msgctxt "583||s_SUB_A_16_04||title"
+msgid "A Shady Business"
+msgstr ""
+
+msgctxt "584||s_SUB_A_25_01||title"
+msgid "We're Committed to Results"
+msgstr ""
+
+msgctxt "585||m_adv11_070||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "587||i_35_suri||title"
+msgid "Pocket Protector"
+msgstr ""
+
+msgctxt "588||s_SUB_A_14_01||title"
+msgid "Showdown with Paul Lim"
+msgstr ""
+
+msgctxt "589||s_SUB_B_16_01||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "590||s_SUB_B_16_02||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "591||s_SUB_B_16_03||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "592||s_SUB_B_16_04||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "593||s_SUB_B_16_05||title"
+msgid "True Bonds"
+msgstr ""
+
+msgctxt "594||i_36_hakaarashi||title"
+msgid "A Grave Incident"
+msgstr ""
+
+msgctxt "595||i_17_ramen||title"
+msgid "In Hot Water"
+msgstr ""
+
+msgctxt "596||s_SUB_A_15_03||title"
+msgid "Face Your Fears"
+msgstr ""
+
+msgctxt "597||s_SUB_A_18_02||title"
+msgid "Caught in a Love Triangle"
+msgstr ""
+
+msgctxt "598||s_SUB_A_19_03||title"
+msgid "Hostess with a Heart of Gold"
+msgstr ""
+
+msgctxt "599||s_SUB_A_05_07||title"
+msgid "I, Hiji"
+msgstr ""
+
+msgctxt "600||s_SUB_A_04_05||title"
+msgid "Runaway Robot"
+msgstr ""
+
+msgctxt "601||i_harutobtl_c04_a||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "602||i_harutobtl_c04_b||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "603||i_harutobtl_c04_c||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "604||i_harutobtl_c04_d||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "605||i_harutobtl_c04_e||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "606||i_harutobtl_c04_f||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "607||i_harutobtl_c04_g||title"
+msgid "Defeat the Enemies in the Street"
+msgstr ""
+
+msgctxt "608||s_SUB_A_06_03_02||title"
+msgid "Like, Comment, Subscribe"
+msgstr ""
+
+msgctxt "609||s_SUB_A_14_02||title"
+msgid "Showdown with Paul Lim"
+msgstr ""
+
+msgctxt "610||i_tm18_houkama_k01||title"
+msgid "The Flames of Justice"
+msgstr ""
+
+msgctxt "611||i_tm19_kaji_k02||title"
+msgid "Kamurocho Alight"
+msgstr ""
+
+msgctxt "612||i_tm20_kaji_k03||title"
+msgid "Kamurocho Alight 2"
+msgstr ""
+
+msgctxt "613||i_tm21_kaji_k04||title"
+msgid "Kamurocho Alight 3"
+msgstr ""
+
+msgctxt "614||i_tm22_kaji_k05||title"
+msgid "Turn Down the Burndown"
+msgstr ""
+
+msgctxt "615||i_tm24_kaji_o02||title"
+msgid "Onomichi Alight"
+msgstr ""
+
+msgctxt "616||i_tm25_kaji_o03||title"
+msgid "Onomichi Alight 2"
+msgstr ""
+
+msgctxt "617||i_tm26_kaji_o04||title"
+msgid "Onomichi Alight 3"
+msgstr ""
+
+msgctxt "618||i_tm27_kaji_o05||title"
+msgid "Fuel to the Fire"
+msgstr ""
+
+msgctxt "619||c_CLN02_03||title"
+msgid "Vs. JUSTIS"
+msgstr ""
+
+msgctxt "620||m_adv12_080||title"
+msgid "Return to Onomichi"
+msgstr ""
+
+msgctxt "621||s_SUB_A_23_01||title"
+msgid "Look What the Dragon Dragged In"
+msgstr ""
+
+msgctxt "623||m_adv12_115||title"
+msgid "Go to the Hirose Family Office"
+msgstr ""
+
+msgctxt "624||i_tm35_hankouyokoku||title"
+msgid "An Explosive Game"
+msgstr ""
+
+msgctxt "625||i_tm32_hankouyokoku2||title"
+msgid "An Explosive End"
+msgstr ""
+
+msgctxt "626||m_adv12_030||title"
+msgid "Talk to Big Lo"
+msgstr ""
+
+msgctxt "627||i_tm22_kaji_k05_02||title"
+msgid "The Flames of Justice"
+msgstr ""
+
+msgctxt "628||m_adv04_180||title"
+msgid "Talk to Matsunaga"
+msgstr ""
+
+msgctxt "629||s_SUB_A_26_03||title"
+msgid "A Man Rises Up"
+msgstr ""
+
+msgctxt "630||i_tm27_kaji_o05_02||title"
+msgid "The Flames of Vengeance"
+msgstr ""
+
+msgctxt "631||s_SUB_A_25_02||title"
+msgid "We're Committed to Results"
+msgstr ""
+
+msgctxt "632||s_SUB_A_25_03||title"
+msgid "We're Committed to Results"
+msgstr ""
+
+msgctxt "633||m_adv07_045||title"
+msgid "Wait for Akiyama's Call"
+msgstr ""
+
+msgctxt "634||m_btl05_010_04||title"
+msgid "Find Someya"
+msgstr ""
+
+msgctxt "636||m_btl07_030_2||title"
+msgid "Defeat the Saio Triad Members"
+msgstr ""
+
+msgctxt "637||m_btl07_030_3||title"
+msgid "Go to Ed's Room"
+msgstr ""
+
+msgctxt "638||m_btl12_060b_01||title"
+msgid "Find the Secret of Onomichi"
+msgstr ""
+
+msgctxt "639||m_btl12_060b_02||title"
+msgid "Find the Secret of Onomichi"
+msgstr ""
+
+msgctxt "640||s_SUB_A_11_001||title"
+msgid "Swipe Right"
+msgstr ""
+
+msgctxt "641||m_adv07_141||title"
+msgid "Go to the Roof"
+msgstr ""
+
+msgctxt "642||m_adv09_070||title"
+msgid "Find Hirose"
+msgstr ""
+
+msgctxt "643||m_btl11_025||title"
+msgid "Find Yuta"
+msgstr ""
+
+msgctxt "644||s_SUB_A_18_00||title"
+msgid "Caught in a Love Triangle"
+msgstr ""
+
+msgctxt "645||s_SUB_A_03_08||title"
+msgid "Haruka's Biggest Fan"
+msgstr ""
+
+msgctxt "646||s_SUB_B_24_02||title"
+msgid "World's Best Octopus"
+msgstr ""
+
+msgctxt "647||s_SUB_B_25_02||title"
+msgid "Deep Blue Sea"
+msgstr ""
+
+msgctxt "648||s_SUB_A_20_03||title"
+msgid "Step Up to the Plate"
+msgstr ""
+
+msgctxt "649||s_SUB_A_21_03||title"
+msgid "A Promise Between Men"
+msgstr ""
+
+msgctxt "3||i_sample||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "5||i_test01||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "14||i_test_pattern01||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "122||i_haruto_dandle||mission_info"
+msgid "I need to cheer up Haruto."
+msgstr ""
+
+msgctxt "123||i_encount_btl||mission_info"
+msgid "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though."
+msgstr ""
+
+msgctxt "124||i_test_encount_boss||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "128||i_09_ikinari_shikaku||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "129||i_11_kami_ga_nai||mission_info"
+msgid "Running out of toilet paper in a public bathroom\r\nis not a nightmare I'd want to live through."
+msgstr ""
+
+msgctxt "130||i_25_kuinige||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "135||m_adv01_050||mission_info"
+msgid "(Chapter 1)\r\nI can't let the kids keep worrying about Haruka.\r\nI should try to calm them down a bit."
+msgstr ""
+
+msgctxt "136||m_adv01_070||mission_info"
+msgid "(Chapter 1)\r\nAkiyama... His company, Sky Finance, should be\r\non Tenkaichi Street."
+msgstr ""
+
+msgctxt "138||m_adv01_086||mission_info"
+msgid "(Chapter 1)\r\nMaybe I can learn something over in Little Asia."
+msgstr ""
+
+msgctxt "141||m_adv01_150||mission_info"
+msgid "(Chapter 1)\r\nAkiyama apparently hung around with the homeless\r\nover at the Children's Park. I should go check it out."
+msgstr ""
+
+msgctxt "142||m_adv01_160||mission_info"
+msgid "(Chapter 1)\r\nThat homeless guy wants a bento in exchange for info.\r\nI should head to a convenience store and get one for him."
+msgstr ""
+
+msgctxt "143||m_adv01_170||mission_info"
+msgid "(Chapter 1)\r\nIs Akiyama really down there?\r\nI guess there's only one way to find out."
+msgstr ""
+
+msgctxt "144||m_adv01_210||mission_info"
+msgid "(Chapter 1)\r\nWhat was Haruka doing in Kamurocho?\r\nI need to head over to Touto Hospital and find out."
+msgstr ""
+
+msgctxt "145||m_adv02_010||mission_info"
+msgid "(Chapter 2)\r\nThere must be some clues here about what happened..."
+msgstr ""
+
+msgctxt "146||m_adv02_060||mission_info"
+msgid "(Chapter 2)\r\nLooks like I'm heading to Tojo Clan HQ.\r\nI should grab a taxi and get going."
+msgstr ""
+
+msgctxt "147||m_adv02_070||mission_info"
+msgid "(Chapter 2)\r\nI should rest at New Serena for now."
+msgstr ""
+
+msgctxt "148||m_adv02_071||mission_info"
+msgid "(Chapter 2)\r\nI wonder if I can learn anything about the culprit\r\nout on the streets of Kamurocho..."
+msgstr ""
+
+msgctxt "149||m_adv03_010||mission_info"
+msgid "(Chapter 3)\r\nThis is where that picture of Haruka was taken.\r\nMaybe the locals would have seen her here."
+msgstr ""
+
+msgctxt "150||m_adv03_050||mission_info"
+msgid "(Chapter 3)\r\n...I'm already on the local yakuza's bad side.\r\nEither way, Haruto is waiting for me."
+msgstr ""
+
+msgctxt "152||m_adv03_110||mission_info"
+msgid "(Chapter 3)\r\nI need milk, badly. Hopefully I can find some soon."
+msgstr ""
+
+msgctxt "153||m_adv03_120||mission_info"
+msgid "(Chapter 3)\r\nIt sounds like they sell milk over at the pharmacy."
+msgstr ""
+
+msgctxt "154||m_adv03_130||mission_info"
+msgid "(Chapter 3)\r\nIt looks like I'll need to rely on Ino again.\r\nMaybe the mama from Snack Kiyomi can contact him."
+msgstr ""
+
+msgctxt "155||m_adv03_140||mission_info"
+msgid "(Chapter 3)\r\nIt seems like I'll be able to get some milk from\r\nthe barber shop over in the bar district."
+msgstr ""
+
+msgctxt "156||m_adv03_160||mission_info"
+msgid "(Chapter 3)\r\nPhew, my search for milk is finally over.\r\nTime to head home and feed Haruto."
+msgstr ""
+
+msgctxt "157||m_adv03_180||mission_info"
+msgid "(Chapter 3)\r\nI don't have any leads, but there might be some info\r\non Haruto's father out in the town somewhere."
+msgstr ""
+
+msgctxt "158||m_adv03_190||mission_info"
+msgid "(Chapter 3)\r\nI should go thank Kiyomi for yesterday."
+msgstr ""
+
+msgctxt "160||m_adv03_250||mission_info"
+msgid "(Chapter 3)\r\nI should head over to Snack Kiyomi."
+msgstr ""
+
+msgctxt "161||m_adv03_270||mission_info"
+msgid "(Chapter 3)\r\nDammit, where'd they go?\r\nThey can't have gone too far."
+msgstr ""
+
+msgctxt "162||m_adv03_271||mission_info"
+msgid "(Chapter 3)\r\nThe ropeway's closed for the night.\r\nI'll have to take the trail up the hill instead."
+msgstr ""
+
+msgctxt "163||m_adv04_020||mission_info"
+msgid "(Chapter 4)\r\nMatsunaga's apparently in a fight over in a bar\r\ncalled Moreno. I might have to go help him out..."
+msgstr ""
+
+msgctxt "164||m_adv04_060||mission_info"
+msgid "(Chapter 4)\r\nTime flies when you're beating up thugs.\r\nI need to go pick up Haruto from Kiyomi's."
+msgstr ""
+
+msgctxt "165||m_adv04_090||mission_info"
+msgid "(Chapter 4)\r\nMaybe someone over at the Hirose Family Office\r\nrecognizes Haruka from her time spent here..."
+msgstr ""
+
+msgctxt "166||m_adv04_140||mission_info"
+msgid "(Chapter 4)\r\nI should follow Kiyomi up to Ryunan Shrine."
+msgstr ""
+
+msgctxt "167||m_adv04_210||mission_info"
+msgid "(Chapter 4)\r\nMatsunaga must have gone to the Hirose Family Office.\r\nThings might go south fast if I don't get there soon."
+msgstr ""
+
+msgctxt "168||m_adv05_010||mission_info"
+msgid "(Chapter 5)\r\nI might as well explore the town a bit\r\nbefore I go meet up with Kiyomi."
+msgstr ""
+
+msgctxt "169||m_adv06_040||mission_info"
+msgid "(Chapter 6)\r\nLet's stop by Café Alps for the time being."
+msgstr ""
+
+msgctxt "171||m_adv06_120||mission_info"
+msgid "(Chapter 6)\r\nI never expected to see the Jingweon Mafia again...\r\nIn any case, we should go to Stardust for now."
+msgstr ""
+
+msgctxt "172||m_adv06_190||mission_info"
+msgid "(Chapter 6)\r\nApparently Tatsukawa's been living in a building\r\njust off Senryo Avenue called the Ouka Building..."
+msgstr ""
+
+msgctxt "173||m_adv07_010||mission_info"
+msgid "(Chapter 7)\r\nNagumo and Yuta are expecting me back at Serena.\r\nI shouldn't keep them waiting."
+msgstr ""
+
+msgctxt "174||m_adv07_120||mission_info"
+msgid "(Chapter 7)\r\nAkiyama's waiting for us in front of Little Asia. Let's go."
+msgstr ""
+
+msgctxt "175||m_adv08_060||mission_info"
+msgid "(Chapter 8)\r\nAn old soapland called Shangri-La stands before us.\r\nThat's where Lo is waiting."
+msgstr ""
+
+msgctxt "176||m_adv09_010||mission_info"
+msgid "(Chapter 9)\r\nWhy would Hirose-san kidnap Haruto?\r\nEither way, I should talk to Yuta and the others at New Serena."
+msgstr ""
+
+msgctxt "177||m_adv09_030||mission_info"
+msgid "(Chapter 9)\r\nMatsunaga and Tagashira are waiting for us.\r\nLet's head over to Moreno as soon as we can."
+msgstr ""
+
+msgctxt "179||m_adv09_150||mission_info"
+msgid "(Chapter 9)\r\nSnack Hourglass might be somewhere Hirose-san hangs out.\r\nI should check it out."
+msgstr ""
+
+msgctxt "180||m_adv09_170||mission_info"
+msgid "(Chapter 9)\r\nHirose-san is apparently up at Ryunan Shrine...\r\nand from the sound of it, Haruto is with him."
+msgstr ""
+
+msgctxt "181||m_adv10_030||mission_info"
+msgid "(Chapter 10)\r\nIs Haruto safe? What about Yuta and the others?"
+msgstr ""
+
+msgctxt "182||m_adv10_050||mission_info"
+msgid "(Chapter 10)\r\nIt sounds like Ino has a boat he can use to help us.\r\nI should hurry down to the dock."
+msgstr ""
+
+msgctxt "183||m_adv11_020||mission_info"
+msgid "(Chapter 11)\r\nI should bring Haruto back to the apartment for now."
+msgstr ""
+
+msgctxt "184||m_adv11_080||mission_info"
+msgid "(Chapter 11)\r\nThere's no way I'm bringing Haruto to Little Asia with me.\r\nI bet Date-san would be able to keep him safe."
+msgstr ""
+
+msgctxt "186||m_btl01_010||mission_info"
+msgid "(Chapter 1)\r\nI really don't have time for this..."
+msgstr ""
+
+msgctxt "187||m_btl01_020||mission_info"
+msgid "(Chapter 1)\r\nLooks like fighting is my only option..."
+msgstr ""
+
+msgctxt "188||m_btl01_030||mission_info"
+msgid "(Chapter 1)\r\nWhat are these guys doing back here?"
+msgstr ""
+
+msgctxt "189||m_btl01_040||mission_info"
+msgid "(Chapter 1)\r\nLet's do this together, old friend."
+msgstr ""
+
+msgctxt "190||m_btl02_010||mission_info"
+msgid "(Chapter 2)\r\nI need to know why that guy was taking pictures of me."
+msgstr ""
+
+msgctxt "191||m_btl02_020||mission_info"
+msgid "(Chapter 2)\r\nSorry about this, old friend."
+msgstr ""
+
+msgctxt "192||m_btl03_010||mission_info"
+msgid "(Chapter 3)\r\nThis guy doesn't deserve to call himself yakuza."
+msgstr ""
+
+msgctxt "193||m_btl03_020||mission_info"
+msgid "(Chapter 3)\r\nI'll make this guy pay for disrupting my conversation."
+msgstr ""
+
+msgctxt "194||m_btl03_030||mission_info"
+msgid "(Chapter 3)\r\nSo much for a nice, friendly game of baseball."
+msgstr ""
+
+msgctxt "195||m_btl03_040||mission_info"
+msgid "(Chapter 3)\r\nI can't sit by and let those guys kill Nagumo."
+msgstr ""
+
+msgctxt "196||m_btl04_010||mission_info"
+msgid "(Chapter 4)\r\nThese guys are scum, through and through."
+msgstr ""
+
+msgctxt "197||m_btl04_020||mission_info"
+msgid "(Chapter 4)\r\nLooks like the Masuzoe Family is out for revenge."
+msgstr ""
+
+msgctxt "198||m_btl04_030||mission_info"
+msgid "(Chapter 4)\r\nI can't save Matsunaga with these two in my way..."
+msgstr ""
+
+msgctxt "199||m_btl04_040||mission_info"
+msgid "(Chapter 4)\r\nNo choice but to fight this Masuzoe guy again."
+msgstr ""
+
+msgctxt "200||m_btl05_010_01||mission_info"
+msgid "(Chapter 5)\r\nLet's take down our little welcome party."
+msgstr ""
+
+msgctxt "201||m_btl05_010_02||mission_info"
+msgid "(Chapter 5)\r\nWe need to find Kiyomi, fast!"
+msgstr ""
+
+msgctxt "202||m_btl05_010_03||mission_info"
+msgid "(Chapter 5)\r\nMaybe she's up here. We need to hurry!"
+msgstr ""
+
+msgctxt "203||m_btl05_020||mission_info"
+msgid "(Chapter 5)\r\nCome back, you coward!"
+msgstr ""
+
+msgctxt "204||m_btl05_030||mission_info"
+msgid "(Chapter 5)\r\nThis \"modern\" yakuza really gets under my skin..."
+msgstr ""
+
+msgctxt "205||m_btl06_010||mission_info"
+msgid "(Chapter 6)\r\nLooks like some of the Jingweon still hate me."
+msgstr ""
+
+msgctxt "206||m_btl06_020||mission_info"
+msgid "(Chapter 6)\r\nI'll make him pay for what he did to Yuta."
+msgstr ""
+
+msgctxt "207||m_btl07_010||mission_info"
+msgid "(Chapter 7)\r\nI can't believe I fell into their trap..."
+msgstr ""
+
+msgctxt "208||m_btl07_020||mission_info"
+msgid "(Chapter 7)\r\nWho the heck are these guys?"
+msgstr ""
+
+msgctxt "209||m_btl07_030||mission_info"
+msgid "(Chapter 7)\r\nWe're close. Just need to find a way in now."
+msgstr ""
+
+msgctxt "210||m_btl07_040||mission_info"
+msgid "(Chapter 7)\r\nIf I want more information, I'll have to beat it out of him."
+msgstr ""
+
+msgctxt "211||m_btl08_010||mission_info"
+msgid "(Chapter 8)\r\nWhat's Big Lo doing in a run-down place like this?"
+msgstr ""
+
+msgctxt "212||m_btl08_020||mission_info"
+msgid "(Chapter 8)\r\nNo surprise this was Someya's plan. Time to take him down."
+msgstr ""
+
+msgctxt "213||m_btl09_010||mission_info"
+msgid "(Chapter 9)\r\nWe really don't have time to waste on these punks."
+msgstr ""
+
+msgctxt "214||m_btl09_020||mission_info"
+msgid "(Chapter 9)"
+msgstr ""
+
+msgctxt "215||m_btl09_030||mission_info"
+msgid "(Chapter 9)\r\nI need to beat these guys fast and head to Snack Hourglass."
+msgstr ""
+
+msgctxt "216||m_btl09_040||mission_info"
+msgid "(Chapter 9)"
+msgstr ""
+
+msgctxt "217||m_btl09_050||mission_info"
+msgid "(Chapter 9)\r\nNo way am I letting this bastard slow me down."
+msgstr ""
+
+msgctxt "218||m_btl10_010||mission_info"
+msgid "(Chapter 10)\r\nI'll do whatever it takes to keep Haruto safe!"
+msgstr ""
+
+msgctxt "219||m_btl10_020||mission_info"
+msgid "(Chapter 10)\r\nWhat is this guy doing here...?"
+msgstr ""
+
+msgctxt "220||m_btl10_030||mission_info"
+msgid "(Chapter 10)\r\nI need to find Joon-gi Han and get Haruto back!"
+msgstr ""
+
+msgctxt "221||m_btl10_040||mission_info"
+msgid "(Chapter 10)\r\nI need to find Joon-gi Han and get Haruto back!"
+msgstr ""
+
+msgctxt "222||m_btl10_050||mission_info"
+msgid "(Chapter 10)\r\nI'll make him pay for everything he's done."
+msgstr ""
+
+msgctxt "223||m_btl11_010||mission_info"
+msgid "(Chapter 11)\r\nThey're going to let me in one way or another."
+msgstr ""
+
+msgctxt "224||m_btl11_020||mission_info"
+msgid "(Chapter 11)\r\nI don't have time for this. Step aside, Ed!"
+msgstr ""
+
+msgctxt "225||m_btl11_030||mission_info"
+msgid "(Chapter 11)\r\nI won't let Yuta abandon his family like this!"
+msgstr ""
+
+msgctxt "226||m_btl12_010||mission_info"
+msgid "(Chapter 12)\r\nKurusu wants me gone, but I'm not about to roll over for him."
+msgstr ""
+
+msgctxt "227||m_btl12_020||mission_info"
+msgid "(Chapter 12)\r\nI don't want to fight him, but I don't have much choice..."
+msgstr ""
+
+msgctxt "228||m_btl12_030||mission_info"
+msgid "(Chapter 12)\r\nDefeat the Yomei Alliance."
+msgstr ""
+
+msgctxt "229||m_btl12_050||mission_info"
+msgid "(Chapter 12)\r\nThere's no chance I'm letting these guys stop me!"
+msgstr ""
+
+msgctxt "230||m_btl12_060||mission_info"
+msgid "(Chapter 12)\r\nThe secret is close. Just a little further...!"
+msgstr ""
+
+msgctxt "231||m_btl12_070||mission_info"
+msgid "(Chapter 12)\r\nSo it really was Hirose-san after all..."
+msgstr ""
+
+msgctxt "232||m_btl13_010||mission_info"
+msgid "(Finale)\r\nAll the yakuza in Hiroshima are after us... Time to fight back!"
+msgstr ""
+
+msgctxt "233||m_btl13_020||mission_info"
+msgid "(Finale)\r\nAll the yakuza in Hiroshima are after us... Time to fight back!"
+msgstr ""
+
+msgctxt "234||m_btl13_030||mission_info"
+msgid "(Finale)\r\nWe need to reach Sugai, no matter what...!"
+msgstr ""
+
+msgctxt "235||m_btl13_040||mission_info"
+msgid "(Finale)\r\nWe need to reach Sugai, no matter what...!"
+msgstr ""
+
+msgctxt "236||m_btl13_050||mission_info"
+msgid "(Finale)\r\nSomeya's lost his mind... I have to stop him!"
+msgstr ""
+
+msgctxt "237||m_btl13_060||mission_info"
+msgid "(Finale)\r\nKoshimizu doesn't stand a chance against us."
+msgstr ""
+
+msgctxt "238||m_btl13_070||mission_info"
+msgid "(Finale)\r\nIt's time to put an end to this once and for all."
+msgstr ""
+
+msgctxt "249||s_SUB_A_01_01||mission_info"
+msgid "I can't let these three beat up a defenseless civilian.\r\nI'll have to help him out."
+msgstr ""
+
+msgctxt "250||s_SUB_A_01_02||mission_info"
+msgid "That Takayama guy wants to buy me a drink\r\nas a thanks. I guess I'll head over to Bantam\r\nwhen I have time."
+msgstr ""
+
+msgctxt "251||s_SUB_A_01_03||mission_info"
+msgid "The so-called Kabedon Prince taught me his secrets.\r\nNot like I'll ever actually use them, though..."
+msgstr ""
+
+msgctxt "252||s_SUB_A_01_04||mission_info"
+msgid "Those punks are back to beat up Takayama.\r\nWhen will they learn to quit?"
+msgstr ""
+
+msgctxt "253||s_SUB_A_01_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "254||s_SUB_A_02_01||mission_info"
+msgid "I'm supposed to meet up with a guy named Ishigaki.\r\nI guess I'll head over to the Millennium Tower."
+msgstr ""
+
+msgctxt "255||s_SUB_A_02_02||mission_info"
+msgid "Someone's trying to scam me. I should head over\r\nto the Millennium Tower and teach him a lesson."
+msgstr ""
+
+msgctxt "256||s_SUB_A_02_03||mission_info"
+msgid "I'm going to make sure these scammers never\r\ntry to pull another stunt like this again."
+msgstr ""
+
+msgctxt "257||s_SUB_A_02_04||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "259||s_SUB_B_01_01||mission_info"
+msgid "That girl who wants to be an idol is still crying.\r\nI should go talk to her."
+msgstr ""
+
+msgctxt "260||s_SUB_B_01_02||mission_info"
+msgid "Misa's going to tell her senpai how she feels.\r\nI should come back and check on her sometime."
+msgstr ""
+
+msgctxt "261||s_SUB_B_01_03||mission_info"
+msgid "These thugs really came along at the worst possible\r\ntime. I'll make them pay for interrupting this!"
+msgstr ""
+
+msgctxt "262||s_SUB_B_01_04||mission_info"
+msgid "Apparently Misa overheard everything. I should follow\r\nher down to the shore and make sure she's okay."
+msgstr ""
+
+msgctxt "264||i_01_katsuage_01||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "265||i_encboss_k_01||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "266||i_encboss_k_02||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "267||i_encboss_k_03||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "268||i_encboss_k_04||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "269||i_encboss_k_05||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "270||i_encboss_k_06||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "271||i_encboss_k_07||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "272||i_encboss_k_08||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "273||i_encboss_k_max01||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "274||i_encboss_k_max02||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "275||i_encboss_k_max03||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "276||i_encboss_k_max04||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "277||i_encboss_k_max05||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "278||i_encboss_o_01||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "279||i_encboss_o_02||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "280||i_encboss_o_03||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "281||i_encboss_o_04||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "282||i_encboss_o_05||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "283||i_encboss_o_06||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "284||i_encboss_o_07||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "285||i_encboss_o_08||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "286||i_encboss_o_max01||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "287||i_encboss_o_max02||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "288||i_encboss_o_max03||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "289||i_encboss_o_max04||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "290||i_encboss_o_max05||mission_info"
+msgid "It doesn't look like he's going to listen to me.\r\nGuess I'll need to let my fists do the talking."
+msgstr ""
+
+msgctxt "291||i_sample_event_encount_01||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "292||i_01_event_encount_A01||mission_info"
+msgid "These guys are notorious for mugging civilians.\r\nNow it's their turn to pay up."
+msgstr ""
+
+msgctxt "293||i_01_event_encount_A02||mission_info"
+msgid "These guys are notorious for mugging civilians.\r\nNow it's their turn to pay up."
+msgstr ""
+
+msgctxt "294||i_01_event_encount_A03||mission_info"
+msgid "These guys are notorious for mugging civilians.\r\nNow it's their turn to pay up."
+msgstr ""
+
+msgctxt "295||i_02_event_encount_A01||mission_info"
+msgid "Only cowards would go after innocent civilians.\r\nI should show them what real courage is."
+msgstr ""
+
+msgctxt "296||i_02_event_encount_A02||mission_info"
+msgid "Only cowards would go after innocent civilians.\r\nI should show them what real courage is."
+msgstr ""
+
+msgctxt "297||i_02_event_encount_A03||mission_info"
+msgid "Only cowards would go after innocent civilians.\r\nI should show them what real courage is."
+msgstr ""
+
+msgctxt "298||i_03_event_encount_A01||mission_info"
+msgid "I'll crush these bastards for\r\ntargeting defenseless women."
+msgstr ""
+
+msgctxt "299||i_03_event_encount_A02||mission_info"
+msgid "I'll crush these bastards for\r\ntargeting defenseless women."
+msgstr ""
+
+msgctxt "300||i_03_event_encount_A03||mission_info"
+msgid "I'll crush these bastards for\r\ntargeting defenseless women."
+msgstr ""
+
+msgctxt "301||i_04_event_encount_A01||mission_info"
+msgid "I can't let these guys run rampant in Kamurocho."
+msgstr ""
+
+msgctxt "302||i_04_event_encount_A02||mission_info"
+msgid "I can't let these guys run rampant in Kamurocho."
+msgstr ""
+
+msgctxt "303||i_04_event_encount_A03||mission_info"
+msgid "I can't let these guys run rampant in Kamurocho."
+msgstr ""
+
+msgctxt "304||i_05_event_encount_A01||mission_info"
+msgid "How rotten do you have to be to feed off\r\nother people's happiness?"
+msgstr ""
+
+msgctxt "305||i_05_event_encount_A02||mission_info"
+msgid "How rotten do you have to be to feed off\r\nother people's happiness?"
+msgstr ""
+
+msgctxt "306||i_05_event_encount_A03||mission_info"
+msgid "How rotten do you have to be to feed off\r\nother people's happiness?"
+msgstr ""
+
+msgctxt "307||i_10_kyuubyounin||mission_info"
+msgid "Someone's sick... I should be able to\r\nhelp them if I have some medicine."
+msgstr ""
+
+msgctxt "308||i_12_houkama||mission_info"
+msgid "If this arsonist likes to set fires so much,\r\nI'll give him the heat he deserves."
+msgstr ""
+
+msgctxt "309||i_21_hittakuri||mission_info"
+msgid "I heard something is going down at\r\nthe Oyster Shack. Let's see if it's true..."
+msgstr ""
+
+msgctxt "310||i_33_harapeko||mission_info"
+msgid "I should see if he'll eat anything."
+msgstr ""
+
+msgctxt "312||s_SUB_A_99_01||mission_info"
+msgid "Never thought I'd see Jo Amon again... Either way,\r\nI should take a taxi over to the floating island once\r\nI've made all the necessary preparations."
+msgstr ""
+
+msgctxt "313||s_SUB_A_99_02||mission_info"
+msgid "I guess fighting him is the only way out.\r\nThis won't be easy, so I have to give it my all!"
+msgstr ""
+
+msgctxt "314||s_SUB_A_99_03||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "315||m_btl13_030b||mission_info"
+msgid "(Finale)\r\nWe need to reach Sugai, no matter what...!"
+msgstr ""
+
+msgctxt "316||m_btl13_040b||mission_info"
+msgid "(Finale)"
+msgstr ""
+
+msgctxt "317||s_SUB_A_19_01||mission_info"
+msgid "I'm supposed to meet Riona over on Pink Street."
+msgstr ""
+
+msgctxt "318||s_SUB_A_19_02||mission_info"
+msgid "This guy tried to assault Riona.\r\nLet's see how he likes it."
+msgstr ""
+
+msgctxt "319||s_SUB_A_17_01||mission_info"
+msgid "I promised to meet Sora in Theater Square..."
+msgstr ""
+
+msgctxt "320||s_SUB_A_15_01||mission_info"
+msgid "It's time for my meeting with Saki.\r\nI should hurry over to the Millennium Tower."
+msgstr ""
+
+msgctxt "321||s_SUB_A_15_02||mission_info"
+msgid "I can't stand cowards who pick on the weak.\r\nSaki's fan is more courageous than these punks."
+msgstr ""
+
+msgctxt "322||m_adv03_070||mission_info"
+msgid "(Chapter 3)\r\nApparently this Ino guy has an apartment for me\r\ndown by the coast. I should head over there."
+msgstr ""
+
+msgctxt "323||m_adv03_200||mission_info"
+msgid "(Chapter 3)\r\nIt's only fair that I return the favor.\r\nTime to meet Kiyomi at the ropeway station."
+msgstr ""
+
+msgctxt "324||m_adv02_072||mission_info"
+msgid "(Chapter 2)\r\nAkiyama's apparently over at Touto Hospital.\r\nI should take a taxi to go see him."
+msgstr ""
+
+msgctxt "325||m_adv05_012||mission_info"
+msgid "(Chapter 5)\r\nIt's just about time for my meeting with Kiyomi.\r\nShe should be waiting at the top of the ropeway."
+msgstr ""
+
+msgctxt "326||m_adv06_150||mission_info"
+msgid "(Chapter 6)\r\nThose two should be able to handle themselves just fine.\r\nI should hurry over to Stardust and meet Joon-gi Han."
+msgstr ""
+
+msgctxt "327||s_SUB_A_21_01||mission_info"
+msgid "Gori-san agreed to join my baseball team\r\nif I can beat him in a home run competition.\r\nI need to win this!"
+msgstr ""
+
+msgctxt "328||s_SUB_A_21_02||mission_info"
+msgid "I need to hit 7 or more home runs to beat Gori-san!"
+msgstr ""
+
+msgctxt "329||i_test_chase||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "330||m_btl01_015||mission_info"
+msgid "(Chapter 1)\r\nThese punks should be a good refresher course."
+msgstr ""
+
+msgctxt "331||m_adv11_090||mission_info"
+msgid "(Chapter 11)\r\nYuta's not back yet... Is he still on the phone?"
+msgstr ""
+
+msgctxt "332||m_adv11_100||mission_info"
+msgid "(Chapter 11)\r\nWhere could Yuta have gone?\r\nDid he really go to Little Asia all by himself...?"
+msgstr ""
+
+msgctxt "333||m_adv12_050||mission_info"
+msgid "(Chapter 12)\r\nIt sounded like Lo wants to talk to me in private.\r\nI should head up to the roof."
+msgstr ""
+
+msgctxt "334||m_adv12_100||mission_info"
+msgid "(Chapter 12)\r\nNagumo and the others should be waiting\r\nfor me over at the Hirose Family Office."
+msgstr ""
+
+msgctxt "335||m_adv12_150_01||mission_info"
+msgid "(Chapter 12)\r\nJ7B7R36N1M7E9O22I1K1\r\nIn total, there are nine pairs of letters and numbers.\r\nThe substitution table has something to do with Onomichi..."
+msgstr ""
+
+msgctxt "336||m_adv12_150_02||mission_info"
+msgid "(Chapter 12)\r\nNaval soldier Yamano Dodai's grave...\r\nThe truth behind the secret must be hidden there."
+msgstr ""
+
+msgctxt "337||m_adv12_160||mission_info"
+msgid "(Chapter 12)\r\nIno's waiting for me with his boat.\r\nI should hurry down to the dock."
+msgstr ""
+
+msgctxt "338||m_adv13_030||mission_info"
+msgid "(Finale)\r\nSomeya's apparently waiting for me down at the dock."
+msgstr ""
+
+msgctxt "339||m_adv13_040||mission_info"
+msgid "(Finale)\r\nIf Someya's telling the truth, the Hirose Family\r\nis in trouble. I need to tell them!"
+msgstr ""
+
+msgctxt "340||m_adv13_070||mission_info"
+msgid "(Finale)\r\nThis is probably going to be my last day in Onomichi.\r\nI should head to the Navy Apartments when I'm ready..."
+msgstr ""
+
+msgctxt "341||m_adv13_090||mission_info"
+msgid "(Finale)\r\nThere's so much I want to say to Haruka.\r\nI should take a taxi to the police hospital to see her."
+msgstr ""
+
+msgctxt "342||m_adv13_130||mission_info"
+msgid "(Finale)\r\nIt's time to storm the Millennium Tower and take Sugai down.\r\nI should make sure I'm not forgetting anything first."
+msgstr ""
+
+msgctxt "343||m_adv13_170||mission_info"
+msgid "(Finale)\r\nIt seems like Nagumo has something to say to me.\r\nI should head up to the roof."
+msgstr ""
+
+msgctxt "344||s_SUB_B_13_01||mission_info"
+msgid "It's time for our game against the Jingai Thunders\r\nreserve squad. Chiba's waiting for me up at the\r\nbaseball field."
+msgstr ""
+
+msgctxt "345||s_SUB_B_13_02||mission_info"
+msgid "Let's win a game against the Jingai Thunders reserve squad.\r\nThere has to be something to gain from a first victory."
+msgstr ""
+
+msgctxt "346||s_SUB_B_13_03||mission_info"
+msgid "Losing to a reserve squad is a little embarrassing...\r\nWe should strengthen the team and try again."
+msgstr ""
+
+msgctxt "347||s_SUB_B_13_04||mission_info"
+msgid "We beat the Jingai Thunders reserve squad!\r\nIt feels like we're really coming together as a team."
+msgstr ""
+
+msgctxt "348||s_SUB_B_13_05||mission_info"
+msgid "We managed to win our first game!"
+msgstr ""
+
+msgctxt "349||m_adv01_085_before||mission_info"
+msgid "(Chapter 1)\r\nI should ask at New Serena and Bantam\r\nfor any information they might have."
+msgstr ""
+
+msgctxt "350||m_adv01_085_after||mission_info"
+msgid "(Chapter 1)\r\nI should ask at New Serena and Bantam\r\nfor any information they might have."
+msgstr ""
+
+msgctxt "351||s_SUB_B_15_01||mission_info"
+msgid "It's time for our game against the Onomichi Legends.\r\nChiba's waiting for me up at the baseball field."
+msgstr ""
+
+msgctxt "352||s_SUB_B_15_02||mission_info"
+msgid "I should talk to Chiba when I'm ready for the game."
+msgstr ""
+
+msgctxt "353||s_SUB_B_15_03||mission_info"
+msgid "These Onomichi Legends really are legendary...\r\nWe should train hard for our next game against them."
+msgstr ""
+
+msgctxt "354||s_SUB_B_15_04||mission_info"
+msgid "The Warriors are really starting to gel."
+msgstr ""
+
+msgctxt "355||s_SUB_B_15_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "356||s_SUB_B_12_01||mission_info"
+msgid "Chiba said he'd be waiting for me at the baseball field.\r\nI guess it's my duty as the team captain to show up."
+msgstr ""
+
+msgctxt "357||s_SUB_B_12_02||mission_info"
+msgid "A potential teammate named Moritsuka is apparently\r\nat a bar somewhere in town. I should go take a look\r\ndown in the bar district."
+msgstr ""
+
+msgctxt "358||s_SUB_B_12_03||mission_info"
+msgid "Moritsuka's in terrible shape... but I guess\r\nit wouldn't hurt to talk to him."
+msgstr ""
+
+msgctxt "359||s_SUB_B_12_04||mission_info"
+msgid "This guy's hopeless. I should sober him up a bit."
+msgstr ""
+
+msgctxt "360||s_SUB_B_12_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "361||s_SUB_B_14_01||mission_info"
+msgid "It's time for our game against the Jingai Thunders.\r\nI should go see Chiba up at the baseball field."
+msgstr ""
+
+msgctxt "362||s_SUB_B_14_02||mission_info"
+msgid "Jingai Thunders, here we come. I should talk\r\nto Chiba when I'm ready to play."
+msgstr ""
+
+msgctxt "363||s_SUB_B_14_03||mission_info"
+msgid "It's no surprise that their main team is a challenge...\r\nbut we won't lose again. We should strengthen\r\nthe team so we're ready for next time."
+msgstr ""
+
+msgctxt "364||s_SUB_B_14_04||mission_info"
+msgid "This win is a testament to our team unity."
+msgstr ""
+
+msgctxt "365||s_SUB_B_14_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "366||s_SUB_A_13_01||mission_info"
+msgid "Some guy at Bantam challenged me to a round\r\nof darts. I should go play him if I have the time."
+msgstr ""
+
+msgctxt "367||s_SUB_A_13_02||mission_info"
+msgid "I don't know if I'm really that good at darts, but I'll\r\nkeep trying to play against people if I have time."
+msgstr ""
+
+msgctxt "369||s_SUB_A_20_01||mission_info"
+msgid "Yoshida asked me to try his trial course.\r\nI guess I'll give it a shot..."
+msgstr ""
+
+msgctxt "370||s_SUB_A_20_02||mission_info"
+msgid "Yoshida says he'll do anything I want if I can hit\r\nfive home runs in a row. Let's see if he means it."
+msgstr ""
+
+msgctxt "371||s_SUB_B_11_01||mission_info"
+msgid "Looks like I'll be helping the Setouchi Warriors now.\r\nI should get a taxi to the field when I have some time."
+msgstr ""
+
+msgctxt "374||s_SUB_B_11_04||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "375||i_13_tourima||mission_info"
+msgid "There's a slasher on the loose. I can't let\r\nanyone else fall victim to his crimes."
+msgstr ""
+
+msgctxt "376||i_14_kaji||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "381||i_22_suri||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "382||i_23_manbiki||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "383||i_24_goutou||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "384||i_27_twitter||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "385||i_28_yokoku||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "386||i_29_sos||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "387||i_30_clan||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "388||i_31_yopparai||mission_info"
+msgid "I need to get rid of this drunkard somehow."
+msgstr ""
+
+msgctxt "389||i_32_deliver||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "390||i_34_rakugaki||mission_info"
+msgid "Apparently people are worried about\r\nthe graffiti on the wall. I should find the culprit."
+msgstr ""
+
+msgctxt "391||i_38_toritetsu||mission_info"
+msgid "I should do something about the\r\nproblematic railway enthusiast."
+msgstr ""
+
+msgctxt "392||i_39_seafood||mission_info"
+msgid "I should go catch some fish."
+msgstr ""
+
+msgctxt "393||i_40_tombraider||mission_info"
+msgid "Apparently someone's robbing graves.\r\nThe dead can't defend themselves, so I will."
+msgstr ""
+
+msgctxt "394||i_41_missing||mission_info"
+msgid "Sounds like someone's child has gone missing.\r\nI should do what I can to help out."
+msgstr ""
+
+msgctxt "395||i_46_fire||mission_info"
+msgid "I need to put that fire out.\r\nIf only I had a fire extinguisher..."
+msgstr ""
+
+msgctxt "396||i_47_tsutsumotase||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "397||i_48_spam||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "398||s_SUB_A_03_01||mission_info"
+msgid "That Haruka fan looks depressed for some reason.\r\nI should see if I can find out why."
+msgstr ""
+
+msgctxt "399||s_SUB_A_03_02||mission_info"
+msgid "I promised Ayaka I'd get her some Haruka\r\nmerchandise. I should try to find something\r\nat Don Quijote."
+msgstr ""
+
+msgctxt "400||s_SUB_A_03_03||mission_info"
+msgid "Idol fans apparently show up at Club SEGA in\r\nTheater Square all the time. I should go talk to them."
+msgstr ""
+
+msgctxt "401||s_SUB_A_03_04||mission_info"
+msgid "One particularly eager fan told me\r\nEbisu Pawn sells a rare picture\r\nof Haruka. I need to get that photo!"
+msgstr ""
+
+msgctxt "402||s_SUB_A_03_05||mission_info"
+msgid "A Haruka fan is getting mugged by a gang of thugs.\r\nThey've messed with the wrong fanbase."
+msgstr ""
+
+msgctxt "403||s_SUB_A_03_06||mission_info"
+msgid "I managed to get my hands on the picture of Haruka.\r\nI should bring it back to Ayaka."
+msgstr ""
+
+msgctxt "404||s_SUB_A_03_07||mission_info"
+msgid "I'm glad Ayaka liked the photo."
+msgstr ""
+
+msgctxt "405||s_SUB_A_04_01||mission_info"
+msgid "Some little round thing just whirred by me...\r\nLet me talk to the guy on Suppon Street about it."
+msgstr ""
+
+msgctxt "406||s_SUB_A_04_02||mission_info"
+msgid "The guy said his cleaning robot is running loose around\r\nthe city. Maybe I should help him if I have time."
+msgstr ""
+
+msgctxt "407||s_SUB_A_04_03||mission_info"
+msgid "Fujita asked me to catch his rampant cleaning robot.\r\nI'm going to have to chase it down the streets, aren't I?"
+msgstr ""
+
+msgctxt "408||s_SUB_A_04_04||mission_info"
+msgid "I detect dirt too, Soji. Time to get rid of them."
+msgstr ""
+
+msgctxt "409||s_SUB_A_05_01||mission_info"
+msgid "Some guy told me about an AI app called Hiji...\r\nI should talk to him again if I'm interested."
+msgstr ""
+
+msgctxt "410||s_SUB_A_05_02||mission_info"
+msgid "I'm not so comfortable talking to Hiji in public.\r\nI should try it out by myself at the Children's Park."
+msgstr ""
+
+msgctxt "411||s_SUB_A_05_03||mission_info"
+msgid "Hiji's telling me to leave the park.\r\nI guess I'll do what it says for now..."
+msgstr ""
+
+msgctxt "412||s_SUB_A_05_04||mission_info"
+msgid "What a mess Hiji's gone and dragged me into.\r\nNo choice but to take care of this drunkard now."
+msgstr ""
+
+msgctxt "413||s_SUB_A_05_05||mission_info"
+msgid "If I want to get rid of Hiji, I'll have to go back and talk\r\nto that sales rep over on Nakamichi Street."
+msgstr ""
+
+msgctxt "414||s_SUB_A_05_06||mission_info"
+msgid "What the heck does that guy want with my phone?\r\nI'll have to catch him and make him fess up."
+msgstr ""
+
+msgctxt "415||s_SUB_A_06_01||mission_info"
+msgid "I met a man named Tsutsui who makes videos\r\nfor a living. Hopefully he's managing to stay\r\nout of trouble..."
+msgstr ""
+
+msgctxt "416||s_SUB_A_06_02||mission_info"
+msgid "I can't believe the trouble he's causing\r\nall for the sake of his video. What a mess."
+msgstr ""
+
+msgctxt "417||s_SUB_A_06_03||mission_info"
+msgid "Tsutsui isn't interested in my advice.\r\nHe still has a lot to learn about the world."
+msgstr ""
+
+msgctxt "418||s_SUB_A_06_04||mission_info"
+msgid "Tsutsui's hanging out the window of Lullaby Mahjong.\r\nHe deserves it... but I guess I should still help him."
+msgstr ""
+
+msgctxt "419||s_SUB_A_06_05||mission_info"
+msgid "If words won't convince this idiot to give it up,\r\nhe's going to find my fists aren't so social."
+msgstr ""
+
+msgctxt "420||s_SUB_A_06_06||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "421||s_SUB_A_07_01||mission_info"
+msgid "Apparently there's a \"drone\" flying around Kamurocho.\r\nI wonder what that even means..."
+msgstr ""
+
+msgctxt "422||s_SUB_A_07_02||mission_info"
+msgid "I should go find out what that scream was about."
+msgstr ""
+
+msgctxt "423||s_SUB_A_07_03||mission_info"
+msgid "Apparently drones attack people sometimes.\r\nI guess I need to be careful, too."
+msgstr ""
+
+msgctxt "424||s_SUB_A_07_04||mission_info"
+msgid "I can't let this drone keep putting people in danger.\r\nI should follow it and figure out where it's going."
+msgstr ""
+
+msgctxt "425||s_SUB_A_07_05||mission_info"
+msgid "What kind of yakuza force a kid to film Kamurocho?\r\nI'll have to punish them for this."
+msgstr ""
+
+msgctxt "426||s_SUB_A_07_06||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "427||s_SUB_A_08_01||mission_info"
+msgid "What kind of madman would set off a bomb?\r\nI should go take a look in the area."
+msgstr ""
+
+msgctxt "428||s_SUB_A_08_02||mission_info"
+msgid "Is the Saio Triad behind all this? Either way, there's\r\napparently a suspicious guy over at the batting center."
+msgstr ""
+
+msgctxt "429||s_SUB_A_08_03||mission_info"
+msgid "I don't know who this guy is or where he's from...\r\nbut it's time to make him fess up."
+msgstr ""
+
+msgctxt "430||s_SUB_A_08_04||mission_info"
+msgid "This guy just doesn't know when to quit!"
+msgstr ""
+
+msgctxt "431||s_SUB_A_08_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "434||s_SUB_A_09_01||mission_info"
+msgid "Letting that guy die just wouldn't seem right.\r\nI should head back to the Yoshida Batting Center..."
+msgstr ""
+
+msgctxt "435||s_SUB_A_09_02||mission_info"
+msgid "They must be bored if they're here just for revenge.\r\nGlad to see I won't have to hold back, though."
+msgstr ""
+
+msgctxt "436||s_SUB_A_09_03||mission_info"
+msgid "That should keep them calm for a while.\r\nI still can't believe they set that bomb..."
+msgstr ""
+
+msgctxt "437||s_SUB_A_11_01||mission_info"
+msgid "Dammit, the girl already changed locations.\r\nWhere could she have gone?"
+msgstr ""
+
+msgctxt "438||s_SUB_A_11_02||mission_info"
+msgid "This girl might be indecisive, but damn is she\r\nbeautiful. Maybe she's on a roof somewhere...?"
+msgstr ""
+
+msgctxt "439||s_SUB_A_11_03||mission_info"
+msgid "Those guys came up with a pretty terrible plan...\r\nand they picked the worst possible person to trick."
+msgstr ""
+
+msgctxt "440||s_SUB_A_11_04||mission_info"
+msgid "I knew this sounded too good to be true."
+msgstr ""
+
+msgctxt "441||s_SUB_A_12_01||mission_info"
+msgid "Date-san asked me to get 50,000 yen in prepaid cards.\r\nI should be able to find them at a convenience store."
+msgstr ""
+
+msgctxt "442||s_SUB_A_12_02||mission_info"
+msgid "Apparently I have to go to the roof of\r\nthe Senryo Building. Date-san's waiting\r\nfor me. Or maybe..."
+msgstr ""
+
+msgctxt "443||s_SUB_A_12_03||mission_info"
+msgid "Turns out it was a scam.\r\nI'll make this guy pay for trying to trick me."
+msgstr ""
+
+msgctxt "444||s_SUB_A_12_04||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "445||s_SUB_A_12_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "446||s_SUB_A_16_01||mission_info"
+msgid "Hikaru's gotten herself mixed up with some\r\nshady people. I'm worried about her."
+msgstr ""
+
+msgctxt "447||s_SUB_A_16_02||mission_info"
+msgid "That suspicious guy took Hikaru inside.\r\nI have a bad feeling about this..."
+msgstr ""
+
+msgctxt "448||s_SUB_A_16_03||mission_info"
+msgid "Time to take these guys down and save Hikaru!"
+msgstr ""
+
+msgctxt "449||s_SUB_A_18_01||mission_info"
+msgid "So this guy is Erina's stalker. I need to protect her!"
+msgstr ""
+
+msgctxt "450||s_SUB_A_24_01||mission_info"
+msgid "Hm, this live chat thing does seem interesting.\r\nI should meet up with that guy at the internet café\r\nover by Theater Square."
+msgstr ""
+
+msgctxt "451||s_SUB_A_26_01||mission_info"
+msgid "Some guy who claims to know Saejima challenged me\r\nto a fight. He doesn't know what he's getting himself into."
+msgstr ""
+
+msgctxt "452||s_SUB_A_26_02||mission_info"
+msgid "That guy who says he knows Saejima challenged me\r\nto another fight. I'll give this my all!"
+msgstr ""
+
+msgctxt "453||c_CLN01_01||mission_info"
+msgid "I can't believe these guys tried to mug me.\r\nLooks like I'll have to teach them a little lesson."
+msgstr ""
+
+msgctxt "454||c_CLN02_01||mission_info"
+msgid "I'm not sure who these JUSTIS people are,\r\nbut I won't lay down and let them win."
+msgstr ""
+
+msgctxt "455||c_CLN02_02||mission_info"
+msgid "Sachiko's been taken by those JUSTIS guys.\r\nJoe and I need to save her soon."
+msgstr ""
+
+msgctxt "456||c_CLN05_01||mission_info"
+msgid "So this is one of the Six Lunatics, Toru Yano.\r\nAll right... Let's see what this weirdo's got."
+msgstr ""
+
+msgctxt "457||c_CLN07_01||mission_info"
+msgid "Another one of the Six Lunatics, Naito...\r\nIf he wants a fight, I'll give him a fight."
+msgstr ""
+
+msgctxt "458||c_CLN11_01||mission_info"
+msgid "Time to find out if 1 + 1 is really 200.\r\nLet's do this, Joe!"
+msgstr ""
+
+msgctxt "459||c_CLN13_01||mission_info"
+msgid "It's hard trading blows with a friend, but sometimes it's the only\r\nway to understand where they're coming from. Don't give up, Joe!"
+msgstr ""
+
+msgctxt "460||c_CLN15_01||mission_info"
+msgid "Kazuchika Okada, the leader of JUSTIS...\r\nHe's strong, but not strong enough to stop me!"
+msgstr ""
+
+msgctxt "461||c_CLN16_01||mission_info"
+msgid "So the puppet master finally showed himself...\r\nJoe! Okada! Let's take him down together!"
+msgstr ""
+
+msgctxt "462||s_SUB_B_02_01||mission_info"
+msgid "It sounded like that old guy is in some real trouble.\r\nMaybe I should do him a favor if I have time."
+msgstr ""
+
+msgctxt "463||s_SUB_B_02_02||mission_info"
+msgid "Apparently I need to get the name order right if I want\r\nto get into their HQ. I think it was Munan... something."
+msgstr ""
+
+msgctxt "464||s_SUB_B_02_03||mission_info"
+msgid "After all that talk about virtue, they resort to violence.\r\nI need to take these guys down and go see the guru."
+msgstr ""
+
+msgctxt "465||s_SUB_B_02_04||mission_info"
+msgid "The guru's true nature is finally clear. I'll just have to\r\nchomo gomes him so he can never do wrong again."
+msgstr ""
+
+msgctxt "466||s_SUB_B_02_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "467||s_SUB_B_03_01||mission_info"
+msgid "It's been ages since I last saw Pocket Circuit Fighter.\r\nHe looks a lot older... Though I guess I do, too."
+msgstr ""
+
+msgctxt "468||s_SUB_B_03_02||mission_info"
+msgid "I promised Pocket Circuit Fighter's son Sakito\r\nthat I'd teach him all about Pocket Circuit racing.\r\nI should stop by La Pente sometime."
+msgstr ""
+
+msgctxt "469||s_SUB_B_03_03||mission_info"
+msgid "Sakito ran off, apparently to somewhere you can\r\nsee the ocean from. I need to find him soon!"
+msgstr ""
+
+msgctxt "470||s_SUB_B_03_04||mission_info"
+msgid "Let's protect Sakito together, Pocket Circuit Fighter."
+msgstr ""
+
+msgctxt "471||s_SUB_B_03_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "473||s_SUB_B_04_01||mission_info"
+msgid "Who is this guy...? I guess I can ask questions later."
+msgstr ""
+
+msgctxt "474||s_SUB_B_04_02||mission_info"
+msgid "I'm not sure I can just decide to believe in ghosts...\r\nbut maybe I should come back to the cemetery at\r\nnight sometime, just in case."
+msgstr ""
+
+msgctxt "475||s_SUB_B_04_03||mission_info"
+msgid "I didn't expect another ghost to show up behind me.\r\nI've got to hand it to 'em<symbol=em_dash_with_outline>that was a real surprise."
+msgstr ""
+
+msgctxt "476||s_SUB_B_04_04||mission_info"
+msgid "I'm not too keen on this ghost taking a shine to me.\r\nI should stop by the cemetery at night sometime."
+msgstr ""
+
+msgctxt "477||s_SUB_B_04_05||mission_info"
+msgid "I've already come this far... If fighting these guys puts\r\ntheir souls at rest, I won't let them down!"
+msgstr ""
+
+msgctxt "478||s_SUB_B_04_06||mission_info"
+msgid "I'm worried about the old man... I should stop by\r\nthe cemetery at night after some time has passed."
+msgstr ""
+
+msgctxt "479||s_SUB_B_04_07||mission_info"
+msgid "They must really like me to come three at a time.\r\nAt least they're all enjoying themselves."
+msgstr ""
+
+msgctxt "480||s_SUB_B_04_08||mission_info"
+msgid "The old man said the next fight will be the last one.\r\nI'll give these ghosts the fight of their afterlives."
+msgstr ""
+
+msgctxt "481||s_SUB_B_04_09||mission_info"
+msgid "This is our final battle. I need to make sure\r\nthey can pass on in peace!"
+msgstr ""
+
+msgctxt "482||s_SUB_B_04_10||mission_info"
+msgid "The old man said the ghosts would be gone for good.\r\nMaybe I should stop by the cemetery at night\r\nagain, just to make sure."
+msgstr ""
+
+msgctxt "483||s_SUB_B_05_01||mission_info"
+msgid "I've been asked to take on the role of Ono Michio,\r\na local mascot. I wanted to decline, but I'd rather\r\nnot disappoint all the children who love him."
+msgstr ""
+
+msgctxt "484||s_SUB_B_05_02||mission_info"
+msgid "Ono Michio can't let some thugs get away with\r\nmaking these kids cry."
+msgstr ""
+
+msgctxt "485||s_SUB_B_05_03||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "486||s_SUB_B_06_01||mission_info"
+msgid "Hironaka asked me to take on the role of Ono Michio\r\nagain. What should I do...?"
+msgstr ""
+
+msgctxt "487||s_SUB_B_06_02||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "488||s_SUB_B_07_01||mission_info"
+msgid "One of the Ono Michio fans seems really depressed.\r\nMaybe I should go try to talk to her."
+msgstr ""
+
+msgctxt "489||s_SUB_B_07_02||mission_info"
+msgid "Ono Michio might be able to help Shizuko out.\r\nI should go meet Hironaka in front of Yonetoku."
+msgstr ""
+
+msgctxt "490||s_SUB_B_07_03||mission_info"
+msgid "These punks never learn. Watch how courageous\r\nyour treasured Ono Michio can be, Shizuko!"
+msgstr ""
+
+msgctxt "491||s_SUB_B_07_04||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "492||s_SUB_B_08_01||mission_info"
+msgid "This story sounds too bizarre to be made up.\r\nI should talk to the girl in question a bit more."
+msgstr ""
+
+msgctxt "493||s_SUB_B_08_02||mission_info"
+msgid "This girl talks about some strange stuff, but she still\r\nseems like a good person. I should talk to her again\r\nif I ever see her around."
+msgstr ""
+
+msgctxt "494||s_SUB_B_08_03||mission_info"
+msgid "It must be pretty traumatic watching your father bow\r\nto some lowlife punks. Time to change the future."
+msgstr ""
+
+msgctxt "495||s_SUB_B_08_04||mission_info"
+msgid "Miku should be doing better now. I need to make sure\r\nI live the one life I have to the absolute fullest."
+msgstr ""
+
+msgctxt "496||s_SUB_B_09_01||mission_info"
+msgid "I've never heard of people actually swapping bodies...\r\nMaybe I should talk to those two if I see them again."
+msgstr ""
+
+msgctxt "497||s_SUB_B_09_02||mission_info"
+msgid "What kind of degenerates gang up on a \"woman\"?\r\nTime to teach these punks a lesson."
+msgstr ""
+
+msgctxt "498||s_SUB_B_09_03||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "499||s_SUB_B_17_01||mission_info"
+msgid "Hatakeyama-san seems a little depressed.\r\nI should head to New Gaudi and talk to him."
+msgstr ""
+
+msgctxt "500||s_SUB_B_17_02||mission_info"
+msgid "Hatakeyama-san's daughter is apparently going to\r\nLa Pente on a date. I'm worried he's going to get\r\ncaught following her..."
+msgstr ""
+
+msgctxt "501||s_SUB_B_17_03||mission_info"
+msgid "It sounds like Hatakeyama-san's relationship with\r\nhis daughter has improved. I wonder if he's over at\r\nNew Gaudi today."
+msgstr ""
+
+msgctxt "502||s_SUB_B_18_01||mission_info"
+msgid "Akiyoshi-san apparently needs to talk to me about\r\nsomething. I should go to New Gaudi and hear what\r\nhe has to say."
+msgstr ""
+
+msgctxt "503||s_SUB_B_18_02||mission_info"
+msgid "Akiyoshi-san forgot his wallet at the bar when he\r\nwent home. I need to go return it to him."
+msgstr ""
+
+msgctxt "504||s_SUB_B_18_03||mission_info"
+msgid "I wonder if Akiyoshi-san managed to talk to his teacher\r\nat his reunion. I should ask him about it next time I'm\r\nover at New Gaudi."
+msgstr ""
+
+msgctxt "505||s_SUB_B_19_01||mission_info"
+msgid "I just saw Gen-san walking into New Gaudi.\r\nMaybe I should head inside, too."
+msgstr ""
+
+msgctxt "506||s_SUB_B_19_02||mission_info"
+msgid "I'm glad Gen-san is a little less wary of technology now.\r\nI wonder if he's gotten around to buying a smartphone."
+msgstr ""
+
+msgctxt "507||s_SUB_B_19_03||mission_info"
+msgid "It looks like Gen-san is really enjoying his new phone.\r\nI should go check on him over at New Gaudi."
+msgstr ""
+
+msgctxt "508||s_SUB_B_19_04||mission_info"
+msgid "Gen-san is probably even better with technology now.\r\nI should stop by New Gaudi again and check on him."
+msgstr ""
+
+msgctxt "509||s_SUB_B_20_01||mission_info"
+msgid "Ando-san is busy looking at something a random\r\ncustomer of his brought in. Life working in a pawn shop\r\nmust be tough."
+msgstr ""
+
+msgctxt "510||s_SUB_B_20_02||mission_info"
+msgid "Ando-san seemed to be acting strange after he took\r\na look at that ring. I should ask him about it over at\r\nNew Gaudi later."
+msgstr ""
+
+msgctxt "511||s_SUB_B_20_03||mission_info"
+msgid "I should go check on Ando-san at the pawn shop.\r\nHopefully he's feeling better..."
+msgstr ""
+
+msgctxt "512||s_SUB_B_20_04||mission_info"
+msgid "Who would've thought the thief would come here of\r\nhis own volition? Anyway, I need to get that bag back."
+msgstr ""
+
+msgctxt "513||s_SUB_B_20_05||mission_info"
+msgid "The old lady said she saw Ando-san down by the\r\nshoreline. I should go look for him there."
+msgstr ""
+
+msgctxt "514||s_SUB_B_20_06||mission_info"
+msgid "I wonder how things have been going between\r\nAndo-san and his wife. Maybe I should head over\r\nto New Gaudi and ask him about it."
+msgstr ""
+
+msgctxt "515||s_SUB_B_21_01||mission_info"
+msgid "Kaneko-san's waiting for me at New Gaudi.\r\nI should head over there if I have the time."
+msgstr ""
+
+msgctxt "516||s_SUB_B_21_02||mission_info"
+msgid "So Kaneko-san's boxing career was stolen away from\r\nhim... I should go tell him the truth."
+msgstr ""
+
+msgctxt "517||s_SUB_B_21_03||mission_info"
+msgid "I'm glad Kaneko-san managed to break free from his\r\npast. New Gaudi should be a little livelier now."
+msgstr ""
+
+msgctxt "518||s_SUB_B_22_01||mission_info"
+msgid "Weird... I actually feel pretty connected to the gang\r\nover at New Gaudi. I should stop by when I have time."
+msgstr ""
+
+msgctxt "519||s_SUB_B_22_02||mission_info"
+msgid "I wrote a letter telling Mama how thankful I am for\r\neverything. Now the question is, where to hide it...?"
+msgstr ""
+
+msgctxt "520||s_SUB_B_22_03||mission_info"
+msgid "I wonder if Mama's noticed the letter yet.\r\nGuess I'll just kill some time for a bit."
+msgstr ""
+
+msgctxt "521||s_SUB_B_22_04||mission_info"
+msgid "It's almost time for my meeting with Mama.\r\nI should head down to the dock."
+msgstr ""
+
+msgctxt "522||s_SUB_B_22_05||mission_info"
+msgid "I didn't think my letter would end up in the wrong\r\nhands... Oh well, guess I'll just have to try again."
+msgstr ""
+
+msgctxt "523||s_SUB_B_22_06||mission_info"
+msgid "I hope Mama noticed the letter this time.\r\nGuess I'll just wait around for a little while."
+msgstr ""
+
+msgctxt "525||s_SUB_B_22_08||mission_info"
+msgid "I finally managed to show how thankful I am of Mama.\r\nTime to head back to New Gaudi for now."
+msgstr ""
+
+msgctxt "526||s_SUB_B_22_09||mission_info"
+msgid "I've really had a great time at New Gaudi recently.\r\nI should drop by if I ever start missing it."
+msgstr ""
+
+msgctxt "527||s_SUB_B_23_01||mission_info"
+msgid "Isao-san says he'll take me spearfishing.\r\nI should go see him when I have some time."
+msgstr ""
+
+msgctxt "528||s_SUB_B_23_02||mission_info"
+msgid "Looks like I'll be taking Isao-san's place in the\r\nspearfishing scene. I should go talk to him when\r\nI'm ready to fish."
+msgstr ""
+
+msgctxt "529||s_SUB_B_23_03||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "530||s_SUB_B_24_01||mission_info"
+msgid "The most delicious octopus in the world... I'll get\r\nanother player for my baseball team if I can defeat it,\r\nso I should try my absolute hardest."
+msgstr ""
+
+msgctxt "531||s_SUB_B_25_01||mission_info"
+msgid "So my opponent this time is the man-eating\r\nBloody Shark... I'll avenge your father, Amano."
+msgstr ""
+
+msgctxt "532||s_SUB_B_26_01||mission_info"
+msgid "Some guy named Saigo challenged me to a fight.\r\nLet's see what he's made of."
+msgstr ""
+
+msgctxt "533||s_SUB_B_26_02||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "534||s_SUB_B_26_03||mission_info"
+msgid "That Saigo guy challenged me to another fight.\r\nI can't afford to hold back this time."
+msgstr ""
+
+msgctxt "535||s_SUB_B_27_01||mission_info"
+msgid "Hatakeyama-san introduced me to the people over at\r\nNew Gaudi. It might be fun to drop in and have\r\na few drinks with them every so often."
+msgstr ""
+
+msgctxt "536||i_sample_talk||mission_info"
+msgid "UNUSED"
+msgstr ""
+
+msgctxt "537||m_adv11_040||mission_info"
+msgid "(Chapter 11)\r\nI need to tell Nagumo and the others\r\nwhat's going on before I head up to Kamurocho."
+msgstr ""
+
+msgctxt "540||m_adv01_120_before||mission_info"
+msgid "(Chapter 1)\r\nLet's see if there's any more info near Sky Finance..."
+msgstr ""
+
+msgctxt "541||m_adv01_120_after||mission_info"
+msgid "(Chapter 1)\r\nLet's see if there's any more info near Sky Finance..."
+msgstr ""
+
+msgctxt "542||m_adv03_150||mission_info"
+msgid "(Chapter 3)\r\nIt seems like I'll be able to get some milk from\r\nthe barber shop over in the bar district."
+msgstr ""
+
+msgctxt "543||i_harutobtl_c03_a||mission_info"
+msgid "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though."
+msgstr ""
+
+msgctxt "544||i_42_falling||mission_info"
+msgid "Someone's going to fall off the roof\r\nof the arcade. I need to help them!"
+msgstr ""
+
+msgctxt "545||c_CLN31_01||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "546||c_CLN31_02||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "547||c_CLN31_03||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "548||c_CLN31_04||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "549||c_CLN31_05||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "550||c_CLN31_06||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "551||c_CLN31_07||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "552||c_CLN31_08||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "553||c_CLN31_09||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "554||c_CLN31_10||mission_info"
+msgid "I don't get it<symbol=em_dash_with_outline>why's he so keen on fighting?\r\nMight as well give him what he wants, though."
+msgstr ""
+
+msgctxt "555||m_adv04_080||mission_info"
+msgid "(Chapter 4)\r\nI'm ready to sleep for the night."
+msgstr ""
+
+msgctxt "556||m_adv04_160||mission_info"
+msgid "(Chapter 4)\r\nI should follow Kiyomi up to Ryunan Shrine."
+msgstr ""
+
+msgctxt "557||m_adv04_170||mission_info"
+msgid "(Chapter 4)\r\nI might want to drop by Moreno."
+msgstr ""
+
+msgctxt "558||m_adv04_240||mission_info"
+msgid "(Chapter 4)\r\nKiyomi's bringing Haruto back to the apartment.\r\nI shouldn't keep her waiting."
+msgstr ""
+
+msgctxt "559||i_10_kyuubyounin_k00||mission_info"
+msgid "Someone's sick... I should be able to\r\nhelp them if I have some medicine."
+msgstr ""
+
+msgctxt "560||i_42_falling_k00||mission_info"
+msgid "Someone's going to fall off the roof of the\r\nbatting center. I need to help them!"
+msgstr ""
+
+msgctxt "561||m_adv06_020||mission_info"
+msgid "(Chapter 6)\r\nI should use this time to get ready for Kamurocho,\r\nthen head back to the apartment."
+msgstr ""
+
+msgctxt "562||m_adv06_060||mission_info"
+msgid "(Chapter 6)\r\nWe might be able to get some information\r\non Tatsukawa over at Stardust."
+msgstr ""
+
+msgctxt "563||m_adv07_020||mission_info"
+msgid "(Chapter 7)\r\nI need to find Akiyama, no matter what.\r\nMaybe I should check in the sewer from before."
+msgstr ""
+
+msgctxt "564||m_adv07_050||mission_info"
+msgid "(Chapter 7)\r\nTime for my meeting with Akiyama.\r\nHe's waiting at the APA Hotel in Theater Square."
+msgstr ""
+
+msgctxt "565||m_adv07_080||mission_info"
+msgid "(Chapter 7)\r\nNo one's following me anymore. Now to go meet\r\nup with Akiyama."
+msgstr ""
+
+msgctxt "566||m_adv07_100||mission_info"
+msgid "(Chapter 7)\r\nI should head back to New Serena and\r\nget in touch with Nagumo and Yuta."
+msgstr ""
+
+msgctxt "567||m_adv07_060||mission_info"
+msgid "(Chapter 7)\r\nI'm being followed... I'll have to lead my pursuers\r\ninto an alleyway and find out who's behind this."
+msgstr ""
+
+msgctxt "568||m_adv07_130||mission_info"
+msgid "(Chapter 7)\r\nAkiyama and I are sneaking up to the roof together.\r\nLet's try to make sure nobody sees us in here."
+msgstr ""
+
+msgctxt "569||m_adv08_030||mission_info"
+msgid "(Chapter 8)\r\nI should make sure I'm ready to head to Shangri-La\r\nwith Someya, then go talk to Akiyama."
+msgstr ""
+
+msgctxt "570||m_adv09_020||mission_info"
+msgid "(Chapter 9)\r\nWe need to hurry back to Hiroshima as fast as possible.\r\nI should talk to Nagumo when I'm ready."
+msgstr ""
+
+msgctxt "571||m_adv09_040||mission_info"
+msgid "(Chapter 9)\r\nMatsunaga and Tagashira are waiting for us.\r\nLet's head over to Moreno as soon as we can."
+msgstr ""
+
+msgctxt "572||i_harutobtl_c03_b||mission_info"
+msgid "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though."
+msgstr ""
+
+msgctxt "573||i_harutobtl_c03_c||mission_info"
+msgid "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though."
+msgstr ""
+
+msgctxt "574||i_harutobtl_c03_d||mission_info"
+msgid "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though."
+msgstr ""
+
+msgctxt "575||i_harutobtl_c03_e||mission_info"
+msgid "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though."
+msgstr ""
+
+msgctxt "576||i_harutobtl_c03_f||mission_info"
+msgid "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though."
+msgstr ""
+
+msgctxt "577||m_adv09_080||mission_info"
+msgid "(Chapter 9)\r\nMaybe the members of the Hirose Family\r\nwould know where Hirose-san might be..."
+msgstr ""
+
+msgctxt "578||m_adv09_120||mission_info"
+msgid "(Chapter 9)\r\nIs there any way up to the second floor?"
+msgstr ""
+
+msgctxt "579||m_adv10_031||mission_info"
+msgid "(Chapter 10)\r\nI hope they can hold the Yomei Alliance off.\r\nFor now though, I should go wait at the Hirose Family Office."
+msgstr ""
+
+msgctxt "580||m_adv09_130||mission_info"
+msgid "(Chapter 9)\r\nWhy would Hirose-san kidnap Haruto?\r\nMaybe there's a lead in his room."
+msgstr ""
+
+msgctxt "581||m_adv09_131||mission_info"
+msgid "(Chapter 9)\r\nSnack Hourglass might be somewhere Hirose-san hangs out.\r\nI should check it out."
+msgstr ""
+
+msgctxt "582||m_adv13_200||mission_info"
+msgid "(Finale)\r\nThis is probably going to be my last night in Kamurocho.\r\nI should talk to Nagumo when I'm ready..."
+msgstr ""
+
+msgctxt "583||s_SUB_A_16_04||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "584||s_SUB_A_25_01||mission_info"
+msgid "(I should talk to the RIZAP trainer\r\nif I feel like starting a membership.)"
+msgstr ""
+
+msgctxt "585||m_adv11_070||mission_info"
+msgid "(Chapter 11)\r\nI should get ready to head up to Kamurocho,\r\nthen talk to Yuta when I'm finished."
+msgstr ""
+
+msgctxt "587||i_35_suri||mission_info"
+msgid "There's apparently a pickpocket on the loose.\r\nI'm going to put a stop to it, now."
+msgstr ""
+
+msgctxt "588||s_SUB_A_14_01||mission_info"
+msgid "Paul Lim, a living darts legend, challenged me\r\nto a match. I wonder if I'd be able to beat him..."
+msgstr ""
+
+msgctxt "589||s_SUB_B_16_01||mission_info"
+msgid "It's finally time to face the Kanamizawa Gorgeous.\r\nChiba's waiting for me up at the baseball field."
+msgstr ""
+
+msgctxt "590||s_SUB_B_16_02||mission_info"
+msgid "The Kanamizawa Gorgeous won't be so pretty once we're\r\ndone with them. I should talk to Chiba when I'm ready."
+msgstr ""
+
+msgctxt "591||s_SUB_B_16_03||mission_info"
+msgid "I guess the Kanamizawa Gorgeous won't go down so easily.\r\nWe won't back down, though! Let's do this, Warriors!"
+msgstr ""
+
+msgctxt "592||s_SUB_B_16_04||mission_info"
+msgid "I guess our camraderie prevailed in the end."
+msgstr ""
+
+msgctxt "593||s_SUB_B_16_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "594||i_36_hakaarashi||mission_info"
+msgid "Apparently someone's robbing graves.\r\nThe dead can't defend themselves, so I will."
+msgstr ""
+
+msgctxt "595||i_17_ramen||mission_info"
+msgid "I need to deliver this ramen so the injured\r\nemployee doesn't get roughed up by his client."
+msgstr ""
+
+msgctxt "596||s_SUB_A_15_03||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "597||s_SUB_A_18_02||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "598||s_SUB_A_19_03||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "599||s_SUB_A_05_07||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "600||s_SUB_A_04_05||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "601||i_harutobtl_c04_a||mission_info"
+msgid "Time to clean up the streets."
+msgstr ""
+
+msgctxt "602||i_harutobtl_c04_b||mission_info"
+msgid "Time to clean up the streets."
+msgstr ""
+
+msgctxt "603||i_harutobtl_c04_c||mission_info"
+msgid "Time to clean up the streets."
+msgstr ""
+
+msgctxt "604||i_harutobtl_c04_d||mission_info"
+msgid "Time to clean up the streets."
+msgstr ""
+
+msgctxt "605||i_harutobtl_c04_e||mission_info"
+msgid "Time to clean up the streets."
+msgstr ""
+
+msgctxt "606||i_harutobtl_c04_f||mission_info"
+msgid "Time to clean up the streets."
+msgstr ""
+
+msgctxt "607||i_harutobtl_c04_g||mission_info"
+msgid "Time to clean up the streets."
+msgstr ""
+
+msgctxt "608||s_SUB_A_06_03_02||mission_info"
+msgid "I keep hearing someone calling for help on Tenkaichi\r\nStreet. Pretty sure it's coming from higher up..."
+msgstr ""
+
+msgctxt "609||s_SUB_A_14_02||mission_info"
+msgid "The legendary Paul Lim...\r\nI should play him again if I have some time."
+msgstr ""
+
+msgctxt "610||i_tm18_houkama_k01||mission_info"
+msgid "If this arsonist likes to set fires so much,\r\nI'll give him the heat he deserves."
+msgstr ""
+
+msgctxt "611||i_tm19_kaji_k02||mission_info"
+msgid "Sounds like there's a small fire in Kamurocho.\r\nI should find a fire extinguisher and put it out."
+msgstr ""
+
+msgctxt "612||i_tm20_kaji_k03||mission_info"
+msgid "Another small fire in Kamurocho.\r\nI should find a fire extinguisher and put it out."
+msgstr ""
+
+msgctxt "613||i_tm21_kaji_k04||mission_info"
+msgid "Yet another small fire in Kamurocho.\r\nI should find a fire extinguisher and put it out."
+msgstr ""
+
+msgctxt "614||i_tm22_kaji_k05||mission_info"
+msgid "Sounds like a building in Kamurocho is up in flames.\r\nI should find a fire extinguisher and put it out."
+msgstr ""
+
+msgctxt "615||i_tm24_kaji_o02||mission_info"
+msgid "Sounds like there's a small fire in Onomichi.\r\nI should find a fire extinguisher and put it out."
+msgstr ""
+
+msgctxt "616||i_tm25_kaji_o03||mission_info"
+msgid "Another small fire in Onomichi.\r\nI should find a fire extinguisher and put it out."
+msgstr ""
+
+msgctxt "617||i_tm26_kaji_o04||mission_info"
+msgid "Yet another small fire in Onomichi.\r\nI should find a fire extinguisher and put it out."
+msgstr ""
+
+msgctxt "618||i_tm27_kaji_o05||mission_info"
+msgid "Sounds like a car in Onomichi is up in flames.\r\nI should find a fire extinguisher and put it out."
+msgstr ""
+
+msgctxt "619||c_CLN02_03||mission_info"
+msgid "It's time to show these punks\r\nwhat real chivalry looks like."
+msgstr ""
+
+msgctxt "620||m_adv12_080||mission_info"
+msgid "(Chapter 12)\r\nI should get ready to head back to Onomichi,\r\nthen take a taxi over to the train station."
+msgstr ""
+
+msgctxt "621||s_SUB_A_23_01||mission_info"
+msgid "It sounded like the cat café manager was arguing with\r\na customer. Did he say he doesn't have any cats...?"
+msgstr ""
+
+msgctxt "623||m_adv12_115||mission_info"
+msgid "(Chapter 12)\r\nNagumo and the others should be waiting\r\nfor me over at the Hirose Family Office."
+msgstr ""
+
+msgctxt "624||i_tm35_hankouyokoku||mission_info"
+msgid "I saw a Troublr post about a bomb in Kamurocho.\r\nI need to find it before it goes off."
+msgstr ""
+
+msgctxt "625||i_tm32_hankouyokoku2||mission_info"
+msgid "I know the bomber is at an internet café, but which one?"
+msgstr ""
+
+msgctxt "626||m_adv12_030||mission_info"
+msgid "(Chapter 12)\r\nLo's finally awake. Let's hear the rest of what\r\nhe started telling us back in Little Asia."
+msgstr ""
+
+msgctxt "627||i_tm22_kaji_k05_02||mission_info"
+msgid "If this arsonist likes to set fires so much,\r\nI'll give him the heat he deserves."
+msgstr ""
+
+msgctxt "628||m_adv04_180||mission_info"
+msgid "(Chapter 4)\r\nI should probably apologize to Matsunaga\r\nfor what happened last night."
+msgstr ""
+
+msgctxt "629||s_SUB_A_26_03||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "630||i_tm27_kaji_o05_02||mission_info"
+msgid "If this arsonist likes to set fires so much,\r\nI'll give him the heat he deserves."
+msgstr ""
+
+msgctxt "631||s_SUB_A_25_02||mission_info"
+msgid "Now that I'm a RIZAP member, I should start training."
+msgstr ""
+
+msgctxt "632||s_SUB_A_25_03||mission_info"
+msgid "I'm supposed to eat something after training.\r\nI should report back to my trainer once I do."
+msgstr ""
+
+msgctxt "633||m_adv07_045||mission_info"
+msgid "(Chapter 7)\r\nAkiyama's going to call me soon. I guess I'll just have to\r\nwalk around Kamurocho until he does."
+msgstr ""
+
+msgctxt "634||m_btl05_010_04||mission_info"
+msgid "(Chapter 5)\r\nSomeya has to know where Kiyomi is."
+msgstr ""
+
+msgctxt "636||m_btl07_030_2||mission_info"
+msgid "(Chapter 7)\r\nDammit, we should've seen an ambush coming."
+msgstr ""
+
+msgctxt "637||m_btl07_030_3||mission_info"
+msgid "(Chapter 7)\r\nI'll have to head down to the second floor alone..."
+msgstr ""
+
+msgctxt "638||m_btl12_060b_01||mission_info"
+msgid "(Chapter 12)\r\nThe secret is close. Just a little further...!"
+msgstr ""
+
+msgctxt "639||m_btl12_060b_02||mission_info"
+msgid "(Chapter 12)\r\nWe need to break through these guys and find the secret!"
+msgstr ""
+
+msgctxt "640||s_SUB_A_11_001||mission_info"
+msgid "Wow, this girl is really something else.\r\nI should use this photo to try and find her."
+msgstr ""
+
+msgctxt "641||m_adv07_141||mission_info"
+msgid "(Chapter 7)\r\nI hope Akiyama's plan works..."
+msgstr ""
+
+msgctxt "642||m_adv09_070||mission_info"
+msgid "(Chapter 9)\r\nI need to look into Hirose-san's frequent hangout spots."
+msgstr ""
+
+msgctxt "643||m_btl11_025||mission_info"
+msgid "(Chapter 11)\r\nI need to find Yuta before this building burns to the ground."
+msgstr ""
+
+msgctxt "644||s_SUB_A_18_00||mission_info"
+msgid "I'm supposed to meet Erina in Theater Square."
+msgstr ""
+
+msgctxt "645||s_SUB_A_03_08||mission_info"
+msgid "I'm glad Ayaka liked the photo."
+msgstr ""
+
+msgctxt "646||s_SUB_B_24_02||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "647||s_SUB_B_25_02||mission_info"
+msgid "So my opponent this time is the man-eating\r\nBloody Shark... I'll avenge your father, Amano."
+msgstr ""
+
+msgctxt "648||s_SUB_A_20_03||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "649||s_SUB_A_21_03||mission_info"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "3||i_sample||mission"
+msgid "Defeat all enemies"
+msgstr ""
+
+msgctxt "5||i_test01||mission"
+msgid "Defeat all enemies"
+msgstr ""
+
+msgctxt "14||i_test_pattern01||mission"
+msgid "Save the civilian"
+msgstr ""
+
+msgctxt "122||i_haruto_dandle||mission"
+msgid "Get Haruto to stop crying"
+msgstr ""
+
+msgctxt "123||i_encount_btl||mission"
+msgid "Defeat the enemy"
+msgstr ""
+
+msgctxt "124||i_test_encount_boss||mission"
+msgid "Defeat the powerful enemy"
+msgstr ""
+
+msgctxt "128||i_09_ikinari_shikaku||mission"
+msgid "Defeat the assassin"
+msgstr ""
+
+msgctxt "129||i_11_kami_ga_nai||mission"
+msgid "Help the man in the bathroom"
+msgstr ""
+
+msgctxt "130||i_25_kuinige||mission"
+msgid "Catch the dine-and-dasher"
+msgstr ""
+
+msgctxt "135||m_adv01_050||mission"
+msgid "I need a plan to find Haruka."
+msgstr ""
+
+msgctxt "136||m_adv01_070||mission"
+msgid "Why did Akiyama change his number?"
+msgstr ""
+
+msgctxt "138||m_adv01_086||mission"
+msgid "I wanted to avoid this..."
+msgstr ""
+
+msgctxt "141||m_adv01_150||mission"
+msgid "Finally, a warm lead on Akiyama."
+msgstr ""
+
+msgctxt "142||m_adv01_160||mission"
+msgid "The homeless guy deserves that much."
+msgstr ""
+
+msgctxt "143||m_adv01_170||mission"
+msgid "Akiyama's really down there?"
+msgstr ""
+
+msgctxt "144||m_adv01_210||mission"
+msgid "What happened to Haruka!?"
+msgstr ""
+
+msgctxt "145||m_adv02_010||mission"
+msgid "There's got to be some clues here."
+msgstr ""
+
+msgctxt "146||m_adv02_060||mission"
+msgid "The last place I want to be..."
+msgstr ""
+
+msgctxt "147||m_adv02_070||mission"
+msgid "Maybe there's been an update."
+msgstr ""
+
+msgctxt "148||m_adv02_071||mission"
+msgid "This town has to know something."
+msgstr ""
+
+msgctxt "149||m_adv03_010||mission"
+msgid "Someone must know Haruka."
+msgstr ""
+
+msgctxt "150||m_adv03_050||mission"
+msgid "Haruto is waiting for me."
+msgstr ""
+
+msgctxt "152||m_adv03_110||mission"
+msgid "Haruto won't calm down!"
+msgstr ""
+
+msgctxt "153||m_adv03_120||mission"
+msgid "They should have some milk."
+msgstr ""
+
+msgctxt "154||m_adv03_130||mission"
+msgid "She can reach Ino at this hour."
+msgstr ""
+
+msgctxt "155||m_adv03_140||mission"
+msgid "I just need milk..."
+msgstr ""
+
+msgctxt "156||m_adv03_160||mission"
+msgid "We've earned some rest."
+msgstr ""
+
+msgctxt "157||m_adv03_180||mission"
+msgid "I should hit the town again."
+msgstr ""
+
+msgctxt "158||m_adv03_190||mission"
+msgid "I owe Kiyomi a lot."
+msgstr ""
+
+msgctxt "160||m_adv03_250||mission"
+msgid "Kiyomi asked me to stop by."
+msgstr ""
+
+msgctxt "161||m_adv03_270||mission"
+msgid "This fool..."
+msgstr ""
+
+msgctxt "162||m_adv03_271||mission"
+msgid "Looks like I need to walk."
+msgstr ""
+
+msgctxt "163||m_adv04_020||mission"
+msgid "Nothing about this sounded right."
+msgstr ""
+
+msgctxt "164||m_adv04_060||mission"
+msgid "Haruto's waiting for me."
+msgstr ""
+
+msgctxt "165||m_adv04_090||mission"
+msgid "Now I can ask them about Haruto."
+msgstr ""
+
+msgctxt "166||m_adv04_140||mission"
+msgid "Kiyomi has something to say."
+msgstr ""
+
+msgctxt "167||m_adv04_210||mission"
+msgid "He can't take the fall for this."
+msgstr ""
+
+msgctxt "168||m_adv05_010||mission"
+msgid "I guess I've got time to explore."
+msgstr ""
+
+msgctxt "169||m_adv06_040||mission"
+msgid "We can discuss the plan there."
+msgstr ""
+
+msgctxt "171||m_adv06_120||mission"
+msgid "The Jingweon have Stardust..."
+msgstr ""
+
+msgctxt "172||m_adv06_190||mission"
+msgid "Found you, Tatsukawa."
+msgstr ""
+
+msgctxt "173||m_adv07_010||mission"
+msgid "Nagumo and Yuta are waiting."
+msgstr ""
+
+msgctxt "174||m_adv07_120||mission"
+msgid "We'll meet Akiyama there."
+msgstr ""
+
+msgctxt "175||m_adv08_060||mission"
+msgid "This brings back bad memories."
+msgstr ""
+
+msgctxt "176||m_adv09_010||mission"
+msgid "I need to catch up with the others."
+msgstr ""
+
+msgctxt "177||m_adv09_030||mission"
+msgid "Matsunaga and Tagashira are there."
+msgstr ""
+
+msgctxt "179||m_adv09_150||mission"
+msgid "Hirose apparently drinks here."
+msgstr ""
+
+msgctxt "180||m_adv09_170||mission"
+msgid "Let's get some answers."
+msgstr ""
+
+msgctxt "181||m_adv10_030||mission"
+msgid "Is everyone okay?"
+msgstr ""
+
+msgctxt "182||m_adv10_050||mission"
+msgid "Ino apparently has a boat for us."
+msgstr ""
+
+msgctxt "183||m_adv11_020||mission"
+msgid "Let's head home."
+msgstr ""
+
+msgctxt "184||m_adv11_080||mission"
+msgid "I can't take Haruto to Little Asia."
+msgstr ""
+
+msgctxt "186||m_btl01_010||mission"
+msgid "This guy's getting on my nerves."
+msgstr ""
+
+msgctxt "187||m_btl01_020||mission"
+msgid "I didn't ask for this."
+msgstr ""
+
+msgctxt "188||m_btl01_030||mission"
+msgid "I won't let them murder that guy."
+msgstr ""
+
+msgctxt "189||m_btl01_040||mission"
+msgid "This guy's gonna be a problem."
+msgstr ""
+
+msgctxt "190||m_btl02_010||mission"
+msgid "Why would he take pictures of me?"
+msgstr ""
+
+msgctxt "191||m_btl02_020||mission"
+msgid "Not even you can stand in my way."
+msgstr ""
+
+msgctxt "192||m_btl03_010||mission"
+msgid "This guy's a sorry excuse for a yakuza."
+msgstr ""
+
+msgctxt "193||m_btl03_020||mission"
+msgid "Let's teach some manners."
+msgstr ""
+
+msgctxt "194||m_btl03_030||mission"
+msgid "Clear the bench..."
+msgstr ""
+
+msgctxt "195||m_btl03_040||mission"
+msgid "Nagumo doesn't deserve to die."
+msgstr ""
+
+msgctxt "196||m_btl04_010||mission"
+msgid "Every town has its assholes."
+msgstr ""
+
+msgctxt "197||m_btl04_020||mission"
+msgid "Must have wounded Masuzoe's pride."
+msgstr ""
+
+msgctxt "198||m_btl04_030||mission"
+msgid "You're just slowing me down, guys."
+msgstr ""
+
+msgctxt "199||m_btl04_040||mission"
+msgid "He wants a second beating."
+msgstr ""
+
+msgctxt "200||m_btl05_010_01||mission"
+msgid "We have a welcoming party."
+msgstr ""
+
+msgctxt "201||m_btl05_010_02||mission"
+msgid "I need to search the guest rooms."
+msgstr ""
+
+msgctxt "202||m_btl05_010_03||mission"
+msgid "I need to search the guest rooms."
+msgstr ""
+
+msgctxt "203||m_btl05_020||mission"
+msgid "Get back here!"
+msgstr ""
+
+msgctxt "204||m_btl05_030||mission"
+msgid "Modern yakuza... Right."
+msgstr ""
+
+msgctxt "205||m_btl06_010||mission"
+msgid "Their grudges never die."
+msgstr ""
+
+msgctxt "206||m_btl06_020||mission"
+msgid "I'll finish the fight, Yuta."
+msgstr ""
+
+msgctxt "207||m_btl07_010||mission"
+msgid "I fell right into their trap..."
+msgstr ""
+
+msgctxt "208||m_btl07_020||mission"
+msgid "Who are these guys?"
+msgstr ""
+
+msgctxt "209||m_btl07_030||mission"
+msgid "He must be somewhere here."
+msgstr ""
+
+msgctxt "210||m_btl07_040||mission"
+msgid "I'll make him talk."
+msgstr ""
+
+msgctxt "211||m_btl08_010||mission"
+msgid "This was a lot easier before."
+msgstr ""
+
+msgctxt "212||m_btl08_020||mission"
+msgid "He had it all planned out."
+msgstr ""
+
+msgctxt "213||m_btl09_010||mission"
+msgid "The Yomei Alliance thinks they're strong."
+msgstr ""
+
+msgctxt "214||m_btl09_020||mission"
+msgid "(Chapter Nine)"
+msgstr ""
+
+msgctxt "215||m_btl09_030||mission"
+msgid "These guys are in my way."
+msgstr ""
+
+msgctxt "216||m_btl09_040||mission"
+msgid "(Chapter Nine)"
+msgstr ""
+
+msgctxt "217||m_btl09_050||mission"
+msgid "He won't slow me down."
+msgstr ""
+
+msgctxt "218||m_btl10_010||mission"
+msgid "This is for Haruto!"
+msgstr ""
+
+msgctxt "219||m_btl10_020||mission"
+msgid "Why is he here?"
+msgstr ""
+
+msgctxt "220||m_btl10_030||mission"
+msgid "Haruto!"
+msgstr ""
+
+msgctxt "221||m_btl10_040||mission"
+msgid "Haruto!"
+msgstr ""
+
+msgctxt "222||m_btl10_050||mission"
+msgid "He's going to pay."
+msgstr ""
+
+msgctxt "223||m_btl11_010||mission"
+msgid "I'm getting in here."
+msgstr ""
+
+msgctxt "224||m_btl11_020||mission"
+msgid "Step aside, Ed!"
+msgstr ""
+
+msgctxt "225||m_btl11_030||mission"
+msgid "I'll beat the sense into him!"
+msgstr ""
+
+msgctxt "226||m_btl12_010||mission"
+msgid "Send your best, Kurusu."
+msgstr ""
+
+msgctxt "227||m_btl12_020||mission"
+msgid "It's a matter of pride for him."
+msgstr ""
+
+msgctxt "228||m_btl12_030||mission"
+msgid "I'll take them all out."
+msgstr ""
+
+msgctxt "229||m_btl12_050||mission"
+msgid "They won't stop me!"
+msgstr ""
+
+msgctxt "230||m_btl12_060||mission"
+msgid "We need to get further in."
+msgstr ""
+
+msgctxt "231||m_btl12_070||mission"
+msgid "He was behind everything."
+msgstr ""
+
+msgctxt "232||m_btl13_010||mission"
+msgid "We'll take them all down!"
+msgstr ""
+
+msgctxt "233||m_btl13_020||mission"
+msgid "We'll take them all down!"
+msgstr ""
+
+msgctxt "234||m_btl13_030||mission"
+msgid "The Tojo Clan should know better!"
+msgstr ""
+
+msgctxt "235||m_btl13_040||mission"
+msgid "The Tojo Clan should know better!"
+msgstr ""
+
+msgctxt "236||m_btl13_050||mission"
+msgid "Why!?"
+msgstr ""
+
+msgctxt "237||m_btl13_060||mission"
+msgid "Koshimizu, you're done."
+msgstr ""
+
+msgctxt "238||m_btl13_070||mission"
+msgid "He is nothing to me."
+msgstr ""
+
+msgctxt "249||s_SUB_A_01_01||mission"
+msgid "Save the man from the punks"
+msgstr ""
+
+msgctxt "250||s_SUB_A_01_02||mission"
+msgid "Go see Takayama at Bantam"
+msgstr ""
+
+msgctxt "251||s_SUB_A_01_03||mission"
+msgid "Revel in the art of the kabedon"
+msgstr ""
+
+msgctxt "252||s_SUB_A_01_04||mission"
+msgid "Save Takayama from the punks"
+msgstr ""
+
+msgctxt "253||s_SUB_A_01_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "254||s_SUB_A_02_01||mission"
+msgid "Meet Ishigaki in front of the Millennium Tower"
+msgstr ""
+
+msgctxt "255||s_SUB_A_02_02||mission"
+msgid "Punish the scammer"
+msgstr ""
+
+msgctxt "256||s_SUB_A_02_03||mission"
+msgid "Crush the scammers"
+msgstr ""
+
+msgctxt "257||s_SUB_A_02_04||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "259||s_SUB_B_01_01||mission"
+msgid "Listen to the crying girl"
+msgstr ""
+
+msgctxt "260||s_SUB_B_01_02||mission"
+msgid "Misa seems to be feeling better now"
+msgstr ""
+
+msgctxt "261||s_SUB_B_01_03||mission"
+msgid "Take down the thugs"
+msgstr ""
+
+msgctxt "262||s_SUB_B_01_04||mission"
+msgid "Find Misa"
+msgstr ""
+
+msgctxt "264||i_01_katsuage_01||mission"
+msgid "Defeat the mugger"
+msgstr ""
+
+msgctxt "265||i_encboss_k_01||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "266||i_encboss_k_02||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "267||i_encboss_k_03||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "268||i_encboss_k_04||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "269||i_encboss_k_05||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "270||i_encboss_k_06||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "271||i_encboss_k_07||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "272||i_encboss_k_08||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "273||i_encboss_k_max01||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "274||i_encboss_k_max02||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "275||i_encboss_k_max03||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "276||i_encboss_k_max04||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "277||i_encboss_k_max05||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "278||i_encboss_o_01||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "279||i_encboss_o_02||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "280||i_encboss_o_03||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "281||i_encboss_o_04||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "282||i_encboss_o_05||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "283||i_encboss_o_06||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "284||i_encboss_o_07||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "285||i_encboss_o_08||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "286||i_encboss_o_max01||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "287||i_encboss_o_max02||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "288||i_encboss_o_max03||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "289||i_encboss_o_max04||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "290||i_encboss_o_max05||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "291||i_sample_event_encount_01||mission"
+msgid "sample_mission content"
+msgstr ""
+
+msgctxt "292||i_01_event_encount_A01||mission"
+msgid "Defeat the shakedown squad"
+msgstr ""
+
+msgctxt "293||i_01_event_encount_A02||mission"
+msgid "Defeat the shakedown squad"
+msgstr ""
+
+msgctxt "294||i_01_event_encount_A03||mission"
+msgid "Defeat the shakedown squad"
+msgstr ""
+
+msgctxt "295||i_02_event_encount_A01||mission"
+msgid "Defeat the dad hunters"
+msgstr ""
+
+msgctxt "296||i_02_event_encount_A02||mission"
+msgid "Defeat the dad hunters"
+msgstr ""
+
+msgctxt "297||i_02_event_encount_A03||mission"
+msgid "Defeat the dad hunters"
+msgstr ""
+
+msgctxt "298||i_03_event_encount_A01||mission"
+msgid "Defeat the perverts"
+msgstr ""
+
+msgctxt "299||i_03_event_encount_A02||mission"
+msgid "Defeat the perverts"
+msgstr ""
+
+msgctxt "300||i_03_event_encount_A03||mission"
+msgid "Defeat the perverts"
+msgstr ""
+
+msgctxt "301||i_04_event_encount_A01||mission"
+msgid "Defeat the hooligans"
+msgstr ""
+
+msgctxt "302||i_04_event_encount_A02||mission"
+msgid "Defeat the hooligans"
+msgstr ""
+
+msgctxt "303||i_04_event_encount_A03||mission"
+msgid "Defeat the hooligans"
+msgstr ""
+
+msgctxt "304||i_05_event_encount_A01||mission"
+msgid "Defeat the couple hunters"
+msgstr ""
+
+msgctxt "305||i_05_event_encount_A02||mission"
+msgid "Defeat the couple hunters"
+msgstr ""
+
+msgctxt "306||i_05_event_encount_A03||mission"
+msgid "Defeat the couple hunters"
+msgstr ""
+
+msgctxt "307||i_10_kyuubyounin||mission"
+msgid "Help the sick person"
+msgstr ""
+
+msgctxt "308||i_12_houkama||mission"
+msgid "Defeat the Onomichi arsonist"
+msgstr ""
+
+msgctxt "309||i_21_hittakuri||mission"
+msgid "Look into the rumor"
+msgstr ""
+
+msgctxt "310||i_33_harapeko||mission"
+msgid "Help the starving person"
+msgstr ""
+
+msgctxt "312||s_SUB_A_99_01||mission"
+msgid "Take a taxi to see Amon"
+msgstr ""
+
+msgctxt "313||s_SUB_A_99_02||mission"
+msgid "Defeat Amon"
+msgstr ""
+
+msgctxt "314||s_SUB_A_99_03||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "315||m_btl13_030b||mission"
+msgid "The Tojo Clan should know better!"
+msgstr ""
+
+msgctxt "316||m_btl13_040b||mission"
+msgid "(Finale)"
+msgstr ""
+
+msgctxt "317||s_SUB_A_19_01||mission"
+msgid "Meet up with Riona"
+msgstr ""
+
+msgctxt "318||s_SUB_A_19_02||mission"
+msgid "Defeat the man"
+msgstr ""
+
+msgctxt "319||s_SUB_A_17_01||mission"
+msgid "Meet up with Sora"
+msgstr ""
+
+msgctxt "320||s_SUB_A_15_01||mission"
+msgid "Meet up with Saki"
+msgstr ""
+
+msgctxt "321||s_SUB_A_15_02||mission"
+msgid "Save Saki's fan"
+msgstr ""
+
+msgctxt "322||m_adv03_070||mission"
+msgid "A place to sleep is all I ask."
+msgstr ""
+
+msgctxt "323||m_adv03_200||mission"
+msgid "I guess I'm playing baseball."
+msgstr ""
+
+msgctxt "324||m_adv02_072||mission"
+msgid "I'll meet up with Akiyama."
+msgstr ""
+
+msgctxt "325||m_adv05_012||mission"
+msgid "Kiyomi wanted to talk to me."
+msgstr ""
+
+msgctxt "326||m_adv06_150||mission"
+msgid "I need to meet Joon-gi Han."
+msgstr ""
+
+msgctxt "327||s_SUB_A_21_01||mission"
+msgid "Compete against Gori-san"
+msgstr ""
+
+msgctxt "328||s_SUB_A_21_02||mission"
+msgid "Beat Gori-san's home run total"
+msgstr ""
+
+msgctxt "329||i_test_chase||mission"
+msgid "Chase down the enemy"
+msgstr ""
+
+msgctxt "330||m_btl01_015||mission"
+msgid "They picked the wrong guy for this."
+msgstr ""
+
+msgctxt "331||m_adv11_090||mission"
+msgid "Where did Yuta go?"
+msgstr ""
+
+msgctxt "332||m_adv11_100||mission"
+msgid "Yuta, you idiot."
+msgstr ""
+
+msgctxt "333||m_adv12_050||mission"
+msgid "Lo has more to say."
+msgstr ""
+
+msgctxt "334||m_adv12_100||mission"
+msgid "I should find the guys there."
+msgstr ""
+
+msgctxt "335||m_adv12_150_01||mission"
+msgid "The city must have the answers."
+msgstr ""
+
+msgctxt "336||m_adv12_150_02||mission"
+msgid "Yamano Dodai's grave is there."
+msgstr ""
+
+msgctxt "337||m_adv12_160||mission"
+msgid "Ino has his boat there."
+msgstr ""
+
+msgctxt "338||m_adv13_030||mission"
+msgid "Someya wanted to talk."
+msgstr ""
+
+msgctxt "339||m_adv13_040||mission"
+msgid "The guys are in trouble!"
+msgstr ""
+
+msgctxt "340||m_adv13_070||mission"
+msgid "I should tie up any loose ends."
+msgstr ""
+
+msgctxt "341||m_adv13_090||mission"
+msgid "Haruka... Finally."
+msgstr ""
+
+msgctxt "342||m_adv13_130||mission"
+msgid "I need to be ready for this fight."
+msgstr ""
+
+msgctxt "343||m_adv13_170||mission"
+msgid "Nagumo had something to say."
+msgstr ""
+
+msgctxt "344||s_SUB_B_13_01||mission"
+msgid "Take a taxi to the baseball field"
+msgstr ""
+
+msgctxt "345||s_SUB_B_13_02||mission"
+msgid "Win your first game"
+msgstr ""
+
+msgctxt "346||s_SUB_B_13_03||mission"
+msgid "Win a rematch against the Jingai Thunders Reserves"
+msgstr ""
+
+msgctxt "347||s_SUB_B_13_04||mission"
+msgid "Won our first game"
+msgstr ""
+
+msgctxt "348||s_SUB_B_13_05||mission"
+msgid "Won our first game"
+msgstr ""
+
+msgctxt "349||m_adv01_085_before||mission"
+msgid "When in doubt, ask at a bar."
+msgstr ""
+
+msgctxt "350||m_adv01_085_after||mission"
+msgid "When in doubt, ask at a bar."
+msgstr ""
+
+msgctxt "351||s_SUB_B_15_01||mission"
+msgid "Take a taxi to the baseball field"
+msgstr ""
+
+msgctxt "352||s_SUB_B_15_02||mission"
+msgid "Talk to Chiba"
+msgstr ""
+
+msgctxt "353||s_SUB_B_15_03||mission"
+msgid "Win a rematch against the Onomichi Legends"
+msgstr ""
+
+msgctxt "354||s_SUB_B_15_04||mission"
+msgid "Won against the Onomichi Legends"
+msgstr ""
+
+msgctxt "355||s_SUB_B_15_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "356||s_SUB_B_12_01||mission"
+msgid "Meet Chiba at the baseball field"
+msgstr ""
+
+msgctxt "357||s_SUB_B_12_02||mission"
+msgid "Find Moritsuka"
+msgstr ""
+
+msgctxt "358||s_SUB_B_12_03||mission"
+msgid "Talk to Moritsuka"
+msgstr ""
+
+msgctxt "359||s_SUB_B_12_04||mission"
+msgid "Defeat Moritsuka"
+msgstr ""
+
+msgctxt "360||s_SUB_B_12_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "361||s_SUB_B_14_01||mission"
+msgid "Take a taxi to the baseball field"
+msgstr ""
+
+msgctxt "362||s_SUB_B_14_02||mission"
+msgid "Talk to Chiba"
+msgstr ""
+
+msgctxt "363||s_SUB_B_14_03||mission"
+msgid "Win a rematch against the Jingai Thunders"
+msgstr ""
+
+msgctxt "364||s_SUB_B_14_04||mission"
+msgid "Won against the Jingai Thunders"
+msgstr ""
+
+msgctxt "365||s_SUB_B_14_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "366||s_SUB_A_13_01||mission"
+msgid "Play darts with the guy at Bantam"
+msgstr ""
+
+msgctxt "367||s_SUB_A_13_02||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "369||s_SUB_A_20_01||mission"
+msgid "Accept Yoshida's challenge"
+msgstr ""
+
+msgctxt "370||s_SUB_A_20_02||mission"
+msgid "Hit five consecutive home runs"
+msgstr ""
+
+msgctxt "371||s_SUB_B_11_01||mission"
+msgid "Take a taxi to the baseball field"
+msgstr ""
+
+msgctxt "374||s_SUB_B_11_04||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "375||i_13_tourima||mission"
+msgid "The Slasher Appears"
+msgstr ""
+
+msgctxt "376||i_14_kaji||mission"
+msgid "Put Out the Fire"
+msgstr ""
+
+msgctxt "381||i_22_suri||mission"
+msgid "Pickpocket"
+msgstr ""
+
+msgctxt "382||i_23_manbiki||mission"
+msgid "A Shoplifter Appears"
+msgstr ""
+
+msgctxt "383||i_24_goutou||mission"
+msgid "A Thief Appears"
+msgstr ""
+
+msgctxt "384||i_27_twitter||mission"
+msgid "Stop the Criminals Once and for All!"
+msgstr ""
+
+msgctxt "385||i_28_yokoku||mission"
+msgid "An Explosive Game"
+msgstr ""
+
+msgctxt "386||i_29_sos||mission"
+msgid "SOS"
+msgstr ""
+
+msgctxt "387||i_30_clan||mission"
+msgid "Defeat the Enemy Team!"
+msgstr ""
+
+msgctxt "388||i_31_yopparai||mission"
+msgid "Get rid of the drunk"
+msgstr ""
+
+msgctxt "389||i_32_deliver||mission"
+msgid "Delivery"
+msgstr ""
+
+msgctxt "390||i_34_rakugaki||mission"
+msgid "Graffiti Suspicion"
+msgstr ""
+
+msgctxt "391||i_38_toritetsu||mission"
+msgid "Railway Enthusiast"
+msgstr ""
+
+msgctxt "392||i_39_seafood||mission"
+msgid "Freshly Caught Fish"
+msgstr ""
+
+msgctxt "393||i_40_tombraider||mission"
+msgid "Graveyard Man"
+msgstr ""
+
+msgctxt "394||i_41_missing||mission"
+msgid "Find the lost child"
+msgstr ""
+
+msgctxt "395||i_46_fire||mission"
+msgid "Building Fire"
+msgstr ""
+
+msgctxt "396||i_47_tsutsumotase||mission"
+msgid "Beware the Beauty"
+msgstr ""
+
+msgctxt "397||i_48_spam||mission"
+msgid "Suspicions"
+msgstr ""
+
+msgctxt "398||s_SUB_A_03_01||mission"
+msgid "Talk to the Haruka fan"
+msgstr ""
+
+msgctxt "399||s_SUB_A_03_02||mission"
+msgid "Find Haruka merchandise"
+msgstr ""
+
+msgctxt "400||s_SUB_A_03_03||mission"
+msgid "Gather info on Haruka merchandise"
+msgstr ""
+
+msgctxt "401||s_SUB_A_03_04||mission"
+msgid "Get the picture of Haruka"
+msgstr ""
+
+msgctxt "402||s_SUB_A_03_05||mission"
+msgid "Save the Haruka fan"
+msgstr ""
+
+msgctxt "403||s_SUB_A_03_06||mission"
+msgid "Give Ayaka the picture of Haruka"
+msgstr ""
+
+msgctxt "404||s_SUB_A_03_07||mission"
+msgid "Ayaka seemed thrilled"
+msgstr ""
+
+msgctxt "405||s_SUB_A_04_01||mission"
+msgid "See what the guy has to say"
+msgstr ""
+
+msgctxt "406||s_SUB_A_04_02||mission"
+msgid "See what the guy has to say"
+msgstr ""
+
+msgctxt "407||s_SUB_A_04_03||mission"
+msgid "Catch the cleaning robot"
+msgstr ""
+
+msgctxt "408||s_SUB_A_04_04||mission"
+msgid "Defeat the dirtbags"
+msgstr ""
+
+msgctxt "409||s_SUB_A_05_01||mission"
+msgid "Install the Hiji app"
+msgstr ""
+
+msgctxt "410||s_SUB_A_05_02||mission"
+msgid "Try out the Hiji app in an isolated place"
+msgstr ""
+
+msgctxt "411||s_SUB_A_05_03||mission"
+msgid "Leave the Children's Park"
+msgstr ""
+
+msgctxt "412||s_SUB_A_05_04||mission"
+msgid "Beat up the drunk thug"
+msgstr ""
+
+msgctxt "413||s_SUB_A_05_05||mission"
+msgid "Go see the Hiji salesman"
+msgstr ""
+
+msgctxt "414||s_SUB_A_05_06||mission"
+msgid "Catch the thief"
+msgstr ""
+
+msgctxt "415||s_SUB_A_06_01||mission"
+msgid "Met an online video creator"
+msgstr ""
+
+msgctxt "416||s_SUB_A_06_02||mission"
+msgid "Met the annoying video guy again"
+msgstr ""
+
+msgctxt "417||s_SUB_A_06_03||mission"
+msgid "This guy never learns..."
+msgstr ""
+
+msgctxt "418||s_SUB_A_06_04||mission"
+msgid "Help Tsutsui"
+msgstr ""
+
+msgctxt "419||s_SUB_A_06_05||mission"
+msgid "Teach Tsutsui a lesson"
+msgstr ""
+
+msgctxt "420||s_SUB_A_06_06||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "421||s_SUB_A_07_01||mission"
+msgid "There's apparently a drone nearby"
+msgstr ""
+
+msgctxt "422||s_SUB_A_07_02||mission"
+msgid "Find the source of the scream"
+msgstr ""
+
+msgctxt "423||s_SUB_A_07_03||mission"
+msgid "Find the drone"
+msgstr ""
+
+msgctxt "424||s_SUB_A_07_04||mission"
+msgid "Chase the drone"
+msgstr ""
+
+msgctxt "425||s_SUB_A_07_05||mission"
+msgid "Defeat the yakuza"
+msgstr ""
+
+msgctxt "426||s_SUB_A_07_06||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "427||s_SUB_A_08_01||mission"
+msgid "Investigate the bomb site"
+msgstr ""
+
+msgctxt "428||s_SUB_A_08_02||mission"
+msgid "Find the culprit"
+msgstr ""
+
+msgctxt "429||s_SUB_A_08_03||mission"
+msgid "Defeat the man in the yellow tracksuit"
+msgstr ""
+
+msgctxt "430||s_SUB_A_08_04||mission"
+msgid "Chase the man in the yellow tracksuit"
+msgstr ""
+
+msgctxt "431||s_SUB_A_08_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "434||s_SUB_A_09_01||mission"
+msgid "Meet Lau Ka Long's heir"
+msgstr ""
+
+msgctxt "435||s_SUB_A_09_02||mission"
+msgid "Defeat the Snake Flower Triad"
+msgstr ""
+
+msgctxt "436||s_SUB_A_09_03||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "437||s_SUB_A_11_01||mission"
+msgid "Look for Reiko"
+msgstr ""
+
+msgctxt "438||s_SUB_A_11_02||mission"
+msgid "Keep looking for Reiko"
+msgstr ""
+
+msgctxt "439||s_SUB_A_11_03||mission"
+msgid "Punish the scammers"
+msgstr ""
+
+msgctxt "440||s_SUB_A_11_04||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "441||s_SUB_A_12_01||mission"
+msgid "Buy a prepaid card at a convenience store"
+msgstr ""
+
+msgctxt "442||s_SUB_A_12_02||mission"
+msgid "Head to the roof of the Senryo Building"
+msgstr ""
+
+msgctxt "443||s_SUB_A_12_03||mission"
+msgid "Take down the fraudsters"
+msgstr ""
+
+msgctxt "444||s_SUB_A_12_04||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "445||s_SUB_A_12_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "446||s_SUB_A_16_01||mission"
+msgid "Chase after Hikaru"
+msgstr ""
+
+msgctxt "447||s_SUB_A_16_02||mission"
+msgid "Head inside and save Hikaru"
+msgstr ""
+
+msgctxt "448||s_SUB_A_16_03||mission"
+msgid "Rescue Hikaru from the muscleheads"
+msgstr ""
+
+msgctxt "449||s_SUB_A_18_01||mission"
+msgid "Take down the stalker"
+msgstr ""
+
+msgctxt "450||s_SUB_A_24_01||mission"
+msgid "Learn more about live chat"
+msgstr ""
+
+msgctxt "451||s_SUB_A_26_01||mission"
+msgid "Defeat Sodachi"
+msgstr ""
+
+msgctxt "452||s_SUB_A_26_02||mission"
+msgid "Defeat Sodachi again"
+msgstr ""
+
+msgctxt "453||c_CLN01_01||mission"
+msgid "Defeat the muggers"
+msgstr ""
+
+msgctxt "454||c_CLN02_01||mission"
+msgid "Defeat the JUSTIS thugs"
+msgstr ""
+
+msgctxt "455||c_CLN02_02||mission"
+msgid "Save Sachiko"
+msgstr ""
+
+msgctxt "456||c_CLN05_01||mission"
+msgid "Defeat Yano"
+msgstr ""
+
+msgctxt "457||c_CLN07_01||mission"
+msgid "Defeat Naito"
+msgstr ""
+
+msgctxt "458||c_CLN11_01||mission"
+msgid "Defeat the TenCozy Tag Team"
+msgstr ""
+
+msgctxt "459||c_CLN13_01||mission"
+msgid "Defeat Tanahashi"
+msgstr ""
+
+msgctxt "460||c_CLN15_01||mission"
+msgid "Defeat Okada"
+msgstr ""
+
+msgctxt "461||c_CLN16_01||mission"
+msgid "Defeat Satsuki"
+msgstr ""
+
+msgctxt "462||s_SUB_B_02_01||mission"
+msgid "Hear the old man out"
+msgstr ""
+
+msgctxt "463||s_SUB_B_02_02||mission"
+msgid "Infiltrate the cult headquarters"
+msgstr ""
+
+msgctxt "464||s_SUB_B_02_03||mission"
+msgid "Defeat the cultists"
+msgstr ""
+
+msgctxt "465||s_SUB_B_02_04||mission"
+msgid "Punish Munan Akamatsu"
+msgstr ""
+
+msgctxt "466||s_SUB_B_02_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "467||s_SUB_B_03_01||mission"
+msgid "Met Pocket Circuit Fighter again"
+msgstr ""
+
+msgctxt "468||s_SUB_B_03_02||mission"
+msgid "Made a promise to Sakito"
+msgstr ""
+
+msgctxt "469||s_SUB_B_03_03||mission"
+msgid "Find Sakito"
+msgstr ""
+
+msgctxt "470||s_SUB_B_03_04||mission"
+msgid "Protect Sakito"
+msgstr ""
+
+msgctxt "471||s_SUB_B_03_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "473||s_SUB_B_04_01||mission"
+msgid "Defeat the ghost"
+msgstr ""
+
+msgctxt "474||s_SUB_B_04_02||mission"
+msgid "Go see the ghosts at the cemetery"
+msgstr ""
+
+msgctxt "475||s_SUB_B_04_03||mission"
+msgid "Defeat all the ghosts"
+msgstr ""
+
+msgctxt "476||s_SUB_B_04_04||mission"
+msgid "Go see the ghosts at the cemetery"
+msgstr ""
+
+msgctxt "477||s_SUB_B_04_05||mission"
+msgid "Defeat all the ghosts"
+msgstr ""
+
+msgctxt "478||s_SUB_B_04_06||mission"
+msgid "Go see the ghosts at the cemetery"
+msgstr ""
+
+msgctxt "479||s_SUB_B_04_07||mission"
+msgid "Defeat all the ghosts"
+msgstr ""
+
+msgctxt "480||s_SUB_B_04_08||mission"
+msgid "Go see the ghosts at the cemetery"
+msgstr ""
+
+msgctxt "481||s_SUB_B_04_09||mission"
+msgid "Defeat all the ghosts"
+msgstr ""
+
+msgctxt "482||s_SUB_B_04_10||mission"
+msgid "Go see the old man at the cemetery"
+msgstr ""
+
+msgctxt "483||s_SUB_B_05_01||mission"
+msgid "Become a mascot"
+msgstr ""
+
+msgctxt "484||s_SUB_B_05_02||mission"
+msgid "Defeat the thugs"
+msgstr ""
+
+msgctxt "485||s_SUB_B_05_03||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "486||s_SUB_B_06_01||mission"
+msgid "Listen to Hironaka"
+msgstr ""
+
+msgctxt "487||s_SUB_B_06_02||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "488||s_SUB_B_07_01||mission"
+msgid "Talk to Shizuko"
+msgstr ""
+
+msgctxt "489||s_SUB_B_07_02||mission"
+msgid "Head to Yonetoku"
+msgstr ""
+
+msgctxt "490||s_SUB_B_07_03||mission"
+msgid "Teach the thugs a lesson"
+msgstr ""
+
+msgctxt "491||s_SUB_B_07_04||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "492||s_SUB_B_08_01||mission"
+msgid "Time leap...?"
+msgstr ""
+
+msgctxt "493||s_SUB_B_08_02||mission"
+msgid "The time leaping girl is back"
+msgstr ""
+
+msgctxt "494||s_SUB_B_08_03||mission"
+msgid "Fight off the thugs"
+msgstr ""
+
+msgctxt "495||s_SUB_B_08_04||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "496||s_SUB_B_09_01||mission"
+msgid "They switched bodies...?"
+msgstr ""
+
+msgctxt "497||s_SUB_B_09_02||mission"
+msgid "Defeat Muranaka and the others"
+msgstr ""
+
+msgctxt "498||s_SUB_B_09_03||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "499||s_SUB_B_17_01||mission"
+msgid "Listen to Hatakeyama-san's worries"
+msgstr ""
+
+msgctxt "500||s_SUB_B_17_02||mission"
+msgid "Check on Hatakeyama-san"
+msgstr ""
+
+msgctxt "501||s_SUB_B_17_03||mission"
+msgid "Talk to Hatakeyama-san"
+msgstr ""
+
+msgctxt "502||s_SUB_B_18_01||mission"
+msgid "Listen to Akiyoshi-san's story"
+msgstr ""
+
+msgctxt "503||s_SUB_B_18_02||mission"
+msgid "Find Akiyoshi-san"
+msgstr ""
+
+msgctxt "504||s_SUB_B_18_03||mission"
+msgid "Talk to Akiyoshi-san"
+msgstr ""
+
+msgctxt "505||s_SUB_B_19_01||mission"
+msgid "Follow Gen-san inside"
+msgstr ""
+
+msgctxt "506||s_SUB_B_19_02||mission"
+msgid "Help Gen-san conquer technology"
+msgstr ""
+
+msgctxt "507||s_SUB_B_19_03||mission"
+msgid "Go see Gen-san"
+msgstr ""
+
+msgctxt "508||s_SUB_B_19_04||mission"
+msgid "Check on Gen-san's progress"
+msgstr ""
+
+msgctxt "509||s_SUB_B_20_01||mission"
+msgid "Wait for Ando-san at Otafuku Pawn Shop"
+msgstr ""
+
+msgctxt "510||s_SUB_B_20_02||mission"
+msgid "Wait for Ando-san at New Gaudi"
+msgstr ""
+
+msgctxt "511||s_SUB_B_20_03||mission"
+msgid "Go to Otafuku Pawn Shop"
+msgstr ""
+
+msgctxt "512||s_SUB_B_20_04||mission"
+msgid "Punish the thief"
+msgstr ""
+
+msgctxt "513||s_SUB_B_20_05||mission"
+msgid "Find Ando-san by the shore"
+msgstr ""
+
+msgctxt "514||s_SUB_B_20_06||mission"
+msgid "Ando-san got back together with his wife"
+msgstr ""
+
+msgctxt "515||s_SUB_B_21_01||mission"
+msgid "Meet Kaneko-san at New Gaudi"
+msgstr ""
+
+msgctxt "516||s_SUB_B_21_02||mission"
+msgid "Tell Kaneko-san what Tsunashima said"
+msgstr ""
+
+msgctxt "517||s_SUB_B_21_03||mission"
+msgid "Talk to Kaneko-san at New Gaudi"
+msgstr ""
+
+msgctxt "518||s_SUB_B_22_01||mission"
+msgid "Drop by New Gaudi"
+msgstr ""
+
+msgctxt "519||s_SUB_B_22_02||mission"
+msgid "Hide Mama's letter"
+msgstr ""
+
+msgctxt "520||s_SUB_B_22_03||mission"
+msgid "Kill time until the meeting"
+msgstr ""
+
+msgctxt "521||s_SUB_B_22_04||mission"
+msgid "Head to the docks for the meeting"
+msgstr ""
+
+msgctxt "522||s_SUB_B_22_05||mission"
+msgid "Hide Mama's letter again"
+msgstr ""
+
+msgctxt "523||s_SUB_B_22_06||mission"
+msgid "Kill time until the meeting"
+msgstr ""
+
+msgctxt "525||s_SUB_B_22_08||mission"
+msgid "Head to New Gaudi"
+msgstr ""
+
+msgctxt "526||s_SUB_B_22_09||mission"
+msgid "Drop by New Gaudi"
+msgstr ""
+
+msgctxt "527||s_SUB_B_23_01||mission"
+msgid "Go see Isao-san"
+msgstr ""
+
+msgctxt "528||s_SUB_B_23_02||mission"
+msgid "Talk to Isao-san"
+msgstr ""
+
+msgctxt "529||s_SUB_B_23_03||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "530||s_SUB_B_24_01||mission"
+msgid "Capture the legendary octopus"
+msgstr ""
+
+msgctxt "531||s_SUB_B_25_01||mission"
+msgid "Defeat the Bloody Shark"
+msgstr ""
+
+msgctxt "532||s_SUB_B_26_01||mission"
+msgid "Defeat Saigo"
+msgstr ""
+
+msgctxt "533||s_SUB_B_26_02||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "534||s_SUB_B_26_03||mission"
+msgid "Defeat Saigo again"
+msgstr ""
+
+msgctxt "535||s_SUB_B_27_01||mission"
+msgid "Learned the joy of New Gaudi"
+msgstr ""
+
+msgctxt "536||i_sample_talk||mission"
+msgid "sample_mission content"
+msgstr ""
+
+msgctxt "537||m_adv11_040||mission"
+msgid "I'll fill in the guys."
+msgstr ""
+
+msgctxt "540||m_adv01_120_before||mission"
+msgid "Maybe I can ask around the area."
+msgstr ""
+
+msgctxt "541||m_adv01_120_after||mission"
+msgid "Maybe I can ask around the area."
+msgstr ""
+
+msgctxt "542||m_adv03_150||mission"
+msgid "I just need milk..."
+msgstr ""
+
+msgctxt "543||i_harutobtl_c03_a||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "544||i_42_falling||mission"
+msgid "Save the person from falling"
+msgstr ""
+
+msgctxt "545||c_CLN31_01||mission"
+msgid "Defeat Tamotsu"
+msgstr ""
+
+msgctxt "546||c_CLN31_02||mission"
+msgid "Defeat Yasu"
+msgstr ""
+
+msgctxt "547||c_CLN31_03||mission"
+msgid "Defeat Dobashi"
+msgstr ""
+
+msgctxt "548||c_CLN31_04||mission"
+msgid "Defeat Tanogami"
+msgstr ""
+
+msgctxt "549||c_CLN31_05||mission"
+msgid "Defeat Nogami"
+msgstr ""
+
+msgctxt "550||c_CLN31_06||mission"
+msgid "Defeat Samurai"
+msgstr ""
+
+msgctxt "551||c_CLN31_07||mission"
+msgid "Defeat Obara"
+msgstr ""
+
+msgctxt "552||c_CLN31_08||mission"
+msgid "Defeat Jono"
+msgstr ""
+
+msgctxt "553||c_CLN31_09||mission"
+msgid "Defeat Fujitake"
+msgstr ""
+
+msgctxt "554||c_CLN31_10||mission"
+msgid "Defeat Hashimoto"
+msgstr ""
+
+msgctxt "555||m_adv04_080||mission"
+msgid "Time to call it a night."
+msgstr ""
+
+msgctxt "556||m_adv04_160||mission"
+msgid "Kiyomi has something to say."
+msgstr ""
+
+msgctxt "557||m_adv04_170||mission"
+msgid "I'll see how I can help."
+msgstr ""
+
+msgctxt "558||m_adv04_240||mission"
+msgid "Kiyomi will bring Haruto by."
+msgstr ""
+
+msgctxt "559||i_10_kyuubyounin_k00||mission"
+msgid "Help the sick person"
+msgstr ""
+
+msgctxt "560||i_42_falling_k00||mission"
+msgid "Save the person from falling"
+msgstr ""
+
+msgctxt "561||m_adv06_020||mission"
+msgid "Then it's back to Kamurocho."
+msgstr ""
+
+msgctxt "562||m_adv06_060||mission"
+msgid "Time to call on an old friend."
+msgstr ""
+
+msgctxt "563||m_adv07_020||mission"
+msgid "Did Akiyama go back underground?"
+msgstr ""
+
+msgctxt "564||m_adv07_050||mission"
+msgid "I'm meeting Akiyama there."
+msgstr ""
+
+msgctxt "565||m_adv07_080||mission"
+msgid "Akiyama is making this difficult."
+msgstr ""
+
+msgctxt "566||m_adv07_100||mission"
+msgid "Nagumo and Yuta are waiting."
+msgstr ""
+
+msgctxt "567||m_adv07_060||mission"
+msgid "Who's stupid enough to follow me?"
+msgstr ""
+
+msgctxt "568||m_adv07_130||mission"
+msgid "Hopefully this goes as planned."
+msgstr ""
+
+msgctxt "569||m_adv08_030||mission"
+msgid "I should talk to Akiyama first."
+msgstr ""
+
+msgctxt "570||m_adv09_020||mission"
+msgid "We need to get back, fast."
+msgstr ""
+
+msgctxt "571||m_adv09_040||mission"
+msgid "Matsunaga and Tagashira are there."
+msgstr ""
+
+msgctxt "572||i_harutobtl_c03_b||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "573||i_harutobtl_c03_c||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "574||i_harutobtl_c03_d||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "575||i_harutobtl_c03_e||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "576||i_harutobtl_c03_f||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "577||m_adv09_080||mission"
+msgid "Maybe the Hirose Family would know."
+msgstr ""
+
+msgctxt "578||m_adv09_120||mission"
+msgid "Can I get to the second floor?"
+msgstr ""
+
+msgctxt "579||m_adv10_031||mission"
+msgid "Haruto is my first priority."
+msgstr ""
+
+msgctxt "580||m_adv09_130||mission"
+msgid "His room might have a clue."
+msgstr ""
+
+msgctxt "581||m_adv09_131||mission"
+msgid "Hirose apparently drinks here."
+msgstr ""
+
+msgctxt "582||m_adv13_200||mission"
+msgid "I should tie up any loose ends."
+msgstr ""
+
+msgctxt "583||s_SUB_A_16_04||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "584||s_SUB_A_25_01||mission"
+msgid "Head into the popular gym, RIZAP"
+msgstr ""
+
+msgctxt "585||m_adv11_070||mission"
+msgid "I should have a word with Yuta."
+msgstr ""
+
+msgctxt "587||i_35_suri||mission"
+msgid "Catch the pickpocket"
+msgstr ""
+
+msgctxt "588||s_SUB_A_14_01||mission"
+msgid "Play darts with Paul Lim"
+msgstr ""
+
+msgctxt "589||s_SUB_B_16_01||mission"
+msgid "Take a taxi to the baseball field"
+msgstr ""
+
+msgctxt "590||s_SUB_B_16_02||mission"
+msgid "Talk to Chiba"
+msgstr ""
+
+msgctxt "591||s_SUB_B_16_03||mission"
+msgid "Win a rematch against the Kanamizawa Gorgeous"
+msgstr ""
+
+msgctxt "592||s_SUB_B_16_04||mission"
+msgid "Won against the Kanamizawa Gorgeous"
+msgstr ""
+
+msgctxt "593||s_SUB_B_16_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "594||i_36_hakaarashi||mission"
+msgid "Put a stop to the grave robbery"
+msgstr ""
+
+msgctxt "595||i_17_ramen||mission"
+msgid "Deliver the ramen"
+msgstr ""
+
+msgctxt "596||s_SUB_A_15_03||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "597||s_SUB_A_18_02||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "598||s_SUB_A_19_03||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "599||s_SUB_A_05_07||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "600||s_SUB_A_04_05||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "601||i_harutobtl_c04_a||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "602||i_harutobtl_c04_b||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "603||i_harutobtl_c04_c||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "604||i_harutobtl_c04_d||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "605||i_harutobtl_c04_e||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "606||i_harutobtl_c04_f||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "607||i_harutobtl_c04_g||mission"
+msgid "Defeat the enemies"
+msgstr ""
+
+msgctxt "608||s_SUB_A_06_03_02||mission"
+msgid "Find the source of the scream"
+msgstr ""
+
+msgctxt "609||s_SUB_A_14_02||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "610||i_tm18_houkama_k01||mission"
+msgid "Defeat the Kamurocho arsonist"
+msgstr ""
+
+msgctxt "611||i_tm19_kaji_k02||mission"
+msgid "Put out the Kamurocho fire"
+msgstr ""
+
+msgctxt "612||i_tm20_kaji_k03||mission"
+msgid "Put out the Kamurocho fire"
+msgstr ""
+
+msgctxt "613||i_tm21_kaji_k04||mission"
+msgid "Put out the Kamurocho fire"
+msgstr ""
+
+msgctxt "614||i_tm22_kaji_k05||mission"
+msgid "Put out the Kamurocho fire"
+msgstr ""
+
+msgctxt "615||i_tm24_kaji_o02||mission"
+msgid "Put out the Onomichi fire"
+msgstr ""
+
+msgctxt "616||i_tm25_kaji_o03||mission"
+msgid "Put out the Onomichi fire"
+msgstr ""
+
+msgctxt "617||i_tm26_kaji_o04||mission"
+msgid "Put out the Onomichi fire"
+msgstr ""
+
+msgctxt "618||i_tm27_kaji_o05||mission"
+msgid "Put out the Onomichi car fire"
+msgstr ""
+
+msgctxt "619||c_CLN02_03||mission"
+msgid "Defeat JUSTIS"
+msgstr ""
+
+msgctxt "620||m_adv12_080||mission"
+msgid "This is personal now."
+msgstr ""
+
+msgctxt "621||s_SUB_A_23_01||mission"
+msgid "Go to the catless cat café"
+msgstr ""
+
+msgctxt "623||m_adv12_115||mission"
+msgid "I should find the guys there."
+msgstr ""
+
+msgctxt "624||i_tm35_hankouyokoku||mission"
+msgid "Find the bomb"
+msgstr ""
+
+msgctxt "625||i_tm32_hankouyokoku2||mission"
+msgid "Find the bomber"
+msgstr ""
+
+msgctxt "626||m_adv12_030||mission"
+msgid "He's got a story to finish."
+msgstr ""
+
+msgctxt "627||i_tm22_kaji_k05_02||mission"
+msgid "Defeat the Kamurocho arsonist"
+msgstr ""
+
+msgctxt "628||m_adv04_180||mission"
+msgid "I should apologize."
+msgstr ""
+
+msgctxt "629||s_SUB_A_26_03||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "630||i_tm27_kaji_o05_02||mission"
+msgid "Defeat the Onomichi arsonist"
+msgstr ""
+
+msgctxt "631||s_SUB_A_25_02||mission"
+msgid "Train at RIZAP"
+msgstr ""
+
+msgctxt "632||s_SUB_A_25_03||mission"
+msgid "Follow the diet plan"
+msgstr ""
+
+msgctxt "633||m_adv07_045||mission"
+msgid "I'll kill some time until he calls."
+msgstr ""
+
+msgctxt "634||m_btl05_010_04||mission"
+msgid "Someya must be in the bath."
+msgstr ""
+
+msgctxt "636||m_btl07_030_2||mission"
+msgid "An ambush, of course."
+msgstr ""
+
+msgctxt "637||m_btl07_030_3||mission"
+msgid "It's just me and him now."
+msgstr ""
+
+msgctxt "638||m_btl12_060b_01||mission"
+msgid "We need to get further in."
+msgstr ""
+
+msgctxt "639||m_btl12_060b_02||mission"
+msgid "We'll break through them!"
+msgstr ""
+
+msgctxt "640||s_SUB_A_11_001||mission"
+msgid "Meet up with Reiko"
+msgstr ""
+
+msgctxt "641||m_adv07_141||mission"
+msgid "Akiyama, this better work."
+msgstr ""
+
+msgctxt "642||m_adv09_070||mission"
+msgid "Hirose must have some favorite spots."
+msgstr ""
+
+msgctxt "643||m_btl11_025||mission"
+msgid "I won't let him do this!"
+msgstr ""
+
+msgctxt "644||s_SUB_A_18_00||mission"
+msgid "Meet up with Erina"
+msgstr ""
+
+msgctxt "645||s_SUB_A_03_08||mission"
+msgid "Ayaka seemed thrilled"
+msgstr ""
+
+msgctxt "646||s_SUB_B_24_02||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "647||s_SUB_B_25_02||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "648||s_SUB_A_20_03||mission"
+msgid "Substory Clear"
+msgstr ""
+
+msgctxt "649||s_SUB_A_21_03||mission"
+msgid "Substory Clear"
+msgstr ""
+

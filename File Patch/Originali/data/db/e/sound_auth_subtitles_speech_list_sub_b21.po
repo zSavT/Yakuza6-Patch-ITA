@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm? Isn't that Kaneko-san?\r\nWhat's he up to?"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Yo, Kaneko-san.\r\nWhat're you doing?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "W-Whoa!"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Wh-What's wrong?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "K-Kiryu-san...\r\nJust now... You saw that?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "See what?\r\nYou mean how you were shadowboxing?"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "C-Can you keep that on the down low?\r\nThe guys at the bar will make fun of me..."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Your secret's safe with me.\r\nNo worries."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "R-Right, sorry... I'm about to head to the bar.\r\nWanna come with, Kiryu-san?"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Think I could buy you a drink?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "(Kaneko-san's desperate...\r\nHe really didn't want to be seen, I guess.)"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Let's see..."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Sure, let's go."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Nice nice, let's go."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Sorry, I'm a bit busy right now."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Oh, okay... Well, I'll be at the bar\r\nso come over when you can."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Hm, I recall Kaneko-san saying he'll\r\nbe at the bar. Maybe I should drop by?"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Yeah, I'll go in."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "No, I'll go another day."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "Yo, I'm back."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Welcome back!\r\nHave a seat."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "(Hmm, I didn't add to the conversation\r\nand it ended awkwardly.)"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "(They're still in the bar. I should\r\nclear my head and get back in there.)"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "I feel like that drink got to me. I'm gonna go\r\nsober up and get some fresh air at the shrine."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "Sure, see you later."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Um, excuse me... Would y'happen t'know\r\nif there's a guy named Kaneko around here?"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Kaneko? Yeah, I was just drinking with him."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Ah! Is that so? \r\nThat mean you're his friend?"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Yeah, something like that. You are?"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Sorry, where're my manners. Name's Tsunashima,\r\nI'm the boss of Kaneko's old boxing gym."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Kaneko-san used to train at your gym?"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Yes, well... Is Kaneko doin' alright?"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Yeah, he's all right. \r\nI hear he works in an office these days."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Oh yeah? I was worried he'd be feeling\r\ndown 'bout retiring. Guess I was wrong."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "I know it's rude t'ask fer favors from a\r\nstranger, but can y'hear this old man out?"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "I wantchya t'give this photo to Kaneko\r\nand tell him, \"Thank you very much.\""
+msgstr ""
+
+msgctxt "39||||4"
+msgid "What is this?"
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Let's just say... \r\nIt was the reason Kaneko stopped boxing."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Reason? You know, I was curious,\r\nwhy did Kaneko-san stop boxing?"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "He protected a girl from some punks."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Protected?"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "A group of thugs had surrounded a\r\ndefenseless girl out by herself."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Kaneko had jus' happened to pass by."
+msgstr ""
+
+msgctxt "46||||4"
+msgid "He beat 'em to a pulp to protect that girl.\r\nBut one of 'em jus' wouldn't let it end..."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Turns out one of 'em was the\r\nson of a tabloid editor."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "\"Pro Boxer Assaults Young Boy\"\r\nmade national headlines."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "I see..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "No matter the reason, pro boxers can't\r\ngo raisin' their hands to civilians..."
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Kaneko retired quietly, said he didn't\r\nwanna bring trouble to the gym."
+msgstr ""
+
+msgctxt "52||||4"
+msgid "So that's what happened..."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "The girl he saved came by the gym.\r\nShe wanted Kaneko to know how grateful she is."
+msgstr ""
+
+msgctxt "54||||4"
+msgid "So that's why you're looking for Kaneko-san.\r\nWhy don't you give it to him yourself then?"
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Naw, if he's on a new path in life,\r\nit's better I don't meet with him."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "I'd probably dredge up bad memories."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "I don't think so..."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Boxing has a mysterious charm to it.\r\nOnce it's got its hook in ya, it becomes yer world."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "And if he retired 'fore he felt he was done,\r\nI'm sure that fire is still burnin' deep down."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "I don't know what I'd say if our\r\nmeeting ignited that fire again."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "But I want him to know that the girl he\r\nsaved was thankful... Can you do that?"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "So that's the reason... \r\nMan, boxers sure are an awkward bunch."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Not that I have any room to talk...\r\nIt is what it is. I'll let Kaneko-san know."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Y'will!? Thank you kindly."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Oh yes. About that photo..."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Well, I better go see Kaneko-san. \r\nHe said he'd be heading to the shrine."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "I should go meet Kaneko-san.\r\nHe said he was going to the shrine."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Oh, it's you, Kiryu-san. \r\nYou trying to sober up too?"
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Yeah, sorta."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Man, thanks to those clowns at the bar,\r\nI can't seem to get my past out of my head."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "You mean, back in your boxing days?"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Yeah, but all that's behind me now."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "I heard you protected a girl by fighting\r\noff a group of lowlifes."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Wha...!? Kiryu-san, who told you that story?\r\nWas it Mama!?"
+msgstr ""
+
+msgctxt "77||||4"
+msgid "No, it wasn't her. Actually, I ran into the boss\r\nof the boxing gym you used to belong to."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "What? He was here?"
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Yeah, he said he didn't want to bother\r\nyou, so he asked me to give you a message."
+msgstr ""
+
+msgctxt "80||||4"
+msgid "No way... What was it?"
+msgstr ""
+
+msgctxt "81||||4"
+msgid "The girl you saved came to visit the gym,\r\nto tell you, \"Thank you for helping me.\""
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Oh. I see."
+msgstr ""
+
+msgctxt "83||||4"
+msgid "What's the matter?\r\nDid that upset you?"
+msgstr ""
+
+msgctxt "84||||4"
+msgid "It's just... I don't deserve her thanks..."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Deep down, I'll always wonder if I could've\r\nbeen a boxing champ if I hadn't saved her..."
+msgstr ""
+
+msgctxt "87||||4"
+msgid "I question whether saving her was right..."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "What a terrible thing to think, right?"
+msgstr ""
+
+msgctxt "89||||4"
+msgid "I mean, I'm glad she's safe and all,\r\nbut my life... You know?"
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Kaneko-san..."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "I have so many regrets about boxing...\r\nI've never been able to give it all up."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "I saved her knowing I'd end up having to\r\nretire, but it was pretty damn rough..."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "I can see where you're coming from."
+msgstr ""
+
+msgctxt "94||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "95||||4"
+msgid "I often find myself asking, what if I'd\r\ndone something differently too..."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "That said, someone who fights to protect another\r\ncan overcome any obstacle. In my opinion, anyway."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "And it's not like you instantly know you\r\ndid the right thing. It takes time to realize it."
+msgstr ""
+
+msgctxt "99||||4"
+msgid "What is this?"
+msgstr ""
+
+msgctxt "100||||4"
+msgid "The boss asked me to give it to you."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "When you came to that girl's rescue\r\nback then... She was pregnant."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "You actually saved two people that day."
+msgstr ""
+
+msgctxt "104||||4"
+msgid "That girl... I can't believe it..."
+msgstr ""
+
+msgctxt "105||||4"
+msgid "Still questioning if it was the right choice?"
+msgstr ""
+
+msgctxt "106||||4"
+msgid "I get it... And I'm glad...\r\nSeriously..."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "You giving up boxing wasn't pointless.\r\nYou protected something precious."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "And you should be proud."
+msgstr ""
+
+msgctxt "109||||4"
+msgid "Thanks, Kiryu-san... This is the first\r\ntime I've really faced my past."
+msgstr ""
+
+msgctxt "110||||4"
+msgid "And I can't let it be my burden anymore.\r\nI'd be a disgrace if I never moved on."
+msgstr ""
+
+msgctxt "111||||4"
+msgid "Heh... Sounds like you already have."
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "113||||4"
+msgid "But this... What a beautiful photo."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Hey, Kiryu-san!"
+msgstr ""
+
+msgctxt "115||||4"
+msgid "Yo, Kaneko-san.\r\nYou look refreshed."
+msgstr ""
+
+msgctxt "116||||4"
+msgid "Ah, yeah?\r\nWell, I couldn't stay depressed forever."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "I've decided to live life on my own terms."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "Heh, that so?"
+msgstr ""
+
+msgctxt "119||||4"
+msgid "It is. Also, Kiryu-san, I heard you put together\r\na team to take on gangs on the streets."
+msgstr ""
+
+msgctxt "120||||4"
+msgid "Y-Yeah, I have."
+msgstr ""
+
+msgctxt "121||||4"
+msgid "This team of yours... Got room for one more?\r\nI want to protect more people with my fists!"
+msgstr ""
+
+msgctxt "122||||4"
+msgid "Kaneko-san..."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "These are no-holds-barred brawls, not like\r\nboxing. Is getting hurt a risk you can live with?"
+msgstr ""
+
+msgctxt "124||||4"
+msgid "Yeah, all part of the game."
+msgstr ""
+
+msgctxt "125||||4"
+msgid "Okay, then. In that case...\r\nLend me your strength."
+msgstr ""
+
+msgctxt "126||||4"
+msgid "Yeah! It's gonna be great to\r\nfight at your side, Kiryu-san!"
+msgstr ""
+

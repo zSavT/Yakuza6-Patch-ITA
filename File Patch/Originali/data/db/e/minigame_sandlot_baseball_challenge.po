@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||thunders_2_1||title"
+msgid "<color=batting_pitch_red>[Official Game]</color> VS Thunders Reserves"
+msgstr ""
+
+msgctxt "2||thunders_2_2||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Victory Lap"
+msgstr ""
+
+msgctxt "3||thunders_2_3||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Keep It Interesting"
+msgstr ""
+
+msgctxt "4||thunders_2_4||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Landslide Win"
+msgstr ""
+
+msgctxt "5||thunders_1_1||title"
+msgid "<color=batting_pitch_red>[Official Game]</color> VS Thunders"
+msgstr ""
+
+msgctxt "6||thunders_1_2||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Victory Lap"
+msgstr ""
+
+msgctxt "7||thunders_1_3||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Landslide Win"
+msgstr ""
+
+msgctxt "8||thunders_1_4||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Team in Stitches"
+msgstr ""
+
+msgctxt "9||legends_1||title"
+msgid "<color=batting_pitch_red>[Official Game]</color> VS Legends"
+msgstr ""
+
+msgctxt "10||legends_2||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Keep It Interesting"
+msgstr ""
+
+msgctxt "11||legends_3||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Landslide Win"
+msgstr ""
+
+msgctxt "12||legends_4||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Colossus of Clout"
+msgstr ""
+
+msgctxt "13||gorgeous_1||title"
+msgid "<color=batting_pitch_red>[Official Game]</color> VS Gorgeous"
+msgstr ""
+
+msgctxt "14||gorgeous_2||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Keep It Interesting"
+msgstr ""
+
+msgctxt "15||gorgeous_3||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Team in Stitches"
+msgstr ""
+
+msgctxt "16||gorgeous_4||title"
+msgid "<color=batting_pitch_yellow>[Conditional Game]</color> Colossus of Clout"
+msgstr ""
+
+msgctxt "1||thunders_2_1||enemy_team_name"
+msgid "VS Jingai Thunders Reserves"
+msgstr ""
+
+msgctxt "2||thunders_2_2||enemy_team_name"
+msgid "VS Jingai Thunders Reserves"
+msgstr ""
+
+msgctxt "3||thunders_2_3||enemy_team_name"
+msgid "VS Jingai Thunders Reserves"
+msgstr ""
+
+msgctxt "4||thunders_2_4||enemy_team_name"
+msgid "VS Jingai Thunders Reserves"
+msgstr ""
+
+msgctxt "5||thunders_1_1||enemy_team_name"
+msgid "VS Jingai Thunders"
+msgstr ""
+
+msgctxt "6||thunders_1_2||enemy_team_name"
+msgid "VS Jingai Thunders"
+msgstr ""
+
+msgctxt "7||thunders_1_3||enemy_team_name"
+msgid "VS Jingai Thunders"
+msgstr ""
+
+msgctxt "8||thunders_1_4||enemy_team_name"
+msgid "VS Jingai Thunders"
+msgstr ""
+
+msgctxt "9||legends_1||enemy_team_name"
+msgid "VS Onomichi Legends"
+msgstr ""
+
+msgctxt "10||legends_2||enemy_team_name"
+msgid "VS Onomichi Legends"
+msgstr ""
+
+msgctxt "11||legends_3||enemy_team_name"
+msgid "VS Onomichi Legends"
+msgstr ""
+
+msgctxt "12||legends_4||enemy_team_name"
+msgid "VS Onomichi Legends"
+msgstr ""
+
+msgctxt "13||gorgeous_1||enemy_team_name"
+msgid "VS Kanamizawa Gorgeous"
+msgstr ""
+
+msgctxt "14||gorgeous_2||enemy_team_name"
+msgid "VS Kanamizawa Gorgeous"
+msgstr ""
+
+msgctxt "15||gorgeous_3||enemy_team_name"
+msgid "VS Kanamizawa Gorgeous"
+msgstr ""
+
+msgctxt "16||gorgeous_4||enemy_team_name"
+msgid "VS Kanamizawa Gorgeous"
+msgstr ""
+
+msgctxt "1||thunders_2_1||terms_clear"
+msgid "Win against the Jingai Thunders Reserves."
+msgstr ""
+
+msgctxt "2||thunders_2_2||terms_clear"
+msgid "Win with at least one home run."
+msgstr ""
+
+msgctxt "3||thunders_2_3||terms_clear"
+msgid "Win by scoring 5 or more runs."
+msgstr ""
+
+msgctxt "4||thunders_2_4||terms_clear"
+msgid "Win with at least a 5 run lead."
+msgstr ""
+
+msgctxt "5||thunders_1_1||terms_clear"
+msgid "Win against the Jingai Thunders."
+msgstr ""
+
+msgctxt "6||thunders_1_2||terms_clear"
+msgid "Win with at least one home run."
+msgstr ""
+
+msgctxt "7||thunders_1_3||terms_clear"
+msgid "Win with at least a 5 run lead."
+msgstr ""
+
+msgctxt "8||thunders_1_4||terms_clear"
+msgid "Win when your team is in terrible condition."
+msgstr ""
+
+msgctxt "9||legends_1||terms_clear"
+msgid "Win against Onomichi Legends."
+msgstr ""
+
+msgctxt "10||legends_2||terms_clear"
+msgid "Win by scoring 5 or more runs."
+msgstr ""
+
+msgctxt "11||legends_3||terms_clear"
+msgid "Win with at least a 5 run lead."
+msgstr ""
+
+msgctxt "12||legends_4||terms_clear"
+msgid "Win against a perfect-condition team."
+msgstr ""
+
+msgctxt "13||gorgeous_1||terms_clear"
+msgid "Win against Kanamizawa Gorgeous."
+msgstr ""
+
+msgctxt "14||gorgeous_2||terms_clear"
+msgid "Win by scoring 5 or more runs."
+msgstr ""
+
+msgctxt "15||gorgeous_3||terms_clear"
+msgid "Win when your team is in terrible condition."
+msgstr ""
+
+msgctxt "16||gorgeous_4||terms_clear"
+msgid "Win against a perfect-condition team."
+msgstr ""
+
+msgctxt "1||thunders_2_1||terms_bonus"
+msgid "Win with at least one player-controlled hit."
+msgstr ""
+
+msgctxt "2||thunders_2_2||terms_bonus"
+msgid "Win with at least two player-controlled hits."
+msgstr ""
+
+msgctxt "3||thunders_2_3||terms_bonus"
+msgid "Win with at least 10 runs."
+msgstr ""
+
+msgctxt "4||thunders_2_4||terms_bonus"
+msgid "Win with at least a 10 run lead."
+msgstr ""
+
+msgctxt "5||thunders_1_1||terms_bonus"
+msgid "Win with at least one player-controlled home run."
+msgstr ""
+
+msgctxt "6||thunders_1_2||terms_bonus"
+msgid "Win with at least two player-controlled home runs."
+msgstr ""
+
+msgctxt "7||thunders_1_3||terms_bonus"
+msgid "Win with at least a 10 run lead."
+msgstr ""
+
+msgctxt "8||thunders_1_4||terms_bonus"
+msgid "Win with at least three player-controlled hits."
+msgstr ""
+
+msgctxt "9||legends_1||terms_bonus"
+msgid "Win with at least two player-controlled hits."
+msgstr ""
+
+msgctxt "10||legends_2||terms_bonus"
+msgid "Win with at least 10 runs."
+msgstr ""
+
+msgctxt "11||legends_3||terms_bonus"
+msgid "Win with at least a 10 run lead."
+msgstr ""
+
+msgctxt "12||legends_4||terms_bonus"
+msgid "Win without changing the pitcher."
+msgstr ""
+
+msgctxt "13||gorgeous_1||terms_bonus"
+msgid "Win with at least two player-controlled hits."
+msgstr ""
+
+msgctxt "14||gorgeous_2||terms_bonus"
+msgid "Win with at least 10 runs."
+msgstr ""
+
+msgctxt "15||gorgeous_3||terms_bonus"
+msgid "Win with at least one player-controlled home run."
+msgstr ""
+
+msgctxt "16||gorgeous_4||terms_bonus"
+msgid "Win with at least two player-controlled home runs."
+msgstr ""
+

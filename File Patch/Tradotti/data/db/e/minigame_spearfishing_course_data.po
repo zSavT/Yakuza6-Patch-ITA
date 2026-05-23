@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||level1_1||name"
+msgid "Azure Coast"
+msgstr "Costa Azzurra"
+
+msgctxt "2||level1_2||name"
+msgid "Sunken Labyrinth"
+msgstr "Labirinto sommerso"
+
+msgctxt "3||level1_3||name"
+msgid "Dragon's Den"
+msgstr "Tana del drago"
+
+msgctxt "1||level1_1||fish0"
+msgid "Jellyfish"
+msgstr "Medusa"
+
+msgctxt "2||level1_2||fish0"
+msgid "Jellyfish"
+msgstr "Medusa"
+
+msgctxt "3||level1_3||fish0"
+msgid "Jellyfish"
+msgstr "Medusa"
+
+msgctxt "1||level1_1||fish1"
+msgid "Great White Shark"
+msgstr "Grande squalo bianco"
+
+msgctxt "2||level1_2||fish1"
+msgid "Great White Shark"
+msgstr "Grande squalo bianco"
+
+msgctxt "3||level1_3||fish1"
+msgid "Great White Shark"
+msgstr "Grande squalo bianco"
+
+msgctxt "1||level1_1||fish2"
+msgid "Devil Scorpionfish"
+msgstr "Scorfano diabolico"
+
+msgctxt "2||level1_2||fish2"
+msgid "Devil Scorpionfish"
+msgstr "Scorfano diabolico"
+
+msgctxt "3||level1_3||fish2"
+msgid "Devil Scorpionfish"
+msgstr "Scorfano diabolico"
+
+msgctxt "1||level1_1||fish3"
+msgid "Japanese Sea Bream"
+msgstr "Orata giapponese"
+
+msgctxt "2||level1_2||fish3"
+msgid "Japanese Sea Bream"
+msgstr "Orata giapponese"
+
+msgctxt "3||level1_3||fish3"
+msgid "Marlin"
+msgstr "Marlin"
+
+msgctxt "1||level1_1||fish4"
+msgid "Thread-sail Filefish"
+msgstr "Pesce balestra"
+
+msgctxt "2||level1_2||fish4"
+msgid "Tuna"
+msgstr "Tonno"
+
+msgctxt "3||level1_3||fish4"
+msgid "Tuna"
+msgstr "Tonno"
+
+msgctxt "1||level1_1||fish5"
+msgid "Goby"
+msgstr "Ghiozzo"
+
+msgctxt "2||level1_2||fish5"
+msgid "Blowfish"
+msgstr "Pesce palla"
+
+msgctxt "3||level1_3||fish5"
+msgid "Blowfish"
+msgstr "Pesce palla"
+
+msgctxt "1||level1_1||fish6"
+msgid "Salmon"
+msgstr "Salmone"
+
+msgctxt "2||level1_2||fish6"
+msgid "Conger Eel"
+msgstr "Grongo"
+
+msgctxt "3||level1_3||fish6"
+msgid "Giant Crab"
+msgstr "Granchio gigante"
+
+msgctxt "1||level1_1||fish7"
+msgid "Flounder"
+msgstr "Passera di mare"
+
+msgctxt "2||level1_2||fish7"
+msgid "Tiger Puffer"
+msgstr "Pesce palla tigre"
+
+msgctxt "3||level1_3||fish7"
+msgid "Coelacanth"
+msgstr "Celacanto"
+
+msgctxt "1||level1_1||fish8"
+msgid "Squid"
+msgstr "Calamaro"
+
+msgctxt "2||level1_2||fish8"
+msgid "Common Octopus"
+msgstr "Polpo comune"
+
+msgctxt "3||level1_3||fish8"
+msgid "Giant Oarfish"
+msgstr "Re di aringhe"
+
+msgctxt "1||level1_1||fish9"
+msgid "Emperor Squid"
+msgstr "Calamaro imperatore"
+
+msgctxt "2||level1_2||fish9"
+msgid "Delicious Octopus"
+msgstr "Polpo delizioso"
+
+msgctxt "3||level1_3||fish9"
+msgid "Bloody Shark"
+msgstr "Squalo sanguinario"

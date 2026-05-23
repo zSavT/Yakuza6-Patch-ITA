@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "It's finally time for our deciding game\r\nagainst Kanamizawa Gorgeous...!"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Yeah, it is."
+msgstr ""
+
+msgctxt "2||||4"
+msgid "It seems everyone's gathered."
+msgstr ""
+
+msgctxt "3||||4"
+msgid "There you are... Kanamizawa."
+msgstr ""
+
+msgctxt "4||||4"
+msgid "You promised, if we beat you,\r\nyou'll stop tryin' to buy this field!"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Of course.\r\nThat is, <font_kind=yakuza_italic>if</font_kind> you win."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "I doubt a team as expensive as mine...\r\ncould lose against a ragtag bunch of amateurs."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Anything can happen in baseball, right?"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "That's right! We may be the underdogs, but we share\r\na bond that a team motivated only by money doesn't!"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Baseball is all about synergy among your team.\r\nThat's why we won't lose to you guys!"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "A bond, is it?\r\nHow absurd..."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Synergy, your bond as a team... We'll crush it all\r\nusing the world's only true value... Money."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "I'm getting excited for the first pitch..."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Kiryu-san... We can't lose this one!"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "Just let me know when you're ready!\r\nFor the final showdown... We can't hold back!"
+msgstr ""
+
+msgctxt "16||||4"
+msgid "Kiryu-san! This is it, our game against Gorgeous...\r\nLet's blow them away!"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Damn... They're so strong..."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "It seems this is as far as that so-called\r\n\"bond\" can take you."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "You can't expect to beat pure cash\r\nwith the power of emotions."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "And since we won...\r\nThe field acquisition plan carries on."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "If you still want to stop me, I suggest you\r\ntry again soon... Show me this \"bond.\""
+msgstr ""
+
+msgctxt "22||||4"
+msgid "I'm real damn frustrated\r\nthat they're such a cut above us..."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "But we can't give up now!\r\nLet's take them on again!"
+msgstr ""
+
+msgctxt "24||||4"
+msgid "We... We... We..."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "We woooooooooon!"
+msgstr ""
+
+msgctxt "26||||4"
+msgid "We won!\r\nWe... are Onomichi's strongest!"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Yeah, well done, everyone."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "All riiiiiight!"
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Yaaaaaay!"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Hell yeeeaaah!"
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Impossible...\r\nI invested so much money into this team."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "I gathered world-class players, and yet we lost...\r\nHow...? I don't understand..."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Baseball... is a team sport.\r\nY'can't win unless the team is united."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "We used t'be a pathetic team with no\r\nsynergy at all... 'Til Kiryu-san showed up."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "Since he joined us, we grew in numbers,\r\nand we played as a unit."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Chiba..."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "I don't deny that we were pretty rough 'round\r\nthe edges... But our bond is unbreakable now."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "I'm so glad t'be a part of this team...\r\nI'm so happy I got t'play with these guys..."
+msgstr ""
+
+msgctxt "39||||4"
+msgid "And... I bet that's how we all feel inside,\r\nand that thought makes me way happy!"
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Our bond... That's how we won the game!\r\nWell, I think so anyway!"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Your... Bond...?"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "I can't believe such a thing could\r\ndetermine winning or losing..."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "But because it can...\r\nIsn't that what makes baseball so fun?"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "You do like baseball, don't you?\r\nEnough to build your own team, anyway."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Then... Don't you get that on some level?"
+msgstr ""
+
+msgctxt "46||||4"
+msgid "I guess you're right."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "We lose this game.\r\nAs promised, I won't buy the field."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Yay!"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "All right!"
+msgstr ""
+
+msgctxt "50||||4"
+msgid "We did it!"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "However, that doesn't mean I've given up\r\non the title of Onomichi's best team."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "We'll train even harder...\r\nAnd come back to beat you next time!"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Sure... Any time you want to play."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Alright, guys, let's call it day."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "I'm rather famished, actually... Let's all forge\r\na bond over a luxurious supper, shall we?"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "[Yeah! Hooo!]"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "[Wow! Great!]"
+msgstr ""
+
+msgctxt "59||||4"
+msgid "[Kanamizawa! I love you!]"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Bond! Bond!"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "What weirdos..."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Kiryu-san... I've said this before,\r\nbut thank you so much!"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "If y'hadn't joined us...\r\nI think our team would've disbanded."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "I'm truly glad that you joined our team!"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "No, I had a lot of fun, and I gained\r\nsome new experiences myself."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Thanks Chiba... Everyone..."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Okay! Let's toss Kiryu-san into the\r\nair to celebrate becoming Onomichi's best!"
+msgstr ""
+
+msgctxt "71||||4"
+msgid "Yeah! Nice!"
+msgstr ""
+
+msgctxt "72||||4"
+msgid "Toss... Me?"
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Yeah! We're Onomichi's strongest now, y'know!?\r\nThat pretty much means we're champions!"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "And when it comes to champions...\r\nY'gotta toss the star player into the air!"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "I'm not sure about that..."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "You guys are gonna toss Kiryu-san?\r\nYou'll be needin' our help, I think."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "Tossing Kiryu-san...\r\nSounds great... Right, Lu-san?"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Yeah, Shige-san."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Yeah! Everyone can play their part!"
+msgstr ""
+
+msgctxt "80||||4"
+msgid "H-Hey, let's rethink this..."
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Ready? Here we go!"
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Hurrah! Hurrah! Hurrah!"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Hurrah! Hurrah! Hurrah!"
+msgstr ""
+
+msgctxt "84||||4"
+msgid "Hurrah! Hurrah! Hurrah!"
+msgstr ""
+
+msgctxt "85||||4"
+msgid "Hurrah! Hurrah! Hurrah!"
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Hurrah! Hurrah! Hurrah!"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "Hurrah! Hurrah! Hurrah!"
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Hurrah! Hurrah! Hurrah!"
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Ah! We dropped Kiryu-san!"
+msgstr ""
+
+msgctxt "94||||4"
+msgid "A-Are you all right!?"
+msgstr ""
+
+msgctxt "95||||4"
+msgid "You guys..."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "Aren't you Kanamizawa from Kanamizawa Gorgeous?"
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Indeed.\r\nI've been looking for you, Kiryu-san."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Looking for me? What do you want?\r\nYou want a rematch?"
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Not quite, this doesn't concern baseball..."
+msgstr ""
+
+msgctxt "100||||4"
+msgid "Kiryu-san, do you remember what was said the other day?\r\nThat your team's \"bond\" is what was important for victory..."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "Well... Yeah, I guess I said something like that."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "I figured I should learn about such a bond,\r\nso I'm thinking about joining your team."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "Join my team?\r\nYou want in the Setouchi Warriors?"
+msgstr ""
+
+msgctxt "104||||4"
+msgid "No, I heard that you lead an organization\r\ncalled the Kiryu Clan..."
+msgstr ""
+
+msgctxt "105||||4"
+msgid "That's the team I desire to join."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Join the Kiryu Clan? Are you sure about that?\r\nOur battles are nothing like baseball..."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "I don't mind. All the better, in fact."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "I'd like to work under you and study these\r\nbonds to carry over the lessons to baseball."
+msgstr ""
+
+msgctxt "109||||4"
+msgid "So I'll be joining you whether you like it or\r\nnot. The pleasure is mine, Kiryu-san."
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Uh... Sure...\r\nGood to have you?"
+msgstr ""
+

@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||k_alps||name"
+msgid "An Elegant Time at Alps"
+msgstr ""
+
+msgctxt "2||k_smileburgar0||name"
+msgid "The Standard Smile Set"
+msgstr ""
+
+msgctxt "3||k_smileburgar1||name"
+msgid "Healthy Smile"
+msgstr ""
+
+msgctxt "4||k_sushigin||name"
+msgid "The Ultimate Sushi Gin"
+msgstr ""
+
+msgctxt "5||k_akaushi||name"
+msgid "Blissfully Drinking Alone"
+msgstr ""
+
+msgctxt "6||k_bantam||name"
+msgid "Depth of 30 Years"
+msgstr ""
+
+msgctxt "8||k_gindaco||name"
+msgid "This is Gindaco Highball!"
+msgstr ""
+
+msgctxt "10||k_ichibanboshi||name"
+msgid "The Holy Trinity"
+msgstr ""
+
+msgctxt "12||k_M_SIDE_CAFE||name"
+msgid "Bread Over Rice"
+msgstr ""
+
+msgctxt "14||k_quadra||name"
+msgid "Full of Cake"
+msgstr ""
+
+msgctxt "15||k_ringerhut||name"
+msgid "Veggie Lover"
+msgstr ""
+
+msgctxt "16||k_sushizanmai||name"
+msgid "Tunalicious"
+msgstr ""
+
+msgctxt "17||k_wettekitchen||name"
+msgid "Delicious Side Dishes"
+msgstr ""
+
+msgctxt "18||k_wildjackson||name"
+msgid "Wild Combo"
+msgstr ""
+
+msgctxt "20||o_juumangoku||name"
+msgid "A Cut Above"
+msgstr ""
+
+msgctxt "21||o_kakikoya||name"
+msgid "Testing Your Luck"
+msgstr ""
+
+msgctxt "23||o_yonetoku||name"
+msgid "The Yonetoku Standard!"
+msgstr ""
+
+msgctxt "24||mg_snack||name"
+msgid "Quick & Easy"
+msgstr ""
+
+msgctxt "25||k_fujisoba0||name"
+msgid "Harmony of Rice and Noodles"
+msgstr ""
+
+msgctxt "26||k_fujisoba1||name"
+msgid "Rice Lover"
+msgstr ""
+
+msgctxt "27||k_hanrai0||name"
+msgid "A Yakiniku Staple"
+msgstr ""
+
+msgctxt "28||k_hanrai1||name"
+msgid "Nothing Grilled at Yakiniku!?"
+msgstr ""
+
+msgctxt "29||k_ikinari_steak0||name"
+msgid "A Solid Lineup"
+msgstr ""
+
+msgctxt "30||k_ikinari_steak1||name"
+msgid "Eating Wild"
+msgstr ""
+
+msgctxt "31||k_osaka_ohsho0||name"
+msgid "Spicy Combination"
+msgstr ""
+
+msgctxt "32||k_osaka_ohsho1||name"
+msgid "Griddle Trio"
+msgstr ""
+
+msgctxt "33||k_yoronotaki0||name"
+msgid "I'll Have This to Start!"
+msgstr ""
+
+msgctxt "34||k_yoronotaki1||name"
+msgid "I've Gotta Order That!"
+msgstr ""
+
+msgctxt "35||o_La_Pente0||name"
+msgid "Aspiring Sommelier!?"
+msgstr ""
+
+msgctxt "36||o_La_Pente1||name"
+msgid "Original Course Menu"
+msgstr ""
+

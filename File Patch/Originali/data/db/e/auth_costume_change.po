@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||cos_kam_nor||name"
+msgid "Kamurocho Style"
+msgstr ""
+
+msgctxt "2||cos_ono_nor||name"
+msgid "Onomichi Style"
+msgstr ""
+
+msgctxt "3||cos_mask||name"
+msgid "Ski Mask Outfit"
+msgstr ""
+
+msgctxt "4||cos_baseball||name"
+msgid "Baseball Uniform"
+msgstr ""
+
+msgctxt "5||cos_mourning||name"
+msgid "Funeral Suit"
+msgstr ""
+
+msgctxt "6||cos_doll||name"
+msgid "Ono Michio"
+msgstr ""
+
+msgctxt "7||cos_cancel||name"
+msgid "Quit"
+msgstr ""
+

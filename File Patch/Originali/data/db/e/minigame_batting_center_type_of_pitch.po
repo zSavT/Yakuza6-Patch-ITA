@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "2||slider||name"
+msgid "Slider"
+msgstr ""
+
+msgctxt "5||sinker||name"
+msgid "Sinker"
+msgstr ""
+
+msgctxt "8||fastball||name"
+msgid "Fastball"
+msgstr ""
+
+msgctxt "9||twoseam||name"
+msgid "Two-seamer"
+msgstr ""
+
+msgctxt "10||oneseam||name"
+msgid "One-seamer"
+msgstr ""
+
+msgctxt "11||cutball||name"
+msgid "Cutter"
+msgstr ""
+
+msgctxt "12||curve||name"
+msgid "Curveball"
+msgstr ""
+
+msgctxt "13||fork||name"
+msgid "Forkball"
+msgstr ""
+
+msgctxt "14||splitter||name"
+msgid "Splitter"
+msgstr ""
+
+msgctxt "15||changeup||name"
+msgid "Change-up"
+msgstr ""
+
+msgctxt "16||shuuto||name"
+msgid "Shootball"
+msgstr ""
+
+msgctxt "17||gyro||name"
+msgid "Gyroball"
+msgstr ""
+
+msgctxt "18||Hfastball||name"
+msgid "Fastball"
+msgstr ""
+
+msgctxt "5||sinker||name_left"
+msgid "Screwball"
+msgstr ""
+

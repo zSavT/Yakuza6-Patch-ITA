@@ -1,0 +1,560 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm?"
+msgstr "(Uhm?)"
+
+msgctxt "1||||4"
+msgid "S... Someone..."
+msgstr "Q... Qualcuno..."
+
+msgctxt "2||||4"
+msgid "Hey, what's wrong?"
+msgstr "Ehi, che succede?"
+
+msgctxt "3||||4"
+msgid "P-Please get me... something to eat..."
+msgstr "P-per favore, portatemi... qualcosa da mangiare..."
+
+msgctxt "4||||4"
+msgid "He must be hungry...\r\nI guess I could bring him something."
+msgstr "(Deve essere affamato...\r\nImmagino che potrei portargli qualcosa.)"
+
+msgctxt "5||||4"
+msgid "All right, I'll go get you some food."
+msgstr "D'accordo, vado a prenderti del cibo."
+
+msgctxt "6||||4"
+msgid "Um... if possible...\r\na tonkatsu bento please..."
+msgstr "Ehm... se possibile...\r\nun bento al tonkatsu per favore..."
+
+msgctxt "7||||4"
+msgid "What's up with this guy?"
+msgstr "(Che problemi ha questo tizio?)"
+
+msgctxt "8||||4"
+msgid "Well I can't just leave him... Fine, I\r\nguess I'll get him a tonkatsu bento."
+msgstr "(Beh, non posso certo abbandonarlo... D'accordo, credo\r\nche gli prenderò un bento al tonkatsu.)"
+
+msgctxt "9||||4"
+msgid "Ngh... someone please...\r\nbring me a tonkatsu bento..."
+msgstr "Ngh... qualcuno per favore...\r\nmi porti un bento al tonkatsu..."
+
+msgctxt "10||||4"
+msgid "He seems to be hungry.\r\nI guess I'll get him a tonkatsu bento."
+msgstr "(Sembra essere affamato.\r\nImmagino che gli prenderò un bento al tonkatsu.)"
+
+msgctxt "11||||4"
+msgid "Ngh... someone please...\r\nbring me a tonkatsu bento..."
+msgstr "Ngh... qualcuno per favore...\r\nmi porti un bento al tonkatsu..."
+
+msgctxt "12||||4"
+msgid "Here, it's a tonkatsu bento\r\nlike you asked for."
+msgstr "Tieni, è un bento al tonkatsu\r\ncome avevi chiesto."
+
+msgctxt "13||||4"
+msgid "O-Ooooooh...!"
+msgstr "O-Ooooooh...!"
+
+msgctxt "14||||4"
+msgid "Well gosh, you're a lifesaver... My crisis\r\nmanagement assessment must still need work."
+msgstr "Cavoli, mi hai salvato la vita... La mia capacità di\r\nvalutazione della gestione delle crisi deve ancora migliorare."
+
+msgctxt "15||||4"
+msgid "Regardless, you're kind enough to help\r\nout a stranger... That deserves respect."
+msgstr "Ad ogni modo, sei stato così gentile da aiutare\r\nuno sconosciuto... Ciò merita rispetto."
+
+msgctxt "16||||4"
+msgid "What's your name?"
+msgstr "Qual è il tuo nome?"
+
+msgctxt "17||||4"
+msgid "I'm Kiryu."
+msgstr "Sono Kiryu."
+
+msgctxt "18||||4"
+msgid "Kiryu-kun, huh? I'm Saigo,\r\nCrisis Management Professional."
+msgstr "Kiryu-kun, eh? Io sono Saigo,\r\nProfessionista della gestione delle crisi."
+
+msgctxt "19||||4"
+msgid "Crisis Management... Professional?"
+msgstr "Professionista... della gestione delle crisi?"
+
+msgctxt "20||||4"
+msgid "Yes. Let me ask you, what do you think is the\r\nnumber one threat to modern day Japan?"
+msgstr "Sì. Lascia che ti chieda: qual è, secondo te, la\r\nminaccia numero uno per il Giappone moderno?"
+
+msgctxt "21||||4"
+msgid "A threat to Japan?\r\nHmm, I don't know. What is it?"
+msgstr "Una minaccia per il Giappone?\r\nUhm, non saprei. Di che si tratta?"
+
+msgctxt "22||||4"
+msgid "Peace senility. People in Japan today\r\nare sitting complacent atop peace."
+msgstr "La senilità da pace. Oggigiorno i cittadini giapponesi\r\nse ne stanno compiacenti adagiati sulla pace."
+
+msgctxt "23||||4"
+msgid "I fought as a mercenary in the Middle East\r\nand witnessed countless deaths."
+msgstr "Io ho combattuto come mercenario in Medio Oriente\r\ne ho assistito a innumerevoli morti."
+
+msgctxt "24||||4"
+msgid "From my perspective, people in Japan these\r\ndays have a total lack of crisis awareness!"
+msgstr "Dal mio punto di vista, le persone in Giappone al giorno\r\nd'oggi hanno una totale mancanza di consapevolezza delle crisi!"
+
+msgctxt "25||||4"
+msgid "I-I see..."
+msgstr "C-capisco..."
+
+msgctxt "26||||4"
+msgid "That's why I've taken the initiative to teach\r\nthe careless masses about crisis management."
+msgstr "Per questo ho preso l'iniziativa di insegnare\r\nalla massa spensierata la gestione delle crisi."
+
+msgctxt "27||||4"
+msgid "So... why was a Crisis Management\r\nProfessional lying on the ground?"
+msgstr "Quindi... perché un Professionista della gestione\r\ndelle crisi giaceva steso a terra?"
+
+msgctxt "28||||4"
+msgid "To put it simply, I'm broke."
+msgstr "Per dirla in modo semplice, sono al verde."
+
+msgctxt "29||||4"
+msgid "Thing is, I'm trying to complete the ultimate\r\nself-defense technique in case of a huge crisis."
+msgstr "Il fatto è che sto cercando di completare la tecnica\r\ndi autodifesa suprema in caso di crisi di vasta scala."
+
+msgctxt "30||||4"
+msgid "The ultimate self-defense technique..."
+msgstr "La tecnica di autodifesa suprema..."
+
+msgctxt "31||||4"
+msgid "Mhm, I've traveled the world learning fighting\r\nstyles to craft the ultimate technique..."
+msgstr "Mhm, ho viaggiato per il mondo imparando stili di\r\ncombattimento per creare la tecnica suprema..."
+
+msgctxt "32||||4"
+msgid "But my finances reached rock bottom before\r\nI could finish, so I came back in tears."
+msgstr "Ma le mie finanze hanno toccato il fondo prima\r\nche potessi finire, quindi sono tornato in lacrime."
+
+msgctxt "33||||4"
+msgid "If you're a Crisis Management Professional,\r\nyou should've planned a little better..."
+msgstr "Se sei un Professionista della gestione delle crisi,\r\navresti dovuto pianificare le cose un po' meglio..."
+
+msgctxt "34||||4"
+msgid "Since my training was cut short, I still\r\nneed to complete this technique somehow."
+msgstr "Dato che il mio allenamento è stato interrotto, ho ancora\r\nbisogno di completare questa tecnica in qualche modo."
+
+msgctxt "35||||4"
+msgid "Obviously I don't have money to travel again.\r\nI'm honestly unsure where I go from here."
+msgstr "Ovviamente non ho i soldi per viaggiare di nuovo.\r\nSinceramente non sono sicuro su come procedere da qui in poi."
+
+msgctxt "36||||4"
+msgid "Hm... It's just a thought, but if you can't\r\ngo overseas, then maybe finish it here?"
+msgstr "Uhm... È solo un'idea, ma se non puoi\r\nandare all'estero, allora perché non finirla qui?"
+
+msgctxt "37||||4"
+msgid "Finish it nearby, eh...? Brilliant,\r\nKiryu-kun. You're exactly right..."
+msgstr "Finirla nelle vicinanze, eh...? Brillante,\r\nKiryu-kun. Hai perfettamente ragione..."
+
+msgctxt "38||||4"
+msgid "Since I'm broke, I need to find someone in\r\nOnomichi to help me finish this technique."
+msgstr "Dato che sono al verde, devo trovare qualcuno a\r\nOnomichi che mi aiuti a finire questa tecnica."
+
+msgctxt "39||||4"
+msgid "I wonder if you can even find\r\nsomeone like that in Onomichi."
+msgstr "(Mi chiedo se sia possibile trovare\r\nqualcuno del genere a Onomichi.)"
+
+msgctxt "40||||4"
+msgid "Mmm, are you suuure...?"
+msgstr "Mmm, ne sei sicuuuro...?"
+
+msgctxt "41||||4"
+msgid "Mmm...?"
+msgstr "Mmm...?"
+
+msgctxt "43||||4"
+msgid "Hmm..."
+msgstr "Uhm..."
+
+msgctxt "45||||4"
+msgid "Earth to Kiryu-kun, are you listening...?"
+msgstr "Terra chiama Kiryu-kun, mi stai ascoltando...?"
+
+msgctxt "46||||4"
+msgid "Don't you realize I'm not gonna do it?"
+msgstr "Non capisci che non lo farò?"
+
+msgctxt "47||||4"
+msgid "Now, don't be so wishy-washy.\r\nAren't you worried about Japan's future?"
+msgstr "Su, non fare l'indeciso.\r\nNon sei preoccupato per il futuro del Giappone?"
+
+msgctxt "48||||4"
+msgid "Don't YOU realize my self-defense technique\r\nwill protect many innocent people from danger?"
+msgstr "Non ti rendi conto che la MIA tecnica di autodifesa\r\nproteggerà molte persone innocenti dal pericolo?"
+
+msgctxt "49||||4"
+msgid "Don't you think that's an\r\nincredibly worthwhile cause?"
+msgstr "Non pensi che sia una\r\ncausa incredibilmente valida?"
+
+msgctxt "50||||4"
+msgid "Not really."
+msgstr "Non proprio."
+
+msgctxt "51||||4"
+msgid "I don't get you at all..."
+msgstr "Non ti capisco affatto..."
+
+msgctxt "52||||4"
+msgid "Fine! Then I'll force you to help me!"
+msgstr "Bene! Allora ti costringerò ad aiutarmi!"
+
+msgctxt "53||||4"
+msgid "What? Whoa, hold on..."
+msgstr "Cosa? Ehi, aspetta un attimo..."
+
+msgctxt "54||||4"
+msgid "You're too naive, Kiryu-kun!"
+msgstr "Sei troppo ingenuo, Kiryu-kun!"
+
+msgctxt "55||||4"
+msgid "Didn't I say earlier? The people of today's\r\nJapan lack any sort of crisis awareness!"
+msgstr "Non l'ho detto prima? Le persone del Giappone di\r\noggi mancano di qualsiasi consapevolezza delle crisi!"
+
+msgctxt "56||||4"
+msgid "You're crazy strong, Kiryu-kun...!"
+msgstr "Sei pazzescamente forte, Kiryu-kun...!"
+
+msgctxt "57||||4"
+msgid "I've traveled all over the world,\r\nbut I've never had an opponent like you."
+msgstr "Ho viaggiato in tutto il mondo,\r\nma non ho mai avuto un avversario come te."
+
+msgctxt "58||||4"
+msgid "I might've...\r\nfound myself the ultimate partner..."
+msgstr "Potrei aver...\r\ntrovato il compagno supremo..."
+
+msgctxt "59||||4"
+msgid "Partner? Don't tell me... you think I'm\r\ngoing to stick around to help you?"
+msgstr "Compagno? Non dirmi che... pensi che io\r\nresterò qui ad aiutarti?"
+
+msgctxt "60||||4"
+msgid "You're a smart guy, Kiryu-kun.\r\nThat's exactly what I'm doing."
+msgstr "Sei un ragazzo intelligente, Kiryu-kun.\r\nÈ esattamente ciò che sto facendo."
+
+msgctxt "61||||4"
+msgid "I feel like fighting you will help me\r\ntrain in the areas I'm lacking."
+msgstr "Sento che combattere con te mi aiuterà\r\nad allenarmi nelle aree in cui sono carente."
+
+msgctxt "62||||4"
+msgid "I'd like for you to continue fighting me\r\nso I can complete my ultimate technique."
+msgstr "Mi piacerebbe che continuassi a combattere con me\r\ncosì da poter completare la mia tecnica suprema."
+
+msgctxt "63||||4"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "64||||4"
+msgid "Even if you decline, I won't give up."
+msgstr "Anche se rifiuti, non mi arrenderò."
+
+msgctxt "65||||4"
+msgid "If anything, I might start stalking\r\nyou until you cooperate!"
+msgstr "Anzi, potrei iniziare a pedinarti\r\nfinché non collaborerai!"
+
+msgctxt "66||||4"
+msgid "Is that really what you want?"
+msgstr "È davvero quello che vuoi?"
+
+msgctxt "67||||4"
+msgid "I would not want that..."
+msgstr "(Non mi andrebbe affatto...)"
+
+msgctxt "68||||4"
+msgid "God damn it...\r\nFine, I'll help you out when I'm free."
+msgstr "Dannazione...\r\nVa bene, ti aiuterò quando sarò libero."
+
+msgctxt "69||||4"
+msgid "I like that attitude! You're making a\r\nbright future for crisis management."
+msgstr "Mi piace questo atteggiamento! Stai creando un\r\nfuturo radioso per la gestione delle crisi."
+
+msgctxt "70||||4"
+msgid "Well, that's all for today.\r\nLet's have a fight again soon."
+msgstr "Bene, per oggi è tutto.\r\nCombattiamo di nuovo presto."
+
+msgctxt "71||||4"
+msgid "All right then, farewell...!"
+msgstr "D'accordo allora, addio...!"
+
+msgctxt "72||||4"
+msgid "I got dragged into another weird mess..."
+msgstr "(Mi sono lasciato trascinare in un altro strano pasticcio...)"
+
+msgctxt "73||||4"
+msgid "He claims he's a crisis management pro...\r\nso maybe I'll learn something from him."
+msgstr "(Sostiene di essere un professionista della gestione delle crisi...\r\nquindi forse imparerò qualcosa da lui.)"
+
+msgctxt "74||||4"
+msgid "Whoa! I stepped on dog poop!"
+msgstr "Uao! Ho calpestato una cacca di cane!"
+
+msgctxt "76||||4"
+msgid "Oh! Kiryu-kun."
+msgstr "Oh! Kiryu-kun."
+
+msgctxt "77||||4"
+msgid "Can we spar a bit? I came up with a great\r\nself-defense technique I'd like to try."
+msgstr "Possiamo fare un po' di sparring? Ho ideato una fantastica\r\ntecnica di autodifesa che vorrei provare."
+
+msgctxt "78||||4"
+msgid "Can we spar a bit? I came up with an even\r\nbetter self-defense technique I'd like to try."
+msgstr "Possiamo fare un po' di sparring? Ho ideato un'ancora\r\nmigliore tecnica di autodifesa che vorrei provare."
+
+msgctxt "79||||4"
+msgid "Can we spar a bit? I came up with an amazing\r\nself-defense technique I'd like to try."
+msgstr "Possiamo fare un po' di sparring? Ho ideato una sbalorditiva\r\ntecnica di autodifesa che vorrei provare."
+
+msgctxt "80||||4"
+msgid "Sorry, not right now."
+msgstr "Scusa, non adesso."
+
+msgctxt "81||||4"
+msgid "Hm... that's a bummer."
+msgstr "Uhm... che peccato."
+
+msgctxt "82||||4"
+msgid "Oh! Kiryu. Would you care to spar with me?"
+msgstr "Oh! Kiryu. Ti andrebbe di fare sparring con me?"
+
+msgctxt "83||||4"
+msgid "Sure, I don't mind."
+msgstr "Certo, non mi dispiace."
+
+msgctxt "84||||4"
+msgid "Mhm, that's a great response."
+msgstr "Mhm, un'ottima risposta."
+
+msgctxt "85||||4"
+msgid "Well then, let's get to it...!\r\nDieeee Kiryuuuuu!"
+msgstr "Beh allora, diamoci dentro...!\r\nMuoriiiii Kiryuuuuu!"
+
+msgctxt "86||||4"
+msgid "Damn, it seems like this\r\ntechnique still needs work."
+msgstr "Dannazione, sembra che questa\r\ntecnica abbia ancora bisogno di lavoro."
+
+msgctxt "87||||4"
+msgid "But I think it was more\r\neffective than the last time."
+msgstr "Ma credo sia stata più\r\nefficace dell'ultima volta."
+
+msgctxt "88||||4"
+msgid "I see, I'll take that into account. Next\r\ntime, you'll face the completed technique."
+msgstr "Capisco, ne terrò conto. La prossima\r\nvolta affronterai la tecnica completa."
+
+msgctxt "89||||4"
+msgid "Tch... I underestimated you. Not bad."
+msgstr "Tch... Ti ho sottovalutato. Niente male."
+
+msgctxt "90||||4"
+msgid "If Kiryu-kun lost that badly, then my\r\nultimate technique must be nearly ready..."
+msgstr "Se Kiryu-kun ha perso così duramente, allora la mia\r\ntecnica suprema deve essere quasi pronta..."
+
+msgctxt "91||||4"
+msgid "But I'm sure there's still room for improvement."
+msgstr "Ma sono certo che c'è ancora spazio per dei miglioramenti."
+
+msgctxt "92||||4"
+msgid "Next time, I expect your moves to\r\nexpose the flaws of my technique."
+msgstr "La prossima volta, mi aspetto che le tue mosse\r\nespongano i difetti della mia tecnica."
+
+msgctxt "93||||4"
+msgid "Shit... I won't lose next time...!"
+msgstr "Merda... La prossima volta non perderò...!"
+
+msgctxt "94||||4"
+msgid "Hm...?"
+msgstr "(Uhm...?)"
+
+msgctxt "95||||4"
+msgid "It's a message from Saigo.\r\nHe's trying to lure me out..."
+msgstr "(È un messaggio da Saigo.\r\nSta cercando di attirarmi fuori...)"
+
+msgctxt "96||||4"
+msgid "How did he get my email address...?"
+msgstr "(Come ha fatto ad avere il mio indirizzo email...?)"
+
+msgctxt "97||||4"
+msgid "Whatever. I'll try to go wherever\r\nhe's waiting when I find the time..."
+msgstr "(Pazienza. Cercherò di andare ovunque\r\nmi stia aspettando quando troverò il tempo...)"
+
+msgctxt "98||||4"
+msgid "Oh, there you are, Kiryu-kun."
+msgstr "Eccoti qui, Kiryu-kun."
+
+msgctxt "99||||4"
+msgid "What do you want now...?"
+msgstr "Cosa vuoi adesso...?"
+
+msgctxt "100||||4"
+msgid "The ultimate self-defense technique I've been\r\ndeveloping through our fights is complete."
+msgstr "La tecnica di autodifesa suprema che ho sviluppato\r\nattraverso i nostri combattimenti è completa."
+
+msgctxt "101||||4"
+msgid "Oh, that's good to hear."
+msgstr "Oh, è un bene sentirlo."
+
+msgctxt "102||||4"
+msgid "Mhm, and I called you out here\r\nso I could show it to you."
+msgstr "Mhm, e ti ho fatto chiamare qui\r\ncosì da potertela mostrare."
+
+msgctxt "103||||4"
+msgid "If I manage to defeat you... then it can\r\ntruly be called the ultimate technique."
+msgstr "Se riuscirò a sconfiggerti... allora potrà essere\r\nchiamata per davvero la tecnica suprema."
+
+msgctxt "104||||4"
+msgid "Sounds like fun. Let's see what you got."
+msgstr "Sembra divertente. Vediamo cos'hai."
+
+msgctxt "105||||4"
+msgid "Here I go then...\r\nThis is our last dance!"
+msgstr "E allora andiamo...\r\nQuesto è il nostro ultimo ballo!"
+
+msgctxt "106||||4"
+msgid "Dieeeee, Kazuma Kiryuuuuuu!"
+msgstr "Muoriiiii, Kazuma Kiryuuuuuu!"
+
+msgctxt "107||||4"
+msgid "Shit... I underestimated you..."
+msgstr "Merda... Ti ho sottovalutato..."
+
+msgctxt "108||||4"
+msgid "What happened, Kiryu-kun?\r\nYou're not your usual self."
+msgstr "Cosa è successo, Kiryu-kun?\r\nNon sei quello di sempre."
+
+msgctxt "109||||4"
+msgid "It's not ultimate if you're not at your best.\r\nCome back when you're ready to fight for real."
+msgstr "Non è la tecnica suprema se tu non sei al meglio.\r\nTorna quando sarai pronto a combattere sul serio."
+
+msgctxt "110||||4"
+msgid "You should always be at full power.\r\nThat's how crisis management works, okay?"
+msgstr "Dovresti essere sempre al massimo delle forze.\r\nÈ così che funziona la gestione delle crisi, chiaro?"
+
+msgctxt "111||||4"
+msgid "(So humiliating... but he's strong... I can't\r\nfight him until I'm in perfect condition.)"
+msgstr "(Che umiliazione... ma è forte... Non posso\r\ncombattere con lui finché non sarò in perfette condizioni.)"
+
+msgctxt "112||||4"
+msgid "There you are, Kiryu-kun.\r\nAre you in perfect condition this time?"
+msgstr "Eccoti qui, Kiryu-kun.\r\nSei in perfette condizioni questa volta?"
+
+msgctxt "113||||4"
+msgid "Yeah, I'm fine."
+msgstr "Sì, sto bene."
+
+msgctxt "114||||4"
+msgid "Then let's fight. Fall prey to my\r\nultimate self-defense technique."
+msgstr "Allora combattiamo. Cadi preda della mia\r\ntecnica di autodifesa suprema."
+
+msgctxt "115||||4"
+msgid "Here I coooooome! Kiryuuuuuu!"
+msgstr "Arrivooooooo! Kiryuuuuuu!"
+
+msgctxt "116||||4"
+msgid "I lost, Kiryu-kun."
+msgstr "Ho perso, Kiryu-kun."
+
+msgctxt "117||||4"
+msgid "I thought I completed the ultimate technique...\r\nbut I guess it's not ultimate quite yet."
+msgstr "Pensavo di aver completato la tecnica suprema...\r\nma immagino non sia ancora così suprema."
+
+msgctxt "118||||4"
+msgid "It was pretty darn powerful though.\r\nI'd say it's strong enough already."
+msgstr "È stata comunque dannatamente potente.\r\nDirei che è già abbastanza forte."
+
+msgctxt "119||||4"
+msgid "No... there's no \"strong enough\" in crisis\r\nmanagement. Nothing is ever truly safe."
+msgstr "No... non esiste l'\"abbastanza forte\" nella gestione\r\ndelle crisi. Niente è mai veramente sicuro."
+
+msgctxt "120||||4"
+msgid "But, even though 100% safety is impossible,\r\nI have to try to get as close to it as I can."
+msgstr "Ma, sebbene la sicurezza al 100% sia impossibile,\r\ndevo cercare di avvicinarmici il più possibile."
+
+msgctxt "121||||4"
+msgid "As long as I live as a Crisis Management\r\nProfessional, I'll always strive for that."
+msgstr "Finché vivrò come Professionista della Gestione delle Crisi,\r\nlotterò sempre per raggiungere quell'obiettivo."
+
+msgctxt "122||||4"
+msgid "I see... Then what are you\r\ngonna do from here on out?"
+msgstr "Capisco... E allora cosa\r\nfarai da qui in poi?"
+
+msgctxt "123||||4"
+msgid "I'm actually thinking of\r\nheading overseas again."
+msgstr "In realtà sto pensando di\r\ndirigermi di nuovo all'estero."
+
+msgctxt "124||||4"
+msgid "Overseas? You have enough money now?"
+msgstr "All'estero? Ora hai abbastanza soldi?"
+
+msgctxt "125||||4"
+msgid "Nope, but there's a useful little\r\nthing in this world called gambling."
+msgstr "No, ma a questo mondo c'è un'utile cosetta\r\nchiamata gioco d'azzardo."
+
+msgctxt "126||||4"
+msgid "I've been saving up money from my part-time\r\njob... I'm gonna pour all I've got into this."
+msgstr "Ho messo da parte i soldi del mio lavoro\r\npart-time... Ho intenzione di puntare tutto su questo."
+
+msgctxt "127||||4"
+msgid "Are you <font_kind=yakuza_italic>actually</font_kind> a Crisis Management Professional?"
+msgstr "Ma sei <font_kind=yakuza_italic>davvero</font_kind> un Professionista della Gestione delle Crisi?"
+
+msgctxt "128||||4"
+msgid "Anywho, I don't think I'll be heading off right away."
+msgstr "Ad ogni modo, non credo che partirò subito."
+
+msgctxt "129||||4"
+msgid "Until then, I'll be around here,\r\nso call me if you need anything."
+msgstr "Fino ad allora, starò qui intorno,\r\nquindi chiamami se ti serve qualcosa."
+
+msgctxt "130||||4"
+msgid "I owe you, so I'll put all my efforts\r\ninto helping you from now on."
+msgstr "Ti devo un favore, quindi d'ora in poi mi\r\nimpegnerò al massimo per aiutarti."
+
+msgctxt "131||||4"
+msgid "Okay then."
+msgstr "D'accordo, allora."
+
+msgctxt "132||||4"
+msgid "Hm...!?"
+msgstr "Mh...!?"
+
+msgctxt "133||||4"
+msgid "Something wrong?"
+msgstr "Qualcosa non va?"
+
+msgctxt "134||||4"
+msgid "I got this violent vibe... Did I imagine it...?\r\nIt's like someone was watching us..."
+msgstr "Ho avvertito un'aura violenta... Me lo sono immaginato...?\r\nÈ come se qualcuno ci stesse guardando..."
+
+msgctxt "135||||4"
+msgid "You sure? I don't feel\r\nanyone else's presence..."
+msgstr "Sei sicuro? Io non avverto\r\nla presenza di nessun altro..."
+
+msgctxt "136||||4"
+msgid "Maybe it's just in my head.\r\nYou should be careful though."
+msgstr "Forse è solo una mia impressione.\r\nDovresti comunque stare attento."
+
+msgctxt "137||||4"
+msgid "Like I said before, the people of Japan\r\ntoday are in total peace senility and..."
+msgstr "Come ho detto prima, le persone del Giappone\r\nodierno sono in totale assuefazione alla pace e..."
+
+msgctxt "138||||4"
+msgid "Lack much crisis awareness, right?"
+msgstr "Mancano di consapevolezza delle crisi, vero?"
+
+msgctxt "139||||4"
+msgid "Your awareness has improved.\r\nLooks like I have nothing left to teach you."
+msgstr "La tua consapevolezza è migliorata.\r\nSembra che io non abbia più nulla da insegnarti."
+
+msgctxt "140||||4"
+msgid "See you around. I'll pray that you\r\ndon't face any crisis. Good luck...!"
+msgstr "Ci vediamo in giro. Pregherò affinché tu\r\nnon debba affrontare alcuna crisi. Buona fortuna...!"

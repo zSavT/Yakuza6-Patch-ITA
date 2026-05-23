@@ -1,0 +1,599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 7
+msgctxt "Offset_0x2EB6D_Len_7"
+msgid " \"E\n#)E"
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x3FCF0_Len_35"
+msgid "Kiryu-san, do y'ever go to shrines?"
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x3FF40_Len_28"
+msgid "Shrines? Sometimes, I guess."
+msgstr ""
+
+#. Max bytes: 11
+msgctxt "Offset_0x40170_Len_11"
+msgid "It's great."
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x401A0_Len_10"
+msgid "It grinds."
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x401C0_Len_10"
+msgid "It grates."
+msgstr ""
+
+#. Max bytes: 39
+msgctxt "Offset_0x401E0_Len_39"
+msgid "Me too. The breeze is so nice up there."
+msgstr ""
+
+#. Max bytes: 33
+msgctxt "Offset_0x40440_Len_33"
+msgid "Since yer askin', do you ever go?"
+msgstr ""
+
+#. Max bytes: 61
+msgctxt "Offset_0x40690_Len_61"
+msgid "I jus' went yesterday. Hopin' I'd get blessed with good luck."
+msgstr ""
+
+#. Max bytes: 15
+msgctxt "Offset_0x40920_Len_15"
+msgid "What a jackass."
+msgstr ""
+
+#. Max bytes: 13
+msgctxt "Offset_0x40B40_Len_13"
+msgid "A lucky duck?"
+msgstr ""
+
+#. Max bytes: 12
+msgctxt "Offset_0x40B60_Len_12"
+msgid "A sucky day?"
+msgstr ""
+
+#. Max bytes: 12
+msgctxt "Offset_0x40B80_Len_12"
+msgid "A lucky day?"
+msgstr ""
+
+#. Max bytes: 12
+msgctxt "Offset_0x40BA0_Len_12"
+msgid "And did you?"
+msgstr ""
+
+#. Max bytes: 46
+msgctxt "Offset_0x40DC0_Len_46"
+msgid "Not really, but I did see the strangest thing."
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x41240_Len_6"
+msgid "Uh oh."
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x41260_Len_6"
+msgid "Oh uh."
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x41280_Len_8"
+msgid "Ruh roh."
+msgstr ""
+
+#. Max bytes: 38
+msgctxt "Offset_0x412A0_Len_38"
+msgid "I saw Kaneko-san shadowboxing earlier."
+msgstr ""
+
+#. Max bytes: 18
+msgctxt "Offset_0x416F0_Len_18"
+msgid "Y-You saw that...?"
+msgstr ""
+
+#. Max bytes: 25
+msgctxt "Offset_0x41920_Len_25"
+msgid "Must really love bowling."
+msgstr ""
+
+#. Max bytes: 25
+msgctxt "Offset_0x41960_Len_25"
+msgid "Must really love running."
+msgstr ""
+
+#. Max bytes: 24
+msgctxt "Offset_0x419A0_Len_24"
+msgid "Must really love boxing."
+msgstr ""
+
+#. Max bytes: 20
+msgctxt "Offset_0x419E0_Len_20"
+msgid "Kaneko-san... you..."
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x41C10_Len_28"
+msgid "You must really love boxing."
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x41E40_Len_6"
+msgid "I see."
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x42100_Len_22"
+msgid "Huh? What did you say?"
+msgstr ""
+
+#. Max bytes: 47
+msgctxt "Offset_0x42330_Len_47"
+msgid "S-Sorry, I was thinking about something else..."
+msgstr ""
+
+#. Max bytes: 21
+msgctxt "Offset_0x42640_Len_21"
+msgid "We all punch the air."
+msgstr ""
+
+#. Max bytes: 26
+msgctxt "Offset_0x42680_Len_26"
+msgid "We all punch street thugs."
+msgstr ""
+
+#. Max bytes: 26
+msgctxt "Offset_0x426B0_Len_26"
+msgid "We all punch our problems."
+msgstr ""
+
+#. Max bytes: 38
+msgctxt "Offset_0x426E0_Len_38"
+msgid "Ain't nothin' to be embarrassed about."
+msgstr ""
+
+#. Max bytes: 41
+msgctxt "Offset_0x42930_Len_41"
+msgid "He's right. All men do that now and then."
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0x42B80_Len_31"
+msgid "You just said it was strange..."
+msgstr ""
+
+#. Max bytes: 20
+msgctxt "Offset_0x42DC0_Len_20"
+msgid "I boxed my lamp too."
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x42E00_Len_19"
+msgid "I boxed my bro too."
+msgstr ""
+
+#. Max bytes: 20
+msgctxt "Offset_0x42E30_Len_20"
+msgid "I boxed my boss too."
+msgstr ""
+
+#. Max bytes: 36
+msgctxt "Offset_0x42E60_Len_36"
+msgid "I used t'shadowbox my lamp as a kid."
+msgstr ""
+
+#. Max bytes: 41
+msgctxt "Offset_0x430D0_Len_41"
+msgid "Don't compare me to your childhood! Geez."
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x43330_Len_17"
+msgid "Like my old boss?"
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0x43370_Len_16"
+msgid "Like the Jackal?"
+msgstr ""
+
+#. Max bytes: 11
+msgctxt "Offset_0x433A0_Len_11"
+msgid "Like a pro?"
+msgstr ""
+
+#. Max bytes: 40
+msgctxt "Offset_0x433C0_Len_40"
+msgid "Kaneko-san was an actual boxer you know."
+msgstr ""
+
+#. Max bytes: 21
+msgctxt "Offset_0x43850_Len_21"
+msgid "First I'm hearin' it."
+msgstr ""
+
+#. Max bytes: 23
+msgctxt "Offset_0x43A90_Len_23"
+msgid "It was a long time ago."
+msgstr ""
+
+#. Max bytes: 30
+msgctxt "Offset_0x43CC0_Len_30"
+msgid "Wait, why does only Mama know?"
+msgstr ""
+
+#. Max bytes: 29
+msgctxt "Offset_0x43F00_Len_29"
+msgid "There's nothing I don't know."
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x44130_Len_19"
+msgid "Do we want to know?"
+msgstr ""
+
+#. Max bytes: 13
+msgctxt "Offset_0x44160_Len_13"
+msgid "Check please."
+msgstr ""
+
+#. Max bytes: 14
+msgctxt "Offset_0x44180_Len_14"
+msgid "Can you do it?"
+msgstr ""
+
+#. Max bytes: 43
+msgctxt "Offset_0x441A0_Len_43"
+msgid "Then what're my bust, waist, and hip sizes?"
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x443E0_Len_28"
+msgid "All about 129.3 cm probably."
+msgstr ""
+
+#. Max bytes: 34
+msgctxt "Offset_0x44610_Len_34"
+msgid "I doubt that's right. Forget it..."
+msgstr ""
+
+#. Max bytes: 55
+msgctxt "Offset_0x44860_Len_55"
+msgid "A boxer, huh? Didya have'ta watch yer weight and stuff?"
+msgstr ""
+
+#. Max bytes: 64
+msgctxt "Offset_0x44B40_Len_64"
+msgid "Of course. There were times I even had to limit my water intake."
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x44DC0_Len_17"
+msgid "Wow, so hardcore."
+msgstr ""
+
+#. Max bytes: 14
+msgctxt "Offset_0x45010_Len_14"
+msgid "Tasty meals..."
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x45030_Len_17"
+msgid "Not how it works."
+msgstr ""
+
+#. Max bytes: 59
+msgctxt "Offset_0x45060_Len_59"
+msgid "But then y'go all out on a tasty meal after a match, right?"
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x452D0_Len_28"
+msgid "Yeah, that true, Kaneko-san?"
+msgstr ""
+
+#. Max bytes: 70
+msgctxt "Offset_0x45510_Len_70"
+msgid "After a match, the stomach rejects food, so I couldn't eat right away."
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x457A0_Len_19"
+msgid "I didn't know that."
+msgstr ""
+
+#. Max bytes: 18
+msgctxt "Offset_0x457D0_Len_18"
+msgid "But tasty meals..."
+msgstr ""
+
+#. Max bytes: 26
+msgctxt "Offset_0x45800_Len_26"
+msgid "Let's go back to punching."
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x45830_Len_28"
+msgid "Well, ain't that a bummer..."
+msgstr ""
+
+#. Max bytes: 60
+msgctxt "Offset_0x45A60_Len_60"
+msgid "Nowadays, guys work it all out with their personal trainers."
+msgstr ""
+
+#. Max bytes: 36
+msgctxt "Offset_0x45CE0_Len_36"
+msgid "Didya quit because it got too tough?"
+msgstr ""
+
+#. Max bytes: 25
+msgctxt "Offset_0x45F40_Len_25"
+msgid "You idiot. Of course not."
+msgstr ""
+
+#. Max bytes: 29
+msgctxt "Offset_0x46180_Len_29"
+msgid "I went through a lot of shit."
+msgstr ""
+
+#. Max bytes: 36
+msgctxt "Offset_0x463B0_Len_36"
+msgid "Mama, maybe y'oughta take up boxing."
+msgstr ""
+
+#. Max bytes: 11
+msgctxt "Offset_0x46610_Len_11"
+msgid "That's rad."
+msgstr ""
+
+#. Max bytes: 18
+msgctxt "Offset_0x46640_Len_18"
+msgid "That's impossible."
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0x46670_Len_16"
+msgid "That's possible."
+msgstr ""
+
+#. Max bytes: 47
+msgctxt "Offset_0x466A0_Len_47"
+msgid "I hear it's all the rage with women these days."
+msgstr ""
+
+#. Max bytes: 25
+msgctxt "Offset_0x468F0_Len_25"
+msgid "Oh, that boxercise thing?"
+msgstr ""
+
+#. Max bytes: 52
+msgctxt "Offset_0x46B30_Len_52"
+msgid "I saw a TV thing sayin' it gives ya good body shape."
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x46DA0_Len_28"
+msgid "Mama could get all toned up."
+msgstr ""
+
+#. Max bytes: 38
+msgctxt "Offset_0x46DF0_Len_38"
+msgid "No thank you, I'll skip dessert today."
+msgstr ""
+
+#. Max bytes: 34
+msgctxt "Offset_0x46E50_Len_34"
+msgid "Chicken tastes better on the bone."
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x46EA0_Len_19"
+msgid "Mama boxercising..."
+msgstr ""
+
+#. Max bytes: 27
+msgctxt "Offset_0x470E0_Len_27"
+msgid "Mama might look good toned."
+msgstr ""
+
+#. Max bytes: 11
+msgctxt "Offset_0x47320_Len_11"
+msgid "Y'think so?"
+msgstr ""
+
+#. Max bytes: 20
+msgctxt "Offset_0x475E0_Len_20"
+msgid "Hm? What's going on?"
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0x47810_Len_31"
+msgid "S-Sorry, I dozed off for a bit."
+msgstr ""
+
+#. Max bytes: 23
+msgctxt "Offset_0x47B00_Len_23"
+msgid "I'd like another drink."
+msgstr ""
+
+#. Max bytes: 21
+msgctxt "Offset_0x47B40_Len_21"
+msgid "I'd like it actually."
+msgstr ""
+
+#. Max bytes: 21
+msgctxt "Offset_0x47B70_Len_21"
+msgid "I'd like to know why."
+msgstr ""
+
+#. Max bytes: 59
+msgctxt "Offset_0x47BA0_Len_59"
+msgid "I have mixed feelings about Mama bein' able to kick my ass."
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x47E10_Len_22"
+msgid "As a man, you know...?"
+msgstr ""
+
+#. Max bytes: 49
+msgctxt "Offset_0x48040_Len_49"
+msgid "I could fight off all your bullies, Akiyoshi-kun!"
+msgstr ""
+
+#. Max bytes: 41
+msgctxt "Offset_0x482B0_Len_41"
+msgid "B-But I'd be a loser! I'd have t'box too!"
+msgstr ""
+
+#. Max bytes: 18
+msgctxt "Offset_0x48510_Len_18"
+msgid "Jackass confirmed."
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x48550_Len_17"
+msgid "Jackass in a box."
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x48580_Len_22"
+msgid "Jackass of all trades."
+msgstr ""
+
+#. Max bytes: 25
+msgctxt "Offset_0x485B0_Len_25"
+msgid "Y'really are a jackass..."
+msgstr ""
+
+#. Max bytes: 43
+msgctxt "Offset_0x487E0_Len_43"
+msgid "I guess I'll have Kaneko-san teach me then."
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x48A20_Len_35"
+msgid "Hell no. I'm already a retired man."
+msgstr ""
+
+#. Max bytes: 34
+msgctxt "Offset_0x48C70_Len_34"
+msgid "Just let me forget about boxing..."
+msgstr ""
+
+#. Max bytes: 53
+msgctxt "Offset_0x48EB0_Len_53"
+msgid "But Kaneko-san, donch'ya feel yerself gettin' flabby?"
+msgstr ""
+
+#. Max bytes: 14
+msgctxt "Offset_0x49130_Len_14"
+msgid "Are you funky?"
+msgstr ""
+
+#. Max bytes: 18
+msgctxt "Offset_0x49160_Len_18"
+msgid "Are you fattening?"
+msgstr ""
+
+#. Max bytes: 12
+msgctxt "Offset_0x49190_Len_12"
+msgid "Are you fat?"
+msgstr ""
+
+#. Max bytes: 33
+msgctxt "Offset_0x491B0_Len_33"
+msgid "Is that your mid-life crisis fat?"
+msgstr ""
+
+#. Max bytes: 26
+msgctxt "Offset_0x493F0_Len_26"
+msgid "Do I seem out of shape...?"
+msgstr ""
+
+#. Max bytes: 15
+msgctxt "Offset_0x49630_Len_15"
+msgid "In that case..."
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0x49850_Len_31"
+msgid "Why don't you exercise with me?"
+msgstr ""
+
+#. Max bytes: 31
+msgctxt "Offset_0x49A90_Len_31"
+msgid "Why don't you exercise with me?"
+msgstr ""
+
+#. Max bytes: 9
+msgctxt "Offset_0x49CD0_Len_9"
+msgid "With you?"
+msgstr ""
+
+#. Max bytes: 33
+msgctxt "Offset_0x49EF0_Len_33"
+msgid "Yeah, I find ways to stay active."
+msgstr ""
+
+#. Max bytes: 55
+msgctxt "Offset_0x4A140_Len_55"
+msgid "Good idea, yeah? Y'gotta fight the battle of the bulge!"
+msgstr ""
+
+#. Max bytes: 23
+msgctxt "Offset_0x4A3B0_Len_23"
+msgid "Oh c'mon, knock it off."
+msgstr ""
+
+#. Max bytes: 52
+msgctxt "Offset_0x4A5E0_Len_52"
+msgid "Shadowboxing won't burn enough calories, Kaneko-san!"
+msgstr ""
+
+#. Max bytes: 27
+msgctxt "Offset_0x4A840_Len_27"
+msgid "Shut up! Enough about that!"
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0x4AC90_Len_16"
+msgid "No, it's fine..."
+msgstr ""
+
+#. Max bytes: 57
+msgctxt "Offset_0x4AEC0_Len_57"
+msgid "Y'can't keep drinking and not exercising. It's unhealthy."
+msgstr ""
+
+#. Max bytes: 34
+msgctxt "Offset_0x4B130_Len_34"
+msgid "You'll never get a lady like that."
+msgstr ""
+
+#. Max bytes: 26
+msgctxt "Offset_0x4B370_Len_26"
+msgid "Shut up, leave me alone..."
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x4B5B0_Len_28"
+msgid "(That didn't go anywhere...)"
+msgstr ""
+

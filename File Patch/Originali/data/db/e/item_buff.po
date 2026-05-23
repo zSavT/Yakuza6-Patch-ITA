@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||attack_up||name"
+msgid "Attack Boost"
+msgstr ""
+
+msgctxt "2||defense_up||name"
+msgid "Defense Boost"
+msgstr ""
+
+msgctxt "3||exp_muscle_up||name"
+msgid "Strength EXP Boost"
+msgstr ""
+
+msgctxt "4||exp_quickness_up||name"
+msgid "Agility EXP Boost"
+msgstr ""
+
+msgctxt "5||exp_guts_up||name"
+msgid "Spirit EXP Boost"
+msgstr ""
+
+msgctxt "6||exp_technique_up||name"
+msgid "Technique EXP Boost"
+msgstr ""
+
+msgctxt "7||exp_charm_up||name"
+msgid "Charm EXP Boost"
+msgstr ""
+
+msgctxt "8||money_up||name"
+msgid "Money Boost"
+msgstr ""
+
+msgctxt "9||stamina_up||name"
+msgid "Stamina Boost"
+msgstr ""
+
+msgctxt "10||exp_all_up||name"
+msgid "All EXP Boost"
+msgstr ""
+

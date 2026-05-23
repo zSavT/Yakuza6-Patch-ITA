@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Gen-san went into the bar.\r\nMaybe I should drop by too."
+msgstr "(Gen-san è entrato nel bar.\r\nForse dovrei farci un salto anch'io.)"
+
+msgctxt "1||||4"
+msgid "Welcome, Kiryu-san."
+msgstr "Benvenuto, Kiryu-san."
+
+msgctxt "2||||4"
+msgid "Oh, Kiryu-san you came by!"
+msgstr "Oh, Kiryu-san, sei venuto!"
+
+msgctxt "3||||4"
+msgid "<symbol=note_with_outline> Kick on back <symbol=note_with_outline> Kiryu-san <symbol=note_with_outline>"
+msgstr "<symbol=note_with_outline> Mettiti comodo <symbol=note_with_outline> Kiryu-san <symbol=note_with_outline>"
+
+msgctxt "4||||4"
+msgid "Y-Yeah..."
+msgstr "S-sì..."
+
+msgctxt "5||||4"
+msgid "What was that?"
+msgstr "Cos'era quella?"
+
+msgctxt "6||||4"
+msgid "Just my welcome-back-Kiryu-san song."
+msgstr "Solo la mia canzone di bentornato-Kiryu-san."
+
+msgctxt "7||||4"
+msgid "If you're gonna break out into song,\r\nuse the new karaoke machine I bought."
+msgstr "Se hai intenzione di metterti a cantare,\r\nusa la nuova macchina del karaoke che ho comprato."
+
+msgctxt "8||||4"
+msgid "Karaoke, huh? About that...\r\nI got a bone t'pick with ya, Mama..."
+msgstr "Karaoke, eh? A questo proposito...\r\nHo un conto in sospeso con te, Mama..."
+
+msgctxt "9||||4"
+msgid "Yer mad? Why?"
+msgstr "Sei arrabbiato? Perché?"
+
+msgctxt "10||||4"
+msgid "Because..."
+msgstr "Perché..."
+
+msgctxt "11||||4"
+msgid "(Hmm, I didn't add to the conversation\r\nand it ended awkwardly.)"
+msgstr "(Uhm, non ho partecipato alla conversazione\r\ned è finita in modo imbarazzante.)"
+
+msgctxt "12||||4"
+msgid "(They're still in the bar. I should\r\nclear my head and get back in there.)"
+msgstr "(Sono ancora nel bar. Dovrei\r\nschiarirmi le idee e tornare dentro.)"
+
+msgctxt "13||||4"
+msgid "Gen-san... You're an incredible singer.\r\nI'm pretty floored."
+msgstr "Gen-san... Sei un cantante incredibile.\r\nSono rimasto a bocca aperta."
+
+msgctxt "14||||4"
+msgid "You just realized that, Kiryu-san?\r\nI gots the best voice in town."
+msgstr "Te ne rendi conto solo ora, Kiryu-san?\r\nHo la voce migliore della città."
+
+msgctxt "15||||4"
+msgid "It was super fun, though. All of my\r\nfavorite songs are on that machine."
+msgstr "È stato super divertente, però. Tutte le mie\r\ncanzoni preferite sono su quella macchina."
+
+msgctxt "16||||4"
+msgid "I'd need more throats to sing 'em all."
+msgstr "Avrei bisogno di più gole per cantarle tutte."
+
+msgctxt "17||||4"
+msgid "Heh, I'm glad you enjoyed yourself.\r\nTechnology isn't so bad, right?"
+msgstr "Heh, sono felice che ti sia divertito.\r\nLa tecnologia non è poi così male, vero?"
+
+msgctxt "18||||4"
+msgid "Yer right."
+msgstr "Hai ragione."
+
+msgctxt "19||||4"
+msgid "Not that I can really talk.\r\nI don't keep up with tech either."
+msgstr "Non che io possa parlare, in realtà.\r\nNeanche io sto molto dietro alla tecnologia."
+
+msgctxt "20||||4"
+msgid "Well, yer better off than me fer sure."
+msgstr "Beh, di sicuro te la cavi meglio di me."
+
+msgctxt "21||||4"
+msgid "I hate on gadgets 'cause it feels like\r\nI'm gettin' left behind in the past."
+msgstr "Odio i dispositivi tecnologici perché mi sembra\r\ndi essere rimasto indietro nel passato."
+
+msgctxt "22||||4"
+msgid "But ya'll showed me jus' how wrong\r\nabout that I was."
+msgstr "Ma voi mi avete mostrato quanto\r\nmi sbagliassi al riguardo."
+
+msgctxt "23||||4"
+msgid "It was my own fear of change keepin'\r\nme stuck in the past."
+msgstr "Era solo la mia paura del cambiamento a tenermi\r\nbloccato nel passato."
+
+msgctxt "24||||4"
+msgid "Then all you need to do is catch up.\r\nIt's never too late for that."
+msgstr "Allora tutto ciò che devi fare è rimetterti in pari.\r\nNon è mai troppo tardi per farlo."
+
+msgctxt "25||||4"
+msgid "I guess so... You're right."
+msgstr "Immagino di sì... Hai ragione."
+
+msgctxt "26||||4"
+msgid "Maybe I'll start by buyin' one of those\r\nnewfangled smartphone thingies."
+msgstr "Forse inizierò comprando uno di quei\r\nnuovi e strani cosi chiamati smartphone."
+
+msgctxt "27||||4"
+msgid "They're all high tech and convenient, yeah?"
+msgstr "Sono tutti high-tech e convenienti, vero?"
+
+msgctxt "28||||4"
+msgid "Yeah, I've got one myself,\r\nso I could give you a few tips."
+msgstr "Già, ne ho uno anch'io,\r\nquindi potrei darti qualche dritta."
+
+msgctxt "29||||4"
+msgid "Really!? I'll be countin' on ya then,\r\nKiryu-san!"
+msgstr "Davvero!? Allora conterò su di te,\r\nKiryu-san!"
+
+msgctxt "30||||4"
+msgid "Well, no time like the present.\r\nI'm off to the store to buy one! See ya!"
+msgstr "Beh, non c'è momento migliore del presente.\r\nVado al negozio a comprarne uno! Ci vediamo!"
+
+msgctxt "31||||4"
+msgid "Y-Yeah. See you later."
+msgstr "S-sì. Ci vediamo dopo."
+
+msgctxt "32||||4"
+msgid "Man, he's kind of impulsive."
+msgstr "(Cavolo, è un tipo un po' impulsivo.)"
+
+msgctxt "33||||4"
+msgid "But I'm glad he's past his fear of using\r\nthat new karaoke machine."
+msgstr "(Ma sono felice che abbia superato la sua paura di usare\r\nla nuova macchina del karaoke.)"
+
+msgctxt "34||||4"
+msgid "Hm? An email from Gen-san...\r\nDid he just send me a selfie!?"
+msgstr "(Uhm? Un'email da Gen-san...\r\nMi ha appena mandato un selfie!?)"
+
+msgctxt "35||||4"
+msgid "Guess he already mastered his new phone.\r\nIf he's at the bar, maybe I'll drop by."
+msgstr "(A quanto pare ha già padroneggiato il suo nuovo telefono.\r\nSe è al bar, forse dovrei farci un salto.)"
+
+msgctxt "36||||4"
+msgid "Yo Kiryu-san, check it out!"
+msgstr "Ehi Kiryu-san, dai un'occhiata!"
+
+msgctxt "37||||4"
+msgid "Hey Gen-san, looks like you're already\r\nusing your smartphone."
+msgstr "Ehi Gen-san, sembra che tu stia già\r\nusando il tuo smartphone."
+
+msgctxt "38||||4"
+msgid "Piece of cake!"
+msgstr "Un gioco da ragazzi!"
+
+msgctxt "39||||4"
+msgid "He's been playing with his new toy since\r\nhe got here. He's like a little kid."
+msgstr "Sta giocando col suo nuovo giocattolo da quando\r\nè arrivato. Sembra un bambino piccolo."
+
+msgctxt "40||||4"
+msgid "It's jus' so amazing. You can do\r\nanything with it. Right, Kiryu-san?"
+msgstr "È semplicemente incredibile. Puoi farci\r\ndi tutto. Vero, Kiryu-san?"
+
+msgctxt "41||||4"
+msgid "Yeah, smartphones are convenient."
+msgstr "Già, gli smartphone sono convenienti."
+
+msgctxt "42||||4"
+msgid "The GPS can tell you the weather. It'll\r\neven navigate y'anywhere you wanna go!"
+msgstr "Il GPS può dirti il meteo. Può persino\r\nportarti ovunque tu voglia andare!"
+
+msgctxt "43||||4"
+msgid "Wow, that is certainly convenient."
+msgstr "Wow, questo è decisamente comodo."
+
+msgctxt "44||||4"
+msgid "(GPS...?)"
+msgstr "(GPS...?)"
+
+msgctxt "45||||4"
+msgid "It can even stream high quality music.\r\nOh Kiryu-san, I wanted to ask something."
+msgstr "Può persino riprodurre musica in alta qualità.\r\nOh Kiryu-san, volevo chiederti una cosa."
+
+msgctxt "46||||4"
+msgid "Huh? S-Sure... What about?"
+msgstr "Eh? C-certo... Di cosa si tratta?"
+
+msgctxt "47||||4"
+msgid "I'm gonna buy a Bluetooth headset to\r\nlisten to music. Any recommendations?"
+msgstr "Ho intenzione di comprare delle cuffie Bluetooth per\r\nascoltare la musica. Hai qualche raccomandazione?"
+
+msgctxt "48||||4"
+msgid "(Blue... Tooth?)"
+msgstr "(Blue... Tooth?)"
+
+msgctxt "49||||4"
+msgid "Ah, no... I don't know much about that yet..."
+msgstr "Ah, no... Non ne so ancora molto a riguardo..."
+
+msgctxt "50||||4"
+msgid "Darn. Well, lemme know if you find a good one.\r\nMan, the service is weak in the bar..."
+msgstr "Accidenti. Beh, fammi sapere se ne trovi un paio buone.\r\nCavolo, il segnale è debole qui nel bar..."
+
+msgctxt "51||||4"
+msgid "Hey Mama, install some Wi-Fi in here!\r\nSpeed is king in the information age!"
+msgstr "Ehi Mama, installa un po' di Wi-Fi qui dentro!\r\nLa velocità è fondamentale nell'era dell'informazione!"
+
+msgctxt "52||||4"
+msgid "(Wi... Fi?)"
+msgstr "(Wi... Fi?)"
+
+msgctxt "53||||4"
+msgid "Yeah, yeah. I'll get to it.\r\nTalk about divin' in the deep end..."
+msgstr "Sì, sì. Ci penserò su.\r\nSi è proprio tuffato a capofitto nella faccenda..."
+
+msgctxt "54||||4"
+msgid "Heh... Well I guess there's nothing\r\nleft for me to teach you..."
+msgstr "Heh... Beh, immagino che non mi sia\r\nrimasto più niente da insegnarti..."
+
+msgctxt "55||||4"
+msgid "Not that I taught you anything\r\nto begin with..."
+msgstr "Non che ti abbia insegnato granché\r\nper cominciare..."
+
+msgctxt "56||||4"
+msgid "All right! Let's do some karaoke!"
+msgstr "D'accordo! Facciamo un po' di karaoke!"
+
+msgctxt "57||||4"
+msgid "Gen-san's gone wild!"
+msgstr "Gen-san si è scatenato!"
+
+msgctxt "58||||4"
+msgid "All right, I'm gonna sing a lot today. \r\nIt'll be a 12-hour duet with Mama!"
+msgstr "Molto bene, canterò un sacco oggi. \r\nSarà un duetto di 12 ore con la Mama!"
+
+msgctxt "59||||4"
+msgid "No way, I'd throw my voice out\r\nbefore I got halfway through that!"
+msgstr "Scordatelo, perderei la voce\r\nprima di arrivare a metà!"
+
+msgctxt "60||||4"
+msgid "Oh fine, fine. Let's start with\r\nmy jam, then... Today is a Diamond!"
+msgstr "Oh va bene, va bene. Iniziamo con il\r\nmio pezzo forte allora... Today is a Diamond!"
+
+msgctxt "61||||4"
+msgid "Anyway... I'm glad Gen-san\r\ngot his love of karaoke back."
+msgstr "(Comunque... Sono felice che Gen-san\r\nabbia ritrovato il suo amore per il karaoke.)"
+
+msgctxt "62||||4"
+msgid "Yeah, I was a little worried,\r\nbut that's passed now."
+msgstr "Sì, ero un po' preoccupata,\r\nma ora mi è passata."
+
+msgctxt "63||||4"
+msgid "It can get quiet in here without\r\nGen-san singin'."
+msgstr "Può esserci troppo silenzio qua dentro senza\r\nGen-san che canta."
+
+msgctxt "64||||4"
+msgid "Heh, it's a really lively bar."
+msgstr "Heh, è davvero un bar pieno di vita."
+
+msgctxt "65||||4"
+msgid "Oh, Kiryu-san!"
+msgstr "Oh, Kiryu-san!"
+
+msgctxt "66||||4"
+msgid "How's it going? You an expert at\r\nusing the karaoke machine yet?"
+msgstr "Come va? Sei già diventato un esperto nell'uso\r\ndella macchina del karaoke?"
+
+msgctxt "67||||4"
+msgid "I've got it down completely! Started a\r\nmember account so it's even easier now."
+msgstr "L'ho capita alla perfezione! Ho persino creato un\r\naccount membro, così ora è ancora più facile."
+
+msgctxt "68||||4"
+msgid "I'm kinda conflicted about him\r\nknowin' more about it than me now..."
+msgstr "(Sono un po' combattuto sul fatto che lui\r\nne sappia molto più di me adesso...)"
+
+msgctxt "69||||4"
+msgid "Really? That's something."
+msgstr "Davvero? Niente male."
+
+msgctxt "70||||4"
+msgid "I haven't been gettin' as much exercise\r\nlately though, and it's affectin' my voice."
+msgstr "Ultimamente però non ho fatto molto esercizio,\r\ne la cosa sta influenzando la mia voce."
+
+msgctxt "71||||4"
+msgid "Hmm, true. It doesn't seem t'carry\r\nquite like it used to."
+msgstr "Uhm, vero. Non sembra avere la stessa\r\nportata di un tempo."
+
+msgctxt "72||||4"
+msgid "So, I wanted to talk to you Kiryu-san..."
+msgstr "Perciò, volevo parlarti Kiryu-san..."
+
+msgctxt "73||||4"
+msgid "Hm? What about?"
+msgstr "Uhm? Riguardo cosa?"
+
+msgctxt "74||||4"
+msgid "You run a baseball team, right?\r\nGot room on the team fer me?"
+msgstr "Gestisci una squadra di baseball, giusto?\r\nC'è spazio nella squadra per me?"
+
+msgctxt "75||||4"
+msgid "You wanna join up?"
+msgstr "Ti vuoi unire a noi?"
+
+msgctxt "76||||4"
+msgid "Yeah, I'll get my body movin' with some\r\nbaseball and take my voice back!"
+msgstr "Già, farò muovere il mio corpo con un po' di\r\nbaseball e mi riprenderò la mia voce!"
+
+msgctxt "77||||4"
+msgid "I've got confidence in my skills.\r\nHow 'bout it?"
+msgstr "Ho piena fiducia nelle mie capacità.\r\nChe ne dici?"
+
+msgctxt "78||||4"
+msgid "I can see that. Of course we'll take you.\r\nI expect some big hits, Gen-san."
+msgstr "Posso immaginarlo. Certo che ti prendiamo.\r\nMi aspetto dei bei colpi, Gen-san."
+
+msgctxt "79||||4"
+msgid "You know it! Thanks.\r\nCan't wait to play ball with you, Kiryu-san."
+msgstr "Puoi dirlo forte! Grazie.\r\nNon vedo l'ora di giocare a palla con te, Kiryu-san."

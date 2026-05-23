@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "What's got ya so down?"
+msgstr "Perché sei così giù di morale?"
+
+msgctxt "1||||4"
+msgid "Apparently something precious was stolen from him."
+msgstr "A quanto pare gli è stato rubato qualcosa di prezioso."
+
+msgctxt "2||||4"
+msgid "Huh? A robbery?"
+msgstr "Eh? Una rapina?"
+
+msgctxt "3||||4"
+msgid "Precious to a chef, huh? A knife or somethin'?"
+msgstr "Prezioso per uno chef, eh? Un coltello o roba simile?"
+
+msgctxt "4||||4"
+msgid "They can have my knives. I buy 'em online."
+msgstr "Possono prendersi i miei coltelli. Li compro su internet."
+
+msgctxt "5||||4"
+msgid "Y'oughta be more careful all the same..."
+msgstr "Dovresti fare più attenzione lo stesso..."
+
+msgctxt "6||||4"
+msgid "Then what got stolen?"
+msgstr "Allora cosa ti hanno rubato?"
+
+msgctxt "7||||4"
+msgid "Truth is..."
+msgstr "La verità è che..."
+
+msgctxt "8||||4"
+msgid "My little girl might have herself a boyfriend!"
+msgstr "La mia bambina potrebbe essersi trovata un fidanzato!"
+
+msgctxt "9||||4"
+msgid "Huh...? Weren't we talking about theft?"
+msgstr "Eh...? Non stavamo parlando di un furto?"
+
+msgctxt "10||||4"
+msgid "Oh it's theft alright! A man stole my daughter, y'know?"
+msgstr "Oh, è un furto eccome! Un uomo mi ha rubato la figlia, capite?"
+
+msgctxt "11||||4"
+msgid "Ahhh, that's what you meant."
+msgstr "Ahhh, è questo che intendevi."
+
+msgctxt "12||||4"
+msgid "How old is your daughter?"
+msgstr "Quanti anni ha tua figlia?"
+
+msgctxt "13||||4"
+msgid "Jus' 16..."
+msgstr "Solo 16..."
+
+msgctxt "14||||4"
+msgid "High schoolers can't fall in love, c'mon..."
+msgstr "I liceali non sanno cosa sia l'amore, andiamo..."
+
+msgctxt "15||||4"
+msgid "Y'serious? High school is the peak of love."
+msgstr "Dici sul serio? Il liceo è l'apice dell'amore."
+
+msgctxt "16||||4"
+msgid "Ah, guess that's true."
+msgstr "Ah, immagino sia vero."
+
+msgctxt "17||||4"
+msgid "Young love reminds me of my school days!"
+msgstr "I giovani amori mi ricordano i tempi della scuola!"
+
+msgctxt "18||||4"
+msgid "Were ya pretty popular back then?"
+msgstr "Eri molto popolare all'epoca?"
+
+msgctxt "19||||4"
+msgid "'Course I was! Well..."
+msgstr "Certo che lo ero! Beh..."
+
+msgctxt "20||||4"
+msgid "I liked this guy, Tanaka-kun, but he never noticed me."
+msgstr "Mi piaceva questo ragazzo, Tanaka-kun, ma non mi ha mai notata."
+
+msgctxt "21||||4"
+msgid "If he'd loved me, I'd have been all set for life."
+msgstr "Se mi avesse amata, sarei stata a posto per tutta la vita."
+
+msgctxt "22||||4"
+msgid "Damn, that's kinda bittersweet."
+msgstr "Accidenti, è una storia un po' dolceamara."
+
+msgctxt "23||||4"
+msgid "In war, y'gotta take down the enemy. Love's no different."
+msgstr "In guerra devi abbattere il nemico. In amore non è diverso."
+
+msgctxt "24||||4"
+msgid "H-Hey, this ain't about Mama. Can we get back t'my problems?"
+msgstr "E-Ehi, non stiamo parlando della Mama. Possiamo tornare ai miei problemi?"
+
+msgctxt "25||||4"
+msgid "Y'mean your daughter havin' a boyfriend?"
+msgstr "Intendi tua figlia che ha un fidanzato?"
+
+msgctxt "26||||4"
+msgid "Hey, I can't even say fer sure!"
+msgstr "Ehi, non posso nemmeno dirlo con certezza!"
+
+msgctxt "27||||4"
+msgid "Let's go back to Mama's crazy love stories, then."
+msgstr "Torniamo alle folli storie d'amore della Mama, allora."
+
+msgctxt "28||||4"
+msgid "It wasn't crazy."
+msgstr "Non era folle."
+
+msgctxt "29||||4"
+msgid "Hey, y'gone mute on us now, Kiryu-san?"
+msgstr "Ehi, hai perso la voce, Kiryu-san?"
+
+msgctxt "30||||4"
+msgid "We're all listening to you, Hatakeyama-san."
+msgstr "Ti stiamo tutti ascoltando, Hatakeyama-san."
+
+msgctxt "31||||4"
+msgid "Kiryu-san... Thanks!"
+msgstr "Kiryu-san... Grazie!"
+
+msgctxt "32||||4"
+msgid "Fine, fine."
+msgstr "Va bene, va bene."
+
+msgctxt "33||||4"
+msgid "Wait, am I boring Kiryu-san over here?"
+msgstr "Aspetta, sto per caso annoiando Kiryu-san?"
+
+msgctxt "34||||4"
+msgid "S-Sorry I dozed off for a bit."
+msgstr "S-Scusate, mi ero appisolato un attimo."
+
+msgctxt "35||||4"
+msgid "Sheesh, fine."
+msgstr "Cavolo, d'accordo."
+
+msgctxt "36||||4"
+msgid "So, the boyfriend thing, whatchya gonna do about it?"
+msgstr "Quindi, per la faccenda del fidanzato, che hai intenzione di fare?"
+
+msgctxt "37||||4"
+msgid "How'd ya even find out she has one?"
+msgstr "Come hai fatto a scoprire che ne ha uno?"
+
+msgctxt "38||||4"
+msgid "I overheard her talkin' to the missus this mornin'."
+msgstr "L'ho sentita parlarne con mia moglie stamattina."
+
+msgctxt "39||||4"
+msgid "Ahhh..."
+msgstr "Ahhh..."
+
+msgctxt "40||||4"
+msgid "She'd probly hate me if I asked about it though..."
+msgstr "Ma probabilmente mi odierebbe se glielo chiedessi..."
+
+msgctxt "41||||4"
+msgid "Y'are at that age."
+msgstr "È a quell'età."
+
+msgctxt "42||||4"
+msgid "Daughters do get married, y'know. Ain't this kinda melodramatic?"
+msgstr "Le figlie si sposano, sai. Non è un po' melodrammatico da parte tua?"
+
+msgctxt "43||||4"
+msgid "I-It's too soon! I want my little girl a little longer..."
+msgstr "È-È troppo presto! Voglio godermi la mia bambina ancora un po'..."
+
+msgctxt "44||||4"
+msgid "I mean, say her boyfriend's some juvenile womanizer."
+msgstr "Voglio dire, metti che il suo fidanzato sia un giovane donnaiolo."
+
+msgctxt "45||||4"
+msgid "I'd strangle him."
+msgstr "Lo strangolerei."
+
+msgctxt "46||||4"
+msgid "But, what if he's a fine young man after all?"
+msgstr "Ma se invece fosse un bravo ragazzo, dopotutto?"
+
+msgctxt "47||||4"
+msgid "I s'pose he'd get to live."
+msgstr "Suppongo che lo lascerei vivere."
+
+msgctxt "48||||4"
+msgid "People let this guy near sharp objects?"
+msgstr "E la gente lascia che questo tizio si avvicini a oggetti taglienti?"
+
+msgctxt "49||||4"
+msgid "If I had a daughter, I'd worry about her datin' too."
+msgstr "Se avessi una figlia, mi preoccuperei anche io per i suoi appuntamenti."
+
+msgctxt "50||||4"
+msgid "Maybe y'oughta try askin' yer wife?"
+msgstr "Forse ti conviene provare a chiedere a tua moglie?"
+
+msgctxt "51||||4"
+msgid "She's in cahoots with my wife. Won't tell me shit."
+msgstr "È in combutta con mia moglie. Non mi dirà un cazzo."
+
+msgctxt "52||||4"
+msgid "Fathers are powerless in these things."
+msgstr "I padri sono impotenti in queste cose."
+
+msgctxt "53||||4"
+msgid "What can ya do then?"
+msgstr "Cosa puoi fare allora?"
+
+msgctxt "54||||4"
+msgid "Did you get any info on the guy that might help?"
+msgstr "Hai ottenuto qualche informazione sul ragazzo che potrebbe aiutare?"
+
+msgctxt "55||||4"
+msgid "Ah, he's right, Hatakeyama-san."
+msgstr "Ah, ha ragione, Hatakeyama-san."
+
+msgctxt "56||||4"
+msgid "Hm? What's wrong, Kiryu-san?"
+msgstr "Mhm? Che succede, Kiryu-san?"
+
+msgctxt "57||||4"
+msgid "S-Sorry, my mind was wandering off..."
+msgstr "S-Scusate, avevo la testa tra le nuvole..."
+
+msgctxt "58||||4"
+msgid "Put some thought into this. He's got troubles, alright."
+msgstr "Cerca di concentrarti. Ha dei problemi, okay."
+
+msgctxt "59||||4"
+msgid "D'ya have any other info?"
+msgstr "Hai altre informazioni?"
+
+msgctxt "60||||4"
+msgid "Info, huh...? Ugh."
+msgstr "Informazioni, eh...? Ugh."
+
+msgctxt "61||||4"
+msgid "Oh, that's definitely a \"yes.\""
+msgstr "Oh, questo è chiaramente un \"sì\"."
+
+msgctxt "62||||4"
+msgid "...She's about to go on a \"date.\""
+msgstr "...Sta per andare a un \"appuntamento\"."
+
+msgctxt "63||||4"
+msgid "Oh-ho, a date, eh?"
+msgstr "Oh-ho, un appuntamento, eh?"
+
+msgctxt "64||||4"
+msgid "Where'd they even go 'round here? La Pente?"
+msgstr "Dove potrebbero mai andare da queste parti? Al La Pente?"
+
+msgctxt "65||||4"
+msgid "That's a classic spot."
+msgstr "È un grande classico."
+
+msgctxt "66||||4"
+msgid "Maybe y'oughta check?"
+msgstr "Forse dovresti andare a controllare?"
+
+msgctxt "67||||4"
+msgid "Could be he's just a friend."
+msgstr "Magari è solo un amico."
+
+msgctxt "68||||4"
+msgid "Spying on my daughter would be a new low..."
+msgstr "Spiare mia figlia sarebbe davvero cadere in basso..."
+
+msgctxt "69||||4"
+msgid "Says the guy who eavesdropped on her already."
+msgstr "Dice il tizio che l'ha già origliata di nascosto."
+
+msgctxt "70||||4"
+msgid "I dunno, I'd really lose it if he's some young punk..."
+msgstr "Non lo so, potrei perdere la testa se fosse qualche giovane teppista..."
+
+msgctxt "71||||4"
+msgid "You're dealing with a lot of emotions..."
+msgstr "Stai affrontando un sacco di emozioni..."
+
+msgctxt "72||||4"
+msgid "Be a man of action. It's time to head over, Hatakeyama-san."
+msgstr "Sii un uomo d'azione. È il momento di andare, Hatakeyama-san."
+
+msgctxt "73||||4"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "74||||4"
+msgid "Nothin' wrong with jus' scopin' it out a bit."
+msgstr "Non c'è niente di male a dare solo una sbirciatina."
+
+msgctxt "75||||4"
+msgid "Besides, ya couldn't cook a single oyster like this."
+msgstr "Inoltre, non saresti in grado di cucinare una singola ostrica ridotto così."
+
+msgctxt "76||||4"
+msgid "Hmm, all right. I'll see if I can get an eye on her."
+msgstr "Mhm, d'accordo. Vedrò se riesco a tenerla d'occhio."
+
+msgctxt "77||||4"
+msgid "Thanks fer hearin' me out, fellas!"
+msgstr "Grazie per avermi ascoltato, ragazzi!"
+
+msgctxt "78||||4"
+msgid "Good luck!"
+msgstr "Buona fortuna!"
+
+msgctxt "79||||4"
+msgid "Don't you dare kill him, though."
+msgstr "Però non azzardarti a ucciderlo."
+
+msgctxt "80||||4"
+msgid "I-I know that."
+msgstr "L-Lo so."
+
+msgctxt "81||||4"
+msgid "Hahaha!"
+msgstr "Hahaha!"
+
+msgctxt "82||||4"
+msgid "Hmm... Maybe I shouldn't do this..."
+msgstr "Mhm... Forse non dovrei farlo..."
+
+msgctxt "83||||4"
+msgid "She'd hate me even more if she caught me..."
+msgstr "Mi odierebbe ancora di più se mi dovesse sgamare..."
+
+msgctxt "84||||4"
+msgid "Well, we won't force ya to..."
+msgstr "Beh, non ti costringeremo a farlo..."
+
+msgctxt "85||||4"
+msgid "I'll think about it. Thanks for this, fellas."
+msgstr "Ci penserò su. Grazie per l'aiuto, ragazzi."
+
+msgctxt "86||||4"
+msgid "Keep it together."
+msgstr "Cerca di mantenere la calma."
+
+msgctxt "87||||4"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+msgctxt "88||||4"
+msgid "That didn't really go anywhere..."
+msgstr "Non abbiamo concluso un bel niente..."
+

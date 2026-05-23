@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Kiryu-san, do you go to shrines?"
+msgstr "Kiryu-san, vai mai ai santuari?"
+
+msgctxt "1||||4"
+msgid "Shrines... Yeah, I visit them sometimes."
+msgstr "Santuari... Sì, a volte ci vado."
+
+msgctxt "2||||4"
+msgid "Me too. The wind feels so good over there."
+msgstr "Anch'io. C'è sempre un bel venticello da quelle parti."
+
+msgctxt "3||||4"
+msgid "Since you asked, do you ever go to them?"
+msgstr "Visto che me lo chiedi, tu ci vai mai?"
+
+msgctxt "4||||4"
+msgid "I just went yesterday. Hoping it'll bless me with good luck."
+msgstr "Ci sono andato proprio ieri. Sperando che mi porti un po' di fortuna."
+
+msgctxt "5||||4"
+msgid "You're so small-minded."
+msgstr "Sei proprio banale."
+
+msgctxt "6||||4"
+msgid "So did something good happen?"
+msgstr "Quindi ti è successo qualcosa di bello?"
+
+msgctxt "7||||4"
+msgid "Nothing really, but I did witness something odd."
+msgstr "Non proprio, ma ho assistito a una cosa strana."
+
+msgctxt "8||||4"
+msgid "Odd?"
+msgstr "Strana?"
+
+msgctxt "9||||4"
+msgid "I saw Kaneko-san shadowboxing earlier."
+msgstr "Ho visto Kaneko-san fare shadowboxing poco fa."
+
+msgctxt "11||||4"
+msgid "Y-You saw that...?"
+msgstr "L-L'hai visto...?"
+
+msgctxt "12||||4"
+msgid "Kaneko-san... you..."
+msgstr "Kaneko-san... tu..."
+
+msgctxt "13||||4"
+msgid "You must really love boxing."
+msgstr "Devi amare davvero il pugilato."
+
+msgctxt "14||||4"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "15||||4"
+msgid "Huh? What did you say?"
+msgstr "Eh? Che hai detto?"
+
+msgctxt "16||||4"
+msgid "S-Sorry, I was thinking about something else..."
+msgstr "S-Scusate, stavo pensando a qualcos'altro..."
+
+msgctxt "17||||4"
+msgid "Well, it's not something to be embarassed about."
+msgstr "Beh, non è una cosa di cui vergognarsi."
+
+msgctxt "18||||4"
+msgid "He's right. All men do that now and then."
+msgstr "Ha ragione. Tutti gli uomini lo fanno ogni tanto."
+
+msgctxt "19||||4"
+msgid "You said it was odd..."
+msgstr "Avevi detto che era una cosa strana..."
+
+msgctxt "20||||4"
+msgid "I used to shadowbox against my room lamp as a kid."
+msgstr "Da ragazzino facevo shadowboxing contro la lampada della mia stanza."
+
+msgctxt "21||||4"
+msgid "Don't compare me to you as a kid! Geez."
+msgstr "Non paragonarmi a te da ragazzino! Cavolo."
+
+msgctxt "22||||4"
+msgid "Kaneko-san used to be an actual boxer."
+msgstr "Kaneko-san era un vero pugile."
+
+msgctxt "23||||4"
+msgid "Wh-Whaaaaaat!? Seriously!?"
+msgstr "Co-Cooosa!? Sul serio!?"
+
+msgctxt "24||||4"
+msgid "First I'm hearing of it..."
+msgstr "È la prima volta che lo sento..."
+
+msgctxt "25||||4"
+msgid "It was a long time ago."
+msgstr "È stato tanto tempo fa."
+
+msgctxt "26||||4"
+msgid "Wait, why does only Mama know?"
+msgstr "Aspetta, perché lo sa solo la Mama?"
+
+msgctxt "27||||4"
+msgid "I know everything."
+msgstr "Io so tutto."
+
+msgctxt "28||||4"
+msgid "Then tell me my bust, waist, and hip measurements."
+msgstr "Allora dimmi le mie misure di seno, vita e fianchi."
+
+msgctxt "29||||4"
+msgid "All about 129.3 cm probably."
+msgstr "Tutte intorno ai 129,3 cm, probabilmente."
+
+msgctxt "30||||4"
+msgid "I don't think so. Forget it..."
+msgstr "Non credo proprio. Lascia perdere..."
+
+msgctxt "31||||4"
+msgid "A boxer, huh? Did you have to watch your weight and stuff?"
+msgstr "Un pugile, eh? Dovevi fare attenzione al peso e cose del genere?"
+
+msgctxt "32||||4"
+msgid "Of course. There were times I even had to limit my water intake."
+msgstr "Certo. C'erano volte in cui dovevo persino limitare l'acqua che bevevo."
+
+msgctxt "33||||4"
+msgid "Wooow, what a stoic life."
+msgstr "Wooow, che vita stoica."
+
+msgctxt "34||||4"
+msgid "But then you go all out on delicious meals after a match, no?"
+msgstr "Ma poi ci dai dentro con dei pasti deliziosi dopo un incontro, no?"
+
+msgctxt "35||||4"
+msgid "Yeah, is that true, Kaneko-san?"
+msgstr "Già, è vero, Kaneko-san?"
+
+msgctxt "36||||4"
+msgid "After a match, the stomach rejects food, so I can't eat right away."
+msgstr "Dopo un incontro, lo stomaco rifiuta il cibo, quindi non posso mangiare subito."
+
+msgctxt "37||||4"
+msgid "Well... that's something..."
+msgstr "Beh... incredibile..."
+
+msgctxt "38||||4"
+msgid "Nowadays, I hear people make diet adjustments with their trainers."
+msgstr "Al giorno d'oggi, sento dire che le persone regolano la dieta con i loro allenatori."
+
+msgctxt "39||||4"
+msgid "Did you quit because it was too tough?"
+msgstr "Hai smesso perché era troppo dura?"
+
+msgctxt "40||||4"
+msgid "Don't be an idiot. Of course not."
+msgstr "Non fare l'idiota. Certo che no."
+
+msgctxt "41||||4"
+msgid "I went through a lot of other shit."
+msgstr "Ho passato un sacco di altri casini."
+
+msgctxt "42||||4"
+msgid "Why don't you give boxing a try too, Mama?"
+msgstr "Perché non provi anche tu col pugilato, Mama?"
+
+msgctxt "43||||4"
+msgid "I hear that women are getting into it lately."
+msgstr "Ho sentito dire che ultimamente un sacco di donne ci si stanno appassionando."
+
+msgctxt "44||||4"
+msgid "Oh, that boxer-cize thing?"
+msgstr "Oh, quella roba della fit-boxe?"
+
+msgctxt "45||||4"
+msgid "I saw on TV that it's effective for shaping your body."
+msgstr "Ho visto in TV che è efficace per tonificare il corpo."
+
+msgctxt "46||||4"
+msgid "Mama boxer-cizing..."
+msgstr "La Mama che fa fit-boxe..."
+
+msgctxt "47||||4"
+msgid "Mama might look good toned."
+msgstr "La Mama potrebbe stare bene tonica."
+
+msgctxt "48||||4"
+msgid "You think so?"
+msgstr "Dici?"
+
+msgctxt "49||||4"
+msgid "Hm? What's going on?"
+msgstr "Mhm? Che succede?"
+
+msgctxt "50||||4"
+msgid "S-Sorry, I dozed off for a bit."
+msgstr "S-Scusate, mi ero appisolato un attimo."
+
+msgctxt "51||||4"
+msgid "But I'd have mixed feelings if Mama was stronger than me."
+msgstr "Ma avrei dei sentimenti contrastanti se la Mama fosse più forte di me."
+
+msgctxt "52||||4"
+msgid "As a man, you know...?"
+msgstr "In quanto uomo, sai...?"
+
+msgctxt "53||||4"
+msgid "I'll fight people off who mess with you, Akiyoshi-kun!"
+msgstr "Metterò al tappeto chiunque ti dia fastidio, Akiyoshi-kun!"
+
+msgctxt "54||||4"
+msgid "I-I'll look like a loser! I'll pick up boxing too!"
+msgstr "S-Sembrerò un perdente! Inizierò a fare pugilato anch'io!"
+
+msgctxt "55||||4"
+msgid "You're seriously small-minded..."
+msgstr "Sei davvero banale..."
+
+msgctxt "56||||4"
+msgid "I guess I'll have Kaneko-san teach me then."
+msgstr "Immagino che mi farò dare qualche lezione da Kaneko-san, allora."
+
+msgctxt "57||||4"
+msgid "Hell no. I'm already a retired man."
+msgstr "Col cavolo. Sono già in pensione."
+
+msgctxt "58||||4"
+msgid "Just let me forget about boxing..."
+msgstr "Lasciatemi dimenticare il pugilato..."
+
+msgctxt "59||||4"
+msgid "But Kaneko-san, don't you think you seem kinda flabby?"
+msgstr "Ma Kaneko-san, non pensi di essere un po' flaccido?"
+
+msgctxt "60||||4"
+msgid "Do ya think he let himself go?"
+msgstr "Dite che si sia lasciato andare?"
+
+msgctxt "61||||4"
+msgid "Do I seem out of shape...?"
+msgstr "Sembro fuori forma...?"
+
+msgctxt "62||||4"
+msgid "In that case..."
+msgstr "In tal caso..."
+
+msgctxt "63||||4"
+msgid "Why don't you exercise with me?"
+msgstr "Perché non ti alleni con me?"
+
+msgctxt "64||||4"
+msgid "With Kiryu-san?"
+msgstr "Con Kiryu-san?"
+
+msgctxt "65||||4"
+msgid "Yeah, I always try to keep active."
+msgstr "Sì, cerco sempre di tenermi attivo."
+
+msgctxt "66||||4"
+msgid "Sounds like a good idea to avoid putting on more weight!"
+msgstr "Sembra una buona idea per evitare di mettere su altro peso!"
+
+msgctxt "67||||4"
+msgid "Whoa whoa, knock it off."
+msgstr "Whoa whoa, dateci un taglio."
+
+msgctxt "68||||4"
+msgid "Shadowboxing isn't enough to slim you down, Kaneko-san!"
+msgstr "Lo shadowboxing non basta per farti dimagrire, Kaneko-san!"
+
+msgctxt "69||||4"
+msgid "Shut up! Enough about that!"
+msgstr "Chiudi il becco! Piantala!"
+
+msgctxt "70||||4"
+msgid "Hahah!"
+msgstr "Hahah!"
+
+msgctxt "71||||4"
+msgid "No, it's fine..."
+msgstr "No, va bene così..."
+
+msgctxt "72||||4"
+msgid "You can't keep boozing without exercising. It's unhealthy."
+msgstr "Non puoi continuare a sbronzarti senza fare esercizio. Non è salutare."
+
+msgctxt "73||||4"
+msgid "You're not gonna attract the ladies like that."
+msgstr "Non attirerai le donne in questo modo."
+
+msgctxt "74||||4"
+msgid "Shut up. Leave me alone..."
+msgstr "Chiudi il becco. Lasciami in pace..."
+
+msgctxt "75||||4"
+msgid "(That was a rather dull ending...)"
+msgstr "(È stato un finale piuttosto piatto...)"
+

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 9
+msgctxt "Offset_0x27BEF_Len_9"
+msgid "=?A >i%5="
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x56C28_Len_35"
+msgid "Everyone just wants you to succeed."
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x56C68_Len_35"
+msgid "You should be a track star instead."
+msgstr ""
+
+#. Max bytes: 42
+msgctxt "Offset_0x56CA8_Len_42"
+msgid "Love is more important than entertainment."
+msgstr ""
+

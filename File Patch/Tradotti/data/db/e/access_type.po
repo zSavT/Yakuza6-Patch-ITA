@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||talk||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "2||check||info"
+msgid "Check"
+msgstr "Esamina"
+
+msgctxt "3||look||info"
+msgid "Look"
+msgstr "Guarda"
+
+msgctxt "4||listen||info"
+msgid "Listen"
+msgstr "Ascolta"
+
+msgctxt "5||in||info"
+msgid "Enter"
+msgstr "Entra"
+
+msgctxt "6||out||info"
+msgid "Exit"
+msgstr "Esci"
+
+msgctxt "7||check_sight||info"
+msgid "Check"
+msgstr "Osserva"
+
+msgctxt "8||look_around||info"
+msgid "Look Around"
+msgstr "Guardati attorno"
+
+msgctxt "9||answer_a_phone||info"
+msgid "Answer"
+msgstr "Rispondi"
+
+msgctxt "10||hact||info"
+msgid "Ultimate"
+msgstr "Supremo"
+
+msgctxt "11||mg_mahjong_easy||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "12||mg_mahjong_normal||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "13||mg_mahjong_hard||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "14||text_test||info"
+msgid "Test"
+msgstr "Test"
+
+msgctxt "15||cat_food||info"
+msgid "Give Food"
+msgstr "Dai del cibo"
+
+msgctxt "16||mg_darts||info"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "17||mg_darts_easy||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "18||mg_darts_normal||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "19||mg_darts_hard||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "20||mg_skindiving||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "21||mg_baseball||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "22||mg_batting||info"
+msgid "Enter"
+msgstr "Entra"
+
+msgctxt "23||mg_snack||info"
+msgid "Enter"
+msgstr "Entra"
+
+msgctxt "24||mg_karaoke||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "25||mg_clubsega||info"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "26||mg_rizap||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "27||mg_chat||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "28||mg_osonae||info"
+msgid "Check"
+msgstr "Esamina"
+
+msgctxt "29||mg_omikuji||info"
+msgid "Check"
+msgstr "Esamina"
+
+msgctxt "30||mg_saisen||info"
+msgid "Check"
+msgstr "Esamina"
+
+msgctxt "31||mg_clan||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "32||shoot||info"
+msgid "Take Photo"
+msgstr "Scatta foto"
+
+msgctxt "33||special_favor||info"
+msgid "Small Parcel"
+msgstr "Pacchetto"
+
+msgctxt "34||untie||info"
+msgid "Untie"
+msgstr "Slega"
+
+msgctxt "35||sit||info"
+msgid "Sit"
+msgstr "Siediti"
+
+msgctxt "36||stand||info"
+msgid "Stand"
+msgstr "Alzati"
+
+msgctxt "37||trouble_mission||info"
+msgid "Look"
+msgstr "Guarda"
+
+msgctxt "39||go_6f||info"
+msgid "To 6th Floor"
+msgstr "Al 6° piano"
+
+msgctxt "40||go_2f||info"
+msgid "To 2nd Floor"
+msgstr "Al 2° piano"
+
+msgctxt "41||go_1f||info"
+msgid "To 1st Floor"
+msgstr "Al 1° piano"
+
+msgctxt "42||go_senkouji||info"
+msgid "To Senkoji"
+msgstr "Al Senkoji"
+
+msgctxt "44||go_kannrai||info"
+msgid "To Kanrai"
+msgstr "Al Kanrai"
+
+msgctxt "45||go_top_floor||info"
+msgid "To the Roof"
+msgstr "Sul tetto"
+
+msgctxt "46||go_tenboudai||info"
+msgid "To Observation Deck"
+msgstr "Alla piattaforma panoramica"
+
+msgctxt "47||go_onomichi||info"
+msgid "To Onomichi"
+msgstr "A Onomichi"
+
+msgctxt "48||go_B1f||info"
+msgid "To Basement"
+msgstr "Al piano interrato"
+
+msgctxt "49||mg_darts_veryhard||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "50||check_sight2||info"
+msgid "Ride Taxi"
+msgstr "Prendi il taxi"
+
+msgctxt "51||trouble_mission_2||info"
+msgid "Talk"
+msgstr "Parla"
+
+msgctxt "52||trouble_mission_3||info"
+msgid "Extinguish"
+msgstr "Spegni"
+
+msgctxt "53||daynight||info"
+msgid "Pass Time"
+msgstr "Fai passare il tempo"
+
+msgctxt "54||costume||info"
+msgid "Change Outfit"
+msgstr "Cambia abito"
+
+msgctxt "55||look_nml||info"
+msgid "Look"
+msgstr "Guarda"
+

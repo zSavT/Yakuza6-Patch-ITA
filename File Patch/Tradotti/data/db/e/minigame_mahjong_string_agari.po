@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "3||furiten||text"
+msgid "Sacred Discard"
+msgstr "Furiten"
+
+msgctxt "4||chonbo||text"
+msgid "Foul"
+msgstr "Chombo"
+
+msgctxt "5||notenriichi||text"
+msgid "Illegal Riichi"
+msgstr "Noten Riichi"
+
+msgctxt "6||suukaikan||text"
+msgid "Four Kan Draw"
+msgstr "Suukaikan"
+
+msgctxt "7||suuchariichi||text"
+msgid "Four Riichi Draw"
+msgstr "Suucha Riichi"
+
+msgctxt "8||sanchahou||text"
+msgid "Triple Ron"
+msgstr "Sancha Hou"
+
+msgctxt "9||suufuurenda||text"
+msgid "Wind Discard Draw"
+msgstr "Suufuu Renda"
+
+msgctxt "10||kyuushukyuuhai||text"
+msgid "Nine Terminal Draw"
+msgstr "Kyuushu Kyuuhai"

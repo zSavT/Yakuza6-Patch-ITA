@@ -1,0 +1,2393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "The Saio are in a panic after the fire in\r\nLittle Asia and their boss going MIA."
+msgstr "La Saio è nel panico dopo l'incendio a\r\nLittle Asia e la scomparsa del suo capo."
+
+msgctxt "1||||4"
+msgid "They assume he's been kidnapped."
+msgstr "Sospettano che sia stato rapito."
+
+msgctxt "2||||4"
+msgid "If they found out he was here...\r\nIt probably wouldn't be pretty."
+msgstr "Se scoprissero che è qui...\r\nProbabilmente finirebbe male."
+
+msgctxt "3||||4"
+msgid "I understand that. I doubt we'll\r\nbe able to keep him here for long."
+msgstr "Lo capisco. Dubito che riusciremo\r\na tenerlo qui ancora per molto."
+
+msgctxt "4||||4"
+msgid "But... There's something I'd like\r\nto ask him first."
+msgstr "Ma... c'è una cosa che vorrei\r\nchiedergli prima."
+
+msgctxt "6||||4"
+msgid "[Jimmy. This is your little brother.]"
+msgstr "[Jimmy. Questo è il tuo fratellino.]"
+
+msgctxt "8||||4"
+msgid "[Cute, huh?]"
+msgstr "[Carino, eh?]"
+
+msgctxt "9||||4"
+msgid "[Yeah!]"
+msgstr "[Sì!]"
+
+msgctxt "10||||4"
+msgid "[However, this will be the last you see of him.]"
+msgstr "[Tuttavia, questa sarà l'ultima volta che lo vedi.]"
+
+msgctxt "11||||4"
+msgid "[Why?]"
+msgstr "[Perché?]"
+
+msgctxt "12||||4"
+msgid "[Well, this child is... a sort\r\nof insurance policy for us.]"
+msgstr "[Vedi, questo bambino è... una sorta\r\ndi polizza assicurativa per noi.]"
+
+msgctxt "13||||4"
+msgid "[Listen, Jimmy.\r\nRemember these words well.]"
+msgstr "[Ascoltami, Jimmy.\r\nRicorda bene queste parole.]"
+
+msgctxt "15||||4"
+msgid "[This is what it means to rule\r\nover the Saio Triad.]"
+msgstr "[Questo è ciò che significa comandare\r\nla Triade Saio.]"
+
+msgctxt "16||||4"
+msgid "[For the good of the many,\r\nyou must be willing to cast aside your family.]"
+msgstr "[Per il bene di molti,\r\ndevi essere disposto a sacrificare la tua stessa famiglia.]"
+
+msgctxt "17||||4"
+msgid "[What do you mean?]"
+msgstr "[Che intendi dire?]"
+
+msgctxt "18||||4"
+msgid "[You are my only son, Jimmy.\r\nI need no other.]"
+msgstr "[Tu sei il mio unico figlio, Jimmy.\r\nNon me ne servono altri.]"
+
+msgctxt "19||||4"
+msgid "[Dad! Hey, Dad!\r\nAre you even listening?]"
+msgstr "[Papà! Ehi, papà!\r\nMi stai ascoltando?]"
+
+msgctxt "21||||4"
+msgid "[Why can't we expand into Japan?]"
+msgstr "[Perché non possiamo espanderci in Giappone?]"
+
+msgctxt "22||||4"
+msgid "[If Ed and I struck now, we could wipe the yakuza\r out\r\nwhile they're distracted by their anti-crime law!]"
+msgstr "[Se Ed e io colpissimo ora, potremmo annientare la yakuza\r\nmentre è distratta dalla legge anticrimine!]"
+
+msgctxt "23||||4"
+msgid "[Dad, give me this chance!]"
+msgstr "[Papà, dammi questa possibilità!]"
+
+msgctxt "24||||4"
+msgid "[This rubbish again?]"
+msgstr "[Ancora con queste sciocchezze?]"
+
+msgctxt "25||||4"
+msgid "[We've been through this.]"
+msgstr "[Ne abbiamo già discusso.]"
+
+msgctxt "26||||4"
+msgid "[We are forbidden from setting foot in Japan.\r\nThat is the key to our agreement with the Yomei.]"
+msgstr "[Ci è proibito mettere piede in Giappone.\r\nQuesto è il fulcro del nostro accordo con la Yomei.]"
+
+msgctxt "27||||4"
+msgid "[So let me get this straight. You're putting\r\nsome backwater clan over your own people?]"
+msgstr "[Fammi capire bene. Stai mettendo un clan\r\ndi bifolchi davanti alla tua stessa gente?]"
+
+msgctxt "28||||4"
+msgid "[Hey. This is not your call to make.]"
+msgstr "[Ehi. Non sei tu a decidere.]"
+
+msgctxt "29||||4"
+msgid "[And... for now, perhaps\r\nyou had better watch your tone?]"
+msgstr "[E... per ora, forse\r\nè meglio che badi a come parli.]"
+
+msgctxt "31||||4"
+msgid "[Dad<symbol=em_dash_with_outline>I mean, boss.\r\nThe Saio Triad is facing its greatest peril.]"
+msgstr "[Papà<symbol=em_dash_with_outline>voglio dire, boss.\r\nLa Triade Saio sta affrontando il suo più grande pericolo.]"
+
+msgctxt "32||||4"
+msgid "[With the police cracking down like they are,\r\nany hope we had of domestic expansion is lost.]"
+msgstr "[Con il pugno di ferro della polizia, ogni speranza\r\ndi espansione interna è ormai perduta.]"
+
+msgctxt "34||||4"
+msgid "[But we've been shipping <font_kind=yakuza_italic>heihaizi</font_kind> to Japan\r\nthrough the Yomei for years now.]"
+msgstr "[Ma sono anni che spediamo in Giappone gli <font_kind=yakuza_italic>heihaizi</font_kind>\r\nattraverso la Yomei.]"
+
+msgctxt "35||||4"
+msgid "[The groundwork for our\r expansion\r\ninto Japan is done. Why not act on it!?]"
+msgstr "[Le basi per la nostra\r espansione\r\nin Giappone sono pronte. Perché non agire!?]"
+
+msgctxt "36||||4"
+msgid "[Give me a chance here, Dad!\r\nI'll take Tokyo, I promise you!]"
+msgstr "[Dammi una possibilità, papà!\r\nPrenderò Tokyo, te lo prometto!]"
+
+msgctxt "37||||4"
+msgid "[And how will you do that?\r\nThe Tojo Clan rules that city.]"
+msgstr "[E come pensi di farcela?\r\nIl Clan Tojo governa quella città.]"
+
+msgctxt "38||||4"
+msgid "[They may be shackled by anti-crime laws now...]"
+msgstr "[Potranno anche essere ostacolati dalle leggi anticrimine ora...]"
+
+msgctxt "39||||4"
+msgid "[...But they're still yakuza. They will not sit\r\nback and let you steal their territory.]"
+msgstr "[...Ma restano pur sempre yakuza. Non staranno a\r\nguardare mentre rubi il loro territorio.]"
+
+msgctxt "40||||4"
+msgid "[We enlist the Yomei Alliance's help, then.]"
+msgstr "[Allora chiederemo l'aiuto dell'Alleanza Yomei.]"
+
+msgctxt "41||||4"
+msgid "[What about that secret of Onomichi? We can\r\nuse it to blackmail Kurusu into helping us.]"
+msgstr "[E quel segreto di Onomichi? Possiamo\r\nusarlo per ricattare Kurusu e farci aiutare.]"
+
+msgctxt "43||||4"
+msgid "[You just need to tell me what it is.]"
+msgstr "[Devi solo dirmi di cosa si tratta.]"
+
+msgctxt "44||||4"
+msgid "[With Kurusu on our side, we could\r\nbring Kamurocho to its knees.]"
+msgstr "[Con Kurusu dalla nostra parte, potremmo\r\nmettere in ginocchio Kamurocho.]"
+
+msgctxt "45||||4"
+msgid "[And from there, Ed and I would fan\r\nout to take control of the whole city.]"
+msgstr "[E da lì, io ed Ed ci espanderemmo\r\nper prendere il controllo dell'intera città.]"
+
+msgctxt "46||||4"
+msgid "[Don't be so naive. You really expect\r\nKurusu would agree to your plan?]"
+msgstr "[Non essere così ingenuo. Credi davvero che\r\nKurusu accetterebbe il tuo piano?]"
+
+msgctxt "47||||4"
+msgid "[He'd have to!]"
+msgstr "[Sarebbe costretto a farlo!]"
+
+msgctxt "48||||4"
+msgid "[They take our <font_kind=yakuza_italic>heihaizi</font_kind>, despite\r\ngaining any real value from doing so.]"
+msgstr "[Prendono i nostri <font_kind=yakuza_italic>heihaizi</font_kind>, pur\r\nnon ricavandone alcun vero vantaggio.]"
+
+msgctxt "49||||4"
+msgid "[It's proof that their secret would give\r\nus even more leverage over them!]"
+msgstr "[È la prova che il loro segreto ci darebbe\r\nancora più potere su di loro!]"
+
+msgctxt "51||||4"
+msgid "[These were your words, right?]"
+msgstr "[Queste erano le tue parole, vero?]"
+
+msgctxt "52||||4"
+msgid "[For the good of the many,\r\nyou must be willing to cast aside your family.]"
+msgstr "[Per il bene di molti,\r\ndevi essere disposto a sacrificare la tua stessa famiglia.]"
+
+msgctxt "53||||4"
+msgid "[Jimmy.]"
+msgstr "[Jimmy.]"
+
+msgctxt "54||||4"
+msgid "[It's time to cast aside the Yomei.\r\nJust give me this opportunity.]"
+msgstr "[È tempo di sacrificare la Yomei.\r\nDammi solo questa opportunità.]"
+
+msgctxt "55||||4"
+msgid "[Teach me the secret of Onomichi, Dad!]"
+msgstr "[Rivelami il segreto di Onomichi, papà!]"
+
+msgctxt "56||||4"
+msgid "[There is something you must\r\nunderstand about this situation.]"
+msgstr "[C'è una cosa che devi\r\ncapire di questa situazione.]"
+
+msgctxt "57||||4"
+msgid "[Yes?]"
+msgstr "[Sì?]"
+
+msgctxt "58||||4"
+msgid "[We can no longer use the secret of Onomichi\r\nto blackmail Kurusu. As for why...]"
+msgstr "[Non possiamo più usare il segreto di Onomichi\r\nper ricattare Kurusu. Il motivo...]"
+
+msgctxt "59||||4"
+msgid "Did you treat my wounds?"
+msgstr "Avete curato voi le mie ferite?"
+
+msgctxt "60||||4"
+msgid "Don't get me wrong. I just didn't wanna\r\nwatch you croak. That's it."
+msgstr "Non fraintendermi. Non volevo solo\r\nvederti tirare le cuoia. Tutto qui."
+
+msgctxt "61||||4"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "62||||4"
+msgid "Aniki. He's finally awake."
+msgstr "Aniki. Finalmente si è svegliato."
+
+msgctxt "64||||4"
+msgid "How are you feeling, Lo?"
+msgstr "Come ti senti, Lo?"
+
+msgctxt "65||||4"
+msgid "More grateful than anything."
+msgstr "Più che altro, grato."
+
+msgctxt "66||||4"
+msgid "Sorry to ask you this so soon, but I need\r\nto continue our conversation from Little Asia."
+msgstr "Scusa se te lo chiedo così presto, ma ho bisogno\r\ndi continuare la nostra conversazione di Little Asia."
+
+msgctxt "67||||4"
+msgid "Can you talk?"
+msgstr "Riesci a parlare?"
+
+msgctxt "68||||4"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "69||||4"
+msgid "Hold on. I need to make one thing clear first."
+msgstr "Aspetta. Prima devo chiarire una cosa."
+
+msgctxt "70||||4"
+msgid "I'm a detective, so I wouldn't openly\r\ndiscuss any crimes you've committed."
+msgstr "Sono un detective, quindi vi sconsiglio di discutere\r\napertamente di eventuali crimini che avete commesso."
+
+msgctxt "72||||4"
+msgid "That goes double for you, Kiryu.\r\nUnderstood?"
+msgstr "E questo vale doppiamente per te, Kiryu.\r\nIntesi?"
+
+msgctxt "73||||4"
+msgid "You do whatever you think is\r\nright, Date-san."
+msgstr "Fai quello che ritieni\r\ngiusto, Date-san."
+
+msgctxt "74||||4"
+msgid "We'll accept your judgment here."
+msgstr "Accetteremo il tuo giudizio."
+
+msgctxt "75||||4"
+msgid "Lo. You okay with that?"
+msgstr "Lo. Ti sta bene?"
+
+msgctxt "76||||4"
+msgid "I no longer intend on\r\nrunning away from the truth."
+msgstr "Non ho più intenzione di\r\nfuggire dalla verità."
+
+msgctxt "77||||4"
+msgid "Good."
+msgstr "Bene."
+
+msgctxt "78||||4"
+msgid "First, Lo...\r\nWhy did the Saio come to Japan?"
+msgstr "Innanzitutto, Lo...\r\nPerché la Saio è venuta in Giappone?"
+
+msgctxt "79||||4"
+msgid "And why are you fighting the Tojo Clan?"
+msgstr "E perché state combattendo contro il Clan Tojo?"
+
+msgctxt "80||||4"
+msgid "Lastly, what exactly is the secret of Onomichi?\r\nI need some answers."
+msgstr "Infine, cos'è esattamente il segreto di Onomichi?\r\nHo bisogno di risposte."
+
+msgctxt "81||||4"
+msgid "Regarding the secret of Onomichi...\r\nThe truth of it still eludes me."
+msgstr "Riguardo al segreto di Onomichi...\r\nLa sua vera natura mi sfugge ancora."
+
+msgctxt "82||||4"
+msgid "What!? That doesn't make a shred o' sense!\r\nAniki, you really gonna trust this guy?"
+msgstr "Cosa!? Non ha un briciolo di senso!\r\nAniki, ti fiderai davvero di questo tizio?"
+
+msgctxt "83||||4"
+msgid "He's just spewing whatever bullshit\r\nhe can to make us doubt Hirose-san!"
+msgstr "Sta solo sputando cazzate\r\nper farci dubitare di Hirose-san!"
+
+msgctxt "84||||4"
+msgid "Calm down, Yuta.\r\nGo on."
+msgstr "Calmati, Yuta.\r\nContinua."
+
+msgctxt "85||||4"
+msgid "The secret of Onomichi was originally crafted\r\nby my father and Chairman Kurusu."
+msgstr "Il segreto di Onomichi fu originariamente ideato\r\nda mio padre e dal presidente Kurusu."
+
+msgctxt "86||||4"
+msgid "It was a project they planned together."
+msgstr "Era un progetto che pianificarono insieme."
+
+msgctxt "87||||4"
+msgid "A project?"
+msgstr "Un progetto?"
+
+msgctxt "88||||4"
+msgid "Japan was at war with\r\nthe rest of the world at the time."
+msgstr "All'epoca il Giappone era in guerra con\r\nil resto del mondo."
+
+msgctxt "89||||4"
+msgid "If I had to guess, I would say\r\nthe secret was military in nature."
+msgstr "Se dovessi indovinare, direi che\r\nil segreto era di natura militare."
+
+msgctxt "90||||4"
+msgid "But that was before the Yomei Alliance."
+msgstr "Ma questo succedeva prima dell'Alleanza Yomei."
+
+msgctxt "91||||4"
+msgid "Are you saying Iwami Shipbuilding made this\r\ndeal with the previous head of the Saio Triad?"
+msgstr "Stai dicendo che la Iwami Shipbuilding fece questo\r\naccordo col precedente capo della Triade Saio?"
+
+msgctxt "92||||4"
+msgid "Precisely that."
+msgstr "Esattamente."
+
+msgctxt "93||||4"
+msgid "The first time I heard the secret\r\nmentioned was roughly 1985."
+msgstr "La prima volta che ho sentito nominare\r\nil segreto è stato circa nel 1985."
+
+msgctxt "94||||4"
+msgid "From his deathbed, my father spoke\r of\r\nit being Kurusu's sole political weakness."
+msgstr "Sul letto di morte, mio padre mi disse\r che\r\nera l'unica debolezza politica di Kurusu."
+
+msgctxt "95||||4"
+msgid "He divulged nothing else about it."
+msgstr "Non rivelò nient'altro al riguardo."
+
+msgctxt "96||||4"
+msgid "But when he died, he left me something he\r\nclaimed was the key to uncovering the secret."
+msgstr "Ma quando morì, mi lasciò qualcosa che\r\nsosteneva fosse la chiave per scoprire il segreto."
+
+msgctxt "97||||4"
+msgid "The key? And what was it?"
+msgstr "La chiave? E di cosa si trattava?"
+
+msgctxt "98||||4"
+msgid "A code that apparently leads\r\nsomewhere in Onomichi."
+msgstr "Un codice che, a quanto pare, conduce\r\nda qualche parte a Onomichi."
+
+msgctxt "99||||4"
+msgid "But I am no closer to decoding it\r\ntoday than I was 30 years ago."
+msgstr "Ma oggi non sono più vicino a decifrarlo\r\ndi quanto non lo fossi 30 anni fa."
+
+msgctxt "100||||4"
+msgid "30 years ago... That's when\r\nI joined the Tojo Clan."
+msgstr "30 anni fa... Proprio quando\r\nmi sono unito al Clan Tojo."
+
+msgctxt "101||||4"
+msgid "It was a prosperous time, not only for the\r\ncriminal underworld, but society as a whole."
+msgstr "Era un periodo prospero, non solo per il\r\nmondo criminale, ma per l'intera società."
+
+msgctxt "102||||4"
+msgid "By that point, Heizo Iwami had long established\r\nhis new persona: Takeru Kurusu."
+msgstr "A quel punto, Heizo Iwami aveva già consolidato\r\nda tempo la sua nuova identità: Takeru Kurusu."
+
+msgctxt "103||||4"
+msgid "In public, he was chairman of Iwami Shipbuilding.\r\nIn private, he presided over the Yomei Alliance."
+msgstr "In pubblico era il presidente della Iwami Shipbuilding.\r\nIn privato, presiedeva l'Alleanza Yomei."
+
+msgctxt "104||||4"
+msgid "These two diametric extremes allowed him\r\nto establish the role of the Fixer."
+msgstr "Questi due estremi opposti gli hanno permesso\r\ndi affermarsi nel ruolo di Faccendiere."
+
+msgctxt "105||||4"
+msgid "Now that you mention it, Kurusu and\r\nthe Yomei only rose to power after the war."
+msgstr "Ora che mi ci fai pensare, Kurusu e\r\nla Yomei sono saliti al potere solo dopo la guerra."
+
+msgctxt "106||||4"
+msgid "It's possible that Onomichi's secret is what got\r\nhim involved in crime to begin with."
+msgstr "È possibile che sia stato proprio il segreto di Onomichi\r\na coinvolgerlo nel crimine fin dall'inizio."
+
+msgctxt "107||||4"
+msgid "I cannot comment on Kurusu turning\r\nfrom the law so many years ago."
+msgstr "Non posso commentare il fatto che Kurusu si sia\r\nallontanato dalla legge così tanti anni fa."
+
+msgctxt "108||||4"
+msgid "However, I knew he had an image to uphold\r\nas the chairman of his successful business."
+msgstr "Tuttavia, sapevo che aveva un'immagine da difendere\r\ncome presidente della sua azienda di successo."
+
+msgctxt "109||||4"
+msgid "Nobody could find out that he was actually\r\nrunning a massive criminal syndicate as well."
+msgstr "Nessuno poteva scoprire che in realtà\r\ngestiva anche un enorme sindacato criminale."
+
+msgctxt "110||||4"
+msgid "That fact allowed me to pressure Kurusu over\r\nthe secret of Onomichi my father spoke of."
+msgstr "Questo fatto mi ha permesso di fare pressione su Kurusu\r\nriguardo al segreto di Onomichi di cui parlava mio padre."
+
+msgctxt "111||||4"
+msgid "And to force him into a secret deal with me."
+msgstr "E di costringerlo a stringere un patto segreto con me."
+
+msgctxt "112||||4"
+msgid "The <font_kind=yakuza_italic>heihaizi</font_kind> smuggling."
+msgstr "Il contrabbando di <font_kind=yakuza_italic>heihaizi</font_kind>."
+
+msgctxt "113||||4"
+msgid "Along with the forging of their documents.\r\nIn other words, human laundering."
+msgstr "Insieme alla falsificazione dei loro documenti.\r\nIn altre parole, riciclaggio di esseri umani."
+
+msgctxt "114||||4"
+msgid "Yes, exactly."
+msgstr "Sì, esattamente."
+
+msgctxt "115||||4"
+msgid "<font_kind=yakuza_italic>Heihaizi</font_kind> are children who exist outside\r\nthe awareness of the Chinese government."
+msgstr "Gli <font_kind=yakuza_italic>heihaizi</font_kind> sono bambini che esistono al di fuori\r\ndella consapevolezza del governo cinese."
+
+msgctxt "116||||4"
+msgid "They have no documents. No education.\r\nThey are born destined for a life of crime."
+msgstr "Non hanno documenti. Né istruzione.\r\nNascono destinati a una vita criminale."
+
+msgctxt "117||||4"
+msgid "However, these children knew we could\r\ngive them new lives as citizens of Japan."
+msgstr "Tuttavia, questi bambini sapevano che potevamo\r\ndar loro una nuova vita come cittadini del Giappone."
+
+msgctxt "118||||4"
+msgid "And in order to grasp that opportunity\r,\r\nthey willingly indebted themselves to us."
+msgstr "E per cogliere quell'opportunità\r,\r\nsi sono indebitati volontariamente con noi."
+
+msgctxt "119||||4"
+msgid "So the only reason you helped them\r\nwas for\r the eventual payday."
+msgstr "Quindi l'unica ragione per cui li avete aiutati\r\nera per\r il guadagno finale."
+
+msgctxt "120||||4"
+msgid "We are not a charity. We do earnestly\r\nhope to save those children, though."
+msgstr "Non siamo un'associazione di beneficenza. Anche se\r\nsperiamo sinceramente di salvare quei bambini."
+
+msgctxt "121||||4"
+msgid "And if you consider things from their perspective\r,\r\nan escape was something only we could offer."
+msgstr "E se consideri le cose dal loro punto di vista\r,\r\nuna via di fuga era qualcosa che solo noi potevamo offrire."
+
+msgctxt "122||||4"
+msgid "That's all well and good, but how does\r\nKurusu play into this situation?"
+msgstr "Tutto questo va benissimo, ma che ruolo\r\nha Kurusu in questa situazione?"
+
+msgctxt "123||||4"
+msgid "His shipbuilding corporation offered us\r\nthe ideal smuggling route for <font_kind=yakuza_italic>heihaizi</font_kind>."
+msgstr "La sua azienda di costruzioni navali ci ha offerto\r\nla rotta di contrabbando ideale per gli <font_kind=yakuza_italic>heihaizi</font_kind>."
+
+msgctxt "124||||4"
+msgid "He also had ways to bend the Japanese\r\ngovernment to conform to his desires."
+msgstr "Aveva anche il modo di piegare il governo\r\ngiapponese per assecondare i suoi desideri."
+
+msgctxt "125||||4"
+msgid "As such, Takeru Kurusu was utterly vital\r\nto my human laundering scheme."
+msgstr "Per questo, Takeru Kurusu era assolutamente vitale\r\nper il mio progetto di riciclaggio di esseri umani."
+
+msgctxt "126||||4"
+msgid "So Kurusu was smuggling in illegal immigrants\r\nand forging their documents on top of it all."
+msgstr "Quindi Kurusu contrabbandava immigrati clandestini\r\ne falsificava pure i loro documenti."
+
+msgctxt "127||||4"
+msgid "He was taking a huge risk."
+msgstr "Si stava prendendo un rischio enorme."
+
+msgctxt "128||||4"
+msgid "That should go to show just how important\r\nprotecting the secret of Onomichi is to him."
+msgstr "Questo dovrebbe dimostrare quanto sia importante\r\nper lui proteggere il segreto di Onomichi."
+
+msgctxt "129||||4"
+msgid "In any case, our deal proceeded\r\nexactly as planned."
+msgstr "In ogni caso, il nostro accordo procedeva\r\nesattamente come previsto."
+
+msgctxt "131||||4"
+msgid "After that, I returned to China and ensured the\r\nSaio stayed as far away from Japan as possible."
+msgstr "Dopodiché, sono tornato in Cina e mi sono assicurato che la\r\nSaio stesse il più lontano possibile dal Giappone."
+
+msgctxt "132||||4"
+msgid "The goal in this was to limit any chance\r\nof further interaction with Kurusu."
+msgstr "L'obiettivo era limitare qualsiasi possibilità\r\ndi ulteriori interazioni con Kurusu."
+
+msgctxt "133||||4"
+msgid "After all, I couldn't risk him catching on to my\r\nbluff regarding the secret of Onomichi."
+msgstr "Dopotutto, non potevo rischiare che scoprisse il mio\r\nbluff riguardo al segreto di Onomichi."
+
+msgctxt "134||||4"
+msgid "Then why has your organization\r\ndecided to show up in Japan now?"
+msgstr "Allora perché la vostra organizzazione\r\nha deciso di presentarsi in Giappone proprio adesso?"
+
+msgctxt "135||||4"
+msgid "I mean, the Tojo caused that fire in Little Asia\r\nspecifically so you'd have room to take root."
+msgstr "Voglio dire, il Tojo ha causato quell'incendio a Little Asia\r\nappositamente perché aveste spazio per insediarvi."
+
+msgctxt "136||||4"
+msgid "And don't even try playing dumb."
+msgstr "E non provare a fare il finto tonto."
+
+msgctxt "137||||4"
+msgid "That was all orchestrated by\r\nKurusu's son, Tsuneo Iwami."
+msgstr "Tutto questo è stato orchestrato dal\r\nfiglio di Kurusu, Tsuneo Iwami."
+
+msgctxt "138||||4"
+msgid "He and my son Jimmy went behind\r\nmy back to bring the Saio Triad here."
+msgstr "Lui e mio figlio Jimmy hanno agito alle mie\r\nspalle per portare qui la Triade Saio."
+
+msgctxt "139||||4"
+msgid "They even managed to ensure Sugai of\r\nthe Tojo Clan invited us here personally."
+msgstr "Sono persino riusciti a fare in modo che Sugai del\r\nClan Tojo ci invitasse qui personalmente."
+
+msgctxt "175||||4"
+msgid "In Kamurocho, the Tojo Clan\r\nwill be reborn?"
+msgstr "A Kamurocho, il Clan Tojo\r\nè destinato a rinascere?"
+
+msgctxt "176||||4"
+msgid "Tsuneo planned on using Sugai and Someya\r\nto make the Tojo Clan into his puppet."
+msgstr "Tsuneo pianificava di usare Sugai e Someya\r\nper trasformare il Clan Tojo nel suo burattino."
+
+msgctxt "177||||4"
+msgid "With their help, he would gradually be able\r\nto gain control of the whole of Kamurocho."
+msgstr "Con il loro aiuto, sarebbe gradualmente riuscito\r\nad assumere il controllo di tutta Kamurocho."
+
+msgctxt "178||||4"
+msgid "The Saio Triad was nothing but\r\na pawn he used to that end."
+msgstr "La Triade Saio non era altro che\r\nuna pedina usata a tale scopo."
+
+msgctxt "179||||4"
+msgid "And you were in no position to refuse him."
+msgstr "E tu non eri nella posizione di potergli dire di no."
+
+msgctxt "180||||4"
+msgid "Correct."
+msgstr "Esatto."
+
+msgctxt "181||||4"
+msgid "In other words, he turned your human laundering\r\nplot against you. Used the <font_kind=yakuza_italic>heihaizi</font_kind> as hostages."
+msgstr "In altre parole, ha rivolto il tuo piano di riciclaggio di\r\nesseri umani contro di te. Ha usato gli <font_kind=yakuza_italic>heihaizi</font_kind> come ostaggi."
+
+msgctxt "183||||4"
+msgid "You know what happened next, Kiryu-san."
+msgstr "Sai cosa è successo dopo, Kiryu-san."
+
+msgctxt "184||||4"
+msgid "At the urging of Tsuneo Iwami, the Saio Triad\r\nstaged a fake war in Kamurocho with Sugai."
+msgstr "Sotto la spinta di Tsuneo Iwami, la Triade Saio\r\nha inscenato una finta guerra a Kamurocho con Sugai."
+
+msgctxt "185||||4"
+msgid "That was the war which led the police\r\nto arrest the Tojo Clan's sixth chairman."
+msgstr "È stata quella guerra a portare la polizia\r\nad arrestare il sesto presidente del Clan Tojo."
+
+msgctxt "186||||4"
+msgid "Once Tsuneo had his puppet, Sugai\r,\r\ntake the reins of the Tojo Clan..."
+msgstr "Una volta che Tsuneo ha fatto prendere le redini\r\ndel Clan Tojo al suo burattino, Sugai..."
+
+msgctxt "187||||4"
+msgid "...My use had expired, and so he\r\nmade an attempt on my life."
+msgstr "...La mia utilità era giunta al termine, così\r\nha attentato alla mia vita."
+
+msgctxt "188||||4"
+msgid "He was presumably plotting to kill me\r\nfrom the moment he invited us into Little Asia."
+msgstr "Presumibilmente stava complottando di uccidermi\r\ndal momento in cui ci ha invitato a Little Asia."
+
+msgctxt "189||||4"
+msgid "But he wasn't actually able to get to you.\r\nInstead, he killed your son. Jimmy Lo."
+msgstr "Ma non è riuscito a colpire te.\r\nInvece, ha ucciso tuo figlio. Jimmy Lo."
+
+msgctxt "190||||4"
+msgid "From Kurusu's standpoint, Tsuneo's\r\nbloodthirst must have been unsettling."
+msgstr "Dal punto di vista di Kurusu, la sete di sangue\r\ndi Tsuneo deve essere stata inquietante."
+
+msgctxt "191||||4"
+msgid "I assume he feared I would avenge my son's\r\ndeath by revealing the secret of Onomichi."
+msgstr "Immagino temesse che avrei vendicato la morte\r\ndi mio figlio rivelando il segreto di Onomichi."
+
+msgctxt "192||||4"
+msgid "That would explain why he had Hirose\r\npressure me into leaving the country."
+msgstr "Questo spiegherebbe perché ha spinto Hirose\r\na farmi pressione affinché lasciassi il paese."
+
+msgctxt "193||||4"
+msgid "And why he offered to return Yuta to me."
+msgstr "E perché si è offerto di restituirmi Yuta."
+
+msgctxt "194||||4"
+msgid "That's enough of yer bullshit, old man.\r\nThe boss would never do that. I don't believe it!"
+msgstr "Adesso basta con le tue cazzate, vecchio.\r\nIl capo non lo farebbe mai. Non ci credo!"
+
+msgctxt "195||||4"
+msgid "The secret of Onomichi has become little\r\nmore than a curse for Kurusu and Hirose."
+msgstr "Il segreto di Onomichi è diventato poco\r\npiù di una maledizione per Kurusu e Hirose."
+
+msgctxt "196||||4"
+msgid "That is why they turned my own son, Yuta\r,\r\nagainst me as an assassin."
+msgstr "Ecco perché hanno messo mio figlio, Yuta\r,\r\ncontro di me come assassino."
+
+msgctxt "197||||4"
+msgid "There is no means too great\r\nto ensure my eternal silence."
+msgstr "Non c'è mezzo che non userebbero\r\nper assicurarsi il mio eterno silenzio."
+
+msgctxt "198||||4"
+msgid "You're lying!"
+msgstr "Stai mentendo!"
+
+msgctxt "199||||4"
+msgid "And you, Kiryu-san? Can you\r\nbring yourself to doubt Hirose?"
+msgstr "E tu, Kiryu-san? Riesci a\r\nmettere in dubbio Hirose?"
+
+msgctxt "200||||4"
+msgid "Honestly, I owe him a lot for protecting Haruka."
+msgstr "Onestamente, gli devo molto per aver protetto Haruka."
+
+msgctxt "202||||4"
+msgid "I don't want to think about what would have\r\nhappened to her and Haruto without him."
+msgstr "Non voglio pensare a cosa sarebbe successo\r\na lei e ad Haruto senza di lui."
+
+msgctxt "203||||4"
+msgid "So, I have to agree with Yuta.\r\nI want to trust Patriarch Hirose."
+msgstr "Quindi, devo dare ragione a Yuta.\r\nVoglio fidarmi del patriarca Hirose."
+
+msgctxt "204||||4"
+msgid "This building has rooftop access, yes?"
+msgstr "Questo edificio ha un accesso al tetto, vero?"
+
+msgctxt "205||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "206||||4"
+msgid "I would like to speak with you alone\r\nfrom here forward, Kiryu-san."
+msgstr "Vorrei parlarvi da solo\r\nda qui in poi, Kiryu-san."
+
+msgctxt "207||||4"
+msgid "I will await you on the roof."
+msgstr "Vi aspetterò sul tetto."
+
+msgctxt "208||||4"
+msgid "Lo's waiting for you up there."
+msgstr "Lo ti aspetta lassù."
+
+msgctxt "209||||4"
+msgid "Don't worry 'bout me, Aniki.\r\nYou can go on ahead."
+msgstr "Non preoccuparti per me, Aniki.\r\nPuoi andare avanti."
+
+msgctxt "210||||4"
+msgid "Before you go, Kiryu.\r\nIt's about Haruka."
+msgstr "Prima che tu vada, Kiryu.\r\nRiguarda Haruka."
+
+msgctxt "211||||4"
+msgid "What happened to her?"
+msgstr "Che le è successo?"
+
+msgctxt "212||||4"
+msgid "She's coming back."
+msgstr "Si sta riprendendo."
+
+msgctxt "213||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "214||||4"
+msgid "Y'serious!?"
+msgstr "Dici sul serio!?"
+
+msgctxt "215||||4"
+msgid "While you were over in Little Asia, I left\r\nHaruto in the care of the police hospital."
+msgstr "Mentre eravate a Little Asia, ho lasciato\r\nHaruto in custodia all'ospedale della polizia."
+
+msgctxt "216||||4"
+msgid "It might be nothing, but a tear rolled\r\ndown Haruka's face when he was with her."
+msgstr "Magari non è nulla, ma è scesa una lacrima\r\nsul viso di Haruka mentre lui era con lei."
+
+msgctxt "218||||4"
+msgid "I think she's trying her damnedest to wake up."
+msgstr "Credo che ce la stia mettendo tutta per svegliarsi."
+
+msgctxt "219||||4"
+msgid "Thought you could use that bit of good news."
+msgstr "Pensavo ti avrebbe fatto piacere questa bella notizia."
+
+msgctxt "220||||4"
+msgid "I see. I appreciate it, Date-san."
+msgstr "Capisco. Lo apprezzo molto, Date-san."
+
+msgctxt "221||||4"
+msgid "Kiryu-san. I entrust the secret of Onomichi to you.\r\nAt this point, any time I have left is a luxury."
+msgstr "Kiryu-san. Vi affido il segreto di Onomichi.\r\nA questo punto, ogni momento che mi resta è un lusso."
+
+msgctxt "222||||4"
+msgid "Excuse me?"
+msgstr "Come scusa?"
+
+msgctxt "223||||4"
+msgid "Here."
+msgstr "Tieni."
+
+msgctxt "224||||4"
+msgid "What's this?"
+msgstr "Cos'è questo?"
+
+msgctxt "225||||4"
+msgid "Data from the microfilm my father left me.\r\nYour phone should be able to read it."
+msgstr "I dati del microfilm che mio padre mi ha lasciato.\r\nIl tuo telefono dovrebbe poterlo leggere."
+
+msgctxt "226||||4"
+msgid "And the code you mentioned\r\nto us before is on here?"
+msgstr "E il codice di cui ci\r\nhai parlato prima è qui sopra?"
+
+msgctxt "227||||4"
+msgid "Indeed. It should prove to be the key\r\nto cracking the secret of Onomichi."
+msgstr "Esatto. Dovrebbe rivelarsi la chiave\r\nper svelare il segreto di Onomichi."
+
+msgctxt "228||||4"
+msgid "I struggled to solve its mysteries, but one\r\nfamiliar\r with Onomichi may have more luck."
+msgstr "Ho faticato per risolverne i misteri, ma qualcuno\r\nche ha familiarità\r con Onomichi potrebbe avere più fortuna."
+
+msgctxt "229||||4"
+msgid "Be warned, though. The closer you get to the secret\r,\r\nthe further Hirose will go to stop you."
+msgstr "Ma stai in guardia. Più ti avvicinerai al segreto\r,\r\npiù in là si spingerà Hirose per fermarti."
+
+msgctxt "230||||4"
+msgid "He'll even kill you if it comes to it."
+msgstr "Arriverà persino ad ucciderti, se necessario."
+
+msgctxt "231||||4"
+msgid "Why did you choose me for this, though?"
+msgstr "Perché hai scelto proprio me per questo, però?"
+
+msgctxt "232||||4"
+msgid "You are Haruka Sawamura's guardian."
+msgstr "Tu sei il tutore di Haruka Sawamura."
+
+msgctxt "233||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "234||||4"
+msgid "The father of the girl my son loves. As I see it,\r\nwe are the patriarchs of their two families."
+msgstr "Il padre della ragazza che mio figlio ama. Per come la vedo io,\r\nsiamo i patriarchi delle loro due famiglie."
+
+msgctxt "236||||4"
+msgid "Not that I have any right to act as Yuta's\r\nfather after everything I've done."
+msgstr "Non che io abbia alcun diritto di fare da padre\r\na Yuta, dopo tutto quello che ho fatto."
+
+msgctxt "237||||4"
+msgid "Even so, you are the only one I can trust.\r\nNot just with the secret, but with Yuta as well."
+msgstr "Eppure, tu sei l'unico di cui io possa fidarmi.\r\nNon solo per il segreto, ma anche per Yuta."
+
+msgctxt "238||||4"
+msgid "With Yuta?"
+msgstr "Per Yuta?"
+
+msgctxt "239||||4"
+msgid "It seems Yuta has reached the conclusion\r\nthat Hirose is a father-figure to him."
+msgstr "Sembra che Yuta sia giunto alla conclusione\r\nche Hirose sia una figura paterna per lui."
+
+msgctxt "240||||4"
+msgid "It will be difficult for Yuta to continue onward\r\nwith this doubt looming over Hirose."
+msgstr "Sarà difficile per Yuta andare avanti\r\ncon questo dubbio che incombe su Hirose."
+
+msgctxt "241||||4"
+msgid "He will require closure of some kind."
+msgstr "Avrà bisogno di metterci una pietra sopra."
+
+msgctxt "242||||4"
+msgid "And... bringing the secret of Onomichi to light\r\nwill provide an opportunity to give it to him."
+msgstr "E... portare alla luce il segreto di Onomichi\r\noffrirà l'opportunità per farlo."
+
+msgctxt "243||||4"
+msgid "Wait. I have one more question."
+msgstr "Aspetta. Ho un'altra domanda."
+
+msgctxt "244||||4"
+msgid "You said before that you don't have much time\r\nleft. What did you mean by that?"
+msgstr "Prima hai detto che non ti resta molto\r\ntempo. Cosa intendevi dire?"
+
+msgctxt "245||||4"
+msgid "I've contacted the Saio regarding\r my succession.\r\nYuta Usami has been dismissed as my heir."
+msgstr "Ho contattato la Saio riguardo alla\r mia successione.\r\nYuta Usami è stato destituito come mio erede."
+
+msgctxt "246||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "247||||4"
+msgid "However, that action means that I have\r\nbroken the blood law of our organization."
+msgstr "Tuttavia, questa azione significa che ho infranto\r\nla legge di sangue della nostra organizzazione."
+
+msgctxt "248||||4"
+msgid "To keep existing, they will have to find a new\r\nleader to take command of the triad."
+msgstr "Per continuare a esistere, dovranno trovare un nuovo\r\nleader che prenda il comando della triade."
+
+msgctxt "249||||4"
+msgid "Furthermore, those who break the blood law\r\nwill face a punishment fitting the crime."
+msgstr "Inoltre, chiunque infranga la legge di sangue\r\naffronterà una punizione adeguata al crimine."
+
+msgctxt "250||||4"
+msgid "Then you're..."
+msgstr "Quindi sarai..."
+
+msgctxt "251||||4"
+msgid "A Saio Triad assassin will come to end my life.\r\nDon't worry, I will be far away from you by then."
+msgstr "Un assassino della Triade Saio verrà per porre fine alla mia vita.\r\nNon temere, a quel punto sarò lontano da te."
+
+msgctxt "252||||4"
+msgid "I also expect the Saio to retreat from Little Asia."
+msgstr "Mi aspetto anche che la Saio si ritiri da Little Asia."
+
+msgctxt "253||||4"
+msgid "My only regret... is that I couldn't kill Tsuneo Iwami\r\nand bring him to justice for the slaughter of my son."
+msgstr "Il mio unico rimpianto... è non aver potuto uccidere Tsuneo Iwami\r\ne portarlo davanti alla giustizia per il massacro di mio figlio."
+
+msgctxt "254||||4"
+msgid "Lo... Is there anything you want to say to Yuta?"
+msgstr "Lo... C'è qualcosa che vuoi dire a Yuta?"
+
+msgctxt "255||||4"
+msgid "I tried to murder his child."
+msgstr "Ho cercato di uccidere suo figlio."
+
+msgctxt "256||||4"
+msgid "Even if I tell him how glad I was to finally see\r\nmy grandson... I doubt he'll believe me."
+msgstr "Anche se gli dicessi quanto sono stato felice di vedere finalmente\r\nmio nipote... dubito che mi crederebbe."
+
+msgctxt "258||||4"
+msgid "Hm? Where's Lo?"
+msgstr "Mh? Dov'è Lo?"
+
+msgctxt "259||||4"
+msgid "Well, I doubt we'll be seeing him again."
+msgstr "Beh, dubito che lo rivedremo."
+
+msgctxt "260||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "261||||4"
+msgid "Lo, he... He entrusted me with the\r\nkey\r to the secret of Onomichi."
+msgstr "Lo... Mi ha affidato la\r\nchiave\r per il segreto di Onomichi."
+
+msgctxt "262||||4"
+msgid "So I'm heading to Onomichi now."
+msgstr "Quindi ora vado a Onomichi."
+
+msgctxt "263||||4"
+msgid "Gonna try to figure out the truth?"
+msgstr "Cercherai di scoprire la verità?"
+
+msgctxt "264||||4"
+msgid "Yeah. But before I do that, I'll need to\r\nspeak to the Hirose Family."
+msgstr "Sì. Ma prima, avrò bisogno di\r\nparlare con la famiglia Hirose."
+
+msgctxt "265||||4"
+msgid "They've idolized Hirose-san as a father\r,\r\nbut it may come to a showdown with him."
+msgstr "Hanno idolatrato Hirose-san come un padre\r,\r\nma potrebbe arrivare alla resa dei conti con lui."
+
+msgctxt "266||||4"
+msgid "I have to explain things to them.\r\nThat's the only fair way to go about this."
+msgstr "Devo spiegare loro come stanno le cose.\r\nÈ l'unico modo giusto di procedere."
+
+msgctxt "267||||4"
+msgid "I don't see what's in it for you, though."
+msgstr "Non capisco cosa ci guadagni, però."
+
+msgctxt "268||||4"
+msgid "With Lo out of the picture, nobody'll be trying\r\nto kill Haruka or Haruto anymore."
+msgstr "Con Lo fuori dai giochi, nessuno cercherà più\r\ndi uccidere Haruka o Haruto."
+
+msgctxt "269||||4"
+msgid "There's no reason for you to keep poking\r\naround in Onomichi. Is there?"
+msgstr "Non c'è motivo per te di continuare a curiosare\r\nper Onomichi. O sbaglio?"
+
+msgctxt "270||||4"
+msgid "I'm the one who dragged those\r\nHirose Family guys into this mess."
+msgstr "Sono io ad aver trascinato quei ragazzi\r\ndella famiglia Hirose in questo casino."
+
+msgctxt "271||||4"
+msgid "I can't just abandon them now. They at least\r\ndeserve to know what's going on."
+msgstr "Non posso semplicemente abbandonarli ora. Meritano\r\nalmeno di sapere cosa sta succedendo."
+
+msgctxt "274||||4"
+msgid "Man... You really don't ever change.\r\nFine, then. Do your worst."
+msgstr "Amico... Non cambi proprio mai.\r\nVa bene, allora. Fai del tuo peggio."
+
+msgctxt "275||||4"
+msgid "Yuta. I need you to take Haruto\r\nand go be by Haruka's side."
+msgstr "Yuta. Ho bisogno che tu prenda Haruto\r\ne vada a stare accanto ad Haruka."
+
+msgctxt "276||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "277||||4"
+msgid "I'll be going to Onomichi alone."
+msgstr "Andrò a Onomichi da solo."
+
+msgctxt "278||||4"
+msgid "Wh-Whaddaya mean!?\r\nI'm goin' with you!"
+msgstr "Ch-Che intendi dire!?\r\nVengo con te!"
+
+msgctxt "279||||4"
+msgid "Listen, Yuta."
+msgstr "Ascoltami, Yuta."
+
+msgctxt "280||||4"
+msgid "Years ago, when Haruka's parents died\r\nbefore my eyes, I made a promise."
+msgstr "Anni fa, quando i genitori di Haruka morirono\r\ndavanti ai miei occhi, feci una promessa."
+
+msgctxt "282||||4"
+msgid "I knew that someday she would fall in love\r,\r\nmaybe even have a kid."
+msgstr "Sapevo che un giorno si sarebbe innamorata\r,\r\ne forse avrebbe anche avuto un figlio."
+
+msgctxt "283||||4"
+msgid "Until that day came, I promised\r\nto be like a father to her."
+msgstr "Fino a quel giorno, promisi\r\ndi essere come un padre per lei."
+
+msgctxt "284||||4"
+msgid "Aniki..."
+msgstr "Aniki..."
+
+msgctxt "285||||4"
+msgid "Now more than ever,\r\nHaruka needs someone by her side."
+msgstr "Ora più che mai,\r\nHaruka ha bisogno di qualcuno al suo fianco."
+
+msgctxt "286||||4"
+msgid "That's not a job for her father, though.\r\nIt has to be you."
+msgstr "Questo non è un compito per suo padre, però.\r\nDevi essere tu."
+
+msgctxt "287||||4"
+msgid "I-I jus' can't do that!"
+msgstr "I-Io non posso farlo!"
+
+msgctxt "288||||4"
+msgid "Didn't you hear what Lo said about Hirose-san!?\r\nI won't stand for that bullshit!"
+msgstr "Non hai sentito cos'ha detto Lo di Hirose-san!?\r\nNon sopporterò queste stronzate!"
+
+msgctxt "289||||4"
+msgid "That's why I've gotta go to Onomichi too,\r\nand prove the boss is innocent!"
+msgstr "Ecco perché devo venire a Onomichi anch'io,\r\ne provare che il capo è innocente!"
+
+msgctxt "291||||4"
+msgid "And once I manage to do that\r\nI'm gonna kill that asshole Lo for real!"
+msgstr "E una volta che ci sarò riuscito\r\nucciderò davvero quello stronzo di Lo!"
+
+msgctxt "292||||4"
+msgid "Hey."
+msgstr "Ehi."
+
+msgctxt "293||||4"
+msgid "What do you want!?"
+msgstr "Cosa vuoi!?"
+
+msgctxt "294||||4"
+msgid "Huh!?"
+msgstr "Eh!?"
+
+msgctxt "295||||4"
+msgid "You got balls to be plotting a murder\r\nin front of a detective. Really?"
+msgstr "Hai fegato a complottare un omicidio\r\ndavanti a un detective. Davvero."
+
+msgctxt "296||||4"
+msgid "No, but I didn't..."
+msgstr "No, ma io non..."
+
+msgctxt "297||||4"
+msgid "Yuta Usami. I'm gonna have to question you\r\nabout that Little Asia fire down at the station."
+msgstr "Yuta Usami. Dovrò farti qualche domanda\r\nsu quell'incendio a Little Asia giù in centrale."
+
+msgctxt "298||||4"
+msgid "H-Hold on a sec!"
+msgstr "A-Aspetta un secondo!"
+
+msgctxt "299||||4"
+msgid "I'll take care of him."
+msgstr "Mi prenderò cura di lui."
+
+msgctxt "300||||4"
+msgid "Date-san..."
+msgstr "Date-san..."
+
+msgctxt "301||||4"
+msgid "Us fathers need to stand together. Weird seeing\r\nyour daughter get taken away by some punk, huh?"
+msgstr "Noi padri dobbiamo sostenerci a vicenda. Fa strano vedere\r\nla propria figlia portata via da un teppista qualsiasi, eh?"
+
+msgctxt "302||||4"
+msgid "I remember all too well."
+msgstr "Me lo ricordo fin troppo bene."
+
+msgctxt "303||||4"
+msgid "Now you're giving <font_kind=yakuza_italic>me</font_kind> lessons?"
+msgstr "Adesso stai dando lezioni a <font_kind=yakuza_italic>me</font_kind>?"
+
+msgctxt "304||||4"
+msgid "Let's go, kid."
+msgstr "Andiamo, ragazzo."
+
+msgctxt "305||||4"
+msgid "You've gotta be jokin'!"
+msgstr "Devi stare scherzando!"
+
+msgctxt "306||||4"
+msgid "C'mon! Just lemme go, man!"
+msgstr "Dai! Lasciami andare, amico!"
+
+msgctxt "307||||4"
+msgid "(Whatever's waiting for me in Onomichi\r\nwon't be pretty. I better stock up.)"
+msgstr "(Qualunque cosa mi aspetti a Onomichi\r\nnon sarà piacevole. Meglio fare scorta.)"
+
+msgctxt "308||||4"
+msgid "(I guess I'll grab a taxi when I'm ready.)"
+msgstr "(Credo che prenderò un taxi quando sarò pronto.)"
+
+msgctxt "309||||4"
+msgid "(Nagumo and the others should be over at the office.)"
+msgstr "(Nagumo e gli altri dovrebbero essere in ufficio.)"
+
+msgctxt "311||||4"
+msgid "Yer Kiryu-san, yeah?"
+msgstr "Sei Kiryu-san, giusto?"
+
+msgctxt "312||||4"
+msgid "I got a message fer ya from\r\nChairman Kurusu o' the Yomei Alliance."
+msgstr "Ho un messaggio per te dal\r\npresidente Kurusu dell'Alleanza Yomei."
+
+msgctxt "313||||4"
+msgid "He wants y'outta this town, lickety-split."
+msgstr "Ti vuole fuori da questa città, in fretta e furia."
+
+msgctxt "314||||4"
+msgid "There a reason?"
+msgstr "C'è un motivo?"
+
+msgctxt "315||||4"
+msgid "Cause our boss said so.\r\nThat's all the reason y'need."
+msgstr "Perché l'ha detto il nostro capo.\r\nQuesto è tutto il motivo che ti serve."
+
+msgctxt "316||||4"
+msgid "In that case, I've got no reason to oblige."
+msgstr "In tal caso, non ho alcun motivo di accontentarlo."
+
+msgctxt "317||||4"
+msgid "That so?"
+msgstr "Ah sì?"
+
+msgctxt "318||||4"
+msgid "We'll do what we gotta do t'get ya gone.\r\nDon't even matter if the sun's still out."
+msgstr "Faremo il necessario per farti sparire.\r\nNon importa neanche se c'è ancora il sole."
+
+msgctxt "319||||4"
+msgid "We're done talkin', then.\r\nY'ready, boys? Fuck him up!"
+msgstr "Abbiamo finito di parlare, allora.\r\nPronti, ragazzi? Rompetegli il culo!"
+
+msgctxt "320||||4"
+msgid "Hm?"
+msgstr "Uhm?"
+
+msgctxt "321||||4"
+msgid "It looks like I have to fight them."
+msgstr "A quanto pare mi tocca combattere."
+
+msgctxt "322||||4"
+msgid "The status of Minoru Daidoji-san remains unknown\r\nwith even key advisors apparently still in the dark."
+msgstr "Le condizioni di Minoru Daidoji-san restano sconosciute,\r\ne perfino i suoi consulenti chiave sembrano essere ancora all'oscuro."
+
+msgctxt "323||||4"
+msgid "Given his unwillingness to offer interviews\r,\r\nwe can safely assume his condition is critical."
+msgstr "Dato il suo rifiuto di rilasciare interviste\r,\r\npossiamo tranquillamente presumere che le sue condizioni siano critiche."
+
+msgctxt "324||||4"
+msgid "Daidoji-san was once a high-ranking officer in\r\nthe WWII-era navy, but after American occupation..."
+msgstr "Un tempo Daidoji-san era un ufficiale di alto rango\r\ndella marina durante la Seconda Guerra Mondiale, ma dopo l'occupazione americana..."
+
+msgctxt "325||||4"
+msgid "His influence carried over into\r\ngovernmental ministries."
+msgstr "La sua influenza si estese fino ai\r\nministeri governativi."
+
+msgctxt "326||||4"
+msgid "A-Aniki!? What's goin' on?\r\nI didn't know y'were comin' back."
+msgstr "A-Aniki!? Che succede?\r\nNon sapevo saresti tornato."
+
+msgctxt "327||||4"
+msgid "Sorry I didn't tell you guys."
+msgstr "Scusate se non vi ho avvisato."
+
+msgctxt "328||||4"
+msgid "Where's Yuta, though?\r\nHe okay?"
+msgstr "Ma dov'è Yuta?\r\nSta bene?"
+
+msgctxt "329||||4"
+msgid "Yeah. He stayed behind in Kamurocho."
+msgstr "Sì. È rimasto a Kamurocho."
+
+msgctxt "330||||4"
+msgid "Jus' what happened up there, Aniki?"
+msgstr "Cos'è successo di preciso lassù, Aniki?"
+
+msgctxt "331||||4"
+msgid "That's what I'm here to talk to you about.\r\nHave a seat, guys."
+msgstr "È di questo che sono venuto a parlarvi.\r\nSedetevi, ragazzi."
+
+msgctxt "332||||4"
+msgid "I dunno if I follow, Aniki."
+msgstr "Non so se ti seguo, Aniki."
+
+msgctxt "334||||4"
+msgid "So the boss was usin' Yuta t'kill Lo\r,\r\nand... he was plannin' t'have Yuta die, too."
+msgstr "Quindi il capo stava usando Yuta per uccidere Lo\r,\r\ne... aveva in programma di far morire anche Yuta."
+
+msgctxt "335||||4"
+msgid "It kinda sounds like that's what yer sayin'."
+msgstr "Sembra quasi che tu stia dicendo questo."
+
+msgctxt "336||||4"
+msgid "Funny y'say that, Cap.\r\nThat's what I heard, too."
+msgstr "Buffo che tu lo dica, Capitano.\r\nÈ quello che ho capito anch'io."
+
+msgctxt "337||||4"
+msgid "I'm only repeating what Lo told me."
+msgstr "Sto solo ripetendo quello che mi ha detto Lo."
+
+msgctxt "338||||4"
+msgid "Either way, where is Patriarch Hirose now?\r\nHow long has it been since you last saw him?"
+msgstr "In ogni caso, dov'è il patriarca Hirose ora?\r\nDa quanto tempo non lo vedete?"
+
+msgctxt "339||||4"
+msgid "Y'know how often he wanders around town."
+msgstr "Sai quanto spesso se ne va a zonzo per la città."
+
+msgctxt "340||||4"
+msgid "He'll probly be back soon."
+msgstr "Probabilmente tornerà presto."
+
+msgctxt "341||||4"
+msgid "According to Lo, if I attempt to expose the secret\r\nof Onomichi, your boss will do anything to stop me."
+msgstr "Secondo Lo, se cercherò di esporre il segreto\r\ndi Onomichi, il vostro capo farà di tutto per fermarmi."
+
+msgctxt "342||||4"
+msgid "To be blunt, he'll try to kill me,\r\njust like with Yuta and Big Lo."
+msgstr "Per essere schietti, cercherà di uccidermi,\r\nproprio come con Yuta e Big Lo."
+
+msgctxt "343||||4"
+msgid "But how can y'jus' trust Lo\r\nwithout any goddamn proof!?"
+msgstr "Ma come puoi fidarti di Lo\r\nsenza una dannata prova!?"
+
+msgctxt "344||||4"
+msgid "Right, not saying I do."
+msgstr "Infatti non sto dicendo di farlo."
+
+msgctxt "345||||4"
+msgid "Y'know 'bout me n' Matsunaga, Aniki?"
+msgstr "Sai di me e Matsunaga, Aniki?"
+
+msgctxt "346||||4"
+msgid "Ever since we were jus' rugrats,\r\nPatriarch Hirose's watched over us."
+msgstr "Fin da quando eravamo solo dei marmocchi,\r\nil patriarca Hirose ha vegliato su di noi."
+
+msgctxt "347||||4"
+msgid "Our dads were gone fer good,\r\nso he took us in, protected us."
+msgstr "I nostri padri se n'erano andati per sempre,\r\ncosì lui ci ha accolto, ci ha protetto."
+
+msgctxt "348||||4"
+msgid "Whatever yer thinkin' the Hirose Family's\r\nhistory\r is, yer way wrong."
+msgstr "Qualunque cosa tu pensi sia la storia\r\ndella famiglia Hirose,\r ti sbagli di grosso."
+
+msgctxt "349||||4"
+msgid "N' y'really think we'll believe this triad bullshit?"
+msgstr "E pensi davvero che crederemo a queste stronzate della triade?"
+
+msgctxt "350||||4"
+msgid "I ain't gonna doubt the boss that easy!"
+msgstr "Non dubiterò del capo così facilmente!"
+
+msgctxt "351||||4"
+msgid "Whaddya say t'that!?\r\nHuh, Kiryu-aniki!?"
+msgstr "Che ne dici di questo!?\r\nEh, Kiryu-aniki!?"
+
+msgctxt "352||||4"
+msgid "Lo's given you a tough pill to swallow.\r\nI don't expect you to believe him."
+msgstr "Lo vi ha dato una pillola amara da ingoiare.\r\nNon mi aspetto che gli crediate."
+
+msgctxt "353||||4"
+msgid "I honestly don't want to, either."
+msgstr "Onestamente, non voglio crederci neanch'io."
+
+msgctxt "354||||4"
+msgid "So y'don't wanna believe,\r\nbut y'still do anyways, huh?"
+msgstr "Quindi non vuoi crederci,\r\nma lo fai lo stesso, eh?"
+
+msgctxt "355||||4"
+msgid "In that case, <font_kind=yakuza_italic>Kiryu-san</font_kind>... Yer done here.\r\nY'ain't our aniki anymore."
+msgstr "In tal caso, <font_kind=yakuza_italic>Kiryu-san</font_kind>... Abbiamo chiuso.\r\nNon sei più il nostro aniki."
+
+msgctxt "356||||4"
+msgid "Fine, but... If he shows up to protect the\r\nthe secret of Onomichi? What then?"
+msgstr "Va bene, ma... Se lui dovesse presentarsi per proteggere il\r\nsegreto di Onomichi? Che succederà?"
+
+msgctxt "357||||4"
+msgid "We ain't dumb enough t'go\r\nbehind his back on it."
+msgstr "Non siamo così stupidi da\r\nagire alle sue spalle su questa storia."
+
+msgctxt "358||||4"
+msgid "It's our jobs t'shut our mouths n' listen, right?\r\nY'should know yakuza rules better than anyone."
+msgstr "Il nostro lavoro è tenere la bocca chiusa e obbedire, giusto?\r\nDovresti conoscere le regole della yakuza meglio di chiunque altro."
+
+msgctxt "359||||4"
+msgid "Suddenly you care about yakuza protocol?"
+msgstr "Ora all'improvviso vi importa del protocollo yakuza?"
+
+msgctxt "360||||4"
+msgid "Hey. The hell'd ya just say, <font_kind=yakuza_italic>Kiryu-san</font_kind>!?"
+msgstr "Ehi. Che diavolo hai appena detto, <font_kind=yakuza_italic>Kiryu-san</font_kind>!?"
+
+msgctxt "361||||4"
+msgid "He's right. Y'think y'can jus'\r\ncome at our cap like that!?"
+msgstr "Ha ragione. Pensi di poter attaccare\r\nil nostro capitano in questo modo!?"
+
+msgctxt "362||||4"
+msgid "Keep yer hands off o' him."
+msgstr "Tenete giù le mani da lui."
+
+msgctxt "363||||4"
+msgid "Outside now, Kiryu. \r\nIt's high time we settled this fer real."
+msgstr "Fuori subito, Kiryu.\r\nÈ giunto il momento di sistemare questa storia sul serio."
+
+msgctxt "365||||4"
+msgid "I didn't expect I'd have to fight you again, Nagumo.\r\nI don't really want to hit you."
+msgstr "Non mi aspettavo di dover combattere di nuovo contro di te, Nagumo.\r\nNon voglio davvero colpirti."
+
+msgctxt "366||||4"
+msgid "Don't matter what y'want.\r\nAll I know is, I ain't gonna hold back."
+msgstr "Non importa cosa vuoi tu.\r\nTutto ciò che so, è che non mi tratterrò."
+
+msgctxt "367||||4"
+msgid "This time yer gonna see the real\r\nspirit of the Hiroshima yakuza!"
+msgstr "Stavolta vedrai il vero\r\nspirito della yakuza di Hiroshima!"
+
+msgctxt "368||||4"
+msgid "Now fight me like y'mean it!"
+msgstr "Ora combatti facendo sul serio!"
+
+msgctxt "369||||4"
+msgid "Whaddya shits think yer doin'? I ain't done yet.\r\nGet yer asses back inside!"
+msgstr "Che cazzo credete di fare voi stronzi? Non ho ancora finito.\r\nRiportate il culo dentro!"
+
+msgctxt "370||||4"
+msgid "That ain't it, Cap."
+msgstr "Non è questo, Capitano."
+
+msgctxt "371||||4"
+msgid "We got guests."
+msgstr "Abbiamo ospiti."
+
+msgctxt "372||||4"
+msgid "Main family guys."
+msgstr "Tizi della famiglia principale."
+
+msgctxt "373||||4"
+msgid "We can finish this later, Nagumo."
+msgstr "Possiamo finirla dopo, Nagumo."
+
+msgctxt "374||||4"
+msgid "Wait, what're those punks here for?"
+msgstr "Aspetta, che ci fanno qui questi teppisti?"
+
+msgctxt "375||||4"
+msgid "Probably more of Chairman Kurusu's thugs.\r\nI'm pretty sure he doesn't want me here."
+msgstr "Probabilmente altri scagnozzi del presidente Kurusu.\r\nSono abbastanza sicuro che non mi voglia qui."
+
+msgctxt "376||||4"
+msgid "What, y'mean 'cause yer tryin'\r\nt'reveal the secret o' Onomichi?"
+msgstr "Cosa, intendi perché stai cercando\r\ndi rivelare il segreto di Onomichi?"
+
+msgctxt "377||||4"
+msgid "This isn't your problem, Nagumo.\r\nJust tell them you've cut ties with me."
+msgstr "Questo non è un tuo problema, Nagumo.\r\nDigli solo che hai tagliato i ponti con me."
+
+msgctxt "378||||4"
+msgid "They'll let you guys go if you do that."
+msgstr "Vi lasceranno andare se lo fate."
+
+msgctxt "379||||4"
+msgid "No way're we gonna be that pathetic."
+msgstr "Non saremo mai così patetici."
+
+msgctxt "380||||4"
+msgid "Y'ready fer this, Cap?"
+msgstr "Pronto, Capitano?"
+
+msgctxt "381||||4"
+msgid "Let's show these main family bitches what's up."
+msgstr "Mostriamo a queste puttane della famiglia principale come stanno le cose."
+
+msgctxt "382||||4"
+msgid "They're gonna see what it means\r\nt'mess with the Hirose Family!"
+msgstr "Vedranno cosa significa\r\nmettersi contro la famiglia Hirose!"
+
+msgctxt "383||||4"
+msgid "Nagumo."
+msgstr "Nagumo."
+
+msgctxt "384||||4"
+msgid "Chairman Kurusu will stop at nothing to protect\r\nthe secret of Onomichi. You see that now?"
+msgstr "Il presidente Kurusu non si fermerà davanti a nulla pur di proteggere\r\nil segreto di Onomichi. Lo capisci ora?"
+
+msgctxt "385||||4"
+msgid "Yeah, clear as day. Even so\r,\r\nthat don't mean the boss is in on it."
+msgstr "Sì, chiaro come il sole. Eppure\r,\r\nquesto non significa che il capo sia coinvolto."
+
+msgctxt "386||||4"
+msgid "If you trust him, you shouldn't be\r\nafraid to prove your conviction."
+msgstr "Se ti fidi di lui, non dovresti aver\r\npaura di provare la tua convinzione."
+
+msgctxt "388||||4"
+msgid "Will you be able to keep calling him your\r\npatriarch if you never know the truth?"
+msgstr "Riuscirai a continuare a chiamarlo il tuo\r\npatriarca se non saprai mai la verità?"
+
+msgctxt "389||||4"
+msgid "Are your Hirose Family bonds so weak that\r\nyou have to ignore this to keep them intact?"
+msgstr "I vostri legami della famiglia Hirose sono così deboli da\r\ndover ignorare tutto questo per mantenerli intatti?"
+
+msgctxt "390||||4"
+msgid "'Course not."
+msgstr "Certo che no."
+
+msgctxt "391||||4"
+msgid "Huh? So uh, we gonna help\r\nreveal the secret with 'im, Cap?"
+msgstr "Eh? Quindi, ehm, lo aiuteremo\r\na rivelare il segreto, Capitano?"
+
+msgctxt "392||||4"
+msgid "But... What if the boss really is out\r\nt'get whoever tries t'go fer the secret?"
+msgstr "Ma... E se il capo avesse davvero intenzione\r\ndi fare fuori chiunque provi a scoprire il segreto?"
+
+msgctxt "393||||4"
+msgid "I don't give a flyin' fuck about what-ifs!"
+msgstr "Non me ne frega un cazzo dei 'se'!"
+
+msgctxt "394||||4"
+msgid "That ain't how we're gonna run\r\nthis show from here on out!"
+msgstr "Non è così che gestiremo\r\nla situazione d'ora in poi!"
+
+msgctxt "395||||4"
+msgid "Y'know, a real family is second guessin'\r\ntheir patriarch at every turn!"
+msgstr "Sai, una vera famiglia mette in discussione\r\nil proprio patriarca a ogni passo!"
+
+msgctxt "396||||4"
+msgid "I've gone n' made up my mind."
+msgstr "Ho preso la mia decisione."
+
+msgctxt "397||||4"
+msgid "Let's do this. I wanna expose\r\nthe secret o' Onomichi."
+msgstr "Facciamolo. Voglio esporre\r\nil segreto di Onomichi."
+
+msgctxt "398||||4"
+msgid "But, y'best know this<symbol=em_dash_with_outline>I'm only doin'\r\nthis shit to clear the boss's name."
+msgstr "Ma metti in chiaro una cosa<symbol=em_dash_with_outline>faccio\r\ntutta questa merda solo per pulire il nome del capo."
+
+msgctxt "399||||4"
+msgid "N' once I manage that\r,\r\ny'gonna be ready fer some real damn apologies?"
+msgstr "E una volta che ci sarò riuscito\r,\r\nsarai pronto per delle vere fottute scuse?"
+
+msgctxt "400||||4"
+msgid "Yeah. If that's how this goes down,\r\nyou have my word."
+msgstr "Sì. Se le cose andranno così,\r\nhai la mia parola."
+
+msgctxt "401||||4"
+msgid "And y'can't go back on that promise...\r\nKiryu-aniki."
+msgstr "E non puoi rimangiarti la promessa...\r\nKiryu-aniki."
+
+msgctxt "402||||4"
+msgid "Yer back t'callin' him Aniki, huh?\r\nD'ya ever stop changin' yer mind...?"
+msgstr "Sei tornato a chiamarlo Aniki, eh?\r\nSmetti mai di cambiare idea...?"
+
+msgctxt "403||||4"
+msgid "I expect ya t'do the same, Matsunaga.\r\nYou too, Tagashira."
+msgstr "Mi aspetto che tu faccia lo stesso, Matsunaga.\r\nAnche tu, Tagashira."
+
+msgctxt "404||||4"
+msgid "Well? How exactly do we go about\r\ngettin' our hands on this secret?"
+msgstr "Bene? Come facciamo esattamente\r\na mettere le mani su questo segreto?"
+
+msgctxt "405||||4"
+msgid "Lo left this to me. It's a code that will\r\npoint to the secret's location."
+msgstr "Lo mi ha lasciato questo. È un codice che ci\r\nindicherà la posizione del segreto."
+
+msgctxt "406||||4"
+msgid "But there's one problem. Not Lo or\r\nanyone else has cracked it yet."
+msgstr "Ma c'è un problema. Né Lo né\r\nnessun altro è ancora riuscito a decifrarlo."
+
+msgctxt "407||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "408||||4"
+msgid "If we're going to solve this riddle,\r\nwe need to work as a team."
+msgstr "Se vogliamo risolvere questo enigma,\r\ndobbiamo lavorare come una squadra."
+
+msgctxt "409||||4"
+msgid "This is the image Lo gave to me."
+msgstr "Questa è l'immagine che Lo mi ha dato."
+
+msgctxt "410||||4"
+msgid "What the shit? Y'sure this thing's\r\nreally the whole code?"
+msgstr "Che cazzo? Sei sicuro che questa roba\r\nsia l'intero codice?"
+
+msgctxt "411||||4"
+msgid "Yeah. Apparently, it'll lead us\r\nto a particular location."
+msgstr "Sì. A quanto pare, ci condurrà\r\nin un posto preciso."
+
+msgctxt "412||||4"
+msgid "Lemme see. The letters here are\r\nJ, B, R, N, M, E, O, I, and K."
+msgstr "Fammi vedere. Le lettere qui sono\r\nJ, B, R, N, M, E, O, I, e K."
+
+msgctxt "413||||4"
+msgid "And then the numbers're\r\n7, 7, 36, 1, 7, 9, 22, 1, and 1."
+msgstr "E poi i numeri sono\r\n7, 7, 36, 1, 7, 9, 22, 1, e 1."
+
+msgctxt "414||||4"
+msgid "The way they're organized kinda makes it\r\nlook like each letter's paired with a number."
+msgstr "Per come sono organizzati, sembra quasi\r\nche ogni lettera sia accoppiata a un numero."
+
+msgctxt "415||||4"
+msgid "Hold on a sec, this might be\r\nsome kinda substitution cipher."
+msgstr "Aspetta un secondo, potrebbe trattarsi\r\ndi una sorta di cifrario a sostituzione."
+
+msgctxt "416||||4"
+msgid "What is that?"
+msgstr "Di che si tratta?"
+
+msgctxt "417||||4"
+msgid "It's a type o' code I read about online."
+msgstr "È un tipo di codice di cui ho letto online."
+
+msgctxt "418||||4"
+msgid "Look here. The first pair gives ya J7\r\nand the second pair leaves us with B7."
+msgstr "Guarda qui. La prima coppia ti dà J7\r\ne la seconda ci lascia con B7."
+
+msgctxt "419||||4"
+msgid "If we can decode those pairs somehow\r,\r\nit'll probly make a phrase or somethin'."
+msgstr "Se riusciamo a decodificare quelle coppie in qualche modo\r,\r\nprobabilmente formeranno una frase o qualcosa del genere."
+
+msgctxt "420||||4"
+msgid "Huh."
+msgstr "Mh."
+
+msgctxt "421||||4"
+msgid "But... we're gonna need the substitution table\r\nif we wanna solve this thing."
+msgstr "Ma... avremo bisogno della tabella di sostituzione\r\nse vogliamo risolvere questa cosa."
+
+msgctxt "422||||4"
+msgid "And that is?"
+msgstr "Cioè?"
+
+msgctxt "423||||4"
+msgid "It's a list o' the letters\r\nthat the code's based on."
+msgstr "È una lista delle lettere\r\nsu cui si basa il codice."
+
+msgctxt "424||||4"
+msgid "Fer example, take the 50 hiragana characters."
+msgstr "Per esempio, prendi i 50 caratteri hiragana."
+
+msgctxt "425||||4"
+msgid "One way t'encode 'em as numbers would\r\nbe on a table kinda like this."
+msgstr "Un modo per codificarli in numeri sarebbe\r\nusare una tabella simile a questa."
+
+msgctxt "426||||4"
+msgid "So then if you wanted t'use this table to\r\nwrite out \"konnichiwa\"..."
+msgstr "Quindi se volessi usare questa tabella per\r\nscrivere \"konnichiwa\"..."
+
+msgctxt "427||||4"
+msgid "...It'd be 15100423251."
+msgstr "...Sarebbe 15100423251."
+
+msgctxt "428||||4"
+msgid "Damn, that's crazy."
+msgstr "Cavolo, è pazzesco."
+
+msgctxt "429||||4"
+msgid "So then... we just gotta figure out what\r\nkinda table Lo's code is usin', right?"
+msgstr "Quindi... dobbiamo solo capire che tipo di\r\ntabella usa il codice di Lo, giusto?"
+
+msgctxt "430||||4"
+msgid "Yer exactly right."
+msgstr "Hai perfettamente ragione."
+
+msgctxt "431||||4"
+msgid "Lo mentioned that solving this would require\r\nsomeone who really knew Onomichi well."
+msgstr "Lo ha menzionato che per risolverlo serviva\r\nqualcuno che conoscesse davvero bene Onomichi."
+
+msgctxt "432||||4"
+msgid "To throw it out there, maybe the table is\r\nconnected to the area's history somehow."
+msgstr "Buttandola lì, magari la tabella è\r\nconnessa alla storia del posto in qualche modo."
+
+msgctxt "433||||4"
+msgid "All right, we got this!"
+msgstr "Va bene, ce la possiamo fare!"
+
+msgctxt "434||||4"
+msgid "Let's turn the whole damn town upside down.\r\nWe gotta look fer anythin' that might help us!"
+msgstr "Mettiamo a soqquadro questa dannata città.\r\nDobbiamo cercare qualsiasi cosa possa aiutarci!"
+
+msgctxt "435||||4"
+msgid "Gotcha!"
+msgstr "Ricevuto!"
+
+msgctxt "436||||4"
+msgid "Gotcha!"
+msgstr "Ricevuto!"
+
+msgctxt "437||||4"
+msgid "Cap n' Matsunaga're out searchin' the town."
+msgstr "Il capitano e Matsunaga stanno cercando in città."
+
+msgctxt "438||||4"
+msgid "I'm gonna keep lookin' online fer clues, though."
+msgstr "Io però continuerò a cercare indizi online."
+
+msgctxt "439||||4"
+msgid "Hmmm? I ain't seen y'round here before.\r\nY'from outta town or somethin'?"
+msgstr "Uhm? Non ti ho mai visto da queste parti.\r\nSei di fuori città o cosa?"
+
+msgctxt "440||||4"
+msgid "Yeah, you could say that."
+msgstr "Sì, si può dire così."
+
+msgctxt "441||||4"
+msgid "Onomichi's a magical place, y'know."
+msgstr "Onomichi è un luogo magico, sai."
+
+msgctxt "442||||4"
+msgid "People've been comin' from all over t'see\r\nthis picturesque port town fer centuries."
+msgstr "La gente viene da ovunque per vedere questa\r\npittoresca città portuale da secoli."
+
+msgctxt "443||||4"
+msgid "Even tons o' famous authors n' poets've\r\nbeen charmed by its unique allure."
+msgstr "Anche moltissimi autori e poeti famosi\r\nsono stati affascinati dal suo fascino unico."
+
+msgctxt "444||||4"
+msgid "So much so that they left poems\r\ndedicated t'the place."
+msgstr "Tanto che hanno lasciato poesie\r\ndedicate al posto."
+
+msgctxt "445||||4"
+msgid "Our ancestors wanted future generations t'enjoy\r\nthese poems too, so they carved 'em onto stones."
+msgstr "I nostri antenati volevano che le generazioni future\r\ngodessero di queste poesie, così le hanno incise su delle pietre."
+
+msgctxt "446||||4"
+msgid "If y'ever have the chance, y'might wanna\r\ntake a gander at the poem stones they left us."
+msgstr "Se mai ne avessi la possibilità, potresti dare\r\nun'occhiata alle pietre con le poesie che ci hanno lasciato."
+
+msgctxt "447||||4"
+msgid "Good idea."
+msgstr "Buona idea."
+
+msgctxt "448||||4"
+msgid "There're nine of 'em in total. I bet y'won't\r\nhave any trouble findin' them 'round town."
+msgstr "Ce ne sono nove in totale. Scommetto che non\r\navrai problemi a trovarle in giro per la città."
+
+msgctxt "449||||4"
+msgid "Thanks for the info."
+msgstr "Grazie per le informazioni."
+
+msgctxt "450||||4"
+msgid "(This looks like a poem stone.)"
+msgstr "(Sembra una stele poetica.)"
+
+msgctxt "453||||4"
+msgid "(The sun setting over the Onomichi coastline\r\nreally is a stunning sight to behold.)"
+msgstr "(Il sole che tramonta sulla costa di Onomichi\r\nè davvero una vista mozzafiato.)"
+
+msgctxt "454||||4"
+msgid "(Jippensha Ikku... The first letter of his name is J.)"
+msgstr "(Jippensha Ikku... La prima lettera del suo nome è J.)"
+
+msgctxt "455||||4"
+msgid "(I wonder if this is related to the code.\r\nMaybe I should get a picture, just in case.)"
+msgstr "(Mi chiedo se questo sia collegato al codice.\r\nForse dovrei fargli una foto, per sicurezza.)"
+
+msgctxt "456||||4"
+msgid "(This looks like a poem stone.)"
+msgstr "(Sembra una stele poetica.)"
+
+msgctxt "459||||4"
+msgid "(I don't like fighting on an empty stomach, either...)"
+msgstr "(Nemmeno a me piace combattere a stomaco vuoto...)"
+
+msgctxt "460||||4"
+msgid "(Basho... The first letter of his name is B.)"
+msgstr "(Basho... La prima lettera del suo nome è B.)"
+
+msgctxt "461||||4"
+msgid "(I wonder if this is related to the code.\r\nMaybe I should get a picture, just in case.)"
+msgstr "(Mi chiedo se questo sia collegato al codice.\r\nForse dovrei fargli una foto, per sicurezza.)"
+
+msgctxt "462||||4"
+msgid "(This looks like a poem stone.)"
+msgstr "(Sembra una stele poetica.)"
+
+msgctxt "472||||4"
+msgid "(Overlooking Onomichi at dusk, drink in hand...\r\nThat sounds incredible.)"
+msgstr "(Ammirare Onomichi al tramonto, con un drink in mano...\r\nSembra incredibile.)"
+
+msgctxt "473||||4"
+msgid "(Rai Sanyo... The first letter of his name is R.)"
+msgstr "(Rai Sanyo... La prima lettera del suo nome è R.)"
+
+msgctxt "474||||4"
+msgid "(I wonder if this is related to the code.\r\nMaybe I should get a picture, just in case.)"
+msgstr "(Mi chiedo se questo sia collegato al codice.\r\nForse dovrei fargli una foto, per sicurezza.)"
+
+msgctxt "475||||4"
+msgid "(This looks like a poem stone.)"
+msgstr "(Sembra una stele poetica.)"
+
+msgctxt "478||||4"
+msgid "(I can't help but think of flowers in bloom\r\nsurveying a blood-soaked battlefield.)"
+msgstr "(Non posso fare a meno di pensare ai fiori in sboccio\r\nche sorvegliano un campo di battaglia intriso di sangue.)"
+
+msgctxt "479||||4"
+msgid "(Natsume Soseki... The first letter of his name is N.)"
+msgstr "(Natsume Soseki... La prima lettera del suo nome è N.)"
+
+msgctxt "480||||4"
+msgid "(I wonder if this is related to the code.\r\nMaybe I should get a picture, just in case.)"
+msgstr "(Mi chiedo se questo sia collegato al codice.\r\nForse dovrei fargli una foto, per sicurezza.)"
+
+msgctxt "481||||4"
+msgid "(This looks like a poem stone.)"
+msgstr "(Sembra una stele poetica.)"
+
+msgctxt "484||||4"
+msgid "(Two pagodas peeking out over the mountains...\r\nThe perfect image for a hilly town like Onomichi.)"
+msgstr "(Due pagode che spuntano tra le montagne...\r\nL'immagine perfetta per una città collinare come Onomichi.)"
+
+msgctxt "485||||4"
+msgid "(Masaoka Shiki... The first letter of his name is M.)"
+msgstr "(Masaoka Shiki... La prima lettera del suo nome è M.)"
+
+msgctxt "486||||4"
+msgid "(I wonder if this is related to the code.\r\nMaybe I should get a picture, just in case.)"
+msgstr "(Mi chiedo se questo sia collegato al codice.\r\nForse dovrei fargli una foto, per sicurezza.)"
+
+msgctxt "487||||4"
+msgid "(This looks like a poem stone.)"
+msgstr "(Sembra una stele poetica.)"
+
+msgctxt "490||||4"
+msgid "(I get the sense that those islands fading in and out\r\nof view held great sentimental value for him.)"
+msgstr "(Ho la sensazione che quelle isole che apparivano e scomparivano\r\ndalla vista avessero un grande valore sentimentale per lui.)"
+
+msgctxt "491||||4"
+msgid "(Emi Suiin... The first letter of his name is E.)"
+msgstr "(Emi Suiin... La prima lettera del suo nome è E.)"
+
+msgctxt "492||||4"
+msgid "(I wonder if this is related to the code.\r\nMaybe I should get a picture, just in case.)"
+msgstr "(Mi chiedo se questo sia collegato al codice.\r\nForse dovrei fargli una foto, per sicurezza.)"
+
+msgctxt "493||||4"
+msgid "(This looks like a poem stone.)"
+msgstr "(Sembra una stele poetica.)"
+
+msgctxt "496||||4"
+msgid "(It's rare to find a city bordered by ocean on one side\r\nand mountains on the other. Onomichi is special.)"
+msgstr "(È raro trovare una città delimitata dall'oceano da un lato\r\ne dalle montagne dall'altro. Onomichi è speciale.)"
+
+msgctxt "497||||4"
+msgid "(Ogata Koan... The first letter of his name is O.)"
+msgstr "(Ogata Koan... La prima lettera del suo nome è O.)"
+
+msgctxt "498||||4"
+msgid "(I wonder if this is related to the code.\r\nMaybe I should get a picture, just in case.)"
+msgstr "(Mi chiedo se questo sia collegato al codice.\r\nForse dovrei fargli una foto, per sicurezza.)"
+
+msgctxt "499||||4"
+msgid "(This looks like a poem stone.)"
+msgstr "(Sembra una stele poetica.)"
+
+msgctxt "502||||4"
+msgid "(Countless tile-roofed temples dot the mountainside.\r\nOnomichi must have been lively in its prime.)"
+msgstr "(Innumerevoli templi con tetti di tegole punteggiano la montagna.\r\nOnomichi doveva essere molto vivace nel suo periodo d'oro.)"
+
+msgctxt "503||||4"
+msgid "(Iwaya Sazanami... The first letter of his name is I.)"
+msgstr "(Iwaya Sazanami... La prima lettera del suo nome è I.)"
+
+msgctxt "504||||4"
+msgid "(I wonder if this is related to the code.\r\nMaybe I should get a picture, just in case.)"
+msgstr "(Mi chiedo se questo sia collegato al codice.\r\nForse dovrei fargli una foto, per sicurezza.)"
+
+msgctxt "505||||4"
+msgid "(This looks like a poem stone.)"
+msgstr "(Sembra una stele poetica.)"
+
+msgctxt "508||||4"
+msgid "(I might actually not mind being buried if it meant\r\nbeing surrounded by a chorus of chirping birds.)"
+msgstr "(Potrebbe non dispiacermi l'idea di essere sepolto, se significasse\r\nessere circondato da un coro di uccellini cinguettanti.)"
+
+msgctxt "509||||4"
+msgid "(Kobayashi Issa... The first letter of his name is K.)"
+msgstr "(Kobayashi Issa... La prima lettera del suo nome è K.)"
+
+msgctxt "510||||4"
+msgid "(I wonder if this is related to the code.\r\nMaybe I should get a picture, just in case.)"
+msgstr "(Mi chiedo se questo sia collegato al codice.\r\nForse dovrei fargli una foto, per sicurezza.)"
+
+msgctxt "511||||4"
+msgid "(I've checked all nine poem stones.)"
+msgstr "(Ho controllato tutte e nove le stele poetiche.)"
+
+msgctxt "512||||4"
+msgid "(The first letters of the author's names\r\ncome out to J, B, R, N, M, E, O, I, and K.)"
+msgstr "(Le prime lettere dei nomi degli autori\r\nsono J, B, R, N, M, E, O, I, e K.)"
+
+msgctxt "513||||4"
+msgid "(I'm on to something. The names\r\nmatch up perfectly to the code.)"
+msgstr "(Sono sulla buona strada. I nomi\r\ncorrispondono perfettamente al codice.)"
+
+msgctxt "514||||4"
+msgid "(I should head back to the office\r\nand let the others know...)"
+msgstr "(Dovrei tornare in ufficio\r\ne farlo sapere agli altri...)"
+
+msgctxt "515||||4"
+msgid "Yer back, Kiryu-aniki!\r\nY'figure anythin' out?"
+msgstr "Sei tornato, Kiryu-aniki!\r\nHai scoperto qualcosa?"
+
+msgctxt "516||||4"
+msgid "Yeah. You all should hear this."
+msgstr "Sì. Dovreste ascoltarmi tutti."
+
+msgctxt "517||||4"
+msgid "I ended up at all nine of\r\nthe poem stones around town."
+msgstr "Sono andato a tutte e nove le\r\nstele poetiche in giro per la città."
+
+msgctxt "518||||4"
+msgid "As it turns out, the first letter of each author's\r\nname matches up with the letters of the code."
+msgstr "A quanto pare, la prima lettera del nome di ciascun\r\nautore corrisponde alle lettere del codice."
+
+msgctxt "519||||4"
+msgid "I have photos of each stone to prove it to you.\r\nTake a look, Tagashira."
+msgstr "Ho delle foto di ciascuna pietra per provarvelo.\r\nDa' un'occhiata, Tagashira."
+
+msgctxt "520||||4"
+msgid "Okay!"
+msgstr "Va bene!"
+
+msgctxt "521||||4"
+msgid "N-No way! These really do match!"
+msgstr "N-Non è possibile! Corrispondono davvero!"
+
+msgctxt "522||||4"
+msgid "Maybe the substitution table fer the code\r\nis actually carved on the poem stones!"
+msgstr "Forse la tabella di sostituzione per il codice\r\nè scolpita proprio sulle stele poetiche!"
+
+msgctxt "523||||4"
+msgid "Kiryu-aniki!\r\nY'done real good!"
+msgstr "Kiryu-aniki!\r\nHai fatto un ottimo lavoro!"
+
+msgctxt "524||||4"
+msgid "If yer right, don't that mean we can\r\nsolve the code?"
+msgstr "Se hai ragione, non significa che possiamo\r\nrisolvere il codice?"
+
+msgctxt "525||||4"
+msgid "Yup. Let's get crackin'!"
+msgstr "Sì. Diamoci da fare!"
+
+msgctxt "526||||4"
+msgid "J7 would be the seventh kanji of\r\nJippensha Ikku's poem: \"sea.\""
+msgstr "J7 sarebbe il settimo kanji della\r\npoesia di Jippensha Ikku: \"mare\"."
+
+msgctxt "527||||4"
+msgid "B7 is the seventh kanji of\r\nBasho's poem: \"army.\""
+msgstr "B7 è il settimo kanji della\r\npoesia di Basho: \"esercito\"."
+
+msgctxt "528||||4"
+msgid "Lemme just figure out the rest."
+msgstr "Fatemi scoprire il resto."
+
+msgctxt "529||||4"
+msgid "Sea, army, water, soldier, mountain\r\nname, road, big, grave."
+msgstr "Mare, esercito, acqua, soldato, montagna\r\nnome, strada, grande, tomba."
+
+msgctxt "530||||4"
+msgid "Those kanji combine t'make...\r\n\"Naval soldier Yamano Dodai's grave.\""
+msgstr "Combinando questi kanji viene fuori...\r\n\"Tomba del soldato della marina Yamano Dodai.\""
+
+msgctxt "531||||4"
+msgid "Wait, y'mean the big grave up in\r\nthe cemetery behind the highway?"
+msgstr "Aspetta, intendi la grande tomba su\r\nal cimitero dietro l'autostrada?"
+
+msgctxt "532||||4"
+msgid "Yer right!\r\nThat's gotta be the place!"
+msgstr "Hai ragione!\r\nDeve essere quello il posto!"
+
+msgctxt "533||||4"
+msgid "That'll do, then. Kiryu-aniki!\r\nLet's get\r on over t'the cemetery!"
+msgstr "Tutto torna, allora. Kiryu-aniki!\r\nAndiamo\r al cimitero!"
+
+msgctxt "534||||4"
+msgid "Right."
+msgstr "Certo."
+
+msgctxt "535||||4"
+msgid "Here we are.\r\nSays right here... Yamano Dodai."
+msgstr "Eccoci qua.\r\nC'è scritto proprio qui... Yamano Dodai."
+
+msgctxt "536||||4"
+msgid "So the secret is in this grave."
+msgstr "Quindi il segreto è in questa tomba."
+
+msgctxt "537||||4"
+msgid "Kiryu-aniki, I'm gonna pry it open.\r\nI might need yer help, though."
+msgstr "Kiryu-aniki, cercherò di forzarla.\r\nPotrei aver bisogno del tuo aiuto, però."
+
+msgctxt "538||||4"
+msgid "We jus' gotta take a little peek."
+msgstr "Dobbiamo solo dare una sbirciatina."
+
+msgctxt "539||||4"
+msgid "Nothin' wrong with that, right?"
+msgstr "Non c'è niente di male, giusto?"
+
+msgctxt "540||||4"
+msgid "Here goes nothin'..."
+msgstr "O la va o la spacca..."
+
+msgctxt "544||||4"
+msgid "Find anything?"
+msgstr "Trovato qualcosa?"
+
+msgctxt "545||||4"
+msgid "Hm? Somethin's back here!"
+msgstr "Uhm? C'è qualcosa qui dietro!"
+
+msgctxt "546||||4"
+msgid "Kiryu-aniki, maybe y'oughta do the honors."
+msgstr "Kiryu-aniki, forse dovresti fare tu gli onori."
+
+msgctxt "547||||4"
+msgid "What is this?"
+msgstr "Cos'è questo?"
+
+msgctxt "548||||4"
+msgid "Is that one o' the blueprints fer\r\nthe old Iwami shipyard?"
+msgstr "È uno dei progetti per\r\nil vecchio cantiere navale Iwami?"
+
+msgctxt "549||||4"
+msgid "If I'm rememberin' right, that's where\r\nthey made ships up 'til the war started."
+msgstr "Se ricordo bene, è lì che costruivano\r\nnavi fino all'inizio della guerra."
+
+msgctxt "550||||4"
+msgid "It's pretty damn old now, though. I think\r\nthe whole place is closed off."
+msgstr "Adesso però è piuttosto vecchio. Credo che\r\nl'intero posto sia stato chiuso."
+
+msgctxt "551||||4"
+msgid "So Lo's code points to the shipyard."
+msgstr "Quindi il codice di Lo punta al cantiere navale."
+
+msgctxt "552||||4"
+msgid "There's no doubt. That's where\r\nthe secret of Onomichi is hidden."
+msgstr "Senza dubbio. È lì che è nascosto\r\nil segreto di Onomichi."
+
+msgctxt "553||||4"
+msgid "Kiryu-aniki."
+msgstr "Kiryu-aniki."
+
+msgctxt "554||||4"
+msgid "We can probly use the boat Ino lent us\r\nwhen we were chasin' Joon-gi Han."
+msgstr "Probabilmente possiamo usare la barca che ci ha\r\nprestato Ino quando inseguivamo Joon-gi Han."
+
+msgctxt "555||||4"
+msgid "That'd be perfect fer gettin' to the shipyard."
+msgstr "Sarebbe perfetta per raggiungere il cantiere."
+
+msgctxt "556||||4"
+msgid "Cap. I bet there're gonna be tons o' main family\r\nguys on our way down t'the dock."
+msgstr "Capitano. Scommetto che ci saranno un sacco di tizi della\r\nfamiglia principale lungo la strada per il molo."
+
+msgctxt "557||||4"
+msgid "Y'mind if I knock a few heads on the way?"
+msgstr "Ti dispiace se rompo qualche testa strada facendo?"
+
+msgctxt "558||||4"
+msgid "Be my guest.\r\nWe don't gotta hold back anymore."
+msgstr "Fai pure.\r\nNon dobbiamo più trattenerci."
+
+msgctxt "559||||4"
+msgid "C'mon, Aniki. Let's head over t'Ino's boat."
+msgstr "Andiamo, Aniki. Dirigiamoci alla barca di Ino."
+
+msgctxt "560||||4"
+msgid "Heeey! Heard y'need a boat!"
+msgstr "Ehiii! Ho saputo che ti serve una barca!"
+
+msgctxt "561||||4"
+msgid "Hurry up n' get on!"
+msgstr "Sbrigati a salire!"
+
+msgctxt "562||||4"
+msgid "All right, Aniki.\r\nY'ready fer this?"
+msgstr "D'accordo, Aniki.\r\nSei pronto per questo?"
+
+msgctxt "563||||4"
+msgid "Yeah. Let's do it."
+msgstr "Sì. Facciamolo."
+
+msgctxt "564||||4"
+msgid "Right!"
+msgstr "Bene!"
+
+msgctxt "565||||4"
+msgid "No, not yet."
+msgstr "No, non ancora."
+
+msgctxt "566||||4"
+msgid "Okay, Aniki.\r\nJus' lemme know when y'are."
+msgstr "Ok, Aniki.\r\nFammi solo sapere quando ci sei."
+
+msgctxt "567||||4"
+msgid "Y'finally good t'go, Aniki?"
+msgstr "Finalmente sei pronto a partire, Aniki?"
+
+msgctxt "568||||4"
+msgid "Aniki. This Iwami shipyard place...\r\nIt's real freakin' big."
+msgstr "Aniki. Questo cantiere navale Iwami...\r\nÈ davvero fottutamente enorme."
+
+msgctxt "569||||4"
+msgid "If that code don't take us right t'the secret\r,\r\nwe're gonna be up shit creek."
+msgstr "Se quel codice non ci porta dritti al segreto\r,\r\nsaremo nella merda fino al collo."
+
+msgctxt "570||||4"
+msgid "It's our only clue, though. If we don't go,\r\nwe won't find anything for sure."
+msgstr "È il nostro unico indizio, però. Se non andiamo,\r\nnon troveremo nulla di sicuro."
+
+msgctxt "571||||4"
+msgid "Y'can't deny that the code was\r\npointin' straight t'the shipyard."
+msgstr "Non puoi negare che il codice\r\npuntasse dritto al cantiere navale."
+
+msgctxt "572||||4"
+msgid "I've actually wandered around the place\r\na bit myself, so I know the lay o' the land."
+msgstr "A dire il vero ho gironzolato un po'\r\nda queste parti, quindi conosco la zona."
+
+msgctxt "573||||4"
+msgid "I can point ya in the right direction."
+msgstr "Posso indicarti la direzione giusta."
+
+msgctxt "574||||4"
+msgid "Great, thanks."
+msgstr "Ottimo, grazie."
+
+msgctxt "575||||4"
+msgid "Anyways, whaddya think we're gonna dig up?\r\nI wonder what this secret o' Onomichi really is."
+msgstr "Comunque, cosa pensi che scoveremo?\r\nMi chiedo cosa sia davvero questo segreto di Onomichi."
+
+msgctxt "576||||4"
+msgid "I'm not sure. Not even Lo knew the truth..."
+msgstr "Non ne sono sicuro. Nemmeno Lo conosceva la verità..."
+
+msgctxt "577||||4"
+msgid "Looks like they knew we'd come, Aniki.\r\nThese guys're main family boys fer sure."
+msgstr "Sembra che sapessero del nostro arrivo, Aniki.\r\nQuesti tizi sono di sicuro della famiglia principale."
+
+msgctxt "578||||4"
+msgid "Let's stick together, guys.\r\nStay close to me."
+msgstr "Restiamo uniti, ragazzi.\r\nStatemi vicini."
+
+msgctxt "579||||4"
+msgid "It's time."
+msgstr "È giunto il momento."
+
+msgctxt "580||||4"
+msgid "Let's go!"
+msgstr "Andiamo!"
+
+msgctxt "581||||4"
+msgid "Hell yeah, we did it! Serves y'bitches right!\r\nYer no match fer us, y'goddamn pussies!"
+msgstr "Porca puttana, ce l'abbiamo fatta! Ben vi sta, stronze!\r\nNon potete competere con noi, fottute fighette!"
+
+msgctxt "582||||4"
+msgid "No way this is over, though.\r\nI'm sure there'll be more of 'em."
+msgstr "Ma col cavolo che è finita qui.\r\nSono sicuro che ce ne saranno altri."
+
+msgctxt "583||||4"
+msgid "As fer the code, it was pointin' this way."
+msgstr "Per quanto riguarda il codice, puntava da questa parte."
+
+msgctxt "584||||4"
+msgid "C'mon. Follow me, y'guys."
+msgstr "Andiamo. Seguitemi, ragazzi."
+
+msgctxt "585||||4"
+msgid "Let's try usin' this elevator."
+msgstr "Proviamo a usare questo ascensore."
+
+msgctxt "586||||4"
+msgid "We still got a long way t'go before we reach\r\nwhere the code was pointin'. Let's hurry."
+msgstr "Abbiamo ancora molta strada da fare prima di raggiungere\r\nil punto indicato dal codice. Sbrighiamoci."
+
+msgctxt "587||||4"
+msgid "They jus' don't know when t'quit."
+msgstr "Non sanno proprio quando arrendersi."
+
+msgctxt "588||||4"
+msgid "No lettin' up now. Make 'em\r\nregret even raisin' their fists!"
+msgstr "Non molliamo ora. Facciamo in modo che si\r\npentano persino di aver alzato i pugni!"
+
+msgctxt "589||||4"
+msgid "Aniki. We gotta keep movin'."
+msgstr "Aniki. Dobbiamo continuare a muoverci."
+
+msgctxt "590||||4"
+msgid "Wait, the hell's goin' on here?\r\nAin't this jus' a dead end?"
+msgstr "Aspetta, che diamine succede qui?\r\nNon è un vicolo cieco?"
+
+msgctxt "591||||4"
+msgid "Shit! They must've blocked the path!"
+msgstr "Merda! Devono aver bloccato il passaggio!"
+
+msgctxt "592||||4"
+msgid "They're gonna catch us at this rate!\r\nWhat do we do?"
+msgstr "Di questo passo ci prenderanno!\r\nCosa facciamo?"
+
+msgctxt "593||||4"
+msgid "I'll handle it."
+msgstr "Me ne occupo io."
+
+msgctxt "594||||4"
+msgid "Kiryu-aniki!\r\nYou're crazy!"
+msgstr "Kiryu-aniki!\r\nSei pazzo!"
+
+msgctxt "595||||4"
+msgid "Sonuvabitch... More of 'em."
+msgstr "Figli di puttana... Eccone degli altri."
+
+msgctxt "596||||4"
+msgid "Guys, we gotta keep goin'!"
+msgstr "Ragazzi, dobbiamo andare avanti!"
+
+msgctxt "597||||4"
+msgid "Y'guys can go on without me fer now.\r\nI'll hold 'em back long as I can."
+msgstr "Voi ragazzi andate pure avanti per ora.\r\nLi tratterrò finché posso."
+
+msgctxt "598||||4"
+msgid "Matsunaga..."
+msgstr "Matsunaga..."
+
+msgctxt "599||||4"
+msgid "No fussin' now. I'll catch up with\r\ny'guys soon as I finish moppin'."
+msgstr "Niente storie ora. Vi raggiungerò\r\nnon appena avrò finito di pulire il pavimento con loro."
+
+msgctxt "600||||4"
+msgid "Hey assholes!\r\nNow yer dealin' with me!"
+msgstr "Ehi stronzi!\r\nOra ve la vedrete con me!"
+
+msgctxt "601||||4"
+msgid "Matsunaga-aniki's got this.\r\nLet's keep movin'."
+msgstr "Matsunaga-aniki ci pensa lui.\r\nContinuiamo a muoverci."
+
+msgctxt "602||||4"
+msgid "Right."
+msgstr "Bene."
+
+msgctxt "603||||4"
+msgid "Huh. Never figured there'd be\r\na tunnel under the shipyard."
+msgstr "Uhm. Non avrei mai immaginato ci fosse\r\nun tunnel sotto il cantiere navale."
+
+msgctxt "604||||4"
+msgid "Probly a mine shaft from before the war."
+msgstr "Probabilmente è un pozzo minerario di prima della guerra."
+
+msgctxt "605||||4"
+msgid "We've got a ways t'go.\r\nStay on me."
+msgstr "Abbiamo ancora un po' di strada da fare.\r\nStatemi dietro."
+
+msgctxt "607||||4"
+msgid "I brought some flashlights, jus' in case.\r\nThere's one fer each o' ya."
+msgstr "Ho portato delle torce, per ogni evenienza.\r\nCe n'è una per ognuno di voi."
+
+msgctxt "608||||4"
+msgid "Try t'keep up, Aniki!"
+msgstr "Cerca di starmi dietro, Aniki!"
+
+msgctxt "609||||4"
+msgid "There's our exit!"
+msgstr "Ecco la nostra uscita!"
+
+msgctxt "610||||4"
+msgid "Hey, did y'hear somethin'?"
+msgstr "Ehi, avete sentito qualcosa?"
+
+msgctxt "612||||4"
+msgid "Someone's there!\r\nWatch yourself!"
+msgstr "C'è qualcuno!\r\nFai attenzione!"
+
+msgctxt "613||||4"
+msgid "D-Dammit...!"
+msgstr "D-Dannazione...!"
+
+msgctxt "614||||4"
+msgid "Seriously!?"
+msgstr "Dici sul serio!?"
+
+msgctxt "615||||4"
+msgid "Wow, y'still standin'?"
+msgstr "Wow, sei ancora in piedi?"
+
+msgctxt "616||||4"
+msgid "But don't go thinkin' that means\r\ny'can take us down."
+msgstr "Ma non pensare che questo significhi che\r\npuoi sconfiggerci."
+
+msgctxt "617||||4"
+msgid "Aniki. I got this tubby chump."
+msgstr "Aniki. A questo cicciottello ci penso io."
+
+msgctxt "618||||4"
+msgid "Go on ahead with Tagashira."
+msgstr "Vai avanti con Tagashira."
+
+msgctxt "619||||4"
+msgid "All right."
+msgstr "D'accordo."
+
+msgctxt "620||||4"
+msgid "Hey, dumbass. I dunno if\r\nthe main family sent ya or not..."
+msgstr "Ehi, coglione. Non so se ti ha\r\nmandato la famiglia principale o no..."
+
+msgctxt "621||||4"
+msgid "...But I'm captain o' the Hirose Family.\r\nDon't y'dare underestimate me."
+msgstr "...Ma io sono il capitano della famiglia Hirose.\r\nNon azzardarti a sottovalutarmi."
+
+msgctxt "622||||4"
+msgid "If y'wanna try me on for size,\r\ny'better be ready t'pay the price!"
+msgstr "Se vuoi metterti alla prova con me,\r\nè meglio che ti prepari a pagarne il prezzo!"
+
+msgctxt "623||||4"
+msgid "Let's goooo!"
+msgstr "Andiamooo!"
+
+msgctxt "624||||4"
+msgid "So we should head up?"
+msgstr "Quindi dobbiamo salire?"
+
+msgctxt "625||||4"
+msgid "Yeah. Cap's buyin' us some time,\r\nso let's hurry."
+msgstr "Sì. Il capitano ci sta facendo guadagnare tempo,\r\nquindi sbrighiamoci."
+
+msgctxt "626||||4"
+msgid "Looks like we're in some kinda\r\nold shipbuildin' station."
+msgstr "Sembra che siamo in una sorta\r\ndi vecchia stazione di costruzione navale."
+
+msgctxt "627||||4"
+msgid "This is where the code was takin' us.\r\nLet's get down there!"
+msgstr "È qui che ci portava il codice.\r\nScendiamo laggiù!"
+
+msgctxt "628||||4"
+msgid "Crap! \r\nWe've got a welcoming party..."
+msgstr "Merda! \r\nAbbiamo un comitato di accoglienza..."
+
+msgctxt "629||||4"
+msgid "They really want to keep this\r\nsecret safe, don't they?"
+msgstr "Vogliono proprio mantenere questo\r\nsegreto al sicuro, eh?"
+
+msgctxt "630||||4"
+msgid "That's fine.\r\nTry to stop me if you can."
+msgstr "Va bene.\r\nProvate a fermarmi, se ci riuscite."
+
+msgctxt "631||||4"
+msgid "Your numbers don't impress me."
+msgstr "I vostri numeri non mi impressionano."
+
+msgctxt "632||||4"
+msgid "You want to see what a yakuza really is?\r\nI'll show you."
+msgstr "Volete vedere cos'è davvero uno yakuza?\r\nVe lo mostro io."
+
+msgctxt "633||||4"
+msgid "Come on!"
+msgstr "Fatevi sotto!"
+
+msgctxt "634||||4"
+msgid "Commissioned during the war, but never completed...\r\nAbandoned in planning, according to the history books."
+msgstr "Commissionata durante la guerra, ma mai completata...\r\nAbbandonata in fase di progettazione, secondo i libri di storia."
+
+msgctxt "635||||4"
+msgid "In truth, Iwami Shipbuilding continued construction\r\nunder highly confidential military orders."
+msgstr "In verità, la Iwami Shipbuilding continuò la costruzione\r\nsotto ordini militari altamente riservati."
+
+msgctxt "636||||4"
+msgid "B-Boss..."
+msgstr "C-Capo..."
+
+msgctxt "637||||4"
+msgid "But thanks to the war,\r\nour workforce was nonexistent."
+msgstr "Ma a causa della guerra,\r\nla nostra forza lavoro era inesistente."
+
+msgctxt "638||||4"
+msgid "So we approached the Saio Triad, to recruit poor\r\nChinese refugees looking for an escape."
+msgstr "Così ci rivolgemmo alla Triade Saio per reclutare poveri\r\nrifugiati cinesi in cerca di una via di fuga."
+
+msgctxt "639||||4"
+msgid "That is the only reason the Saio leader\r\nhad any knowledge of the secret of Onomichi."
+msgstr "Questa è l'unica ragione per cui il leader della Saio\r\nera a conoscenza del segreto di Onomichi."
+
+msgctxt "640||||4"
+msgid "Lo said he learned of it from his father."
+msgstr "Lo ha detto di averlo appreso da suo padre."
+
+msgctxt "641||||4"
+msgid "Regrettably, the ship was still in its final\r\nstages of\r construction as the war ended."
+msgstr "Purtroppo, la nave era ancora nelle fasi finali della sua\r\ncostruzione\r quando la guerra finì."
+
+msgctxt "642||||4"
+msgid "Iwami Shipbuilding faced immeasurable losses.\r\nThen, a man came forth to shoulder the burden."
+msgstr "La Iwami Shipbuilding affrontò perdite incommensurabili.\r\nPoi, un uomo si fece avanti per farsi carico del fardello."
+
+msgctxt "643||||4"
+msgid "And that was?"
+msgstr "E di chi si trattava?"
+
+msgctxt "644||||4"
+msgid "A high-ranking naval officer by\r\nthe name of Minoru Daidoji."
+msgstr "Un ufficiale della marina di alto rango\r\ndi nome Minoru Daidoji."
+
+msgctxt "645||||4"
+msgid "Minoru Daidoji?\r\nThat name sounds familiar..."
+msgstr "Minoru Daidoji?\r\nQuesto nome mi suona familiare..."
+
+msgctxt "646||||4"
+msgid "Daidoji felt the Yamato Mark II a necessary risk for the\r\nsurvival of Japan, and unilaterally funneled funds to us."
+msgstr "Daidoji ritenne la Yamato Mark II un rischio necessario per la\r\nsopravvivenza del Giappone, e incanalò unilateralmente dei fondi verso di noi."
+
+msgctxt "647||||4"
+msgid "It was essentially an embezzlement of war funds.\r\nHis career would be over if it came to light."
+msgstr "Si trattava essenzialmente di un'appropriazione indebita di fondi bellici.\r\nLa sua carriera sarebbe finita se fosse venuto alla luce."
+
+msgctxt "648||||4"
+msgid "As such, when the occupying forces ordered our country's\r\ndemilitarization, we opted instead to hide the battleship."
+msgstr "Per questo, quando le forze di occupazione ordinarono la smilitarizzazione\r\ndel nostro paese, decidemmo invece di nascondere la corazzata."
+
+msgctxt "649||||4"
+msgid "And in exchange for keeping this blight\r\nconfidential, Daidoji promised me compensation."
+msgstr "E in cambio di mantenere segreta questa\r\nonta, Daidoji mi promise un risarcimento."
+
+msgctxt "650||||4"
+msgid "Compensation?"
+msgstr "Risarcimento?"
+
+msgctxt "651||||4"
+msgid "I remember now! Daidoji's the guy all those\r\npeople on the news're callin' the Fixer!"
+msgstr "Ora ricordo! Daidoji è il tizio che tutte quelle\r\npersone al telegiornale chiamano il Faccendiere!"
+
+msgctxt "652||||4"
+msgid "They were sayin' he's in critical condition!"
+msgstr "Dicevano che è in condizioni critiche!"
+
+msgctxt "653||||4"
+msgid "Indeed. Occupying forces\r withdrew\r\nfrom our shores in 1952."
+msgstr "Esatto. Le forze di occupazione si\r ritirarono\r\ndalle nostre coste nel 1952."
+
+msgctxt "654||||4"
+msgid "Free from the gaze of the American army, Daidoji\r\ngained influence over the post-war administration."
+msgstr "Libero dallo sguardo dell'esercito americano, Daidoji\r\nottenne influenza sull'amministrazione del dopoguerra."
+
+msgctxt "655||||4"
+msgid "Those connections allowed him unauthorized access\r\nto the funds\r used to repay Iwami Shipbuilding."
+msgstr "Quei collegamenti gli garantirono accesso non autorizzato\r\nai fondi\r usati per ripagare la Iwami Shipbuilding."
+
+msgctxt "656||||4"
+msgid "Beyond that, he continued to compensate me\r\nby\r pushing bills through that benefited my ventures."
+msgstr "Oltre a questo, continuò a compensarmi\r\nfacendo\r approvare leggi che favorivano le mie imprese."
+
+msgctxt "657||||4"
+msgid "It was a gross misappropriation\r\nof our nation's legal system."
+msgstr "Fu una grave appropriazione indebita\r\ndel sistema legale della nostra nazione."
+
+msgctxt "658||||4"
+msgid "Alongside Daidoji, I came in contact with\r\na variety\r of underhanded government workers."
+msgstr "Al fianco di Daidoji, entrai in contatto con\r\nuna varietà\r di impiegati governativi disonesti."
+
+msgctxt "659||||4"
+msgid "Our cooperation laid down a complex\r network of roots\r\nbeneath our nation's political facade."
+msgstr "La nostra cooperazione pose una complessa\r rete di radici\r\nal di sotto della facciata politica della nostra nazione."
+
+msgctxt "660||||4"
+msgid "These roots still impact politics as we know them today."
+msgstr "Queste radici influenzano ancora la politica per come la conosciamo oggi."
+
+msgctxt "661||||4"
+msgid "The Yamato Mark II was the only physical proof\r\nof my countless years of governmental collusion."
+msgstr "La Yamato Mark II era l'unica prova fisica\r\ndei miei innumerevoli anni di collusione governativa."
+
+msgctxt "662||||4"
+msgid "To Daidoji and the administration, it was a secret\r\nthey could nigh afford to have made public."
+msgstr "Per Daidoji e l'amministrazione, era un segreto\r\nche quasi non potevano permettersi di rendere pubblico."
+
+msgctxt "663||||4"
+msgid "Even the Yomei Alliance was created\r\nas a means of ensuring it stayed hidden."
+msgstr "Anche l'Alleanza Yomei fu creata\r\ncome mezzo per garantire che restasse nascosto."
+
+msgctxt "664||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "665||||4"
+msgid "Upon its founding, the Yomei Alliance consisted of\r\nIwami managers who had helped build the ship."
+msgstr "Al momento della sua fondazione, l'Alleanza Yomei era composta da\r\ndirigenti della Iwami che avevano aiutato a costruire la nave."
+
+msgctxt "666||||4"
+msgid "Each one had to be carefully monitored\r\nto ensure they were following protocol."
+msgstr "Ognuno di loro doveva essere attentamente monitorato\r\nper assicurarsi che stesse seguendo il protocollo."
+
+msgctxt "667||||4"
+msgid "Keeping the secret safe was our sole purpose."
+msgstr "Mantenere il segreto al sicuro era il nostro unico scopo."
+
+msgctxt "668||||4"
+msgid "That is why we were content with independence.\r\nWe had no need to expand beyond Hiroshima."
+msgstr "Ecco perché ci accontentavamo dell'indipendenza.\r\nNon avevamo bisogno di espanderci oltre Hiroshima."
+
+msgctxt "670||||4"
+msgid "One day though, 30 years after the war..."
+msgstr "Un giorno, però, 30 anni dopo la guerra..."
+
+msgctxt "671||||4"
+msgid "Daidoji approached me and forced me to promise\r\nthat the secret would stay hidden for all of eternity."
+msgstr "Daidoji si fece avanti e mi costrinse a promettere\r\nche il segreto sarebbe rimasto nascosto per l'eternità."
+
+msgctxt "672||||4"
+msgid "At the time, those who knew the secret of Onomichi\r\nwere dwindling and getting on in years."
+msgstr "All'epoca, coloro che conoscevano il segreto di Onomichi\r\nstavano diminuendo ed erano avanti con gli anni."
+
+msgctxt "673||||4"
+msgid "I decided it best to kill them all."
+msgstr "Decisi che la cosa migliore fosse ucciderli tutti."
+
+msgctxt "674||||4"
+msgid "You did what...?"
+msgstr "Avete fatto cosa...?"
+
+msgctxt "675||||4"
+msgid "That's when I commanded Hirose to murder\r\nevery last one of our Yomei Alliance brethren."
+msgstr "Fu allora che ordinai a Hirose di uccidere\r\nfino all'ultimo dei nostri fratelli dell'Alleanza Yomei."
+
+msgctxt "676||||4"
+msgid "He was the strongest man in Hiroshima, after all."
+msgstr "Era l'uomo più forte di Hiroshima, dopotutto."
+
+msgctxt "677||||4"
+msgid "Patriarch Hirose.\r\nWhy would you ever agree to that?"
+msgstr "Patriarca Hirose.\r\nPerché mai avete accettato?"
+
+msgctxt "678||||4"
+msgid "Even if your boss gave the order...\r\nYou didn't have to agree."
+msgstr "Anche se è stato il vostro capo a dare l'ordine...\r\nNon dovevate per forza obbedire."
+
+msgctxt "679||||4"
+msgid "I doubt you'll understand this...\r\nbut I'll give it a shot."
+msgstr "Dubito che riuscirai a capirlo...\r\nma farò un tentativo."
+
+msgctxt "680||||4"
+msgid "It was after the bomb turned Hiroshima into\r\na charred wasteland. I'd just started a little street gang."
+msgstr "Fu dopo che la bomba trasformò Hiroshima in\r\nuna landa carbonizzata. Avevo appena fondato una piccola gang di strada."
+
+msgctxt "681||||4"
+msgid "I was only 14 at the time."
+msgstr "Avevo solo 14 anni all'epoca."
+
+msgctxt "682||||4"
+msgid "One day, one of my guys had a strange idea. He wanted\r\nto\r break into Iwami Shipbuilding. Steal from them."
+msgstr "Un giorno, uno dei miei ragazzi ebbe una strana idea. Voleva\r\nirrompere\r alla Iwami Shipbuilding. Derubarli."
+
+msgctxt "683||||4"
+msgid "I wasn't that interested...\r\nBut I was the leader. I had to act tough."
+msgstr "Non mi interessava più di tanto...\r\nMa ero il capo. Dovevo fare il duro."
+
+msgctxt "684||||4"
+msgid "Couldn't say no, really."
+msgstr "Non potevo dire di no, davvero."
+
+msgctxt "685||||4"
+msgid "So, the next day, we busted in. But..."
+msgstr "Così, il giorno dopo, facemmo irruzione. Ma..."
+

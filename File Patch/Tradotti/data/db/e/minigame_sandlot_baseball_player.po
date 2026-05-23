@@ -1,0 +1,652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||KRU_000||family_name"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2||WAR_000||family_name"
+msgid "Chiba"
+msgstr "Chiba"
+
+msgctxt "3||WAR_001||family_name"
+msgid "Miyakoshi"
+msgstr "Miyakoshi"
+
+msgctxt "4||WAR_002||family_name"
+msgid "Otsuka"
+msgstr "Otsuka"
+
+msgctxt "5||WAR_003||family_name"
+msgid "Shimokubo"
+msgstr "Shimokubo"
+
+msgctxt "6||WAR_004||family_name"
+msgid "Kumada"
+msgstr "Kumada"
+
+msgctxt "7||WAR_005||family_name"
+msgid "Shindo"
+msgstr "Shindo"
+
+msgctxt "8||WAR_006||family_name"
+msgid "Sakai"
+msgstr "Sakai"
+
+msgctxt "9||WAR_007||family_name"
+msgid "Iwai"
+msgstr "Iwai"
+
+msgctxt "10||WAR_008||family_name"
+msgid "Saeki"
+msgstr "Saeki"
+
+msgctxt "11||WAR_009||family_name"
+msgid "Yoshida"
+msgstr "Yoshida"
+
+msgctxt "12||WAR_010||family_name"
+msgid "Gori-san"
+msgstr "Gori-san"
+
+msgctxt "13||WAR_011||family_name"
+msgid "Hatakeyama"
+msgstr "Hatakeyama"
+
+msgctxt "14||WAR_012||family_name"
+msgid "Kase"
+msgstr "Kase"
+
+msgctxt "15||WAR_013||family_name"
+msgid "Genie"
+msgstr "Genie"
+
+msgctxt "16||WAR_014||family_name"
+msgid "Kuramoto"
+msgstr "Kuramoto"
+
+msgctxt "17||WAR_015||family_name"
+msgid "Maetani"
+msgstr "Maetani"
+
+msgctxt "18||WAR_016||family_name"
+msgid "Gen-san"
+msgstr "Gen-san"
+
+msgctxt "19||WAR_017||family_name"
+msgid "Akiyoshi"
+msgstr "Akiyoshi"
+
+msgctxt "20||WAR_018||family_name"
+msgid "Moritsuka"
+msgstr "Moritsuka"
+
+msgctxt "21||WAR_019||family_name"
+msgid "Kawamura"
+msgstr "Kawamura"
+
+msgctxt "22||WAR_020||family_name"
+msgid "Gorchov"
+msgstr "Gorchov"
+
+msgctxt "23||THU_B_000||family_name"
+msgid "Iguchi"
+msgstr "Iguchi"
+
+msgctxt "24||THU_B_001||family_name"
+msgid "Sasaki"
+msgstr "Sasaki"
+
+msgctxt "25||THU_B_002||family_name"
+msgid "Yanagitani"
+msgstr "Yanagitani"
+
+msgctxt "26||THU_B_003||family_name"
+msgid "Omichi"
+msgstr "Omichi"
+
+msgctxt "27||THU_B_004||family_name"
+msgid "Yamagoshi"
+msgstr "Yamagoshi"
+
+msgctxt "28||THU_B_005||family_name"
+msgid "Furumiya"
+msgstr "Furumiya"
+
+msgctxt "29||THU_B_006||family_name"
+msgid "Matsuhira"
+msgstr "Matsuhira"
+
+msgctxt "30||THU_B_007||family_name"
+msgid "Fukuda"
+msgstr "Fukuda"
+
+msgctxt "31||THU_B_008||family_name"
+msgid "Uchikawa"
+msgstr "Uchikawa"
+
+msgctxt "32||THU_B_009||family_name"
+msgid "Okamura"
+msgstr "Okamura"
+
+msgctxt "33||THU_B_010||family_name"
+msgid "Ashikaga"
+msgstr "Ashikaga"
+
+msgctxt "34||THU_B_011||family_name"
+msgid "Kudo"
+msgstr "Kudo"
+
+msgctxt "35||THU_A_000||family_name"
+msgid "Hamana"
+msgstr "Hamana"
+
+msgctxt "36||THU_A_001||family_name"
+msgid "Yonekura"
+msgstr "Yonekura"
+
+msgctxt "37||THU_A_002||family_name"
+msgid "Shibahara"
+msgstr "Shibahara"
+
+msgctxt "38||THU_A_003||family_name"
+msgid "Bomber"
+msgstr "Bomber"
+
+msgctxt "39||THU_A_004||family_name"
+msgid "Okubo"
+msgstr "Okubo"
+
+msgctxt "40||THU_A_005||family_name"
+msgid "Yueda"
+msgstr "Yueda"
+
+msgctxt "41||THU_A_006||family_name"
+msgid "Murasame"
+msgstr "Murasame"
+
+msgctxt "42||THU_A_007||family_name"
+msgid "Uchikura"
+msgstr "Uchikura"
+
+msgctxt "43||THU_A_008||family_name"
+msgid "Wakada"
+msgstr "Wakada"
+
+msgctxt "44||THU_A_009||family_name"
+msgid "Shinozaki"
+msgstr "Shinozaki"
+
+msgctxt "45||LEG_000||family_name"
+msgid "Nishi"
+msgstr "Nishi"
+
+msgctxt "46||LEG_001||family_name"
+msgid "Sakamoto"
+msgstr "Sakamoto"
+
+msgctxt "47||LEG_002||family_name"
+msgid "Shigenaga"
+msgstr "Shigenaga"
+
+msgctxt "48||LEG_003||family_name"
+msgid "Lu"
+msgstr "Lu"
+
+msgctxt "49||LEG_004||family_name"
+msgid "Matsui"
+msgstr "Matsui"
+
+msgctxt "50||LEG_005||family_name"
+msgid "Takabayashi"
+msgstr "Takabayashi"
+
+msgctxt "51||LEG_006||family_name"
+msgid "Shiromachi"
+msgstr "Shiromachi"
+
+msgctxt "52||LEG_007||family_name"
+msgid "Abe"
+msgstr "Abe"
+
+msgctxt "53||LEG_008||family_name"
+msgid "Oshimizu"
+msgstr "Oshimizu"
+
+msgctxt "54||LEG_009||family_name"
+msgid "Harada"
+msgstr "Harada"
+
+msgctxt "55||LEG_010||family_name"
+msgid "Shinohara"
+msgstr "Shinohara"
+
+msgctxt "56||LEG_011||family_name"
+msgid "Awada"
+msgstr "Awada"
+
+msgctxt "57||LEG_012||family_name"
+msgid "Eguchi"
+msgstr "Eguchi"
+
+msgctxt "58||LEG_013||family_name"
+msgid "Sugayama"
+msgstr "Sugayama"
+
+msgctxt "59||LEG_014||family_name"
+msgid "Yamada"
+msgstr "Yamada"
+
+msgctxt "60||LEG_015||family_name"
+msgid "Shimohara"
+msgstr "Shimohara"
+
+msgctxt "61||GOR_000||family_name"
+msgid "Hachiro"
+msgstr "Hachiro"
+
+msgctxt "62||GOR_001||family_name"
+msgid "Selby"
+msgstr "Selby"
+
+msgctxt "63||GOR_002||family_name"
+msgid "Canoe"
+msgstr "Canoe"
+
+msgctxt "64||GOR_003||family_name"
+msgid "Rodrigues"
+msgstr "Rodrigues"
+
+msgctxt "65||GOR_004||family_name"
+msgid "Barber"
+msgstr "Barber"
+
+msgctxt "66||GOR_005||family_name"
+msgid "Sauce"
+msgstr "Sauce"
+
+msgctxt "67||GOR_006||family_name"
+msgid "Nakata"
+msgstr "Nakata"
+
+msgctxt "68||GOR_007||family_name"
+msgid "Kanamizawa"
+msgstr "Kanamizawa"
+
+msgctxt "69||GOR_008||family_name"
+msgid "Joshima"
+msgstr "Joshima"
+
+msgctxt "70||GOR_009||family_name"
+msgid "Bowers"
+msgstr "Bowers"
+
+msgctxt "71||GOR_010||family_name"
+msgid "Fukutomi"
+msgstr "Fukutomi"
+
+msgctxt "72||GOR_011||family_name"
+msgid "Matsuura"
+msgstr "Matsuura"
+
+msgctxt "73||GOR_012||family_name"
+msgid "Nishimura"
+msgstr "Nishimura"
+
+msgctxt "74||GOR_013||family_name"
+msgid "Yu"
+msgstr "Yu"
+
+msgctxt "75||GOR_014||family_name"
+msgid "Zhen"
+msgstr "Zhen"
+
+msgctxt "76||GOR_015||family_name"
+msgid "Kozuka"
+msgstr "Kozuka"
+
+msgctxt "1||KRU_000||first_name"
+msgid "Kazuma"
+msgstr "Kazuma"
+
+msgctxt "2||WAR_000||first_name"
+msgid "Fuuta"
+msgstr "Fuuta"
+
+msgctxt "3||WAR_001||first_name"
+msgid "Yuichi"
+msgstr "Yuichi"
+
+msgctxt "4||WAR_002||first_name"
+msgid "Junji"
+msgstr "Junji"
+
+msgctxt "5||WAR_003||first_name"
+msgid "Toshimasa"
+msgstr "Toshimasa"
+
+msgctxt "6||WAR_004||first_name"
+msgid "Masaharu"
+msgstr "Masaharu"
+
+msgctxt "7||WAR_005||first_name"
+msgid "Ryuji"
+msgstr "Ryuji"
+
+msgctxt "8||WAR_006||first_name"
+msgid "Kentaro"
+msgstr "Kentaro"
+
+msgctxt "9||WAR_007||first_name"
+msgid "Shinjiro"
+msgstr "Shinjiro"
+
+msgctxt "10||WAR_008||first_name"
+msgid "Koshi"
+msgstr "Koshi"
+
+msgctxt "11||WAR_009||first_name"
+msgid "Naoya"
+msgstr "Naoya"
+
+msgctxt "13||WAR_011||first_name"
+msgid "Takanobu"
+msgstr "Takanobu"
+
+msgctxt "14||WAR_012||first_name"
+msgid "Haruki"
+msgstr "Haruki"
+
+msgctxt "16||WAR_014||first_name"
+msgid "Kenji"
+msgstr "Kenji"
+
+msgctxt "17||WAR_015||first_name"
+msgid "Tomokazu"
+msgstr "Tomokazu"
+
+msgctxt "19||WAR_017||first_name"
+msgid "Shunichi"
+msgstr "Shunichi"
+
+msgctxt "20||WAR_018||first_name"
+msgid "Tadahiko"
+msgstr "Tadahiko"
+
+msgctxt "21||WAR_019||first_name"
+msgid "Takao"
+msgstr "Takao"
+
+msgctxt "23||THU_B_000||first_name"
+msgid "Tadashi"
+msgstr "Tadashi"
+
+msgctxt "24||THU_B_001||first_name"
+msgid "Toshio"
+msgstr "Toshio"
+
+msgctxt "25||THU_B_002||first_name"
+msgid "Manabu"
+msgstr "Manabu"
+
+msgctxt "26||THU_B_003||first_name"
+msgid "Hisashi"
+msgstr "Hisashi"
+
+msgctxt "27||THU_B_004||first_name"
+msgid "Michihiro"
+msgstr "Michihiro"
+
+msgctxt "28||THU_B_005||first_name"
+msgid "Junya"
+msgstr "Junya"
+
+msgctxt "29||THU_B_006||first_name"
+msgid "Makoto"
+msgstr "Makoto"
+
+msgctxt "30||THU_B_007||first_name"
+msgid "Kazuhiro"
+msgstr "Kazuhiro"
+
+msgctxt "31||THU_B_008||first_name"
+msgid "Hisami"
+msgstr "Hisami"
+
+msgctxt "32||THU_B_009||first_name"
+msgid "Yoshihiko"
+msgstr "Yoshihiko"
+
+msgctxt "33||THU_B_010||first_name"
+msgid "Satoshi"
+msgstr "Satoshi"
+
+msgctxt "34||THU_B_011||first_name"
+msgid "Yuji"
+msgstr "Yuji"
+
+msgctxt "35||THU_A_000||first_name"
+msgid "Ryo"
+msgstr "Ryo"
+
+msgctxt "36||THU_A_001||first_name"
+msgid "Issei"
+msgstr "Issei"
+
+msgctxt "37||THU_A_002||first_name"
+msgid "Kosuke"
+msgstr "Kosuke"
+
+msgctxt "39||THU_A_004||first_name"
+msgid "Takatoshi"
+msgstr "Takatoshi"
+
+msgctxt "40||THU_A_005||first_name"
+msgid "Tomoki"
+msgstr "Tomoki"
+
+msgctxt "41||THU_A_006||first_name"
+msgid "Shuji"
+msgstr "Shuji"
+
+msgctxt "42||THU_A_007||first_name"
+msgid "Kenzo"
+msgstr "Kenzo"
+
+msgctxt "43||THU_A_008||first_name"
+msgid "Toshimitsu"
+msgstr "Toshimitsu"
+
+msgctxt "44||THU_A_009||first_name"
+msgid "Shoji"
+msgstr "Shoji"
+
+msgctxt "45||LEG_000||first_name"
+msgid "Toshiaki"
+msgstr "Toshiaki"
+
+msgctxt "46||LEG_001||first_name"
+msgid "Hayato"
+msgstr "Hayato"
+
+msgctxt "47||LEG_002||first_name"
+msgid "Shigenobu"
+msgstr "Shigenobu"
+
+msgctxt "48||LEG_003||first_name"
+msgid "Sadao"
+msgstr "Sadao"
+
+msgctxt "49||LEG_004||first_name"
+msgid "Hideyuki"
+msgstr "Hideyuki"
+
+msgctxt "50||LEG_005||first_name"
+msgid "Yoshiharu"
+msgstr "Yoshiharu"
+
+msgctxt "52||LEG_007||first_name"
+msgid "Shintaro"
+msgstr "Shintaro"
+
+msgctxt "53||LEG_008||first_name"
+msgid "Nobuyuki"
+msgstr "Nobuyuki"
+
+msgctxt "54||LEG_009||first_name"
+msgid "Tatsuo"
+msgstr "Tatsuo"
+
+msgctxt "55||LEG_010||first_name"
+msgid "Kazuhisa"
+msgstr "Kazuhisa"
+
+msgctxt "56||LEG_011||first_name"
+msgid "Kenichi"
+msgstr "Kenichi"
+
+msgctxt "57||LEG_012||first_name"
+msgid "Tatsuo"
+msgstr "Tatsuo"
+
+msgctxt "58||LEG_013||first_name"
+msgid "Tomonori"
+msgstr "Tomonori"
+
+msgctxt "59||LEG_014||first_name"
+msgid "Keita"
+msgstr "Keita"
+
+msgctxt "60||LEG_015||first_name"
+msgid "Kouichi"
+msgstr "Kouichi"
+
+msgctxt "67||GOR_006||first_name"
+msgid "Noritake"
+msgstr "Noritake"
+
+msgctxt "68||GOR_007||first_name"
+msgid "Tsubasa"
+msgstr "Tsubasa"
+
+msgctxt "69||GOR_008||first_name"
+msgid "Tsutomu"
+msgstr "Tsutomu"
+
+msgctxt "71||GOR_010||first_name"
+msgid "Shinsuke"
+msgstr "Shinsuke"
+
+msgctxt "72||GOR_011||first_name"
+msgid "Kazuyoshi"
+msgstr "Kazuyoshi"
+
+msgctxt "73||GOR_012||first_name"
+msgid "Takeshi"
+msgstr "Takeshi"
+
+msgctxt "74||GOR_013||first_name"
+msgid "Jian-min"
+msgstr "Jian-min"
+
+msgctxt "75||GOR_014||first_name"
+msgid "Wei-duan"
+msgstr "Wei-duan"
+
+msgctxt "76||GOR_015||first_name"
+msgid "Masao"
+msgstr "Masao"
+
+msgctxt "1||KRU_000||comment_message"
+msgid "A well-rounded player who not only specializes in outfield roles,\r\nbut can also fill in for all other positions except pitcher.\r\nHe's got a great RBI average, and he's a heavy hitter to boot.\r\nAs the glue of the team, he's the key to victory."
+msgstr "Un giocatore versatile che non solo è specializzato nel ruolo di esterno,\r\nma può anche ricoprire tutte le altre posizioni, eccetto il lanciatore.\r\nHa un'ottima media di punti battuti a casa ed è pure un potente battitore.\r\nEssendo il collante della squadra, è la chiave per la vittoria."
+
+msgctxt "2||WAR_000||comment_message"
+msgid "A fast outfielder who's always making contact with the ball.\r\nSpeed is his pride, allowing him to cover a wide range of\r\npositions. His flaw is that sometimes he buckles under\r\npressure. In hopes of overcoming his weakness, he tries to\r\ntrain more mentally than physically."
+msgstr "Un esterno veloce che riesce sempre a colpire la palla.\r\nLa velocità è il suo vanto e gli permette di coprire un'ampia varietà di\r\nposizioni. Il suo difetto è che a volte crolla sotto\r\npressione. Nella speranza di superare questa debolezza, cerca di\r\nallenarsi più mentalmente che fisicamente."
+
+msgctxt "3||WAR_001||comment_message"
+msgid "A strong starting pitcher with good control. The curveball is\r\nhis secret weapon, a throw he learned from his father as a\r\nchild. When the going gets rough, though, he does tend\r\nto get too careful. He hopes to gain more experience and\r\nthe courage to stay cool under pressure."
+msgstr "Un solido lanciatore partente con un buon controllo. La palla curva è\r\nla sua arma segreta, un lancio che ha imparato dal padre quando era\r\nbambino. Quando il gioco si fa duro, però, tende\r\na essere fin troppo prudente. Spera di acquisire più esperienza e\r\nil coraggio per mantenere la calma sotto pressione."
+
+msgctxt "4||WAR_002||comment_message"
+msgid "This catcher is also a real slugger, swinging for the fences\r\nwith every swing. His hits go flying further than anyone else\r\non the team, but his lack of control often leads to strikes.\r\nHe also tends to neglect training his catcher role because\r\nbatting is so much cooler."
+msgstr "Questo ricevitore è un vero e proprio slugger, e a ogni sventolata punta\r\ndritto alle tribune. Le sue battute volano più lontano di chiunque altro\r\nin squadra, ma la sua mancanza di controllo lo porta spesso allo strike.\r\nTende anche a trascurare l'allenamento da ricevitore perché\r\nbattere è molto più figo."
+
+msgctxt "5||WAR_003||comment_message"
+msgid "An outfielder with a good eye for the ball, giving him a high\r\non-base percentage. He handles fielding and base running\r\nflawlessly as well, making him a near perfect player."
+msgstr "Un esterno con un buon occhio per la palla, il che gli garantisce un'alta\r\npercentuale di arrivo in base. Gestisce la difesa e la corsa sulle basi\r\nin modo impeccabile, rendendolo un giocatore quasi perfetto."
+
+msgctxt "6||WAR_004||comment_message"
+msgid "A first baseman with a nice batting average. He was an honor\r\nstudent with a talent for just about everything of course,\r\nand when the bases are loaded, it's his time to shine - he'll\r\naim to bring those runners home and all the glory with it."
+msgstr "Un prima base con un'ottima media battuta. Era uno studente modello\r\ncon un talento naturale per quasi tutto, ovviamente,\r\ne quando le basi sono piene è il suo momento di brillare: punterà\r\na riportare a casa i corridori e a prendersi tutta la gloria."
+
+msgctxt "7||WAR_005||comment_message"
+msgid "Aside from his main position at third base, he excels at\r\nplaying shortstop. People tend to think of him as a fielder,\r\nbut his batting average is nothing to scoff at. A utility player\r\nwho can clean up at the top or create opportunities at the\r\nbottom, you can count on him to get it done."
+msgstr "Oltre alla sua posizione principale in terza base, eccelle come\r\ninterbase. La gente tende a considerarlo un difensore,\r\nma la sua media battuta non è da sottovalutare. Un giocatore versatile\r\nche può fare pulizia in cima o creare opportunità\r\nin fondo al lineup, puoi sempre contare su di lui."
+
+msgctxt "8||WAR_006||comment_message"
+msgid "Although he prefers second base, he's a utility infielder who\r\ncan fill in any role just fine. He tends to get swept up in the\r\nmoment, though. This is great if his team is doing well, but\r\nhe'll suffer if the team is flagging."
+msgstr "Anche se preferisce la seconda base, è un interno versatile che\r\npuò ricoprire qualsiasi ruolo senza problemi. Tuttavia, tende a farsi\r\ntrasportare dal momento. Questo è ottimo se la squadra sta andando bene,\r\nma lo farà soffrire se la squadra è in difficoltà."
+
+msgctxt "9||WAR_007||comment_message"
+msgid "A fast infielder who also excels at making contact with the\r\nball. Once he gets on base, he applies immense pressure to\r\nthe opposing team with his sheer speed. But knowing how\r\nfast he is has led to an obsession with running speed, and his\r\nteammates often need to bully him into focusing on his\r\nfielding and batting."
+msgstr "Un interno veloce che eccelle anche nel contatto con la\r\npalla. Una volta arrivato in base, applica una pressione immensa\r\nalla squadra avversaria con la sua pura velocità. Ma sapere di essere\r\ncosì veloce lo ha portato a un'ossessione per la corsa, e i suoi compagni\r\nspesso devono sgridarlo per fargli concentrare sulla difesa e la battuta."
+
+msgctxt "10||WAR_008||comment_message"
+msgid "A slugger with a batting average he can take pride in. His\r\nimmense concentration at the plate, even when pinch\r\nhitting, is second to none. Problem is, hitting is all he\r\ncares about, so his fielding and base running averages are\r\npretty subpar."
+msgstr "Uno slugger con una media battuta di cui può andare fiero. La sua\r\nimmensa concentrazione al piatto, anche quando entra come battitore\r\nemergente, non è seconda a nessuno. Il problema è che gli importa\r\nsolo di battere, quindi le sue medie in difesa e in corsa sono scadenti."
+
+msgctxt "11||WAR_009||comment_message"
+msgid "A reliable catcher who brings out the best in his pitchers.\r\nHe's a great communicator, and understanding the team's\r\nchemistry and quirks makes him ideal for support. He's\r\nnot bad at the plate, either."
+msgstr "Un ricevitore affidabile che tira fuori il meglio dai suoi lanciatori.\r\nÈ un grande comunicatore, e la comprensione della chimica e delle\r\nstranezze della squadra lo rende un supporto ideale. Inoltre,\r\nnon se la cava affatto male nel box di battuta."
+
+msgctxt "12||WAR_010||comment_message"
+msgid "The whole team counts on this slugger to step to the plate and\r\nget results, and he often does just that. He's a decent fielder\r\nas well. His downside is drinking too much at post-game parties."
+msgstr "L'intera squadra conta su questo slugger per andare al piatto e\r\nottenere risultati, ed è proprio quello che fa. È anche un difensore\r\ndiscreto. Il suo lato negativo è che beve troppo alle feste post-partita."
+
+msgctxt "13||WAR_011||comment_message"
+msgid "An outfielder who prides himself on both his power and\r\naccuracy. For whatever reason, he's especially reliable at\r\ntipping the game in his favor at the bottom of the 9th.\r\nAlthough his fielding isn't as great as his batting, he does\r\nhave some nice utility in both infield and outfield roles."
+msgstr "Un esterno che si vanta sia della sua potenza che della sua\r\nprecisione. Per qualche motivo, è particolarmente affidabile nel\r\nribaltare la partita a suo favore nella parte bassa del 9° inning.\r\nSebbene la sua difesa non sia eccezionale quanto la sua battuta,\r\noffre una buona versatilità in ruoli sia da interno che da esterno."
+
+msgctxt "14||WAR_012||comment_message"
+msgid "A lead-off hitter who loves a challenge. Don't expect any\r\ndistance from him, but if you just need a guy to get on base,\r\nhis excellent control and speed make him your man. He's\r\nthe life of the party too, keeping his team's spirits high when\r\nthey're losing with rowdy shouting and friendly smacks."
+msgstr "Un primo battitore che ama le sfide. Non aspettatevi da lui delle\r\ngrandi distanze, ma se vi serve solo un ragazzo che arrivi in base,\r\nil suo eccellente controllo e la sua velocità lo rendono l'uomo giusto.\r\nÈ anche l'anima della festa, tiene alto il morale della squadra quando\r\nstanno perdendo con urla chiassose e pacche amichevoli."
+
+msgctxt "15||WAR_013||comment_message"
+msgid "If he connects with the ball, you can expect a home run from\r\nthis herculean hitter. People often compare the speed of his\r\nswing to a ceiling fan set on kill. He loves practicing his batting,\r\nbut that's literally the only thing he'll practice."
+msgstr "Se riesce a colpire la palla, aspettatevi un fuoricampo da questo\r\nbattitore erculeo. Spesso si paragona la velocità della sua sventolata\r\na un ventilatore da soffitto impostato su \"uccidi\". Ama allenarsi in\r\nbattuta, ma è letteralmente l'unica cosa in cui si allena."
+
+msgctxt "16||WAR_014||comment_message"
+msgid "An outfielder with good speed and strong defense. He's a\r\nfielding enthusiast who traps fly balls like a vice. He's also a\r\npretty accurate hitter, but not an especially powerful one."
+msgstr "Un esterno con una buona velocità e una difesa solida. È un fanatico\r\ndella difesa che intrappola le palle al volo come una morsa.\r\nÈ anche un battitore piuttosto preciso, anche se non particolarmente potente."
+
+msgctxt "17||WAR_015||comment_message"
+msgid "An aloof batter who strives to reach baseball zen in his pursuit\r\nof the perfect swing. His dedication to this leads to friction\r\nwith his team, but at the end of the day, they acknowledge\r\nthat he's a great batter. He's also a skilled fielder and runner."
+msgstr "Un battitore solitario che cerca di raggiungere lo zen del baseball nella sua\r\nricerca della sventolata perfetta. La sua dedizione a questo porta ad attriti\r\ncon la squadra, ma alla fine tutti riconoscono che è un grandissimo\r\nbattitore. È anche un difensore e un corridore esperto."
+
+msgctxt "18||WAR_016||comment_message"
+msgid "This skilled infielder likes to show off how great he is, which\r\nsometimes leads to errors. He's also got a powerful swing, but\r\nhe tends to make intimidating poses when he gets on base that\r\ncan lead to friction with the opposing team."
+msgstr "A questo abile interno piace mettersi in mostra, cosa che a volte lo\r\nporta a commettere errori. Ha anche una sventolata potente, ma tende\r\na fare pose intimidatorie quando arriva in base, il che può\r\ncausare attriti con la squadra avversaria."
+
+msgctxt "19||WAR_017||comment_message"
+msgid "A southpaw equipped with a dangerously fast and accurate\r\nfastball. He's practically a strikeout factory when he busts\r\nout his forkballs, but his stamina wears down fast, so it's best\r\nto pull him before he starts giving up runs."
+msgstr "Un lanciatore mancino dotato di una palla veloce pericolosamente\r\nrapida e precisa. È praticamente una macchina da strikeout quando sfodera\r\nle sue forkball, ma la sua resistenza si esaurisce in fretta, quindi è meglio\r\ntirarlo fuori prima che inizi a concedere punti."
+
+msgctxt "20||WAR_018||comment_message"
+msgid "A relief specialist who's got some mean breaking balls.\r\nIt's like he was born to be a relief pitcher, excelling at\r\nlate-game entries and crumbling whenever he starts."
+msgstr "Uno specialista dei rilievi con delle palle a effetto davvero cattive.\r\nÈ come se fosse nato per essere un lanciatore di rilievo: eccelle negli\r\ningressi a fine partita e si sgretola ogniqualvolta fa il partente."
+
+msgctxt "21||WAR_019||comment_message"
+msgid "A player with the perfect pitching skill set who can even stay\r\ncool and collected under pressure. Maybe his lack of flaws\r\nis a flaw, in its own way."
+msgstr "Un giocatore con abilità di lancio perfette che riesce persino a\r\nmantenere la calma e la lucidità sotto pressione. Forse la sua\r\nmancanza di difetti è un difetto a sua volta."
+
+msgctxt "22||WAR_020||comment_message"
+msgid "An ace rookie with a wealth of hidden talents. Although he\r\nreally devotes himself to practice, he's too young to have\r\nexperienced true failure, so he starts to buckle if he lets a\r\nfew hits go. He'll be one to watch<symbol=em_dash_with_outline>will he rise to greatness,\r\nor remain saddled by his insecurities?"
+msgstr "Un fuoriclasse esordiente con una ricchezza di talenti nascosti. Sebbene\r\nsi dedichi anima e corpo agli allenamenti, è troppo giovane per aver\r\nsperimentato il vero fallimento, quindi inizia a cedere se concede qualche\r\nvalida. Sarà uno da tenere d'occhio<symbol=em_dash_with_outline>raggiungerà la grandezza,\r\no rimarrà frenato dalle sue insicurezze?"

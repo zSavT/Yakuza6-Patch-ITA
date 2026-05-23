@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hmm... Not good..."
+msgstr "Uhm... Non va bene..."
+
+msgctxt "1||||4"
+msgid "Yer darn right..."
+msgstr "Hai proprio ragione..."
+
+msgctxt "2||||4"
+msgid "Hmm..."
+msgstr "Uhm..."
+
+msgctxt "3||||4"
+msgid "Oh, Kiryu-san!"
+msgstr "Oh, Kiryu-san!"
+
+msgctxt "4||||4"
+msgid "We've been waiting fer ya, Captain!"
+msgstr "Ti stavamo aspettando, capitano!"
+
+msgctxt "5||||4"
+msgid "(Oh yeah... One thing lead to another and\r\nnow I'm a baseball team captain.)"
+msgstr "(Ah, giusto... Una cosa tira l'altra e\r\nora sono il capitano di una squadra di baseball.)"
+
+msgctxt "6||||4"
+msgid "Yo. What's the issue here?\r\nYou guys sounded kind of down."
+msgstr "Ehi. Qual è il problema?\r\nSembravate un po' giù di corda."
+
+msgctxt "7||||4"
+msgid "We wanted t'get some practice in,\r\nbut we don't even have enough guys..."
+msgstr "Volevamo fare un po' di allenamento,\r\nma non abbiamo neanche abbastanza ragazzi..."
+
+msgctxt "8||||4"
+msgid "So we were trying t'figure out a way\r\nto practice with so few players!"
+msgstr "Così stavamo cercando di trovare un modo\r\nper allenarci con così pochi giocatori!"
+
+msgctxt "9||||4"
+msgid "I-I see... I guess it's going to be problematic\r\nuntil we get some new players here, huh?"
+msgstr "C-capisco... Immagino sarà problematico\r\nfinché non recluteremo dei nuovi giocatori qui, eh?"
+
+msgctxt "10||||4"
+msgid "Right on the nose... But if we don't\r\npractice, my dream of goin' pro is..."
+msgstr "Hai centrato il punto... Ma se non ci\r\nalleniamo, il mio sogno di diventare un professionista è..."
+
+msgctxt "11||||4"
+msgid "Really? You're trying to go pro?"
+msgstr "Davvero? Stai cercando di diventare un professionista?"
+
+msgctxt "12||||4"
+msgid "Sorta..."
+msgstr "Più o meno..."
+
+msgctxt "13||||4"
+msgid "But yeah, I know all about how tough it is.\r\nI couldn't even make the minors..."
+msgstr "Ma sì, so bene quanto sia dura.\r\nNon sono riuscito a entrare nemmeno nelle minor league..."
+
+msgctxt "14||||4"
+msgid "This is the only team a terrible player\r\nlike me gots any right t'be on..."
+msgstr "Questa è l'unica squadra in cui un giocatore\r\npessimo come me ha il diritto di stare..."
+
+msgctxt "15||||4"
+msgid "But, if you're going to dream...\r\nMight as well dream big, y'know?"
+msgstr "Ma, se proprio devi sognare...\r\nTanto vale sognare in grande, no?"
+
+msgctxt "16||||4"
+msgid "Heh, that's the truth.\r\nI didn't know baseball was your thing."
+msgstr "Heh, parole sante.\r\nNon sapevo che il baseball fosse la tua passione."
+
+msgctxt "17||||4"
+msgid "Oh no no, it's nothing too big..."
+msgstr "Oh no no, non è niente di speciale..."
+
+msgctxt "18||||4"
+msgid "But back t'reality here, it sucks that we\r\ncan't practice because we're short..."
+msgstr "Ma tornando alla realtà, fa schifo non poterci\r\nallenare solo perché ci mancano giocatori..."
+
+msgctxt "19||||4"
+msgid "You're right...\r\nHow many guys we do have now?"
+msgstr "Hai ragione...\r\nQuanti ragazzi abbiamo in questo momento?"
+
+msgctxt "20||||4"
+msgid "Nine, including you...\r\nIt'd be nice t'have 'least one more guy."
+msgstr "Nove, contando te...\r\nSarebbe bello avere almeno un altro ragazzo."
+
+msgctxt "21||||4"
+msgid "We can't even substitute any players\r\nwith a roster like this..."
+msgstr "Non possiamo nemmeno fare sostituzioni\r\ncon una rosa di giocatori del genere..."
+
+msgctxt "22||||4"
+msgid "Hmm... Sounds like the first thing we\r\nhave to do then is recruit new guys."
+msgstr "Uhm... Sembra che la prima cosa da fare,\r\nallora, sia reclutare nuovi ragazzi."
+
+msgctxt "23||||4"
+msgid "But where would I even begin to look..."
+msgstr "(Ma da dove potrei cominciare a cercare...)"
+
+msgctxt "24||||4"
+msgid "You guys wouldn't happen to know\r\nanyone who'd be interested?"
+msgstr "Voi ragazzi non conoscete per caso\r\nqualcuno che potrebbe essere interessato?"
+
+msgctxt "25||||4"
+msgid "Umm... Well, maybe there's one..."
+msgstr "Uhm... Beh, forse ci sarebbe uno..."
+
+msgctxt "26||||4"
+msgid "Oh? And who'd that be?"
+msgstr "Oh? E di chi si tratterebbe?"
+
+msgctxt "27||||4"
+msgid "Well... He's uh..."
+msgstr "Beh... Lui è, uhm..."
+
+msgctxt "28||||4"
+msgid "Chiba-san, you talkin' 'bout Moritsuka-san?"
+msgstr "Chiba-san, stai parlando di Moritsuka-san?"
+
+msgctxt "29||||4"
+msgid "Moritsuka?"
+msgstr "Moritsuka?"
+
+msgctxt "30||||4"
+msgid "Yeah, he was on Chiba-san's high school team.\r\nThey were swinging fer the nationals together."
+msgstr "Sì, era nella squadra del liceo di Chiba-san.\r\nPuntavano ai nazionali insieme."
+
+msgctxt "31||||4"
+msgid "I heard he even caught a pro ball scout's eye,\r\nbut he dropped out after some trouble."
+msgstr "Ho sentito che aveva persino attirato l'attenzione di un talent\r\nscout, ma poi ha mollato dopo essersi messo nei guai."
+
+msgctxt "32||||4"
+msgid "Huh. Is that so?"
+msgstr "Capisco. È andata così?"
+
+msgctxt "33||||4"
+msgid "W-Well, yeah..."
+msgstr "B-beh, sì..."
+
+msgctxt "34||||4"
+msgid "Moritsuka-san's a pitcher,\r\nso it'd be real helpful if he joined."
+msgstr "Moritsuka-san è un lanciatore,\r\nquindi ci sarebbe di grande aiuto se si unisse a noi."
+
+msgctxt "35||||4"
+msgid "I'm the only pitcher we've got now,\r\nand I don't got the endurance t'last..."
+msgstr "In questo momento sono l'unico lanciatore che abbiamo,\r\ne non ho la resistenza necessaria per durare a lungo..."
+
+msgctxt "36||||4"
+msgid "Sounds like a second pitcher would be good then.\r\nWhere's this Moritsuka guy at, Chiba?"
+msgstr "Sembra che un secondo lanciatore ci farebbe comodo allora.\r\nDove si trova questo Moritsuka, Chiba?"
+
+msgctxt "37||||4"
+msgid "Well, if I had to bet, I'd guess he's at a liquor\r\nstore, gettin' into pointless arguments?"
+msgstr "Beh, se dovessi scommettere, direi che si trova in qualche\r\nnegozio di alcolici a cacciarsi in litigi senza senso."
+
+msgctxt "38||||4"
+msgid "A liquor store...\r\nGuess I'll have to check it out."
+msgstr "Un negozio di alcolici...\r\nImmagino che dovrò andare a dare un'occhiata."
+
+msgctxt "39||||4"
+msgid "But... I doubt it'll do much good to\r\njust walk up and have a chat."
+msgstr "Ma... dubito che serva a molto\r\nsemplicemente farsi avanti e fare una chiacchierata."
+
+msgctxt "40||||4"
+msgid "He's not... quite what he used t'be."
+msgstr "Non è più... esattamente quello di una volta."
+
+msgctxt "41||||4"
+msgid "Chiba...\r\nWhat happened between you?"
+msgstr "Chiba...\r\nCos'è successo tra di voi?"
+
+msgctxt "42||||4"
+msgid "Uh, nothing..."
+msgstr "Uhm, niente..."
+
+msgctxt "44||||4"
+msgid "It's up to you now, Captain Kiryu!"
+msgstr "Ora tocca a te, capitano Kiryu!"
+
+msgctxt "45||||4"
+msgid "Y-Yeah..."
+msgstr "G-già..."
+
+msgctxt "46||||4"
+msgid "(Whatever. I guess I'll see if I spot\r\nhim at any of the local bars...)"
+msgstr "(Pazienza. Immagino che andrò a vedere se lo\r\ntrovo in uno dei bar qui in zona...)"
+
+msgctxt "47||||4"
+msgid "Moritsuka's probably at a liquor store,\r\ndrinking or arguing about stuff..."
+msgstr "(Moritsuka probabilmente si trova in un negozio di alcolici,\r\na bere o a litigare per qualche stupidaggine...)"
+
+msgctxt "48||||4"
+msgid "Although... I don't expect jus' talking\r\nt'have any real effect on him..."
+msgstr "(Anche se... non credo che parlargli e basta\r\navrà un grande effetto su di lui...)"
+
+msgctxt "49||||4"
+msgid "Hm? A fight?"
+msgstr "(Uhm? Una rissa?)"
+
+msgctxt "50||||4"
+msgid "Damn you!"
+msgstr "Dannazione a voi!"
+
+msgctxt "51||||4"
+msgid "Piece o' shit Moritsuka!"
+msgstr "Pezzo di merda di un Moritsuka!"
+
+msgctxt "52||||4"
+msgid "Fer a guy who wanted to go pro,\r\nyou're pathetic."
+msgstr "Per essere uno che voleva diventare un professionista,\r\nsei patetico."
+
+msgctxt "53||||4"
+msgid "Take that!"
+msgstr "Prendi questo!"
+
+msgctxt "56||||4"
+msgid "Moritsuka? Isn't that the baseball player\r\nChiba mentioned?"
+msgstr "(Moritsuka? Non è il giocatore di baseball\r\ndi cui parlava Chiba?)"
+
+msgctxt "57||||4"
+msgid "If y'don't stop picking fights like\r\nthis, yer gonna end up dead!"
+msgstr "Se non la smetti di attaccare briga in questo modo,\r\nfinirai per farti ammazzare!"
+
+msgctxt "58||||4"
+msgid "You used t'be the talk o' the town...\r\nNow look at ya. You're a loser, Moritsuka."
+msgstr "Una volta eri sulla bocca di tutti...\r\nGuardati ora. Sei un fallito, Moritsuka."
+
+msgctxt "59||||4"
+msgid "We'll be back fer some more later!"
+msgstr "Torneremo per dartene ancora, più tardi!"
+
+msgctxt "61||||4"
+msgid "Damn... assholes..."
+msgstr "Maledetti... stronzi..."
+
+msgctxt "62||||4"
+msgid "He's in terrible shape...\r\nGuess I'll give this a try."
+msgstr "(È ridotto davvero male...\r\nImmagino farò un tentativo.)"
+
+msgctxt "63||||4"
+msgid "Are you Moritsuka?"
+msgstr "Sei tu Moritsuka?"
+
+msgctxt "64||||4"
+msgid "Huh...? Who the hell're you?"
+msgstr "Eh...? E tu chi diavolo saresti?"
+
+msgctxt "65||||4"
+msgid "My name's Kiryu...\r\nThere's a matter I want to discuss with you."
+msgstr "Mi chiamo Kiryu...\r\nC'è una questione di cui voglio discutere con te."
+
+msgctxt "66||||4"
+msgid "Discuss? With me?\r\nHey, you right in the head?"
+msgstr "Discutere? Con me?\r\nEhi, sei a posto con la testa?"
+
+msgctxt "67||||4"
+msgid "So, what is it y'wanna talk about?\r\nThis ol' drunk's ears're wide open."
+msgstr "Allora, di che cosa vuoi parlare?\r\nLe orecchie di questo vecchio ubriaco sono spalancate."
+
+msgctxt "68||||4"
+msgid "Thing is... I'm the captain of a baseball team\r\ncalled the Setouchi Warriors."
+msgstr "Il punto è... che sono il capitano di una squadra di baseball\r\nchiamata Setouchi Warriors."
+
+msgctxt "69||||4"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "70||||4"
+msgid "I won't mince words.\r\nWe need you on the team."
+msgstr "Non userò mezzi termini.\r\nAbbiamo bisogno di te in squadra."
+
+msgctxt "72||||4"
+msgid "Hell naw."
+msgstr "Col cazzo."
+
+msgctxt "73||||4"
+msgid "Why?\r\nYou used to play, didn't you?"
+msgstr "Perché?\r\nUna volta giocavi, non è vero?"
+
+msgctxt "74||||4"
+msgid "I don't play baseball anymore...\r\nI hate the game now."
+msgstr "Non gioco più a baseball...\r\nAdesso quello sport lo odio."
+
+msgctxt "75||||4"
+msgid "I've heard you had some sort of trouble...\r\nWhat happened?"
+msgstr "Ho saputo che hai avuto dei problemi...\r\nCos'è successo?"
+
+msgctxt "76||||4"
+msgid "Heh... Like I'd tell you any o' that."
+msgstr "Heh... Come se volessi raccontartelo."
+
+msgctxt "77||||4"
+msgid "Booze... Gimme some damn booze."
+msgstr "Alcol... Dammi un po' di stramaledetto alcol."
+
+msgctxt "78||||4"
+msgid "You're pretty drunk already.\r\nI suggest you stop."
+msgstr "Sei già abbastanza ubriaco.\r\nTi consiglio di smetterla."
+
+msgctxt "79||||4"
+msgid "Shaddup! What's yer problem, man?"
+msgstr "Chiudi il becco! Qual è il tuo problema, amico?"
+
+msgctxt "80||||4"
+msgid "I'm pissed off as it is. Lemme hit the\r\nbottle... Or I'm gonna hit you!"
+msgstr "Sono già incazzato di mio. Lasciami bere dalla\r\nbottiglia... Oppure colpirò te!"
+
+msgctxt "81||||4"
+msgid "You're a bulldozer..."
+msgstr "Sei un bulldozer..."
+
+msgctxt "82||||4"
+msgid "Thought I had ya... Especially one-on-one...\r\nAlways someone stronger though, eh?"
+msgstr "Pensavo di averti in pugno... Specialmente uno contro uno...\r\nC'è sempre qualcuno di più forte però, eh?"
+
+msgctxt "83||||4"
+msgid "You're drunk, but you can still throw a punch.\r\nI'd say you're still quite an athlete."
+msgstr "Sarai anche ubriaco, ma sai ancora tirare pugni.\r\nDirei che sei ancora un ottimo atleta."
+
+msgctxt "84||||4"
+msgid "Maybe so, but that don't\r\nmean I can still play ball..."
+msgstr "Forse, ma questo non significa\r\nche io possa ancora giocare a baseball..."
+
+msgctxt "85||||4"
+msgid "What happened?\r\nYou used to love it, didn't you?"
+msgstr "Cos'è successo?\r\nLo amavi, non è così?"
+
+msgctxt "86||||4"
+msgid "Love's an understatement.\r\nBaseball was my entire world..."
+msgstr "Amore è un eufemismo.\r\nIl baseball era il mio intero mondo..."
+
+msgctxt "88||||4"
+msgid "I see... I'd heard some kind of\r\nscandal disbanded the team..."
+msgstr "Capisco... Avevo saputo che una sorta di\r\nscandalo aveva fatto sciogliere la squadra..."
+
+msgctxt "89||||4"
+msgid "Yeah, but I didn't give up on goin' pro.\r\nEven made the minors after high school."
+msgstr "Già, ma non avevo rinunciato a diventare un professionista.\r\nEro anche entrato nelle minor league dopo il liceo."
+
+msgctxt "90||||4"
+msgid "I was determined... My team was weak,\r\nbut I practiced hard every damn day."
+msgstr "Ero determinato... La mia squadra era debole,\r\nma mi allenavo duramente ogni fottuto giorno."
+
+msgctxt "91||||4"
+msgid "Never got the team a win, but a\r\nscout noticed I had some hustle."
+msgstr "Non ho mai fatto vincere la squadra, ma uno\r\nscout notò che avevo un bel potenziale."
+
+msgctxt "92||||4"
+msgid "Even told me I'd make the draft if I kept\r\npostin' up the results I was showing."
+msgstr "Mi disse persino che sarei entrato nel draft se avessi\r\ncontinuato a mostrare risultati del genere."
+
+msgctxt "93||||4"
+msgid "Whoa... You were pretty good."
+msgstr "Caspita... Eri davvero in gamba."
+
+msgctxt "94||||4"
+msgid "But then... Some asshole on the team\r\ngoes down on an assault charge."
+msgstr "Ma poi... un pezzo di merda della squadra\r\nviene beccato per un'accusa di aggressione."
+
+msgctxt "95||||4"
+msgid "Apparently he got drunk and punched\r\na dude out in some downtime..."
+msgstr "A quanto pare si era ubriacato e aveva preso a\r\npugni un tizio in un momento di pausa..."
+
+msgctxt "96||||4"
+msgid "The entire team took the fall fer it..."
+msgstr "L'intera squadra ne pagò le conseguenze..."
+
+msgctxt "97||||4"
+msgid "Our team was barely scrapin' by to begin\r\nwith, so of course we ended up disbanding..."
+msgstr "Per cominciare, la nostra squadra tirava a malapena a campare,\r\nquindi ovviamente finimmo per scioglierci..."
+
+msgctxt "98||||4"
+msgid "I'm sorry to hear that..."
+msgstr "Mi dispiace sentirlo..."
+
+msgctxt "99||||4"
+msgid "Toppin' it all off, the guy who started the\r\nfight was a punk who never liked the game."
+msgstr "Per giunta, il tizio che aveva iniziato la rissa\r\nera un teppistello a cui non è mai fregato nulla del gioco."
+
+msgctxt "100||||4"
+msgid "My life went down the shitter...\r\nAll 'cause of that asshole..."
+msgstr "La mia vita è andata a puttane...\r\nTutto per colpa di quello stronzo..."
+
+msgctxt "102||||4"
+msgid "I've just been drinkin' my sorrows away\r\nsince then, trying t'forget baseball..."
+msgstr "Da allora ho solo affogato i miei dispiaceri\r\nnell'alcol, cercando di dimenticare il baseball..."
+
+msgctxt "103||||4"
+msgid "But in the end... I love that damn game.\r\nI'll never get it outta my head..."
+msgstr "Ma alla fine... io amo questo stramaledetto sport.\r\nNon me lo toglierò mai dalla testa..."
+
+msgctxt "104||||4"
+msgid "So please, gimme some booze?\r\nCan't y'see what a mess I am?"
+msgstr "Quindi ti prego, dammi un po' di alcol.\r\nNon vedi in che stato pietoso mi trovo?"
+
+msgctxt "105||||4"
+msgid "Moritsuka...\r\nWhat about giving baseball another chance?"
+msgstr "Moritsuka...\r\nChe ne dici di dare al baseball un'altra possibilità?"
+
+msgctxt "106||||4"
+msgid "Too late fer that now..."
+msgstr "È troppo tardi per questo..."
+
+msgctxt "107||||4"
+msgid "Moritsuka!"
+msgstr "Moritsuka!"
+
+msgctxt "108||||4"
+msgid "Hm?"
+msgstr "Uhm?"
+
+msgctxt "109||||4"
+msgid "Oh, Chiba? Been a while.\r\nY'here to laugh at me?"
+msgstr "Oh, Chiba? È passato un po'.\r\nSei qui per farti una risata alle mie spalle?"
+
+msgctxt "110||||4"
+msgid "Ya never could hit one of my pitches...\r\nBut lucky you, now y'can get your hits in..."
+msgstr "Non sei mai riuscito a colpire uno dei miei lanci...\r\nMa buon per te, ora potrai mettere a segno qualche battuta..."
+
+msgctxt "111||||4"
+msgid "Enough... Enough o' this..."
+msgstr "Basta... Smettila con questa storia..."
+
+msgctxt "112||||4"
+msgid "What'd y'say...?"
+msgstr "Cos'hai detto...?"
+
+msgctxt "113||||4"
+msgid "I was always a step behind you...\r\nMoritsuka, the school's ace pitcher..."
+msgstr "Ero sempre un passo dietro di te...\r\nMoritsuka, il lanciatore di punta della scuola..."
+
+msgctxt "114||||4"
+msgid "I played every day in hopes of hitting one of\r\nyour pitches... In hopes of being like you..."
+msgstr "Giocavo tutti i giorni nella speranza di colpire uno dei\r\ntuoi lanci... Nella speranza di essere come te..."
+
+msgctxt "115||||4"
+msgid "I envied you... You had the raw talent and\r\nphysique for baseball, and I had neither..."
+msgstr "Ti invidiavo... Tu avevi il talento naturale e il fisico\r\nper il baseball, io non avevo nessuno dei due..."
+
+msgctxt "116||||4"
+msgid "And yet... You gave up on the sport\r\njust because your team disbanded!?"
+msgstr "Eppure... hai rinunciato a questo sport solo\r\nperché la tua squadra si è sciolta!?"
+
+msgctxt "117||||4"
+msgid "Aren't there other paths to going pro?\r\nWhy'd y'give up so easily!?"
+msgstr "Non ci sono altre strade per diventare professionisti?\r\nPerché hai mollato così facilmente!?"
+
+msgctxt "118||||4"
+msgid "Chiba..."
+msgstr "Chiba..."
+
+msgctxt "119||||4"
+msgid "I'm not the only one. How many other\r\nplayers admired you enough to try harder!?"
+msgstr "E non sono l'unico. Quanti altri giocatori ti ammiravano\r\nabbastanza da mettercela tutta!?"
+
+msgctxt "120||||4"
+msgid "But then you go and quit over somethin' so lame,\r\nand drink the day away... What's your problem!?"
+msgstr "Ma poi tu prendi e molli per una scusa tanto patetica,\r\ne bevi tutto il giorno... Qual è il tuo problema!?"
+
+msgctxt "121||||4"
+msgid "You had the talent and the passion,\r\nbut y'gave up on baseball..."
+msgstr "Avevi il talento e la passione,\r\nma hai rinunciato al baseball..."
+
+msgctxt "122||||4"
+msgid "As a guy with no talent but the will to keep\r\ngoin', I can't forgive that!"
+msgstr "Da ragazzo senza talento ma con la volontà di andare\r\navanti, non posso perdonartelo!"
+
+msgctxt "124||||4"
+msgid "Chiba..."
+msgstr "Chiba..."
+
+msgctxt "125||||4"
+msgid "Moritsuka... Let's play ball again."
+msgstr "Moritsuka... Giochiamo di nuovo a baseball."
+
+msgctxt "126||||4"
+msgid "That dream's somewhere down there, right?\r\nDrinkin' isn't gonna make it come true."
+msgstr "Il sogno è ancora lì da qualche parte, giusto?\r\nBere non lo farà diventare realtà."
+
+msgctxt "127||||4"
+msgid "Let's chase the dream together again.\r\nJus' like the old days."
+msgstr "Inseguiamo di nuovo quel sogno insieme.\r\nProprio come ai vecchi tempi."
+
+msgctxt "128||||4"
+msgid "Go back to being the cool Moritsuka...\r\nThe guy I admired so much..."
+msgstr "Torna a essere il fantastico Moritsuka...\r\nIl ragazzo che ho ammirato così tanto..."
+
+msgctxt "129||||4"
+msgid "Chiba..."
+msgstr "Chiba..."
+
+msgctxt "130||||4"
+msgid "Whoa, whoa...\r\nThat wasn't like me at all."
+msgstr "Ehi, ehi...\r\nNon è stato affatto da me."
+
+msgctxt "131||||4"
+msgid "Nah... It's definitely like you.\r\nY'were always the passionate one."
+msgstr "Nah... È decisamente da te.\r\nSei sempre stato quello appassionato."
+
+msgctxt "132||||4"
+msgid "Did y'know...\r\nI always admired that?"
+msgstr "Sapevi che...\r\nL'ho sempre ammirato?"
+
+msgctxt "133||||4"
+msgid "Moritsuka..."
+msgstr "Moritsuka..."
+
+msgctxt "134||||4"
+msgid "Kiryu-san... I take back what I said."
+msgstr "Kiryu-san... Rimangio quello che ho detto."
+
+msgctxt "135||||4"
+msgid "Sign me up...\r\nI wanna be on a team with you n' Chiba."
+msgstr "Arruolami...\r\nVoglio far parte di una squadra con te e Chiba."
+
+msgctxt "136||||4"
+msgid "You sure?"
+msgstr "Sei sicuro?"
+
+msgctxt "137||||4"
+msgid "Yeah, my classmate put his heart on the table...\r\nI gotta meet him halfway, right?"
+msgstr "Sì, il mio compagno di classe ha messo il cuore in tavola...\r\nDevo andargli incontro, no?"
+
+msgctxt "138||||4"
+msgid "I haven't worked toward the life I wanted,\r\nand if I don't start, I'll just die with regrets."
+msgstr "Non ho lavorato per ottenere la vita che volevo,\r\ne se non inizio a farlo, morirò pieno di rimpianti."
+
+msgctxt "139||||4"
+msgid "So, it's time to aim for goin' pro again.\r\nBut it all starts with hittin' the field."
+msgstr "Quindi, è il momento di puntare di nuovo al professionismo.\r\nMa tutto inizia scendendo in campo."
+
+msgctxt "140||||4"
+msgid "Going pro?\r\nYou sure you can tough it out?"
+msgstr "Diventare un professionista?\r\nSei sicuro di riuscire a tenere duro?"
+
+msgctxt "141||||4"
+msgid "Yup. If you're gonna dream,\r\nya might as well dream big."
+msgstr "Già. Se proprio devi sognare,\r\ntanto vale sognare in grande."
+
+msgctxt "142||||4"
+msgid "Besides... I just really wanna play baseball.\r\nDon't make me say this stupid shit."
+msgstr "E poi... ho solo una gran voglia di giocare a baseball.\r\nNon farmi dire queste stronzate."
+
+msgctxt "143||||4"
+msgid "Heh... Nice.\r\nSee you on the field, Moritsuka."
+msgstr "Heh... Ottimo.\r\nCi vediamo in campo, Moritsuka."
+
+msgctxt "144||||4"
+msgid "Yeah!"
+msgstr "Sì!"
+
+msgctxt "145||||4"
+msgid "Nice t'be back... Chiba."
+msgstr "Bello essere tornato... Chiba."
+
+msgctxt "146||||4"
+msgid "Yeah...!"
+msgstr "Sì...!"
+
+msgctxt "147||||4"
+msgid "There, now we have ten players."
+msgstr "Ecco, ora abbiamo dieci giocatori."
+
+msgctxt "148||||4"
+msgid "Our team's gonna be so much better\r\nnow that Moritsuka joined."
+msgstr "La nostra squadra andrà molto meglio\r\nora che Moritsuka si è unito a noi."
+
+msgctxt "149||||4"
+msgid "But I've heard people all over Onomichi\r\nhave some experience with baseball."
+msgstr "Ma ho sentito che un po' ovunque a Onomichi c'è\r\ngente con dell'esperienza nel baseball."
+
+msgctxt "150||||4"
+msgid "If y'could find even a few of 'em,\r\nthat would make us even better!"
+msgstr "Se riuscissi a trovarne anche solo un paio,\r\nquesto ci renderebbe ancora più forti!"
+
+msgctxt "151||||4"
+msgid "You got it."
+msgstr "Ricevuto."
+
+msgctxt "152||||4"
+msgid "Well, well, if it ain't the Setouchi weaklings."
+msgstr "Bene, bene, se non sono le mezze cartucce dei Setouchi."
+
+msgctxt "153||||4"
+msgid "Hamana..."
+msgstr "Hamana..."
+
+msgctxt "154||||4"
+msgid "Oh, you bulkin' the team up?\r\nMoritsuka, you're joining these clowns?"
+msgstr "Oh, state rinforzando la squadra?\r\nMoritsuka, ti unisci a questi pagliacci?"
+
+msgctxt "155||||4"
+msgid "A guy with your talent?\r\nIt's wasted on this team."
+msgstr "Un ragazzo con il tuo talento?\r\nÈ sprecato in questa squadra."
+
+msgctxt "156||||4"
+msgid "Ain't yer business.\r\nY'haven't changed a bit, Hamana."
+msgstr "Non sono affari tuoi.\r\nNon sei cambiato di una virgola, Hamana."
+
+msgctxt "157||||4"
+msgid "More importantly... Our team's bigger now!\r\nIt's time to play a game!"
+msgstr "Ma passiamo alle cose importanti... La nostra squadra è più numerosa ora!\r\nÈ tempo di giocare una partita!"
+
+msgctxt "158||||4"
+msgid "You'll play us if we beat your farm team, right?"
+msgstr "Giocherai con noi se batteremo la vostra squadra riserve, giusto?"
+
+msgctxt "159||||4"
+msgid "Sure. Where you're at now,\r\nno point even gettin' dressed."
+msgstr "Certo. Ma per come siete messi ora,\r\nnon ha nemmeno senso che vi mettiate la divisa."
+
+msgctxt "160||||4"
+msgid "My boys on the farm team are gettin' bored,\r\nso maybe this'll be the spark they need."
+msgstr "I miei ragazzi della squadra riserve si stanno annoiando,\r\nquindi forse questa sarà la scintilla di cui hanno bisogno."
+
+msgctxt "161||||4"
+msgid "They may be a farm team, but when you see\r\nthe lightning, the Thunder's comin'."
+msgstr "Potranno anche essere una squadra riserve, ma quando vedi\r\nil lampo, vuol dire che sta per arrivare il Tuono (Thunder)."
+
+msgctxt "162||||4"
+msgid "Hmph... Bring it on."
+msgstr "Hmph... Fatevi sotto."
+
+msgctxt "163||||4"
+msgid "Tell your farm team to bring their best.\r\n...The Warriors are coming."
+msgstr "Dì alla tua squadra riserve di dare il meglio.\r\n...I Warriors stanno arrivando."
+
+msgctxt "164||||4"
+msgid "Heh... Bold talk.\r\nCaptain Kiryu, was it?"
+msgstr "Heh... Parole audaci.\r\nCapitano Kiryu, se non erro?"
+
+msgctxt "165||||4"
+msgid "A line like that... Hope y'don't\r\nend up eatin' them words."
+msgstr "Un'uscita del genere... Spero che\r\nnon finirai per rimangiarti le parole."
+
+msgctxt "166||||4"
+msgid "The Thunder's gonna boom...\r\nSo hide while y'can."
+msgstr "Il Tuono sta per scatenarsi...\r\nQuindi nascondetevi finché potete."
+
+msgctxt "167||||4"
+msgid "See ya'll losers on the field."
+msgstr "Ci vediamo in campo, perdenti."
+
+msgctxt "168||||4"
+msgid "That piece o' shit...\r\nHe ain't changed."
+msgstr "Quel pezzo di merda...\r\nNon è cambiato per niente."
+
+msgctxt "169||||4"
+msgid "Yup... So we gotta win here!"
+msgstr "Già... Quindi qui dobbiamo vincere per forza!"
+
+msgctxt "170||||4"
+msgid "Yeah... But that means we're gonna\r\nneed t'keep getting bigger."
+msgstr "Sì... Ma questo significa che dovremo\r\ncontinuare a rinforzarci."
+
+msgctxt "171||||4"
+msgid "If we're gonna play...\r\nWe play to win."
+msgstr "Se dobbiamo giocare...\r\nAllora giochiamo per vincere."
+
+msgctxt "172||||4"
+msgid "Agreed!"
+msgstr "D'accordo!"
+
+msgctxt "173||||4"
+msgid "Yeah!"
+msgstr "Sì!"

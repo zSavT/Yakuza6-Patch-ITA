@@ -1,0 +1,645 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Oh, it's you, Kiryu-san."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "I was thinkin' I'd head to the bar.\r\nCare to join me?"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "I wouldn't mind, but don't you\r\nneed to tend your pawn shop?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Y'could hear a pin drop in there\r\nthis time o' day, so I figure, why not?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "'Scuse me, are you t'owner of that\r\nOtafuku pawn shop?"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "What? Yeah, that's me..."
+msgstr ""
+
+msgctxt "6||||4"
+msgid "There's somethin' I need y'to buy.\r\nAre ya closed fer the day?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Ahhhh... Sure, sure.\r\nStop in and I'll appraise it fer ya."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "Oh, really? Much obliged."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "I know I invited y'out, Kiryu-san,\r\nbut y'mind waiting at my shop?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Sure, no problem."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "Th-This ring...!"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Huh? What is it?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Ah... Nothing, sorry. It's engraved,\r\nso that drops the value to 10,000 yen."
+msgstr ""
+
+msgctxt "14||||4"
+msgid "What a chintzy-ass ring.\r\nBut fine, I'll take 10k."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "What's the matter, Ando-san?\r\nYou're kind of pale."
+msgstr ""
+
+msgctxt "17||||4"
+msgid "N-No, I'm fine. Sorry, Kiryu-san. Y'mind\r\nif I let ya head to the bar by yerself?"
+msgstr ""
+
+msgctxt "18||||4"
+msgid "That's fine...\r\nDon't push yourself too hard, okay?"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Something felt off about Ando-san.\r\nI'll ask what happened at the bar."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "I better not bother Ando-san right now."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Ando-san said he'll be coming later. \r\nShould I go on inside ahead of him?"
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Yeah, I'll wait."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "No, maybe another time."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Oh, Kiryu-san! All alone?"
+msgstr ""
+
+msgctxt "25||||4"
+msgid "No, Ando-san should be coming in a bit.\r\nHe seemed really down about something..."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Oh, that sounds bad."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "We'll get to the bottom of this yet."
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Welcome, Ando-san...\r\n...Yeah, he's down in the dumps."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "C'mon, sit yerself down.\r\nWe'll hear ya out."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "Hmm, I didn't add to the conversation\r\nand it ended awkwardly."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "(They're still in the bar. I should\r\nclear my head and get back in there.)"
+msgstr ""
+
+msgctxt "33||||4"
+msgid "I hope Ando-san cheers up soon..."
+msgstr ""
+
+msgctxt "34||||4"
+msgid "I'll drop by Otafuku Pawn later."
+msgstr ""
+
+msgctxt "35||||4"
+msgid "I'm worried about Ando-san right now.\r\nI should head to Otafuku Pawn."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Hm? There's a note."
+msgstr ""
+
+msgctxt "37||||4"
+msgid "What's this? \"I'll be closing up shop for a while...\"\r\nWhat?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Hey, wait, he ain't recovered at all!"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "H-Hatakeyama-san... You all came!"
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Well, we're all worried about Ando-san too."
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Even after we were extra nice to him..."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Nah, y'were yer regular self, Mama."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Um, excuse me... Is there a shop\r\ncalled Otafuku Pawn around here?"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "Oh, that's the place right there, but\r\nthe business is closed down for now."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "What!? Closed down...\r\nBut where's Ando, the owner?"
+msgstr ""
+
+msgctxt "46||||4"
+msgid "That's what we want to know...\r\nWho are ya exactly, Miss?"
+msgstr ""
+
+msgctxt "47||||4"
+msgid "I'm... Ando's ex-wife, Koharu! Sorry for any\r\ntrouble my husb<symbol=em_dash_with_outline>my ex caused you."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Whaaaaaat!?"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Whaaaaaat!?"
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Whaaaaaat!?"
+msgstr ""
+
+msgctxt "51||||4"
+msgid "You and Ando-san...?"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Lady... Y'even realize what you've done?\r\nAndo-san is a right mess over you!"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Y'made your new man sell Ando's ring after ya\r\ncut off all communication with him!?"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "Now, now, Mama.\r\nI understand how y'feel, but..."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Sell his ring...? Um, I'm sorry,\r\nbut who are all of you to Ando...?"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "Just his drinkin' buddies."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Drinking buddies... So Ando made some\r\nfriends who genuinely care about him."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Anyway, can you tell us more about you?\r\nAnything that might help, maybe about the ring."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "Y-Yes, the truth is..."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Your bag was stolen!?"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Yes...\r\nI arrived in Onomichi just this morning."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Ando kept calling to say how he's become a\r\nnew man, and my curiosity got the better of me..."
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Ando-san, such a passionate guy."
+msgstr ""
+
+msgctxt "64||||4"
+msgid "But after I arrived in Onomichi, my bag was\r\nsnatched while I was looking for his shop..."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "And your wedding ring was in there?"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Yes. Even after I divorced Ando,\r\nI couldn't get rid of the ring..."
+msgstr ""
+
+msgctxt "67||||4"
+msgid "I've never really come to terms with leaving\r\nhim... That's why I came all this way..."
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Ando-san said he regretted making \r\nyou feel lonely in your marriage."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "He has such a strong sense of responsibility.\r\nIt made him a total workaholic..."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "He got so comfortable in that lifestyle,\r\nhe never tried to make any friends."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "To be fair, Ando-san doesn't particularly\r\nenjoy talkin' to new people at the bar either."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "I'd say he's still a tough nut t'crack."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "But to think he'd have friends who worry about\r\nhim this much... I'm still surprised."
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Wait. So yer sayin' you and Ando could\r\nmaybe rekindle yer marriage?"
+msgstr ""
+
+msgctxt "75||||4"
+msgid "O-Oh... Well, uh..."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Then the guy who sold the ring was a thief.\r\nBoth Koharu-san and Ando-san were victims here."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "Then we've gotta find Ando-san! If we miss him,\r\nhe could end up halfway 'round the world!"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Th-That's right!\r\nLet's split up and search."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "Do you want to come with me?\r\nYou probably don't know the area that well."
+msgstr ""
+
+msgctxt "80||||4"
+msgid "That's true. Sorry for the inconvenience..."
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Th-Thief!!! Help!"
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Hm? That guy..."
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Outta my way, old man!"
+msgstr ""
+
+msgctxt "84||||4"
+msgid "Heh... Looks like you hit a dead end."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "Gah...!"
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Y-You're the thief...!"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "You're the one who stole Koharu's\r\nbag and pawned off the ring."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "D-Dammit..."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "What's the matter, Kiryu-san!?\r\nI heard yelling."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Oh, Hatakeyama-san...\r\nI just caught the purse snatcher."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "What!? This guy here!?"
+msgstr ""
+
+msgctxt "92||||4"
+msgid "Yeah, but where's Ando-san?\r\nAny luck finding him?"
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Oh, yeah. The granny at the cigarette shop\r\nsaw Ando-san going toward the shore!"
+msgstr ""
+
+msgctxt "94||||4"
+msgid "The seashore... Let's go."
+msgstr ""
+
+msgctxt "95||||4"
+msgid "He's got that faraway stare...\r\nGlad we found him 'fore he went on a pilgrimage."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "Hey... Does he look like he's windin'\r\nup t'throw somethin'?"
+msgstr ""
+
+msgctxt "97||||4"
+msgid "What?"
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Oh come on, what is he gonna throw the ring\r\nand yell \"Idiot!\" like some cheesy drama?"
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Wait! Don't!"
+msgstr ""
+
+msgctxt "100||||4"
+msgid "Wha...? Koharu? Why...?"
+msgstr ""
+
+msgctxt "101||||4"
+msgid "...Thank god..."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "Koharu, y'really came all the way back...\r\n...To say goodbye."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "No, you're wrong!"
+msgstr ""
+
+msgctxt "104||||4"
+msgid "Whaddaya mean, I'm wrong?\r\nI can't take any more false hope!"
+msgstr ""
+
+msgctxt "105||||4"
+msgid "Y'ripped my heart out,\r\nsellin' that ring..."
+msgstr ""
+
+msgctxt "106||||4"
+msgid "That's not true!\r\nA thief stole the ring. This fool."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "Kiryu-san... And that customer...\r\nWhat do you mean it was stolen?"
+msgstr ""
+
+msgctxt "108||||4"
+msgid "Koharu-san took care of yer ring even\r\nafter the divorce. She was bringing it back t'ya!"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "Her bag was snatched along the way, and the \r\nthief coincidentally took the ring to your store."
+msgstr ""
+
+msgctxt "110||||4"
+msgid "I'm sorry letting my guard down\r\ncaused you so much pain..."
+msgstr ""
+
+msgctxt "111||||4"
+msgid "It was stolen... I can't believe it...\r\nWait, did he hurt ya? Are y'okay?"
+msgstr ""
+
+msgctxt "112||||4"
+msgid "I'm fine..."
+msgstr ""
+
+msgctxt "113||||4"
+msgid "I'm glad... I'm sorry I made Kiryu-san\r\nand everyone else worried, too..."
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Don't worry about it. Just a bit of bad luck.\r\nWell, maybe it was good luck in the end."
+msgstr ""
+
+msgctxt "115||||4"
+msgid "What...?"
+msgstr ""
+
+msgctxt "116||||4"
+msgid "To be honest... I just wanted to see you\r\nworking away happily before going home."
+msgstr ""
+
+msgctxt "117||||4"
+msgid "That's not what I ended up seeing...\r\nI saw something more wonderful."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "More wonderful?"
+msgstr ""
+
+msgctxt "119||||4"
+msgid "You've made some great friends.\r\nThey were all so worried about you."
+msgstr ""
+
+msgctxt "120||||4"
+msgid "I even got a scolding from the mama.\r\nShe said Ando-san deserves better."
+msgstr ""
+
+msgctxt "121||||4"
+msgid "Okay, now I'm kinda embarrassed...\r\nKyaa!"
+msgstr ""
+
+msgctxt "122||||4"
+msgid "Kyaa? Really?"
+msgstr ""
+
+msgctxt "123||||4"
+msgid "When we were in Tokyo, I was all you had.\r\nThis city changed you for the better."
+msgstr ""
+
+msgctxt "124||||4"
+msgid "Maybe it did..."
+msgstr ""
+
+msgctxt "125||||4"
+msgid "Hey, do you still have that ring?"
+msgstr ""
+
+msgctxt "126||||4"
+msgid "I'd like to buy it...\r\nIt's... a very important ring."
+msgstr ""
+
+msgctxt "127||||4"
+msgid "Huh!? Wait, wait, what!?"
+msgstr ""
+
+msgctxt "128||||4"
+msgid "I have exactly the ring you're looking for.\r\nBut I can't accept just any payment."
+msgstr ""
+
+msgctxt "129||||4"
+msgid "I'll need y'to give me half of everything y'own...\r\nWhat do you say? Let's start over?"
+msgstr ""
+
+msgctxt "130||||4"
+msgid "Honey...\r\nYes! I want to spend my life with you!"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "This is next-level cheese... I couldn't spit\r\na line like that if my life depended on it."
+msgstr ""
+
+msgctxt "132||||4"
+msgid "Women love this sappy drama stuff.\r\nLook, even Mama's cryin'."
+msgstr ""
+
+msgctxt "133||||4"
+msgid "Ah... It's so good... So good!"
+msgstr ""
+
+msgctxt "134||||4"
+msgid "Heh. Adversity's a good thing sometimes."
+msgstr ""
+
+msgctxt "135||||4"
+msgid "Whew! The purse snatcher was handed over to the\r\npolice and Ando-san got the girl. Case closed."
+msgstr ""
+
+msgctxt "136||||4"
+msgid "Thanks so much, all of you. I caused a lotta\r\nworry and y'helped me more than you know."
+msgstr ""
+
+msgctxt "137||||4"
+msgid "I want to thank everyone too. Please\r\nkeep taking care of Ando... My husband."
+msgstr ""
+
+msgctxt "138||||4"
+msgid "Yeah, of course."
+msgstr ""
+
+msgctxt "139||||4"
+msgid "Well then, this calls for some\r\ndrinks to celebrate."
+msgstr ""
+
+msgctxt "140||||4"
+msgid "Oh, good call!\r\nKiryu-san, you should come too!"
+msgstr ""
+
+msgctxt "141||||4"
+msgid "Yeah, I will."
+msgstr ""
+
+msgctxt "142||||4"
+msgid "Why don't we toss Ando-san in the air?"
+msgstr ""
+
+msgctxt "143||||4"
+msgid "You'll break my bar, so no."
+msgstr ""
+
+msgctxt "144||||4"
+msgid "She's got ya there."
+msgstr ""
+
+msgctxt "149||||4"
+msgid "Yo, Ando-san. \r\nThings going okay with your wife?"
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Yeah, thankfully. \r\nIt doesn't feel very new, though."
+msgstr ""
+
+msgctxt "151||||4"
+msgid "Hm, I see."
+msgstr ""
+
+msgctxt "152||||4"
+msgid "So Kiryu-san, I heard you were the one\r\nwho took down the purse snatcher."
+msgstr ""
+
+msgctxt "153||||4"
+msgid "Yeah, I did. What about it?"
+msgstr ""
+
+msgctxt "154||||4"
+msgid "Nah, it's just my wife won't shut up\r\nabout how cool you were that day."
+msgstr ""
+
+msgctxt "155||||4"
+msgid "O-Oh..."
+msgstr ""
+
+msgctxt "156||||4"
+msgid "I know women are more drawn to a strong\r\nman... So I got a favor t'ask, Kiryu-san."
+msgstr ""
+
+msgctxt "157||||4"
+msgid "A favor?"
+msgstr ""
+
+msgctxt "158||||4"
+msgid "I heard a rumor that you've assembled a\r\nteam to fight for the city. Is that true?"
+msgstr ""
+
+msgctxt "159||||4"
+msgid "Can I join your group? I want to be\r\nstrong enough to protect my family."
+msgstr ""
+
+msgctxt "160||||4"
+msgid "Fighting is easier said than done.\r\nAre you ready for a real fight?"
+msgstr ""
+
+msgctxt "161||||4"
+msgid "Yeah, this city means the world t'me.\r\nI'm ready to give it all for this place."
+msgstr ""
+
+msgctxt "162||||4"
+msgid "Okay, then I'll just say I look forward\r\nto fighting by your side, Ando-san!"
+msgstr ""
+
+msgctxt "163||||4"
+msgid "Yeah! Same here, Kiryu-san!"
+msgstr ""
+

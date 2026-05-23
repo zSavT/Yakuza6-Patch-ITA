@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 25
+msgctxt "Offset_0x12A30_Len_25"
+msgid "That some kind of cookie?"
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x12A70_Len_28"
+msgid "Is that related to sokubaku?"
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x12AB0_Len_22"
+msgid "I prefer... Kazumakki."
+msgstr ""
+

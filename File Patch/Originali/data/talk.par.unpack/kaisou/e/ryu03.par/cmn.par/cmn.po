@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 406
+msgctxt "Offset_0x9E0_Len_406"
+msgid "The Events of Yakuza 3\n\nShigeru Nakahara, Patriarch of the Ryudo Family, believed the resort\nwas the key to a future of prosperity for Okinawa, despite his love\nfor the quiet serenity that such a resort would destroy.\n\nKiryu's resolve to protect the home of these children showed Nakahara\nwhat would be lost in the process, and a friendship was forged.\n\nBut not more than a year later... Nakahara was shot."
+msgstr ""
+
+#. Max bytes: 434
+msgctxt "Offset_0xE10_Len_434"
+msgid "The Events of Yakuza 3\n\nKiryu could not contain his rage. Nakahara's adoptive daughter, who saw\nthe culprit, drew his face... and Kiryu could not believe his eyes.\nIt was the spitting image of Kazama, his father figure who had died\nin his arms.\n\nNot longer after, news of another shooting reached Kiryu. Daigo Dojima,\nwhom Kiryu had entrusted the future of the Tojo Clan to, was also shot\nby the mysterious assassin resembling Kazama."
+msgstr ""
+
+#. Max bytes: 553
+msgctxt "Offset_0x1200_Len_553"
+msgid "The Events of Yakuza 3\n\nAn attack on the sixth chairman was enough to stir the Tojo Clan's newly\nrisen officers to action.\n\nYoshitaka Mine, Patriarch of the Hakuho Clan.\nTsuyoshi Kanda, Third Patriarch of the Nishikiyama Family.\nGoh Hamazaki, Patriarch of the Hamazaki Family. \n\nWith Daigo out of the picture, all of them began to play their hands,\nand the ensuing clash pulled Kiryu and his new friends into the fold.\n\nKiryu was forced to return to Kamurocho to discover the truth: a foreign\narms dealing organization had lit the spark of the conflict."
+msgstr ""
+
+#. Max bytes: 447
+msgctxt "Offset_0x1720_Len_447"
+msgid "The Events of Yakuza 3\n\n\"Black Monday\" was its name, and at its head, a man named\nAndre Richardson... \n\nRyuzo Tamiya, the Japanese Minister of Defense, had allied with the\nAmerican CIA to lure out Black Monday. He'd leaked information about\nthe production of a ballistic missile system to lure Richardson to Japan...\n\nAnd he took the bait. But the CIA also sent an agent to assist in his\ncapture... Joji Kazama, younger brother of Shintaro Kazama."
+msgstr ""
+
+#. Max bytes: 439
+msgctxt "Offset_0x18E0_Len_439"
+msgid "『人中之龍３』 劇情提要\n\r\n\r\n以自稱安德列‧理查森的男人為首腦的\n軍火走私組織「黑色星期一」……\n\n現任國防大臣田宮隆造和CIA（美國中情局）聯手\n希望能夠摧毀「黑色星期一」，\n於是藉由洩漏防衛彈道飛彈的開發資訊，\n打算將理查森引至日本。\n\n而CIA為此派來日本的諜報員……\n便是風間讓二，\n也就是風間新太郎的親弟弟。"
+msgstr ""
+
+#. Max bytes: 350
+msgctxt "Offset_0x1B30_Len_350"
+msgid "The Events of Yakuza 3\n\nTamiya revealed that the missile system and the resort development were\nboth, in truth, tactics deployed to bring Black Monday to the surface.\n\nBut the CIA had its own agenda, and Tamiya had no means of controlling\nthe streak of blood left in Joji Kazama's wake. To stop him, he turned to\nKiryu.\n\nMeanwhile, back in Okinawa..."
+msgstr ""
+
+#. Max bytes: 341
+msgctxt "Offset_0x1C90_Len_341"
+msgid "『人中之龍３』 劇情提要\n\r\n\r\n沖繩的度假村開發案與擴充美軍基地等關鍵字，\n全都是與「黑色星期一」相關權謀的產物。\n\n而田宮本人則私下尋求桐生協助，\n希望他能阻止不受控制的\nCIA諜報員風間讓二。\n\n此時，沖繩的琉道一家\n眼看即將被捲入另一起事件。"
+msgstr ""
+
+#. Max bytes: 516
+msgctxt "Offset_0x1E80_Len_516"
+msgid "The Events of Yakuza 3\n\nThe Tojo Clan's struggle for dominance ended with Mine on top. He allied\nwith the Tamashiro Family of Ryukyugai, and Morning Glory orphanage could\nnot withstand their combined might. A surprise attack leveled the structure.\n\nBut Morning Glory was not the only casualty. Rikiya, the young captain\nof the Ryudo Family was shot by Tamashiro and died in Kiryu's arms.\n\nThe attack on innocent lives was too much for Kiryu to take, and he\nclenched his fists, preparing to take on Mine in earnest..."
+msgstr ""
+
+#. Max bytes: 479
+msgctxt "Offset_0x2300_Len_479"
+msgid "The Events of Yakuza 3\n\nMine had triumphed through his secret connection to Black Monday. He'd\njoined the yakuza out of admiration for their life bonds that no amount\nof money could sever.\n\nBut it was Daigo Dojima, who saw the true value in the humanity of his\nsubordinates, who became Mine's obsession. He rose through the ranks\nof the Tojo Clan with Daigo as his impetus.\n\nBut with Daigo in critical condition after the gunshot wound, Mine entered\na downward spiral of despair."
+msgstr ""
+
+#. Max bytes: 404
+msgctxt "Offset_0x2730_Len_404"
+msgid "The Events of Yakuza 3\n\nMine came to the conclusion that Daigo was in no condition to live as\nhe once had, and resolved to end his life to carry on the Tojo Clan's legacy.\n\nAlthough Kiryu and Mine had both grown up as orphans, there could not\nbe a bigger gulf in their ideologies, and the two men clashed.\n\nThe battle came to an end with Black Monday's leader, Andre Richardson,\npointing his gun at Mine."
+msgstr ""
+
+#. Max bytes: 318
+msgctxt "Offset_0x2FF0_Len_318"
+msgid "The Events of Yakuza 3\n\n\"Faced with death, you're capable of almost anything.\"\n\nThose were the words Kiryu spoke to Hamazaki in the final moments,\nand they were true of both Rikiya and Mine as well.\n\nAs he healed, Kiryu helped to piece Morning Glory back together,\nbrick by beam, looking out upon a peaceful horizon..."
+msgstr ""
+

@@ -1,0 +1,2201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Kiryu-san! Sorry to keep you waiting. <symbol=note_with_outline>"
+msgstr "Kiryu-san! Scusa per l'attesa. <symbol=note_with_outline>"
+
+msgctxt "1||||4"
+msgid "Did I keep ya waiting...?"
+msgstr "Ti ho fatto aspettare...?"
+
+msgctxt "2||||4"
+msgid "Kiryu-san!\r\nI was hopin' you'd come. <symbol=note_with_outline>"
+msgstr "Kiryu-san!\r\nSperavo che saresti venuto. <symbol=note_with_outline>"
+
+msgctxt "3||||4"
+msgid "Where should we go?"
+msgstr "Dove andiamo?"
+
+msgctxt "4||||4"
+msgid "Karaoke, huh?\r\nSounds good. <symbol=note_with_outline>"
+msgstr "Karaoke, eh?\r\nMi sembra un'ottima idea. <symbol=note_with_outline>"
+
+msgctxt "5||||4"
+msgid "I don't play darts much,\r\nso I'm looking forward to it!"
+msgstr "Non gioco molto a freccette,\r\nquindi non vedo l'ora!"
+
+msgctxt "6||||4"
+msgid "Let's get goin', shall we? <symbol=note_with_outline>"
+msgstr "Andiamo, che ne dici? <symbol=note_with_outline>"
+
+msgctxt "7||||4"
+msgid "I'm curious about what song you'll sing. <symbol=heart_with_outline>"
+msgstr "Sono curiosa di sapere cosa canterai. <symbol=heart_with_outline>"
+
+msgctxt "8||||4"
+msgid "Hmm, what should I sing today? <symbol=note_with_outline>"
+msgstr "Mhm, cosa dovrei cantare oggi? <symbol=note_with_outline>"
+
+msgctxt "9||||4"
+msgid "I'm not that great,\r\nso go easy on me. <symbol=heart_with_outline>"
+msgstr "Non sono bravissima,\r\nquindi vacci piano con me. <symbol=heart_with_outline>"
+
+msgctxt "10||||4"
+msgid "Alright!\r\nI'll do my best!"
+msgstr "D'accordo!\r\nDarò il massimo!"
+
+msgctxt "11||||4"
+msgid "W-We're just getting started,\r\nso we can still have some fun...!"
+msgstr "A-Abbiamo appena iniziato,\r\nquindi possiamo ancora divertirci...!"
+
+msgctxt "12||||4"
+msgid "That was fun. <symbol=note_with_outline>\r\nTake me again sometime, hm?"
+msgstr "È stato divertente. <symbol=note_with_outline>\r\nPortami di nuovo qualche volta, eh?"
+
+msgctxt "13||||4"
+msgid "That was so fun! <symbol=heart_with_outline> It's tough to find a\r\ncustomer who's fun out on a date!"
+msgstr "È stato divertentissimo! <symbol=heart_with_outline> È difficile trovare\r\nun cliente così spassoso a un appuntamento!"
+
+msgctxt "14||||4"
+msgid "Well, it's about that time.\r\nWanna head back to the club?"
+msgstr "Beh, si è fatta una certa.\r\nVuoi tornare al club?"
+
+msgctxt "15||||4"
+msgid "Oh, I like this song. <symbol=heart_with_outline>\r\nI want you to hear it. <symbol=note_with_outline>"
+msgstr "Oh, mi piace questa canzone. <symbol=heart_with_outline>\r\nVoglio che tu la senta. <symbol=note_with_outline>"
+
+msgctxt "16||||4"
+msgid "Oh, they have this song at karaoke? <symbol=note_with_outline>\r\nThat settles what I'm singin' then."
+msgstr "Oh, c'è questa canzone al karaoke? <symbol=note_with_outline>\r\nAllora ho già deciso cosa cantare."
+
+msgctxt "17||||4"
+msgid "Hm... I can't seem to get into it today..."
+msgstr "Mhm... Oggi non riesco proprio a prenderci la mano..."
+
+msgctxt "18||||4"
+msgid "Kiryu-san!\r\nIt's hard to sing with you like that..."
+msgstr "Kiryu-san!\r\nÈ difficile cantare con te che fai così..."
+
+msgctxt "19||||4"
+msgid "That was fun!\r\nYou've got this mood thing down. <symbol=heart_with_outline>"
+msgstr "È stato divertente!\r\nSai proprio come creare l'atmosfera. <symbol=heart_with_outline>"
+
+msgctxt "20||||4"
+msgid "That felt really good! <symbol=heart_with_outline>\r\nYou're so good at settin' the mood."
+msgstr "È stato fantastico! <symbol=heart_with_outline>\r\nSei bravissimo a creare la giusta atmosfera."
+
+msgctxt "21||||4"
+msgid "Hey, you're gonna sing too, aren't you? <symbol=note_with_outline>"
+msgstr "Ehi, canterai anche tu, vero? <symbol=note_with_outline>"
+
+msgctxt "22||||4"
+msgid "Aww... I wanted to hear you sing..."
+msgstr "Aww... Volevo sentirti cantare..."
+
+msgctxt "23||||4"
+msgid "Well, um... I got what you were going for!"
+msgstr "Beh, ehm... Ho capito cosa stavi cercando di fare!"
+
+msgctxt "24||||4"
+msgid "Your song was good, too. <symbol=note_with_outline>\r\nI was totally absorbed in it. <symbol=heart_with_outline>"
+msgstr "Anche la tua canzone è stata bella. <symbol=note_with_outline>\r\nEro totalmente rapita. <symbol=heart_with_outline>"
+
+msgctxt "25||||4"
+msgid "You're such a good singer!\r\nI could listen to you forever... <symbol=heart_with_outline>"
+msgstr "Sei proprio un bravo cantante!\r\nPotrei ascoltarti all'infinito... <symbol=heart_with_outline>"
+
+msgctxt "26||||4"
+msgid "Huh!? Really?\r\nDon't go too hard, okay?"
+msgstr "Eh!? Davvero?\r\nNon esagerare, okay?"
+
+msgctxt "27||||4"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "28||||4"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "29||||4"
+msgid "Oh, that's tasty. <symbol=note_with_outline>\r\nI love this. <symbol=note_with_outline>"
+msgstr "Oh, è buonissimo. <symbol=note_with_outline>\r\nLo adoro. <symbol=note_with_outline>"
+
+msgctxt "30||||4"
+msgid "Excuse me."
+msgstr "Con permesso."
+
+msgctxt "31||||4"
+msgid "Nice to meet you.\r\nI'm Riona."
+msgstr "Piacere di conoscerti.\r\nSono Riona."
+
+msgctxt "32||||4"
+msgid "May I ask your name, sir?"
+msgstr "Posso chiederti come ti chiami?"
+
+msgctxt "33||||4"
+msgid "Right. I'm Kiryu."
+msgstr "Certo. Sono Kiryu."
+
+msgctxt "34||||4"
+msgid "Kiryu-san, then? I'm looking forward to\r\nspending some time with ya today."
+msgstr "Kiryu-san, allora? Non vedo l'ora di\r\npassare un po' di tempo con te oggi."
+
+msgctxt "35||||4"
+msgid "Yeah. Me too."
+msgstr "Sì. Anche per me."
+
+msgctxt "36||||4"
+msgid "Thanks, Kiryu-san. Today was fun."
+msgstr "Grazie, Kiryu-san. Oggi è stato divertente."
+
+msgctxt "37||||4"
+msgid "If you'd like, come back again."
+msgstr "Se ti va, torna a trovarmi."
+
+msgctxt "38||||4"
+msgid "Yeah, I'll be back."
+msgstr "Sì, tornerò."
+
+msgctxt "39||||4"
+msgid "I'll be looking forward to it."
+msgstr "Non vedo l'ora."
+
+msgctxt "40||||4"
+msgid "Come on in, Kiryu-san.\r\nI'm so glad you came back."
+msgstr "Accomodati, Kiryu-san.\r\nSono così felice che tu sia tornato."
+
+msgctxt "41||||4"
+msgid "Come on in, Kiryu-san.\r\nI've been waiting for you...<symbol=heart_with_outline>"
+msgstr "Accomodati, Kiryu-san.\r\nTi stavo aspettando...<symbol=heart_with_outline>"
+
+msgctxt "42||||4"
+msgid "Welcome back, Kiryu-san.\r\nI'm so happy you're here. <symbol=heart_with_outline>"
+msgstr "Bentornato, Kiryu-san.\r\nSono così felice che tu sia qui. <symbol=heart_with_outline>"
+
+msgctxt "43||||4"
+msgid "I'm glad we got to spend more time\r\nthan usual with each other today. <symbol=heart_with_outline>"
+msgstr "Sono felice che abbiamo potuto passare più tempo\r\ndel solito insieme oggi. <symbol=heart_with_outline>"
+
+msgctxt "44||||4"
+msgid "Come on over here."
+msgstr "Vieni qui."
+
+msgctxt "45||||4"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "46||||4"
+msgid "Thanks for coming in today.\r\nSee you soon?"
+msgstr "Grazie per essere venuto oggi.\r\nCi vediamo presto?"
+
+msgctxt "47||||4"
+msgid "Thanks for comin' today. <symbol=note_with_outline>\r\nYou'd better come back, okay? <symbol=heart_with_outline>"
+msgstr "Grazie per essere venuto oggi. <symbol=note_with_outline>\r\nVedi di tornare, okay? <symbol=heart_with_outline>"
+
+msgctxt "48||||4"
+msgid "Thanks. <symbol=note_with_outline>\r\nI want to see you again soon...<symbol=heart_with_outline>"
+msgstr "Grazie. <symbol=note_with_outline>\r\nVoglio rivederti presto...<symbol=heart_with_outline>"
+
+msgctxt "49||||4"
+msgid "See you later, Kiryu-san. <symbol=heart_with_outline>"
+msgstr "A più tardi, Kiryu-san. <symbol=heart_with_outline>"
+
+msgctxt "50||||4"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "51||||4"
+msgid "Oh, Kiryu-san.\r\nCan I give ya something?"
+msgstr "Oh, Kiryu-san.\r\nPosso darti una cosa?"
+
+msgctxt "52||||4"
+msgid "This is my phone number.\r\nCall me sometime, okay? <symbol=heart_with_outline>"
+msgstr "Questo è il mio numero di telefono.\r\nChiamami qualche volta, okay? <symbol=heart_with_outline>"
+
+msgctxt "53||||4"
+msgid "It's almost time.\r\nWhat do you want to do?"
+msgstr "È quasi ora.\r\nCosa vuoi fare?"
+
+msgctxt "54||||4"
+msgid "It's time to go...\r\nI was having so much fun, time just flew on by."
+msgstr "È ora di andare...\r\nMi stavo divertendo così tanto che il tempo è volato."
+
+msgctxt "55||||4"
+msgid "Thanks, Kiryu-san. <symbol=heart_with_outline>"
+msgstr "Grazie, Kiryu-san. <symbol=heart_with_outline>"
+
+msgctxt "56||||4"
+msgid "Thanks for today."
+msgstr "Grazie per oggi."
+
+msgctxt "57||||4"
+msgid "Oh, I see."
+msgstr "Oh, capisco."
+
+msgctxt "58||||4"
+msgid "Oh, that's true!"
+msgstr "Oh, è vero!"
+
+msgctxt "59||||4"
+msgid "Yeah, I think so too."
+msgstr "Sì, lo penso anch'io."
+
+msgctxt "60||||4"
+msgid "Yeah! You're right!"
+msgstr "Sì! Hai ragione!"
+
+msgctxt "61||||4"
+msgid "Huh? Really?"
+msgstr "Eh? Davvero?"
+
+msgctxt "62||||4"
+msgid "I don't think so..."
+msgstr "Non credo..."
+
+msgctxt "63||||4"
+msgid "I don't think that's right..."
+msgstr "Non credo sia giusto..."
+
+msgctxt "64||||4"
+msgid "Hm... I wonder."
+msgstr "Mhm... Chissà."
+
+msgctxt "65||||4"
+msgid "Oh, Kiryu-san."
+msgstr "Oh, Kiryu-san."
+
+msgctxt "66||||4"
+msgid "I wonder..."
+msgstr "Chissà..."
+
+msgctxt "67||||4"
+msgid "Wow, really?"
+msgstr "Wow, sul serio?"
+
+msgctxt "68||||4"
+msgid "Um, how was it?"
+msgstr "Ehm, com'è andata?"
+
+msgctxt "69||||4"
+msgid "It seems like you've been doing this for\r\na while. Do you have any tricks of the trade?"
+msgstr "Sembra che tu faccia questo lavoro da un\r\npo'. Hai qualche trucco del mestiere?"
+
+msgctxt "70||||4"
+msgid "I wouldn't say I have any tricks...\r\nBut I do try to be an upstanding hostess."
+msgstr "Non direi di avere dei trucchi...\r\nMa cerco di essere una hostess retta."
+
+msgctxt "71||||4"
+msgid "An upstanding hostess?"
+msgstr "Una hostess retta?"
+
+msgctxt "72||||4"
+msgid "Yeah. I try not to make my customers spend any\r\nmore than they have to, and I don't push the drinks."
+msgstr "Sì. Cerco di non far spendere ai clienti più del\r\nnecessario, e non insisto per farli bere."
+
+msgctxt "73||||4"
+msgid "Is that okay, though? Isn't the hostess trade\r\nall about making customers spend big?"
+msgstr "Ma va bene così? Il mestiere della hostess non consiste\r\nnel far spendere un sacco di soldi ai clienti?"
+
+msgctxt "74||||4"
+msgid "That's true enough, but...\r\nI can't really get behind that."
+msgstr "Questo è vero, ma...\r\nnon riesco proprio ad appoggiarlo."
+
+msgctxt "75||||4"
+msgid "Not every customer's gonna be loaded, and if I\r\npushed them to spend, they'd end up suffering..."
+msgstr "Non tutti i clienti sono pieni di soldi, e se li\r\nspingessi a spendere, finirebbero per soffrirne..."
+
+msgctxt "76||||4"
+msgid "I don't think of my job as making them pay, but\r\nmore of givin' them the service they pay for."
+msgstr "Non vedo il mio lavoro come un modo per farli pagare, ma\r\npiuttosto come offrire loro il servizio che hanno pagato."
+
+msgctxt "77||||4"
+msgid "If they go home satisfied, they'll request me\r\nagain, and everyone's happy, aren't they?"
+msgstr "Se tornano a casa soddisfatti, mi richiederanno\r\ndi nuovo, e tutti saranno felici, no?"
+
+msgctxt "78||||4"
+msgid "But sales are everything to a hostess, aren't\r\nthey? Aren't you being too considerate of them?"
+msgstr "Ma gli incassi sono tutto per una hostess, non\r\nè vero? Non sei un po' troppo premurosa verso di loro?"
+
+msgctxt "79||||4"
+msgid "I get that a lot.\r\nBut, I just want my customers to be happy."
+msgstr "Me lo dicono spesso.\r\nMa io voglio solo che i miei clienti siano felici."
+
+msgctxt "80||||4"
+msgid "So, I don't want them to stretch themselves so thin.\r\nI want them here, and if they do, they'll stop coming."
+msgstr "Quindi, non voglio che si prosciughino le tasche.\r\nLi voglio qui, e se lo facessero, smetterebbero di venire."
+
+msgctxt "81||||4"
+msgid "I get it. I guess if you're looking at it in the\r\nlong term, that's not such a bad strategy."
+msgstr "Capisco. Immagino che guardando la cosa a lungo\r\ntermine, non sia una cattiva strategia."
+
+msgctxt "82||||4"
+msgid "Yeah. And the same goes for you, Kiryu-san.\r\nSo come back and see me again, okay?"
+msgstr "Già. E lo stesso vale per te, Kiryu-san.\r\nQuindi torna a trovarmi, okay?"
+
+msgctxt "83||||4"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "84||||4"
+msgid "I think that's great.\r\nYou're really thinking about your customers."
+msgstr "Penso sia fantastico.\r\nPensi davvero al bene dei tuoi clienti."
+
+msgctxt "85||||4"
+msgid "Kiryu-san... That's wonderful.\r\nThank you."
+msgstr "Kiryu-san... Che parole meravigliose.\r\nGrazie."
+
+msgctxt "86||||4"
+msgid "If I can just relax and have fun here without\r\nworrying about money, I'm more likely to return."
+msgstr "Se posso rilassarmi e divertirmi qui senza dovermi\r\npreoccupare dei soldi, sono più propenso a tornare."
+
+msgctxt "87||||4"
+msgid "Glad to hear it. Havin' you back\r\nhere is what would make me happiest."
+msgstr "Mi fa piacere sentirlo. Riaverti qui\r\nè ciò che mi renderebbe più felice."
+
+msgctxt "88||||4"
+msgid "I'm not exactly rich, myself.\r\nI'm glad you think that way."
+msgstr "Anch'io non sono esattamente ricco.\r\nSono felice che tu la pensi in questo modo."
+
+msgctxt "89||||4"
+msgid "If I can just relax and have fun here without\r\nworrying about money, I'm more likely to come back."
+msgstr "Se posso rilassarmi e divertirmi qui senza dovermi\r\npreoccupare dei soldi, sono più propenso a tornare."
+
+msgctxt "90||||4"
+msgid "Glad to hear it. Havin' you back\r\nhere is what would make me happiest."
+msgstr "Mi fa piacere sentirlo. Riaverti qui\r\nè ciò che mi renderebbe più felice."
+
+msgctxt "91||||4"
+msgid "All the hostesses at this club seem really good\r\nat the job. Are you guys given training?"
+msgstr "Tutte le hostess in questo club sembrano davvero\r\nbrave nel loro lavoro. Vi fanno fare addestramento?"
+
+msgctxt "92||||4"
+msgid "Not from the club... but I do give some\r\ninstruction to the younger girls myself."
+msgstr "Non dal club... ma io stessa do un po'\r\ndi istruzioni alle ragazze più giovani."
+
+msgctxt "93||||4"
+msgid "Oh, really? Well, you've certainly got the\r\nexperience. Did your boss ask you to?"
+msgstr "Oh, davvero? Beh, l'esperienza non ti manca di\r\ncerto. È stato il tuo capo a chiedertelo?"
+
+msgctxt "94||||4"
+msgid "Nah, I do it just to do it.\r\nI try to point stuff out when I notice it."
+msgstr "Macché, lo faccio e basta.\r\nCerco di far notare le cose quando me ne accorgo."
+
+msgctxt "95||||4"
+msgid "I see. Well, it seems like it's working."
+msgstr "Capisco. Beh, sembra proprio che funzioni."
+
+msgctxt "96||||4"
+msgid "Thanks. But, I'm sure some of them\r\nthink it's just a nuisance."
+msgstr "Grazie. Però, sono sicura che alcune di loro\r\npensino solo che io sia una seccatura."
+
+msgctxt "97||||4"
+msgid "Does it bother you to be thought of that way?"
+msgstr "Ti dà fastidio essere vista in questo modo?"
+
+msgctxt "98||||4"
+msgid "It does... but I'm okay with it if it\r\nmeans it helps them grow."
+msgstr "Sì... ma mi va bene così se\r\nquesto le aiuta a crescere."
+
+msgctxt "99||||4"
+msgid "That's mature of you. I think that'll get\r\nthrough to them at some point or another."
+msgstr "È una cosa molto matura da parte tua. Penso che prima\r\no poi riuscirai a farglielo capire in un modo o nell'altro."
+
+msgctxt "100||||4"
+msgid "I hope so."
+msgstr "Lo spero."
+
+msgctxt "101||||4"
+msgid "Wow, you've got real confidence. Don't you worry\r\nabout your rivals surpassing you at this?"
+msgstr "Wow, hai una gran bella sicurezza. Non ti preoccupa\r\nil fatto che le tue rivali ti possano superare?"
+
+msgctxt "102||||4"
+msgid "Well, it's in the club's best interest\r\nfor the hostesses to improve."
+msgstr "Beh, è nel migliore interesse del club\r\nche le hostess migliorino."
+
+msgctxt "103||||4"
+msgid "Besides, having rivals gets me fired up.\r\nI may not seem it, but I'm super competitive."
+msgstr "Inoltre, avere delle rivali mi carica a molla.\r\nPotrà non sembrare, ma sono iper-competitiva."
+
+msgctxt "104||||4"
+msgid "I figured as much. With how you think about\r\nthe business, I'm sure you're a tough opponent."
+msgstr "Lo immaginavo. Considerando la tua mentalità sugli\r\naffari, sono certo che sei un'avversaria tosta."
+
+msgctxt "105||||4"
+msgid "Kiryu-san... Thank you. You're the only\r\none that's ever had that kinda praise for me."
+msgstr "Kiryu-san... Grazie. Sei l'unico che mi\r\nabbia mai rivolto un complimento del genere."
+
+msgctxt "106||||4"
+msgid "I'm sure that must rub\r\nsome people the wrong way."
+msgstr "Sono sicuro che questo darà\r\nsui nervi a un bel po' di gente."
+
+msgctxt "107||||4"
+msgid "Come on, don't say that.\r\nBut some of them probably do feel that way."
+msgstr "Andiamo, non dire così.\r\nPerò è probabile che qualcuna si senta proprio così."
+
+msgctxt "108||||4"
+msgid "Doesn't it bother you to be thought of that way?"
+msgstr "Non ti dà fastidio essere vista in questo modo?"
+
+msgctxt "109||||4"
+msgid "It does... but I'm okay with it if it\r\nmeans it helps them grow."
+msgstr "Sì... ma mi va bene così se\r\nquesto le aiuta a crescere."
+
+msgctxt "110||||4"
+msgid "That's mature of you. I think that'll get\r\nthrough to them, at some point or another."
+msgstr "È una cosa molto matura da parte tua. Penso che prima\r\no poi riuscirai a farglielo capire, in un modo o nell'altro."
+
+msgctxt "111||||4"
+msgid "I sure hope so."
+msgstr "Lo spero davvero."
+
+msgctxt "112||||4"
+msgid "Hmm..."
+msgstr "Uhm..."
+
+msgctxt "113||||4"
+msgid "What's wrong?\r\nSomething happen?"
+msgstr "Cosa c'è che non va?\r\nÈ successo qualcosa?"
+
+msgctxt "114||||4"
+msgid "Actually, one of my regulars was asking me how long\r\nI'll stay a hostess, and it got me thinkin'."
+msgstr "In realtà, un mio cliente fisso mi ha chiesto per quanto ancora\r\nfarò la hostess, e la cosa mi ha fatto riflettere."
+
+msgctxt "115||||4"
+msgid "Hm. It's not the kind of job you can do forever,\r\nsure. But it must be tough to know when to quit."
+msgstr "Mhm. Di sicuro non è il tipo di lavoro che puoi fare per\r\nsempre. Ma dev'essere difficile capire quando mollare."
+
+msgctxt "116||||4"
+msgid "What would you do, Kiryu-san?\r\nWhen do you think it's time to quit?"
+msgstr "Tu cosa faresti, Kiryu-san?\r\nQuand'è che pensi sia il momento giusto per mollare?"
+
+msgctxt "117||||4"
+msgid "When you feel you've\r\nreached your limit, maybe."
+msgstr "Quando senti di aver\r\nraggiunto il tuo limite, forse."
+
+msgctxt "118||||4"
+msgid "I see. My limit, huh?\r\nBut what's the limit for this job, I wonder..."
+msgstr "Capisco. Il mio limite, eh?\r\nMa quale sarà mai il limite per questo lavoro, mi chiedo..."
+
+msgctxt "119||||4"
+msgid "Maybe, if you find it difficult to speak clearly,\r\nor you can't sit too long without hip pain. Maybe?"
+msgstr "Forse, quando fai fatica a parlare chiaramente, o\r\nnon riesci a stare seduta a lungo senza mal di schiena. Forse?"
+
+msgctxt "120||||4"
+msgid "That would most certainly be a limit,\r\nalright. I'd quit for sure if that happened."
+msgstr "Questo sarebbe sicuramente un limite,\r\nd'accordo. Mollerei di sicuro in quel caso."
+
+msgctxt "121||||4"
+msgid "Then it sounds like you won't be\r\nretiring any time soon."
+msgstr "Allora non sembra che tu abbia intenzione\r\ndi andare in pensione tanto presto."
+
+msgctxt "122||||4"
+msgid "Maybe when the younger girls start getting a\r\nhandle on it and you're sure it's in good hands."
+msgstr "Forse quando le ragazze più giovani avranno preso confidenza\r\ncon il lavoro e sarai certa che il locale sia in buone mani."
+
+msgctxt "123||||4"
+msgid "You think so too, Kiryu-san?\r\nGreat minds think alike!"
+msgstr "Lo pensi anche tu, Kiryu-san?\r\nLe grandi menti pensano allo stesso modo!"
+
+msgctxt "124||||4"
+msgid "I feel like I could leave satisfied if\r\nthe girls I'm helping out can surpass me."
+msgstr "Sento che potrei andarmene soddisfatta se\r\nle ragazze che sto aiutando riuscissero a superarmi."
+
+msgctxt "125||||4"
+msgid "Nice. Although, it's a little too early for that.\r\nI still need you to be here for me."
+msgstr "Bello. Anche se è un po' troppo presto per questo.\r\nHo ancora bisogno che tu sia qui per me."
+
+msgctxt "126||||4"
+msgid "I know. I'm not getting surpassed without a fight.\r\nI'll keep working at it, okay, Kiryu-san? <symbol=note_with_outline>"
+msgstr "Lo so. E di sicuro non mi farò superare senza combattere.\r\nContinuerò a impegnarmi, d'accordo, Kiryu-san? <symbol=note_with_outline>"
+
+msgctxt "127||||4"
+msgid "Maybe when you get tired of it. When you do,\r\nit'll be clear that it's time to quit."
+msgstr "Forse quando ti stancherai di farlo. Quando succederà,\r\nsarà il segno lampante che è arrivato il momento di mollare."
+
+msgctxt "128||||4"
+msgid "I-I see... That's true."
+msgstr "C-Capisco... Questo è vero."
+
+msgctxt "129||||4"
+msgid "Have you ever felt tired of doing this?"
+msgstr "Ti sei mai sentita stanca di fare questo lavoro?"
+
+msgctxt "130||||4"
+msgid "Not yet."
+msgstr "Non ancora."
+
+msgctxt "131||||4"
+msgid "Then you should keep doing it. Don't worry about\r\nwhat other people think. It's your choice to make."
+msgstr "Allora dovresti continuare a farlo. Non preoccuparti\r\ndi ciò che pensano gli altri. È una tua scelta."
+
+msgctxt "132||||4"
+msgid "Kiryu-san, that's exactly right.\r\nI think I should be more honest with myself."
+msgstr "Kiryu-san, è proprio così.\r\nCredo che dovrei essere più onesta con me stessa."
+
+msgctxt "133||||4"
+msgid "Sounds like you're getting\r\neven more popular recently."
+msgstr "Sembra che ultimamente tu stia\r\ndiventando ancora più popolare."
+
+msgctxt "134||||4"
+msgid "Thanks to customers like you, I get a lot of\r\nrequests. See, being an upstanding hostess works!"
+msgstr "Grazie a clienti come te, ho tantissime richieste.\r\nVedi? Essere una hostess retta funziona!"
+
+msgctxt "135||||4"
+msgid "So that's where being considerate takes you, huh?\r\nBut isn't it tough being requested so often?"
+msgstr "Quindi è qui che ti porta l'essere premurosa, eh?\r\nMa non è difficile essere richiesta così spesso?"
+
+msgctxt "136||||4"
+msgid "Hmm... In my case, it's an issue of volume,\r\nso... I am pretty busy."
+msgstr "Uhm... Nel mio caso, è una questione di quantità,\r\nquindi... Sono davvero molto indaffarata."
+
+msgctxt "137||||4"
+msgid "I don't like taking time off when there's someone\r\nrequesting me, so I haven't had much of a break..."
+msgstr "Non mi piace prendermi giorni liberi quando c'è qualcuno\r\nche mi richiede, quindi non mi sono riposata molto..."
+
+msgctxt "138||||4"
+msgid "(She does look a little tired... Makes me worry.\r\nWhat can I say to her?)"
+msgstr "(In effetti sembra un po' stanca... La cosa mi\r\npreoccupa. Cosa potrei dirle?)"
+
+msgctxt "139||||4"
+msgid "Riona. You need to get some rest."
+msgstr "Riona. Hai bisogno di riposare un po'."
+
+msgctxt "140||||4"
+msgid "Huh? I'm fine.\r\nI'm tougher than I look."
+msgstr "Eh? Sto bene.\r\nSono più tosta di quanto sembri."
+
+msgctxt "141||||4"
+msgid "You have a strong sense of responsibility, so I think\r\nthat's translated into a bad habit of overworking yourself."
+msgstr "Hai un forte senso di responsabilità, e credo si sia\r\ntradotto nella pessima abitudine di lavorare troppo."
+
+msgctxt "142||||4"
+msgid "If you work yourself sick, the customers who've\r\nbeen requesting you might feel responsible."
+msgstr "Se ti ammali per il troppo lavoro, i clienti che ti\r\nhanno richiesta potrebbero sentirsi in colpa."
+
+msgctxt "143||||4"
+msgid "If this was really about the customers, wouldn't\r\ntaking some time off be in their best interest?"
+msgstr "Se fosse davvero per i clienti, prenderti un\r\npo' di tempo libero non sarebbe nel loro interesse?"
+
+msgctxt "144||||4"
+msgid "Kiryu-san... You're right.\r\nMaybe I wasn't thinking."
+msgstr "Kiryu-san... Hai ragione.\r\nForse non ci stavo pensando."
+
+msgctxt "145||||4"
+msgid "You really are a great guy.\r\nYou seem to see everything."
+msgstr "Sei davvero un uomo fantastico.\r\nSembri in grado di capire tutto."
+
+msgctxt "146||||4"
+msgid "Not at all."
+msgstr "Per niente."
+
+msgctxt "147||||4"
+msgid "No, it's true. You know me better than anyone.\r\nI value your advice."
+msgstr "No, è vero. Mi conosci meglio di chiunque altro.\r\nFaccio tesoro dei tuoi consigli."
+
+msgctxt "148||||4"
+msgid "Then, maybe I should\r\nhold off on requesting you."
+msgstr "Allora, forse non dovrei farti\r\ncosì tante richieste io stesso."
+
+msgctxt "149||||4"
+msgid "Huh? Why?"
+msgstr "Eh? Perché?"
+
+msgctxt "150||||4"
+msgid "I'm just another request in your pile. If you end\r\nup getting sick, then it's all been for nothing."
+msgstr "Io non sono che un'altra richiesta da parte tua. Se finisci\r\nper ammalarti, allora non sarà servito a nulla."
+
+msgctxt "151||||4"
+msgid "Kiryu-san... Thanks for worryin' about me."
+msgstr "Kiryu-san... Grazie per preoccuparti per me."
+
+msgctxt "152||||4"
+msgid "You're right, I might be working a\r\nlittle too hard recently."
+msgstr "Hai ragione, potrei aver lavorato\r\nun po' troppo duramente di recente."
+
+msgctxt "153||||4"
+msgid "If you work yourself sick, the customers who've\r\nbeen requesting you might feel responsible."
+msgstr "Se ti ammali per il troppo lavoro, i clienti che ti\r\nhanno richiesta potrebbero sentirsi in colpa."
+
+msgctxt "154||||4"
+msgid "If this was really about the customers, wouldn't\r\ntaking some time off be in their best interest?"
+msgstr "Se fosse davvero per i clienti, prenderti un\r\npo' di tempo libero non sarebbe nel loro interesse?"
+
+msgctxt "155||||4"
+msgid "You're right...\r\nYou see everything, don't you?"
+msgstr "Hai ragione...\r\nTu capisci tutto, non è vero?"
+
+msgctxt "156||||4"
+msgid "I'll try to get some rest.\r\nSo... come back and see me, okay?"
+msgstr "Cercherò di riposarmi un po'.\r\nQuindi... torna a trovarmi, okay?"
+
+msgctxt "157||||4"
+msgid "If I couldn't see you anymore, I'd..."
+msgstr "Se non potessi più vederti, io..."
+
+msgctxt "158||||4"
+msgid "Hey, I'll be there."
+msgstr "Ehi, ci sarò."
+
+msgctxt "159||||4"
+msgid "I'm glad. <symbol=note_with_outline>"
+msgstr "Ne sono felice. <symbol=note_with_outline>"
+
+msgctxt "160||||4"
+msgid "All right, I'll give you a massage."
+msgstr "D'accordo, ti farò un massaggio."
+
+msgctxt "161||||4"
+msgid "Huh? Right now?"
+msgstr "Eh? Proprio adesso?"
+
+msgctxt "162||||4"
+msgid "I thought you might be tired.\r\nNow, where does it hurt?"
+msgstr "Pensavo potessi essere stanca.\r\nAllora, dove ti fa male?"
+
+msgctxt "163||||4"
+msgid "Uh, no...\r\nI'm okay! Really, I swear!"
+msgstr "Uh, no...\r\nSto bene! Davvero, lo giuro!"
+
+msgctxt "164||||4"
+msgid "O-Oh... You seemed tired, so I got worried.\r\nDon't push yourself too hard, okay?"
+msgstr "O-Oh... Sembravi stanca, quindi mi ero preoccupato.\r\nNon sforzarti troppo, okay?"
+
+msgctxt "165||||4"
+msgid "Thanks. I'm the type to keep it all bottled\r\nin, so I'm glad you're concerned about me."
+msgstr "Grazie. Sono il tipo di persona che si tiene tutto\r\ndentro, quindi mi fa piacere che tu ti preoccupi per me."
+
+msgctxt "166||||4"
+msgid "Kiryu-san, do you have plans after this?"
+msgstr "Kiryu-san, hai impegni dopo questo?"
+
+msgctxt "167||||4"
+msgid "No. What's up?"
+msgstr "No. Che c'è?"
+
+msgctxt "168||||4"
+msgid "If you feel up to it, would ya want to go out?"
+msgstr "Se te la senti, ti andrebbe di uscire?"
+
+msgctxt "169||||4"
+msgid "There's somewhere I want to take you."
+msgstr "C'è un posto in cui voglio portarti."
+
+msgctxt "170||||4"
+msgid "Yeah, sure."
+msgstr "Sì, certo."
+
+msgctxt "171||||4"
+msgid "Thanks!\r\nWe'll meet up after you leave."
+msgstr "Grazie!\r\nCi incontriamo dopo che esci."
+
+msgctxt "172||||4"
+msgid "Okay."
+msgstr "Okay."
+
+msgctxt "173||||4"
+msgid "See you later, then."
+msgstr "Ci vediamo dopo, allora."
+
+msgctxt "174||||4"
+msgid "See you."
+msgstr "Ci vediamo."
+
+msgctxt "175||||4"
+msgid "I don't know if ya'd call it a hobby,\r\nbut I love beauty products."
+msgstr "Non so se lo chiameresti un hobby,\r\nma adoro i prodotti di bellezza."
+
+msgctxt "176||||4"
+msgid "Beauty products?"
+msgstr "Prodotti di bellezza?"
+
+msgctxt "177||||4"
+msgid "Like lookin' for perfume in my style,\r\nor a skincare regimen to avoid drying out."
+msgstr "Come cercare il profumo adatto al mio stile,\r\no un trattamento per la pelle per evitare che si secchi."
+
+msgctxt "178||||4"
+msgid "Staying on top of self improvement is important.\r\nNo wonder you're so beautiful."
+msgstr "Mantenere al primo posto la cura di sé è importante.\r\nNon c'è da stupirsi che tu sia così bella."
+
+msgctxt "179||||4"
+msgid "Kiryu-san, you're a flatterer. I hope\r\nyou're not expecting anythin' special!"
+msgstr "Kiryu-san, sei proprio un adulatore. Spero\r\nche tu non ti aspetti niente di speciale!"
+
+msgctxt "180||||4"
+msgid "Sounds like an expensive hobby."
+msgstr "Sembra un hobby costoso."
+
+msgctxt "181||||4"
+msgid "I s'pose it does add up...\r\nBut I try not to be too stingy about it."
+msgstr "Suppongo che si sommino...\r\nMa cerco di non essere troppo avara a riguardo."
+
+msgctxt "182||||4"
+msgid "You won't last long in this job if ya think of\r\nit that way. I'm not as young as I used to be."
+msgstr "Non durerai a lungo in questo lavoro se la pensi\r\ncosì. Non sono più giovane come un tempo."
+
+msgctxt "183||||4"
+msgid "Sounds rough.\r\nBut, I'm glad it's working out for you."
+msgstr "Sembra dura.\r\nMa, sono felice che per te stia funzionando."
+
+msgctxt "184||||4"
+msgid "Why thank you."
+msgstr "Oh, grazie."
+
+msgctxt "185||||4"
+msgid "Your skin is quite beautiful.\r\nMaybe I'll touch you and see for myself..."
+msgstr "Hai davvero una pelle meravigliosa.\r\nForse dovrei toccarti per rendermene conto..."
+
+msgctxt "186||||4"
+msgid "Now now, Kiryu-san.\r\nNo touching!"
+msgstr "Su, su, Kiryu-san.\r\nNon si tocca!"
+
+msgctxt "187||||4"
+msgid "It was just a joke."
+msgstr "Era solo uno scherzo."
+
+msgctxt "188||||4"
+msgid "Let's seeee... On my days off,\r\nI usually go to the spa or something."
+msgstr "Vediaaamo... Nei miei giorni liberi,\r\ndi solito vado alla spa o roba del genere."
+
+msgctxt "189||||4"
+msgid "Spa?"
+msgstr "Spa?"
+
+msgctxt "190||||4"
+msgid "Yep. Do you not know what that is?"
+msgstr "Sì. Non sai che cos'è?"
+
+msgctxt "191||||4"
+msgid "I do, it's like a public bath, right?\r\nYou go to some pretty classy places."
+msgstr "Certo, è come un bagno pubblico, giusto?\r\nFrequenti posti decisamente di classe."
+
+msgctxt "192||||4"
+msgid "It's a little different from a public bath,\r\nbut... it has a lot of health and beauty benefits."
+msgstr "È un po' diverso da un bagno pubblico,\r\nma... ha un sacco di benefici per la salute e la bellezza."
+
+msgctxt "193||||4"
+msgid "So it's like a hot spring... Still classy."
+msgstr "Quindi è come una sorgente termale... Comunque di classe."
+
+msgctxt "195||||4"
+msgid "Nope, no clue.\r\nI feel like I've heard the word before, though."
+msgstr "No, non ne ho idea.\r\nMi sembra di aver già sentito la parola, però."
+
+msgctxt "196||||4"
+msgid "They usually have baths and workout machines,\r\nbut the places I go have salons, too."
+msgstr "Di solito hanno vasche e macchine per l'allenamento,\r\nma i posti in cui vado io hanno anche centri estetici."
+
+msgctxt "197||||4"
+msgid "If you're curious,\r\nwould ya care to join me, Kiryu-san?"
+msgstr "Se sei curioso,\r\nti andrebbe di accompagnarmi, Kiryu-san?"
+
+msgctxt "198||||4"
+msgid "Taking a bath together..."
+msgstr "Fare un bagno insieme..."
+
+msgctxt "199||||4"
+msgid "Of course I know that abbreviation.\r\nSpaghetti's delicious."
+msgstr "Ovviamente conosco quest'abbreviazione.\r\nGli spaghetti sono deliziosi."
+
+msgctxt "200||||4"
+msgid "Kiryu-san... Are you serious?"
+msgstr "Kiryu-san... Dici sul serio?"
+
+msgctxt "201||||4"
+msgid "Uh, no... It was a joke."
+msgstr "Uhm, no... Era uno scherzo."
+
+msgctxt "202||||4"
+msgid "I started when I was 19,\r\nso I guess it's been about ten years."
+msgstr "Ho iniziato quando avevo 19 anni,\r\nquindi credo siano passati circa dieci anni."
+
+msgctxt "203||||4"
+msgid "Osaka. I used to work at a club over\r\nthere before I came here."
+msgstr "Osaka. Lavoravo in un club\r\nlaggiù prima di venire qui."
+
+msgctxt "204||||4"
+msgid "Veggies don't do much for me,\r\nso I eat a lot of meat."
+msgstr "Le verdure non mi fanno impazzire,\r\nquindi mangio un sacco di carne."
+
+msgctxt "205||||4"
+msgid "Huh. But wouldn't all that meat make you fat?"
+msgstr "Mhm. Ma tutta quella carne non ti fa ingrassare?"
+
+msgctxt "206||||4"
+msgid "Well, I still manage my diet. I make up\r\nfor the lack of veggies with supplements."
+msgstr "Beh, tengo comunque la dieta sotto controllo. Compensi\r\nla mancanza di verdure con degli integratori."
+
+msgctxt "207||||4"
+msgid "Hmm... I s'pose... I like seductive men."
+msgstr "Uhm... Suppongo che... mi piacciano gli uomini seducenti."
+
+msgctxt "208||||4"
+msgid "Seductive?"
+msgstr "Seducenti?"
+
+msgctxt "209||||4"
+msgid "Yeah, ever heard the word \"sexy\" to\r\ndescribe a guy? That's my type of man."
+msgstr "Sì, hai mai sentito la parola \"sexy\" usata per\r\ndescrivere un ragazzo? Quello è il mio tipo ideale."
+
+msgctxt "210||||4"
+msgid "So, a seductive... sexy man, huh?"
+msgstr "Quindi, un uomo seducente... un uomo sexy, eh?"
+
+msgctxt "211||||4"
+msgid "Like a man who's quick to take off his shirt?"
+msgstr "Tipo un uomo che è pronto a togliersi la maglietta in un istante?"
+
+msgctxt "212||||4"
+msgid "That ain't sexy, that's just perverted.\r\nWhat kinda woman do you take me for, Kiryu-san?"
+msgstr "Quello non è sexy, è solo essere pervertiti.\r\nChe razza di donna credi che io sia, Kiryu-san?"
+
+msgctxt "213||||4"
+msgid "Yeah, you're right. Sorry."
+msgstr "Sì, hai ragione. Scusa."
+
+msgctxt "214||||4"
+msgid "You mean a feminine man?\r\nSo, you like it when they speak like a woman..."
+msgstr "Intendi un uomo femminile?\r\nQuindi, ti piace quando parlano come delle donne..."
+
+msgctxt "215||||4"
+msgid "What part of that is sexy?\r\nKiryu-san, are you teasing me?"
+msgstr "Che cos'avrebbe di sexy?\r\nKiryu-san, mi stai prendendo in giro?"
+
+msgctxt "216||||4"
+msgid "It was just a joke."
+msgstr "Era solo uno scherzo."
+
+msgctxt "217||||4"
+msgid "Wait a sec...\r\nDo you mean a man like me...?"
+msgstr "Aspetta un attimo...\r\nIntendi un uomo come me...?"
+
+msgctxt "218||||4"
+msgid "You'd say that 'bout yourself!?\r\nBut yeah, you are pretty sexy, Kiryu-san."
+msgstr "Dici questo di te stesso!?\r\nMa sì, sei piuttosto sexy, Kiryu-san."
+
+msgctxt "219||||4"
+msgid "You're not just manly<symbol=em_dash_with_outline>you're... delicate?\r\nYou have gravitas... Yeah, you're totally sexy!"
+msgstr "Non sei solo virile<symbol=em_dash_with_outline>sei anche... delicato?\r\nHai carisma... Sì, sei assolutamente sexy!"
+
+msgctxt "220||||4"
+msgid "And you're all too aware of it, huh?"
+msgstr "E tu ne sei fin troppo consapevole, eh?"
+
+msgctxt "221||||4"
+msgid "This is starting to get embarrassing...\r\nAren't you laying it on a little thick?"
+msgstr "La cosa inizia a diventare imbarazzante...\r\nNon ci stai andando un po' pesante?"
+
+msgctxt "222||||4"
+msgid "Figured I'd tease ya a little. <symbol=note_with_outline>"
+msgstr "Ho pensato di stuzzicarti un po'. <symbol=note_with_outline>"
+
+msgctxt "223||||4"
+msgid "Hmmm... I think I'd want to know more about\r\nwhat makes the guy tick or what he likes."
+msgstr "Uhm... Credo che vorrei scoprire di più su\r\ncosa fa scattare quel ragazzo o cosa gli piace."
+
+msgctxt "224||||4"
+msgid "Hm? And what would you do if you knew?\r\nAnything in particular?"
+msgstr "Mhm? E cosa faresti se lo sapessi?\r\nQualcosa in particolare?"
+
+msgctxt "225||||4"
+msgid "I'm the type who likes to dote on people,\r\nso I'd want to offer my advice and support."
+msgstr "Sono il tipo di persona a cui piace stravedere per gli\r\naltri, quindi vorrei offrirgli consigli e supporto."
+
+msgctxt "226||||4"
+msgid "But maybe they'd find that annoying? What do you\r\nthink of a woman who wants to support her man?"
+msgstr "Ma forse lo troverebbe fastidioso? Che ne pensi\r\ndi una donna che vuole sostenere il suo uomo?"
+
+msgctxt "227||||4"
+msgid "I prefer it. Seems like I'd be able to rely\r\non her in a lot of aspects of my life."
+msgstr "Io la preferisco. Sembra che potrei fare affidamento\r\nsu di lei in molti aspetti della mia vita."
+
+msgctxt "228||||4"
+msgid "I see. That's good. If I was dating you,\r\nKiryu-san, I'd try to support ya any way I could."
+msgstr "Capisco. Meno male. Se ci frequentassimo,\r\nKiryu-san, cercherei di sostenerti in ogni modo."
+
+msgctxt "229||||4"
+msgid "I'll count on it, then."
+msgstr "Ci conto, allora."
+
+msgctxt "230||||4"
+msgid "It's nice to have that kind of support,\r\nbut I'd want to support her in return."
+msgstr "È bello avere questo tipo di sostegno,\r\nma vorrei poterla sostenere in cambio."
+
+msgctxt "231||||4"
+msgid "I had a feeling."
+msgstr "Me lo sentivo."
+
+msgctxt "232||||4"
+msgid "It varies by person, but, sometimes vulnerable\r\nwomen are actually more attractive to a man."
+msgstr "Varia da persona a persona, ma, a volte le donne\r\nvulnerabili sono in realtà più attraenti per un uomo."
+
+msgctxt "233||||4"
+msgid "I see. I do kinda try to make sure\r\nI don't seem vulnerable."
+msgstr "Capisco. In effetti cerco di assicurarmi\r\ndi non sembrare troppo vulnerabile."
+
+msgctxt "234||||4"
+msgid "I should probably try to rely on men more,\r\nbut I'm just no good at it."
+msgstr "Forse dovrei provare ad appoggiarmi di più\r\nagli uomini, ma non sono proprio brava a farlo."
+
+msgctxt "235||||4"
+msgid "That was a useful tip, though, Kiryu-san.\r\nIt's good to get a guy's perspective on that."
+msgstr "È stato comunque un consiglio utile, Kiryu-san.\r\nÈ bello avere la prospettiva di un uomo su queste cose."
+
+msgctxt "236||||4"
+msgid "Hmmm... It kind of makes them\r\nseem like an old woman."
+msgstr "Uhm... La fa sembrare\r\nun po' come una vecchia signora."
+
+msgctxt "237||||4"
+msgid "What!? So mean!\r\nYou didn't have to say it like that!"
+msgstr "Cosa!? Che cattiveria!\r\nNon dovevi mica dirla così!"
+
+msgctxt "238||||4"
+msgid "No, I'm not saying it's a bad thing.\r\nThe old women in my neighborhood support me, too."
+msgstr "No, non sto dicendo che sia una brutta cosa.\r\nAnche le vecchiette nel mio quartiere mi sostengono."
+
+msgctxt "239||||4"
+msgid "You keep digging that hole...\r\nKiryu-san, you're definitely a strange one."
+msgstr "Stai continuando a scavarti la fossa...\r\nKiryu-san, sei decisamente un tipo strano."
+
+msgctxt "240||||4"
+msgid "I wanna be the kinda hostess people can take\r\none look at and know I'm amazin'."
+msgstr "Voglio essere il tipo di hostess che la gente\r\nguarda per un secondo e capisce che sono incredibile."
+
+msgctxt "241||||4"
+msgid "So you want to be more respected...?"
+msgstr "Quindi vuoi essere più rispettata...?"
+
+msgctxt "242||||4"
+msgid "Yep. I want to give hope to other\r\nhostesses like me."
+msgstr "Sì. Voglio dare speranza alle altre\r\nhostess come me."
+
+msgctxt "243||||4"
+msgid "I wouldn't say I've got any particularly\r\namazing talents or anything..."
+msgstr "Non direi di avere dei talenti così\r\nparticolarmente incredibili o altro..."
+
+msgctxt "244||||4"
+msgid "But if I can pull it off, I feel like maybe I\r\ncould inspire other girls to be more optimistic."
+msgstr "Ma se ci riuscissi, sento che forse potrei\r\nispirare le altre ragazze a essere più ottimiste."
+
+msgctxt "245||||4"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "246||||4"
+msgid "It's not a real concrete goal, though, huh?\r\nWhat's the criteria to become someone like that?"
+msgstr "Non è un obiettivo molto concreto, però, eh?\r\nQuali sono i criteri per diventare una persona del genere?"
+
+msgctxt "247||||4"
+msgid "How about becoming a model?\r\nEvery woman dreams of that."
+msgstr "Che ne dici di fare la modella?\r\nOgni donna lo sogna."
+
+msgctxt "248||||4"
+msgid "Yeah, modelin' might be a good idea!\r\nAn ex-hostess model... I can dream, huh?"
+msgstr "Già, fare la modella potrebbe essere un'ottima idea!\r\nUna modella ex-hostess... Si può sognare, eh?"
+
+msgctxt "249||||4"
+msgid "Well, you're a hard worker. If you set your\r\nsights on it, I'm sure you'll get there someday."
+msgstr "Beh, tu sei una gran lavoratrice. Se ci metti gli\r\nocchi sopra, sono sicuro che un giorno ci riuscirai."
+
+msgctxt "250||||4"
+msgid "Thanks! I'll work on making that my\r\nconcrete goal! Wish me luck!"
+msgstr "Grazie! Lavorerò per farlo diventare il mio\r\nobiettivo concreto! Augurami buona fortuna!"
+
+msgctxt "251||||4"
+msgid "How about opening your own club?"
+msgstr "Che ne dici di aprire il tuo locale?"
+
+msgctxt "252||||4"
+msgid "That's certainly a dream a lot of hostesses have,\r\nbut I think I'd prefer a different industry."
+msgstr "Quello è certamente un sogno di molte hostess,\r\nma credo che preferirei un settore diverso."
+
+msgctxt "253||||4"
+msgid "I want people to know that if ya can make it as a\r\nhostess, you can be successful in other fields, too."
+msgstr "Voglio che la gente capisca che se ce la fai come hostess,\r\npuoi avere successo anche in altri campi."
+
+msgctxt "254||||4"
+msgid "That does seem like a nice message of hope.\r\nGood luck."
+msgstr "Sembra proprio un bel messaggio di speranza.\r\nBuona fortuna."
+
+msgctxt "255||||4"
+msgid "Thanks! I'll try!"
+msgstr "Grazie! Ci proverò!"
+
+msgctxt "256||||4"
+msgid "How about becoming an idol?"
+msgstr "Che ne dici di diventare un'idol?"
+
+msgctxt "257||||4"
+msgid "That might be nice, but...\r\nCould I really be an idol at this age?"
+msgstr "Sarebbe carino, ma...\r\nPotrei davvero fare l'idol alla mia età?"
+
+msgctxt "258||||4"
+msgid "Might be tough."
+msgstr "Potrebbe essere tosta."
+
+msgctxt "259||||4"
+msgid "Ugh, such a meanie, Kiryu-san!\r\nBut, a model or a TV personality might work."
+msgstr "Ugh, sei proprio cattivo, Kiryu-san!\r\nMa fare la modella o il personaggio televisivo potrebbe funzionare."
+
+msgctxt "260||||4"
+msgid "Yeah, well, you're a hard worker. If you set your\r\nsights on it, I'm sure you'll get there someday."
+msgstr "Già, beh, sei una gran lavoratrice. Se ci metti gli\r\nocchi sopra, sono sicuro che un giorno ci riuscirai."
+
+msgctxt "261||||4"
+msgid "Thanks! I'm gonna see about makin' it as an\r\nex-hostess talent of some kind. <symbol=note_with_outline>"
+msgstr "Grazie! Proverò a vedere se ce la faccio come talento\r\nex-hostess di qualche genere. <symbol=note_with_outline>"
+
+msgctxt "262||||4"
+msgid "When I was a kid? Hmmm... I don't think there\r\nwas anything in particular I wanted to be."
+msgstr "Quando ero bambina? Uhm... Non credo che\r\nci fosse qualcosa in particolare che volessi fare."
+
+msgctxt "263||||4"
+msgid "Buuut... I always knew I wanted to be cute.\r\nThat's true even today."
+msgstr "Maaa... ho sempre saputo di voler essere carina.\r\nQuesto è vero ancora oggi."
+
+msgctxt "264||||4"
+msgid "You wanted to be cute, huh?\r\nThen... your dream's already come true."
+msgstr "Volevi essere carina, eh?\r\nAllora... il tuo sogno si è già avverato."
+
+msgctxt "265||||4"
+msgid "It's nice to hear you say that."
+msgstr "È bello sentirtelo dire."
+
+msgctxt "266||||4"
+msgid "But personally, I feel like I have\r\na long way to go. I want to be even cuter..."
+msgstr "Ma personalmente, sento di avere ancora molta\r\nstrada da fare. Voglio essere ancora più carina..."
+
+msgctxt "267||||4"
+msgid "Especially in a job like this, where people always\r\nhave an eye on ya, appearance is so important."
+msgstr "Soprattutto in un lavoro come questo, dove hai sempre gli\r\nocchi della gente addosso, l'aspetto è importantissimo."
+
+msgctxt "268||||4"
+msgid "You think like a pro.\r\nI half-expected an answer like that."
+msgstr "Ragioni come una professionista.\r\nMi aspettavo in parte una risposta del genere."
+
+msgctxt "269||||4"
+msgid "You want to be cute, huh?\r\nA dream like that takes real effort."
+msgstr "Volevi essere carina, eh?\r\nUn sogno del genere richiede vero impegno."
+
+msgctxt "270||||4"
+msgid "It really does.\r\nNo one becomes beautiful overnight."
+msgstr "Puoi dirlo forte.\r\nNessuno diventa bello da un giorno all'altro."
+
+msgctxt "271||||4"
+msgid "And in a job like this, ya have to be\r\nespecially aware of how people see you."
+msgstr "E in un lavoro come questo, devi fare molta\r\nattenzione a come le persone ti vedono."
+
+msgctxt "272||||4"
+msgid "My special skill is... my presentation!"
+msgstr "La mia abilità speciale è... la mia immagine!"
+
+msgctxt "273||||4"
+msgid "What do you mean by that?"
+msgstr "Cosa intendi dire con questo?"
+
+msgctxt "274||||4"
+msgid "Thinking about my personal brand,\r\nand then executing on it."
+msgstr "Riflettere sul mio brand personale,\r\ne poi realizzarlo."
+
+msgctxt "275||||4"
+msgid "I'd say it was only because I did that well that\r\nI succeeded in an industry as tough as this."
+msgstr "Direi che è solo perché l'ho fatto bene se\r\nho avuto successo in un settore difficile come questo."
+
+msgctxt "276||||4"
+msgid "I see. If that's the case,\r\nyou must have..."
+msgstr "Capisco. Se le cose stanno così,\r\ndevi per forza avere..."
+
+msgctxt "277||||4"
+msgid "...Good use of social media and blogs, right?"
+msgstr "...Un buon uso dei social media e dei blog, giusto?"
+
+msgctxt "278||||4"
+msgid "Yeah! Wow!\r\nYou're into that kinda stuff too, Kiryu-san?"
+msgstr "Sì! Wow!\r\nTi intendi di questa roba anche tu, Kiryu-san?"
+
+msgctxt "279||||4"
+msgid "I'm decent for my age."
+msgstr "Me la cavo per uno della mia età."
+
+msgctxt "280||||4"
+msgid "If ya can advertise effectively on social media\r\nor a blog, new customers request you more often."
+msgstr "Se fai una buona pubblicità sui social o\r\nsui blog, i nuovi clienti ti richiedono molto di più."
+
+msgctxt "281||||4"
+msgid "So Kiryu-san, if ya ever decide to become a host,\r\nyou should give it a shot."
+msgstr "Quindi, Kiryu-san, se mai decidessi di fare l'host,\r\ndovresti farci un pensiero."
+
+msgctxt "282||||4"
+msgid "I'll keep that in mind."
+msgstr "Ne terrò conto."
+
+msgctxt "283||||4"
+msgid "...Fliers or something, right? Or maybe putting\r\nyourself on some pocket tissues would work."
+msgstr "...Dei volantini o roba simile, no? Oppure magari potresti\r\nmettere la tua faccia su dei pacchetti di fazzoletti."
+
+msgctxt "284||||4"
+msgid "Kiryu-san, that's a little old-fashioned... It\r\nmight've worked a decade ago, but not any more."
+msgstr "Kiryu-san, questo è un po' vecchio stile... Avrebbe\r\npotuto funzionare dieci anni fa, ma ora non più."
+
+msgctxt "285||||4"
+msgid "I used social media and my blog to advertise.\r\nIt's been really effective."
+msgstr "Ho usato i social media e il mio blog per farmi pubblicità.\r\nSi è rivelato molto efficace."
+
+msgctxt "286||||4"
+msgid "...Blasted emails to a whole bunch of random\r\npeople? Chain letters and stuff like that."
+msgstr "...Inviato un sacco di e-mail a persone a\r\ncaso? Catene di Sant'Antonio e cose del genere."
+
+msgctxt "287||||4"
+msgid "I would never be so inconsiderate!\r\nI'm not some kinda con-artist."
+msgstr "Non sarei mai così irrispettosa!\r\nNon sono mica una truffatrice."
+
+msgctxt "288||||4"
+msgid "Oh yeah, the other day,\r\na customer from Kyoto came in."
+msgstr "Oh sì, l'altro giorno,\r\nè arrivato un cliente da Kyoto."
+
+msgctxt "289||||4"
+msgid "All the way here?\r\nThat's dedication."
+msgstr "Fino a qui?\r\nQuesta è dedizione."
+
+msgctxt "290||||4"
+msgid "Not only that, it was a girl."
+msgstr "Non solo, era una ragazza."
+
+msgctxt "291||||4"
+msgid "A girl? At a cabaret club?"
+msgstr "Una ragazza? In un cabaret club?"
+
+msgctxt "292||||4"
+msgid "Yeah. She said she came all the way\r\nto Kamurocho just to see me."
+msgstr "Già. Ha detto di essere venuta fino\r\na Kamurocho solo per vedere me."
+
+msgctxt "293||||4"
+msgid "Was she a fan of yours?"
+msgstr "Era una tua fan?"
+
+msgctxt "294||||4"
+msgid "I guess so. She said she was a regular reader\r\non my blog. Melted my heart."
+msgstr "Credo di sì. Ha detto di essere una lettrice\r\nassidua del mio blog. Mi ha sciolto il cuore."
+
+msgctxt "295||||4"
+msgid "Yeah, I guess girls read blogs, too...\r\nTimes sure are changing..."
+msgstr "Già, immagino che anche le ragazze leggano i blog...\r\nI tempi stanno proprio cambiando..."
+
+msgctxt "296||||4"
+msgid "Actually, about 30% of the people who\r\nrequest me are women."
+msgstr "In realtà, circa il 30% delle persone\r\nche mi richiedono sono donne."
+
+msgctxt "297||||4"
+msgid "That's really something.\r\nYou've got a wide appeal."
+msgstr "È una cosa notevole.\r\nHai un pubblico molto vasto."
+
+msgctxt "298||||4"
+msgid "Oh, stop. But, it is refreshing to\r\nbe admired by your own gender."
+msgstr "Oh, smettila. Ma è rinfrescante essere\r\nammirata dal tuo stesso sesso."
+
+msgctxt "299||||4"
+msgid "Was she a friend?"
+msgstr "Era un'amica?"
+
+msgctxt "300||||4"
+msgid "No, she was a fan who followed my blog."
+msgstr "No, era una fan che seguiva il mio blog."
+
+msgctxt "301||||4"
+msgid "Was she your girlfriend? Wait, are you..."
+msgstr "Era la tua ragazza? Aspetta, sei forse..."
+
+msgctxt "302||||4"
+msgid "No! She was a fan who followed my blog."
+msgstr "No! Era una fan che seguiva il mio blog."
+
+msgctxt "303||||4"
+msgid "Hmm... I don't know if I'd say it's a lot,\r\nbut I guess I have my fair share of girl friends."
+msgstr "Uhm... Non so se direi tantissime,\r\nma credo di avere la mia bella cerchia di amiche."
+
+msgctxt "304||||4"
+msgid "But if I had to come out and say it,\r\nI think women like me more than men."
+msgstr "Ma se devo essere sincera, penso di piacere\r\nalle donne molto più che agli uomini."
+
+msgctxt "305||||4"
+msgid "I even get some women who\r\ncome in here as customers."
+msgstr "Ci sono persino alcune donne che\r\nvengono qui come clienti."
+
+msgctxt "306||||4"
+msgid "Kiryu-san, what kind of friends do you have?"
+msgstr "Kiryu-san, tu che tipo di amici hai?"
+
+msgctxt "307||||4"
+msgid "I try not to talk about it too openly, but...\r\nI know a lot of people in the yakuza."
+msgstr "Cerco di non parlarne troppo apertamente, ma...\r\nConosco un sacco di gente nella yakuza."
+
+msgctxt "308||||4"
+msgid "Oh really...\r\nWell, I guess that does fit your image."
+msgstr "Oh, davvero...\r\nBeh, immagino che si adatti alla tua immagine."
+
+msgctxt "309||||4"
+msgid "...Is that the kind of image I have?"
+msgstr "...È questa l'immagine che do?"
+
+msgctxt "310||||4"
+msgid "Cute women... I guess."
+msgstr "Donne carine... Suppongo."
+
+msgctxt "311||||4"
+msgid "You do seem good with the ladies, Kiryu-san."
+msgstr "Sembri uno che ci sa fare con le signore, Kiryu-san."
+
+msgctxt "312||||4"
+msgid "Not really. But, I'd say there's a pretty\r\ngood lady right here in front of me."
+msgstr "Non proprio. Però, direi che ce n'è una\r\nmolto carina proprio qui di fronte a me."
+
+msgctxt "313||||4"
+msgid "Oh, Kiryu-san. <symbol=note_with_outline>\r\nFlattery'll get you nowhere with me."
+msgstr "Oh, Kiryu-san. <symbol=note_with_outline>\r\nLe lusinghe non funzionano con me."
+
+msgctxt "314||||4"
+msgid "Some taxi drivers, I guess."
+msgstr "Alcuni tassisti, suppongo."
+
+msgctxt "315||||4"
+msgid "Huh? Did you used to be a driver?"
+msgstr "Eh? Eri un autista in passato?"
+
+msgctxt "316||||4"
+msgid "A few years back. They took me in when I had no\r\nwhere to go. I owe my boss and coworkers a lot."
+msgstr "Un po' di anni fa. Mi hanno accolto quando non avevo\r\nun posto in cui andare. Devo molto al mio capo e ai colleghi."
+
+msgctxt "317||||4"
+msgid "Wow. Just goes to show ya never know a person's\r\nhistory. I'm glad ya have friends like that."
+msgstr "Wow. Questo dimostra che non si conosce mai davvero il passato\r\ndi una persona. Sono felice che tu abbia amici del genere."
+
+msgctxt "318||||4"
+msgid "I don't play too many games, but I dabble\r\nwith them on my phone sometimes."
+msgstr "Non gioco a molti videogiochi, ma ogni\r\ntanto mi ci diletto un po' sul telefono."
+
+msgctxt "319||||4"
+msgid "Do you play games, Kiryu-san?\r\nYou don't seem like the type."
+msgstr "Tu giochi ai videogiochi, Kiryu-san?\r\nNon sembri il tipo."
+
+msgctxt "320||||4"
+msgid "I play a lot, actually.\r\nI hit the arcades sometimes."
+msgstr "In realtà ci gioco un sacco.\r\nFaccio qualche salto in sala giochi ogni tanto."
+
+msgctxt "321||||4"
+msgid "Wow! You're a game master!\r\nYou should tell me more about that sometime."
+msgstr "Wow! Sei un vero campione di giochi!\r\nDovrai raccontarmi qualcosa di più in merito."
+
+msgctxt "322||||4"
+msgid "I don't play them much anymore.\r\nI did when I was younger, though."
+msgstr "Non ci gioco più di tanto.\r\nLo facevo quando ero più giovane, però."
+
+msgctxt "323||||4"
+msgid "I see. Sounds like you'll have to study up\r\non some modern games."
+msgstr "Capisco. Sembra che dovrai rimetterti a studiare\r\nsu qualche gioco moderno."
+
+msgctxt "324||||4"
+msgid "Life is its own sort of game."
+msgstr "La vita stessa è una sorta di gioco."
+
+msgctxt "325||||4"
+msgid "Ooh. That's really deep."
+msgstr "Ooh. È un pensiero molto profondo."
+
+msgctxt "326||||4"
+msgid "Ooh. That's pretty deep."
+msgstr "Ooh. È un pensiero piuttosto profondo."
+
+msgctxt "327||||4"
+msgid "True, at your age, I bet you've got\r\na lot of experience under your belt."
+msgstr "Vero, alla tua età scommetto che tu\r\nabbia maturato molta esperienza."
+
+msgctxt "328||||4"
+msgid "I wanna hear all about your life, Kiryu-san. <symbol=note_with_outline>"
+msgstr "Voglio sentire tutto sulla tua vita, Kiryu-san. <symbol=note_with_outline>"
+
+msgctxt "329||||4"
+msgid "It's not as interesting as you'd think."
+msgstr "Non è interessante come potresti pensare."
+
+msgctxt "330||||4"
+msgid "Huh? What kind of secret?"
+msgstr "Eh? Che tipo di segreto?"
+
+msgctxt "331||||4"
+msgid "Ages ago... I was the chairman."
+msgstr "Tanto tempo fa... Io ero il presidente."
+
+msgctxt "332||||4"
+msgid "You mean like, student council president?\r\nYou're just serious enough to do that."
+msgstr "Intendi tipo il presidente del consiglio studentesco?\r\nSei un tipo abbastanza serio per farlo."
+
+msgctxt "333||||4"
+msgid "I was actually raised in an orphanage."
+msgstr "In realtà sono cresciuto in un orfanotrofio."
+
+msgctxt "334||||4"
+msgid "I wouldn't'a guessed..."
+msgstr "Non lo avrei mai detto..."
+
+msgctxt "335||||4"
+msgid "I lost both my parents. But my guardian and the\r\nother orphans became like a family to me."
+msgstr "Ho perso entrambi i miei genitori. Ma il mio tutore e gli\r\naltri orfani sono diventati come una famiglia per me."
+
+msgctxt "336||||4"
+msgid "I was raised by a single mother,\r\nso I understand how that feels."
+msgstr "Io sono stata cresciuta da una madre single,\r\nquindi capisco come ci si sente."
+
+msgctxt "337||||4"
+msgid "I'm sure I caused her no end of headaches, but...\r\nThat's why I'm workin' so hard to pay her back."
+msgstr "Sono certa di averle causato un'infinità di grattacapi, ma...\r\nÈ per questo che sto lavorando così duramente per ripagarla."
+
+msgctxt "338||||4"
+msgid "That's great."
+msgstr "È fantastico."
+
+msgctxt "339||||4"
+msgid "I'm glad we got to talk about this together."
+msgstr "Sono felice di averne potuto parlare con te."
+
+msgctxt "340||||4"
+msgid "...No, I probably shouldn't. \r\nI shouldn't just go around sharing my secrets."
+msgstr "...No, probabilmente non dovrei.\r\nNon dovrei andare in giro a rivelare i miei segreti."
+
+msgctxt "341||||4"
+msgid "Really!? Come on, tell me!\r\nYa got me curious!"
+msgstr "Davvero!? Andiamo, dimmelo!\r\nMi hai incuriosita!"
+
+msgctxt "342||||4"
+msgid "It seems like a lot of people\r\nget them for fashion nowadays."
+msgstr "Sembri che ultimamente molte persone li\r\nfacciano solo per una questione di moda."
+
+msgctxt "343||||4"
+msgid "Fashion... Is that all they are these days?"
+msgstr "Moda... È solo questo che sono, al giorno d'oggi?"
+
+msgctxt "344||||4"
+msgid "How you do feel about that, Kiryu-san?"
+msgstr "Come la pensi tu in merito, Kiryu-san?"
+
+msgctxt "345||||4"
+msgid "As long as it's all in good fun,\r\nI don't have any complaints."
+msgstr "Finché è tutto all'insegna del divertimento,\r\nnon ho nulla di cui lamentarmi."
+
+msgctxt "346||||4"
+msgid "Oh, really? I woulda thought\r\nyou'd say it was shameful."
+msgstr "Oh, davvero? Avrei scommesso che\r\navresti detto che era una cosa vergognosa."
+
+msgctxt "347||||4"
+msgid "I don't think that would be\r\nvery convincing coming from me."
+msgstr "Non credo che la cosa sarebbe\r\nmolto convincente detta da me."
+
+msgctxt "348||||4"
+msgid "Huh...?"
+msgstr "Eh...?"
+
+msgctxt "349||||4"
+msgid "I'm not sure I approve of people\r\ngetting them just for fashion's sake."
+msgstr "Non sono sicuro di approvare che le\r\npersone se li facciano solo per seguire la moda."
+
+msgctxt "350||||4"
+msgid "It's engraved into your skin, so you need\r\nto be prepared to live with it forever."
+msgstr "Viene inciso sulla tua pelle, quindi devi essere\r\npreparato a conviverci per sempre."
+
+msgctxt "351||||4"
+msgid "I see... That's thoughtful.\r\nYou can't erase it, after all."
+msgstr "Capisco... Un bel pensiero.\r\nNon puoi cancellarlo, dopotutto."
+
+msgctxt "352||||4"
+msgid "Yeah. When I got mine,\r\nI understood the consequences."
+msgstr "Sì. Quando ho fatto il mio,\r\nho capito le conseguenze."
+
+msgctxt "353||||4"
+msgid "I see... Wait, what!?\r\nYou have one, Kiryu-san?"
+msgstr "Capisco... Aspetta, cosa!?\r\nNe hai uno, Kiryu-san?"
+
+msgctxt "354||||4"
+msgid "Why didn't ya say so sooner?"
+msgstr "Perché non l'hai detto prima?"
+
+msgctxt "355||||4"
+msgid "Sorry, sorry."
+msgstr "Scusa, scusa."
+
+msgctxt "356||||4"
+msgid "I can't hold mine very well.\r\nIt makes this job hard sometimes."
+msgstr "Non lo reggo molto bene.\r\nA volte rende questo lavoro difficile."
+
+msgctxt "357||||4"
+msgid "Help me understand what's so great about drinking.\r\nWhat do you see in it, Kiryu-san?"
+msgstr "Aiutami a capire cosa ci sia di così fantastico nel bere.\r\nCosa ci trovi, Kiryu-san?"
+
+msgctxt "358||||4"
+msgid "I like how it makes me feel.\r\nIt also helps me forget the bad stuff."
+msgstr "Mi piace come mi fa sentire.\r\nInoltre mi aiuta a dimenticare le cose brutte."
+
+msgctxt "359||||4"
+msgid "You have bad memories too, huh, Kiryu-san?"
+msgstr "Hai anche tu dei brutti ricordi, eh, Kiryu-san?"
+
+msgctxt "360||||4"
+msgid "Well, yeah. I'd bet most of the guys who come in\r\nto drink do. So why not help them out? Goes for me, too."
+msgstr "Beh, sì. Scommetto che li ha anche la maggior parte degli uomini\r\nche viene qui a bere. Allora perché non aiutarli? E lo stesso vale per me."
+
+msgctxt "361||||4"
+msgid "You're right. Even though I can't drink,\r\nI'll try to enjoy it in my own way."
+msgstr "Hai ragione. Anche se io non so bere,\r\ncercherò di godermela a modo mio."
+
+msgctxt "362||||4"
+msgid "It's good for your health.\r\nThey say it makes you live longer."
+msgstr "Fa bene alla salute.\r\nDicono che allunghi la vita."
+
+msgctxt "363||||4"
+msgid "Huh? Really?\r\nI thought it was generally considered unhealthy."
+msgstr "Eh? Davvero?\r\nPensavo che fosse generalmente considerato malsano."
+
+msgctxt "364||||4"
+msgid "Apparently the issue is how much you drink.\r\nSome people say it's good for beauty, too."
+msgstr "A quanto pare il problema è quanto bevi.\r\nAlcuni dicono che faccia bene anche per la bellezza."
+
+msgctxt "365||||4"
+msgid "Wow, really? If it's good for beauty,\r\nmaybe I should give it another chance!"
+msgstr "Wow, sul serio? Se fa bene per la bellezza,\r\nforse dovrei dargli un'altra possibilità!"
+
+msgctxt "366||||4"
+msgid "It's proof you're a man. Only real\r\nmen can hold their alcohol."
+msgstr "È la prova che sei un uomo. Solo i\r\nveri uomini sanno reggere l'alcol."
+
+msgctxt "367||||4"
+msgid "I see... And what if you're a woman?"
+msgstr "Capisco... E che succede se sei una donna?"
+
+msgctxt "368||||4"
+msgid "Huh? Um... No idea."
+msgstr "Eh? Ehm... Nessuna idea."
+
+msgctxt "369||||4"
+msgid "I've heard about them on the news. All I\r\ngot from it is how scary they are, though."
+msgstr "Ne ho sentito parlare al telegiornale. Tutto quello che\r\nho capito è quanto facciano paura, però."
+
+msgctxt "370||||4"
+msgid "I know her. Idol fans still talk\r\nabout her debut concert to this day."
+msgstr "La conosco. I fan delle idol parlano\r\nancora oggi del suo concerto di debutto."
+
+msgctxt "371||||4"
+msgid "Oh? What have you done?"
+msgstr "Oh? Cos'hai fatto?"
+
+msgctxt "372||||4"
+msgid "I've been in a movie before.\r\nJust as a stand-in, though."
+msgstr "Sono stato in un film prima d'ora.\r\nMa solo come comparsa."
+
+msgctxt "373||||4"
+msgid "Wow! Doesn't matter what, that's awesome!\r\nWhat kinda movie?"
+msgstr "Wow! Non importa che ruolo, è incredibile!\r\nChe tipo di film?"
+
+msgctxt "374||||4"
+msgid "An action movie.\r\nIt was just a small thing."
+msgstr "Un film d'azione.\r\nÈ stata solo una cosa da poco."
+
+msgctxt "375||||4"
+msgid "I used to fight in an arena a lot."
+msgstr "Ho combattuto in un'arena molte volte."
+
+msgctxt "376||||4"
+msgid "What? You're a martial artist, Kiryu-san?"
+msgstr "Cosa? Sei un esperto di arti marziali, Kiryu-san?"
+
+msgctxt "377||||4"
+msgid "Martial arts isn't quite right, but...\r\nWell, something like that."
+msgstr "Arti marziali non è proprio corretto, ma...\r\nBeh, qualcosa del genere."
+
+msgctxt "378||||4"
+msgid "When I was in Fukuoka,\r\nI had a showdown with a street racer."
+msgstr "Quando ero a Fukuoka, ho avuto un\r\nfaccia a faccia con un pilota clandestino."
+
+msgctxt "379||||4"
+msgid "A street racer...?\r\nLike a biker gang or something?"
+msgstr "Un pilota clandestino...?\r\nTipo una banda di motociclisti o roba simile?"
+
+msgctxt "380||||4"
+msgid "It's a little different, but we raced\r\nfor the title of fastest in Fukuoka."
+msgstr "È un po' diverso, ma abbiamo gareggiato\r\nper il titolo del più veloce a Fukuoka."
+
+msgctxt "381||||4"
+msgid "Hmm. I'd be worried about\r\ngetting into an accident."
+msgstr "Uhm. Mi preoccuperei che poteste\r\nfinire in un incidente."
+
+msgctxt "382||||4"
+msgid "I don't really cook.\r\nSometimes I make some snacks, though."
+msgstr "Non cucino molto.\r\nA volte preparo degli spuntini, però."
+
+msgctxt "383||||4"
+msgid "I'm a typical type A. Temperamental and serious,\r\nI guess. People ask me if I'm type A a lot."
+msgstr "Sono un tipico gruppo A. Lunatica e seriosa,\r\nimmagino. Mi chiedono spesso se sono del gruppo A."
+
+msgctxt "384||||4"
+msgid "That's a bit much, isn't it?"
+msgstr "Non ti sembra un po' troppo?"
+
+msgctxt "385||||4"
+msgid "I'll leave that to your imagination."
+msgstr "Lo lascerò alla tua immaginazione."
+
+msgctxt "386||||4"
+msgid "...I wonder."
+msgstr "...Me lo chiedo anch'io."
+
+msgctxt "387||||4"
+msgid "There's someone I'm interested in...\r\nI guess?"
+msgstr "C'è qualcuno che mi interessa...\r\nImmagino?"
+
+msgctxt "388||||4"
+msgid "I wasn't going to pursue this line of work,\r\nbut a friend invited me to try it out."
+msgstr "Non avevo intenzione di fare questa carriera,\r\nma un'amica mi ha invitata a provarci."
+
+msgctxt "389||||4"
+msgid "Now I've been at it for quite some time.\r\nStrange how life works sometimes, huh?"
+msgstr "Ora ci sono dentro da un bel po' di tempo.\r\nÈ strano come vanno le cose a volte, eh?"
+
+msgctxt "390||||4"
+msgid "What's gotten into you?"
+msgstr "Che ti è preso?"
+
+msgctxt "391||||4"
+msgid "Hey, that's not how the game works..."
+msgstr "Ehi, il gioco non funziona così..."
+
+msgctxt "392||||4"
+msgid "Yaaaay! Wait, that's not how the game works.\r\nC'mon now."
+msgstr "Evvivaaa! Aspetta, il gioco non funziona in questo modo.\r\nAndiamo."
+
+msgctxt "393||||4"
+msgid "Lemme think... I guess I listen to Western\r\nmusic every now and again."
+msgstr "Fammi pensare... Immagino di ascoltare\r\nmusica occidentale ogni tanto."
+
+msgctxt "394||||4"
+msgid "I'm glad to hear you say that."
+msgstr "Sono felice di sentirtelo dire."
+
+msgctxt "395||||4"
+msgid "It's fun spending time with you, too. <symbol=note_with_outline>"
+msgstr "È divertente passare del tempo anche con te. <symbol=note_with_outline>"
+
+msgctxt "396||||4"
+msgid "Hasn't it?\r\nI'm doing my best to avoid gettin' sick."
+msgstr "Verissimo!\r\nSto facendo del mio meglio per evitare di ammalarmi."
+
+msgctxt "397||||4"
+msgid "That's nice to hear, even if you are just\r\nflattering me. Just don't get sick, huh?"
+msgstr "È bello sentirselo dire, anche se mi stai solo\r\nlusingando. Cerca solo di non ammalarti, eh?"
+
+msgctxt "398||||4"
+msgid "Thanks..."
+msgstr "Grazie..."
+
+msgctxt "399||||4"
+msgid "Oh, Kiryu-san...\r\nYou're makin' me blush."
+msgstr "Oh, Kiryu-san...\r\nMi stai facendo arrossire."
+
+msgctxt "400||||4"
+msgid "Whoa!? What's gotten into you?"
+msgstr "Whoa!? Che ti prende?"
+
+msgctxt "401||||4"
+msgid "Uh... Forget that just happened."
+msgstr "Uhm... Dimentica quello che è appena successo."
+
+msgctxt "402||||4"
+msgid "Whoa! That scared me!\r\nIs that what you're really like?"
+msgstr "Whoa! Mi hai spaventata!\r\nSei davvero così?"
+
+msgctxt "403||||4"
+msgid "No... It's just fun to do that."
+msgstr "No... È solo divertente farlo."
+
+msgctxt "404||||4"
+msgid "A little out of character... \r\nbut as long as you're havin' fun, I'm happy. <symbol=note_with_outline>"
+msgstr "Un po' fuori dal tuo personaggio... \r\nma finché ti diverti, io sono felice. <symbol=note_with_outline>"
+
+msgctxt "405||||4"
+msgid "Yahoo!"
+msgstr "Yahoo!"
+
+msgctxt "406||||4"
+msgid "Whoa! What's gotten into you?"
+msgstr "Whoa! Che ti è preso?"
+
+msgctxt "407||||4"
+msgid "Hey, you started it, Kiryu-san!\r\nI'm havin' fun too, so I gave it a shot."
+msgstr "Ehi, l'hai iniziato tu, Kiryu-san!\r\nMi sto divertendo anch'io, quindi ho voluto fare un tentativo."
+
+msgctxt "408||||4"
+msgid "That felt better than I thought it would.\r\nMaybe I should start shouting more."
+msgstr "È stato molto più bello di quanto pensassi.\r\nForse dovrei iniziare a urlare più spesso."
+
+msgctxt "409||||4"
+msgid "Hello, Kiryu-san."
+msgstr "Salve, Kiryu-san."
+
+msgctxt "410||||4"
+msgid "Hey, you can't do that!\r\nGeez, you're hopeless."
+msgstr "Ehi, non puoi farlo!\r\nCavolo, non c'è speranza per te."
+
+msgctxt "411||||4"
+msgid "Thanks.\r\nA compliment always makes my day."
+msgstr "Grazie.\r\nUn complimento mi svolta sempre la giornata."
+
+msgctxt "412||||4"
+msgid "Huh? Really!?"
+msgstr "Eh? Sul serio!?"
+
+msgctxt "413||||4"
+msgid "Yeah. It's a beautiful establishment,\r\nalways clean down to the corners."
+msgstr "Sì. È un bellissimo locale,\r\nsempre pulito in ogni angolo."
+
+msgctxt "414||||4"
+msgid "Whaaaat!? That's what you meant?\r\nYou're terrible!"
+msgstr "Cooosa!? Era quello che intendevi?\r\nSei terribile!"
+
+msgctxt "415||||4"
+msgid "Just kidding."
+msgstr "Sto solo scherzando."
+
+msgctxt "416||||4"
+msgid "Kiryu-san? Are you okay?"
+msgstr "Kiryu-san? Stai bene?"
+
+msgctxt "417||||4"
+msgid "Uh... Never mind."
+msgstr "Uhm... Niente, lascia perdere."
+
+msgctxt "418||||4"
+msgid "Oh Kiryu-san, you're so greedy. If I agree,\r\ndoes that mean you'll only have eyes for me?"
+msgstr "Oh Kiryu-san, sei così avido. Se io accetto,\r\nquesto vuol dire che tu avrai occhi solo per me?"
+
+msgctxt "419||||4"
+msgid "Not at the moment.\r\nI've got my eyes peeled, though."
+msgstr "Non al momento.\r\nHo gli occhi ben aperti, però."
+
+msgctxt "420||||4"
+msgid "There may be someone I'm interested in..."
+msgstr "Forse c'è qualcuno a cui sono interessato..."
+
+msgctxt "421||||4"
+msgid "I do... Maybe they don't realize it yet..."
+msgstr "Certo... Forse lei non se n'è ancora accorta..."
+
+msgctxt "422||||4"
+msgid "Then, I'll be careful not to fall for you! <symbol=note_with_outline>"
+msgstr "Allora farò attenzione a non innamorarmi di te! <symbol=note_with_outline>"
+
+msgctxt "423||||4"
+msgid "It... might be too late."
+msgstr "Potrebbe... essere già troppo tardi."
+
+msgctxt "424||||4"
+msgid "Thanks. We try to make sure our\r\ncustomers can relax while they're here."
+msgstr "Grazie. Cerchiamo di assicurarci che i\r\nnostri clienti possano rilassarsi finché sono qui."
+
+msgctxt "425||||4"
+msgid "We want them all to walk away satisfied."
+msgstr "Vogliamo che se ne vadano tutti soddisfatti."
+
+msgctxt "426||||4"
+msgid "You guys have your head in the game.\r\nNo wonder it feels so good to be here."
+msgstr "Voi siete davvero concentrate nel vostro lavoro.\r\nNon c'è da stupirsi che si stia così bene qui."
+
+msgctxt "427||||4"
+msgid "I'm pretty new in Tokyo, so I don't have the lay\r\nof the land yet. I do want to try places, though."
+msgstr "Sono praticamente nuovo a Tokyo, quindi non conosco ancora bene\r\nla zona. Però ho intenzione di provare qualche bel posto."
+
+msgctxt "428||||4"
+msgid "I... I don't really know what to say..."
+msgstr "Io... Non so davvero cosa dire..."
+
+msgctxt "429||||4"
+msgid "What what what!? You really went that wild?\r\nYou'll leave the club alone, though, right?"
+msgstr "Cosa cosa cosa!? Ti sei davvero spinto a tanto?\r\nLascerai in pace il nostro club, però, vero?"
+
+msgctxt "430||||4"
+msgid "You poor guy...\r\nI'll listen if you ever want to let it out."
+msgstr "Povero ragazzo...\r\nTi ascolterò se mai volessi sfogarti un po'."
+
+msgctxt "431||||4"
+msgid "Kiryu-san, I can tell he was\r\nreally important to you..."
+msgstr "Kiryu-san, riesco a capire che era\r\ndavvero una persona importante per te..."
+
+msgctxt "432||||4"
+msgid "A true friend...\r\nThat's a pretty tough question."
+msgstr "Un vero amico...\r\nÈ una domanda abbastanza difficile."
+
+msgctxt "433||||4"
+msgid "Yeah. I don't have much of an answer myself."
+msgstr "Sì. Neanch'io so bene come rispondere."
+
+msgctxt "434||||4"
+msgid "You're the kinda guy who values his friends,\r\nKiryu-san. That's what I like about you."
+msgstr "Sei il tipo di persona che dà valore ai suoi amici,\r\nKiryu-san. Ed è questo che mi piace di te."
+
+msgctxt "435||||4"
+msgid "I wasn't expectin' that!\r\nYou can't judge a book by its cover!"
+msgstr "Non me lo aspettavo!\r\nNon si giudica mai un libro dalla copertina!"
+
+msgctxt "436||||4"
+msgid "That's amazing! I have so much respect for\r\npeople who can do things I can't."
+msgstr "Ma è fantastico! Ho così tanto rispetto per\r\nle persone che sanno fare cose che io non riesco a fare."
+
+msgctxt "437||||4"
+msgid "Kiryu-san fishing...\r\nI'd like to see that sometime."
+msgstr "Kiryu-san che pesca...\r\nMi piacerebbe vederlo qualche volta."
+
+msgctxt "438||||4"
+msgid "If you visit me in Onomichi,\r\nI'll show you the whole process."
+msgstr "Se vieni a trovarmi a Onomichi,\r\nti farò vedere l'intero processo."
+
+msgctxt "439||||4"
+msgid "That sounds rough...\r\nBe careful out there, okay?"
+msgstr "Sembra una cosa dura...\r\nSta' attento là fuori, okay?"
+
+msgctxt "440||||4"
+msgid "Maybe you have some kind of charismatic\r\naura that draws angry people to you?"
+msgstr "Forse hai una sorta di aura carismatica\r\nche attira le persone arrabbiate verso di te?"
+
+msgctxt "441||||4"
+msgid "You do have a different aura than most people.\r\nYep! It's your charisma!"
+msgstr "Hai decisamente un'aura diversa dalla maggior parte\r\ndelle persone. Sì! È il tuo carisma!"
+
+msgctxt "442||||4"
+msgid "I wish I didn't..."
+msgstr "Vorrei che non fosse così..."
+
+msgctxt "443||||4"
+msgid "Wow, I've never heard of that before.\r\nWho knew? It does sound fun, though."
+msgstr "Wow, non ne avevo mai sentito parlare prima.\r\nChi l'avrebbe mai detto? Sembra divertente, però."
+
+msgctxt "444||||4"
+msgid "Wow, really? For your health?"
+msgstr "Wow, sul serio? Per la tua salute?"
+
+msgctxt "445||||4"
+msgid "Well, something like that.\r\nI also just want to keep getting stronger."
+msgstr "Beh, qualcosa del genere.\r\nVoglio anche continuare a diventare sempre più forte."
+
+msgctxt "446||||4"
+msgid "You want to improve yourself, huh?\r\nI love people like that."
+msgstr "Vuoi migliorare te stesso, eh?\r\nAdoro le persone di questo tipo."
+
+msgctxt "447||||4"
+msgid "I've been thinking about joinin' a gym myself.\r\nYou'll have to tell me more about that."
+msgstr "Stavo pensando di iscrivermi in palestra anch'io.\r\nDovrai raccontarmi qualcosa in più al riguardo."
+
+msgctxt "448||||4"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "449||||4"
+msgid "Does that mean you don't like clubs like this?"
+msgstr "Vuol dire che non ti piacciono i club come questo?"
+
+msgctxt "450||||4"
+msgid "No... I like this club because it\r\nmeans I get to see you."
+msgstr "No... Questo club mi piace perché\r\nsignifica che posso vederti."
+
+msgctxt "451||||4"
+msgid "Kiryu-san... You're good at this."
+msgstr "Kiryu-san... Ci sai proprio fare."
+
+msgctxt "452||||4"
+msgid "Really? I wouldn't have guessed that about you,\r\nbut, being more measured about it is more mature."
+msgstr "Davvero? Non l'avrei mai detto di te,\r\nma essere più misurati in certe cose denota una bella maturità."
+
+msgctxt "453||||4"
+msgid "Really? I'm actually the same way."
+msgstr "Davvero? Io in realtà sono fatta allo stesso modo."
+
+msgctxt "454||||4"
+msgid "To this day, I'm still not very good at dealing\r\nwith customers who don't specifically request me."
+msgstr "Ancora oggi, non sono molto brava a trattare con\r\ni clienti che non mi richiedono espressamente."
+
+msgctxt "455||||4"
+msgid "Really? Well, that's not the kind of thing\r\nyou can just get over because you want to."
+msgstr "Davvero? Beh, non è il tipo di cosa che\r\npuoi superare solo perché vuoi farlo."
+
+msgctxt "456||||4"
+msgid "Hm... I wonder what I could do then."
+msgstr "Mhm... Mi chiedo cosa potrei fare, allora."
+
+msgctxt "457||||4"
+msgid "Think of them as vegetables.\r\nI've heard that works."
+msgstr "Pensa a loro come se fossero delle verdure.\r\nHo sentito dire che funziona."
+
+msgctxt "458||||4"
+msgid "Isn't that a trick to stop being nervous?"
+msgstr "Ma quello non è un trucco per non essere nervosi?"
+
+msgctxt "459||||4"
+msgid "Oh, is it?"
+msgstr "Oh, dici che è così?"
+
+msgctxt "460||||4"
+msgid "But, it might be a good idea to\r\nbe a little less wary of them."
+msgstr "Però, potrebbe essere una buona idea\r\nessere un po' meno diffidenti verso di loro."
+
+msgctxt "461||||4"
+msgid "How about trying to love them\r\nfrom the bottom of your heart?"
+msgstr "Che ne diresti di provare ad amarli\r\ndal profondo del tuo cuore?"
+
+msgctxt "462||||4"
+msgid "That seems rather grandiose..."
+msgstr "Mi sembra un po' troppo esagerato..."
+
+msgctxt "463||||4"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "464||||4"
+msgid "But I s'pose I could be putting up some\r\ninternal walls. I'll keep at it!"
+msgstr "Ma suppongo che io mi stia erigendo dei muri\r\ninteriormente. Continuerò a provarci!"
+
+msgctxt "465||||4"
+msgid "I don't know.\r\nI'm not good at it either."
+msgstr "Non lo so.\r\nNon sono bravo a farlo nemmeno io."
+
+msgctxt "466||||4"
+msgid "You make a good point!\r\nI asked the wrong person."
+msgstr "Questo è un ottimo punto!\r\nHo chiesto alla persona sbagliata."
+
+msgctxt "467||||4"
+msgid "But you and I clicked right from the start,\r\nso maybe we have a more natural chemistry."
+msgstr "Però tra me e te è scattata subito una bella intesa,\r\nquindi forse c'è semplicemente un'alchimia più naturale tra noi."
+
+msgctxt "468||||4"
+msgid "Yeah, maybe."
+msgstr "Sì, forse."
+
+msgctxt "469||||4"
+msgid "Anyway, I'm glad we're compatible\r\nwith each other. <symbol=note_with_outline>"
+msgstr "Comunque sia, sono felice che siamo\r\ncosì compatibili tra di noi. <symbol=note_with_outline>"
+
+msgctxt "470||||4"
+msgid "Wow, that's amazing.\r\nYou'll have to take me to one sometime."
+msgstr "Wow, è incredibile.\r\nDovrai portarmici, qualche volta."
+
+msgctxt "471||||4"
+msgid "Hm... About 40?"
+msgstr "Uhm... Intorno ai 40?"
+
+msgctxt "472||||4"
+msgid "Huh... So I look a little younger than I am."
+msgstr "Mhm... Quindi sembro un po' più giovane di quello che sono."
+
+msgctxt "473||||4"
+msgid "You definitely still look young, Kiryu-san.\r\nYou've aged like a fine wine."
+msgstr "Sembri sicuramente ancora giovane, Kiryu-san.\r\nSei invecchiato come il buon vino."
+
+msgctxt "474||||4"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "475||||4"
+msgid "I think you're a great guy.\r\nYou seem like you'd be a hit with the ladies."
+msgstr "Credo che tu sia un uomo fantastico.\r\nSembri avere un gran successo con le donne."
+
+msgctxt "476||||4"
+msgid "I think you're really charming...\r\nYeah... And handsome..."
+msgstr "Credo che tu sia davvero affascinante...\r\nGià... E bello..."
+
+msgctxt "477||||4"
+msgid "You're... someone irreplaceable to me, I guess?\r\nIt's embarrassing saying that to your face."
+msgstr "Tu sei... qualcuno di insostituibile per me, credo?\r\nÈ imbarazzante dirtelo in faccia."
+
+msgctxt "478||||4"
+msgid "I can go either way, I guess.\r\nAge isn't a factor to me."
+msgstr "A me va bene in entrambi i modi, immagino.\r\nL'età per me non conta."
+
+msgctxt "479||||4"
+msgid "That said, I guess I like strong, independent men,\r\nso I probably lean more toward older guys."
+msgstr "Detto questo, suppongo mi piacciano gli uomini forti e\r\nindipendenti, quindi probabilmente propendo per i più grandi."
+
+msgctxt "480||||4"
+msgid "Yeah, it does seem like that's the\r\ntype of guy you'd get along with."
+msgstr "Già, sembra proprio che sia il\r\ntipo di uomo che fa per te."
+
+msgctxt "481||||4"
+msgid "I... don't really have any fetishes."
+msgstr "Io... non ho nessun feticcio particolare."
+
+msgctxt "482||||4"
+msgid "If I had to say, I like open-minded people.\r\nThat's not really a fetish, though."
+msgstr "Se proprio devo, mi piacciono le persone di larghe vedute.\r\nMa quello non è proprio un feticcio, in effetti."
+
+msgctxt "483||||4"
+msgid "I really want more beauty products..."
+msgstr "Vorrei davvero altri prodotti di bellezza..."
+
+msgctxt "484||||4"
+msgid "Should I give you some as a present?"
+msgstr "Vuoi che te ne faccia un regalo?"
+
+msgctxt "485||||4"
+msgid "No, I'll work toward buying them myself.\r\nBut in exchange, you should request me again. <symbol=note_with_outline>"
+msgstr "No, lavorerò per comprarli da sola.\r\nMa in cambio, dovresti richiedermi ancora. <symbol=note_with_outline>"
+
+msgctxt "486||||4"
+msgid "Okay, sure."
+msgstr "D'accordo, certo."
+
+msgctxt "487||||4"
+msgid "My first love...\r\nWhen was that again?"
+msgstr "Il mio primo amore...\r\nQuand'è che è stato?"
+
+msgctxt "488||||4"
+msgid "Probably when I was a student. There was this\r\ncute senpai, and I had a crush on him."
+msgstr "Probabilmente quando andavo a scuola. C'era un\r\nsenpai carino e io mi ero presa una bella cotta per lui."
+
+msgctxt "489||||4"
+msgid "But I'm actually pretty shy,\r\nso I never confessed to him."
+msgstr "Però io sono una ragazza parecchio timida,\r\nquindi non mi sono mai dichiarata."
+
+msgctxt "490||||4"
+msgid "Do you regret it?"
+msgstr "Te ne sei mai pentita?"
+
+msgctxt "491||||4"
+msgid "A little, but nothin' to be done about it now.\r\nJust have to accept it wasn't meant to be and move on!"
+msgstr "Un pochino, ma ormai non c'è nulla da fare.\r\nDevo solo accettare che non era destino e voltare pagina!"
+
+msgctxt "492||||4"
+msgid "Maybe it'd be easier if I just learned to\r\nconfess my feelings to whoever I wanted."
+msgstr "Forse sarebbe più facile se imparassi semplicemente\r\na confessare i miei sentimenti a chiunque io voglia."
+
+msgctxt "493||||4"
+msgid "Then, why not practice on me?"
+msgstr "Allora, perché non fai pratica con me?"
+
+msgctxt "494||||4"
+msgid "Maybe. I'll think about it."
+msgstr "Forse. Ci penserò."
+
+msgctxt "495||||4"
+msgid "Oh, so you're type who prefers that\r\nsomeone confess to you?"
+msgstr "Oh, quindi sei il tipo che preferisce che\r\nsia qualcuno a confessarti i suoi sentimenti?"
+
+msgctxt "496||||4"
+msgid "I guess so. If I like a guy, I'll try to make\r\nit as comfortable as I can for him to do that."
+msgstr "Immagino di sì. Se un ragazzo mi piace, cerco di metterlo\r\nquanto più a suo agio possibile per farglielo fare."
+
+msgctxt "497||||4"
+msgid "You can confess to me whenever you want. <symbol=note_with_outline>"
+msgstr "Puoi dichiararti a me quando vuoi. <symbol=note_with_outline>"
+
+msgctxt "498||||4"
+msgid "I'll think about it."
+msgstr "Ci penserò."
+
+msgctxt "499||||4"
+msgid "Sounds like you need to work on it.\r\nWant to practice on me?"
+msgstr "Sembra che tu ci debba lavorare un po' su.\r\nVuoi fare pratica con me?"
+
+msgctxt "500||||4"
+msgid "What? Where did you get that idea?\r\nBut, that might be fun..."
+msgstr "Cosa? Da dove ti è venuta quest'idea?\r\nPerò, potrebbe essere divertente..."
+
+msgctxt "501||||4"
+msgid "Okay. Here goes nothin'."
+msgstr "Okay. Proviamoci."
+
+msgctxt "502||||4"
+msgid "Kiryu-san... I've always..."
+msgstr "Kiryu-san... Da sempre..."
+
+msgctxt "503||||4"
+msgid "What's wrong?"
+msgstr "Cosa c'è che non va?"
+
+msgctxt "504||||4"
+msgid "You just looked so serious, Kiryu-san!\r\nIt was funny for some reason."
+msgstr "Sei sembrato tutto d'un tratto così serio, Kiryu-san!\r\nÈ stato divertente per qualche ragione."
+
+msgctxt "505||||4"
+msgid "...Confessing is hard, huh?\r\nThanks for lettin' me practice on you."
+msgstr "...Dichiararsi è difficile, eh?\r\nGrazie per avermi lasciato fare pratica con te."
+
+msgctxt "506||||4"
+msgid "Let me know if you ever want\r\nto give it another shot."
+msgstr "Fammi sapere se dovessi mai\r\nvoler fare un altro tentativo."
+
+msgctxt "507||||4"
+msgid "Huh what huh?\r\nHave you ever heard of tact?"
+msgstr "Eh cosa eh?\r\nHai mai sentito parlare di tatto?"
+
+msgctxt "508||||4"
+msgid "Why do you even care?\r\nKiryu-san, you're like a pervy old man."
+msgstr "Perché ti interessa così tanto?\r\nKiryu-san, sei proprio come un vecchietto pervertito."
+
+msgctxt "509||||4"
+msgid "I'm still not really thinking about marriage...\r\nMaybe I should be?"
+msgstr "Non sto ancora pensando al matrimonio...\r\nForse dovrei farlo?"
+
+msgctxt "510||||4"
+msgid "Well, focusing on your job is admirable. You\r\nwouldn't be able to give it your all, otherwise."
+msgstr "Beh, concentrarsi sul lavoro è ammirevole. Altrimenti\r\nnon saresti in grado di dare tutta te stessa."
+
+msgctxt "511||||4"
+msgid "You get me, Kiryu-san.\r\nYeah. I want to focus on my career for now."
+msgstr "Tu sì che mi capisci, Kiryu-san.\r\nSì. Per ora voglio concentrarmi sulla carriera."
+
+msgctxt "512||||4"
+msgid "Is that a compliment?"
+msgstr "È un complimento?"
+
+msgctxt "513||||4"
+msgid "Of course.\r\nI think your whole presentation is great."
+msgstr "Certo.\r\nCredo che tutta la tua immagine sia fantastica."
+
+msgctxt "514||||4"
+msgid "Kiryu-san... I'm thrilled! I actually put a lot\r\nof effort into my presentation."
+msgstr "Kiryu-san... Sono lusingata! In realtà ho messo\r\nun grande impegno nella mia immagine."
+
+msgctxt "515||||4"
+msgid "Does that mean I'm doing a good job?\r\nThat was just the boost of confidence I needed."
+msgstr "Questo vuol dire che sto facendo un buon lavoro?\r\nEra esattamente l'iniezione di fiducia di cui avevo bisogno."
+
+msgctxt "516||||4"
+msgid "I feel like I might have\r\nseen you in Osaka, too."
+msgstr "Sento che potrei averti vista\r\nanche a Osaka."
+
+msgctxt "517||||4"
+msgid "Were you in Osaka a long time ago?"
+msgstr "Eri a Osaka molto tempo fa?"
+
+msgctxt "518||||4"
+msgid "Yeah, I end up there pretty frequently."
+msgstr "Sì, ci finisco abbastanza frequentemente."
+
+msgctxt "519||||4"
+msgid "Then maybe we really have\r\nseen each other before."
+msgstr "Allora forse ci siamo davvero\r\ngià visti prima d'ora."
+
+msgctxt "520||||4"
+msgid "Thanks! I'm not too confident about it,\r\nthough. It's nice to hear that, though."
+msgstr "Grazie! Tuttavia non sono molto sicura di me\r\na riguardo. Ma è comunque bello sentirselo dire."
+
+msgctxt "521||||4"
+msgid "I'd never forgive someone who cheated on me.\r\nYou'd better never, Kiryu-san!"
+msgstr "Non perdonerei mai qualcuno che mi ha tradita.\r\nFaresti meglio a non farlo mai, Kiryu-san!"
+
+msgctxt "522||||4"
+msgid "O-Of course not."
+msgstr "C-Certo che no."
+
+msgctxt "523||||4"
+msgid "Outdoor dates are great! If we went out,\r\nI'd want to see some beautiful scenery."
+msgstr "Gli appuntamenti all'aperto sono magnifici! Se uscissimo,\r\nvorrei vedere qualche bel panorama."
+
+msgctxt "524||||4"
+msgid "Relaxing at home is nice now and then. But if\r\nthat's all ya ever do... it's just a bit sad."
+msgstr "Rilassarsi a casa è bello di tanto in tanto. Ma se fosse\r\nl'unica cosa che fai... sarebbe un pochino triste."
+
+msgctxt "525||||4"
+msgid "Is that how I look?\r\nI didn't!"
+msgstr "Ti sembravo così?\r\nNon è vero!"
+
+msgctxt "526||||4"
+msgid "Is that a marriage proposal?\r\nI'd have preferred a more romantic line..."
+msgstr "È una proposta di matrimonio?\r\nAvrei preferito una frase un po' più romantica..."
+
+msgctxt "527||||4"
+msgid "Sorry, I'm no good at miso soup..."
+msgstr "Scusami, non sono molto brava con la zuppa di miso..."
+
+msgctxt "528||||4"
+msgid "Saying stuff like that only makes you\r\nsound older and older, you know."
+msgstr "Dire cose del genere ti fa solo\r\nsembrare sempre più vecchio, lo sai."
+
+msgctxt "529||||4"
+msgid "I haven't gone lately, actually.\r\nI used to go a lot, though."
+msgstr "Ultimamente non ci sono andata, in realtà.\r\nMa ci andavo spessissimo in passato."
+
+msgctxt "530||||4"
+msgid "Do you go a lot, Kiryu-san?"
+msgstr "Tu ci vai spesso, Kiryu-san?"
+
+msgctxt "531||||4"
+msgid "Well, now and then."
+msgstr "Beh, ogni tanto."
+
+msgctxt "532||||4"
+msgid "Huh. What kind of songs do you sing?"
+msgstr "Uhm. Che genere di canzoni canti?"
+
+msgctxt "533||||4"
+msgid "I used to sing a lot of Enka.\r\nStuff like \"Kamuro Lullaby.\""
+msgstr "Cantavo un sacco di enka.\r\nRoba come \"Kamuro Lullaby\"."
+
+msgctxt "534||||4"
+msgid "Wow, that's so refined.\r\nIt really makes you seem like a mature man."
+msgstr "Wow, che cosa raffinata.\r\nTi fa davvero sembrare un uomo maturo."
+
+msgctxt "535||||4"
+msgid "Rock!\r\nStuff like \"Machine Gun Kiss.\""
+msgstr "Rock!\r\nRoba come \"Machine Gun Kiss\"."
+
+msgctxt "536||||4"
+msgid "Rock, huh? You have a great voice,\r\nso I bet you sound cool!"
+msgstr "Rock, eh? Hai una voce fantastica,\r\nquindi scommetto che deve venirti benissimo!"
+
+msgctxt "537||||4"
+msgid "Interjections."
+msgstr "Faccio i cori."
+
+msgctxt "538||||4"
+msgid "I-Interjections?"
+msgstr "I-I cori?"
+
+msgctxt "539||||4"
+msgid "Yeah. I'm better at getting the mood going\r\nthan singing myself."
+msgstr "Sì. Sono più bravo ad accendere l'atmosfera\r\nche a cantare."
+
+msgctxt "540||||4"
+msgid "Really...?\r\nKiryu-san, you're an odd one."
+msgstr "Davvero...?\r\nKiryu-san, sei un tipo bizzarro."
+
+msgctxt "541||||4"
+msgid "Really? \r\nPersonally I prefer guys that are more safe."
+msgstr "Davvero? \r\nPersonalmente preferisco i tipi più rassicuranti."
+
+msgctxt "542||||4"
+msgid "Wow, I've never met anyone like him.\r\nHe sounds very... unique?"
+msgstr "Wow, non ho mai incontrato nessuno del genere.\r\nSembra un tizio molto... unico?"
+
+msgctxt "543||||4"
+msgid "A friend in the police, huh?\r\nKiryu-san, were you a bad boy?"
+msgstr "Un amico nella polizia, eh?\r\nKiryu-san, eri per caso un cattivo ragazzo?"
+
+msgctxt "544||||4"
+msgid "Well... somewhat."
+msgstr "Beh... più o meno."
+
+msgctxt "545||||4"
+msgid "You're friends with a hot-shot like that?\r\nI'd like to pick his brain."
+msgstr "Sei amico di un pezzo grosso del genere?\r\nMi piacerebbe sondargli il cervello."
+
+msgctxt "546||||4"
+msgid "He's from Kansai too, huh?\r\nMaybe we could be friends. <symbol=note_with_outline>"
+msgstr "Anche lui viene dal Kansai, eh?\r\nForse potremmo diventare amici. <symbol=note_with_outline>"
+
+msgctxt "547||||4"
+msgid "Wow, he's the chairman of the organization?\r\nThat's amazing for his age."
+msgstr "Wow, è il presidente dell'organizzazione?\r\nÈ incredibile per la sua età."
+
+msgctxt "548||||4"
+msgid "There's a sophisticated feel to that place, right?\r\nSeems like a good place to relax."
+msgstr "Quel posto ha un'atmosfera sofisticata, vero?\r\nSembra proprio un buon posto per rilassarsi."
+

@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "29||skill_001||name"
+msgid "Clutch Hitter"
+msgstr "Battitore decisivo"
+
+msgctxt "30||skill_002||name"
+msgid "Superstar"
+msgstr "Superstar"
+
+msgctxt "31||skill_003||name"
+msgid "Lord of Bats"
+msgstr "Signore delle mazze"
+
+msgctxt "32||skill_004||name"
+msgid "Sultan of Swat"
+msgstr "Sultano della sventolata"
+
+msgctxt "33||skill_005||name"
+msgid "Man Who Can't Score"
+msgstr "Incapace di segnare"
+
+msgctxt "34||skill_006||name"
+msgid "Pressure Cooked"
+msgstr "Sotto pressione"
+
+msgctxt "35||skill_007||name"
+msgid "For the Fences"
+msgstr "Puntando alle recinzioni"
+
+msgctxt "36||skill_008||name"
+msgid "Slugger"
+msgstr "Slugger"
+
+msgctxt "37||skill_009||name"
+msgid "Heat Eye"
+msgstr "Occhio del Furore"
+
+msgctxt "38||skill_010||name"
+msgid "National Pastime"
+msgstr "Passatempo nazionale"
+
+msgctxt "39||skill_011||name"
+msgid "God Swing"
+msgstr "Sventolata divina"
+
+msgctxt "40||skill_012||name"
+msgid "Home Run King of the World"
+msgstr "Re del fuoricampo mondiale"
+
+msgctxt "41||skill_013||name"
+msgid "Controlled Hit"
+msgstr "Battuta controllata"
+
+msgctxt "42||skill_014||name"
+msgid "Batting Specialist"
+msgstr "Specialista della battuta"
+
+msgctxt "43||skill_015||name"
+msgid "Eye on the Ball"
+msgstr "Occhi sulla palla"
+
+msgctxt "44||skill_016||name"
+msgid "Third Eye"
+msgstr "Terzo occhio"
+
+msgctxt "45||skill_017||name"
+msgid "Bring 'Em Home"
+msgstr "Riportali a casa"
+
+msgctxt "46||skill_018||name"
+msgid "Grand Slam"
+msgstr "Grand Slam"
+
+msgctxt "47||skill_019||name"
+msgid "Fielder Trainee"
+msgstr "Apprendista difensore"
+
+msgctxt "48||skill_020||name"
+msgid "Fielder Specialist"
+msgstr "Specialista della difesa"
+
+msgctxt "49||skill_021||name"
+msgid "Golden Glove"
+msgstr "Guanto d'oro"
+
+msgctxt "50||skill_022||name"
+msgid "Combo Maker"
+msgstr "Creatore di combo"
+
+msgctxt "51||skill_023||name"
+msgid "Combo Master"
+msgstr "Maestro delle combo"
+
+msgctxt "52||skill_024||name"
+msgid "Base Burglar"
+msgstr "Scassinatore di basi"
+
+msgctxt "53||skill_025||name"
+msgid "Base Bandit"
+msgstr "Bandito delle basi"
+
+msgctxt "54||skill_026||name"
+msgid "In a Pinch"
+msgstr "Al momento del bisogno"
+
+msgctxt "55||skill_027||name"
+msgid "Pinch Master"
+msgstr "Maestro dell'emergenza"
+
+msgctxt "56||skill_028||name"
+msgid "Framing"
+msgstr "Framing"
+
+msgctxt "57||skill_029||name"
+msgid "Tactician"
+msgstr "Tattico"
+
+msgctxt "58||skill_030||name"
+msgid "Mound General"
+msgstr "Generale del monte"
+
+msgctxt "59||skill_031||name"
+msgid "Clean Up"
+msgstr "Clean up"
+
+msgctxt "60||skill_032||name"
+msgid "Leader's Dignity"
+msgstr "Dignità del leader"
+
+msgctxt "61||skill_033||name"
+msgid "The Walk-off Man"
+msgstr "L'uomo del walk-off"
+
+msgctxt "62||skill_034||name"
+msgid "Finisher"
+msgstr "Risolutore"
+
+msgctxt "63||skill_035||name"
+msgid "Sore Loser"
+msgstr "Cattivo perdente"
+
+msgctxt "64||skill_036||name"
+msgid "Comeback Kid"
+msgstr "Re della rimonta"
+
+msgctxt "65||skill_037||name"
+msgid "Hit Maker"
+msgstr "Creatore di valide"
+
+msgctxt "66||skill_038||name"
+msgid "Batting Prodigy"
+msgstr "Prodigio della battuta"
+
+msgctxt "67||skill_039||name"
+msgid "Attention-seeker"
+msgstr "In cerca di attenzioni"
+
+msgctxt "68||skill_040||name"
+msgid "Super Play"
+msgstr "Super giocata"
+
+msgctxt "69||skill_041||name"
+msgid "Weak Heart"
+msgstr "Cuore debole"
+
+msgctxt "70||skill_042||name"
+msgid "Ijizakura"
+msgstr "Ijizakura"
+
+msgctxt "71||skill_043||name"
+msgid "Doctor K"
+msgstr "Dottor K"
+
+msgctxt "72||skill_044||name"
+msgid "Strikeout King"
+msgstr "Re dello strikeout"
+
+msgctxt "73||skill_045||name"
+msgid "Relief Ace"
+msgstr "Asso del rilievo"
+
+msgctxt "74||skill_046||name"
+msgid "Lifesaver"
+msgstr "Salvatore"
+
+msgctxt "75||skill_047||name"
+msgid "Stress Tolerant"
+msgstr "Tollerante allo stress"
+
+msgctxt "76||skill_048||name"
+msgid "Glass Heart"
+msgstr "Cuore di vetro"
+
+msgctxt "77||skill_049||name"
+msgid "Rising Fastball"
+msgstr "Palla veloce a salire"
+
+msgctxt "78||skill_050||name"
+msgid "Change-up"
+msgstr "Change-up"
+
+msgctxt "79||skill_051||name"
+msgid "Rocket"
+msgstr "Razzo"
+
+msgctxt "80||skill_052||name"
+msgid "Crossfire"
+msgstr "Fuoco incrociato"
+
+msgctxt "81||skill_053||name"
+msgid "7th Inning Stretch"
+msgstr "Stretch del 7° inning"
+
+msgctxt "82||skill_054||name"
+msgid "Gyroball"
+msgstr "Gyroball"
+
+msgctxt "29||skill_001||explanation"
+msgid "In clutch moments, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase slightly</color>."
+msgstr "Nei momenti decisivi, <color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano leggermente</color>."
+
+msgctxt "30||skill_002||explanation"
+msgid "In clutch moments, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>."
+msgstr "Nei momenti decisivi, <color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "31||skill_003||explanation"
+msgid "In clutch moments, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>."
+msgstr "Nei momenti decisivi, <color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano notevolmente</color>."
+
+msgctxt "32||skill_004||explanation"
+msgid "In clutch moments, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>."
+msgstr "Nei momenti decisivi, <color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano notevolmente</color>."
+
+msgctxt "33||skill_005||explanation"
+msgid "In clutch moments, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_blue>decrease</color>."
+msgstr "Nei momenti decisivi, <color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_blue>diminuiscono</color>."
+
+msgctxt "34||skill_006||explanation"
+msgid "When under pressure, <color=batting_pitch_yellow>the likelihood of striking out</color> <color=batting_pitch_blue>increases</color>."
+msgstr "Quando si è sotto pressione, <color=batting_pitch_yellow>la probabilità di strikeout</color> <color=batting_pitch_blue>aumenta</color>."
+
+msgctxt "35||skill_007||explanation"
+msgid "In exchange for <color=batting_pitch_yellow>the likelihood of striking out</color> <color=batting_pitch_blue>increasing</color>,\r\n<color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "A costo di un <color=batting_pitch_blue>aumento</color> della <color=batting_pitch_yellow>probabilità di strikeout</color>,\r\n<color=batting_pitch_yellow>la probabilità di colpire un fuoricampo</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "36||skill_008||explanation"
+msgid "In exchange for <color=batting_pitch_yellow>the likelihood of striking out</color> <color=batting_pitch_blue>increasing</color>,\r\n<color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases greatly</color>."
+msgstr "A costo di un <color=batting_pitch_blue>aumento</color> della <color=batting_pitch_yellow>probabilità di strikeout</color>,\r\n<color=batting_pitch_yellow>la probabilità di colpire un fuoricampo</color> <color=batting_pitch_red>aumenta notevolmente</color>."
+
+msgctxt "37||skill_009||explanation"
+msgid "<color=batting_pitch_yellow>Slugging</color> and <color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases slightly</color>."
+msgstr "<color=batting_pitch_yellow>Potenza</color> e <color=batting_pitch_yellow>la probabilità di colpire un fuoricampo</color> <color=batting_pitch_red>aumentano leggermente</color>."
+
+msgctxt "38||skill_010||explanation"
+msgid "<color=batting_pitch_yellow>Slugging</color> and <color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases slightly</color>."
+msgstr "<color=batting_pitch_yellow>Potenza</color> e <color=batting_pitch_yellow>la probabilità di colpire un fuoricampo</color> <color=batting_pitch_red>aumentano leggermente</color>."
+
+msgctxt "39||skill_011||explanation"
+msgid "<color=batting_pitch_yellow>Slugging</color> and <color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "<color=batting_pitch_yellow>Potenza</color> e <color=batting_pitch_yellow>la probabilità di colpire un fuoricampo</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "40||skill_012||explanation"
+msgid "<color=batting_pitch_yellow>Slugging</color> and <color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "<color=batting_pitch_yellow>Potenza</color> e <color=batting_pitch_yellow>la probabilità di colpire un fuoricampo</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "41||skill_013||explanation"
+msgid "He'll be <color=batting_pitch_red>more likely to hit</color> <color=batting_pitch_yellow> toward the opposite side of the field</color>."
+msgstr "Avrà <color=batting_pitch_red>più probabilità di battere</color> <color=batting_pitch_yellow>verso il lato opposto del campo</color>."
+
+msgctxt "42||skill_014||explanation"
+msgid "<color=batting_pitch_yellow>The likelihood of getting a hit</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "<color=batting_pitch_yellow>La probabilità di mettere a segno una valida</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "43||skill_015||explanation"
+msgid "<color=batting_pitch_yellow>The likelihood of striking out</color> <color=batting_pitch_red>decreases moderately</color>."
+msgstr "<color=batting_pitch_yellow>La probabilità di strikeout</color> <color=batting_pitch_red>diminuisce moderatamente</color>."
+
+msgctxt "44||skill_016||explanation"
+msgid "<color=batting_pitch_yellow>The likelihood of striking out</color> <color=batting_pitch_red>decreases tremendously</color>."
+msgstr "<color=batting_pitch_yellow>La probabilità di strikeout</color> <color=batting_pitch_red>diminuisce immensamente</color>."
+
+msgctxt "45||skill_017||explanation"
+msgid "When bases are loaded, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>."
+msgstr "Con le basi piene, <color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "46||skill_018||explanation"
+msgid "When bases are loaded, <color=batting_pitch_yellow>Batting</color> <color=batting_pitch_red>increases moderately</color>,\r\nwhile <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increases tremendously</color>."
+msgstr "Con le basi piene, la <color=batting_pitch_yellow>Battuta</color> <color=batting_pitch_red>aumenta moderatamente</color>,\r\nmentre la <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumenta immensamente</color>."
+
+msgctxt "47||skill_019||explanation"
+msgid "<color=batting_pitch_yellow>The likelihood of causing an error</color> <color=batting_pitch_red>decreases slightly</color>."
+msgstr "<color=batting_pitch_yellow>La probabilità di commettere un errore</color> <color=batting_pitch_red>diminuisce leggermente</color>."
+
+msgctxt "48||skill_020||explanation"
+msgid "<color=batting_pitch_yellow>The likelihood of causing an error</color> <color=batting_pitch_red>decreases moderately</color>."
+msgstr "<color=batting_pitch_yellow>La probabilità di commettere un errore</color> <color=batting_pitch_red>diminuisce moderatamente</color>."
+
+msgctxt "49||skill_021||explanation"
+msgid "<color=batting_pitch_red>He won't cause any errors.</color>"
+msgstr "<color=batting_pitch_red>Non commetterà alcun errore.</color>"
+
+msgctxt "50||skill_022||explanation"
+msgid "When the preceding batter gets a hit,\r\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>."
+msgstr "Quando il battitore precedente mette a segno una valida,\r\n<color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "51||skill_023||explanation"
+msgid "When the preceding batter gets a hit,\r\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>."
+msgstr "Quando il battitore precedente mette a segno una valida,\r\n<color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano notevolmente</color>."
+
+msgctxt "52||skill_024||explanation"
+msgid "<color=batting_pitch_yellow>The success rate of base stealing</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "<color=batting_pitch_yellow>La percentuale di successo dei furti di base</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "53||skill_025||explanation"
+msgid "<color=batting_pitch_yellow>The success rate of base stealing</color> <color=batting_pitch_red>increases greatly</color>."
+msgstr "<color=batting_pitch_yellow>La percentuale di successo dei furti di base</color> <color=batting_pitch_red>aumenta notevolmente</color>."
+
+msgctxt "54||skill_026||explanation"
+msgid "When entering as a pinch-hitter, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>."
+msgstr "Quando entra come battitore emergente, <color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "55||skill_027||explanation"
+msgid "When entering as a pinch-hitter, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>."
+msgstr "Quando entra come battitore emergente, <color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano notevolmente</color>."
+
+msgctxt "56||skill_028||explanation"
+msgid "When protecting the catcher, <color=batting_pitch_yellow>the pitcher's Control</color> <color=batting_pitch_red>increases slightly</color>."
+msgstr "Quando gioca come ricevitore, <color=batting_pitch_yellow>il Controllo del lanciatore</color> <color=batting_pitch_red>aumenta leggermente</color>."
+
+msgctxt "57||skill_029||explanation"
+msgid "When protecting the catcher, <color=batting_pitch_yellow>the pitcher's Control</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "Quando gioca come ricevitore, <color=batting_pitch_yellow>il Controllo del lanciatore</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "58||skill_030||explanation"
+msgid "When protecting the catcher, <color=batting_pitch_yellow>the pitcher's Control</color> <color=batting_pitch_red>increases greatly</color>."
+msgstr "Quando gioca come ricevitore, <color=batting_pitch_yellow>il Controllo del lanciatore</color> <color=batting_pitch_red>aumenta notevolmente</color>."
+
+msgctxt "59||skill_031||explanation"
+msgid "When his batting order is 3, 4, or 5, <color=batting_pitch_yellow>Batting</color> <color=batting_pitch_red>increases slightly</color>."
+msgstr "Quando il suo turno di battuta è il 3, 4 o 5, la <color=batting_pitch_yellow>Battuta</color> <color=batting_pitch_red>aumenta leggermente</color>."
+
+msgctxt "60||skill_032||explanation"
+msgid "When his batting order is 3, 4, or 5, <color=batting_pitch_yellow>Batting</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "Quando il suo turno di battuta è il 3, 4 o 5, la <color=batting_pitch_yellow>Battuta</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "61||skill_033||explanation"
+msgid "During a chance of a walk-off win,\r\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>."
+msgstr "Durante una possibile vittoria walk-off,\r\n<color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "62||skill_034||explanation"
+msgid "During a chance of a walk-off win, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>."
+msgstr "Durante una possibile vittoria walk-off, <color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano notevolmente</color>."
+
+msgctxt "63||skill_035||explanation"
+msgid "When he's up to bat while the team is losing,\r\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase slightly</color>."
+msgstr "Quando va in battuta mentre la squadra sta perdendo,\r\n<color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano leggermente</color>."
+
+msgctxt "64||skill_036||explanation"
+msgid "When he's up to bat while the team is losing,\r\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>."
+msgstr "Quando va in battuta mentre la squadra sta perdendo,\r\n<color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "65||skill_037||explanation"
+msgid "<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>."
+msgstr "<color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "66||skill_038||explanation"
+msgid "<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>."
+msgstr "<color=batting_pitch_yellow>Battuta</color> e <color=batting_pitch_yellow>Potenza</color> <color=batting_pitch_red>aumentano notevolmente</color>."
+
+msgctxt "67||skill_039||explanation"
+msgid "In exchange for <color=batting_pitch_yellow>the likelihood of causing an error</color> <color=batting_pitch_blue>increases moderately</color>,\r\n<color=batting_pitch_yellow>the likelihood of making a great catch</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "A costo di un <color=batting_pitch_blue>moderato aumento</color> della <color=batting_pitch_yellow>probabilità di commettere un errore</color>,\r\n<color=batting_pitch_yellow>la probabilità di effettuare una grande presa</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "68||skill_040||explanation"
+msgid "<color=batting_pitch_yellow>The likelihood of making a great catch</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "<color=batting_pitch_yellow>La probabilità di effettuare una grande presa</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "69||skill_041||explanation"
+msgid "In clutch moments, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_blue>decrease moderately</color>."
+msgstr "Nei momenti decisivi, <color=batting_pitch_yellow>Velocità</color> e <color=batting_pitch_yellow>Controllo</color> <color=batting_pitch_blue>diminuiscono moderatamente</color>."
+
+msgctxt "70||skill_042||explanation"
+msgid "In clutch moments, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase moderately</color>."
+msgstr "Nei momenti decisivi, <color=batting_pitch_yellow>Velocità</color> e <color=batting_pitch_yellow>Controllo</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "71||skill_043||explanation"
+msgid "<color=batting_pitch_yellow>The likelihood of striking out a batter</color> <color=batting_pitch_red>increases slightly</color>."
+msgstr "<color=batting_pitch_yellow>La probabilità di eliminare un battitore per strikeout</color> <color=batting_pitch_red>aumenta leggermente</color>."
+
+msgctxt "72||skill_044||explanation"
+msgid "<color=batting_pitch_yellow>The likelihood of striking out a batter</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "<color=batting_pitch_yellow>La probabilità di eliminare un battitore per strikeout</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "73||skill_045||explanation"
+msgid "When coming on as relief, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase slightly</color>."
+msgstr "Quando entra come rilievo, <color=batting_pitch_yellow>Velocità</color> e <color=batting_pitch_yellow>Controllo</color> <color=batting_pitch_red>aumentano leggermente</color>."
+
+msgctxt "74||skill_046||explanation"
+msgid "When coming on as relief, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase moderately</color>."
+msgstr "Quando entra come rilievo, <color=batting_pitch_yellow>Velocità</color> e <color=batting_pitch_yellow>Controllo</color> <color=batting_pitch_red>aumentano moderatamente</color>."
+
+msgctxt "75||skill_047||explanation"
+msgid "In clutch moments, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase slightly</color>."
+msgstr "Nei momenti decisivi, <color=batting_pitch_yellow>Velocità</color> e <color=batting_pitch_yellow>Controllo</color> <color=batting_pitch_red>aumentano leggermente</color>."
+
+msgctxt "76||skill_048||explanation"
+msgid "When his pitches get hit repeatedly, his <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color>\r\n<color=batting_pitch_blue>decrease moderately</color> while going against the next batter."
+msgstr "Quando i suoi lanci vengono colpiti ripetutamente, <color=batting_pitch_yellow>Velocità</color> e <color=batting_pitch_yellow>Controllo</color>\r\n<color=batting_pitch_blue>diminuiscono moderatamente</color> contro il battitore successivo."
+
+msgctxt "77||skill_049||explanation"
+msgid "<color=batting_pitch_yellow>The likelihood of striking out a batter</color> <color=batting_pitch_red>increases tremendously</color>."
+msgstr "<color=batting_pitch_yellow>La probabilità di eliminare un battitore per strikeout</color> <color=batting_pitch_red>aumenta immensamente</color>."
+
+msgctxt "78||skill_050||explanation"
+msgid "In clutch moments, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase tremendously</color>."
+msgstr "Nei momenti decisivi, <color=batting_pitch_yellow>Velocità</color> e <color=batting_pitch_yellow>Controllo</color> <color=batting_pitch_red>aumentano immensamente</color>."
+
+msgctxt "79||skill_051||explanation"
+msgid "<color=batting_pitch_yellow>Speed</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "La <color=batting_pitch_yellow>Velocità</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "80||skill_052||explanation"
+msgid "When pitching the ball diagonally from the\r\ndominant arm, <color=batting_pitch_yellow>Speed</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "Quando lancia la palla in diagonale dal\r\nbraccio dominante, la <color=batting_pitch_yellow>Velocità</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "81||skill_053||explanation"
+msgid "When taking the mound at 7th inning or later, <color=batting_pitch_yellow>Speed</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "Quando sale sul monte dal 7° inning in poi, la <color=batting_pitch_yellow>Velocità</color> <color=batting_pitch_red>aumenta moderatamente</color>."
+
+msgctxt "82||skill_054||explanation"
+msgid "<color=batting_pitch_yellow>Speed</color> <color=batting_pitch_red>increases moderately</color>."
+msgstr "La <color=batting_pitch_yellow>Velocità</color> <color=batting_pitch_red>aumenta moderatamente</color>."

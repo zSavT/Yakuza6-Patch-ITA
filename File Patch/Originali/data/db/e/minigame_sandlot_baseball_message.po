@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||pitcher||text"
+msgid "P"
+msgstr ""
+
+msgctxt "2||catcher||text"
+msgid "C"
+msgstr ""
+
+msgctxt "6||short_stop||text"
+msgid "SS"
+msgstr ""
+
+msgctxt "7||left||text"
+msgid "LF"
+msgstr ""
+
+msgctxt "8||center||text"
+msgid "CF"
+msgstr ""
+
+msgctxt "9||right||text"
+msgid "RF"
+msgstr ""
+
+msgctxt "10||designated_hitter||text"
+msgid "DH"
+msgstr ""
+
+msgctxt "12||homerun||text"
+msgid "HR"
+msgstr ""
+
+msgctxt "13||base_on_balls||text"
+msgid "BB"
+msgstr ""
+
+msgctxt "14||inning_1st||text"
+msgid "1st"
+msgstr ""
+
+msgctxt "15||inning_2nd||text"
+msgid "2nd"
+msgstr ""
+
+msgctxt "16||inning_3rd||text"
+msgid "3rd"
+msgstr ""
+
+msgctxt "17||inning_4th||text"
+msgid "4th"
+msgstr ""
+
+msgctxt "18||inning_5th||text"
+msgid "5th"
+msgstr ""
+
+msgctxt "19||inning_6th||text"
+msgid "6th"
+msgstr ""
+
+msgctxt "20||inning_7th||text"
+msgid "7th"
+msgstr ""
+
+msgctxt "21||inning_8th||text"
+msgid "8th"
+msgstr ""
+
+msgctxt "22||innint_9th||text"
+msgid "9th"
+msgstr ""
+
+msgctxt "23||top||text"
+msgid "Top"
+msgstr ""
+
+msgctxt "24||bottom||text"
+msgid "Bottom"
+msgstr ""
+
+msgctxt "25||cold||text"
+msgid "X"
+msgstr ""
+
+msgctxt "31||pitcher_initial||text"
+msgid "P"
+msgstr ""
+
+msgctxt "32||button_info_shikaku||text"
+msgid "Switch Players"
+msgstr ""
+
+msgctxt "33||button_info_sankaku||text"
+msgid "(${intervention_num} Interventions left)"
+msgstr ""
+
+msgctxt "34||button_info_maru||text"
+msgid "Next"
+msgstr ""
+
+msgctxt "35||button_info_R1_manual||text"
+msgid "Manual"
+msgstr ""
+
+msgctxt "36||button_info_R1_auto||text"
+msgid "Auto"
+msgstr ""
+
+msgctxt "37||button_info_R1_high_speed||text"
+msgid "Fast Forward"
+msgstr ""
+
+msgctxt "38||pitcher_full||text"
+msgid "Pitcher"
+msgstr ""
+
+msgctxt "39||catcher_full||text"
+msgid "Catcher"
+msgstr ""
+
+msgctxt "43||short_stop_full||text"
+msgid "Shortstop"
+msgstr ""
+
+msgctxt "44||outfielder_full||text"
+msgid "Outfielder"
+msgstr ""
+
+msgctxt "45||right_pitch||text"
+msgid "Righty Pitcher"
+msgstr ""
+
+msgctxt "46||left_pitch||text"
+msgid "Lefty Pitcher"
+msgstr ""
+
+msgctxt "47||right_hit||text"
+msgid "Righty Batter"
+msgstr ""
+
+msgctxt "48||left_hit||text"
+msgid "Lefty Batter"
+msgstr ""
+
+msgctxt "49||outfielder||text"
+msgid "OF"
+msgstr ""
+
+msgctxt "50||first||text"
+msgid "1B"
+msgstr ""
+
+msgctxt "51||second||text"
+msgid "2B"
+msgstr ""
+
+msgctxt "52||third||text"
+msgid "3B"
+msgstr ""
+
+msgctxt "53||first_full||text"
+msgid "1st Baseman"
+msgstr ""
+
+msgctxt "54||second_full||text"
+msgid "2nd Baseman"
+msgstr ""
+
+msgctxt "55||third_full||text"
+msgid "3rd Baseman"
+msgstr ""
+
+msgctxt "56||hit||text"
+msgid "H"
+msgstr ""
+
+msgctxt "57||hit_2base||text"
+msgid "2B"
+msgstr ""
+
+msgctxt "58||hit_3base||text"
+msgid "3B"
+msgstr ""
+
+msgctxt "61||error||text"
+msgid "E"
+msgstr ""
+
+msgctxt "62||fly||text"
+msgid "FB"
+msgstr ""
+
+msgctxt "63||grounder||text"
+msgid "GB"
+msgstr ""
+
+msgctxt "65||homerun_unit||text"
+msgid "${homerun_num}"
+msgstr ""
+
+msgctxt "66||homerun_unit_consecutive||text"
+msgid "${homerun_num},"
+msgstr ""
+
+msgctxt "68||closed_challenge||text"
+msgid "???"
+msgstr ""
+
+msgctxt "69||inning||text"
+msgid "Inning"
+msgstr ""
+
+msgctxt "70||slash||text"
+msgid "/"
+msgstr ""
+
+msgctxt "71||hyphen||text"
+msgid "-"
+msgstr ""
+
+msgctxt "72||plus||text"
+msgid "+"
+msgstr ""
+
+msgctxt "73||level||text"
+msgid "Lv."
+msgstr ""
+
+msgctxt "74||arrow||text"
+msgid "<symbol=arrow_right>"
+msgstr ""
+
+msgctxt "75||MAX||text"
+msgid "<color=batting_pitch_red>MAX</color>"
+msgstr ""
+
+msgctxt "76||win_num||text"
+msgid "Wins"
+msgstr ""
+
+msgctxt "77||save_num||text"
+msgid "S"
+msgstr ""
+
+msgctxt "80||training_confirm_message||text"
+msgid "Use one <color=batting_pitch_red>Training Ticket</color> to train <color=batting_pitch_yellow>${player_name}</color>?"
+msgstr ""
+
+msgctxt "82||training_level_max||text"
+msgid "<color=batting_pitch_yellow>${player_name}</color> is already maxed out."
+msgstr ""
+
+msgctxt "90||success||text"
+msgid "<color=batting_pitch_red>Success!</color>"
+msgstr ""
+
+msgctxt "91||failure||text"
+msgid "<color=batting_pitch_blue>Fail...</color>"
+msgstr ""
+
+msgctxt "92||training_no_ticket||text"
+msgid "No <color=batting_pitch_red>Training Tickets</color> left. Get more by winning!"
+msgstr ""
+
+msgctxt "93||substitute||text"
+msgid "SUB"
+msgstr ""
+
+msgctxt "94||close_detail_flow||text"
+msgid "Close the results screen?"
+msgstr ""
+
+msgctxt "95||skill_explanation_message||text"
+msgid "\r\n${name}\r\n\r\n${explanation}"
+msgstr ""
+
+msgctxt "97||training_gain_experience_normal||text"
+msgid "That Training Went Well!\r\nGained <color=batting_pitch_red>100</color> EXP!\r\n\r\n<color=batting_pitch_yellow>${after_experience}</color> EXP left to level up!"
+msgstr ""
+
+msgctxt "98||training_gain_experience_great||text"
+msgid "That Training Went <color=batting_pitch_red>Great</color>!\r\nGained <color=batting_pitch_red>150</color> EXP!\r\n\r\n<color=batting_pitch_yellow>${after_experience}</color> EXP left to level up!"
+msgstr ""
+
+msgctxt "99||use_ticket_limig_warning||text"
+msgid "You've used the max number of Training Tickets already.\r\n*You can only use <color=batting_pitch_red>one</color> training ticket per player.\r\n*Limits <color=batting_pitch_red>reset when you play a game</color>."
+msgstr ""
+
+msgctxt "101||result_ticket_clear||text"
+msgid "Challenge Clear"
+msgstr ""
+
+msgctxt "102||result_ticket_bonus||text"
+msgid "Bonus Clear"
+msgstr ""
+
+msgctxt "103||result_ticket_get||text"
+msgid "Tickets Acquired"
+msgstr ""
+
+msgctxt "104||result_ticket_total||text"
+msgid "Total Tickets Held"
+msgstr ""
+
+msgctxt "105||info_window_member||text"
+msgid "Choose a starting lineup."
+msgstr ""
+
+msgctxt "106||info_window_change_player||text"
+msgid "Change positions and switch players."
+msgstr ""
+
+msgctxt "107||info_window_training||text"
+msgid "Choose a player to train using a <color=batting_pitch_red>Training Ticket</color>.\r\n*Limit one Training Ticket per player per game."
+msgstr ""
+
+msgctxt "108||info_window_menu||text"
+msgid "Choose an option."
+msgstr ""
+
+msgctxt "109||strikeout_looking||text"
+msgid "Ⓚ"
+msgstr ""
+
+msgctxt "110||strikeout_swinging||text"
+msgid "K"
+msgstr ""
+
+msgctxt "111||sacrifice||text"
+msgid "SF"
+msgstr ""
+
+msgctxt "112||catcher_eng||text"
+msgid "Catcher"
+msgstr ""
+
+msgctxt "113||first_eng||text"
+msgid "1st Baseman"
+msgstr ""
+
+msgctxt "114||second_eng||text"
+msgid "2nd Baseman"
+msgstr ""
+
+msgctxt "115||third_eng||text"
+msgid "3rd Baseman"
+msgstr ""
+
+msgctxt "116||short_stop_eng||text"
+msgid "Shortstop"
+msgstr ""
+
+msgctxt "117||left_eng||text"
+msgid "Left Fielder"
+msgstr ""
+
+msgctxt "118||center_eng||text"
+msgid "Center Fielder"
+msgstr ""
+
+msgctxt "119||right_eng||text"
+msgid "Right Fielder"
+msgstr ""
+
+msgctxt "120||designated_hitter_eng||text"
+msgid "DH"
+msgstr ""
+
+msgctxt "121||breaking_ball_text||text"
+msgid "<color=${pitch_color}>${pitch_name}</color>"
+msgstr ""
+
+msgctxt "122||font_color_hit||text"
+msgid "baseball_hit"
+msgstr ""
+
+msgctxt "123||font_color_out||text"
+msgid "default"
+msgstr ""
+
+msgctxt "124||font_color_base_on_balls||text"
+msgid "baseball_base_on_balls"
+msgstr ""
+
+msgctxt "125||member_title_starting_member||text"
+msgid "Starting Lineup"
+msgstr ""
+
+msgctxt "126||member_title_change_player||text"
+msgid "Player"
+msgstr ""
+

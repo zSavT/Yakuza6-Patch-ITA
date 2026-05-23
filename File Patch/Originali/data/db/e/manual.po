@@ -1,0 +1,1653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "14||mahjong0||title"
+msgid "Mahjong: Rules"
+msgstr ""
+
+msgctxt "15||clan_creator0||title"
+msgid "Clan Creator (Battle)"
+msgstr ""
+
+msgctxt "16||gym_benchpress0||title"
+msgid "Bench Press"
+msgstr ""
+
+msgctxt "17||gym_squat0||title"
+msgid "Squats"
+msgstr ""
+
+msgctxt "18||gym_deadlift0||title"
+msgid "Dead Lifts"
+msgstr ""
+
+msgctxt "19||gym_squatjump0||title"
+msgid "Jump Squats"
+msgstr ""
+
+msgctxt "20||gym_latpulldown0||title"
+msgid "Lat Pulldowns"
+msgstr ""
+
+msgctxt "21||gym_seatedrowing0||title"
+msgid "Seated Row"
+msgstr ""
+
+msgctxt "22||mahjong1||title"
+msgid "Mahjong: Hands"
+msgstr ""
+
+msgctxt "23||karaoke0||title"
+msgid "Karaoke"
+msgstr ""
+
+msgctxt "24||darts0||title"
+msgid "Darts"
+msgstr ""
+
+msgctxt "26||live_chat0||title"
+msgid "Live Chat"
+msgstr ""
+
+msgctxt "27||spear0||title"
+msgid "Spearfishing"
+msgstr ""
+
+msgctxt "28||batting0||title"
+msgid "Batting Center"
+msgstr ""
+
+msgctxt "29||baseball0||title"
+msgid "Baseball"
+msgstr ""
+
+msgctxt "30||snack0||title"
+msgid "Bar Conversations"
+msgstr ""
+
+msgctxt "31||cabaret0||title"
+msgid "Cabaret Club"
+msgstr ""
+
+msgctxt "32||saisen0||title"
+msgid "Offering Box"
+msgstr ""
+
+msgctxt "33||sega_fzn||title"
+msgid "Fantasy Zone"
+msgstr ""
+
+msgctxt "34||sega_hng||title"
+msgid "Super Hang-On"
+msgstr ""
+
+msgctxt "35||sega_otr||title"
+msgid "Out Run"
+msgstr ""
+
+msgctxt "36||sega_sph||title"
+msgid "Space Harrier"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||title"
+msgid "Virtua Fighter 5 Final Showdown"
+msgstr ""
+
+msgctxt "38||puyopuyo0||title"
+msgid "Puyo Puyo"
+msgstr ""
+
+msgctxt "39||clan_creator1||title"
+msgid "Clan Creator (Menu)"
+msgstr ""
+
+msgctxt "40||batting1||title"
+msgid "Batting Center"
+msgstr ""
+
+msgctxt "41||mahjong0_b||title"
+msgid "Mahjong: Rules"
+msgstr ""
+
+msgctxt "42||mahjong1_b||title"
+msgid "Mahjong: Hands"
+msgstr ""
+
+msgctxt "14||mahjong0||table||56||||6"
+msgid "Four players compete to be the first to complete a 14-tile hand.\r\nThis hand is typically composed of 4 groups of 3-tile combinations and 1 pair. \r\n\r\nThe point value of a player's hand is determined by the tiles they have collected.\r\nFor a list of mahjong hands, please refer to Hands. \r\n\r\nEach player takes turns drawing and discarding tiles to construct their hand to reach the win condition.\r\nIn addition to drawing them, players can steal certain tiles that their opponents discard. \r\n"
+msgstr ""
+
+msgctxt "14||mahjong0||table||57||||6"
+msgid "A game of mahjong consists of 136 tiles. There are exactly 4 copies of each tile, resulting in 34 unique tiles. \r\n<color=mg_relu_topic>Tiles:</color> Numbers 1-9 of 3 different suits: Circles, Bamboo, & Characters\r\n      4 Wind tiles (East, South, West, North)\r\n      3 Dragon tiles (White, Green, Red)\r\n\r\n\r\n\r\n\r\nThe Wind and Dragon tiles are collectively referred to as honor tiles. \r\nTiles 1 and 9 of each suit are referred to as terminal tiles.  \r\n"
+msgstr ""
+
+msgctxt "14||mahjong0||table||58||||6"
+msgid "The three suits are fairly easy to identify:\r\n\r\n<color=mg_relu_topic>Circles:</color>"
+msgstr ""
+
+msgctxt "14||mahjong0||table||59||||6"
+msgid "<color=mg_relu_topic>Winds:</color>\r\nEast, South, West, North."
+msgstr ""
+
+msgctxt "14||mahjong0||table||60||||6"
+msgid "<color=mg_relu_topic>Hand:</color>\r\nThis region contains the tiles you are using to construct your winning hand.\r\nTiles you want to keep will remain here.   \r\n"
+msgstr ""
+
+msgctxt "14||mahjong0||table||61||||6"
+msgid "<color=mg_relu_topic>Discard Area:</color>\r\nThis region below the player name is the discard area.\r\nYou can get an idea of the other players' hands by looking at what they discard. \r\n\r\n<color=mg_relu_topic>Meld Area:</color>\r\nThe region to the right of your hand is your meld area. \r\nSets made from stolen discards are placed here.\r\nThese tiles are locked and you cannot take them apart to change up your hand.\r\nRemember, your melds can be seen by everyone!\r\n\r\n<color=mg_relu_topic>A Note on Stealing Tiles:</color>\r\nA hand that has no exposed melds is called a concealed hand. It is generally considered smarter play\r\nto keep your hand concealed for as long as you can, so melding (stealing) isn't always the right move."
+msgstr ""
+
+msgctxt "14||mahjong0||table||62||||6"
+msgid "<color=mg_relu_topic>Dealer:</color>\r\nThe dealer starts off each game, and the position rotates each round. \r\n\r\nWhen you win a game as the dealer, you earn more points than usual; conversely, \r\nif the dealer wins off your discard, you pay more. \r\nIf you win a hand as the dealer (or if the game ends in a draw),\r\nyou remain the dealer until another player wins. \r\n\r\n<color=mg_relu_topic>Dora:</color>\r\nIn the center area, there are tiles that represent the dora.\r\nOnly one is revealed at the start, but more can be flipped to create point bonuses."
+msgstr ""
+
+msgctxt "14||mahjong0||table||63||||6"
+msgid "The sets you need to collect are divided into chi, pon, and kan:\r\n\r\n<color=mg_relu_topic>Chi:</color>\r\nThree consecutive numbered tiles of the same suit."
+msgstr ""
+
+msgctxt "14||mahjong0||table||64||||6"
+msgid "<color=mg_relu_topic>Kan:</color>\r\nFour-of-a-kind of the same tile."
+msgstr ""
+
+msgctxt "14||mahjong0||table||65||||6"
+msgid "Mahjong can be overwhelming for new players. Here are a few suggested hands\r\nto aim for when you're getting started:\r\n\r\n<color=mg_relu_topic>All Simples</color>\r\nSimply discard any tiles that are not 2-8 of a suit. If the rule Kuitan is set, you\r\nare able to freely steal discards, making this one of the most accessible ways to win.\r\n\r\n<color=mg_relu_topic>Dragon Triplet or Prevailing Wind/Seat Wind</color>\r\nYou can win with any tile combination as long as you have at least one triplet of\r\na Dragon, one triplet of your seat Wind, or one triplet of the round Wind."
+msgstr ""
+
+msgctxt "14||mahjong0||table||66||||6"
+msgid "As you play through a game, you will draw and discard tiles while trying to\r\nform sets of straights and three-of-a-kinds to meet the win condition.\r\nSometimes you can steal from others players to reach that goal quicker."
+msgstr ""
+
+msgctxt "14||mahjong0||table||67||||6"
+msgid "But do note　that there are alternate win conditions, such as Seven Pairs, or more\r\nadvanced hands such as Thirteen Orphans, which have higher point values."
+msgstr ""
+
+msgctxt "14||mahjong0||table||68||||6"
+msgid "Immediately after an opponent discards a tile, you can claim and add it to your hand, creating\r\na \"meld.\" Melds are divided into <color=mg_relu_topic>pon</color>, <color=mg_relu_topic>chi</color>, and <color=mg_relu_topic>kan</color>, explained on the next page.\r\n\r\nSeveral scoring elements are only valid in concealed hands and others are reduced in value when\r\na player has one or more exposed melds, so remember, steal wisely."
+msgstr ""
+
+msgctxt "14||mahjong0||table||69||||6"
+msgid "<color=mg_relu_topic>Chi: </color>\r\nIf an opponent discards a tile that completes a 3-number straight, that\r\ntile can be claimed and melded to form a set by selecting \"Chi.\" You can only\r\nsteal a tile from the opponent sitting to your left for this meld.\r\n\r\n<color=mg_relu_topic>Pon: </color>\r\nIf an opponent discards a tile that matches a pair in your hand, that\r\ntile can be claimed and melded to form a triplet by selecting \"Pon.\"\r\n\r\n<color=mg_relu_topic>Kan: </color>\r\nIf you have a triplet and an opponent discards a fourth matching tile,\r\nyou can select \"Kan\" to claim it and form an exposed kan. If you have an\r\nexposed pon and draw the fourth tile, you may select \"Kan\" to upgrade that\r\npon into a kan. Each time a kan is announced, a new dora (bonus title) is added."
+msgstr ""
+
+msgctxt "14||mahjong0||table||70||||6"
+msgid "If you manage to draw all 4 of the same tile, you can declare a concealed\r\nkan. This differs from the normal one in that your hand is still technically\r\nconcealed, and you reap the benefits of making a kan.\r\n\r\n<color=mg_relu_topic>Riichi:</color>\r\nIf you have a concealed hand that needs only one more tile to win, you \r\ncan declare \"Riichi\" by paying 1,000 points. However, you will not be able \r\nto change the tiles in your hand and are forced to discard any draws that \r\nare not your winning tile.\r\nThe advantage of declaring Riichi is the potential to increase the value of\r\nyour hand."
+msgstr ""
+
+msgctxt "14||mahjong0||table||71||||6"
+msgid "Each round of mahjong has a tile representing the dora. By having your hand\r\nconsist of tiles that correspond to the doras revealed, you can increase the\r\nvalue of your hand; it can potentially turn a mediocre hand into a high-value\r\nhand!\r\n\r\nThe dora is the indicator's succeeding tile:\r\n\r\nDora order is: \r\n1 > 2 > 3 > 4 > 5 > 6 > 7 > 8 > 9 > 1\r\nEast > South > West > North > East\r\nWhite > Green > Red > White"
+msgstr ""
+
+msgctxt "14||mahjong0||table||72||||6"
+msgid "In this example, the dora is 2 bamboo, since the tile revealed is\r\nthe 1 bamboo."
+msgstr ""
+
+msgctxt "14||mahjong0||table||73||||6"
+msgid "There are two ways to complete a hand: ron and tsumo.\r\n\r\n<color=mg_relu_topic>Ron</color> (completing a hand by stealing): \r\nAny time you need one more tile to win, you can claim the current discard if it\r\ncompletes your hand by selecting \"Ron.\"\r\n\r\n<color=mg_relu_topic>Tsumo</color> (completing a hand with a self-drawn tile): \r\nAny time you need one more tile to win and you draw a tile that completes your hand, \r\nyou can select \"Tsumo.\"\r\n\r\nWhen you win by ron, the opponent who discarded the winning tile pays \r\nyou the resulting points. When you win by tsumo, your three opponents \r\npay the resulting points."
+msgstr ""
+
+msgctxt "14||mahjong0||table||74||||6"
+msgid "In order to declare a victory (ron or tsumo), your hand must be worth at least\r\n1 yaku. This means it is possible to meet the 14-tile requirement of 4 groups\r\nof 3-tile sets and a pair, but still be unable to win.\r\n\r\nYou cannot win by stealing a tile (ron) if you had discarded that\r\ntile previously in that round. However, you can still win through\r\nself-draw (tsumo).\r\n\r\nAdditionally, if you can win by declaring Ron but choose instead not\r\nto steal, you will be unable to declare Ron on any discard until the\r\nnext turn."
+msgstr ""
+
+msgctxt "15||clan_creator0||table||22||||6"
+msgid "<color=mg_relu_topic>End the Corruption of JUSTIS!</color>\r\n    Clan Battles are large-scale fights, pitting Kiryu and the members of\r\n    his clan against the evil JUSTIS!\r\n\r\n<color=mg_relu_topic>You Are the Clan Commander!</color>\r\n    It's up to you to issue orders to the numerous unique members of your\r\n    clan and lead them to victory!\r\n\r\n<color=mg_relu_topic>Build Your Clan!</color>\r\n    The city is full of people willing to fight for your cause. Recruit,\r\n    strengthen, and raise your clan to greatness!"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||23||||6"
+msgid "<color=mg_relu_topic>Fulfill the Victory Conditions!</color>\r\n    Wipe out the enemies or defeat the boss in order to fulfill the victory\r\n    conditions (displayed in the top-left). If you can do this in time,\r\n    you win! Keep an eye on the remaining enemies and choke points and crush\r\n    them!"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||24||||6"
+msgid "<color=mg_relu_topic>Deploy Your Clan!</color>\n    Select clan members and press <symbol=button_decide,Minigame_ClanCreator> to deploy them.\n    This consumes your Deployment Gauge, so watch the cost of each member\n    closely. Clan members deploy at the cursor, which you can move around\n    with <symbol=button_l_stick,Minigame_ClanCreator>."
+msgstr ""
+
+msgctxt "15||clan_creator0||table||25||||6"
+msgid "<color=mg_relu_topic>The Low Cost Option: Soldiers</color>\r\n    <color=mg_relu_point><symbol=bullet_point></color>You can deploy up to 100 soldiers!\r\n    <color=mg_relu_point><symbol=bullet_point></color>Soldiers have fairly low combat ability.\r\n    <color=mg_relu_point><symbol=bullet_point></color>There are five soldier types to choose from.\r\n       <color=mg_relu_strong>Turn the page for more on that!</color>"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||26||||6"
+msgid "<color=mg_relu_topic>Soldier Types</color>\r\n\r\n<color=mg_relu_strong>Brawlers</color>\r\n    <color=mg_relu_point><symbol=bullet_point></color>Well-balanced with average stats.\r\n<color=mg_relu_strong>Gunners</color>\r\n    <color=mg_relu_point><symbol=bullet_point></color>Capable of long-range attacks."
+msgstr ""
+
+msgctxt "15||clan_creator0||table||27||||6"
+msgid "<color=mg_relu_strong><symbol=button_sankaku,Minigame_ClanCreator> Activating Skills</color>\n  <color=mg_relu_point><symbol=bullet_point></color>Activate a skill when the gauge is full!\n  <color=mg_relu_point><symbol=bullet_point></color>The gauge resets after the skill is used.\n  <color=mg_relu_point><symbol=bullet_point></color>The gauge's speed is affected by the skill.\n\n<color=mg_relu_strong><symbol=button_decide,Minigame_ClanCreator> Movement</color>\n　 <color=mg_relu_point><symbol=bullet_point></color>Move leaders toward the cursor.\n\n<color=mg_relu_strong><symbol=button_shikaku,Minigame_ClanCreator> Camera Movement</color>\n　 <color=mg_relu_point><symbol=bullet_point></color>Instantly move camera to the selected leader.\n\n   <color=mg_relu_strong>When Leaders Go Down</color>\n　 <color=mg_relu_point><symbol=bullet_point></color>When a leader's health reaches 0, he goes into recovery.\n　 <color=mg_relu_point><symbol=bullet_point></color>When the Recovery Gauge is full, he can be redeployed."
+msgstr ""
+
+msgctxt "15||clan_creator0||table||28||||6"
+msgid "<color=mg_relu_topic>Deploy or Die!</color>\r\n    If you only deploy one clan member at a time,\r\n    you'll find yourself on the path to defeat. \r\n    \r\n    Give the Deployment Gauge <color=mg_relu_strong>time to fill up a little\r\n    so you can deploy multiple members at a time!</color>"
+msgstr ""
+
+msgctxt "16||gym_benchpress0||table||2||||6"
+msgid "In this game, you rapidly press <symbol=button_l1,Minigame_Gym_BenchPress> <symbol=button_r1,Minigame_Gym_BenchPress> to increase the\npower gauge on both sides and lift the barbell.\n\nYour score is based on how many times you lift the barbell\nwithin the time limit."
+msgstr ""
+
+msgctxt "17||gym_squat0||table||2||||6"
+msgid "Time pressing <symbol=button_maru,Minigame_Gym_Squats> so the falling bar and\nsuccess range overlap to perform a successful squat."
+msgstr ""
+
+msgctxt "17||gym_squat0||table||3||||6"
+msgid "There are two parts to the success range: red and green.\nRed will be rated as Great.\nGreen will be rated as Good.\n\nPress <symbol=button_maru,Minigame_Gym_Squats> when the bar overlaps with the red zone for a higher score."
+msgstr ""
+
+msgctxt "18||gym_deadlift0||table||2||||6"
+msgid "Rapidly press <symbol=button_maru,Minigame_Gym_DeadLift> to increase the power gauge.\nWhen it fills, you'll lift the barbell... once. See how many times you\ncan lift it before time is up. You've trained your whole life for this!"
+msgstr ""
+
+msgctxt "19||gym_squatjump0||table||2||||6"
+msgid "In this game, you'll need to time your button press\r\nto match it with the shrinking ring."
+msgstr ""
+
+msgctxt "19||gym_squatjump0||table||3||||6"
+msgid "When multiple buttons are displayed, you have to get them all right in order to\r\nperform the jump squat. Feel the burn!"
+msgstr ""
+
+msgctxt "20||gym_latpulldown0||table||2||||6"
+msgid "Press <symbol=button_l1,Minigame_Gym_LatPulldowns> and <symbol=button_r1,Minigame_Gym_LatPulldowns> at the same time when the gauge reaches the bottom.\nThe larger red zone is worth more than the smaller green zones."
+msgstr ""
+
+msgctxt "20||gym_latpulldown0||table||3||||6"
+msgid "After you do that, the gauge will head back to the zone at the top.\nPress <symbol=button_l1,Minigame_Gym_LatPulldowns> and <symbol=button_r1,Minigame_Gym_LatPulldowns> at the same time again to keep the momentum\ngoing into your next rep!"
+msgstr ""
+
+msgctxt "21||gym_seatedrowing0||table||2||||6"
+msgid "Hold <symbol=button_r1,Minigame_Gym_SeatedRow> to fill the gauge and try to release it\nwhen the bar is within the target zone.\n\nRelease within the red zone for a better rating!"
+msgstr ""
+
+msgctxt "22||mahjong1||table||24||||6"
+msgid "<color=mg_relu_topic>No-Points Hand (Pinfu):</color>\r\nA concealed hand composed entirely of straights and a valueless pair.\r\nAlso the hand must be ready on an open-ended wait."
+msgstr ""
+
+msgctxt "22||mahjong1||table||25||||6"
+msgid "<color=mg_relu_topic>Identical Sequences (Iipeikou):</color>\r\n\r\nA concealed hand with identical straights (same suit and same 3-number sequence)."
+msgstr ""
+
+msgctxt "22||mahjong1||table||26||||6"
+msgid "\r\n<color=mg_relu_topic>Fully Concealed Hand (Tsumo):</color>\r\nA concealed hand with the winning tile self-drawn.\r\n\r\n<color=mg_relu_topic>Ready Hand (Riichi):</color>\r\nA concealed hand that a player chooses to lock. Upon a win, ura-dora are revealed for each visible dora,\r\nincreasing potential for points. \r\n\r\n<color=mg_relu_topic>One-Shot (Ippatsu):</color>\r\nA hand completed within one turn of declaring riichi. But ippatsu is canceled if any exposed meld is declared."
+msgstr ""
+
+msgctxt "22||mahjong1||table||27||||6"
+msgid "<color=mg_relu_topic>Dragon Triplet (Yakuhai):</color>\r\nA triplet (or quad) of white, green, or red dragon tiles."
+msgstr ""
+
+msgctxt "22||mahjong1||table||28||||6"
+msgid "<color=mg_relu_topic>Last Tile Draw (Haitei):</color>\r\nA hand completed by drawing the last tile from the wall.\r\n\r\n<color=mg_relu_topic>Last Tile Discard (Houtei):</color>\r\nA hand completed with the last tile discarded by an opponent.\r\n\r\n<color=mg_relu_topic>Dead Wall Draw (Rinshan Kaihou):</color>\r\nA hand completed using a drawn tile when declaring Kan.\"\r\n\r\n<color=mg_relu_topic>Robbing a Quad (Chankan):</color>\r\nA hand completed using the tile another player used to upgrade a pon to a kan."
+msgstr ""
+
+msgctxt "22||mahjong1||table||29||||6"
+msgid "<color=mg_relu_topic>All Triplet Hand (Toitoi):</color>\r\nA hand with four triplets and one pair."
+msgstr ""
+
+msgctxt "22||mahjong1||table||30||||6"
+msgid "<color=mg_relu_topic>Full Straight (Ikkitsuukan):</color>\r\nSequences of 123, 456, and 789 in the same suit.\r\nConcealed: 2 han. Exposed: 1 han."
+msgstr ""
+
+msgctxt "22||mahjong1||table||31||||6"
+msgid "<color=mg_relu_topic>Three Color Straight (Sanshoku Doujun):</color>\r\nThree straights of the same number sequence, one in each suit.\r\nConcealed: 2 han. Exposed: 1 han."
+msgstr ""
+
+msgctxt "22||mahjong1||table||32||||6"
+msgid "<color=mg_relu_topic>Three Concealed Triplets (San Ankou):</color>\r\nThree triplets consisting of self-drawn tiles. You cannot call ron to form the third triplet.\r\nAll three triplets must be concealed."
+msgstr ""
+
+msgctxt "22||mahjong1||table||33||||6"
+msgid "<color=mg_relu_topic>Little Three Dragons (Shousangen):</color>\r\nA hand with any two dragon triplets and using the third dragon as a pair."
+msgstr ""
+
+msgctxt "22||mahjong1||table||34||||6"
+msgid "<color=mg_relu_topic>Three Quads (San Kantsu):</color>\r\nA hand with three quads that are either concealed or exposed."
+msgstr ""
+
+msgctxt "22||mahjong1||table||35||||6"
+msgid "<color=mg_relu_topic>Pure Outside Hand (Junchan):</color>\r\nAll sets include a 1 or a 9.\r\nConcealed: 3 han. Exposed: 2 han."
+msgstr ""
+
+msgctxt "22||mahjong1||table||36||||6"
+msgid "<color=mg_relu_topic>Double Identical Sequences (Ryanpeikou):</color>\r\nA concealed hand with two Identical Sequences. This scoring element takes precedence over Seven Pairs.\r\n"
+msgstr ""
+
+msgctxt "22||mahjong1||table||37||||6"
+msgid "<color=mg_relu_topic>Terminal and Honor Discards (Nagashi Mangan):</color>\r\nA hand formed when the round is a draw. In order to qualify, you must have not discarded any number tiles\r\n2 through 8, and you must not have formed any exposed melds. Additionally, no other player must have\r\nclaimed any of your terminal/honor discards.\r\n"
+msgstr ""
+
+msgctxt "22||mahjong1||table||38||||6"
+msgid "<color=mg_relu_topic>Full Flush (Chin'itsu):</color>\r\nA hand consisting of one suit.\r\nConcealed: 6 han. Exposed: 5 han.\r\n"
+msgstr ""
+
+msgctxt "22||mahjong1||table||39||||6"
+msgid "<color=mg_relu_topic>Four Concealed Triplets (Suu Ankou):</color>\r\nFour triplets consisting of self-drawn tiles. You cannot call ron to form the fourth triplet.\r\nAll four triplets must be concealed."
+msgstr ""
+
+msgctxt "22||mahjong1||table||40||||6"
+msgid "<color=mg_relu_topic>Big Three Dragons (Daisangen):</color>\r\nA hand with one triplet each of white, green, and red dragons."
+msgstr ""
+
+msgctxt "22||mahjong1||table||41||||6"
+msgid "<color=mg_relu_topic>Thirteen Orphans (Kokushi Musou):</color>\r\nA hand with one of each terminal and honor tile, plus a duplicate of any one."
+msgstr ""
+
+msgctxt "22||mahjong1||table||42||||6"
+msgid "<color=mg_relu_topic>All Terminals (Chinroutou):</color>\r\nA hand consisting of only 1 and 9 tiles to form 4 sets and 1 pair."
+msgstr ""
+
+msgctxt "22||mahjong1||table||43||||6"
+msgid "<color=mg_relu_topic>Four Quads (Suu Kantsu):</color>\r\nA hand consisting of four quads that are either concealed or exposed."
+msgstr ""
+
+msgctxt "22||mahjong1||table||44||||6"
+msgid "<color=mg_relu_topic>Heavenly Hand (Tenhou):</color>\r\nThe dealer has a completed hand with his initial 14 tiles.\r\n\r\n<color=mg_relu_topic>Earthly Hand (Chiihou):</color>\r\nA non-dealer completes a hand on his first draw, but only if another player has not claimed a discard.\r\n\r\n<color=mg_relu_topic>Natural Limit (Kazoe Yakuman):</color>\r\nA completed hand wherein the sum of all scoring elements is 13 hand or more.\r\n"
+msgstr ""
+
+msgctxt "22||mahjong1||table||45||||6"
+msgid "<color=mg_relu_topic>Four Concealed Triplets with Single Wait (Suu Ankou Tanki):</color>\r\nSame as Four Concealed Triplets, except that you finish the hand by making a pair."
+msgstr ""
+
+msgctxt "22||mahjong1||table||46||||6"
+msgid "<color=mg_relu_topic>Big Four Winds (Daisuushii):</color>\r\nA hand with triplets of all four winds that are either concealed or exposed."
+msgstr ""
+
+msgctxt "22||mahjong1||table||47||||6"
+msgid "After your han is added up, you can calculate their point value worth based\r\non whether you're the dealer (higher pts) or not.\r\n\r\n1-4 Han: Various points, dependent on the individual tiles used\r\n4-5 Han: Mangan (12,000 / 8,000 pts)\r\n6-7 Han: Haneman (18,000 / 12,000 pts)\r\n8-10 Han: Baiman (24,000 / 16,000 pts)\r\n11-12 Han: Sanbaiman (36,000 / 24,000 pts)\r\n13+ Han or Limit: Yakuman (48,000 / 32,000 pts)"
+msgstr ""
+
+msgctxt "23||karaoke0||table||7||||6"
+msgid "This is a rhythm game where you press buttons shown on the\r\nscreen in time with a song. Press the matching button when\r\nthe cursor reaches it to perform the song correctly."
+msgstr ""
+
+msgctxt "23||karaoke0||table||8||||6"
+msgid "If your timing is really off or you pressed the wrong button,\r\nit will not count. The better your timing, the more points\r\nyou earn."
+msgstr ""
+
+msgctxt "23||karaoke0||table||9||||6"
+msgid "Kiryu can even enter <color=mg_relu_strong>Heat Mode</color> in karaoke.\r\nEnter Heat Mode by chaining 20 successful button presses.\r\n\r\nDuring <color=mg_relu_strong>Heat Mode</color>, you will earn more points.\r\nHowever, make one mistake, and <color=mg_relu_strong>Heat Mode</color> is over."
+msgstr ""
+
+msgctxt "23||karaoke0||table||10||||6"
+msgid "For songs where someone else is singing, you can select between <color=mg_relu_strong>Casual Backup</color>\r\nand <color=mg_relu_strong>Passionate Backup</color>.\r\n<color=mg_relu_strong>Casual Backup</color> has simple commands, but you cannot go over 90 points.\r\nIf you want to aim high, choose <color=mg_relu_strong>Passionate Backup</color>."
+msgstr ""
+
+msgctxt "24||darts0||table||7||||6"
+msgid "You can set how much power you put into throwing darts by pressing <symbol=button_batsu,Minigame_Darts>. \n\nPut too much power behind your throw, and the dart will fly higher than\nyou aimed. Too little power, and the dart will fly lower than aimed."
+msgstr ""
+
+msgctxt "24||darts0||table||8||||6"
+msgid "Aim to stop the power gauge within the sweet spot in\r\nthe dark pink area. The closer you get, the closer your\r\ndart will be to where you aimed.\r\n\r\nThe further outside you are from the sweet spot,\r\nthe less control Kiryu has over his throw."
+msgstr ""
+
+msgctxt "24||darts0||table||9||||6"
+msgid "The object of the game is to subtract points from\r\nyour predetermined score and make it exactly 0."
+msgstr ""
+
+msgctxt "24||darts0||table||10||||6"
+msgid "The first player to reach exactly 0 wins."
+msgstr ""
+
+msgctxt "24||darts0||table||11||||6"
+msgid "Going over your remaining score is known as a \"bust.\""
+msgstr ""
+
+msgctxt "24||darts0||table||12||||6"
+msgid "When a player busts, the score will return to whatever\r\nthe player had at the start of the round and the\r\nplayers will switch."
+msgstr ""
+
+msgctxt "24||darts0||table||13||||6"
+msgid "Players start at 0 points and compete to earn the most\r\ntotal points after a predetermined number of rounds."
+msgstr ""
+
+msgctxt "24||darts0||table||14||||6"
+msgid "The player with the higher score after a\r\npredetermined number of rounds wins."
+msgstr ""
+
+msgctxt "24||darts0||table||15||||6"
+msgid "This is a strategic game where you use only\r\nnumbers 15 to 20 and the bull's eye."
+msgstr ""
+
+msgctxt "24||darts0||table||16||||6"
+msgid "After the final round, the player with the higher score wins."
+msgstr ""
+
+msgctxt "24||darts0||table||17||||6"
+msgid "If you hit an available target, the number is counted\r\nas a \"hit.\" By getting a total of three hits in the\r\nsame area, you will capture the area."
+msgstr ""
+
+msgctxt "24||darts0||table||18||||6"
+msgid "Singles count as one hit, Doubles count as two hits and\r\nTriples count as three hits."
+msgstr ""
+
+msgctxt "24||darts0||table||19||||6"
+msgid "Once you hit the same number three times, that number becomes open\r\nand you can score points on that number. If both players hit the same number\r\nthree times, that number becomes closed and neither will be able to gain points\r\nfrom that area."
+msgstr ""
+
+msgctxt "26||live_chat0||table||1||||6"
+msgid "Type messages to the Live Chat girls to keep the mood fun.\r\nTo type, enter the complete button sequence from left\r\nto right before time runs out."
+msgstr ""
+
+msgctxt "26||live_chat0||table||2||||6"
+msgid "If your messages put the girl in a good mood,\r\nshe's more likely to stay engaged with the chat room.\r\nKeep the conversation going to stand out from the\r\nother guys in the chat!"
+msgstr ""
+
+msgctxt "26||live_chat0||table||3||||6"
+msgid "The more successful you are, the bolder the girl will become.\r\nIf you're <font_kind=yakuza_italic>really</font_kind> lucky, she may show you something special!\r\n\r\nNow get in there and type to impress!"
+msgstr ""
+
+msgctxt "27||spear0||table||2||||6"
+msgid "Dive into the sea and use the speargun to shoot all\r\nthe fish you can. But watch your air! If you come\r\ninto contact with the fish or get attacked by them,\r\nyou'll eventually have to go back up."
+msgstr ""
+
+msgctxt "27||spear0||table||3||||6"
+msgid "Fire the spear with <symbol=button_decide,Minigame_SpearFishing> or <symbol=button_r1,Minigame_SpearFishing>.\n\nYou'll need to press <symbol=button_cancel,Minigame_SpearFishing> or <symbol=button_l1,Minigame_SpearFishing> to reload.\nIf you try to shoot while you're out of ammo, you'll automatically reload,\nbut it takes longer than doing it manually.\n\n<color=mg_relu_strong>Fish that glow red</color> are the mean ones.\nSpear them before they get you, and don't get caught without ammo!"
+msgstr ""
+
+msgctxt "27||spear0||table||4||||6"
+msgid "When you catch a fish, you'll earn Catch Points, which determine your rewards.\r\n\r\nYou can even level up your lung capacity, giving you more life and therefore\r\nmore damage you can sustain."
+msgstr ""
+
+msgctxt "27||spear0||table||5||||6"
+msgid "See a treasure chest? Shoot it to obtain more Catch Points or air bubbles,\r\nwhich recover your lost air.\r\n\r\nNow get ready to spear some fish!"
+msgstr ""
+
+msgctxt "28||batting0||table||2||||6"
+msgid "<color=mg_relu_topic>Controls</color>\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> will adjust your aim to the pitching machine's throw.\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Press <symbol=button_batsu,Minigame_BattingCenter></color> at the proper time to hit the ball.\n\n<color=mg_relu_topic>Clearing the Course</color>\n<symbol=bullet_point>Swing at the ball with good timing and aim to hit a <color=mg_relu_strong>home run</color>.\n<color=mg_relu_point><symbol=bullet_point></color>Hitting <color=mg_relu_strong>7 or more home runs in 10 pitches </color>will earn you an <color=mg_relu_strong>A Rank</color>.\n  	This will clear the course."
+msgstr ""
+
+msgctxt "29||baseball0||table||2||||6"
+msgid "<color=mg_relu_topic>Take Down the Powerhouses of Hiroshima!</color>\r\n\r\nThere are <color=mg_relu_strong>three key steps</color> necessary for victory in the baseball world.\r\n\r\n<color=mg_relu_strong>Step 1: Recruit new players!</color>\r\n<color=mg_relu_strong>Step 2: Train your players and boost their experience!</color>\r\n<color=mg_relu_strong>Step 3: Manage your team and win games!</color>\r\n\r\n*The following pages will go into more detail on each step."
+msgstr ""
+
+msgctxt "29||baseball0||table||3||||6"
+msgid "<color=mg_relu_strong>Step 1: Recruit new players!</color>\r\n\r\n　<color=mg_relu_topic>How do I get more players for my team?</color>\r\n　　<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_topic>Talk to people around Onomichi</color>\r\n　　　Hidden talents are tucked away all over the streets of Onomichi.\r\n　　　Approach these people and fulfill their requests to recruit them.\r\n　　　\r\n　　<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_topic>Complete substories</color>\r\n　　　Some substories will end with a character joining the Warriors.\r\n　　　Proactively complete substories to get as many players as possible!"
+msgstr ""
+
+msgctxt "29||baseball0||table||4||||6"
+msgid "<color=mg_relu_strong>Step 2: Train your players and boost their experience!</color>\r\n\r\n　<color=mg_relu_topic>How does raising a player's level impact them?</color>\r\n　<color=mg_relu_point><symbol=bullet_point></color>A given player's <color=mg_relu_strong>Contact</color>, <color=mg_relu_strong>Power</color>, <color=mg_relu_strong>Speed</color>, and <color=mg_relu_strong>Fielding</color> will go <color=mg_relu_strong>up</color>.\r\n　<color=mg_relu_point><symbol=bullet_point></color>The selected player may also acquire a unique <color=mg_relu_strong>skill</color>.\r\n\r\n　<color=mg_relu_topic>How many levels can each player earn?</color>\r\n　<color=mg_relu_point><symbol=bullet_point></color>Each player's <color=mg_relu_strong>maximum level differs</color> based on their overall ability.\r\n　<color=mg_relu_point><symbol=bullet_point></color>The lowest maximum level is <color=mg_relu_strong>5</color>, while the highest is <color=mg_relu_strong>10</color>."
+msgstr ""
+
+msgctxt "29||baseball0||table||5||||6"
+msgid "　<color=mg_relu_topic>How do I raise a player's level?</color>\r\n　<color=mg_relu_point><symbol=bullet_point></color>Once a player gains a certain amount of EXP, they will level up.\r\n　<color=mg_relu_point><symbol=bullet_point></color>EXP can be gained through the following two methods.\r\n\r\n　 <color=mg_relu_topic>1. Give them game time</color>\r\n　　　Players will gain EXP for every game they play in. Playing more\r\n　　　in a game will net them more EXP, as will facing harder opponents."
+msgstr ""
+
+msgctxt "29||baseball0||table||6||||6"
+msgid "　 <color=mg_relu_topic>2. Use a training ticket</color>\r\n　　　Training tickets allow your players to gain EXP without playing in games.\r\n　　　These can be used from the Train option in the Team Menu.\r\n　　　A regular training session will earn a player 100 EXP, while\r\n　　　a great training session will earn them 150 EXP.\r\n　　　You will be rewarded training tickets for winning games."
+msgstr ""
+
+msgctxt "29||baseball0||table||7||||6"
+msgid "<color=mg_relu_strong>Step 3: Manage your team and win games!</color>\r\n\r\n　<color=mg_relu_topic>How do I play?</color>\r\n　<color=mg_relu_point><symbol=bullet_point></color>Select Start a Game from the Team Menu, then choose which team\r\n　　you'd like to play against to start the game.\r\n\r\n　<color=mg_relu_topic>What's the difference between an official game and a conditional game?</color>\r\n　<color=mg_relu_point><symbol=bullet_point></color>Winning an official game will unlock another stronger team for you to play against.\r\n　<color=mg_relu_point><symbol=bullet_point></color>Winning a conditional game will unlock more difficult conditional games against the same team."
+msgstr ""
+
+msgctxt "29||baseball0||table||8||||6"
+msgid "　<color=mg_relu_topic>How do I control my team during games?</color>\n　<color=mg_relu_point><symbol=bullet_point></color>The team's actions are mostly simulated, but you will have the opportunity\n　　to step up to the plate during <color=mg_relu_strong>key moments in the game</color>.\n　<color=mg_relu_point><symbol=bullet_point></color>Use <symbol=button_l_stick,Minigame_BattingCenter></color> to adjust your aim to the opposing pitcher's throw.\n　<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Press <symbol=button_batsu,Minigame_BattingCenter></color> at the proper time to hit the ball.\n\n　<color=mg_relu_topic>What happens when I win a game?</color>\n　<color=mg_relu_point><symbol=bullet_point></color>You will unlock the next tier of available official or conditional games.\n　<color=mg_relu_point><symbol=bullet_point></color>You will be rewarded with a certain amount of training tickets.\n　<color=mg_relu_point><symbol=bullet_point></color>You will earn more tickets than normal for your first victory in a challenge.\n　<color=mg_relu_point><symbol=bullet_point></color>You will also earn extra tickets for clearing the bonus condition."
+msgstr ""
+
+msgctxt "30||snack0||table||2||||6"
+msgid "When you enter the bar, other customers will already be drinking\r\nand chatting. Do you have what it takes to make new friends?"
+msgstr ""
+
+msgctxt "30||snack0||table||3||||6"
+msgid "The tried and true way to make new friends\r\nis to drink with them."
+msgstr ""
+
+msgctxt "30||snack0||table||4||||6"
+msgid "If you become friends with a regular, a conversation\r\nwill begin where you'll talk with everyone."
+msgstr ""
+
+msgctxt "30||snack0||table||5||||6"
+msgid "If you can get the conversation past the Liveliness Marker,\nyou'll get the Conversation Finisher, indicated by a <symbol=button_sankaku,Minigame_NewGaudiBar_Conversation>.\n\nIf you don't meet the marker, the conversation will taper off\nand end on a sour note, but you can re-enter the bar to try again."
+msgstr ""
+
+msgctxt "30||snack0||table||6||||6"
+msgid "By succeeding in conversations and becoming friendly with the regulars,\r\nKiryu's social status within the bar will rise. Aim to become the kind\r\nof friend people talk about in bars."
+msgstr ""
+
+msgctxt "30||snack0||table||7||||6"
+msgid "The New Gaudi bar also has darts and karaoke!\r\n\r\nShowing off your darts skills or letting others\r\nhear your manly singing voice is a great way\r\nto endear yourself to the locals."
+msgstr ""
+
+msgctxt "31||cabaret0||table||2||||6"
+msgid "Use the Conversation Cards to get the conversation rolling\r\nwith a hostess. Your time will be up after you play six cards, but\r\nyou can extend your session twice for an additional two plays each."
+msgstr ""
+
+msgctxt "31||cabaret0||table||3||||6"
+msgid "Depending on your card choices, you can raise the hostess's <color=mg_relu_strong>Mood Gauge</color>.\r\nThe higher the <color=mg_relu_strong>Mood Gauge</color> is by the end of the session, the closer you will\r\nbecome with the girl. Use the cards to win her heart!"
+msgstr ""
+
+msgctxt "31||cabaret0||table||4||||6"
+msgid "Use a <color=mg_relu_strong>Conversation Card</color> to discuss that topic with the girl.\r\nYour choices and her preferences have a big impact on the\r\nMood Gauge. Moreover, some cards will change topics\r\nbased on the current Mood Level."
+msgstr ""
+
+msgctxt "31||cabaret0||table||5||||6"
+msgid "Use a <color=mg_relu_strong>Food Card</color> to place a food order. This may increase\r\nthe Mood Gauge, and some dishes even increase the\r\nnext Conversation Card's effect on the Mood Gauge.\r\nFood Cards reset your Chain, though, and cannot Chain\r\nwith other cards."
+msgstr ""
+
+msgctxt "31||cabaret0||table||6||||6"
+msgid "Use a <color=mg_relu_strong>Drink Card</color> to place a drink order.\r\nIt's similar to the Food Card, but can be even more effective.\r\nHowever, if you get too drunk, your session may end abruptly,\r\nand they have the same effect on your Chain.\r\n"
+msgstr ""
+
+msgctxt "31||cabaret0||table||7||||6"
+msgid "Conversation Cards fall under five categories:\r\n<symbol=caba_love> <symbol=caba_talk> <symbol=caba_party> <symbol=caba_sexy> <symbol=caba_dandy>\r\nWhen you use the same category twice in a row, you'll get\r\na <color=mg_relu_strong>Card Chain</color>.\r\n\r\nUsing a category under the effect of a <color=mg_relu_strong>Chain</color> will increase\r\nthe Mood Gauge more than usual.\r\n\r\nIncrease the <color=mg_relu_strong>Chain</color> to a max of 7 for the best gains.\r\nThe Food Cards and Drink Cards can <color=mg_relu_strong>chain</color> as well,\r\nso try to maximize your returns!"
+msgstr ""
+
+msgctxt "32||saisen0||table||2||||6"
+msgid "Use <Action=All_Directions,Minigame_OfferityBox> to throw your offerings into the box. Your goal is to fill up the Blessings Gauge,\nwhich will activate the Bonus Roulette! This will confer a variety of special buffs upon you.\nBut be careful, if you slide <Action=All_Directions,Minigame_OfferityBox> too strongly or at too much of an angle, the offerings won't\nland in the box, saddening the gods and your wallet."
+msgstr ""
+
+msgctxt "32||saisen0||table||3||||6"
+msgid "You can throw between 5 to 20 coins at once, but the more you throw in,\r\nthe more your Blessings Gauge increases.\r\n*If you run out of money or quit, the gauge remains filled."
+msgstr ""
+
+msgctxt "32||saisen0||table||4||||6"
+msgid "The shiny part of the offering box is called the \"Blessed Area.\" If you can land your coins there,\r\nthe Blessings Gauge goes up dramatically. The Blessed Area changes every time, so aim well."
+msgstr ""
+
+msgctxt "32||saisen0||table||5||||6"
+msgid "Once the Blessings Gauge is filled up, the Bonus Roulette will activate!\nPress <symbol=button_shikaku,Minigame_OfferityBox> and <symbol=button_sankaku,Minigame_OfferityBox> to stop the reels.\n<color=mg_relu_topic>*The roulette will stop automatically after 30 seconds. The gods are only so patient.</color>"
+msgstr ""
+
+msgctxt "33||sega_fzn||table||10||||6"
+msgid "\"Fantasy Zone\" is a side-scrolling shooting game introduced to arcades in 1986. The player controls its\r\nprotagonist, Opa-Opa, to fight through eight stages and clear the game.\r\n\r\n<color=mg_relu_topic>The Epic Prologue!</color>\r\nLONG AGO, FAR AWAY IN SPACE, THERE EXISTED A \"FANTASY ZONE\" WHERE A COURAGEOUS HERO CALLED\r\nOPA-OPA (THE PLAYER) FOUGHT IN A VALIANT CAUSE TO RESCUE THE \"FANTASY ZONE\" FROM ITS ENEMIES.\r\nIN THE SPACE YEAR 1422, THE INTERPLANETARY MONETARY SYSTEM COLLAPSED, CAUSING ALL OF THE PLANETS\r\nTO BECOME PANIC-STRICKEN.\r\n\r\nACCORDING TO AN OFFICIAL INQUIRY MADE BY THE SPACE GUILD, SOMEONE IS LEADING THE MENON PLANET\r\nFORCES, USING THEM TO STEAL THE FOREIGN CURRENCIES OF THE OTHER PLANETS, AND WITH THE FUNDS,\r\nCONSTRUCT A HUGE FORTRESS IN THE \"FANTASY ZONE.\"\r\n\r\nTO PUT AN END TO THEIR AMBITIOUS PLANS, OPA-OPA PROMPTLY TAKES OFF FOR THE \"FANTASY ZONE\" WHERE..."
+msgstr ""
+
+msgctxt "33||sega_fzn||table||11||||6"
+msgid "Press <symbol=button_sankaku,Minigame_FantasyZone> to input credits, then press <symbol=button_options,Minigame_FantasyZone> to start the game."
+msgstr ""
+
+msgctxt "33||sega_fzn||table||12||||6"
+msgid "Controlling Opa-Opa, destroy all the enemy bases on the planet.\r\nDefeated foes may drop coins, which you can use to buy parts in\r\nthe Parts Shop to power up. Defeat the enemies in all\r\neight stages to restore peace to the Fantasy Zone.\r\n\r\n<color=mg_relu_topic>Navigate With Your Radar!</color>\r\n　   Enemy bases appear on the radar at the bottom of the screen in red.\r\n     A white box on the radar indicates your position."
+msgstr ""
+
+msgctxt "33||sega_fzn||table||13||||6"
+msgid "<color=mg_relu_topic>The Parts Shop</color>\n　  Sometimes a Parts Shop shaped like a red balloon will appear.\n    Touch it to enter the Parts Shop and purchase power-up parts.\n    Choose a part, and press either <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone>.\n\n　  Do note that some parts increase in price as you buy more.\n    To leave the Parts Shop, choose \"EXIT\" with <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone>."
+msgstr ""
+
+msgctxt "33||sega_fzn||table||14||||6"
+msgid "<color=mg_relu_topic>Choose Your Weapons!</color>\n   After buying parts in the Parts Shop or touching a yellow balloon,\n   you're taken to the Parts Select Screen. Choose a part and press\n   either <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone>.\n   To go back to the game, choose \"EXIT\" with either <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone>.\n\n<color=mg_relu_topic>Weapons Are Not Infinite!</color>\n   A weapon power-up will be used up when its gauge depletes.\n   A bomb power-up will be used up when it runs out of ammo.\n   You will be restored to default equipment when weapons run out."
+msgstr ""
+
+msgctxt "33||sega_fzn||table||15||||6"
+msgid "<color=mg_relu_topic>Defeat the Boss!</color>\r\n   After you destroy all the enemy bases in a stage, the boss will appear.\r\n   Defeat it to move on to the next stage!\r\n\r\n<color=mg_relu_topic>There Are No Continues!</color>\r\n   Touching an enemy, enemy base, enemy bullet, or the boss will result in\r\n   losing a life and all the weapons you bought in the Parts Shop,\r\n   restoring you to default equipment. There are no continues, but that's\r\n   life in the Fantasy Zone!"
+msgstr ""
+
+msgctxt "33||sega_fzn||table||16||||6"
+msgid "<color=mg_relu_topic>Go Down in History!</color>\n　If you clear all eight stages or end the game with a high score,\n  you can enter your initials on the score board. Use <symbol=button_left,Minigame_FantasyZone> and <symbol=button_right,Minigame_FantasyZone>\n  to choose letters, and press either <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone> to confirm."
+msgstr ""
+
+msgctxt "34||sega_hng||table||2||||6"
+msgid "\"Super Hang-On\" is a motorcycle racing game where the entire world becomes\r\nyour race course.\r\n\r\n<color=mg_relu_topic>Course</color>\r\n　There are four courses separated by difficulty:\r\n  BEGINNER (Africa)\r\n  JUNIOR (Asia)\r\n  SENIOR (America)\r\n  EXPERT (Europe)"
+msgstr ""
+
+msgctxt "34||sega_hng||table||3||||6"
+msgid "Press <symbol=button_sankaku,Minigame_SuperHangOn> to input credits, then select a course and BGM\nto begin the race."
+msgstr ""
+
+msgctxt "34||sega_hng||table||4||||6"
+msgid "Drive toward the goal to clear the course!\r\n\r\n<color=mg_relu_topic>Checkpoints</color>\r\n   There are checkpoints at regular intervals in each course.\r\n   Passing it will extend your time limit and display the lap time.\r\n\r\n<color=mg_relu_topic>Turbo</color>\r\n   When you reach 280km per hour, the speed display turns red.\r\n   If you hold down the turbo switch at this point, you'll be\r\n   able to reach a top speed of 324km per hour."
+msgstr ""
+
+msgctxt "34||sega_hng||table||5||||6"
+msgid "<color=mg_relu_topic>Time is Precious!</color>\r\n   If you go off course or collide with other motorcycles, you'll lose\r\n   speed. Crashing into an obstacle will really set you back, too.\r\n\r\n<color=mg_relu_topic>End of the Road...</color>\r\n   If you run out of time, it's game over. Clearing the course also ends\r\n   the game, but you can be more satisfied with this conclusion."
+msgstr ""
+
+msgctxt "34||sega_hng||table||6||||6"
+msgid "<color=mg_relu_topic>Name Entry</color>\n   When you clear the course or get a high score after game over, you\n   can enter your initials. Use <symbol=button_left,Minigame_SuperHangOn> <symbol=button_right,Minigame_SuperHangOn> to choose letters, and press <symbol=button_cancel,Minigame_SuperHangOn> to confirm."
+msgstr ""
+
+msgctxt "35||sega_otr||table||2||||6"
+msgid "\"Out Run\" is a driving game introduced to arcades in 1986.\r\n\r\nThe game is a single road that branches off at certain points,\r\ntotaling 16 different routes you can take.\r\n\r\nThere is no greater feeling in life than riding your sports car off\r\ninto the horizon."
+msgstr ""
+
+msgctxt "35||sega_otr||table||3||||6"
+msgid "Press <symbol=button_sankaku,Minigame_OutRun> to input credits. After choosing a BGM with <symbol=button_left,Minigame_OutRun> <symbol=button_right,Minigame_OutRun>,\npress <symbol=button_options,Minigame_OutRun> to start driving."
+msgstr ""
+
+msgctxt "35||sega_otr||table||4||||6"
+msgid "The game begins once the signal turns green. Your goal is to reach\r\nthe checkpoints within the time limit.\r\n\r\n<color=mg_relu_topic>Shifting Gears</color>\r\n   There are two gear levels: LOW and HIGH. Change your gear to HIGH\r\n   when you're going fast enough, but go back to LOW for lower speeds.\r\n\r\n<color=mg_relu_topic>Checkpoints</color>\r\n   Reach the checkpoint before time's up. Passing the checkpoint\r\n   adds more time to the clock."
+msgstr ""
+
+msgctxt "35||sega_otr||table||5||||6"
+msgid "<color=mg_relu_topic>The Road Less Traveled</color>\r\n Before the checkpoint, the road splits two ways.\r\n Lean the car in the direction of the road you want to take.\r\n\r\n<color=mg_relu_topic>Game Over</color>\r\n The game ends when you reach the goal or if time runs out.\r\n Your progress is displayed on the map afterwards.\r\n There are no continues, because that's life in the fast lane for you."
+msgstr ""
+
+msgctxt "35||sega_otr||table||6||||6"
+msgid "<color=mg_relu_topic>Name Entry</color>\n   If you reach the goal or get a high score after ending the game, you can enter your initials.\n   Press <symbol=button_left,Minigame_OutRun> <symbol=button_right,Minigame_OutRun> to choose letters, and press <symbol=button_cancel,Minigame_OutRun> to confirm."
+msgstr ""
+
+msgctxt "36||sega_sph||table||2||||6"
+msgid "\"Space Harrier\" is a shooting game where you control the protagonist, a warrior by the name of Harrier,\r\nwho uses his supernatural powers to shoot down wave after wave of monsters. \r\n\r\n<color=mg_relu_topic>Prologue</color>\r\nOnce upon a time, a beautiful utopia called \"Dragon Land\"\r\nwas beset upon by the dastardly schemes of the evil one.\r\nAlthough all seemed lost, \"Uriah,\" a friendly dragon, continued to\r\nresist. He was nearly at his wits' end in his unrelenting search for a\r\nsavior, when a fighter from Earth heard his plea and arrived to\r\nhelp save the day.\r\n\r\nWelcome to the Fantasy Zone."
+msgstr ""
+
+msgctxt "36||sega_sph||table||3||||6"
+msgid "Press <symbol=button_sankaku,Minigame_SpaceHarrier> to input credits, then press <symbol=button_options,Minigame_SpaceHarrier> to start the game."
+msgstr ""
+
+msgctxt "36||sega_sph||table||4||||6"
+msgid "Shoot down foes with Harrier's powerful supernatural cannon!\r\n\r\n<color=mg_relu_topic>This Game Has Bosses!</color>\r\n   A powerful boss awaits at the end of each stage. Shoot it down\r\n   to progress!\r\n\r\n<color=mg_relu_topic>Bonus Stage</color>\r\n   If you get far enough, you'll encounter a bonus stage!\r\n   Ride atop the friendly dragon, Uriah, and use its massive\r\n   strength to destroy obstacles. There are no enemies here!"
+msgstr ""
+
+msgctxt "36||sega_sph||table||5||||6"
+msgid "<color=mg_relu_topic>Game Over!?</color>\n   Getting hit by enemy attacks or touching obstacles will cause you \n   to lose a life. Run out of lives, and your journey is at an end.\n   *You gain a life at five million points! Good luck out there!\n\n<color=mg_relu_topic>Name Entry</color>\n   If the game ends and you are worthy enough, you can enter your name.\n   Use <symbol=button_left,Minigame_SpaceHarrier> <symbol=button_right,Minigame_SpaceHarrier> to choose letters, and press <symbol=button_cancel,Minigame_SpaceHarrier> to confirm."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||3||||6"
+msgid "This tutorial will introduce five recommended techniques\r\nper character to give you the know-how to defeat your foes.\r\n<color=mg_relu_topic>[Mid Attack]</color>\r\n　One of the fundamental tools in a fighter's skillset.\r\n<color=mg_relu_topic>[Combo Starter]</color>\r\n　Landing one of these attacks will let you begin a combo.\r\n<color=mg_relu_topic>[Low Attack]</color>\r\n　These cannot be blocked by a standing guard.\r\n　Combine with Mid Attacks to fluster your opponent.\r\n<color=mg_relu_topic>[Circular]</color>\r\n　An attack that will even hit dodging opponents.\r\n<color=mg_relu_topic>[Throw]</color>\r\n　A perfect way to break through an opponent's guard.\r\n　These will be canceled if you are hit mid-throw."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||4||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　If <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> is too difficult, <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> will also work.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p>\r\n　Enemies hit by this will be sent flying.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　Will floor opponents when activated as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w8> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　A half-circular technique.\r\n　Use <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_k> + <symbol=vf5_key_g> to prevent enemies from dodging side-to-side.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Use this against opponents who attempt to guard Akira's attacks."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||5||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　Pulling this move off will help you keep up the offensive.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_n2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　This can also be done with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>.\r\n　If used as a Counter Hit, continue the combo with <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_k> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Use this strike to gain the advantage. Always stay on the offensive!\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Watch out: Opponents can dodge this move if they are crouching.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　A Throw representative of Pai's character. The finishing pose is distinct as well!"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||6||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\r\n　The readable second strike can easily be dodged by your opponents.\r\n　Mix things up by stopping after only one  <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　Has a slow startup, but will launch an opponent upon contact.\r\n　Continue the combo with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A half-spin technique, useful for dodging your opponent's attacks.\r\n　You will be left defenseless if your opponent blocks this move.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Turns the opponent sideways to give you an offensive advantage.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　A dynamic throw similar to a choke slam."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||7||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　Performing this move will transition you into a new stance.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\r\n　Will floor opponents when activated as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w2> <symbol=vf5_key_p> + <symbol=vf5_key_k> .\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A tricky attack that will transition you into a backward-facing stance.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\r\n　Starts up slowly, but is effective against standing guards.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Jump high into the air with an opponent before slamming them\r\n　into the ground. One of the showier Throw techniques."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||8||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p>\r\n　Pulling this move off will help you keep up the offensive.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\r\n　Will floor opponents when activated as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w4> <symbol=vf5_key_k> + <symbol=vf5_key_g> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k>\r\n　One of the quicker Low Attacks. Useful in catching your opponents off guard.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Turns the opponent sideways to give you an offensive advantage.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Inputting the command quickly will increase the damage this move inflicts.\r\n　Master this move to have a better chance of victory."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||9||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\r\n　You will be left vulnerable if this attack is blocked.\r\n　Mix things up by stopping after only one  <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\r\n　Pulling this move off will launch your opponent into the air.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Use this strike to gain the advantage. Always stay on the offensive!\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　This high damage attack will catch your opponents as they attempt to dodge.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　This is the strongest of all of Jeffry's Throw techniques.\r\n　Try to be proactive in using this one!"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||10||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　Will give you a great advantage if used as a Counter Hit.\r\n　Follow up with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k> for high damage.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_k>\r\n　Pulling this move off will launch your opponent into the air.\r\n　Continue the combo with <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Will floor opponents when activated as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w8> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A low circular, effective against standing guards.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　A great Throw, perfect for switching places with an opponent."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||11||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　Pulling this move off will help you keep up the offensive.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\r\n　Pulling this move off will launch your opponent into the air.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p>\r\n　Will give you a great advantage if used as a Counter Hit.\r\n　Try <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p> <symbol=vf5_key_k> to trigger the same move as a High Attack.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A low circular, effective against standing guards.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　A Throw representative of Jacky's character.\r\n　Activates quickly, so using it won't break your fighting rhythm."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||12||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\r\n　Keep your opponent at a distance by alternating\r\n　between using  <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> and using <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w8> <symbol=vf5_key_k>\r\n　Pulling this move off will floor your opponent.\r\n　Continue the combo with <symbol=vf5_key_arrow_w8> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_k> <symbol=vf5_key_k>\r\n　A quick half-spin, useful when trying to dodge opponents.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A low circular, effective against standing guards.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　The strongest of all of Shun's Throw techniques.\r\n　Increases his alcohol intake by four."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||13||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\r\n　You will be left defenseless if your opponent blocks this move.\r\n　Mix things up by stopping after only one  <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\r\n　Will floor opponents when activated as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_k>\r\n　Activates quickly and launches the opponent when used as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_p> <symbol=vf5_key_k> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A low circular, effective against standing guards.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Cling onto opponents and scratch their faces for severe damage."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||14||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\r\n　The readable second strike can easily be dodged by your opponents.\r\n　Mix things up by stopping after only one  <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　Will floor opponents when activated as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_k> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p>\r\n　A half-spin that will floor an opponent if used as a Counter Hit.\r\n　You will be left slightly vulnerable if your opponent blocks this move.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Turns the opponent sideways to give you an offensive advantage.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Hurl opponents behind you. This may fling them out of the ring."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||15||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　A handy move that puts some distance between you and your opponent.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w9> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Pulling this move off will slam your opponent down on the ground.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　A half-spin technique useful against dodging opponents.\r\n　Will give you the advantage when activated as a Counter Hit.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A low circular, effective against standing guards.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Pushes opponents away. Most useful when you have them cornered."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||16||||6"
+msgid "Vanessa can switch styles by pressing <symbol=vf5_key_p> + <symbol=vf5_key_k> + <symbol=vf5_key_g>.\r\n<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　A half-spin move useful against dodging opponents.\r\n　There are also variations such as <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k> <symbol=vf5_key_k> and <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　A High Attack that knocks opponents down with ease.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A full-spin that will even hit dodging opponents.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Turns the opponent sideways to give you an offensive advantage.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Break your opponent's neck for severe damage."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||17||||6"
+msgid "Vanessa can switch styles by pressing <symbol=vf5_key_p> + <symbol=vf5_key_k> + <symbol=vf5_key_g>.\r\n*She will begin each round in Defensive Style.\r\n<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　Will give you a great advantage if used as a Counter Hit. Try an extra <symbol=vf5_key_k> at the end.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w9> <symbol=vf5_key_k>\r\n　Pulling this move off will launch your opponent into the air.\r\n　Continue the combo with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_k> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p>\r\n　A half-spin technique useful against dodging opponents.\r\n　Will give you the advantage when activated as a Counter Hit.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Great against guarding opponents, but vulnerable if the opponent is crouching.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Expertly utilizes your legs to slam your opponent to the ground."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||18||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　Using this as a Counter Hit will give you a major advantage. Keep your offense up!\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\r\n　Especially useful when activated as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> or <symbol=vf5_key_arrow_w8> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Shift your body for a sweeping kick. This can even be used to dodge attacks.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Turns the opponent sideways to give you an offensive advantage.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Strangles your opponents for severe damage."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||19||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　Will give you a great advantage if used as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Pulling this move off will launch your opponent into the air.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Long reach means you can use this move from a great distance.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A low circular, effective against standing guards.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Let loose three quick knee strikes in succession.\r\n　Continue the combo with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_k>."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||20||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　Will give you a great advantage if used as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Pulling this move off will launch your opponent into the air.\r\n　Continue the combo with <symbol=vf5_key_k> <symbol=vf5_key_k> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p>\r\n　A half-spin technique useful against dodging opponents.\r\n　Will give you the advantage when activated as a Counter Hit.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Turns the opponent sideways to give you an offensive advantage.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Hurl opponents forward. This may fling them out of the ring."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||21||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　A quick attack with long reach. Use it to jumpstart your offense.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w9> <symbol=vf5_key_k>\r\n　Pulling this move off will launch your opponent into the air.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_k> <symbol=vf5_key_p> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　Will floor opponents when activated as a Counter Hit.\r\n　Continue the combo with <symbol=vf5_key_arrow_w8> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　A circular that will transition you into a backward-facing stance.\r\n　As it's a High Attack, you will be left vulnerable if the opponent crouches.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Hold the opponent's head between your legs, spin, and slam them into the ground."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||22||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\r\n　Knocks an opponent down with just the first strike. A useful offense starter.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　Pulling this move off will launch your opponent into the air.\r\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_k> <symbol=vf5_key_p> <symbol=vf5_key_p>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p> + <symbol=vf5_key_k>\r\n　A low half-spin useful against dodging opponents.\r\n　You'll be left vulnerable if your opponent manages to guard it.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p>\r\n　This will transition you to a backward-facing stance.\r\n　From there, use <symbol=vf5_key_k> for a Mid Attack or <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> for a Low Attack.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Grab your opponent's head and swing them around. Inflicts severe damage."
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||23||||6"
+msgid "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\r\n　You can also perform a longer string by pressing <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_k>.\r\n　Be careful: The last two hits in that variant will be High Attacks.\r\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\r\n　Pulling this move off will launch your opponent into the air.\r\n　Continue the combo with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> <symbol=vf5_key_k>.\r\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p>\r\n　A half-circular technique useful against dodging opponents.\r\n　Will give you the advantage when activated as a Counter Hit.\r\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\r\n　Turns the opponent sideways to give you an offensive advantage.\r\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\r\n　Sends out continuous punches and kicks toward your opponent."
+msgstr ""
+
+msgctxt "38||puyopuyo0||table||2||||6"
+msgid "<color=mg_relu_topic>Basic Rules</color>\r\nOnce the game begins, pairs of Puyos will start to fall\r\nfrom the upper part of the screen. Create a group of 4 or more\r\nPuyos of the same color to pop them. The clear Garbage Puyos\r\ncan be cleared by popping a Puyo chain adjacent to them.\r\n\r\nCharacters will appear consecutively to battle you.\r\nTry to see how many wins you can rack up! \r\n\r\n<color=mg_relu_topic>Chains</color>\r\nA chain is when, after popping one group of Puyos, more Puyos\r\nfall into place and pop as well. Large chains are the key to\r\noverwhelming your opponent with Garbage Puyos."
+msgstr ""
+
+msgctxt "38||puyopuyo0||table||3||||6"
+msgid "<color=mg_relu_topic>Simultaneous Popping</color>\r\nPopping two or more Puyo groups at the same time will send more Garbage Puyos\r\nthan usual over to your opponent's side.\r\n\r\n<color=mg_relu_topic>All Clear</color>\r\nIf you pop every Puyo on your board, you will get what is called an All Clear.\r\nThis will greatly amplify the number of Garbage Puyos sent by your next chain. \r\n\r\n<color=mg_relu_topic>Game Over</color>\r\nYou lose when Puyos stack up and cover the <color=mg_relu_strong>X</color> at the upper middle of the board.\r\n"
+msgstr ""
+
+msgctxt "38||puyopuyo0||table||4||||6"
+msgid "<color=mg_relu_topic>Garbage Puyo Queue</color>\r\nThe Garbage Puyo Queue is displayed above your board.\r\nThis tells you how many Garbage Puyos will fall on your board\r\nafter your next non-chain move.\r\n\r\n<color=mg_relu_topic>Neutralizing</color>\r\nIf you pop a Puyo group while the Garbage Puyo Queue is active,\r\nyou can decrease the number of Garbage Puyos that will fall on your board.\r\nThis is known as neutralizing.\r\n"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||16||||6"
+msgid "<color=mg_relu_topic>Mission</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Select a mission to begin a clan battle.\n<color=mg_relu_topic>Organization</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Customize the organization and select a Strike Team.\n<color=mg_relu_topic>Training</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Strengthen your leaders with Kiryu's experience points.\n<color=mg_relu_topic>Events</color>\n　<color=mg_relu_point><symbol=bullet_point></color>These missions are available only for a limited time.\n　<color=mg_relu_point><symbol=bullet_point></color>Make sure to check back each day to see how they change!\n<color=mg_relu_topic>Help</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Review Clan Creator tutorials."
+msgstr ""
+
+msgctxt "39||clan_creator1||table||17||||6"
+msgid "<color=mg_relu_topic>Expanding the Clan</color>\r\n　First, focus on gaining more members to strengthen\r\n the Kiryu Clan's influence! Scout them from around\r\n the city or make progress in the missions to acquire\r\n powerful new leaders. Substories may also lead to\r\n new recruits.\r\n\r\n<color=mg_relu_topic>Customize Your Organization</color>\r\n　Assigning roles to leaders in the clan will increase\r\n your influence, which raises the Deployment Gauge!\r\n You'll start with only enough room for six leaders,\r\n but when your organization levels up, you'll gain room\r\n for many more."
+msgstr ""
+
+msgctxt "39||clan_creator1||table||18||||6"
+msgid "<color=mg_relu_topic>Leaders Need Men!</color>\r\n　As you expand a leader's command, his stats will increase by 10%. The more people he leads, the stronger \r\n he gets! If your leader has high compatibility with the men in his group, he may grow even stronger."
+msgstr ""
+
+msgctxt "39||clan_creator1||table||19||||6"
+msgid "<color=mg_relu_topic>Choose Which Leader to Deploy!</color>\r\n　You can choose to deploy up to six leaders into battle,\r\n but you can only select leaders who have been assigned\r\n a rank in the clan. Consider their stats and skills!\r\n\r\n<color=mg_relu_topic>The Leaders Change the Team!</color>\r\n　Each leader has his own men, and when you select one,\r\n he'll bring them into battle as the Strike Team. If men are\r\n assigned to multiple leaders, the deployment cost for that\r\n battle will be lower based on that number."
+msgstr ""
+
+msgctxt "39||clan_creator1||table||20||||6"
+msgid "<color=mg_relu_topic>Train Your Leaders to Win!</color>\n Leaders increase their stats by leveling up,\n to a max of 99.\n\n　<color=mg_relu_strong>Leveling Up Your Leaders</color>\n　　<color=mg_relu_point><symbol=bullet_point></color>Go on missions!\n　　<color=mg_relu_point><symbol=bullet_point></color>Use Kiryu's EXP!\n\n　　If you find a particular battle too difficult, it's probably\n   because your leaders need to grow stronger!"
+msgstr ""
+
+msgctxt "40||batting1||table||1||||6"
+msgid "<color=mg_relu_topic>Controls</color>\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> will adjust your aim to the pitching machine's throw.\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Press <symbol=button_batsu,Minigame_BattingCenter></color> at the proper time to hit the ball.\n\n<color=mg_relu_topic>Clearing the Course</color>\n<color=mg_relu_point><symbol=bullet_point></color>Try to hit the ball toward the <color=mg_relu_strong>batting panel</color> inside the cages.\n<color=mg_relu_point><symbol=bullet_point></color>How many bases you get depends on <color=mg_relu_strong>where you hit the panel</color>.\n<color=mg_relu_point><symbol=bullet_point></color>Earn the specified total number of runs in <color=mg_relu_strong>10 balls or fewer</color> to clear the course."
+msgstr ""
+
+msgctxt "14||mahjong0||table||58||||8"
+msgid "\r\n<color=mg_relu_topic>Bamboo:</color>\r\nThe peacock belongs to the bamboo suit.\r\n"
+msgstr ""
+
+msgctxt "14||mahjong0||table||59||||8"
+msgid "<color=mg_relu_topic>Dragons:</color>\r\nWhite, Green, Red."
+msgstr ""
+
+msgctxt "14||mahjong0||table||63||||8"
+msgid "<color=mg_relu_topic>Pon:</color>\r\nThree-of-a-kind of the same tile."
+msgstr ""
+
+msgctxt "14||mahjong0||table||64||||8"
+msgid "<color=mg_relu_topic>Pair:</color>\r\nTwo of the same tile."
+msgstr ""
+
+msgctxt "14||mahjong0||table||66||||8"
+msgid "Aim to form 4 sets of three (straights or triplets) and 1 pair."
+msgstr ""
+
+msgctxt "15||clan_creator0||table||25||||8"
+msgid "<color=mg_relu_topic>The High Cost Option: Leaders</color>\r\n    <color=mg_relu_point><symbol=bullet_point></color>Higher cost equals higher combat ability!\r\n    <color=mg_relu_point><symbol=bullet_point></color>You can only deploy one of each leader at a time.\r\n    <color=mg_relu_point><symbol=bullet_point></color>They can turn the tide with powerful skills.\r\n    <color=mg_relu_point><symbol=bullet_point></color>Give them orders after you deploy them!\r\n       <color=mg_relu_strong>More details on page 6!</color>"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||26||||8"
+msgid "<color=mg_relu_strong>Heavies</color>\r\n    <color=mg_relu_point><symbol=bullet_point></color>Damage sponges with high health.\r\n<color=mg_relu_strong>Rushers</color>\r\n    <color=mg_relu_point><symbol=bullet_point></color>Offensive soldiers with high attack.\r\n<color=mg_relu_strong>Grenadiers</color>\r\n    <color=mg_relu_point><symbol=bullet_point></color>Lobs grenades for damage over an area."
+msgstr ""
+
+msgctxt "15||clan_creator0||table||28||||8"
+msgid "<color=mg_relu_topic>Use the Leader's Skills!</color>\r\n    These are your best moves! For now, focus on\r\n    <color=mg_relu_strong>Joe's powerful skill, \"Ultimate Dropkick\"!</color>\r\n\r\n    When you can't seem to win, give it a try!"
+msgstr ""
+
+msgctxt "19||gym_squatjump0||table||2||||8"
+msgid "When the ring and the button's outer border overlap,\r\npress the button displayed. Your score is based on\r\nhow accurately you time your button presses."
+msgstr ""
+
+msgctxt "22||mahjong1||table||24||||8"
+msgid "<color=mg_relu_topic>All Simples (Tan'yaochuu):</color>\r\nUses suit tiles 2 through 8 to make four sets and one pair."
+msgstr ""
+
+msgctxt "22||mahjong1||table||27||||8"
+msgid "<color=mg_relu_topic>Round Wind/Seat Wind (Kazehai):</color>\r\nA triplet (or quad) of the round wind or your seat wind."
+msgstr ""
+
+msgctxt "22||mahjong1||table||29||||8"
+msgid "<color=mg_relu_topic>Mixed Outside Hand (Chanta):</color>\r\nAll sets include a 1, 9, or honor tile.\r\nConcealed: 2 han. Exposed: 1 han."
+msgstr ""
+
+msgctxt "22||mahjong1||table||30||||8"
+msgid "<color=mg_relu_topic>Seven Pairs (Chiitoitsu):</color>\r\nA concealed hand of 7 pairs. All seven pairs must be unique."
+msgstr ""
+
+msgctxt "22||mahjong1||table||31||||8"
+msgid "<color=mg_relu_topic>Double Wind (Renpuuhai):</color>\r\nA triplet or quad of the Wind tile that is both the round wind and your seat wind."
+msgstr ""
+
+msgctxt "22||mahjong1||table||32||||8"
+msgid "<color=mg_relu_topic>All Terminals and Honors (Honroutou):</color>\r\nAll triplets or quads of 1s, 9s, and honors."
+msgstr ""
+
+msgctxt "22||mahjong1||table||33||||8"
+msgid "<color=mg_relu_topic>Three Color Triplets (Sanshoku Doukou):</color>\r\nA hand with three triplets of the same number, one in each suit."
+msgstr ""
+
+msgctxt "22||mahjong1||table||34||||8"
+msgid "<color=mg_relu_topic>Double Riichi:</color>\r\nWhen you declare riichi on your first discard."
+msgstr ""
+
+msgctxt "22||mahjong1||table||35||||8"
+msgid "<color=mg_relu_topic>Half Flush (Hon'itsu):</color>\r\nA hand consisting of only one suit and any combination of honors. \r\nConcealed: 3 han. Exposed: 2 han."
+msgstr ""
+
+msgctxt "22||mahjong1||table||39||||8"
+msgid "<color=mg_relu_topic>All Honors (Tsuuiisou):</color>\r\nA hand consisting entirely of honors."
+msgstr ""
+
+msgctxt "22||mahjong1||table||40||||8"
+msgid "<color=mg_relu_topic>All Green (Ryuuiisou):</color>\r\nA hand consisting entirely of green tiles (only green dragons and 2, 3, 4, 6, and 8 of Bamboo tiles)."
+msgstr ""
+
+msgctxt "22||mahjong1||table||41||||8"
+msgid "<color=mg_relu_topic>Little Four Winds (Shousuushii):</color>\r\nA hand with any three wind triplets and a pair winds."
+msgstr ""
+
+msgctxt "22||mahjong1||table||42||||8"
+msgid "<color=mg_relu_topic>Big Wheel (Dai Sharin):</color>\r\nA concealed hand consisting of seven pairs of dots 2 through 8."
+msgstr ""
+
+msgctxt "22||mahjong1||table||43||||8"
+msgid "<color=mg_relu_topic>Nine Gates (Chuuren Poutou):</color>\r\nA concealed Full Flush with three 1s, three 9s, one each of 2 through 8, and one additional tile\r\nfrom the same suit."
+msgstr ""
+
+msgctxt "22||mahjong1||table||45||||8"
+msgid "<color=mg_relu_topic>Pure Thirteen Orphans (Junsei Kokushi Musou):</color>\r\nSame as Thirteen Orphans, but you finish by waiting to form a pair from one of 13 different tiles\r\nthat could complete it."
+msgstr ""
+
+msgctxt "22||mahjong1||table||46||||8"
+msgid "<color=mg_relu_topic>Pure Nine Gates (Junsei Chuuren Poutou):</color>\r\nSame as Nine Gates, except you finish the hand by waiting to form a pair from the numbers 1 through 9."
+msgstr ""
+
+msgctxt "30||snack0||table||3||||8"
+msgid "People may be reluctant to talk at first,\r\nbut as you become a familiar face around\r\nthe bar, they'll open up more and drink\r\nwith you."
+msgstr ""
+
+msgctxt "30||snack0||table||4||||8"
+msgid "Pay attention to the flow of the conversation and\r\nchoose responses that keep it flowing naturally.\r\nRather than drawing attention to yourself,\r\nencourage them to open up and keep talking\r\nwhile you avoid being socially awkward."
+msgstr ""
+
+msgctxt "30||snack0||table||7||||8"
+msgid "However, you can only increase the friendship meter\r\nonce via each game per visit."
+msgstr ""
+
+msgctxt "14||mahjong0||table||58||||10"
+msgid "<color=mg_relu_topic>Characters:</color>"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||22||||13"
+msgid "Clan Creator (Battle)"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||23||||13"
+msgid "Clan Creator (Battle)"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||24||||13"
+msgid "Clan Creator (Battle)"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||25||||13"
+msgid "Clan Creator (Battle)"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||26||||13"
+msgid "Clan Creator (Battle)"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||27||||13"
+msgid "Clan Creator (Battle)"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||28||||13"
+msgid "Clan Creator (Battle)"
+msgstr ""
+
+msgctxt "16||gym_benchpress0||table||2||||13"
+msgid "Training"
+msgstr ""
+
+msgctxt "17||gym_squat0||table||2||||13"
+msgid "Training"
+msgstr ""
+
+msgctxt "17||gym_squat0||table||3||||13"
+msgid "Training"
+msgstr ""
+
+msgctxt "18||gym_deadlift0||table||2||||13"
+msgid "Training"
+msgstr ""
+
+msgctxt "19||gym_squatjump0||table||2||||13"
+msgid "Training"
+msgstr ""
+
+msgctxt "19||gym_squatjump0||table||3||||13"
+msgid "Training"
+msgstr ""
+
+msgctxt "20||gym_latpulldown0||table||2||||13"
+msgid "Training"
+msgstr ""
+
+msgctxt "20||gym_latpulldown0||table||3||||13"
+msgid "Training"
+msgstr ""
+
+msgctxt "21||gym_seatedrowing0||table||2||||13"
+msgid "Training"
+msgstr ""
+
+msgctxt "24||darts0||table||7||||13"
+msgid "Darts"
+msgstr ""
+
+msgctxt "24||darts0||table||8||||13"
+msgid "Darts"
+msgstr ""
+
+msgctxt "24||darts0||table||9||||13"
+msgid "'01 Game"
+msgstr ""
+
+msgctxt "24||darts0||table||10||||13"
+msgid "'01 Game"
+msgstr ""
+
+msgctxt "24||darts0||table||11||||13"
+msgid "'01 Game"
+msgstr ""
+
+msgctxt "24||darts0||table||12||||13"
+msgid "'01 Game"
+msgstr ""
+
+msgctxt "24||darts0||table||13||||13"
+msgid "Count-Up"
+msgstr ""
+
+msgctxt "24||darts0||table||14||||13"
+msgid "Count-Up"
+msgstr ""
+
+msgctxt "24||darts0||table||15||||13"
+msgid "Standard Cricket"
+msgstr ""
+
+msgctxt "24||darts0||table||16||||13"
+msgid "Standard Cricket"
+msgstr ""
+
+msgctxt "24||darts0||table||17||||13"
+msgid "Standard Cricket"
+msgstr ""
+
+msgctxt "24||darts0||table||18||||13"
+msgid "Standard Cricket"
+msgstr ""
+
+msgctxt "24||darts0||table||19||||13"
+msgid "Standard Cricket"
+msgstr ""
+
+msgctxt "32||saisen0||table||2||||13"
+msgid "Temple Offering"
+msgstr ""
+
+msgctxt "32||saisen0||table||3||||13"
+msgid "Temple Offering"
+msgstr ""
+
+msgctxt "32||saisen0||table||4||||13"
+msgid "Temple Offering"
+msgstr ""
+
+msgctxt "32||saisen0||table||5||||13"
+msgid "Temple Offering"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||16||||13"
+msgid "Clan Creator (Menu)"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||17||||13"
+msgid "Clan Creator (Menu)"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||18||||13"
+msgid "Clan Creator (Menu)"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||19||||13"
+msgid "Clan Creator (Menu)"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||20||||13"
+msgid "Clan Creator (Menu)"
+msgstr ""
+
+msgctxt "14||mahjong0||table||56||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "14||mahjong0||table||57||||14"
+msgid "Game Components"
+msgstr ""
+
+msgctxt "14||mahjong0||table||58||||14"
+msgid "Identifying the Tiles"
+msgstr ""
+
+msgctxt "14||mahjong0||table||59||||14"
+msgid "Identifying the Tiles"
+msgstr ""
+
+msgctxt "14||mahjong0||table||60||||14"
+msgid "Game Layout"
+msgstr ""
+
+msgctxt "14||mahjong0||table||61||||14"
+msgid "Game Layout"
+msgstr ""
+
+msgctxt "14||mahjong0||table||62||||14"
+msgid "Game Layout"
+msgstr ""
+
+msgctxt "14||mahjong0||table||63||||14"
+msgid "Sets"
+msgstr ""
+
+msgctxt "14||mahjong0||table||64||||14"
+msgid "Sets"
+msgstr ""
+
+msgctxt "14||mahjong0||table||65||||14"
+msgid "Tips for Beginners"
+msgstr ""
+
+msgctxt "14||mahjong0||table||66||||14"
+msgid "Completing a Hand"
+msgstr ""
+
+msgctxt "14||mahjong0||table||67||||14"
+msgid "Completing a Hand"
+msgstr ""
+
+msgctxt "14||mahjong0||table||68||||14"
+msgid "Exposed Melds & Melding (Stealing)"
+msgstr ""
+
+msgctxt "14||mahjong0||table||69||||14"
+msgid "Exposed Melds & Melding (Stealing)"
+msgstr ""
+
+msgctxt "14||mahjong0||table||70||||14"
+msgid "Concealed Kan and Riichi"
+msgstr ""
+
+msgctxt "14||mahjong0||table||71||||14"
+msgid "Dora"
+msgstr ""
+
+msgctxt "14||mahjong0||table||72||||14"
+msgid "Dora"
+msgstr ""
+
+msgctxt "14||mahjong0||table||73||||14"
+msgid "Winning a Round (Completing a Hand)"
+msgstr ""
+
+msgctxt "14||mahjong0||table||74||||14"
+msgid "Additional Rules"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||22||||14"
+msgid "Welcome to Clan Creator"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||23||||14"
+msgid "Rules of Engagement"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||24||||14"
+msgid "Deploying Allies"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||25||||14"
+msgid "Soldiers and Leaders"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||26||||14"
+msgid "Soldier Types"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||27||||14"
+msgid "Controlling Leaders"
+msgstr ""
+
+msgctxt "15||clan_creator0||table||28||||14"
+msgid "Tips for Victory"
+msgstr ""
+
+msgctxt "16||gym_benchpress0||table||2||||14"
+msgid "Bench Press"
+msgstr ""
+
+msgctxt "17||gym_squat0||table||2||||14"
+msgid "Squats"
+msgstr ""
+
+msgctxt "17||gym_squat0||table||3||||14"
+msgid "Squats"
+msgstr ""
+
+msgctxt "18||gym_deadlift0||table||2||||14"
+msgid "Deadlifts"
+msgstr ""
+
+msgctxt "19||gym_squatjump0||table||2||||14"
+msgid "Jump Squats"
+msgstr ""
+
+msgctxt "19||gym_squatjump0||table||3||||14"
+msgid "Jump Squats"
+msgstr ""
+
+msgctxt "20||gym_latpulldown0||table||2||||14"
+msgid "Lat Pulldowns"
+msgstr ""
+
+msgctxt "20||gym_latpulldown0||table||3||||14"
+msgid "Lat Pulldowns"
+msgstr ""
+
+msgctxt "21||gym_seatedrowing0||table||2||||14"
+msgid "Seated Row"
+msgstr ""
+
+msgctxt "22||mahjong1||table||24||||14"
+msgid "Scoring Elements (1 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||25||||14"
+msgid "Scoring Elements (1 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||26||||14"
+msgid "Scoring Elements (1 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||27||||14"
+msgid "Scoring Elements (1 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||28||||14"
+msgid "Scoring Elements (1 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||29||||14"
+msgid "Scoring Elements (2 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||30||||14"
+msgid "Scoring Elements (2 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||31||||14"
+msgid "Scoring Elements (2 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||32||||14"
+msgid "Scoring Elements (2 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||33||||14"
+msgid "Scoring Elements (2 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||34||||14"
+msgid "Scoring Elements (2 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||35||||14"
+msgid "Scoring Elements (3 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||36||||14"
+msgid "Scoring Elements (3 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||37||||14"
+msgid "Scoring Elements (Mangan)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||38||||14"
+msgid "Scoring Elements (6 Han)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||39||||14"
+msgid "Scoring Elements (Limit Hands)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||40||||14"
+msgid "Scoring Elements (Limit Hands)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||41||||14"
+msgid "Scoring Elements (Limit Hands)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||42||||14"
+msgid "Scoring Elements (Limit Hands)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||43||||14"
+msgid "Scoring Elements (Limit Hands)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||44||||14"
+msgid "Scoring Elements (Limit Hands)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||45||||14"
+msgid "Scoring Elements (Double Limit Hands)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||46||||14"
+msgid "Scoring Elements (Double Limit Hands)"
+msgstr ""
+
+msgctxt "22||mahjong1||table||47||||14"
+msgid "Points"
+msgstr ""
+
+msgctxt "23||karaoke0||table||7||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "23||karaoke0||table||8||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "23||karaoke0||table||9||||14"
+msgid "Heat Mode"
+msgstr ""
+
+msgctxt "23||karaoke0||table||10||||14"
+msgid "Backup Difficulty"
+msgstr ""
+
+msgctxt "24||darts0||table||7||||14"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "24||darts0||table||8||||14"
+msgid "Power Gauge"
+msgstr ""
+
+msgctxt "24||darts0||table||9||||14"
+msgid "Game Description"
+msgstr ""
+
+msgctxt "24||darts0||table||10||||14"
+msgid "Win Condition"
+msgstr ""
+
+msgctxt "24||darts0||table||11||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "24||darts0||table||12||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "24||darts0||table||13||||14"
+msgid "Game Description"
+msgstr ""
+
+msgctxt "24||darts0||table||14||||14"
+msgid "Win Condition"
+msgstr ""
+
+msgctxt "24||darts0||table||15||||14"
+msgid "Game Description"
+msgstr ""
+
+msgctxt "24||darts0||table||16||||14"
+msgid "Win Condition"
+msgstr ""
+
+msgctxt "24||darts0||table||17||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "24||darts0||table||18||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "24||darts0||table||19||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "26||live_chat0||table||1||||14"
+msgid "Welcome to Live Chat!"
+msgstr ""
+
+msgctxt "26||live_chat0||table||2||||14"
+msgid "Keep the Conversation Going"
+msgstr ""
+
+msgctxt "26||live_chat0||table||3||||14"
+msgid "Fortune Favors the Bold"
+msgstr ""
+
+msgctxt "27||spear0||table||2||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "27||spear0||table||3||||14"
+msgid "Reload"
+msgstr ""
+
+msgctxt "27||spear0||table||4||||14"
+msgid "Catch Points"
+msgstr ""
+
+msgctxt "27||spear0||table||5||||14"
+msgid "Treasure Chests"
+msgstr ""
+
+msgctxt "28||batting0||table||2||||14"
+msgid "Home Run Course"
+msgstr ""
+
+msgctxt "29||baseball0||table||2||||14"
+msgid "Building a Better Team"
+msgstr ""
+
+msgctxt "29||baseball0||table||3||||14"
+msgid "Step 1: Recruiting"
+msgstr ""
+
+msgctxt "29||baseball0||table||4||||14"
+msgid "Step 2: Training"
+msgstr ""
+
+msgctxt "29||baseball0||table||5||||14"
+msgid "Step 2: Training"
+msgstr ""
+
+msgctxt "29||baseball0||table||6||||14"
+msgid "Step 2: Training"
+msgstr ""
+
+msgctxt "29||baseball0||table||7||||14"
+msgid "Step 3: Winning Games"
+msgstr ""
+
+msgctxt "29||baseball0||table||8||||14"
+msgid "Step 3: Winning Games"
+msgstr ""
+
+msgctxt "30||snack0||table||2||||14"
+msgid "Making Friends at the Bar"
+msgstr ""
+
+msgctxt "30||snack0||table||3||||14"
+msgid "Friendship Takes Effort"
+msgstr ""
+
+msgctxt "30||snack0||table||4||||14"
+msgid "Making Conversation"
+msgstr ""
+
+msgctxt "30||snack0||table||5||||14"
+msgid "Making Conversation (cont.)"
+msgstr ""
+
+msgctxt "30||snack0||table||6||||14"
+msgid "The New Gaudi Hierarchy"
+msgstr ""
+
+msgctxt "30||snack0||table||7||||14"
+msgid "Darts and Karaoke"
+msgstr ""
+
+msgctxt "31||cabaret0||table||2||||14"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "31||cabaret0||table||3||||14"
+msgid "Mood Gauge"
+msgstr ""
+
+msgctxt "31||cabaret0||table||4||||14"
+msgid "Conversation Cards"
+msgstr ""
+
+msgctxt "31||cabaret0||table||5||||14"
+msgid "Food Cards"
+msgstr ""
+
+msgctxt "31||cabaret0||table||6||||14"
+msgid "Drink Cards"
+msgstr ""
+
+msgctxt "31||cabaret0||table||7||||14"
+msgid "Card Chains"
+msgstr ""
+
+msgctxt "32||saisen0||table||2||||14"
+msgid "The Gods Smile Upon the Generous"
+msgstr ""
+
+msgctxt "32||saisen0||table||3||||14"
+msgid "The Gods Smile Upon the Generous"
+msgstr ""
+
+msgctxt "32||saisen0||table||4||||14"
+msgid "The Blessed Area"
+msgstr ""
+
+msgctxt "32||saisen0||table||5||||14"
+msgid "The Bonus Roulette"
+msgstr ""
+
+msgctxt "33||sega_fzn||table||10||||14"
+msgid "Welcome to the Fantasy Zone!"
+msgstr ""
+
+msgctxt "33||sega_fzn||table||11||||14"
+msgid "Starting the Game"
+msgstr ""
+
+msgctxt "33||sega_fzn||table||12||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "33||sega_fzn||table||13||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "33||sega_fzn||table||14||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "33||sega_fzn||table||15||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "33||sega_fzn||table||16||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "34||sega_hng||table||2||||14"
+msgid "Game Introduction"
+msgstr ""
+
+msgctxt "34||sega_hng||table||3||||14"
+msgid "Starting the Game"
+msgstr ""
+
+msgctxt "34||sega_hng||table||4||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "34||sega_hng||table||5||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "34||sega_hng||table||6||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "35||sega_otr||table||2||||14"
+msgid "Game Introduction"
+msgstr ""
+
+msgctxt "35||sega_otr||table||3||||14"
+msgid "Starting the Game"
+msgstr ""
+
+msgctxt "35||sega_otr||table||4||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "35||sega_otr||table||5||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "35||sega_otr||table||6||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "36||sega_sph||table||2||||14"
+msgid "Game Introduction"
+msgstr ""
+
+msgctxt "36||sega_sph||table||3||||14"
+msgid "Starting the Game"
+msgstr ""
+
+msgctxt "36||sega_sph||table||4||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "36||sega_sph||table||5||||14"
+msgid "Making Progress"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||3||||14"
+msgid "Recommended Techniques"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||4||||14"
+msgid "Akira Yuki"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||5||||14"
+msgid "Pai Chan"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||6||||14"
+msgid "Lau Chan"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||7||||14"
+msgid "Kage Maru"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||8||||14"
+msgid "Wolf Hawkfield"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||9||||14"
+msgid "Jeffry McWild"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||10||||14"
+msgid "Sarah Bryant"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||11||||14"
+msgid "Jacky Bryant"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||12||||14"
+msgid "Shun Di"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||13||||14"
+msgid "Lion Rafale"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||14||||14"
+msgid "Aoi Umenokoji"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||15||||14"
+msgid "Lei-Fei"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||16||||14"
+msgid "Vanessa Lewis (Defensive)"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||17||||14"
+msgid "Vanessa Lewis (Offensive)"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||18||||14"
+msgid "Goh Hinogami"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||19||||14"
+msgid "Brad Burns"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||20||||14"
+msgid "El Blaze"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||21||||14"
+msgid "Eileen"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||22||||14"
+msgid "Taka-Arashi"
+msgstr ""
+
+msgctxt "37||virtua_fighter5||table||23||||14"
+msgid "Jean Kujo"
+msgstr ""
+
+msgctxt "38||puyopuyo0||table||2||||14"
+msgid "Game Rules"
+msgstr ""
+
+msgctxt "38||puyopuyo0||table||3||||14"
+msgid "Game Rules"
+msgstr ""
+
+msgctxt "38||puyopuyo0||table||4||||14"
+msgid "Game Rules"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||16||||14"
+msgid "The Clan Menu"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||17||||14"
+msgid "Expanding the Kiryu Clan"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||18||||14"
+msgid "Training Your Leaders"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||19||||14"
+msgid "The Strike Team"
+msgstr ""
+
+msgctxt "39||clan_creator1||table||20||||14"
+msgid "Making the Clan Strong"
+msgstr ""
+
+msgctxt "40||batting1||table||1||||14"
+msgid "Challenge Course"
+msgstr ""
+

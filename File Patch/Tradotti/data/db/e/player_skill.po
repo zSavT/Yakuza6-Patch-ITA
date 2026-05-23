@@ -1,0 +1,5724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||hit_point_up_1||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "2||attack_up_1||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "3||defense_up_1||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "4||agility_up_1||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "5||heat_gauge_up_1||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "36||hit_point_up_2||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "37||attack_up_2||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "38||defense_up_2||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "39||agility_up_2||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "40||heat_gauge_up_2||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "41||hit_point_up_3||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "42||hit_point_up_4||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "43||hit_point_up_5||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "44||hit_point_up_6||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "45||hit_point_up_7||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "46||hit_point_up_8||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "47||hit_point_up_9||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "48||hit_point_up_10||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "49||hit_point_up_11||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "50||hit_point_up_12||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "51||hit_point_up_13||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "52||hit_point_up_14||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "53||hit_point_up_15||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "54||hit_point_up_16||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "55||hit_point_up_17||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "56||hit_point_up_18||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "57||hit_point_up_19||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "58||hit_point_up_20||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "59||hit_point_up_21||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "60||hit_point_up_22||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "61||hit_point_up_23||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "62||hit_point_up_24||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "63||hit_point_up_25||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "64||hit_point_up_26||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "65||hit_point_up_27||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "66||hit_point_up_28||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "67||hit_point_up_29||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "68||hit_point_up_30||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "69||hit_point_up_31||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "70||hit_point_up_32||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "71||hit_point_up_33||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "72||hit_point_up_34||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "73||hit_point_up_35||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "74||hit_point_up_36||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "75||hit_point_up_37||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "76||hit_point_up_38||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "77||hit_point_up_39||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "78||hit_point_up_40||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "79||hit_point_up_41||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "80||hit_point_up_42||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "81||hit_point_up_43||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "82||hit_point_up_44||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "83||hit_point_up_45||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "84||hit_point_up_46||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "85||hit_point_up_47||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "86||hit_point_up_48||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "87||hit_point_up_49||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "88||hit_point_up_50||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "89||hit_point_up_51||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "90||hit_point_up_52||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "91||hit_point_up_53||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "92||hit_point_up_54||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "93||hit_point_up_55||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "94||hit_point_up_56||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "95||hit_point_up_57||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "96||hit_point_up_58||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "97||hit_point_up_59||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "98||hit_point_up_60||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "99||hit_point_up_61||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "100||hit_point_up_62||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "101||hit_point_up_63||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "102||hit_point_up_64||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "103||hit_point_up_65||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "104||hit_point_up_66||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "105||hit_point_up_67||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "106||hit_point_up_68||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "107||hit_point_up_69||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "108||hit_point_up_70||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "109||hit_point_up_71||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "110||hit_point_up_72||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "111||hit_point_up_73||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "112||hit_point_up_74||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "113||hit_point_up_75||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "114||hit_point_up_76||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "115||hit_point_up_77||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "116||hit_point_up_78||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "117||hit_point_up_79||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "118||hit_point_up_80||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "119||hit_point_up_81||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "120||hit_point_up_82||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "121||hit_point_up_83||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "122||hit_point_up_84||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "123||hit_point_up_85||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "124||hit_point_up_86||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "125||hit_point_up_87||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "126||hit_point_up_88||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "127||hit_point_up_89||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "128||hit_point_up_90||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "129||hit_point_up_91||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "130||hit_point_up_92||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "131||hit_point_up_93||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "132||hit_point_up_94||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "133||hit_point_up_95||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "134||hit_point_up_96||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "135||hit_point_up_97||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "136||hit_point_up_98||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "137||hit_point_up_99||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "138||hit_point_up_100||name"
+msgid "Boost Health"
+msgstr "Aumenta salute"
+
+msgctxt "139||attack_up_3||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "140||attack_up_4||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "141||attack_up_5||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "142||attack_up_6||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "143||attack_up_7||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "144||attack_up_8||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "145||attack_up_9||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "146||attack_up_10||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "147||attack_up_11||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "148||attack_up_12||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "149||attack_up_13||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "150||attack_up_14||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "151||attack_up_15||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "152||attack_up_16||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "153||attack_up_17||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "154||attack_up_18||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "155||attack_up_19||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "156||attack_up_20||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "157||attack_up_21||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "158||attack_up_22||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "159||attack_up_23||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "160||attack_up_24||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "161||attack_up_25||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "162||attack_up_26||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "163||attack_up_27||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "164||attack_up_28||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "165||attack_up_29||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "166||attack_up_30||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "167||attack_up_31||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "168||attack_up_32||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "169||attack_up_33||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "170||attack_up_34||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "171||attack_up_35||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "172||attack_up_36||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "173||attack_up_37||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "174||attack_up_38||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "175||attack_up_39||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "176||attack_up_40||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "177||attack_up_41||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "178||attack_up_42||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "179||attack_up_43||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "180||attack_up_44||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "181||attack_up_45||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "182||attack_up_46||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "183||attack_up_47||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "184||attack_up_48||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "185||attack_up_49||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "186||attack_up_50||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "187||attack_up_51||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "188||attack_up_52||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "189||attack_up_53||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "190||attack_up_54||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "191||attack_up_55||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "192||attack_up_56||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "193||attack_up_57||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "194||attack_up_58||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "195||attack_up_59||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "196||attack_up_60||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "197||attack_up_61||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "198||attack_up_62||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "199||attack_up_63||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "200||attack_up_64||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "201||attack_up_65||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "202||attack_up_66||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "203||attack_up_67||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "204||attack_up_68||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "205||attack_up_69||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "206||attack_up_70||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "207||attack_up_71||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "208||attack_up_72||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "209||attack_up_73||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "210||attack_up_74||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "211||attack_up_75||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "212||attack_up_76||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "213||attack_up_77||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "214||attack_up_78||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "215||attack_up_79||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "216||attack_up_80||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "217||attack_up_81||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "218||attack_up_82||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "219||attack_up_83||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "220||attack_up_84||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "221||attack_up_85||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "222||attack_up_86||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "223||attack_up_87||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "224||attack_up_88||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "225||attack_up_89||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "226||attack_up_90||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "227||attack_up_91||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "228||attack_up_92||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "229||attack_up_93||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "230||attack_up_94||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "231||attack_up_95||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "232||attack_up_96||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "233||attack_up_97||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "234||attack_up_98||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "235||attack_up_99||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "236||attack_up_100||name"
+msgid "Boost Attack"
+msgstr "Aumenta attacco"
+
+msgctxt "237||defense_up_3||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "238||defense_up_4||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "239||defense_up_5||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "240||defense_up_6||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "241||defense_up_7||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "242||defense_up_8||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "243||defense_up_9||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "244||defense_up_10||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "245||defense_up_11||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "246||defense_up_12||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "247||defense_up_13||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "248||defense_up_14||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "249||defense_up_15||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "250||defense_up_16||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "251||defense_up_17||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "252||defense_up_18||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "253||defense_up_19||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "254||defense_up_20||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "255||defense_up_21||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "256||defense_up_22||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "257||defense_up_23||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "258||defense_up_24||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "259||defense_up_25||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "260||defense_up_26||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "261||defense_up_27||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "262||defense_up_28||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "263||defense_up_29||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "264||defense_up_30||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "265||defense_up_31||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "266||defense_up_32||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "267||defense_up_33||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "268||defense_up_34||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "269||defense_up_35||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "270||defense_up_36||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "271||defense_up_37||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "272||defense_up_38||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "273||defense_up_39||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "274||defense_up_40||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "275||defense_up_41||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "276||defense_up_42||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "277||defense_up_43||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "278||defense_up_44||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "279||defense_up_45||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "280||defense_up_46||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "281||defense_up_47||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "282||defense_up_48||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "283||defense_up_49||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "284||defense_up_50||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "285||defense_up_51||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "286||defense_up_52||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "287||defense_up_53||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "288||defense_up_54||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "289||defense_up_55||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "290||defense_up_56||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "291||defense_up_57||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "292||defense_up_58||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "293||defense_up_59||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "294||defense_up_60||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "295||defense_up_61||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "296||defense_up_62||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "297||defense_up_63||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "298||defense_up_64||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "299||defense_up_65||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "300||defense_up_66||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "301||defense_up_67||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "302||defense_up_68||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "303||defense_up_69||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "304||defense_up_70||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "305||defense_up_71||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "306||defense_up_72||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "307||defense_up_73||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "308||defense_up_74||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "309||defense_up_75||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "310||defense_up_76||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "311||defense_up_77||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "312||defense_up_78||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "313||defense_up_79||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "314||defense_up_80||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "315||defense_up_81||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "316||defense_up_82||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "317||defense_up_83||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "318||defense_up_84||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "319||defense_up_85||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "320||defense_up_86||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "321||defense_up_87||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "322||defense_up_88||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "323||defense_up_89||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "324||defense_up_90||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "325||defense_up_91||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "326||defense_up_92||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "327||defense_up_93||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "328||defense_up_94||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "329||defense_up_95||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "330||defense_up_96||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "331||defense_up_97||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "332||defense_up_98||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "333||defense_up_99||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "334||defense_up_100||name"
+msgid "Boost Defense"
+msgstr "Aumenta difesa"
+
+msgctxt "335||agility_up_3||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "336||agility_up_4||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "337||agility_up_5||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "338||agility_up_6||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "339||agility_up_7||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "340||agility_up_8||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "341||agility_up_9||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "342||agility_up_10||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "343||agility_up_11||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "344||agility_up_12||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "345||agility_up_13||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "346||agility_up_14||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "347||agility_up_15||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "348||agility_up_16||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "349||agility_up_17||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "350||agility_up_18||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "351||agility_up_19||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "352||agility_up_20||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "353||agility_up_21||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "354||agility_up_22||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "355||agility_up_23||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "356||agility_up_24||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "357||agility_up_25||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "358||agility_up_26||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "359||agility_up_27||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "360||agility_up_28||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "361||agility_up_29||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "362||agility_up_30||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "363||agility_up_31||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "364||agility_up_32||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "365||agility_up_33||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "366||agility_up_34||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "367||agility_up_35||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "368||agility_up_36||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "369||agility_up_37||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "370||agility_up_38||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "371||agility_up_39||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "372||agility_up_40||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "373||agility_up_41||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "374||agility_up_42||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "375||agility_up_43||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "376||agility_up_44||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "377||agility_up_45||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "378||agility_up_46||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "379||agility_up_47||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "380||agility_up_48||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "381||agility_up_49||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "382||agility_up_50||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "383||agility_up_51||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "384||agility_up_52||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "385||agility_up_53||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "386||agility_up_54||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "387||agility_up_55||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "388||agility_up_56||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "389||agility_up_57||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "390||agility_up_58||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "391||agility_up_59||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "392||agility_up_60||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "393||agility_up_61||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "394||agility_up_62||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "395||agility_up_63||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "396||agility_up_64||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "397||agility_up_65||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "398||agility_up_66||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "399||agility_up_67||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "400||agility_up_68||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "401||agility_up_69||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "402||agility_up_70||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "403||agility_up_71||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "404||agility_up_72||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "405||agility_up_73||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "406||agility_up_74||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "407||agility_up_75||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "408||agility_up_76||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "409||agility_up_77||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "410||agility_up_78||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "411||agility_up_79||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "412||agility_up_80||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "413||agility_up_81||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "414||agility_up_82||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "415||agility_up_83||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "416||agility_up_84||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "417||agility_up_85||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "418||agility_up_86||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "419||agility_up_87||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "420||agility_up_88||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "421||agility_up_89||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "422||agility_up_90||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "423||agility_up_91||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "424||agility_up_92||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "425||agility_up_93||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "426||agility_up_94||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "427||agility_up_95||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "428||agility_up_96||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "429||agility_up_97||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "430||agility_up_98||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "431||agility_up_99||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "432||agility_up_100||name"
+msgid "Boost Evasion"
+msgstr "Aumenta schivata"
+
+msgctxt "433||heat_gauge_up_3||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "434||heat_gauge_up_4||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "435||heat_gauge_up_5||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "436||heat_gauge_up_6||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "437||heat_gauge_up_7||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "438||heat_gauge_up_8||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "439||heat_gauge_up_9||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "440||heat_gauge_up_10||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "441||heat_gauge_up_11||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "442||heat_gauge_up_12||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "443||heat_gauge_up_13||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "444||heat_gauge_up_14||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "445||heat_gauge_up_15||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "446||heat_gauge_up_16||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "447||heat_gauge_up_17||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "448||heat_gauge_up_18||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "449||heat_gauge_up_19||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "450||heat_gauge_up_20||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "451||heat_gauge_up_21||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "452||heat_gauge_up_22||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "453||heat_gauge_up_23||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "454||heat_gauge_up_24||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "455||heat_gauge_up_25||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "456||heat_gauge_up_26||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "457||heat_gauge_up_27||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "458||heat_gauge_up_28||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "459||heat_gauge_up_29||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "460||heat_gauge_up_30||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "461||heat_gauge_up_31||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "462||heat_gauge_up_32||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "463||heat_gauge_up_33||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "464||heat_gauge_up_34||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "465||heat_gauge_up_35||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "466||heat_gauge_up_36||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "467||heat_gauge_up_37||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "468||heat_gauge_up_38||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "469||heat_gauge_up_39||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "470||heat_gauge_up_40||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "471||heat_gauge_up_41||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "472||heat_gauge_up_42||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "473||heat_gauge_up_43||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "474||heat_gauge_up_44||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "475||heat_gauge_up_45||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "476||heat_gauge_up_46||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "477||heat_gauge_up_47||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "478||heat_gauge_up_48||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "479||heat_gauge_up_49||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "480||heat_gauge_up_50||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "481||heat_gauge_up_51||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "482||heat_gauge_up_52||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "483||heat_gauge_up_53||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "484||heat_gauge_up_54||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "485||heat_gauge_up_55||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "486||heat_gauge_up_56||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "487||heat_gauge_up_57||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "488||heat_gauge_up_58||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "489||heat_gauge_up_59||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "490||heat_gauge_up_60||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "491||heat_gauge_up_61||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "492||heat_gauge_up_62||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "493||heat_gauge_up_63||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "494||heat_gauge_up_64||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "495||heat_gauge_up_65||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "496||heat_gauge_up_66||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "497||heat_gauge_up_67||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "498||heat_gauge_up_68||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "499||heat_gauge_up_69||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "500||heat_gauge_up_70||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "501||heat_gauge_up_71||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "502||heat_gauge_up_72||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "503||heat_gauge_up_73||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "504||heat_gauge_up_74||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "505||heat_gauge_up_75||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "506||heat_gauge_up_76||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "507||heat_gauge_up_77||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "508||heat_gauge_up_78||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "509||heat_gauge_up_79||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "510||heat_gauge_up_80||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "511||heat_gauge_up_81||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "512||heat_gauge_up_82||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "513||heat_gauge_up_83||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "514||heat_gauge_up_84||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "515||heat_gauge_up_85||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "516||heat_gauge_up_86||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "517||heat_gauge_up_87||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "518||heat_gauge_up_88||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "519||heat_gauge_up_89||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "520||heat_gauge_up_90||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "521||heat_gauge_up_91||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "522||heat_gauge_up_92||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "523||heat_gauge_up_93||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "524||heat_gauge_up_94||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "525||heat_gauge_up_95||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "526||heat_gauge_up_96||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "527||heat_gauge_up_97||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "528||heat_gauge_up_98||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "529||heat_gauge_up_99||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "530||heat_gauge_up_100||name"
+msgid "Boost Heat Gauge"
+msgstr "Aumenta barra Furore"
+
+msgctxt "531||btl_cmb_speed_01||name"
+msgid "Boost Combo Speed Lv. 1"
+msgstr "Aumenta velocità combo liv. 1"
+
+msgctxt "532||btl_cmb_speed_02||name"
+msgid "Boost Combo Speed Lv. 2"
+msgstr "Aumenta velocità combo liv. 2"
+
+msgctxt "533||btl_cmb_speed_03||name"
+msgid "Boost Combo Speed Ultimate"
+msgstr "Aumenta velocità combo suprema"
+
+msgctxt "534||btl_dash_atk||name"
+msgid "Dash Attack"
+msgstr "Attacco in corsa"
+
+msgctxt "535||btl_stand_atk||name"
+msgid "Rising Tornado"
+msgstr "Tornado ascendente"
+
+msgctxt "536||btl_stand_quick||name"
+msgid "Quick Recovery"
+msgstr "Recupero rapido"
+
+msgctxt "537||btl_blowback||name"
+msgid "Relentless Blows"
+msgstr "Colpi implacabili"
+
+msgctxt "538||btl_reguard||name"
+msgid "Re-Guard"
+msgstr "Ripristino guardia"
+
+msgctxt "539||btl_ukenagashi_01||name"
+msgid "Parry"
+msgstr "Deviazione"
+
+msgctxt "540||btl_ukenagashi_02||name"
+msgid "Parry Mastery"
+msgstr "Maestria nella deviazione"
+
+msgctxt "541||btl_sway_atk||name"
+msgid "Evasion Strike"
+msgstr "Colpo in schivata"
+
+msgctxt "542||btl_sway_01||name"
+msgid "Double Quickstep"
+msgstr "Doppio passo rapido"
+
+msgctxt "543||btl_sway_02||name"
+msgid "Triple Quickstep"
+msgstr "Triplo passo rapido"
+
+msgctxt "544||btl_sway_dash||name"
+msgid "Lunge"
+msgstr "Affondo"
+
+msgctxt "545||btl_sway_dash_atk||name"
+msgid "Leaping Fist"
+msgstr "Pugno in salto"
+
+msgctxt "546||btl_toraotoshi_01||name"
+msgid "Tiger Drop"
+msgstr "Caduta della tigre"
+
+msgctxt "547||btl_toraotoshi_02||name"
+msgid "Tiger Drop Mastery"
+msgstr "Maestria nella caduta della tigre"
+
+msgctxt "548||btl_gb01||name"
+msgid "Guard Crush Mastery"
+msgstr "Maestria nello spezzaguardia"
+
+msgctxt "550||btl_fin_hold||name"
+msgid "Finishing Hold"
+msgstr "Presa finale"
+
+msgctxt "551||btl_anti_stn||name"
+msgid "Stun Resistance"
+msgstr "Resistenza allo stordimento"
+
+msgctxt "552||btl_charge||name"
+msgid "Charge Attack"
+msgstr "Attacco caricato"
+
+msgctxt "553||btl_cancel_sway||name"
+msgid "Quickstep Cancel"
+msgstr "Annullamento con passo rapido"
+
+msgctxt "554||btl_involve||name"
+msgid "Collateral Damage"
+msgstr "Danni collaterali"
+
+msgctxt "555||btl_anti_atk||name"
+msgid "Enhanced Counter"
+msgstr "Contrattacco potenziato"
+
+msgctxt "556||hct_rush||name"
+msgid "Heat Rush"
+msgstr "Raffica Furore"
+
+msgctxt "557||hct_stock_01||name"
+msgid "Boost Heat Orbs Lv. 1"
+msgstr "Aumenta globi Furore liv. 1"
+
+msgctxt "558||hct_stock_02||name"
+msgid "Boost Heat Orbs Lv. 2"
+msgstr "Aumenta globi Furore liv. 2"
+
+msgctxt "559||hct_stock_03||name"
+msgid "Boost Heat Orbs Max"
+msgstr "Aumenta globi Furore max"
+
+msgctxt "560||hct_atk_up_01||name"
+msgid "Boost Heat Actions Lv. 1"
+msgstr "Aumenta Azioni Furore liv. 1"
+
+msgctxt "561||hct_atk_up_02||name"
+msgid "Boost Heat Actions Lv. 2"
+msgstr "Aumenta Azioni Furore liv. 2"
+
+msgctxt "562||hct_atk_up_03||name"
+msgid "Boost Heat Actions Max"
+msgstr "Aumenta Azioni Furore max"
+
+msgctxt "621||otr_exp_a_01||name"
+msgid "Boost EXP Gain Lv. 1 (Strength)"
+msgstr "Aumenta EXP ottenuta liv. 1 (Forza)"
+
+msgctxt "622||otr_exp_a_02||name"
+msgid "Boost EXP Gain Lv. 2 (Strength)"
+msgstr "Aumenta EXP ottenuta liv. 2 (Forza)"
+
+msgctxt "623||otr_exp_a_03||name"
+msgid "Boost EXP Gain Lv. 3 (Strength)"
+msgstr "Aumenta EXP ottenuta liv. 3 (Forza)"
+
+msgctxt "624||otr_exp_a_04||name"
+msgid "Boost EXP Gain Lv. 4 (Strength)"
+msgstr "Aumenta EXP ottenuta liv. 4 (Forza)"
+
+msgctxt "625||otr_exp_a_05||name"
+msgid "Boost EXP Gain Max (Strength)"
+msgstr "Aumenta EXP ottenuta max (Forza)"
+
+msgctxt "626||otr_exp_b_01||name"
+msgid "Boost EXP Gain Lv. 1 (Agility)"
+msgstr "Aumenta EXP ottenuta liv. 1 (Agilità)"
+
+msgctxt "627||otr_exp_b_02||name"
+msgid "Boost EXP Gain Lv. 2 (Agility)"
+msgstr "Aumenta EXP ottenuta liv. 2 (Agilità)"
+
+msgctxt "628||otr_exp_b_03||name"
+msgid "Boost EXP Gain Lv. 3 (Agility)"
+msgstr "Aumenta EXP ottenuta liv. 3 (Agilità)"
+
+msgctxt "629||otr_exp_b_04||name"
+msgid "Boost EXP Gain Lv. 4 (Agility)"
+msgstr "Aumenta EXP ottenuta liv. 4 (Agilità)"
+
+msgctxt "630||otr_exp_b_05||name"
+msgid "Boost EXP Gain Max (Agility)"
+msgstr "Aumenta EXP ottenuta max (Agilità)"
+
+msgctxt "631||otr_exp_c_01||name"
+msgid "Boost EXP Gain Lv. 1 (Spirit)"
+msgstr "Aumenta EXP ottenuta liv. 1 (Spirito)"
+
+msgctxt "632||otr_exp_c_02||name"
+msgid "Boost EXP Gain Lv. 2 (Spirit)"
+msgstr "Aumenta EXP ottenuta liv. 2 (Spirito)"
+
+msgctxt "633||otr_exp_c_03||name"
+msgid "Boost EXP Gain Lv. 3 (Spirit)"
+msgstr "Aumenta EXP ottenuta liv. 3 (Spirito)"
+
+msgctxt "634||otr_exp_c_04||name"
+msgid "Boost EXP Gain Lv. 4 (Spirit)"
+msgstr "Aumenta EXP ottenuta liv. 4 (Spirito)"
+
+msgctxt "635||otr_exp_c_05||name"
+msgid "Boost EXP Gain Max (Spirit)"
+msgstr "Aumenta EXP ottenuta max (Spirito)"
+
+msgctxt "636||otr_exp_d_01||name"
+msgid "Boost EXP Gain Lv. 1 (Technique)"
+msgstr "Aumenta EXP ottenuta liv. 1 (Tecnica)"
+
+msgctxt "637||otr_exp_d_02||name"
+msgid "Boost EXP Gain Lv. 2 (Technique)"
+msgstr "Aumenta EXP ottenuta liv. 2 (Tecnica)"
+
+msgctxt "638||otr_exp_d_03||name"
+msgid "Boost EXP Gain Lv. 3 (Technique)"
+msgstr "Aumenta EXP ottenuta liv. 3 (Tecnica)"
+
+msgctxt "639||otr_exp_d_04||name"
+msgid "Boost EXP Gain Lv. 4 (Technique)"
+msgstr "Aumenta EXP ottenuta liv. 4 (Tecnica)"
+
+msgctxt "640||otr_exp_d_05||name"
+msgid "Boost EXP Gain Max (Technique)"
+msgstr "Aumenta EXP ottenuta max (Tecnica)"
+
+msgctxt "641||otr_exp_e_01||name"
+msgid "Boost EXP Gain Lv. 1 (Charm)"
+msgstr "Aumenta EXP ottenuta liv. 1 (Fascino)"
+
+msgctxt "642||otr_exp_e_02||name"
+msgid "Boost EXP Gain Lv. 2 (Charm)"
+msgstr "Aumenta EXP ottenuta liv. 2 (Fascino)"
+
+msgctxt "643||otr_exp_e_03||name"
+msgid "Boost EXP Gain Lv. 3 (Charm)"
+msgstr "Aumenta EXP ottenuta liv. 3 (Fascino)"
+
+msgctxt "644||otr_exp_e_04||name"
+msgid "Boost EXP Gain Lv. 4 (Charm)"
+msgstr "Aumenta EXP ottenuta liv. 4 (Fascino)"
+
+msgctxt "645||otr_exp_e_05||name"
+msgid "Boost EXP Gain Max (Charm)"
+msgstr "Aumenta EXP ottenuta max (Fascino)"
+
+msgctxt "646||otr_dash_01||name"
+msgid "Boost Sprint Lv. 1"
+msgstr "Aumenta scatto liv. 1"
+
+msgctxt "647||otr_dash_02||name"
+msgid "Boost Sprint Lv. 2"
+msgstr "Aumenta scatto liv. 2"
+
+msgctxt "648||otr_dash_03||name"
+msgid "Boost Sprint Lv. 3"
+msgstr "Aumenta scatto liv. 3"
+
+msgctxt "649||otr_dash_04||name"
+msgid "Boost Sprint Lv. 4"
+msgstr "Aumenta scatto liv. 4"
+
+msgctxt "650||otr_dash_05||name"
+msgid "Boost Sprint Max"
+msgstr "Aumenta scatto max"
+
+msgctxt "651||otr_cash_01||name"
+msgid "Boost Fortune Lv. 1"
+msgstr "Aumenta fortuna liv. 1"
+
+msgctxt "652||otr_cash_02||name"
+msgid "Boost Fortune Lv. 2"
+msgstr "Aumenta fortuna liv. 2"
+
+msgctxt "653||otr_cash_03||name"
+msgid "Boost Fortune Lv. 3"
+msgstr "Aumenta fortuna liv. 3"
+
+msgctxt "654||otr_cash_04||name"
+msgid "Boost Fortune Lv. 4"
+msgstr "Aumenta fortuna liv. 4"
+
+msgctxt "655||otr_cash_05||name"
+msgid "Boost Fortune Max"
+msgstr "Aumenta fortuna max"
+
+msgctxt "656||otr_exp_meal_01||name"
+msgid "Boost Meal EXP Lv. 1"
+msgstr "Aumenta EXP pasti liv. 1"
+
+msgctxt "657||otr_exp_meal_02||name"
+msgid "Boost Meal EXP Lv. 2"
+msgstr "Aumenta EXP pasti liv. 2"
+
+msgctxt "658||otr_exp_meal_03||name"
+msgid "Boost Meal EXP Lv. 3"
+msgstr "Aumenta EXP pasti liv. 3"
+
+msgctxt "659||otr_exp_meal_04||name"
+msgid "Boost Meal EXP Lv. 4"
+msgstr "Aumenta EXP pasti liv. 4"
+
+msgctxt "660||otr_exp_meal_05||name"
+msgid "Boost Meal EXP Max"
+msgstr "Aumenta EXP pasti max"
+
+msgctxt "661||otr_stomach_01||name"
+msgid "Boost Hunger Gauge Lv. 1"
+msgstr "Aumenta barra fame liv. 1"
+
+msgctxt "662||otr_stomach_02||name"
+msgid "Boost Hunger Gauge Lv. 2"
+msgstr "Aumenta barra fame liv. 2"
+
+msgctxt "663||otr_stomach_03||name"
+msgid "Boost Hunger Gauge Lv. 3"
+msgstr "Aumenta barra fame liv. 3"
+
+msgctxt "664||otr_stomach_04||name"
+msgid "Boost Hunger Gauge Lv. 4"
+msgstr "Aumenta barra fame liv. 4"
+
+msgctxt "665||otr_stomach_05||name"
+msgid "Boost Hunger Gauge Max"
+msgstr "Aumenta barra fame max"
+
+msgctxt "666||otr_hunger_01||name"
+msgid "Boost Digestion Lv. 1"
+msgstr "Aumenta digestione liv. 1"
+
+msgctxt "667||otr_hunger_02||name"
+msgid "Boost Digestion Lv. 2"
+msgstr "Aumenta digestione liv. 2"
+
+msgctxt "668||otr_hunger_03||name"
+msgid "Boost Digestion Lv. 3"
+msgstr "Aumenta digestione liv. 3"
+
+msgctxt "669||otr_hunger_04||name"
+msgid "Boost Digestion Lv. 4"
+msgstr "Aumenta digestione liv. 4"
+
+msgctxt "670||otr_hunger_05||name"
+msgid "Boost Digestion Max"
+msgstr "Aumenta digestione max"
+
+msgctxt "671||otr_drink_buff_01||name"
+msgid "Boost Vending Machine Drink Lv. 1"
+msgstr "Aumenta effetto bevande liv. 1"
+
+msgctxt "672||otr_drink_buff_02||name"
+msgid "Boost Vending Machine Drink Lv. 2"
+msgstr "Aumenta effetto bevande liv. 2"
+
+msgctxt "673||otr_drink_buff_03||name"
+msgid "Boost Vending Machine Drink Lv. 3"
+msgstr "Aumenta effetto bevande liv. 3"
+
+msgctxt "674||otr_drink_buff_04||name"
+msgid "Boost Vending Machine Drink Lv. 4"
+msgstr "Aumenta effetto bevande liv. 4"
+
+msgctxt "675||otr_drink_buff_05||name"
+msgid "Boost Vending Machine Drink Max"
+msgstr "Aumenta effetto bevande max"
+
+msgctxt "676||otr_drink_luck||name"
+msgid "Boost Vending Machine Luck"
+msgstr "Aumenta fortuna distributori"
+
+msgctxt "677||otr_drunk_01||name"
+msgid "Alcohol Tolerance Lv. 1"
+msgstr "Tolleranza all'alcol liv. 1"
+
+msgctxt "678||otr_drunk_02||name"
+msgid "Alcohol Tolerance Lv. 2"
+msgstr "Tolleranza all'alcol liv. 2"
+
+msgctxt "679||otr_drunk_03||name"
+msgid "Alcohol Tolerance Max"
+msgstr "Tolleranza all'alcol max"
+
+msgctxt "688||otr_friend_exp_01||name"
+msgid "Boost Clan Member Growth Lv. 1"
+msgstr "Aumenta crescita membri del clan liv. 1"
+
+msgctxt "689||otr_friend_exp_02||name"
+msgid "Boost Clan Member Growth Lv. 2"
+msgstr "Aumenta crescita membri del clan liv. 2"
+
+msgctxt "690||otr_friend_exp_03||name"
+msgid "Boost Clan Member Growth Lv. 3"
+msgstr "Aumenta crescita membri del clan liv. 3"
+
+msgctxt "691||otr_friend_exp_04||name"
+msgid "Boost Clan Member Growth Lv. 4"
+msgstr "Aumenta crescita membri del clan liv. 4"
+
+msgctxt "692||otr_friend_exp_05||name"
+msgid "Boost Clan Member Growth Max"
+msgstr "Aumenta crescita membri del clan max"
+
+msgctxt "696||otr_kyaba_01||name"
+msgid "Ladies' Man"
+msgstr "Dongiovanni"
+
+msgctxt "697||otr_kyaba_02||name"
+msgid "Ladies' Man Max"
+msgstr "Dongiovanni max"
+
+msgctxt "698||otr_kyaba_tlk_01||name"
+msgid "Art of Conversation Lv. 1"
+msgstr "Arte della conversazione liv. 1"
+
+msgctxt "699||otr_kyaba_tlk_02||name"
+msgid "Art of Conversation Lv. 2"
+msgstr "Arte della conversazione liv. 2"
+
+msgctxt "700||otr_kyaba_tlk_03||name"
+msgid "Art of Conversation Max"
+msgstr "Arte della conversazione max"
+
+msgctxt "701||otr_snack_01||name"
+msgid "Social Skills Lv. 1"
+msgstr "Abilità sociali liv. 1"
+
+msgctxt "702||otr_snack_02||name"
+msgid "Social Skills Lv. 2"
+msgstr "Abilità sociali liv. 2"
+
+msgctxt "703||otr_snack_03||name"
+msgid "Social Skills Max"
+msgstr "Abilità sociali max"
+
+msgctxt "710||btl_escgsp||name"
+msgid "Escape Counter"
+msgstr "Fuga e contrattacco"
+
+msgctxt "711||hct_extend01||name"
+msgid "Boost Extreme Heat Mode Lv. 1"
+msgstr "Aumenta Modalità Furore Estremo liv. 1"
+
+msgctxt "712||hct_extend02||name"
+msgid "Boost Extreme Heat Mode Lv. 2"
+msgstr "Aumenta Modalità Furore Estremo liv. 2"
+
+msgctxt "713||hct_extend03||name"
+msgid "Boost Extreme Heat Mode Max"
+msgstr "Aumenta Modalità Furore Estremo max"
+
+msgctxt "714||hct_trick01||name"
+msgid "Essence of Seizing: Blunt Object"
+msgstr "Essenza della confisca: Oggetto contundente"
+
+msgctxt "715||hct_trick02||name"
+msgid "Essence of Seizing: Blade"
+msgstr "Essenza della confisca: Lama"
+
+msgctxt "716||hct_trick03||name"
+msgid "Essence of Seizing: Firearm"
+msgstr "Essenza della confisca: Arma da fuoco"
+
+msgctxt "717||hct_trick04||name"
+msgid "Essence of Reversal"
+msgstr "Essenza del ribaltamento"
+
+msgctxt "718||hct_trick05||name"
+msgid "Essence of Repeating Knee"
+msgstr "Essenza della ginocchiata a ripetizione"
+
+msgctxt "719||hct_trick06||name"
+msgid "Essence of Raging Dragon"
+msgstr "Essenza del drago furibondo"
+
+msgctxt "720||hct_trick07||name"
+msgid "Essence of Spinning Roundhouse"
+msgstr "Essenza del calcio rotante"
+
+msgctxt "721||hct_trick08||name"
+msgid "Essence of Face Stomp"
+msgstr "Essenza del pestone sul viso"
+
+msgctxt "722||hct_trick09||name"
+msgid "Essence of Fast Footwork"
+msgstr "Essenza del gioco di gambe"
+
+msgctxt "723||hct_trick10||name"
+msgid "Essence of Forceful Swing"
+msgstr "Essenza dell'oscillazione violenta"
+
+msgctxt "724||hct_trick11||name"
+msgid "Essence of Dynamic Throw"
+msgstr "Essenza della proiezione dinamica"
+
+msgctxt "725||hct_trick12||name"
+msgid "Essence of Tiger Crash"
+msgstr "Essenza dello schianto della tigre"
+
+msgctxt "726||hct_trick13||name"
+msgid "Essence of Tornado Throw"
+msgstr "Essenza della proiezione a tornado"
+
+msgctxt "727||hct_trick14||name"
+msgid "Essence of Chopstick Mastery"
+msgstr "Essenza della maestria con le bacchette"
+
+msgctxt "728||hct_trick15||name"
+msgid "Essence of Electromagnetic Torture"
+msgstr "Essenza della tortura elettromagnetica"
+
+msgctxt "729||hct_trick16||name"
+msgid "Essence of Tragic Downfall"
+msgstr "Essenza della caduta tragica"
+
+msgctxt "730||hct_trick17||name"
+msgid "Essence of Diving Lariat"
+msgstr "Essenza del lariat in tuffo"
+
+msgctxt "731||hct_trick18||name"
+msgid "Essence of Weaponry"
+msgstr "Essenza delle armi"
+
+msgctxt "732||hct_trick19||name"
+msgid "Essence of Manhandling"
+msgstr "Essenza della brutalità"
+
+msgctxt "733||hct_trick20||name"
+msgid "Essence of Knock Out Punch"
+msgstr "Essenza del pugno da KO"
+
+msgctxt "734||hct_trick21||name"
+msgid "Essence of Knock Out Throw"
+msgstr "Essenza della proiezione da KO"
+
+msgctxt "735||hct_trick22||name"
+msgid "Essence of Knock Out Kick"
+msgstr "Essenza del calcio da KO"
+
+msgctxt "736||hct_trick23||name"
+msgid "Essence of Knock Out Heel"
+msgstr "Essenza della tallonata da KO"
+
+msgctxt "737||hct_trick24||name"
+msgid "Essence of Knock Out Suplex"
+msgstr "Essenza del suplex da KO"
+
+msgctxt "738||hct_trick25||name"
+msgid "Essence of Knock Out Slam"
+msgstr "Essenza dello schianto da KO"
+
+msgctxt "739||hct_trick26||name"
+msgid "Essence of Knock Out Fall"
+msgstr "Essenza della caduta da KO"
+
+msgctxt "740||hct_trick27||name"
+msgid "Essence of Wall Crush"
+msgstr "Essenza dello schianto a parete"
+
+msgctxt "741||hct_trick28||name"
+msgid "Essence of Stand Crush"
+msgstr "Essenza dello schianto sul bancone"
+
+msgctxt "742||hct_trick29||name"
+msgid "Essence of Pole Crush"
+msgstr "Essenza dello schianto sul palo"
+
+msgctxt "743||hct_trick30||name"
+msgid "Essence of Rail Drop"
+msgstr "Essenza della caduta dalla ringhiera"
+
+msgctxt "744||hct_trick31||name"
+msgid "Essence of Corner Break"
+msgstr "Essenza della rottura all'angolo"
+
+msgctxt "745||hct_trick32||name"
+msgid "Essence of Cooperative Throw"
+msgstr "Essenza della proiezione cooperativa"
+
+msgctxt "746||hct_trick33||name"
+msgid "Essence of Cooperative Kick"
+msgstr "Essenza del calcio cooperativo"
+
+msgctxt "747||hct_trick34||name"
+msgid "Essence of Throwing"
+msgstr "Essenza della proiezione"
+
+msgctxt "748||hct_trick35||name"
+msgid "Essence of Cooperative Attack"
+msgstr "Essenza dell'attacco cooperativo"
+
+msgctxt "749||hct_trick36||name"
+msgid "Essence of Unlucky Man"
+msgstr "Essenza dello sfortunato"
+
+msgctxt "752||hct_trick37||name"
+msgid "Essence of Demonic Spiral"
+msgstr "Essenza della spirale demoniaca"
+
+msgctxt "1||hit_point_up_1||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "2||attack_up_1||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "3||defense_up_1||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "4||agility_up_1||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "5||heat_gauge_up_1||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "36||hit_point_up_2||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "37||attack_up_2||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "38||defense_up_2||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "39||agility_up_2||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "40||heat_gauge_up_2||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "41||hit_point_up_3||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "42||hit_point_up_4||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "43||hit_point_up_5||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "44||hit_point_up_6||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "45||hit_point_up_7||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "46||hit_point_up_8||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "47||hit_point_up_9||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "48||hit_point_up_10||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "49||hit_point_up_11||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "50||hit_point_up_12||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "51||hit_point_up_13||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "52||hit_point_up_14||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "53||hit_point_up_15||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "54||hit_point_up_16||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "55||hit_point_up_17||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "56||hit_point_up_18||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "57||hit_point_up_19||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "58||hit_point_up_20||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "59||hit_point_up_21||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "60||hit_point_up_22||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "61||hit_point_up_23||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "62||hit_point_up_24||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "63||hit_point_up_25||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "64||hit_point_up_26||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "65||hit_point_up_27||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "66||hit_point_up_28||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "67||hit_point_up_29||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "68||hit_point_up_30||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "69||hit_point_up_31||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "70||hit_point_up_32||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "71||hit_point_up_33||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "72||hit_point_up_34||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "73||hit_point_up_35||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "74||hit_point_up_36||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "75||hit_point_up_37||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "76||hit_point_up_38||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "77||hit_point_up_39||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "78||hit_point_up_40||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "79||hit_point_up_41||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "80||hit_point_up_42||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "81||hit_point_up_43||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "82||hit_point_up_44||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "83||hit_point_up_45||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "84||hit_point_up_46||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "85||hit_point_up_47||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "86||hit_point_up_48||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "87||hit_point_up_49||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "88||hit_point_up_50||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "89||hit_point_up_51||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "90||hit_point_up_52||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "91||hit_point_up_53||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "92||hit_point_up_54||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "93||hit_point_up_55||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "94||hit_point_up_56||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "95||hit_point_up_57||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "96||hit_point_up_58||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "97||hit_point_up_59||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "98||hit_point_up_60||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "99||hit_point_up_61||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "100||hit_point_up_62||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "101||hit_point_up_63||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "102||hit_point_up_64||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "103||hit_point_up_65||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "104||hit_point_up_66||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "105||hit_point_up_67||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "106||hit_point_up_68||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "107||hit_point_up_69||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "108||hit_point_up_70||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "109||hit_point_up_71||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "110||hit_point_up_72||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "111||hit_point_up_73||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "112||hit_point_up_74||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "113||hit_point_up_75||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "114||hit_point_up_76||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "115||hit_point_up_77||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "116||hit_point_up_78||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "117||hit_point_up_79||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "118||hit_point_up_80||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "119||hit_point_up_81||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "120||hit_point_up_82||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "121||hit_point_up_83||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "122||hit_point_up_84||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "123||hit_point_up_85||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "124||hit_point_up_86||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "125||hit_point_up_87||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "126||hit_point_up_88||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "127||hit_point_up_89||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "128||hit_point_up_90||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "129||hit_point_up_91||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "130||hit_point_up_92||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "131||hit_point_up_93||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "132||hit_point_up_94||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "133||hit_point_up_95||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "134||hit_point_up_96||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "135||hit_point_up_97||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "136||hit_point_up_98||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "137||hit_point_up_99||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "138||hit_point_up_100||explanation"
+msgid "Increases maximum health."
+msgstr "Aumenta la salute massima."
+
+msgctxt "139||attack_up_3||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "140||attack_up_4||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "141||attack_up_5||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "142||attack_up_6||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "143||attack_up_7||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "144||attack_up_8||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "145||attack_up_9||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "146||attack_up_10||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "147||attack_up_11||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "148||attack_up_12||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "149||attack_up_13||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "150||attack_up_14||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "151||attack_up_15||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "152||attack_up_16||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "153||attack_up_17||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "154||attack_up_18||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "155||attack_up_19||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "156||attack_up_20||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "157||attack_up_21||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "158||attack_up_22||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "159||attack_up_23||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "160||attack_up_24||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "161||attack_up_25||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "162||attack_up_26||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "163||attack_up_27||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "164||attack_up_28||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "165||attack_up_29||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "166||attack_up_30||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "167||attack_up_31||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "168||attack_up_32||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "169||attack_up_33||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "170||attack_up_34||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "171||attack_up_35||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "172||attack_up_36||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "173||attack_up_37||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "174||attack_up_38||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "175||attack_up_39||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "176||attack_up_40||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "177||attack_up_41||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "178||attack_up_42||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "179||attack_up_43||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "180||attack_up_44||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "181||attack_up_45||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "182||attack_up_46||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "183||attack_up_47||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "184||attack_up_48||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "185||attack_up_49||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "186||attack_up_50||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "187||attack_up_51||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "188||attack_up_52||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "189||attack_up_53||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "190||attack_up_54||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "191||attack_up_55||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "192||attack_up_56||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "193||attack_up_57||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "194||attack_up_58||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "195||attack_up_59||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "196||attack_up_60||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "197||attack_up_61||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "198||attack_up_62||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "199||attack_up_63||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "200||attack_up_64||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "201||attack_up_65||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "202||attack_up_66||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "203||attack_up_67||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "204||attack_up_68||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "205||attack_up_69||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "206||attack_up_70||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "207||attack_up_71||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "208||attack_up_72||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "209||attack_up_73||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "210||attack_up_74||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "211||attack_up_75||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "212||attack_up_76||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "213||attack_up_77||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "214||attack_up_78||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "215||attack_up_79||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "216||attack_up_80||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "217||attack_up_81||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "218||attack_up_82||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "219||attack_up_83||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "220||attack_up_84||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "221||attack_up_85||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "222||attack_up_86||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "223||attack_up_87||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "224||attack_up_88||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "225||attack_up_89||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "226||attack_up_90||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "227||attack_up_91||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "228||attack_up_92||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "229||attack_up_93||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "230||attack_up_94||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "231||attack_up_95||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "232||attack_up_96||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "233||attack_up_97||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "234||attack_up_98||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "235||attack_up_99||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "236||attack_up_100||explanation"
+msgid "Increases attack damage."
+msgstr "Aumenta i danni d'attacco."
+
+msgctxt "237||defense_up_3||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "238||defense_up_4||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "239||defense_up_5||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "240||defense_up_6||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "241||defense_up_7||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "242||defense_up_8||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "243||defense_up_9||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "244||defense_up_10||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "245||defense_up_11||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "246||defense_up_12||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "247||defense_up_13||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "248||defense_up_14||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "249||defense_up_15||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "250||defense_up_16||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "251||defense_up_17||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "252||defense_up_18||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "253||defense_up_19||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "254||defense_up_20||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "255||defense_up_21||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "256||defense_up_22||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "257||defense_up_23||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "258||defense_up_24||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "259||defense_up_25||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "260||defense_up_26||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "261||defense_up_27||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "262||defense_up_28||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "263||defense_up_29||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "264||defense_up_30||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "265||defense_up_31||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "266||defense_up_32||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "267||defense_up_33||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "268||defense_up_34||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "269||defense_up_35||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "270||defense_up_36||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "271||defense_up_37||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "272||defense_up_38||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "273||defense_up_39||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "274||defense_up_40||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "275||defense_up_41||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "276||defense_up_42||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "277||defense_up_43||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "278||defense_up_44||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "279||defense_up_45||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "280||defense_up_46||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "281||defense_up_47||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "282||defense_up_48||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "283||defense_up_49||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "284||defense_up_50||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "285||defense_up_51||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "286||defense_up_52||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "287||defense_up_53||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "288||defense_up_54||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "289||defense_up_55||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "290||defense_up_56||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "291||defense_up_57||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "292||defense_up_58||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "293||defense_up_59||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "294||defense_up_60||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "295||defense_up_61||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "296||defense_up_62||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "297||defense_up_63||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "298||defense_up_64||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "299||defense_up_65||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "300||defense_up_66||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "301||defense_up_67||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "302||defense_up_68||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "303||defense_up_69||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "304||defense_up_70||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "305||defense_up_71||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "306||defense_up_72||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "307||defense_up_73||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "308||defense_up_74||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "309||defense_up_75||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "310||defense_up_76||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "311||defense_up_77||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "312||defense_up_78||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "313||defense_up_79||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "314||defense_up_80||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "315||defense_up_81||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "316||defense_up_82||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "317||defense_up_83||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "318||defense_up_84||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "319||defense_up_85||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "320||defense_up_86||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "321||defense_up_87||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "322||defense_up_88||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "323||defense_up_89||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "324||defense_up_90||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "325||defense_up_91||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "326||defense_up_92||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "327||defense_up_93||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "328||defense_up_94||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "329||defense_up_95||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "330||defense_up_96||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "331||defense_up_97||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "332||defense_up_98||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "333||defense_up_99||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "334||defense_up_100||explanation"
+msgid "Increases defense."
+msgstr "Aumenta la difesa."
+
+msgctxt "335||agility_up_3||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "336||agility_up_4||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "337||agility_up_5||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "338||agility_up_6||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "339||agility_up_7||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "340||agility_up_8||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "341||agility_up_9||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "342||agility_up_10||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "343||agility_up_11||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "344||agility_up_12||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "345||agility_up_13||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "346||agility_up_14||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "347||agility_up_15||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "348||agility_up_16||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "349||agility_up_17||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "350||agility_up_18||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "351||agility_up_19||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "352||agility_up_20||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "353||agility_up_21||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "354||agility_up_22||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "355||agility_up_23||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "356||agility_up_24||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "357||agility_up_25||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "358||agility_up_26||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "359||agility_up_27||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "360||agility_up_28||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "361||agility_up_29||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "362||agility_up_30||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "363||agility_up_31||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "364||agility_up_32||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "365||agility_up_33||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "366||agility_up_34||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "367||agility_up_35||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "368||agility_up_36||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "369||agility_up_37||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "370||agility_up_38||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "371||agility_up_39||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "372||agility_up_40||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "373||agility_up_41||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "374||agility_up_42||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "375||agility_up_43||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "376||agility_up_44||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "377||agility_up_45||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "378||agility_up_46||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "379||agility_up_47||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "380||agility_up_48||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "381||agility_up_49||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "382||agility_up_50||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "383||agility_up_51||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "384||agility_up_52||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "385||agility_up_53||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "386||agility_up_54||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "387||agility_up_55||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "388||agility_up_56||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "389||agility_up_57||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "390||agility_up_58||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "391||agility_up_59||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "392||agility_up_60||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "393||agility_up_61||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "394||agility_up_62||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "395||agility_up_63||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "396||agility_up_64||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "397||agility_up_65||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "398||agility_up_66||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "399||agility_up_67||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "400||agility_up_68||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "401||agility_up_69||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "402||agility_up_70||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "403||agility_up_71||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "404||agility_up_72||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "405||agility_up_73||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "406||agility_up_74||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "407||agility_up_75||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "408||agility_up_76||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "409||agility_up_77||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "410||agility_up_78||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "411||agility_up_79||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "412||agility_up_80||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "413||agility_up_81||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "414||agility_up_82||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "415||agility_up_83||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "416||agility_up_84||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "417||agility_up_85||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "418||agility_up_86||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "419||agility_up_87||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "420||agility_up_88||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "421||agility_up_89||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "422||agility_up_90||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "423||agility_up_91||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "424||agility_up_92||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "425||agility_up_93||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "426||agility_up_94||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "427||agility_up_95||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "428||agility_up_96||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "429||agility_up_97||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "430||agility_up_98||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "431||agility_up_99||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "432||agility_up_100||explanation"
+msgid "Increases evasion."
+msgstr "Aumenta la schivata."
+
+msgctxt "433||heat_gauge_up_3||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "434||heat_gauge_up_4||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "435||heat_gauge_up_5||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "436||heat_gauge_up_6||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "437||heat_gauge_up_7||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "438||heat_gauge_up_8||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "439||heat_gauge_up_9||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "440||heat_gauge_up_10||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "441||heat_gauge_up_11||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "442||heat_gauge_up_12||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "443||heat_gauge_up_13||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "444||heat_gauge_up_14||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "445||heat_gauge_up_15||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "446||heat_gauge_up_16||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "447||heat_gauge_up_17||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "448||heat_gauge_up_18||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "449||heat_gauge_up_19||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "450||heat_gauge_up_20||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "451||heat_gauge_up_21||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "452||heat_gauge_up_22||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "453||heat_gauge_up_23||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "454||heat_gauge_up_24||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "455||heat_gauge_up_25||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "456||heat_gauge_up_26||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "457||heat_gauge_up_27||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "458||heat_gauge_up_28||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "459||heat_gauge_up_29||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "460||heat_gauge_up_30||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "461||heat_gauge_up_31||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "462||heat_gauge_up_32||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "463||heat_gauge_up_33||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "464||heat_gauge_up_34||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "465||heat_gauge_up_35||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "466||heat_gauge_up_36||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "467||heat_gauge_up_37||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "468||heat_gauge_up_38||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "469||heat_gauge_up_39||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "470||heat_gauge_up_40||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "471||heat_gauge_up_41||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "472||heat_gauge_up_42||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "473||heat_gauge_up_43||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "474||heat_gauge_up_44||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "475||heat_gauge_up_45||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "476||heat_gauge_up_46||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "477||heat_gauge_up_47||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "478||heat_gauge_up_48||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "479||heat_gauge_up_49||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "480||heat_gauge_up_50||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "481||heat_gauge_up_51||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "482||heat_gauge_up_52||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "483||heat_gauge_up_53||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "484||heat_gauge_up_54||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "485||heat_gauge_up_55||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "486||heat_gauge_up_56||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "487||heat_gauge_up_57||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "488||heat_gauge_up_58||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "489||heat_gauge_up_59||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "490||heat_gauge_up_60||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "491||heat_gauge_up_61||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "492||heat_gauge_up_62||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "493||heat_gauge_up_63||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "494||heat_gauge_up_64||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "495||heat_gauge_up_65||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "496||heat_gauge_up_66||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "497||heat_gauge_up_67||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "498||heat_gauge_up_68||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "499||heat_gauge_up_69||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "500||heat_gauge_up_70||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "501||heat_gauge_up_71||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "502||heat_gauge_up_72||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "503||heat_gauge_up_73||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "504||heat_gauge_up_74||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "505||heat_gauge_up_75||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "506||heat_gauge_up_76||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "507||heat_gauge_up_77||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "508||heat_gauge_up_78||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "509||heat_gauge_up_79||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "510||heat_gauge_up_80||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "511||heat_gauge_up_81||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "512||heat_gauge_up_82||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "513||heat_gauge_up_83||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "514||heat_gauge_up_84||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "515||heat_gauge_up_85||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "516||heat_gauge_up_86||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "517||heat_gauge_up_87||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "518||heat_gauge_up_88||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "519||heat_gauge_up_89||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "520||heat_gauge_up_90||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "521||heat_gauge_up_91||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "522||heat_gauge_up_92||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "523||heat_gauge_up_93||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "524||heat_gauge_up_94||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "525||heat_gauge_up_95||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "526||heat_gauge_up_96||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "527||heat_gauge_up_97||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "528||heat_gauge_up_98||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "529||heat_gauge_up_99||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "530||heat_gauge_up_100||explanation"
+msgid "Increases Heat Gauge gain rate."
+msgstr "Aumenta la velocità di ricarica della barra Furore."
+
+msgctxt "531||btl_cmb_speed_01||explanation"
+msgid "Increases attack speed slightly."
+msgstr "Aumenta leggermente la velocità d'attacco."
+
+msgctxt "532||btl_cmb_speed_02||explanation"
+msgid "Increases attack speed further."
+msgstr "Aumenta ulteriormente la velocità d'attacco."
+
+msgctxt "533||btl_cmb_speed_03||explanation"
+msgid "Increases attack speed to its fullest."
+msgstr "Aumenta al massimo la velocità d'attacco."
+
+msgctxt "534||btl_dash_atk||explanation"
+msgid "Attack immediately after sprinting."
+msgstr "Attacca immediatamente dopo uno scatto."
+
+msgctxt "535||btl_stand_atk||explanation"
+msgid "Attack immediately after recovering from knock down."
+msgstr "Attacca immediatamente dopo esserti rialzato da un atterramento."
+
+msgctxt "536||btl_stand_quick||explanation"
+msgid "Recover while getting knocked down."
+msgstr "Recupera mentre vieni atterrato."
+
+msgctxt "537||btl_blowback||explanation"
+msgid "Regain your stance quickly after an enemy blocks your attack."
+msgstr "Recupera rapidamente la posizione dopo che un nemico ha parato un tuo attacco."
+
+msgctxt "538||btl_reguard||explanation"
+msgid "Quickly regain ability to guard after guard is\r\nbroken."
+msgstr "Recupera rapidamente la capacità di parare dopo che la guardia è stata\r\nspezzata."
+
+msgctxt "539||btl_ukenagashi_01||explanation"
+msgid "Parry an enemy's attack."
+msgstr "Devia l'attacco di un nemico."
+
+msgctxt "540||btl_ukenagashi_02||explanation"
+msgid "Your parry stance lasts longer."
+msgstr "La tua posizione di deviazione dura più a lungo."
+
+msgctxt "541||btl_sway_atk||explanation"
+msgid "Attack immediately after a Quickstep."
+msgstr "Attacca immediatamente dopo un passo rapido."
+
+msgctxt "542||btl_sway_01||explanation"
+msgid "Perform two Quicksteps back-to-back."
+msgstr "Esegui due passi rapidi di fila."
+
+msgctxt "543||btl_sway_02||explanation"
+msgid "Perform three consecutive Quicksteps."
+msgstr "Esegui tre passi rapidi consecutivi."
+
+msgctxt "544||btl_sway_dash||explanation"
+msgid "Lunge forward while running to gain a lot of distance quickly."
+msgstr "Affonda in avanti mentre corri per coprire rapidamente molta distanza."
+
+msgctxt "545||btl_sway_dash_atk||explanation"
+msgid "An attack performed directly from a lunge."
+msgstr "Un attacco eseguito direttamente da un affondo."
+
+msgctxt "546||btl_toraotoshi_01||explanation"
+msgid "Perform powerful counterattacks."
+msgstr "Esegui potenti contrattacchi."
+
+msgctxt "547||btl_toraotoshi_02||explanation"
+msgid "Lengthens the window during which you can execute\r\na Tiger Drop."
+msgstr "Prolunga la finestra di tempo in cui puoi eseguire\r\nuna Caduta della tigre."
+
+msgctxt "548||btl_gb01||explanation"
+msgid "By timing your attack just right, you'll strike with enough\r\npower to break through the enemy's guard."
+msgstr "Sincronizzando l'attacco con precisione, colpirai con potenza sufficiente\r\nper spezzare la guardia nemica."
+
+msgctxt "550||btl_fin_hold||explanation"
+msgid "Dynamically throw an enemy after a Finishing Blow."
+msgstr "Lancia dinamicamente un nemico dopo un colpo finale."
+
+msgctxt "551||btl_anti_stn||explanation"
+msgid "Shorten the time it takes to recover from being stunned."
+msgstr "Riduci il tempo necessario per riprenderti dallo stordimento."
+
+msgctxt "552||btl_charge||explanation"
+msgid "Perform a charge attack with all your might.\r\nYour movements will be limited while charging."
+msgstr "Esegui un attacco caricato con tutta la tua forza.\r\nI tuoi movimenti saranno limitati durante il caricamento."
+
+msgctxt "553||btl_cancel_sway||explanation"
+msgid "Perform a Quickstep to cancel certain actions."
+msgstr "Esegui un passo rapido per annullare determinate azioni."
+
+msgctxt "554||btl_involve||explanation"
+msgid "Damage is increased to any additional enemies hit by\r\nyour attacks."
+msgstr "I danni inflitti a qualsiasi nemico aggiuntivo colpito dai\r\ntuoi attacchi aumentano."
+
+msgctxt "555||btl_anti_atk||explanation"
+msgid "Deal more damage when you hit enemies while they\r\nare attacking."
+msgstr "Infliggi più danni quando colpisci i nemici mentre\r\nstanno attaccando."
+
+msgctxt "556||hct_rush||explanation"
+msgid "Your Rush Combo during Extreme Heat Mode increases\r\nfrom 4 hits to 8 hits."
+msgstr "La tua Combo base in Modalità Furore Estremo passa\r\nda 4 a 8 colpi."
+
+msgctxt "557||hct_stock_01||explanation"
+msgid "Increase Heat Orbs by one."
+msgstr "Aumenta i globi Furore di uno."
+
+msgctxt "558||hct_stock_02||explanation"
+msgid "Increase Heat Orbs by one."
+msgstr "Aumenta i globi Furore di uno."
+
+msgctxt "559||hct_stock_03||explanation"
+msgid "Increase Heat Orbs by one."
+msgstr "Aumenta i globi Furore di uno."
+
+msgctxt "560||hct_atk_up_01||explanation"
+msgid "Increase damage for attacks using the Heat Gauge."
+msgstr "Aumenta i danni degli attacchi che usano la barra Furore."
+
+msgctxt "561||hct_atk_up_02||explanation"
+msgid "Increase damage for attacks using the Heat Gauge even further."
+msgstr "Aumenta ulteriormente i danni degli attacchi che usano la barra Furore."
+
+msgctxt "562||hct_atk_up_03||explanation"
+msgid "Increase damage for attacks using the Heat Gauge to their\r\nfullest."
+msgstr "Aumenta al massimo i danni degli attacchi che usano\r\nla barra Furore."
+
+msgctxt "621||otr_exp_a_01||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "622||otr_exp_a_02||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "623||otr_exp_a_03||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "624||otr_exp_a_04||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "625||otr_exp_a_05||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "626||otr_exp_b_01||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "627||otr_exp_b_02||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "628||otr_exp_b_03||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "629||otr_exp_b_04||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "630||otr_exp_b_05||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "631||otr_exp_c_01||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "632||otr_exp_c_02||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "633||otr_exp_c_03||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "634||otr_exp_c_04||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "635||otr_exp_c_05||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "636||otr_exp_d_01||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "637||otr_exp_d_02||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "638||otr_exp_d_03||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "639||otr_exp_d_04||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "640||otr_exp_d_05||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "641||otr_exp_e_01||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "642||otr_exp_e_02||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "643||otr_exp_e_03||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "644||otr_exp_e_04||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "645||otr_exp_e_05||explanation"
+msgid "Increases the amount of EXP obtained."
+msgstr "Aumenta la quantità di EXP ottenuta."
+
+msgctxt "646||otr_dash_01||explanation"
+msgid "Increases stamina to sprint longer."
+msgstr "Aumenta la resistenza per scattare più a lungo."
+
+msgctxt "647||otr_dash_02||explanation"
+msgid "Increases stamina to sprint longer."
+msgstr "Aumenta la resistenza per scattare più a lungo."
+
+msgctxt "648||otr_dash_03||explanation"
+msgid "Increases stamina to sprint longer."
+msgstr "Aumenta la resistenza per scattare più a lungo."
+
+msgctxt "649||otr_dash_04||explanation"
+msgid "Increases stamina to sprint longer."
+msgstr "Aumenta la resistenza per scattare più a lungo."
+
+msgctxt "650||otr_dash_05||explanation"
+msgid "Increases stamina to sprint longer."
+msgstr "Aumenta la resistenza per scattare più a lungo."
+
+msgctxt "651||otr_cash_01||explanation"
+msgid "Increases the amount of money you can gain from encounters."
+msgstr "Aumenta la quantità di denaro ottenibile dagli scontri."
+
+msgctxt "652||otr_cash_02||explanation"
+msgid "Increases the amount of money you can gain from encounters."
+msgstr "Aumenta la quantità di denaro ottenibile dagli scontri."
+
+msgctxt "653||otr_cash_03||explanation"
+msgid "Increases the amount of money you can gain from encounters."
+msgstr "Aumenta la quantità di denaro ottenibile dagli scontri."
+
+msgctxt "654||otr_cash_04||explanation"
+msgid "Increases the amount of money you can gain from encounters."
+msgstr "Aumenta la quantità di denaro ottenibile dagli scontri."
+
+msgctxt "655||otr_cash_05||explanation"
+msgid "Increases the amount of money you can gain from encounters."
+msgstr "Aumenta la quantità di denaro ottenibile dagli scontri."
+
+msgctxt "656||otr_exp_meal_01||explanation"
+msgid "Increases the amount of EXP that can be obtained by eating."
+msgstr "Aumenta la quantità di EXP ottenibile mangiando."
+
+msgctxt "657||otr_exp_meal_02||explanation"
+msgid "Increases the amount of EXP that can be obtained by eating."
+msgstr "Aumenta la quantità di EXP ottenibile mangiando."
+
+msgctxt "658||otr_exp_meal_03||explanation"
+msgid "Increases the amount of EXP that can be obtained by eating."
+msgstr "Aumenta la quantità di EXP ottenibile mangiando."
+
+msgctxt "659||otr_exp_meal_04||explanation"
+msgid "Increases the amount of EXP that can be obtained by eating."
+msgstr "Aumenta la quantità di EXP ottenibile mangiando."
+
+msgctxt "660||otr_exp_meal_05||explanation"
+msgid "Increases the amount of EXP that can be obtained by eating."
+msgstr "Aumenta la quantità di EXP ottenibile mangiando."
+
+msgctxt "661||otr_stomach_01||explanation"
+msgid "Increases the maximum hunger gauge."
+msgstr "Aumenta la capacità massima della barra fame."
+
+msgctxt "662||otr_stomach_02||explanation"
+msgid "Increases the maximum hunger gauge."
+msgstr "Aumenta la capacità massima della barra fame."
+
+msgctxt "663||otr_stomach_03||explanation"
+msgid "Increases the maximum hunger gauge."
+msgstr "Aumenta la capacità massima della barra fame."
+
+msgctxt "664||otr_stomach_04||explanation"
+msgid "Increases the maximum hunger gauge."
+msgstr "Aumenta la capacità massima della barra fame."
+
+msgctxt "665||otr_stomach_05||explanation"
+msgid "Increases the maximum hunger gauge."
+msgstr "Aumenta la capacità massima della barra fame."
+
+msgctxt "666||otr_hunger_01||explanation"
+msgid "Become hungry faster and obtain more EXP through meals."
+msgstr "Fornisce fame più velocemente e permette di ottenere più EXP dai pasti."
+
+msgctxt "667||otr_hunger_02||explanation"
+msgid "Become hungry faster and obtain more EXP through meals."
+msgstr "Fornisce fame più velocemente e permette di ottenere più EXP dai pasti."
+
+msgctxt "668||otr_hunger_03||explanation"
+msgid "Become hungry faster and obtain more EXP through meals."
+msgstr "Fornisce fame più velocemente e permette di ottenere più EXP dai pasti."
+
+msgctxt "669||otr_hunger_04||explanation"
+msgid "Become hungry faster and obtain more EXP through meals."
+msgstr "Fornisce fame più velocemente e permette di ottenere più EXP dai pasti."
+
+msgctxt "670||otr_hunger_05||explanation"
+msgid "Become hungry faster and obtain more EXP through meals."
+msgstr "Fornisce fame più velocemente e permette di ottenere più EXP dai pasti."
+
+msgctxt "671||otr_drink_buff_01||explanation"
+msgid "Increases special effects gained from vending machine drinks."
+msgstr "Aumenta gli effetti speciali ottenuti dalle bevande dei distributori."
+
+msgctxt "672||otr_drink_buff_02||explanation"
+msgid "Increases special effects gained from vending machine drinks."
+msgstr "Aumenta gli effetti speciali ottenuti dalle bevande dei distributori."
+
+msgctxt "673||otr_drink_buff_03||explanation"
+msgid "Increases special effects gained from vending machine drinks."
+msgstr "Aumenta gli effetti speciali ottenuti dalle bevande dei distributori."
+
+msgctxt "674||otr_drink_buff_04||explanation"
+msgid "Increases special effects gained from vending machine drinks."
+msgstr "Aumenta gli effetti speciali ottenuti dalle bevande dei distributori."
+
+msgctxt "675||otr_drink_buff_05||explanation"
+msgid "Increases special effects gained from vending machine drinks."
+msgstr "Aumenta gli effetti speciali ottenuti dalle bevande dei distributori."
+
+msgctxt "676||otr_drink_luck||explanation"
+msgid "Increases your chance of getting a good effect when having \r\na Mystery Drink from the vending machine."
+msgstr "Aumenta la probabilità di ottenere un effetto positivo bevendo \r\nuna bevanda misteriosa dai distributori."
+
+msgctxt "677||otr_drunk_01||explanation"
+msgid "Your tolerance toward alcohol becomes stronger and your\r\nmaximum alcohol intake increases."
+msgstr "Rafforza la tolleranza all'alcol e aumenta la quantità\r\nmassima di alcol che puoi ingerire."
+
+msgctxt "678||otr_drunk_02||explanation"
+msgid "Your tolerance toward alcohol becomes stronger and your\r\nmaximum alcohol intake increases."
+msgstr "Rafforza la tolleranza all'alcol e aumenta la quantità\r\nmassima di alcol che puoi ingerire."
+
+msgctxt "679||otr_drunk_03||explanation"
+msgid "Your tolerance toward alcohol becomes stronger and your\r\nmaximum alcohol intake increases."
+msgstr "Rafforza la tolleranza all'alcol e aumenta la quantità\r\nmassima di alcol che puoi ingerire."
+
+msgctxt "688||otr_friend_exp_01||explanation"
+msgid "Increases the amount of EXP your clan members gain in a clan battle."
+msgstr "Aumenta la quantità di EXP ottenuta dai membri del clan in una Battaglia Clan."
+
+msgctxt "689||otr_friend_exp_02||explanation"
+msgid "Increases the amount of EXP your clan members gain in a clan battle."
+msgstr "Aumenta la quantità di EXP ottenuta dai membri del clan in una Battaglia Clan."
+
+msgctxt "690||otr_friend_exp_03||explanation"
+msgid "Increases the amount of EXP your clan members gain in a clan battle."
+msgstr "Aumenta la quantità di EXP ottenuta dai membri del clan in una Battaglia Clan."
+
+msgctxt "691||otr_friend_exp_04||explanation"
+msgid "Increases the amount of EXP your clan members gain in a clan battle."
+msgstr "Aumenta la quantità di EXP ottenuta dai membri del clan in una Battaglia Clan."
+
+msgctxt "692||otr_friend_exp_05||explanation"
+msgid "Increases the amount of EXP your clan members gain in a clan battle."
+msgstr "Aumenta la quantità di EXP ottenuta dai membri del clan in una Battaglia Clan."
+
+msgctxt "696||otr_kyaba_01||explanation"
+msgid "Gain an edge with the ladies at the cabaret club."
+msgstr "Ottieni un vantaggio con le ragazze del Cabaret Club."
+
+msgctxt "697||otr_kyaba_02||explanation"
+msgid "Become a smooth talker with the ladies at the cabaret club."
+msgstr "Diventa un abile oratore con le ragazze del Cabaret Club."
+
+msgctxt "698||otr_kyaba_tlk_01||explanation"
+msgid "More Topic Cards become available in the cabaret club."
+msgstr "Rende disponibili più carte argomento al Cabaret Club."
+
+msgctxt "699||otr_kyaba_tlk_02||explanation"
+msgid "Even more Topic Cards become available in the cabaret club."
+msgstr "Rende disponibili ancora più carte argomento al Cabaret Club."
+
+msgctxt "700||otr_kyaba_tlk_03||explanation"
+msgid "All Topic Cards are available in the cabaret club."
+msgstr "Rende disponibili tutte le carte argomento al Cabaret Club."
+
+msgctxt "701||otr_snack_01||explanation"
+msgid "Making friends at the bar becomes easier."
+msgstr "Farsi degli amici al bar diventa più facile."
+
+msgctxt "702||otr_snack_02||explanation"
+msgid "Making friends at the bar becomes even easier."
+msgstr "Farsi degli amici al bar diventa ancora più facile."
+
+msgctxt "703||otr_snack_03||explanation"
+msgid "Making friends at the bar becomes second nature."
+msgstr "Farsi degli amici al bar diventa una passeggiata."
+
+msgctxt "710||btl_escgsp||explanation"
+msgid "Escape and counterattack certain grabs performed by a weak enemy."
+msgstr "Fuggi e contrattacca ad alcune prese eseguite da nemici deboli."
+
+msgctxt "711||hct_extend01||explanation"
+msgid "Extreme Heat Mode lasts a little longer."
+msgstr "La Modalità Furore Estremo dura un po' di più."
+
+msgctxt "712||hct_extend02||explanation"
+msgid "Extreme Heat Mode lasts even longer."
+msgstr "La Modalità Furore Estremo dura ancora di più."
+
+msgctxt "713||hct_extend03||explanation"
+msgid "Extreme Heat Mode has maximum duration."
+msgstr "La Modalità Furore Estremo ha una durata massima."
+
+msgctxt "714||hct_trick01||explanation"
+msgid "Parry an attack from an enemy wielding a blunt object,\r\nthen seize the weapon to perform a devastating attack."
+msgstr "Devia un attacco da un nemico armato di un oggetto contundente,\r\npoi confisca l'arma per sferrare un attacco devastante."
+
+msgctxt "715||hct_trick02||explanation"
+msgid "Parry an attack from an enemy wielding a blade, then\r\nseize the weapon to perform a devastating attack."
+msgstr "Devia un attacco da un nemico armato di una lama, poi\r\nconfisca l'arma per sferrare un attacco devastante."
+
+msgctxt "716||hct_trick03||explanation"
+msgid "Parry an attack from an enemy wielding a gun, then\r\nseize the weapon to perform a devastating attack."
+msgstr "Devia un attacco da un nemico armato di pistola, poi\r\nconfisca l'arma per sferrare un attacco devastante."
+
+msgctxt "717||hct_trick04||explanation"
+msgid "Launch a powerful attack against an enemy who faltered\r\nbecause their attack was parried."
+msgstr "Sferra un potente attacco contro un nemico che ha vacillato\r\nperché il suo attacco è stato deviato."
+
+msgctxt "718||hct_trick05||explanation"
+msgid "Activate this vicious attack after performing a front kick while\r\nin Extreme Heat Mode, kneeing your enemy continuously."
+msgstr "Attiva questo feroce attacco dopo un calcio frontale mentre\r\nsei in Modalità Furore Estremo, colpendo il nemico a ginocchiate continue."
+
+msgctxt "719||hct_trick06||explanation"
+msgid "Activate this brutal attack after performing a standing charge attack\r\nwhile in Extreme Heat Mode."
+msgstr "Attiva questo brutale attacco dopo aver sferrato un attacco caricato da fermo\r\nmentre sei in Modalità Furore Estremo."
+
+msgctxt "720||hct_trick07||explanation"
+msgid "Activate this dynamic kick after beginning a dash attack while in\r\nExtreme Heat Mode. It uses your full force of motion in one strike."
+msgstr "Attiva questo calcio dinamico dopo aver iniziato un attacco in corsa mentre sei in\r\nModalità Furore Estremo. Usa tutta la forza del tuo slancio in un unico colpo."
+
+msgctxt "721||hct_trick08||explanation"
+msgid "Activate after performing a dash attack while in Extreme Heat Mode.\r\nThis kick does most of its damage from the impact of the landing."
+msgstr "Attiva dopo un attacco in corsa mentre sei in Modalità Furore Estremo.\r\nQuesto calcio infligge la maggior parte dei danni con l'impatto dell'atterraggio."
+
+msgctxt "722||hct_trick09||explanation"
+msgid "Activate this attack fluidly by performing a Quickstep while in\r\nExtreme Heat Mode. It doesn't work against strong enemies."
+msgstr "Attiva questo attacco in modo fluido eseguendo un passo rapido mentre sei in\r\nModalità Furore Estremo. Non ha effetto contro nemici forti."
+
+msgctxt "723||hct_trick10||explanation"
+msgid "Activate this attack by grabbing an enemy during Extreme Heat Mode.\r\nSwing your victim around while knocking down surrounding enemies."
+msgstr "Attiva questo attacco afferrando un nemico in Modalità Furore Estremo.\r\nFai ruotare la vittima atterrando i nemici circostanti."
+
+msgctxt "724||hct_trick11||explanation"
+msgid "When you have an enemy in a neck lock, put them to use\r\nas a weapon by throwing them into another enemy."
+msgstr "Quando tieni un nemico in una presa al collo, usalo come\r\nun'arma scagliandolo contro un altro nemico."
+
+msgctxt "725||hct_trick12||explanation"
+msgid "Brutally throw an enemy to the ground and, while\r\nstepping on them, slam another right on top of them."
+msgstr "Lancia brutalmente a terra un nemico e, mentre lo calpesti,\r\nschianta un altro avversario direttamente sopra di lui."
+
+msgctxt "726||hct_trick13||explanation"
+msgid "Activated while holding an enemy in Extreme Heat Mode. Take out\r\ntwo opponents at once by whipping one foe into the other."
+msgstr "Si attiva trattenendo un nemico in Modalità Furore Estremo. Abbatti\r\ndue avversari contemporaneamente scontrandone uno contro l'altro."
+
+msgctxt "727||hct_trick14||explanation"
+msgid "Catch the enemy's arm with chopsticks, then exploit their \r\ninability to move by attacking quickly. A highly technical skill."
+msgstr "Afferra il braccio del nemico con le bacchette, poi sfrutta la sua \r\nincapacità di muoversi per attaccarlo rapidamente. Un'abilità molto tecnica."
+
+msgctxt "728||hct_trick15||explanation"
+msgid "Throw an enemy head first into a convenience store microwave,\r\nhave a store clerk turn it on and let radiation do the rest."
+msgstr "Infila la testa di un nemico in un microonde in un minimarket,\r\nfai in modo che il commesso lo accenda e lascia che le radiazioni facciano il resto."
+
+msgctxt "729||hct_trick16||explanation"
+msgid "Use this merciless attack to kick an enemy down the stairs from\r\nthe top step without remorse."
+msgstr "Usa questo attacco spietato per calciare giù dalle scale un nemico\r\ndall'ultimo gradino, senza alcun rimorso."
+
+msgctxt "730||hct_trick17||explanation"
+msgid "A powerful attack where you jump from higher ground and slam\r\nyour arm into the enemy."
+msgstr "Un potente attacco in cui salti da un punto sopraelevato e schianti\r\nil braccio contro il nemico."
+
+msgctxt "731||hct_trick18||explanation"
+msgid "Master all weapons to perform an attack that changes depending\r\non what weapon you currently have in hand."
+msgstr "Padroneggia tutte le armi per eseguire un attacco che cambia a seconda\r\ndell'arma che hai attualmente in mano."
+
+msgctxt "732||hct_trick19||explanation"
+msgid "Lift an enemy overhead, then throw them into nearby objects\r\nwith all your might. The impact will cause serious damage."
+msgstr "Solleva un nemico sopra la testa e poi scaglialo con tutta la tua\r\nforza contro gli oggetti vicini. L'impatto causerà gravi danni."
+
+msgctxt "733||hct_trick20||explanation"
+msgid "Show no mercy as you slam into an enemy with a painful\r\nuppercut during Extreme Heat Mode."
+msgstr "Non mostrare pietà mentre colpisci un nemico con un doloroso\r\nmontante durante la Modalità Furore Estremo."
+
+msgctxt "734||hct_trick21||explanation"
+msgid "Pick up a stunned enemy and throw them back to the ground\r\nwith no remorse during Extreme Heat Mode."
+msgstr "Solleva un nemico stordito e sbattilo di nuovo a terra\r\nsenza rimorso durante la Modalità Furore Estremo."
+
+msgctxt "735||hct_trick22||explanation"
+msgid "A fierce kick slammed into a fallen enemy's head during\r\nExtreme Heat Mode."
+msgstr "Un calcio feroce sferrato alla testa di un nemico a terra durante\r\nla Modalità Furore Estremo."
+
+msgctxt "736||hct_trick23||explanation"
+msgid "Cruelly take out a weakened foe with an axe kick during\r\nExtreme Heat Mode."
+msgstr "Abbatti crudelmente un avversario indebolito con un calcio ad ascia durante\r\nla Modalità Furore Estremo."
+
+msgctxt "737||hct_trick24||explanation"
+msgid "Perform a devastating suplex on a stunned enemy during\r\nExtreme Heat Mode."
+msgstr "Esegui un suplex devastante su un nemico stordito durante\r\nla Modalità Furore Estremo."
+
+msgctxt "738||hct_trick25||explanation"
+msgid "Viciously slam a stunned enemy's face into the ground\r\nduring Extreme Heat Mode."
+msgstr "Schianta ferocemente la faccia di un nemico stordito a terra\r\ndurante la Modalità Furore Estremo."
+
+msgctxt "739||hct_trick26||explanation"
+msgid "A powerful attack in which you grab a stunned enemy\r\nleaning on a wall, then slam them into the ground."
+msgstr "Un potente attacco in cui afferri un nemico stordito e\r\nappoggiato a un muro per poi schiantarlo a terra."
+
+msgctxt "740||hct_trick27||explanation"
+msgid "Smash an enemy's face into a wall with all your might."
+msgstr "Schianta la faccia di un nemico contro un muro con tutta la tua forza."
+
+msgctxt "741||hct_trick28||explanation"
+msgid "Smash an enemy's head into a stand with full force."
+msgstr "Schianta la testa di un nemico contro un bancone con tutta la forza."
+
+msgctxt "742||hct_trick29||explanation"
+msgid "Grab an enemy and mercilessly throw them straight into\r\na pole, smashing their crotch against it."
+msgstr "Afferra un nemico e scaglialo senza pietà dritto contro\r\nun palo, schiacciandogli i testicoli contro di esso."
+
+msgctxt "743||hct_trick30||explanation"
+msgid "Leap from the top of a railing and let gravity do the brunt\r\nof the work as you drop your foe face-first into the ground."
+msgstr "Salta da una ringhiera e lascia che la gravità faccia il grosso\r\ndel lavoro, schiantando a faccia in giù l'avversario a terra."
+
+msgctxt "744||hct_trick31||explanation"
+msgid "Brutalize your enemy by tripping them into a corner, then\r\nkick with enough force to break their spine."
+msgstr "Massacra il nemico spingendolo in un angolo, poi dagli un\r\ncalcio così potente da potergli spezzare la colonna vertebrale."
+
+msgctxt "745||hct_trick32||explanation"
+msgid "A cooperative attack with specific allies. You and your\r\nally swing two enemies into each other."
+msgstr "Un attacco cooperativo con alleati specifici. Tu e il tuo alleato\r\nscagliate due nemici l'uno contro l'altro."
+
+msgctxt "746||hct_trick33||explanation"
+msgid "A cooperative attack with Akiyama. Put the power of your\r\nkicks on display as you strike two enemies at the same time."
+msgstr "Un attacco cooperativo con Akiyama. Metti in mostra la potenza dei tuoi\r\ncalci colpendo due nemici allo stesso tempo."
+
+msgctxt "747||hct_trick34||explanation"
+msgid "Throw an enemy from a high place they won't be\r\ncoming back from. It can't be used on strong enemies."
+msgstr "Lancia un nemico da un luogo elevato da cui non farà mai\r\npiù ritorno. Non può essere usato su nemici forti."
+
+msgctxt "748||hct_trick35||explanation"
+msgid "A cooperative attack with an ally. The attack changes\r\ndepending on who you fight with."
+msgstr "Un attacco cooperativo con un alleato. L'attacco cambia\r\na seconda di chi ti affianca nel combattimento."
+
+msgctxt "749||hct_trick36||explanation"
+msgid "Hell hath no fury like a woman scorned, as your enemy\r\nwill learn all too late."
+msgstr "L'inferno non conosce furia pari a quella di una donna offesa, come il tuo nemico\r\nscoprirà fin troppo tardi."
+
+msgctxt "752||hct_trick37||explanation"
+msgid "Swing an enemy you've grabbed with enough force to knock\r\ndown surrounding enemies during Extreme Heat Mode."
+msgstr "Fai ruotare un nemico che hai afferrato con forza sufficiente per atterrare\r\ni nemici circostanti durante la Modalità Furore Estremo."
+
+msgctxt "532||btl_cmb_speed_02||locked_message"
+msgid "Unlocked after learning Boost Combo Speed Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta velocità combo liv. 1."
+
+msgctxt "533||btl_cmb_speed_03||locked_message"
+msgid "Unlocked after learning Boost Combo Speed Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta velocità combo liv. 2."
+
+msgctxt "535||btl_stand_atk||locked_message"
+msgid "Unlocked after learning Quick Recovery."
+msgstr "Si sblocca dopo aver appreso Recupero rapido."
+
+msgctxt "537||btl_blowback||locked_message"
+msgid "Unlocked after Attack is over 150."
+msgstr "Si sblocca dopo che l'Attacco supera i 150."
+
+msgctxt "540||btl_ukenagashi_02||locked_message"
+msgid "Unlocked after learning Parry."
+msgstr "Si sblocca dopo aver appreso Deviazione."
+
+msgctxt "542||btl_sway_01||locked_message"
+msgid "Unlocked after Evasion is over 110."
+msgstr "Si sblocca dopo che la Schivata supera i 110."
+
+msgctxt "543||btl_sway_02||locked_message"
+msgid "Unlocked after learning Double Quickstep and Evasion is over 200."
+msgstr "Si sblocca dopo aver appreso Doppio passo rapido e la Schivata supera i 200."
+
+msgctxt "545||btl_sway_dash_atk||locked_message"
+msgid "Unlocked after learning Lunge."
+msgstr "Si sblocca dopo aver appreso Affondo."
+
+msgctxt "546||btl_toraotoshi_01||locked_message"
+msgid "Unlocked after Attack is over 180."
+msgstr "Si sblocca dopo che l'Attacco supera i 180."
+
+msgctxt "547||btl_toraotoshi_02||locked_message"
+msgid "Unlocked after learning Tiger Drop and Attack is over 200."
+msgstr "Si sblocca dopo aver appreso Caduta della tigre e l'Attacco supera i 200."
+
+msgctxt "551||btl_anti_stn||locked_message"
+msgid "Unlocked after Defense is over 120."
+msgstr "Si sblocca dopo che la Difesa supera i 120."
+
+msgctxt "553||btl_cancel_sway||locked_message"
+msgid "Unlocked after Evasion is over 160."
+msgstr "Si sblocca dopo che la Schivata supera i 160."
+
+msgctxt "556||hct_rush||locked_message"
+msgid "Unlocked after Heat Gauge is over 110."
+msgstr "Si sblocca dopo che la Barra Furore supera i 110."
+
+msgctxt "557||hct_stock_01||locked_message"
+msgid "Unlocked after Heat Gauge is over 120."
+msgstr "Si sblocca dopo che la Barra Furore supera i 120."
+
+msgctxt "558||hct_stock_02||locked_message"
+msgid "Unlocked after learning Boost Heat Orbs Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta globi Furore liv. 1."
+
+msgctxt "559||hct_stock_03||locked_message"
+msgid "Unlocked after learning Boost Heat Orbs Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta globi Furore liv. 2."
+
+msgctxt "561||hct_atk_up_02||locked_message"
+msgid "Unlocked after learning Boost Heat Actions Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta Azioni Furore liv. 1."
+
+msgctxt "562||hct_atk_up_03||locked_message"
+msgid "Unlocked after learning Boost Heat Actions Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta Azioni Furore liv. 2."
+
+msgctxt "621||otr_exp_a_01||locked_message"
+msgid "Unlocked after Health is over 120."
+msgstr "Si sblocca dopo che la Salute supera i 120."
+
+msgctxt "622||otr_exp_a_02||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 1."
+
+msgctxt "623||otr_exp_a_03||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 2."
+
+msgctxt "624||otr_exp_a_04||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 3."
+
+msgctxt "625||otr_exp_a_05||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 4."
+
+msgctxt "626||otr_exp_b_01||locked_message"
+msgid "Unlocked after Health is over 120."
+msgstr "Si sblocca dopo che la Salute supera i 120."
+
+msgctxt "627||otr_exp_b_02||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 1."
+
+msgctxt "628||otr_exp_b_03||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 2."
+
+msgctxt "629||otr_exp_b_04||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 3."
+
+msgctxt "630||otr_exp_b_05||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 4."
+
+msgctxt "631||otr_exp_c_01||locked_message"
+msgid "Unlocked after Health is over 120."
+msgstr "Si sblocca dopo che la Salute supera i 120."
+
+msgctxt "632||otr_exp_c_02||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 1."
+
+msgctxt "633||otr_exp_c_03||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 2."
+
+msgctxt "634||otr_exp_c_04||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 3."
+
+msgctxt "635||otr_exp_c_05||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 4."
+
+msgctxt "636||otr_exp_d_01||locked_message"
+msgid "Unlocked after Health is over 120."
+msgstr "Si sblocca dopo che la Salute supera i 120."
+
+msgctxt "637||otr_exp_d_02||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 1."
+
+msgctxt "638||otr_exp_d_03||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 2."
+
+msgctxt "639||otr_exp_d_04||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 3."
+
+msgctxt "640||otr_exp_d_05||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 4."
+
+msgctxt "641||otr_exp_e_01||locked_message"
+msgid "Unlocked after Health is over 120."
+msgstr "Si sblocca dopo che la Salute supera i 120."
+
+msgctxt "642||otr_exp_e_02||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 1."
+
+msgctxt "643||otr_exp_e_03||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 2."
+
+msgctxt "644||otr_exp_e_04||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 3."
+
+msgctxt "645||otr_exp_e_05||locked_message"
+msgid "Unlocked after learning Boost EXP Gain Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP ottenuta liv. 4."
+
+msgctxt "647||otr_dash_02||locked_message"
+msgid "Unlocked after learning Boost Sprint Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta scatto liv. 1."
+
+msgctxt "648||otr_dash_03||locked_message"
+msgid "Unlocked after learning Boost Sprint Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta scatto liv. 2."
+
+msgctxt "649||otr_dash_04||locked_message"
+msgid "Unlocked after learning Boost Sprint Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta scatto liv. 3."
+
+msgctxt "650||otr_dash_05||locked_message"
+msgid "Unlocked after learning Boost Sprint Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta scatto liv. 4."
+
+msgctxt "652||otr_cash_02||locked_message"
+msgid "Unlocked after learning Boost Fortune Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta fortuna liv. 1."
+
+msgctxt "653||otr_cash_03||locked_message"
+msgid "Unlocked after learning Boost Fortune Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta fortuna liv. 2."
+
+msgctxt "654||otr_cash_04||locked_message"
+msgid "Unlocked after learning Boost Fortune Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta fortuna liv. 3."
+
+msgctxt "655||otr_cash_05||locked_message"
+msgid "Unlocked after learning Boost Fortune Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta fortuna liv. 4."
+
+msgctxt "656||otr_exp_meal_01||locked_message"
+msgid "Unlocked after Health is over 120."
+msgstr "Si sblocca dopo che la Salute supera i 120."
+
+msgctxt "657||otr_exp_meal_02||locked_message"
+msgid "Unlocked after learning Boost Meal EXP Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP pasti liv. 1."
+
+msgctxt "658||otr_exp_meal_03||locked_message"
+msgid "Unlocked after learning Boost Meal EXP Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP pasti liv. 2."
+
+msgctxt "659||otr_exp_meal_04||locked_message"
+msgid "Unlocked after learning Boost Meal EXP Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP pasti liv. 3."
+
+msgctxt "660||otr_exp_meal_05||locked_message"
+msgid "Unlocked after learning Boost Meal EXP Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta EXP pasti liv. 4."
+
+msgctxt "662||otr_stomach_02||locked_message"
+msgid "Unlocked after learning Boost Hunger Gauge Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta barra fame liv. 1."
+
+msgctxt "663||otr_stomach_03||locked_message"
+msgid "Unlocked after learning Boost Hunger Gauge Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta barra fame liv. 2."
+
+msgctxt "664||otr_stomach_04||locked_message"
+msgid "Unlocked after learning Boost Hunger Gauge Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta barra fame liv. 3."
+
+msgctxt "665||otr_stomach_05||locked_message"
+msgid "Unlocked after learning Boost Hunger Gauge Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta barra fame liv. 4."
+
+msgctxt "667||otr_hunger_02||locked_message"
+msgid "Unlocked after learning Boost Digestion Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta digestione liv. 1."
+
+msgctxt "668||otr_hunger_03||locked_message"
+msgid "Unlocked after learning Boost Digestion Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta digestione liv. 2."
+
+msgctxt "669||otr_hunger_04||locked_message"
+msgid "Unlocked after learning Boost Digestion Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta digestione liv. 3."
+
+msgctxt "670||otr_hunger_05||locked_message"
+msgid "Unlocked after learning Boost Digestion Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta digestione liv. 4."
+
+msgctxt "672||otr_drink_buff_02||locked_message"
+msgid "Unlocked after learning Boost Vending Machine Drink Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta effetto bevande liv. 1."
+
+msgctxt "673||otr_drink_buff_03||locked_message"
+msgid "Unlocked after learning Boost Vending Machine Drink Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta effetto bevande liv. 2."
+
+msgctxt "674||otr_drink_buff_04||locked_message"
+msgid "Unlocked after learning Boost Vending Machine Drink Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta effetto bevande liv. 3."
+
+msgctxt "675||otr_drink_buff_05||locked_message"
+msgid "Unlocked after learning Boost Vending Machine Drink Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta effetto bevande liv. 4."
+
+msgctxt "678||otr_drunk_02||locked_message"
+msgid "Unlocked after learning Alcohol Tolerance Lv. 1."
+msgstr "Si sblocca dopo aver appreso Tolleranza all'alcol liv. 1."
+
+msgctxt "679||otr_drunk_03||locked_message"
+msgid "Unlocked after learning Alcohol Tolerance Lv. 2."
+msgstr "Si sblocca dopo aver appreso Tolleranza all'alcol liv. 2."
+
+msgctxt "689||otr_friend_exp_02||locked_message"
+msgid "Unlocked after learning Boost Clan Member Growth Lv. 1."
+msgstr "Si sblocca dopo aver appreso Aumenta crescita membri del clan liv. 1."
+
+msgctxt "690||otr_friend_exp_03||locked_message"
+msgid "Unlocked after learning Boost Clan Member Growth Lv. 2."
+msgstr "Si sblocca dopo aver appreso Aumenta crescita membri del clan liv. 2."
+
+msgctxt "691||otr_friend_exp_04||locked_message"
+msgid "Unlocked after learning Boost Clan Member Growth Lv. 3."
+msgstr "Si sblocca dopo aver appreso Aumenta crescita membri del clan liv. 3."
+
+msgctxt "692||otr_friend_exp_05||locked_message"
+msgid "Unlocked after learning Boost Clan Member Growth Lv. 4."
+msgstr "Si sblocca dopo aver appreso Aumenta crescita membri del clan liv. 4."
+
+msgctxt "697||otr_kyaba_02||locked_message"
+msgid "Unlocked after learning Ladies' Man."
+msgstr "Si sblocca dopo aver appreso Dongiovanni."
+
+msgctxt "699||otr_kyaba_tlk_02||locked_message"
+msgid "Unlocked after learning Art of Conversation Lv. 1."
+msgstr "Si sblocca dopo aver appreso Arte della conversazione liv. 1."
+
+msgctxt "700||otr_kyaba_tlk_03||locked_message"
+msgid "Unlocked after learning Art of Conversation Lv. 2."
+msgstr "Si sblocca dopo aver appreso Arte della conversazione liv. 2."
+
+msgctxt "702||otr_snack_02||locked_message"
+msgid "Unlocked after learning Social Skills Lv. 1."
+msgstr "Si sblocca dopo aver appreso Abilità sociali liv. 1."
+
+msgctxt "703||otr_snack_03||locked_message"
+msgid "Unlocked after learning Social Skills Lv. 2."
+msgstr "Si sblocca dopo aver appreso Abilità sociali liv. 2."
+
+msgctxt "711||hct_extend01||locked_message"
+msgid "Unlocked after Heat Gauge is over 130."
+msgstr "Si sblocca dopo che la Barra Furore supera i 130."
+
+msgctxt "712||hct_extend02||locked_message"
+msgid "Unlocked after learning the former and Heat Gauge is over 150."
+msgstr "Si sblocca dopo aver appreso l'abilità precedente e la Barra Furore supera i 150."
+
+msgctxt "713||hct_extend03||locked_message"
+msgid "Unlocked after learning the former and Heat Gauge is over 200."
+msgstr "Si sblocca dopo aver appreso l'abilità precedente e la Barra Furore supera i 200."
+
+msgctxt "717||hct_trick04||locked_message"
+msgid "Unlocked after learning Parry."
+msgstr "Si sblocca dopo aver appreso Deviazione."
+
+msgctxt "719||hct_trick06||locked_message"
+msgid "Unlocked after learning Charge Attack."
+msgstr "Si sblocca dopo aver appreso Attacco caricato."
+
+msgctxt "720||hct_trick07||locked_message"
+msgid "Unlocked after learning Dash Attack."
+msgstr "Si sblocca dopo aver appreso Attacco in corsa."
+
+msgctxt "721||hct_trick08||locked_message"
+msgid "Unlocked after learning Dash Attack."
+msgstr "Si sblocca dopo aver appreso Attacco in corsa."
+
+msgctxt "534||btl_dash_atk||unlocked_message"
+msgid "<Sign:1,Combat> while sprinting."
+msgstr "<Sign:1,Combat> durante uno scatto."
+
+msgctxt "535||btl_stand_atk||unlocked_message"
+msgid "<Sign:1,Combat> while being knocked down."
+msgstr "<Sign:1,Combat> dopo aver subito un atterramento."
+
+msgctxt "536||btl_stand_quick||unlocked_message"
+msgid "<Sign:3,Combat> while being knocked down."
+msgstr "<Sign:3,Combat> dopo aver subito un atterramento."
+
+msgctxt "538||btl_reguard||unlocked_message"
+msgid "<Sign:6,Combat> when your guard is broken."
+msgstr "<Sign:6,Combat> quando la guardia viene spezzata."
+
+msgctxt "539||btl_ukenagashi_01||unlocked_message"
+msgid "<Sign:6,Combat> right before an enemy attack lands."
+msgstr "<Sign:6,Combat> appena prima che un attacco nemico vada a segno."
+
+msgctxt "541||btl_sway_atk||unlocked_message"
+msgid "<Sign:1,Combat> while Quickstepping with <Sign:3,Combat>."
+msgstr "<Sign:1,Combat> mentre esegui un passo rapido con <Sign:3,Combat>."
+
+msgctxt "542||btl_sway_01||unlocked_message"
+msgid "<Sign:3,Combat> while Quickstepping with <Sign:3,Combat>."
+msgstr "<Sign:3,Combat> mentre esegui un passo rapido con <Sign:3,Combat>."
+
+msgctxt "543||btl_sway_02||unlocked_message"
+msgid "<Sign:3,Combat> while Double Quickstepping."
+msgstr "<Sign:3,Combat> mentre esegui un doppio passo rapido."
+
+msgctxt "544||btl_sway_dash||unlocked_message"
+msgid "<Sign:3,Combat> while running."
+msgstr "<Sign:3,Combat> mentre corri."
+
+msgctxt "545||btl_sway_dash_atk||unlocked_message"
+msgid "<Sign:1,Combat> while lunging."
+msgstr "<Sign:1,Combat> durante l'affondo."
+
+msgctxt "546||btl_toraotoshi_01||unlocked_message"
+msgid "Enter stance with <Sign:4,Combat> then press <Sign:1,Combat> right before enemy attack lands."
+msgstr "Assumi la posizione con <Sign:4,Combat> e poi premi <Sign:1,Combat> appena prima che un attacco nemico vada a segno."
+
+msgctxt "548||btl_gb01||unlocked_message"
+msgid "<Sign:1,Combat> right when the attack is about to hit."
+msgstr "<Sign:1,Combat> nel momento esatto in cui l'attacco sta per colpire."
+
+msgctxt "550||btl_fin_hold||unlocked_message"
+msgid "<Sign:0,Combat> right after landing a Finishing Blow on an enemy."
+msgstr "<Sign:0,Combat> subito dopo aver messo a segno un Colpo finale su un nemico."
+
+msgctxt "551||btl_anti_stn||unlocked_message"
+msgid "Press <Sign:3,Combat> repeatedly."
+msgstr "Premi ripetutamente <Sign:3,Combat>."
+
+msgctxt "552||btl_charge||unlocked_message"
+msgid "Hold down <Sign:1,Combat> during a Rush Combo."
+msgstr "Tieni premuto <Sign:1,Combat> durante una Combo base."
+
+msgctxt "553||btl_cancel_sway||unlocked_message"
+msgid "<Sign:3,Combat> after an attack."
+msgstr "<Sign:3,Combat> dopo un attacco."
+
+msgctxt "556||hct_rush||unlocked_message"
+msgid "<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>"
+msgstr "<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>"
+
+msgctxt "710||btl_escgsp||unlocked_message"
+msgid "<Sign:2,Combat>/<Sign:1,Combat>/<Sign:0,Combat> while being grabbed around the waist by a weaker enemy."
+msgstr "<Sign:2,Combat>/<Sign:1,Combat>/<Sign:0,Combat> quando vieni afferrato alla vita da un nemico più debole."
+
+msgctxt "714||hct_trick01||unlocked_message"
+msgid "<Sign:1,Combat> while an enemy attacks with a blunt object."
+msgstr "<Sign:1,Combat> mentre un nemico attacca con un oggetto contundente."
+
+msgctxt "715||hct_trick02||unlocked_message"
+msgid "<Sign:1,Combat> while an enemy attacks with a knife."
+msgstr "<Sign:1,Combat> mentre un nemico attacca con un coltello."
+
+msgctxt "716||hct_trick03||unlocked_message"
+msgid "<Sign:1,Combat> near an enemy with a gun."
+msgstr "<Sign:1,Combat> vicino a un nemico armato di pistola."
+
+msgctxt "717||hct_trick04||unlocked_message"
+msgid "<Sign:1,Combat> right after parrying."
+msgstr "<Sign:1,Combat> subito dopo aver deviato un colpo."
+
+msgctxt "718||hct_trick05||unlocked_message"
+msgid "<Sign:1,Combat> after a front kick during Heat Mode."
+msgstr "<Sign:1,Combat> dopo un calcio frontale durante la Modalità Furore."
+
+msgctxt "719||hct_trick06||unlocked_message"
+msgid "<Sign:1,Combat> after a charge attack during Heat Mode."
+msgstr "<Sign:1,Combat> dopo un attacco caricato durante la Modalità Furore."
+
+msgctxt "720||hct_trick07||unlocked_message"
+msgid "<Sign:1,Combat> after a running dash attack during Heat Mode."
+msgstr "<Sign:1,Combat> dopo un attacco in corsa correndo durante la Modalità Furore."
+
+msgctxt "721||hct_trick08||unlocked_message"
+msgid "<Sign:1,Combat> after a dash attack during Heat Mode."
+msgstr "<Sign:1,Combat> dopo un attacco in corsa durante la Modalità Furore."
+
+msgctxt "722||hct_trick09||unlocked_message"
+msgid "<Sign:1,Combat> while Quickstepping during Heat Mode."
+msgstr "<Sign:1,Combat> durante un passo rapido in Modalità Furore."
+
+msgctxt "723||hct_trick10||unlocked_message"
+msgid "Grab an enemy and press <Sign:1,Combat> near two different enemies during Heat Mode."
+msgstr "Afferra un nemico e premi <Sign:1,Combat> vicino ad altri due nemici durante la Modalità Furore."
+
+msgctxt "724||hct_trick11||unlocked_message"
+msgid "With one enemy in a chokehold, press <Sign:1,Combat> near another."
+msgstr "Tenendo un nemico in una presa al collo, premi <Sign:1,Combat> vicino ad un altro."
+
+msgctxt "725||hct_trick12||unlocked_message"
+msgid "Grab an enemy and press <Sign:1,Combat> near another enemy."
+msgstr "Afferra un nemico e premi <Sign:1,Combat> vicino a un altro nemico."
+
+msgctxt "726||hct_trick13||unlocked_message"
+msgid "With one enemy in a chokehold, press <Sign:1,Combat> near another during Heat Mode."
+msgstr "Tenendo un nemico in una presa al collo, premi <Sign:1,Combat> vicino ad un altro durante la Modalità Furore."
+
+msgctxt "727||hct_trick14||unlocked_message"
+msgid "<Sign:1,Combat> while holding chopsticks."
+msgstr "<Sign:1,Combat> mentre impugni delle bacchette."
+
+msgctxt "728||hct_trick15||unlocked_message"
+msgid "Grab an enemy and press <Sign:1,Combat> near a microwave at a convenience store."
+msgstr "Afferra un nemico e premi <Sign:1,Combat> vicino a un microonde in un minimarket."
+
+msgctxt "729||hct_trick16||unlocked_message"
+msgid "Grab an enemy while on top of the stairs and press <Sign:1,Combat>."
+msgstr "Afferra un nemico mentre ti trovi in cima alle scale e premi <Sign:1,Combat>."
+
+msgctxt "730||hct_trick17||unlocked_message"
+msgid "<Sign:1,Combat> while on higher ground than the enemy."
+msgstr "<Sign:1,Combat> mentre ti trovi più in alto rispetto al nemico."
+
+msgctxt "731||hct_trick18||unlocked_message"
+msgid "<Sign:1,Combat> near an enemy holding a weapon."
+msgstr "<Sign:1,Combat> vicino a un nemico che impugna un'arma."
+
+msgctxt "732||hct_trick19||unlocked_message"
+msgid "Grab an enemy near large objects and press <Sign:1,Combat>."
+msgstr "Afferra un nemico vicino a oggetti di grandi dimensioni e premi <Sign:1,Combat>."
+
+msgctxt "733||hct_trick20||unlocked_message"
+msgid "Stand in front of an enemy stunned and down on one knee, then press <Sign:1,Combat>."
+msgstr "Mettiti di fronte a un nemico stordito e caduto su un ginocchio, poi premi <Sign:1,Combat>."
+
+msgctxt "734||hct_trick21||unlocked_message"
+msgid "Stand in front of an enemy stunned and down on all fours, then press <Sign:1,Combat>."
+msgstr "Mettiti di fronte a un nemico stordito e caduto a quattro zampe, poi premi <Sign:1,Combat>."
+
+msgctxt "735||hct_trick22||unlocked_message"
+msgid "Stand in front of an enemy stunned and leaning forward, then press <Sign:1,Combat>."
+msgstr "Mettiti di fronte a un nemico stordito e piegato in avanti, poi premi <Sign:1,Combat>."
+
+msgctxt "736||hct_trick23||unlocked_message"
+msgid "Stand behind an enemy stunned and down on one knee, then press <Sign:1,Combat>."
+msgstr "Mettiti alle spalle di un nemico stordito e caduto su un ginocchio, poi premi <Sign:1,Combat>."
+
+msgctxt "737||hct_trick24||unlocked_message"
+msgid "Stand behind an enemy stunned and down on all fours, then press <Sign:1,Combat>."
+msgstr "Mettiti alle spalle di un nemico stordito e caduto a quattro zampe, poi premi <Sign:1,Combat>."
+
+msgctxt "738||hct_trick25||unlocked_message"
+msgid "Stand behind an enemy stunned and leaning forward, then press <Sign:1,Combat>."
+msgstr "Mettiti alle spalle di un nemico stordito e piegato in avanti, poi premi <Sign:1,Combat>."
+
+msgctxt "739||hct_trick26||unlocked_message"
+msgid "<Sign:1,Combat> near an enemy stunned and leaning against a wall."
+msgstr "<Sign:1,Combat> vicino a un nemico stordito e appoggiato a un muro."
+
+msgctxt "740||hct_trick27||unlocked_message"
+msgid "<Sign:1,Combat> near a wall while grabbing an enemy."
+msgstr "<Sign:1,Combat> vicino a un muro mentre afferri un nemico."
+
+msgctxt "741||hct_trick28||unlocked_message"
+msgid "<Sign:1,Combat> near a stand while grabbing an enemy."
+msgstr "<Sign:1,Combat> vicino a un bancone mentre afferri un nemico."
+
+msgctxt "742||hct_trick29||unlocked_message"
+msgid "<Sign:1,Combat> near a pole while grabbing an enemy."
+msgstr "<Sign:1,Combat> vicino a un palo mentre afferri un nemico."
+
+msgctxt "743||hct_trick30||unlocked_message"
+msgid "<Sign:1,Combat> near a rail while grabbing an enemy."
+msgstr "<Sign:1,Combat> vicino a una ringhiera mentre afferri un nemico."
+
+msgctxt "744||hct_trick31||unlocked_message"
+msgid "<Sign:1,Combat> near a corner while grabbing an enemy."
+msgstr "<Sign:1,Combat> vicino a un angolo mentre afferri un nemico."
+
+msgctxt "745||hct_trick32||unlocked_message"
+msgid "<Sign:1,Combat> near your ally and an enemy while grabbing another enemy."
+msgstr "<Sign:1,Combat> vicino al tuo alleato e a un nemico mentre afferri un altro nemico."
+
+msgctxt "746||hct_trick33||unlocked_message"
+msgid "<Sign:1,Combat> near Akiyama and an enemy while grabbing another enemy."
+msgstr "<Sign:1,Combat> vicino ad Akiyama e a un nemico mentre afferri un altro nemico."
+
+msgctxt "747||hct_trick34||unlocked_message"
+msgid "<Sign:1,Combat> near a window or fence while grabbing an enemy."
+msgstr "<Sign:1,Combat> vicino a una finestra o a una recinzione mentre afferri un nemico."
+
+msgctxt "748||hct_trick35||unlocked_message"
+msgid "<Sign:1,Combat> when your ally is nearby and you are grabbing an enemy."
+msgstr "<Sign:1,Combat> quando il tuo alleato è vicino e tu afferri un nemico."
+
+msgctxt "749||hct_trick36||unlocked_message"
+msgid "<Sign:1,Combat> when a beautiful girl is nearby."
+msgstr "<Sign:1,Combat> quando c'è una bella ragazza nelle vicinanze."
+
+msgctxt "752||hct_trick37||unlocked_message"
+msgid "Press <Sign:0,Combat> while swinging an enemy, then press <Sign:1,Combat> near two other enemies."
+msgstr "Premi <Sign:0,Combat> mentre fai ruotare un nemico, poi premi <Sign:1,Combat> vicino ad altri due nemici."

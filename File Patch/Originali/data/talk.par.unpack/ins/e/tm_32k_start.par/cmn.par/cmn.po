@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 66
+msgctxt "Offset_0x1C4_Len_66"
+msgid "(I need to find the bomber.\nApparently he's in an internet café.)"
+msgstr ""
+

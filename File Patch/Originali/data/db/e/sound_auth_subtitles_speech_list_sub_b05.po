@@ -1,0 +1,1245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "1||||4"
+msgid "What in the world is this?"
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Wh-What the hell!?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "Ah, so that's where Michio-kun's head is.\r\nFinally found you!"
+msgstr ""
+
+msgctxt "5||||4"
+msgid "What was that lazy brat thinking,\r\nleaving something as special as you out here?"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Hey, what is that thing?"
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Oh, sorry. I hope it didn't scare you too much."
+msgstr ""
+
+msgctxt "8||||4"
+msgid "This little guy is the head of\r\nour stunning Ono Michio-kun."
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Ono Michio-kun...?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Yup! He's an original mascot we're trying to\r\npromote as the sparkling new face of Onomichi!"
+msgstr ""
+
+msgctxt "11||||4"
+msgid "A mascot...?"
+msgstr ""
+
+msgctxt "12||||4"
+msgid "Huh? Do you not know what those are?"
+msgstr ""
+
+msgctxt "13||||4"
+msgid "Well, sort of. Aren't they those cute character\r\nthings that have been popping up recently?"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "Precisely! These days, they're most commonly\r\nused as PR to boost local tourism and culture."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "I'm in a real bind here, though.\r\nMy usual actor's flown the coop."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "You have an actor?"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "Of course. A part-timer who donned the guise of\r\nMichio-kun to spread cheer to the world."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "All I did was give him a few pointers.\r\nKids these days can't take a little criticism."
+msgstr ""
+
+msgctxt "19||||4"
+msgid "Huh..."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "But honestly, we have a big event coming up.\r\nMichio-kun's supposed to make a dazzling appearance."
+msgstr ""
+
+msgctxt "21||||4"
+msgid "What a mess...\r\nI'm in hot water without an actor."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Why don't you do it yourself?"
+msgstr ""
+
+msgctxt "23||||4"
+msgid "No no, I'm all about management.\r\nI can't act and run the event at the same time."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "Michio-kun's pretty darn big for one of these\r\nmascots, too. Heavy doesn't begin to describe it."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "I need my actor to be tall and muscular. A wimpy guy\r\nlike me would never last the whole event."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "But where could I possibly find someone big and\r\nstrong enough to handle the role? What a pickle..."
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Hm...?"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Hmmm!?"
+msgstr ""
+
+msgctxt "30||||4"
+msgid "I don't like where this is going."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "I found one!"
+msgstr ""
+
+msgctxt "32||||4"
+msgid "I'm not getting in that thing."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "Come on, please!\r\nI'll make it up to you somehow!"
+msgstr ""
+
+msgctxt "34||||4"
+msgid "Michio-kun needs someone like you. You're big,\r\nyou're strong, and you have tons of time on your hands!"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "This really isn't my style."
+msgstr ""
+
+msgctxt "36||||4"
+msgid "I'm begging you!\r\nI'll do whatever it takes to get you in there!"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "Besides, there are countless precious little children\r\nwaiting for Michio-kun's performance."
+msgstr ""
+
+msgctxt "38||||4"
+msgid "Think of their smiling faces.\r\nYou don't want to leave them disappointed, do you?"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Please help me!\r\nYou need to protect their innocent smiles!"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "I'm not really interested in being a mascot...\r\nWhat should I do?"
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Let me think about it."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Okay! I'll be waiting right in\r\nthis very spot until you're ready!"
+msgstr ""
+
+msgctxt "44||||4"
+msgid "All right, I'll do it.\r\nJust for a bit."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "Thank you so much, Michio-kun!"
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Hey, I'm not Michio yet. The name's Kiryu."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "Kiryu-san! I'm the producer for this event, Hironaka.\r\nWe're gonna make a great team!"
+msgstr ""
+
+msgctxt "48||||4"
+msgid "Now let's get moving! The sooner we make you\r\ninto Ono Michio-kun, the better! Come on!"
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Won't you please be my mascot actor?\r\nI'm begging you!"
+msgstr ""
+
+msgctxt "51||||4"
+msgid "Oooh, it's perfect! You're a great fit!"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "Hey, do I really have to go through with this?"
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Don't sound so hesitant! It'll be impossible\r\nto find someone else who suits it so well!"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "It's heavy, though. And hot. And hard to breathe in.\r\nI can see why your old actor ran off."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Cheer up, guy. Ono Michio-kun is the new symbol\r\nof Onomichi! He's like an idol for these people!"
+msgstr ""
+
+msgctxt "56||||4"
+msgid "What does any of this have to do with Onomichi, anyway?"
+msgstr ""
+
+msgctxt "57||||4"
+msgid "Huh!? You can't tell?"
+msgstr ""
+
+msgctxt "58||||4"
+msgid "First up is his charming face, carefully modeled off\r\nthe local town of Setouchi's specialty hassaku orange!"
+msgstr ""
+
+msgctxt "59||||4"
+msgid "On top of that rests a steamy hat based on\r\nOnomichi's traditional food, Onomichi ramen!"
+msgstr ""
+
+msgctxt "60||||4"
+msgid "Around his waist we have a deliciously fishy pouch\r\nto show how much this town adores its seafood!"
+msgstr ""
+
+msgctxt "61||||4"
+msgid "And on his feet, cool rubber boots serve\r\nas a sign of our community's fisherman roots!"
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Finally, Ono Michio-kun's shirt has his name, O-N-O,\r\nemblazoned on the front in big, bold letters!"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "He's a great representation of our town's beauty.\r\nDon't you think he's just the perfect little mascot?"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "I don't think I'd go that far..."
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Either way, just be confident! You look amazing,\r\nKiryu-san! Or should I say, Michio-kun!"
+msgstr ""
+
+msgctxt "66||||4"
+msgid "So, what do you need me to do?"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "Oh yeah. The kids will be showing up soon,\r\nso let's start with a performance! Make it fun for them!"
+msgstr ""
+
+msgctxt "68||||4"
+msgid "But, whatever you do, don't under any\r\ncircumstances break character!"
+msgstr ""
+
+msgctxt "69||||4"
+msgid "And what character is that?"
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Ono Michio-kun is an Onomichi-based fisherman who\r\nloves the ocean, so he should be as refined as possible."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "This face, refined?"
+msgstr ""
+
+msgctxt "72||||4"
+msgid "As for your speech mannerisms, you'll need to\r\nuse \"michi\" in your greetings when you can."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "Michi?"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "\"Hello-michi!\" or \"Nice to michi!\"\r\nThings like that."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "Let's give it a little test drive.\r\nNice to michi! And, go!"
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Nice to michi..."
+msgstr ""
+
+msgctxt "77||||4"
+msgid "You're getting the hang of it now!\r\nJust give it some more energy for the event, okay?"
+msgstr ""
+
+msgctxt "78||||4"
+msgid "Next is... the delightful catchphrase\r\nwe have for when you find yourself in trouble."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "In those situations, just say \"Oh no!\""
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Another round of practice! Ready, and..."
+msgstr ""
+
+msgctxt "81||||4"
+msgid "Oh no..."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "Excellent! By the by, the English phrase \"oh no\"\r\nsounds just like the Ono of your name. Cool, huh?"
+msgstr ""
+
+msgctxt "83||||4"
+msgid "I can't imagine anyone who'd think that's cool..."
+msgstr ""
+
+msgctxt "84||||4"
+msgid "One more thing! This is the last one!"
+msgstr ""
+
+msgctxt "85||||4"
+msgid "There's still more? What now...?"
+msgstr ""
+
+msgctxt "86||||4"
+msgid "Ono Michio-kun's charismatic pose!"
+msgstr ""
+
+msgctxt "87||||4"
+msgid "I have to pose?"
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Ono..."
+msgstr ""
+
+msgctxt "89||||4"
+msgid "Michio!"
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Just follow my example!\r\nIt's mostly for when you arrive at and leave events."
+msgstr ""
+
+msgctxt "92||||4"
+msgid "This really isn't for me..."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Come on, don't be such a downer!\r\nJust think of the children!"
+msgstr ""
+
+msgctxt "94||||4"
+msgid "Your turn! Here we go!"
+msgstr ""
+
+msgctxt "95||||4"
+msgid "Ono..."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "Michio!"
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Kiryu-san... That was impeccable!\r\nThere's no doubt. You've really become Ono Michio!"
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Well that's upsetting..."
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Oh! The kids should be just about here!\r\nYou can do it, big guy. Just give it your all!"
+msgstr ""
+
+msgctxt "100||||4"
+msgid "There aren't many rules beyond what I told you,\r\nso just try to relax and you'll be okay!"
+msgstr ""
+
+msgctxt "101||||4"
+msgid "You're cutting me loose, huh?\r\nAnything could happen, you know."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "It'll be fine! You're Ono Michio, Kiryu-san!\r\nAh, here they are! Go for the gold!"
+msgstr ""
+
+msgctxt "103||||4"
+msgid "Whoa, it's Ono Michio!"
+msgstr ""
+
+msgctxt "104||||4"
+msgid "You're right! It's really him!"
+msgstr ""
+
+msgctxt "105||||4"
+msgid "I'm so happy he's here! Yay, Ono Michio-kun!"
+msgstr ""
+
+msgctxt "106||||4"
+msgid "I guess this thing is more popular than I thought.\r\nWell, here goes nothing."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "Hi. I'm Ono Michio."
+msgstr ""
+
+msgctxt "108||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "111||||4"
+msgid "Looks like I need to put a little more energy into it.\r\nNot much choice now."
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Hiya, kiddos! It's me!"
+msgstr ""
+
+msgctxt "113||||4"
+msgid "With my charming hassaku face!"
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Steamy Onomichi ramen hat!"
+msgstr ""
+
+msgctxt "115||||4"
+msgid "Cute fish pouch!"
+msgstr ""
+
+msgctxt "116||||4"
+msgid "Cool boots, vital for any fisherman!"
+msgstr ""
+
+msgctxt "117||||4"
+msgid "And my bold and trendy Ono shirt!\r\nThat's right, I'm the pride of Onomichi..."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "Ono..."
+msgstr ""
+
+msgctxt "119||||4"
+msgid "Michio!"
+msgstr ""
+
+msgctxt "120||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "121||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "122||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "123||||4"
+msgid "If it's fun you want... then bring it on!"
+msgstr ""
+
+msgctxt "124||||4"
+msgid "Man oh man! He's so cool!"
+msgstr ""
+
+msgctxt "125||||4"
+msgid "I'm in love!"
+msgstr ""
+
+msgctxt "126||||4"
+msgid "His voice is amazing!"
+msgstr ""
+
+msgctxt "127||||4"
+msgid "It's all in a day's work."
+msgstr ""
+
+msgctxt "128||||4"
+msgid "All right. I hope you kiddos are ready to play.\r\nNow then!"
+msgstr ""
+
+msgctxt "129||||4"
+msgid "Nice to meet you."
+msgstr ""
+
+msgctxt "130||||4"
+msgid "Huh? Nice to meet you...?"
+msgstr ""
+
+msgctxt "131||||4"
+msgid "R-Right, I remember now."
+msgstr ""
+
+msgctxt "132||||4"
+msgid "Nice to michi!"
+msgstr ""
+
+msgctxt "133||||4"
+msgid "Yay! Nice to michi!"
+msgstr ""
+
+msgctxt "134||||4"
+msgid "Nice to michi!"
+msgstr ""
+
+msgctxt "135||||4"
+msgid "Nice to michi!"
+msgstr ""
+
+msgctxt "136||||4"
+msgid "What a mess.\r\nThis mascot stuff really takes it out of you."
+msgstr ""
+
+msgctxt "138||||4"
+msgid "Michio-kun! Take this!"
+msgstr ""
+
+msgctxt "139||||4"
+msgid "Blam! Pow! Biff! Zap!"
+msgstr ""
+
+msgctxt "140||||4"
+msgid "Take this, and this!"
+msgstr ""
+
+msgctxt "142||||4"
+msgid "These little..."
+msgstr ""
+
+msgctxt "143||||4"
+msgid "You brats are gonna pay for this!"
+msgstr ""
+
+msgctxt "145||||4"
+msgid "I'm so scared... Why won't he say \"oh no\"?"
+msgstr ""
+
+msgctxt "146||||4"
+msgid "So that's what they wanted... Sorry about that."
+msgstr ""
+
+msgctxt "147||||4"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "148||||4"
+msgid "Yippee! He said it, he really said it!"
+msgstr ""
+
+msgctxt "149||||4"
+msgid "Oh no! Oh no!"
+msgstr ""
+
+msgctxt "150||||4"
+msgid "Aha. That's what they were after all along.\r\nI should have realized sooner."
+msgstr ""
+
+msgctxt "151||||4"
+msgid "C'mon! Let's play, Michio-kun!"
+msgstr ""
+
+msgctxt "153||||4"
+msgid "Michio-kun! It's time for the main event!\r\nYour talk show awaits!"
+msgstr ""
+
+msgctxt "154||||4"
+msgid "Talk show...?"
+msgstr ""
+
+msgctxt "155||||4"
+msgid "Yup, you heard me! This is your big moment!\r\nNow scoot on over here!"
+msgstr ""
+
+msgctxt "156||||4"
+msgid "A-All right..."
+msgstr ""
+
+msgctxt "157||||4"
+msgid "Hello there everyone!"
+msgstr ""
+
+msgctxt "158||||4"
+msgid "Hi!"
+msgstr ""
+
+msgctxt "159||||4"
+msgid "Hi!"
+msgstr ""
+
+msgctxt "160||||4"
+msgid "Hi!"
+msgstr ""
+
+msgctxt "161||||4"
+msgid "Hi!"
+msgstr ""
+
+msgctxt "162||||4"
+msgid "Wow, such high energy!"
+msgstr ""
+
+msgctxt "163||||4"
+msgid "I'm glad to see your smiling faces here for\r\nthe Ono Michio-kun talk show! Thanks for coming!"
+msgstr ""
+
+msgctxt "164||||4"
+msgid "Yayyy!"
+msgstr ""
+
+msgctxt "165||||4"
+msgid "Yayyy!"
+msgstr ""
+
+msgctxt "166||||4"
+msgid "Yayyy!"
+msgstr ""
+
+msgctxt "167||||4"
+msgid "Yayyy!"
+msgstr ""
+
+msgctxt "168||||4"
+msgid "Hey, you didn't mention this talk show thing earlier."
+msgstr ""
+
+msgctxt "169||||4"
+msgid "Hmhm? I could've sworn I told you.\r\nBut hey, look how excited the kids are!"
+msgstr ""
+
+msgctxt "170||||4"
+msgid "You can't be serious. I have no idea\r\nhow Ono Michio-kun is supposed to talk."
+msgstr ""
+
+msgctxt "171||||4"
+msgid "It'll be fine! Just make something up\r\nif you don't know the answer. You can do it!"
+msgstr ""
+
+msgctxt "172||||4"
+msgid "Well, I'm out of here!\r\nGood luck with the talk show!"
+msgstr ""
+
+msgctxt "173||||4"
+msgid "Dammit... I won't forget this."
+msgstr ""
+
+msgctxt "174||||4"
+msgid "Here's the one you've all been waiting for!\r\nThe pride and joy of this town, Ono Michio-kun!"
+msgstr ""
+
+msgctxt "175||||4"
+msgid "Michio-kun!"
+msgstr ""
+
+msgctxt "176||||4"
+msgid "Michio-kun!"
+msgstr ""
+
+msgctxt "177||||4"
+msgid "Michio-kun!"
+msgstr ""
+
+msgctxt "178||||4"
+msgid "Michio-kun!"
+msgstr ""
+
+msgctxt "179||||4"
+msgid "Hm... Nice to michi!"
+msgstr ""
+
+msgctxt "180||||4"
+msgid "Now everyone, let's see what kind of questions\r\nyou have for our beloved Ono Michio-kun!"
+msgstr ""
+
+msgctxt "181||||4"
+msgid "Who wants to go first?"
+msgstr ""
+
+msgctxt "182||||4"
+msgid "Me, pick me!"
+msgstr ""
+
+msgctxt "183||||4"
+msgid "Me, pick me!"
+msgstr ""
+
+msgctxt "184||||4"
+msgid "Me, pick me!"
+msgstr ""
+
+msgctxt "185||||4"
+msgid "Me, pick me!"
+msgstr ""
+
+msgctxt "186||||4"
+msgid "Let's see... You!"
+msgstr ""
+
+msgctxt "187||||4"
+msgid "Um, can I ask you anything?"
+msgstr ""
+
+msgctxt "188||||4"
+msgid "Of course. Show me what you got."
+msgstr ""
+
+msgctxt "189||||4"
+msgid "Then, um... what's your favorite food, Michio-kun?"
+msgstr ""
+
+msgctxt "190||||4"
+msgid "That's an excellent question!\r\nI'm dying to know, too! Well, Michio-kun?"
+msgstr ""
+
+msgctxt "191||||4"
+msgid "My favorite food, huh?"
+msgstr ""
+
+msgctxt "192||||4"
+msgid "I love things I can enjoy with a nice cold sake.\r\nCucumber salad is my go-to drinking food."
+msgstr ""
+
+msgctxt "193||||4"
+msgid "Cucumber... salad...?"
+msgstr ""
+
+msgctxt "194||||4"
+msgid "M-Michio-kun, you have such a refined palate."
+msgstr ""
+
+msgctxt "195||||4"
+msgid "Shoot, I messed up.\r\nThat was a lie! My real favorite is..."
+msgstr ""
+
+msgctxt "196||||4"
+msgid "I eat everything... but nothing satisfies\r\nme quite like a sexy woman."
+msgstr ""
+
+msgctxt "197||||4"
+msgid "Just kidding."
+msgstr ""
+
+msgctxt "198||||4"
+msgid "Sexy...?"
+msgstr ""
+
+msgctxt "199||||4"
+msgid "M-Michio-kun!"
+msgstr ""
+
+msgctxt "200||||4"
+msgid "Shoot, I messed up.\r\nThat was a joke! My real favorite is..."
+msgstr ""
+
+msgctxt "201||||4"
+msgid "Onomichi ramen-michi!"
+msgstr ""
+
+msgctxt "202||||4"
+msgid "Yayyy, I knew that was gonna be it!\r\nI can't get enough Onomichi ramen!"
+msgstr ""
+
+msgctxt "203||||4"
+msgid "What an answer!"
+msgstr ""
+
+msgctxt "204||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "205||||4"
+msgid "All right... who wants to be next?"
+msgstr ""
+
+msgctxt "206||||4"
+msgid "Me! Please, pick me!"
+msgstr ""
+
+msgctxt "207||||4"
+msgid "Me! Please, pick me!"
+msgstr ""
+
+msgctxt "208||||4"
+msgid "Me! Please, pick me!"
+msgstr ""
+
+msgctxt "209||||4"
+msgid "Me! Please, pick me!"
+msgstr ""
+
+msgctxt "210||||4"
+msgid "Okay, you over there!"
+msgstr ""
+
+msgctxt "211||||4"
+msgid "Um... Someday, I hope I can get\r\nmarried to you, Michio-kun!"
+msgstr ""
+
+msgctxt "212||||4"
+msgid "Awww yeah!"
+msgstr ""
+
+msgctxt "213||||4"
+msgid "Awww yeah!"
+msgstr ""
+
+msgctxt "214||||4"
+msgid "Awww yeah!"
+msgstr ""
+
+msgctxt "215||||4"
+msgid "Michio-kun... Do you have a girlfriend?"
+msgstr ""
+
+msgctxt "216||||4"
+msgid "Ah, a young lady caught in the throes of love!\r\nWhat's your answer, Michio-kun?"
+msgstr ""
+
+msgctxt "217||||4"
+msgid "She wants to know if I'm dating anyone...\r\nThis is awkward. What should I say...?"
+msgstr ""
+
+msgctxt "218||||4"
+msgid "I'm not involved with anyone right now...\r\nbut there was someone I set my heart on long ago."
+msgstr ""
+
+msgctxt "219||||4"
+msgid "I don't think I'll ever see her again."
+msgstr ""
+
+msgctxt "220||||4"
+msgid "If only I had been a little smarter back then...\r\nMaybe things would have been different."
+msgstr ""
+
+msgctxt "221||||4"
+msgid "Every now and again, I regret that day.\r\nLife doesn't give you do-overs, though."
+msgstr ""
+
+msgctxt "222||||4"
+msgid "U-Um..."
+msgstr ""
+
+msgctxt "223||||4"
+msgid "M-Michio-kun!"
+msgstr ""
+
+msgctxt "224||||4"
+msgid "Huh? Sh-Shoot, I messed up.\r\nWhat was it...? Oh yeah, I remember now!"
+msgstr ""
+
+msgctxt "225||||4"
+msgid "I'm the purest mascot in town.\r\nLove would only tarnish my sparkly clean image."
+msgstr ""
+
+msgctxt "226||||4"
+msgid "From the day of my birth... I've remained a virgin."
+msgstr ""
+
+msgctxt "227||||4"
+msgid "Virgin...?"
+msgstr ""
+
+msgctxt "228||||4"
+msgid "M-Michio-kun!"
+msgstr ""
+
+msgctxt "229||||4"
+msgid "Huh? Sh-Shoot, I messed up.\r\nThat was just a joke, kiddos!"
+msgstr ""
+
+msgctxt "230||||4"
+msgid "What was it...? Oh yeah, I remember now!"
+msgstr ""
+
+msgctxt "231||||4"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "232||||4"
+msgid "Ah! There's Ono Michio-kun's trademark \"oh no\"!\r\nThings have really gone sour for this orange!"
+msgstr ""
+
+msgctxt "237||||4"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "238||||4"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "239||||4"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "241||||4"
+msgid "I dodged a bullet there."
+msgstr ""
+
+msgctxt "242||||4"
+msgid "Okay! On to our next question."
+msgstr ""
+
+msgctxt "243||||4"
+msgid "Hey! Shut the hell up!"
+msgstr ""
+
+msgctxt "244||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "245||||4"
+msgid "What in the...? Who are you?"
+msgstr ""
+
+msgctxt "246||||4"
+msgid "Yer way too freakin' loud! I've had enough o'\r\nall these kids screamin' n' laughin' over here!"
+msgstr ""
+
+msgctxt "247||||4"
+msgid "This place's ours, y'know.\r\nWe didn't say ya could hang 'round here!"
+msgstr ""
+
+msgctxt "248||||4"
+msgid "So scary..."
+msgstr ""
+
+msgctxt "249||||4"
+msgid "Who are these guys...?"
+msgstr ""
+
+msgctxt "250||||4"
+msgid "I'm so scared..."
+msgstr ""
+
+msgctxt "252||||4"
+msgid "Can't you see you're scaring the children?\r\nThat's enough!"
+msgstr ""
+
+msgctxt "253||||4"
+msgid "Little shits.\r\nY'wanna see somethin' real scary, huh!?"
+msgstr ""
+
+msgctxt "257||||4"
+msgid "Somebody help..."
+msgstr ""
+
+msgctxt "258||||4"
+msgid "Hey."
+msgstr ""
+
+msgctxt "259||||4"
+msgid "Huh? Y'lookin' fer trouble?\r\nStay outta this, mascot."
+msgstr ""
+
+msgctxt "260||||4"
+msgid "Is that ramen on yer head?\r\nLame shit like that ain't ever gonna be cool!"
+msgstr ""
+
+msgctxt "261||||4"
+msgid "I can't disagree with you there. But making kids\r\ncry for no damn reason is far lamer than my hat."
+msgstr ""
+
+msgctxt "262||||4"
+msgid "Huh? What was 'at?"
+msgstr ""
+
+msgctxt "263||||4"
+msgid "Is this dopey shit gonna fight us?"
+msgstr ""
+
+msgctxt "264||||4"
+msgid "I might be dopey... but even dopes know\r\nwhen to take out the trash. Let's do this."
+msgstr ""
+
+msgctxt "265||||4"
+msgid "Yer funny, guy.\r\nC'mon! Let's wreck this mascot fuck!"
+msgstr ""
+
+msgctxt "266||||4"
+msgid "So... strong..."
+msgstr ""
+
+msgctxt "267||||4"
+msgid "What's yer deal, mascot?"
+msgstr ""
+
+msgctxt "268||||4"
+msgid "There's only one thing you need to know.\r\nI'm the hero of Onomichi... Ono Michio."
+msgstr ""
+
+msgctxt "269||||4"
+msgid "Ono Michio...? Why're ya so tough, though?\r\nI jus' don't get it..."
+msgstr ""
+
+msgctxt "270||||4"
+msgid "You chose the wrong mascot to pick a fight with."
+msgstr ""
+
+msgctxt "271||||4"
+msgid "If you ever make another kid cry,\r\nI will end you."
+msgstr ""
+
+msgctxt "272||||4"
+msgid "Now then, get the hell out of here!"
+msgstr ""
+
+msgctxt "274||||4"
+msgid "W-We're so sorry!"
+msgstr ""
+
+msgctxt "275||||4"
+msgid "And don't come back."
+msgstr ""
+
+msgctxt "276||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "277||||4"
+msgid "......"
+msgstr ""
+
+msgctxt "278||||4"
+msgid "O-Oh, uhhh... Ono Michio is a great fighter."
+msgstr ""
+
+msgctxt "279||||4"
+msgid "...You're incredible!"
+msgstr ""
+
+msgctxt "280||||4"
+msgid "So cool..."
+msgstr ""
+
+msgctxt "281||||4"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "282||||4"
+msgid "That was like the coolest thing ever, Michio-kun!"
+msgstr ""
+
+msgctxt "283||||4"
+msgid "Yeah, you really showed 'em!\r\nMichio-kun's strong!"
+msgstr ""
+
+msgctxt "284||||4"
+msgid "Thank you for keeping us safe, Michio-kun!"
+msgstr ""
+
+msgctxt "285||||4"
+msgid "You're amazing... <symbol=heart_with_outline>"
+msgstr ""
+
+msgctxt "286||||4"
+msgid "O-Oh."
+msgstr ""
+
+msgctxt "287||||4"
+msgid "Thank you so much.\r\nYou saved the whole event!"
+msgstr ""
+
+msgctxt "288||||4"
+msgid "Michio-kun's more than just a mascot now.\r\nHe's a superhero who keeps this town safe!"
+msgstr ""
+
+msgctxt "289||||4"
+msgid "Anyone would have done that. To be honest,\r\nI'm nothing special. I'm just a regular mascot."
+msgstr ""
+
+msgctxt "290||||4"
+msgid "Come on, let's show Michio-kun how we feel!\r\nReady, and..."
+msgstr ""
+
+msgctxt "291||||4"
+msgid "Thank you so michi!"
+msgstr ""
+
+msgctxt "292||||4"
+msgid "Thank you so michi!"
+msgstr ""
+
+msgctxt "293||||4"
+msgid "Thank you so michi!"
+msgstr ""
+
+msgctxt "294||||4"
+msgid "Thank you so michi!"
+msgstr ""
+
+msgctxt "295||||4"
+msgid "You're welcome-michi."
+msgstr ""
+
+msgctxt "296||||4"
+msgid "And to close things out,\r\nlet's hear from our beloved Michio-kun!"
+msgstr ""
+
+msgctxt "297||||4"
+msgid "Sounds good to me. Let's go!"
+msgstr ""
+
+msgctxt "298||||4"
+msgid "With my charming hassaku face!"
+msgstr ""
+
+msgctxt "299||||4"
+msgid "Steamy Onomichi ramen hat!"
+msgstr ""
+
+msgctxt "300||||4"
+msgid "Cute fish pouch!"
+msgstr ""
+
+msgctxt "301||||4"
+msgid "Cool boots, vital for any fisherman!"
+msgstr ""
+
+msgctxt "302||||4"
+msgid "And my bold and trendy Ono shirt!\r\nThat's right, I'm the pride of Onomichi..."
+msgstr ""
+
+msgctxt "303||||4"
+msgid "Ono..."
+msgstr ""
+
+msgctxt "304||||4"
+msgid "Michio!"
+msgstr ""
+
+msgctxt "305||||4"
+msgid "Michio-kun!"
+msgstr ""
+
+msgctxt "306||||4"
+msgid "Yayyy, Michio-kun!"
+msgstr ""
+
+msgctxt "307||||4"
+msgid "You're the coolest!"
+msgstr ""
+
+msgctxt "308||||4"
+msgid "Michio-kun!"
+msgstr ""
+
+msgctxt "309||||4"
+msgid "Man, you really did me a solid back there!\r\nThe event went off without a hitch thanks to you!"
+msgstr ""
+
+msgctxt "310||||4"
+msgid "Thankfully. It wasn't as smooth as you say, though."
+msgstr ""
+
+msgctxt "311||||4"
+msgid "My own personality came through a bit.\r\nWas it really okay?"
+msgstr ""
+
+msgctxt "312||||4"
+msgid "Yes! Your psyche fused with Michio-kun's\r\nand really enhanced his depth of character!"
+msgstr ""
+
+msgctxt "313||||4"
+msgid "By the way, we were streaming the event\r\non our website. It got <font_kind=yakuza_italic>tons</font_kind> of viewers!"
+msgstr ""
+
+msgctxt "314||||4"
+msgid "Michio-kun's gonna be hella popular now!"
+msgstr ""
+
+msgctxt "315||||4"
+msgid "Huh. I guess that's good."
+msgstr ""
+
+msgctxt "316||||4"
+msgid "It is! Anyway, here's your payment.\r\nThanks again!"
+msgstr ""
+
+msgctxt "317||||4"
+msgid "You know, it wasn't so bad.\r\nThis was a pretty valuable life experience."
+msgstr ""
+
+msgctxt "318||||4"
+msgid "Things are gonna be super busy now, by the way!\r\nWell Kiryu-san, I can't wait until next time!"
+msgstr ""
+
+msgctxt "319||||4"
+msgid "Seeya!"
+msgstr ""
+
+msgctxt "320||||4"
+msgid "Yeah, I'll see you."
+msgstr ""
+
+msgctxt "321||||4"
+msgid "...Hm?"
+msgstr ""
+
+msgctxt "322||||4"
+msgid "Next time?"
+msgstr ""
+
+msgctxt "323||||4"
+msgid "Ono..."
+msgstr ""
+
+msgctxt "324||||4"
+msgid "Michio!"
+msgstr ""
+

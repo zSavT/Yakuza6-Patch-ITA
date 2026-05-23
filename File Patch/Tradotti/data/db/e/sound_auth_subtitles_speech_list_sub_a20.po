@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hello, sir.\r\nYou have quite a knack for this."
+msgstr "Salve, signore.\r\nHa un bel talento per questo."
+
+msgctxt "1||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "2||||4"
+msgid "Who are you?"
+msgstr "Chi sei?"
+
+msgctxt "3||||4"
+msgid "I'm the general manager of this\r\nbatting center. The name's Yoshida."
+msgstr "Sono il direttore generale di queste\r\ngabbie di battuta. Mi chiamo Yoshida."
+
+msgctxt "4||||4"
+msgid "<font_kind=yakuza_italic>You're</font_kind> Yoshida?"
+msgstr "<font_kind=yakuza_italic>Tu</font_kind> sei Yoshida?"
+
+msgctxt "5||||4"
+msgid "Yes, sir. My father was the original manager,\r\nbut I've taken over in his stead recently."
+msgstr "Sì, signore. Mio padre era il direttore originale,\r\nma di recente ho preso il suo posto."
+
+msgctxt "6||||4"
+msgid "By the way, I must thank you for such\r\nfervent devotion to our challenge courses."
+msgstr "A proposito, devo ringraziarla per la sua fervente\r\ndedizione ai nostri percorsi sfida."
+
+msgctxt "7||||4"
+msgid "So, how are they? We take great pride\r\nin the challenges we offer here."
+msgstr "Allora, come le sembrano? Andiamo molto fieri\r\ndelle sfide che offriamo qui."
+
+msgctxt "8||||4"
+msgid "Hm? Let me think..."
+msgstr "Mh? Fammi pensare..."
+
+msgctxt "9||||4"
+msgid "Well, they're actually pretty fun."
+msgstr "Beh, in realtà sono piuttosto divertenti."
+
+msgctxt "10||||4"
+msgid "I'm glad to hear that, sir!"
+msgstr "Sono felice di sentirlo, signore!"
+
+msgctxt "11||||4"
+msgid "Honestly, they're boring."
+msgstr "Onestamente, sono noiosi."
+
+msgctxt "12||||4"
+msgid "Oh... Sorry, sir."
+msgstr "Oh... Mi scusi, signore."
+
+msgctxt "13||||4"
+msgid "Don't you think they're kinda too easy?"
+msgstr "Non pensi che siano un po' troppo facili?"
+
+msgctxt "14||||4"
+msgid "That's not true of the latter half.\r\nThey'll knock <font_kind=yakuza_italic>anyone's</font_kind> socks off."
+msgstr "Questo non vale per la seconda metà.\r\nLasceranno <font_kind=yakuza_italic>chiunque</font_kind> a bocca aperta."
+
+msgctxt "15||||4"
+msgid "They're way too hard right now."
+msgstr "Al momento sono fin troppo difficili."
+
+msgctxt "16||||4"
+msgid "Huh?\r\nAre you sure...?"
+msgstr "Eh?\r\nNe è sicuro...?"
+
+msgctxt "17||||4"
+msgid "Regardless, these challenge courses are my life.\r\nThey're going to help me achieve my dream."
+msgstr "A prescindere da questo, i percorsi sfida sono la mia vita.\r\nMi aiuteranno a realizzare il mio sogno."
+
+msgctxt "18||||4"
+msgid "Excuse me?"
+msgstr "Cosa intendi?"
+
+msgctxt "19||||4"
+msgid "That's right, sir. It may sound strange,\r\nbut I want to bring rise to the world's best batter!"
+msgstr "Proprio così, signore. Può sembrare strano,\r\nma voglio dare vita al miglior battitore del mondo!"
+
+msgctxt "20||||4"
+msgid "According to my calculations, clearing\r\neach and every challenge will help greatly."
+msgstr "Secondo i miei calcoli, superare ogni\r\nsingola sfida sarà di grande aiuto."
+
+msgctxt "21||||4"
+msgid "Only then can someone truly become\r\nthe number one batting phenomenon!"
+msgstr "Solo allora qualcuno potrà davvero diventare\r\nil fenomeno della battuta numero uno!"
+
+msgctxt "22||||4"
+msgid "Uh-huh..."
+msgstr "Uh-huh..."
+
+msgctxt "23||||4"
+msgid "Unfortunately, all my other customers only\r\nhave eyes for the simpler home run challenges."
+msgstr "Sfortunatamente, tutti gli altri clienti hanno occhi\r\nsolo per le più semplici sfide dei fuoricampo."
+
+msgctxt "24||||4"
+msgid "That's why seeing you play the challenge courses\r\nis so exciting! It really sets my heart aflutter."
+msgstr "Ecco perché vederla affrontare i percorsi sfida è\r\ncosì emozionante! Mi fa davvero battere forte il cuore."
+
+msgctxt "25||||4"
+msgid "Interesting.\r\nAnd how'd you arrive at this dream?"
+msgstr "Interessante.\r\nE come sei arrivato a questo sogno?"
+
+msgctxt "26||||4"
+msgid "I actually used to play baseball myself.\r\nMy colleagues always called me the data guy."
+msgstr "In realtà, io stesso giocavo a baseball.\r\nI miei colleghi mi chiamavano sempre 'l'uomo dei dati'."
+
+msgctxt "27||||4"
+msgid "With my advanced simulation abilities,\r\nI managed to develop into a pretty excellent catcher."
+msgstr "Grazie alle mie abilità di simulazione avanzata,\r\nsono riuscito a diventare un ricevitore piuttosto eccellente."
+
+msgctxt "28||||4"
+msgid "But one day, I had a thought."
+msgstr "Ma un giorno, ho avuto un'illuminazione."
+
+msgctxt "29||||4"
+msgid "What if there was a way to use my logical disposition\r\nand baseball knowledge to benefit the sport as a whole?"
+msgstr "E se ci fosse un modo per usare la mia predisposizione logica e le\r\nmie conoscenze per dare un beneficio al baseball nel suo insieme?"
+
+msgctxt "30||||4"
+msgid "I get it now.\r\nThat's why you made these challenge courses."
+msgstr "Ora capisco.\r\nÈ per questo che hai creato i percorsi sfida."
+
+msgctxt "31||||4"
+msgid "Exactly! I want to make the world's next great slugger!\r\nAn admirable dream, isn't it?"
+msgstr "Esatto! Voglio creare il prossimo grande battitore del mondo!\r\nUn sogno ammirevole, non trova?"
+
+msgctxt "32||||4"
+msgid "I guess.\r\nI hope it works out for you."
+msgstr "Suppongo di sì.\r\nSpero che le cose ti vadano per il verso giusto."
+
+msgctxt "33||||4"
+msgid "Thanks! Oh, that's right!\r\nI actually just finished a new trial course yesterday!"
+msgstr "Grazie! Oh, a proposito!\r\nIn realtà ho appena finito un nuovo percorso di prova ieri!"
+
+msgctxt "34||||4"
+msgid "If it's all right with you,\r\nwould you mind giving it a shot, sir?"
+msgstr "Se per lei non è un problema,\r\nle dispiacerebbe fare un tentativo, signore?"
+
+msgctxt "35||||4"
+msgid "Me?"
+msgstr "Io?"
+
+msgctxt "36||||4"
+msgid "That's right. Before I set it loose on the public,\r\nI want to see just how tough it really is."
+msgstr "Esatto. Prima di aprirlo al pubblico,\r\nvoglio vedere quanto sia effettivamente difficile."
+
+msgctxt "37||||4"
+msgid "Let me get this straight.\r\nYou want me to be your guinea pig?"
+msgstr "Fammi capire bene.\r\nVuoi che ti faccia da cavia?"
+
+msgctxt "38||||4"
+msgid "That's not an elegant way to put it,\r\nbut roughly that, yeah!"
+msgstr "Non è un modo molto elegante per dirlo,\r\nma all'incirca sì!"
+
+msgctxt "39||||4"
+msgid "Hm... Sounds like a hassle."
+msgstr "Mh... Sembra una seccatura."
+
+msgctxt "40||||4"
+msgid "Huh!? Don't be so harsh, sir!"
+msgstr "Eh!? Non sia così severo, signore!"
+
+msgctxt "41||||4"
+msgid "Nobody else has ever tried the challenge courses\r\nmore than once. I need <font_kind=yakuza_italic>you</font_kind>, sir!"
+msgstr "Nessun altro ha mai provato i percorsi sfida\r\npiù di una volta. Ho bisogno di <font_kind=yakuza_italic>lei</font_kind>, signore!"
+
+msgctxt "42||||4"
+msgid "These things are really unpopular, huh?"
+msgstr "Queste cose sono davvero impopolari, eh?"
+
+msgctxt "43||||4"
+msgid "I'm begging you! If you manage to clear my challenge,\r\nI'll do anything you ask of me, sir!"
+msgstr "La prego! Se riuscirà a superare la mia sfida,\r\nfarò qualsiasi cosa mi chiederà, signore!"
+
+msgctxt "44||||4"
+msgid "Anything?"
+msgstr "Qualsiasi cosa?"
+
+msgctxt "45||||4"
+msgid "Yes! I promise!"
+msgstr "Sì! Lo prometto!"
+
+msgctxt "46||||4"
+msgid "Oh, and you should know, you'll need to hit five\r\nhome runs in a row for this course. That's the goal."
+msgstr "Oh, e sappia che per questo percorso dovrà battere\r\ncinque fuoricampo di fila. Quello è l'obiettivo."
+
+msgctxt "47||||4"
+msgid "I have complete faith in you, sir."
+msgstr "Ho totale fiducia in lei, signore."
+
+msgctxt "48||||4"
+msgid "All right, then."
+msgstr "D'accordo, allora."
+
+msgctxt "49||||4"
+msgid "Thank you so much, sir!\r\nI wish you the absolute best of luck."
+msgstr "La ringrazio molto, signore!\r\nLe auguro tutta la fortuna del mondo."
+
+msgctxt "50||||4"
+msgid "Sorry, I'm not interested."
+msgstr "Scusa, non mi interessa."
+
+msgctxt "51||||4"
+msgid "N-No..."
+msgstr "N-No..."
+
+msgctxt "52||||4"
+msgid "If you ever happen to reconsider,\r\nplease let me know right away, sir."
+msgstr "Se mai dovesse ripensarci,\r\nme lo faccia sapere immediatamente, signore."
+
+msgctxt "53||||4"
+msgid "Ah! Hello, sir.\r\nWould you like to try my trial challenge?"
+msgstr "Ah! Salve, signore.\r\nLe andrebbe di provare la mia sfida di prova?"
+
+msgctxt "54||||4"
+msgid "(Yoshida <font_kind=yakuza_italic>did</font_kind> say he'd do anything\r\nI ask if I managed to clear his trial...)"
+msgstr "(Yoshida <font_kind=yakuza_italic>ha</font_kind> detto che farà qualsiasi\r\ncosa io chieda se riesco a superare la sua prova...)"
+
+msgctxt "55||||4"
+msgid "Aw...\r\nThat was a nice try, sir."
+msgstr "Aw...\r\nÈ stato un buon tentativo, signore."
+
+msgctxt "57||||4"
+msgid "Please come again if you're ever\r\nfeeling up to the challenge!"
+msgstr "Torni ancora se mai\r\nse la sentirà di riprovare la sfida!"
+
+msgctxt "58||||4"
+msgid "Ohhh!\r\nThat was incredible, sir!"
+msgstr "Ohhh!\r\nÈ stato incredibile, signore!"
+
+msgctxt "60||||4"
+msgid "Hm... This data should prove truly invaluable!\r\nI can't thank you enough!"
+msgstr "Mh... Questi dati si riveleranno davvero preziosi!\r\nNon so come ringraziarla!"
+
+msgctxt "61||||4"
+msgid "And in return, as promised,\r\nI'll do anything you ask of me."
+msgstr "E in cambio, come promesso,\r\nfarò tutto ciò che mi chiederà."
+
+msgctxt "62||||4"
+msgid "Oh, I almost forgot.\r\nI'm not sure what to ask for, though."
+msgstr "Oh, quasi dimenticavo.\r\nNon sono sicuro di cosa chiederti, però."
+
+msgctxt "63||||4"
+msgid "Is there anything you want?\r\nJust tell me what it is."
+msgstr "C'è qualcosa che desidera?\r\nMi dica semplicemente di cosa si tratta."
+
+msgctxt "64||||4"
+msgid "Hmm, this is tough.\r\nLet me see..."
+msgstr "Uhm, è difficile.\r\nFammi pensare..."
+
+msgctxt "65||||4"
+msgid "I want everything you own."
+msgstr "Voglio tutto ciò che possiedi."
+
+msgctxt "66||||4"
+msgid "Huh!? I-I can't do that!\r\nI wouldn't last a day without my stuff!"
+msgstr "Eh!? N-Non posso farlo!\r\nNon resisterei un giorno senza le mie cose!"
+
+msgctxt "67||||4"
+msgid "What was that? You said you'd do <font_kind=yakuza_italic>anything</font_kind>."
+msgstr "Come scusa? Hai detto che avresti fatto <font_kind=yakuza_italic>qualsiasi cosa</font_kind>."
+
+msgctxt "68||||4"
+msgid "You're giving off a serious yakuza vibe right now, sir.\r\nPlease keep it a little more reasonable..."
+msgstr "In questo momento emana una forte aura da yakuza, signore.\r\nLa prego di mantenersi un po' più sul ragionevole..."
+
+msgctxt "69||||4"
+msgid "Ugh, fine.\r\nIn that case..."
+msgstr "Ugh, d'accordo.\r\nIn tal caso..."
+
+msgctxt "70||||4"
+msgid "Be my friend."
+msgstr "Sii mio amico."
+
+msgctxt "71||||4"
+msgid "Huh? Your friend?\r\nI think I can manage that, sir."
+msgstr "Eh? Suo amico?\r\nCredo di potercela fare, signore."
+
+msgctxt "72||||4"
+msgid "Ah, hold on a second.\r\nWill I be your first friend in this fine city?"
+msgstr "Ah, un momento.\r\nSarò il suo primo amico in questa bella città?"
+
+msgctxt "73||||4"
+msgid "N-No, it's nothing like that."
+msgstr "N-No, niente del genere."
+
+msgctxt "74||||4"
+msgid "I have to wonder, though.\r\nWhat does being your friend entail?"
+msgstr "Però mi viene da chiedermi.\r\nCosa comporta l'essere suo amico?"
+
+msgctxt "75||||4"
+msgid "Do you like to spend time with friends on your days off?\r\nActually, what do you do in your free time, sir?"
+msgstr "Le piace passare il tempo con gli amici nei suoi giorni liberi?\r\nAnzi, cosa fa nel suo tempo libero, signore?"
+
+msgctxt "76||||4"
+msgid "Good question. It's usually a variety of things.\r\nHanging around in bars, playing baseball..."
+msgstr "Ottima domanda. Di solito una serie di cose.\r\nBazzicare nei bar, giocare a baseball..."
+
+msgctxt "77||||4"
+msgid "Sir! You're on a baseball team!?"
+msgstr "Signore! Lei è in una squadra di baseball!?"
+
+msgctxt "78||||4"
+msgid "Hm? Yeah."
+msgstr "Mh? Sì."
+
+msgctxt "79||||4"
+msgid "That's incredible. As I think you can tell based\r\non my profession, I absolutely adore baseball."
+msgstr "È incredibile. Come penso possa intuire dalla\r\nmia professione, adoro letteralmente il baseball."
+
+msgctxt "80||||4"
+msgid "I've wanted to join a pick-up team for a while."
+msgstr "È da un po' che desidero unirmi a una squadra amatoriale."
+
+msgctxt "81||||4"
+msgid "Hm, is that so?"
+msgstr "Mh, davvero?"
+
+msgctxt "82||||4"
+msgid "Yeah! You know, playing sports with your friends\r\nis a great way to get closer to them!"
+msgstr "Sì! Sa, praticare sport con gli amici\r\nè un ottimo modo per avvicinarsi a loro!"
+
+msgctxt "83||||4"
+msgid "In that case, why don't you come join my team?\r\nWe could really use another fresh face."
+msgstr "In quel caso, perché non ti unisci alla mia squadra?\r\nCi farebbe davvero comodo un volto nuovo."
+
+msgctxt "84||||4"
+msgid "Of course! I'd love to!"
+msgstr "Certo! Mi piacerebbe moltissimo!"
+
+msgctxt "85||||4"
+msgid "I just remembered,\r\nyou used to play baseball, right?"
+msgstr "Mi sono appena ricordato,\r\ntu giocavi a baseball, vero?"
+
+msgctxt "86||||4"
+msgid "Huh? Yes, sir. I did."
+msgstr "Eh? Sì, signore. Esatto."
+
+msgctxt "87||||4"
+msgid "Great.\r\nI want you to join my team."
+msgstr "Ottimo.\r\nVoglio che ti unisca alla mia squadra."
+
+msgctxt "88||||4"
+msgid "Huh? You really want <font_kind=yakuza_italic>me</font_kind>, sir?"
+msgstr "Eh? Vuole davvero <font_kind=yakuza_italic>me</font_kind>, signore?"
+
+msgctxt "89||||4"
+msgid "Yeah.\r\nWe could really use another fresh face."
+msgstr "Sì.\r\nCi farebbe davvero comodo un volto nuovo."
+
+msgctxt "90||||4"
+msgid "All right, then.\r\nIf you insist, sir."
+msgstr "D'accordo, allora.\r\nSe insiste, signore."
+
+msgctxt "91||||4"
+msgid "By the way, what's the team called?"
+msgstr "A proposito, come si chiama la squadra?"
+
+msgctxt "92||||4"
+msgid "We're the Setouchi Warriors."
+msgstr "Siamo i Setouchi Warriors."
+
+msgctxt "93||||4"
+msgid "Hm? Setouchi...?"
+msgstr "Mh? Setouchi...?"
+
+msgctxt "94||||4"
+msgid "That's right.\r\nWe're based in Onomichi, down in Hiroshima."
+msgstr "Esatto.\r\nAbbiamo base a Onomichi, giù a Hiroshima."
+
+msgctxt "95||||4"
+msgid "H-Hiroshima!?\r\nYou mean it's not in Tokyo!?"
+msgstr "H-Hiroshima!?\r\nVuol dire che non è a Tokyo!?"
+
+msgctxt "96||||4"
+msgid "Nope! Didn't I mention that?"
+msgstr "No! Non l'avevo detto?"
+
+msgctxt "97||||4"
+msgid "Y-You definitely didn't..."
+msgstr "N-Non l'ha decisamente fatto..."
+
+msgctxt "98||||4"
+msgid "Damn. So you can't do it, then."
+msgstr "Accidenti. Quindi non puoi farlo, allora."
+
+msgctxt "99||||4"
+msgid "Hmmm..."
+msgstr "Uhm..."
+
+msgctxt "100||||4"
+msgid "No, I said I'd do anything you asked.\r\nI'll join your team, sir!"
+msgstr "No, ho detto che avrei fatto qualsiasi cosa chiedesse.\r\nMi unirò alla sua squadra, signore!"
+
+msgctxt "101||||4"
+msgid "Oh, really?"
+msgstr "Oh, davvero?"
+
+msgctxt "102||||4"
+msgid "Yes! It shouldn't cost too much\r\nto take a night bus down for games!"
+msgstr "Sì! Non dovrebbe costare troppo\r\nprendere un bus notturno per le partite!"
+
+msgctxt "103||||4"
+msgid "Oh, I almost forgot to ask you your name, sir."
+msgstr "Oh, ho quasi dimenticato di chiederle il nome, signore."
+
+msgctxt "104||||4"
+msgid "If we're going to be teammates,\r\nwe should at least address each other properly."
+msgstr "Se diventeremo compagni di squadra,\r\ndovremmo perlomeno rivolgerci l'un l'altro in modo appropriato."
+
+msgctxt "105||||4"
+msgid "Agreed. The name's Kiryu.\r\nI'm the captain of the Warriors."
+msgstr "D'accordo. Il mio nome è Kiryu.\r\nSono il capitano dei Warriors."
+
+msgctxt "106||||4"
+msgid "Wonderful. I can't wait to get out\r\non the diamond with you, Captain Kiryu!"
+msgstr "Meraviglioso. Non vedo l'ora di scendere in\r\ncampo con lei, Capitano Kiryu!"
+
+msgctxt "107||||4"
+msgid "Yeah, likewise."
+msgstr "Sì, lo stesso vale per me."

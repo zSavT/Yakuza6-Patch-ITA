@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Hm? What the..."
+msgstr ""
+
+msgctxt "1||||4"
+msgid "Whoa. Those are <font_kind=yakuza_italic>huge</font_kind>!"
+msgstr ""
+
+msgctxt "2||||4"
+msgid "Aren't they amazing?\r\nPulled fresh out of the sea today."
+msgstr ""
+
+msgctxt "3||||4"
+msgid "Really?\r\nWait, did you catch these?"
+msgstr ""
+
+msgctxt "4||||4"
+msgid "'Course not!\r\nYou've got him to thank for that."
+msgstr ""
+
+msgctxt "5||||4"
+msgid "Isao-san, this is a great haul!"
+msgstr ""
+
+msgctxt "6||||4"
+msgid "Darn tootin'."
+msgstr ""
+
+msgctxt "7||||4"
+msgid "Been ages since I caught somethin' this nice.\r\nHow 'bout we celebrate with drinks n' sashimi?"
+msgstr ""
+
+msgctxt "8||||4"
+msgid "That sounds fantastic!\r\nI can prep it!"
+msgstr ""
+
+msgctxt "9||||4"
+msgid "Huh? Who're you?"
+msgstr ""
+
+msgctxt "10||||4"
+msgid "Just a passerby.\r\nDon't mind me."
+msgstr ""
+
+msgctxt "11||||4"
+msgid "These fish really lured me in, though.\r\nThey're incredible."
+msgstr ""
+
+msgctxt "12||||4"
+msgid "That's nice of ya t'say."
+msgstr ""
+
+msgctxt "13||||4"
+msgid "I know, why don't y'join us?\r\nDrinks n' sashimi on me!"
+msgstr ""
+
+msgctxt "14||||4"
+msgid "I'm invited, too? But..."
+msgstr ""
+
+msgctxt "15||||4"
+msgid "C'mon, don't go bein' shy on me now.\r\nWe ain't ever gonna eat this all on our own."
+msgstr ""
+
+msgctxt "16||||4"
+msgid "He's got a point. We have tons of fish\r\nto go around, so you might as well join!"
+msgstr ""
+
+msgctxt "17||||4"
+msgid "You sure?\r\nAll right, I'll take you up on that."
+msgstr ""
+
+msgctxt "18||||4"
+msgid "Mkay! Let's get ready t'party!"
+msgstr ""
+
+msgctxt "19||||4"
+msgid "I'm stuffed t'the brim..."
+msgstr ""
+
+msgctxt "20||||4"
+msgid "What a meal!"
+msgstr ""
+
+msgctxt "21||||4"
+msgid "Thanks again.\r\nThat was really something special."
+msgstr ""
+
+msgctxt "22||||4"
+msgid "Don't worry 'bout it.\r\nI'm jus' glad t'see a fresh face."
+msgstr ""
+
+msgctxt "23||||4"
+msgid "By the way, the name's Isao.\r\nPleased t'meet ya."
+msgstr ""
+
+msgctxt "24||||4"
+msgid "And I'm Amano, from Amano Fish.\r\nI sell what Isao-san catches."
+msgstr ""
+
+msgctxt "25||||4"
+msgid "I'm Kiryu. Honestly, I'm pretty new to this place,\r\nso it's nice to see some friendly faces."
+msgstr ""
+
+msgctxt "26||||4"
+msgid "Kiryu-san. How 'bout ya come out\r\nfishin' with me next time?"
+msgstr ""
+
+msgctxt "27||||4"
+msgid "Really?"
+msgstr ""
+
+msgctxt "28||||4"
+msgid "Fer sure. Y'got a strong body, Kiryu-san.\r\nYa'd probly be an expert fisherman."
+msgstr ""
+
+msgctxt "29||||4"
+msgid "Sounds like fun."
+msgstr ""
+
+msgctxt "30||||4"
+msgid "Great. Well, I'll let ya know if I pull up\r\nanythin' tasty in the future, Kiryu-san."
+msgstr ""
+
+msgctxt "31||||4"
+msgid "N' we're always 'round these parts,\r\nso be sure t'come back."
+msgstr ""
+
+msgctxt "32||||4"
+msgid "Of course."
+msgstr ""
+
+msgctxt "33||||4"
+msgid "(That fish was the freshest I've ever tasted.\r\nI want to catch some myself sometime...)"
+msgstr ""
+
+msgctxt "35||||4"
+msgid "(Wait... Isn't that Isao-san?)"
+msgstr ""
+
+msgctxt "36||||4"
+msgid "Hey, Isao-san! Are you okay!?"
+msgstr ""
+
+msgctxt "37||||4"
+msgid "I got real messed up out on the water...\r\nThink y'can call a doctor fer me?"
+msgstr ""
+
+msgctxt "38||||4"
+msgid "I'm on it...!"
+msgstr ""
+
+msgctxt "39||||4"
+msgid "Sorry 'bout that...\r\nGlad y'came fer me, Kiryu-san."
+msgstr ""
+
+msgctxt "40||||4"
+msgid "Are you okay now?"
+msgstr ""
+
+msgctxt "41||||4"
+msgid "Thankfully, it wasn't anythin' too major.\r\nReckon I'm gonna be outta action fer a bit, though."
+msgstr ""
+
+msgctxt "42||||4"
+msgid "Sorry to hear that."
+msgstr ""
+
+msgctxt "43||||4"
+msgid "Isao-san! I heard you got hurt... You okay?\r\nDon't tell me it got you again..."
+msgstr ""
+
+msgctxt "44||||4"
+msgid "It did."
+msgstr ""
+
+msgctxt "45||||4"
+msgid "...<font_kind=yakuza_italic>It</font_kind>?"
+msgstr ""
+
+msgctxt "46||||4"
+msgid "Oh, that's our problem.\r\nY'don't gotta worry yerself."
+msgstr ""
+
+msgctxt "47||||4"
+msgid "This ain't so good, though.\r\nI'm gonna be outta commission fer a while."
+msgstr ""
+
+msgctxt "48||||4"
+msgid "I don't really mind... but Amano won't\r\nhave any fish if I ain't out catchin'."
+msgstr ""
+
+msgctxt "49||||4"
+msgid "Not much choice, though. I'll just have\r\nto shutter up while Isao-san's hurt."
+msgstr ""
+
+msgctxt "50||||4"
+msgid "Y'can't do that, kid!\r\nYer mom's still sick, ain't she?"
+msgstr ""
+
+msgctxt "51||||4"
+msgid "How're ya gonna pay fer her bills\r\nif y'can't keep the store open?"
+msgstr ""
+
+msgctxt "52||||4"
+msgid "You have a point, but..."
+msgstr ""
+
+msgctxt "53||||4"
+msgid "Can't you just get fish from\r\nthe other fishermen in town?"
+msgstr ""
+
+msgctxt "54||||4"
+msgid "To be honest, I'm still pretty new at this.\r\nI don't really know anyone else yet."
+msgstr ""
+
+msgctxt "55||||4"
+msgid "Nobody trusts me with selling their catch.\r\nNobody but Isao-san, that is."
+msgstr ""
+
+msgctxt "56||||4"
+msgid "The other fishermen're real hardheaded.\r\nNot an ounce of sympathy fer youth."
+msgstr ""
+
+msgctxt "57||||4"
+msgid "So, all the young'uns move to Tokyo instead.\r\nWhich leaves us with a bunch o' old farts."
+msgstr ""
+
+msgctxt "58||||4"
+msgid "Huh..."
+msgstr ""
+
+msgctxt "59||||4"
+msgid "But Amano here's a real passionate girl.\r\nThat passion's why I trust her t'sell my hauls."
+msgstr ""
+
+msgctxt "60||||4"
+msgid "But now... we're in a real pinch."
+msgstr ""
+
+msgctxt "61||||4"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "62||||4"
+msgid "Huh? That's it!"
+msgstr ""
+
+msgctxt "63||||4"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "64||||4"
+msgid "Kiryu-san. Didn't ya say y'wanted\r\nto try fishin' sometime?"
+msgstr ""
+
+msgctxt "65||||4"
+msgid "Hm? I-I did..."
+msgstr ""
+
+msgctxt "66||||4"
+msgid "Well, how 'bout ya do my fishin' fer me?"
+msgstr ""
+
+msgctxt "67||||4"
+msgid "<font_kind=yakuza_italic>Me</font_kind>?"
+msgstr ""
+
+msgctxt "68||||4"
+msgid "Yup. 'Course, I'll explain everythin' first."
+msgstr ""
+
+msgctxt "69||||4"
+msgid "There's no way... I don't have any experience,\r\nlet alone a license."
+msgstr ""
+
+msgctxt "70||||4"
+msgid "Well 'round here, y'can fish without\r\na license so long as I'm in the boat."
+msgstr ""
+
+msgctxt "71||||4"
+msgid "I can take care o' all the extra prep, too,\r\nso y'don't gotta worry about a thing."
+msgstr ""
+
+msgctxt "72||||4"
+msgid "But..."
+msgstr ""
+
+msgctxt "73||||4"
+msgid "No buts, y'hear? The decision's simple!"
+msgstr ""
+
+msgctxt "74||||4"
+msgid "Y'don't gotta do it as good as I do.\r\nJus' take it easy, act natural."
+msgstr ""
+
+msgctxt "75||||4"
+msgid "'Course, y'can keep whatever cash ya make\r\nfrom selling yer hauls to Amano, too."
+msgstr ""
+
+msgctxt "76||||4"
+msgid "Ya get to fish <font_kind=yakuza_italic>and</font_kind> earn some spendin' money.\r\nTwo birds with one stone, yeah? Don't it sound good?"
+msgstr ""
+
+msgctxt "77||||4"
+msgid "Hmmm..."
+msgstr ""
+
+msgctxt "78||||4"
+msgid "I'm beggin' ya, Kiryu-san. I wanna try\r\nn' help Amano, even jus' a little bit."
+msgstr ""
+
+msgctxt "79||||4"
+msgid "We've gotta do our darnedest t'make sure\r\nshe can pay fer her mom's bills."
+msgstr ""
+
+msgctxt "80||||4"
+msgid "Isao-san..."
+msgstr ""
+
+msgctxt "82||||4"
+msgid "I'll do it."
+msgstr ""
+
+msgctxt "83||||4"
+msgid "Y'mean it?"
+msgstr ""
+
+msgctxt "84||||4"
+msgid "Yeah. I've never done this before, though.\r\nI can't promise I'll be any good."
+msgstr ""
+
+msgctxt "85||||4"
+msgid "Kiryu-san... Thank ya!"
+msgstr ""
+
+msgctxt "86||||4"
+msgid "This'll be such a big help! Are you sure, though?\r\nIt's not gonna be easy..."
+msgstr ""
+
+msgctxt "87||||4"
+msgid "You treated me to an amazing meal earlier.\r\nI'm just returning the favor."
+msgstr ""
+
+msgctxt "88||||4"
+msgid "Kiryu-san... Thank you so much!"
+msgstr ""
+
+msgctxt "89||||4"
+msgid "Now, let's strike while the fish're bitin'!\r\nJus' talk to me when yer ready to head out."
+msgstr ""
+
+msgctxt "90||||4"
+msgid "Will do."
+msgstr ""
+
+msgctxt "91||||4"
+msgid "Oh, Kiryu-san.\r\nY'ready to fish?"
+msgstr ""
+
+msgctxt "92||||4"
+msgid "Talk t'me when ya wanna weigh anchor."
+msgstr ""
+
+msgctxt "93||||4"
+msgid "Mkay! I'll do the steerin'!"
+msgstr ""
+
+msgctxt "94||||4"
+msgid "Well? How'd ya like fishin'?"
+msgstr ""
+
+msgctxt "95||||4"
+msgid "It was tough...\r\nBut I can't say I didn't enjoy myself."
+msgstr ""
+
+msgctxt "96||||4"
+msgid "This big a haul on yer first go is amazin'.\r\nI knew y'had talent for this, Kiryu-san."
+msgstr ""
+
+msgctxt "97||||4"
+msgid "Enough of the flattery."
+msgstr ""
+
+msgctxt "98||||4"
+msgid "Kiryu-san, here's your payment for today.\r\nI threw in a little extra since it's your first time."
+msgstr ""
+
+msgctxt "99||||4"
+msgid "Yer gonna get paid jus' like this\r\ndependin' on what ya haul up."
+msgstr ""
+
+msgctxt "100||||4"
+msgid "The more ya catch, the more money ya get.\r\nKeep that in mind."
+msgstr ""
+
+msgctxt "101||||4"
+msgid "Okay."
+msgstr ""
+
+msgctxt "102||||4"
+msgid "Oh, n' if ya fish real good in that one spot,\r\nI'll even take ya over to new fishin' grounds."
+msgstr ""
+
+msgctxt "103||||4"
+msgid "These new places're tougher fer sure,\r\nbut they've got pricier fish. Eh, y'can do it."
+msgstr ""
+
+msgctxt "104||||4"
+msgid "Understood."
+msgstr ""
+
+msgctxt "105||||4"
+msgid "Well then, fer the time bein'...\r\nwe're countin' on ya, Kiryu-san!"
+msgstr ""
+
+msgctxt "106||||4"
+msgid "Right."
+msgstr ""
+
+msgctxt "107||||4"
+msgid "Well then, how about we have a drink and eat\r\nsome of this fish Kiryu-san caught?"
+msgstr ""
+
+msgctxt "108||||4"
+msgid "You sure? Won't you run out of product to sell?"
+msgstr ""
+
+msgctxt "109||||4"
+msgid "If it's a small amount, it'll be fine!\r\nRight, Isao-san?"
+msgstr ""
+
+msgctxt "110||||4"
+msgid "Yup! The first fish you catch should be commemorated.\r\nIt'll definitely be delicious, you should eat it."
+msgstr ""
+
+msgctxt "111||||4"
+msgid "Well then... It's time to prepare for a party!\r\nLet's drink, Kiryu-san!"
+msgstr ""
+
+msgctxt "112||||4"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "113||||4"
+msgid "(I can't believe I'm fishing for these people.\r\nLife takes you to strange places sometimes...)"
+msgstr ""
+
+msgctxt "114||||4"
+msgid "Hey! Kiryu-san, lend us a hand!"
+msgstr ""
+
+msgctxt "115||||4"
+msgid "Oh yeah, sorry, sorry."
+msgstr ""
+
+msgctxt "116||||4"
+msgid "Yo, Kiryu-san.\r\nHow 'bout a round of fishin'?"
+msgstr ""
+
+msgctxt "117||||4"
+msgid "Talk t'me when ya wanna weigh anchor."
+msgstr ""
+
+msgctxt "118||||4"
+msgid "Great, I'll prep the boat!"
+msgstr ""
+
+msgctxt "119||||4"
+msgid "Good work, Kiryu-san!"
+msgstr ""
+
+msgctxt "120||||4"
+msgid "This will be today's payment."
+msgstr ""
+
+msgctxt "121||||4"
+msgid "I look forward to next time."
+msgstr ""
+
+msgctxt "122||||4"
+msgid "It was a big haul!\r\nI look forward to next time."
+msgstr ""
+
+msgctxt "123||||4"
+msgid "It didn't go too well today.\r\nI hope you can catch more next time."
+msgstr ""
+

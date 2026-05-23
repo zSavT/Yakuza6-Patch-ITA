@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "1||k_smileburgar||name"
+msgid "Smile Burger (Nakamichi Street)"
+msgstr ""
+
+msgctxt "2||k_akaushi_t||name"
+msgid "Akaushimaru (Tenkaichi Street)"
+msgstr ""
+
+msgctxt "3||k_akaushi_h||name"
+msgid "Akaushimaru (Hotel District)"
+msgstr ""
+
+msgctxt "4||k_hanrai||name"
+msgid "Kanrai"
+msgstr ""
+
+msgctxt "6||k_ikinari_steak||name"
+msgid "Ikinari Steak"
+msgstr ""
+
+msgctxt "7||k_alps||name"
+msgid "Café Alps"
+msgstr ""
+
+msgctxt "8||k_ichibanboshi||name"
+msgid "Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "10||k_wildjackson_t||name"
+msgid "Wild Jackson (Tenkaichi Street)"
+msgstr ""
+
+msgctxt "11||k_wildjackson_me||name"
+msgid "Wild Jackson (E Millennium Tower Street)"
+msgstr ""
+
+msgctxt "12||k_wettekitchen_tw||name"
+msgid "Wette Kitchen (W Taihei Boulevard)"
+msgstr ""
+
+msgctxt "15||k_ringerhut||name"
+msgid "Ringer Hut"
+msgstr ""
+
+msgctxt "16||k_osaka_ohsho||name"
+msgid "Osaka King"
+msgstr ""
+
+msgctxt "17||k_gindaco||name"
+msgid "Gindaco Highball Tavern"
+msgstr ""
+
+msgctxt "18||k_fujisoba||name"
+msgid "Fuji Soba"
+msgstr ""
+
+msgctxt "19||k_sushigin||name"
+msgid "Sushi Gin"
+msgstr ""
+
+msgctxt "20||k_yoronotaki||name"
+msgid "Yoronotaki"
+msgstr ""
+
+msgctxt "21||k_sushizanmai||name"
+msgid "Sushi Zanmai"
+msgstr ""
+
+msgctxt "22||k_bantam||name"
+msgid "Bantam"
+msgstr ""
+
+msgctxt "23||k_donki||name"
+msgid "Don Quijote"
+msgstr ""
+
+msgctxt "24||k_ebisuya||name"
+msgid "Ebisu Pawn"
+msgstr ""
+
+msgctxt "25||k_poppo_s||name"
+msgid "Poppo (Showa Street)"
+msgstr ""
+
+msgctxt "26||k_poppo_7w||name"
+msgid "Poppo (W. Shichifuku Street)"
+msgstr ""
+
+msgctxt "27||k_poppo_7e||name"
+msgid "Poppo (E. Shichifuku Street)"
+msgstr ""
+
+msgctxt "28||k_poppo_t||name"
+msgid "Poppo (Tenkaichi Street)"
+msgstr ""
+
+msgctxt "29||vending_a||name"
+msgid "Vending Machine (Type A)"
+msgstr ""
+
+msgctxt "30||o_juumangoku||name"
+msgid "Jumangoku Chinese Soba"
+msgstr ""
+
+msgctxt "31||o_kakikoya||name"
+msgid "Oyster Shack"
+msgstr ""
+
+msgctxt "32||o_yonetoku||name"
+msgid "Yonetoku"
+msgstr ""
+
+msgctxt "34||o_yamaneko||name"
+msgid "Snacks and Wildcats"
+msgstr ""
+
+msgctxt "38||o_otafukuya||name"
+msgid "Otafuku Pawn"
+msgstr ""
+
+msgctxt "39||mg_snack||name"
+msgid "New Gaudi"
+msgstr ""
+
+msgctxt "40||k_M_SIDE_CAFE||name"
+msgid "M Side Cafe"
+msgstr ""
+
+msgctxt "41||o_La_Pente||name"
+msgid "La Pente"
+msgstr ""
+
+msgctxt "42||o_nagiyakkyoku||name"
+msgid "Nagi Pharmacy"
+msgstr ""
+
+msgctxt "43||vending_b||name"
+msgid "Vending Machine (Type B)"
+msgstr ""
+
+msgctxt "44||vending_c||name"
+msgid "Vending Machine (Suntory Kamuro)"
+msgstr ""
+
+msgctxt "45||cabaret_drink||name"
+msgid "Club Shine (Drink Menu)"
+msgstr ""
+
+msgctxt "46||cabaret_food||name"
+msgid "Club Shine (Food Menu)"
+msgstr ""
+
+msgctxt "47||o_poke_tofuya||name"
+msgid "Fujisawa Tofu"
+msgstr ""
+
+msgctxt "48||k_quadra||name"
+msgid "Quadra Garden"
+msgstr ""
+
+msgctxt "50||vending_d||name"
+msgid "Vending Machine (Suntory Onomichi)"
+msgstr ""
+
+msgctxt "51||k_smileburgar_g||name"
+msgid "Smile Burger (NW Theater Square)"
+msgstr ""
+
+msgctxt "52||k_rizap||name"
+msgid "RIZAP Kamurocho"
+msgstr ""
+
+msgctxt "53||k_yamishonin||name"
+msgid "Black Market Merchant"
+msgstr ""
+
+msgctxt "54||o_yamishonin||name"
+msgid "Black Market Merchant"
+msgstr ""
+
+msgctxt "55||k_shichiya||name"
+msgid "Ebisu Pawn"
+msgstr ""
+
+msgctxt "56||o_shichiya||name"
+msgid "Otafuku Pawn"
+msgstr ""
+
+msgctxt "57||k_catcafe||name"
+msgid "Nyan Nyan Café"
+msgstr ""
+

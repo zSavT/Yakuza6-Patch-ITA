@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 34
+msgctxt "Offset_0x1B8E8_Len_34"
+msgid "\"Please? I really need your help.\""
+msgstr ""
+
+#. Max bytes: 73
+msgctxt "Offset_0x1B9D8_Len_73"
+msgid "\"Can you head over to a convenience store\nand buy me some prepaid cards?\""
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x1BB08_Len_35"
+msgid "\"Does it matter?\nI just need some.\""
+msgstr ""
+
+#. Max bytes: 33
+msgctxt "Offset_0x1BBF8_Len_33"
+msgid "\"Thanks. Buy five \\10,000 cards.\""
+msgstr ""
+
+#. Max bytes: 32
+msgctxt "Offset_0x1BCE8_Len_32"
+msgid "\"Let me know when you get them.\""
+msgstr ""
+
+#. Max bytes: 35
+msgctxt "Offset_0x1BF28_Len_35"
+msgid "Sorry, I'm a little busy right now."
+msgstr ""
+
+#. Max bytes: 32
+msgctxt "Offset_0x1BF68_Len_32"
+msgid "Yeah. What do you need me to do?"
+msgstr ""
+

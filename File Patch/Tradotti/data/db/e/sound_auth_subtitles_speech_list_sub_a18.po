@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgctxt "0||||4"
+msgid "Erina told me to wait right around here."
+msgstr "(Erina mi ha detto di aspettare da queste parti.)"
+
+msgctxt "1||||4"
+msgid "Oh, Kiryu-san!"
+msgstr "Oh, Kiryu-san!"
+
+msgctxt "2||||4"
+msgid "Yo, you were pretty quick."
+msgstr "Ehi, hai fatto in fretta."
+
+msgctxt "3||||4"
+msgid "I was so excited to meet up with you that\r\nI cut out a little early. <symbol=note_with_outline>"
+msgstr "Ero così emozionata di vederti che\r\nsono uscita un po' prima. <symbol=note_with_outline>"
+
+msgctxt "4||||4"
+msgid "Hey, you sure that's going to be okay?"
+msgstr "Ehi, sei sicura che non sia un problema?"
+
+msgctxt "5||||4"
+msgid "It's no prob. Come on, let's go. <symbol=note_with_outline>\r\nI know exactly which restaurant I want."
+msgstr "Nessun problema. Dai, andiamo. <symbol=note_with_outline>\r\nSo già esattamente in quale ristorante voglio andare."
+
+msgctxt "6||||4"
+msgid "Alright then.\r\n...Hm?"
+msgstr "D'accordo, allora.\r\n...Mh?"
+
+msgctxt "7||||4"
+msgid "Hm? What's the matter?"
+msgstr "Mh? Che succede?"
+
+msgctxt "8||||4"
+msgid "...No, it was nothing.\r\nLet's get going."
+msgstr "...No, non è niente.\r\nAndiamo."
+
+msgctxt "9||||4"
+msgid "Yep! <symbol=note_with_outline>"
+msgstr "Sì! <symbol=note_with_outline>"
+
+msgctxt "10||||4"
+msgid "I can't shake the feeling that\r\nwe're being watched..."
+msgstr "(Ho come l'impressione che\r\nqualcuno ci stia osservando...)"
+
+msgctxt "11||||4"
+msgid "It's so nice to be out with you, Kiryu-san.\r\nWhat should I order?"
+msgstr "È così bello uscire con te, Kiryu-san.\r\nCosa dovrei ordinare?"
+
+msgctxt "12||||4"
+msgid "It's on me, so get anything you want."
+msgstr "Offro io, quindi prendi pure quello che vuoi."
+
+msgctxt "13||||4"
+msgid "Are you sure?"
+msgstr "Ne sei sicuro?"
+
+msgctxt "14||||4"
+msgid "I'm not the type of guy to go back on my word."
+msgstr "Non sono il tipo che si rimangia la parola data."
+
+msgctxt "15||||4"
+msgid "Thank you! Then I'll take you up on your offer...\r\nExcuse me!"
+msgstr "Grazie! Allora approfitterò della tua offerta...\r\nMi scusi!"
+
+msgctxt "16||||4"
+msgid "Um, I'll have this, an order of this and that...\r\nOne of these... An order of that, too..."
+msgstr "Ehm, prenderò questo, una porzione di questo e di quello...\r\nUno di questi... E anche una porzione di quello..."
+
+msgctxt "17||||4"
+msgid "......"
+msgstr "......"
+
+msgctxt "18||||4"
+msgid "This one, this one... And an extra one of these! This on the side... \r\nand definitely the one that put them on the map!"
+msgstr "Questo, questo... E un altro di questi! Questo come contorno... \r\ne assolutamente la specialità della casa!"
+
+msgctxt "19||||4"
+msgid "......!?"
+msgstr "......!?"
+
+msgctxt "20||||4"
+msgid "What a feast!"
+msgstr "Che banchetto!"
+
+msgctxt "21||||4"
+msgid "Y-Yeah..."
+msgstr "G-Già..."
+
+msgctxt "22||||4"
+msgid "Ahhh, everything was so delicious! <symbol=note_with_outline>\r\nThank you for the meal, Kiryu-san!"
+msgstr "Ahhh, era tutto così delizioso! <symbol=note_with_outline>\r\nGrazie per il pasto, Kiryu-san!"
+
+msgctxt "23||||4"
+msgid "U-Uh... You really can scarf it down..."
+msgstr "E-Ehm... Hai davvero un bell'appetito..."
+
+msgctxt "24||||4"
+msgid "Yeah, I wasn't lying when I said I ate big...\r\nOh, that restaurant looks pretty good too..."
+msgstr "Già, non mentivo quando ho detto di mangiare tanto...\r\nOh, anche quel ristorante ha un bell'aspetto..."
+
+msgctxt "25||||4"
+msgid "Y-You're still hungry?"
+msgstr "H-Hai ancora fame?"
+
+msgctxt "26||||4"
+msgid "I don't stay full very long, I guess...\r\nKind of explains why I don't eat out, doesn't it?"
+msgstr "Immagino di non restare sazia molto a lungo...\r\nQuesto spiega un po' perché non mangio mai fuori, non trovi?"
+
+msgctxt "27||||4"
+msgid "You've got it bad..."
+msgstr "Sei un caso disperato..."
+
+msgctxt "28||||4"
+msgid "...Hm?"
+msgstr "...Mh?"
+
+msgctxt "29||||4"
+msgid "Kiryu-san?\r\nIs something wrong?"
+msgstr "Kiryu-san?\r\nC'è qualcosa che non va?"
+
+msgctxt "30||||4"
+msgid "I figured as much. We're being followed."
+msgstr "Lo immaginavo. Qualcuno ci sta seguendo."
+
+msgctxt "31||||4"
+msgid "What!? Followed!?"
+msgstr "Cosa!? Seguendo!?"
+
+msgctxt "32||||4"
+msgid "Wait!"
+msgstr "Aspetta qui!"
+
+msgctxt "34||||4"
+msgid "Hey, you. You've been stalking us for a while,\r\nhaven't you?"
+msgstr "Ehi, tu. Ci stai pedinando da un bel po',\r\nnon è vero?"
+
+msgctxt "35||||4"
+msgid "W-Who are you to accuse me of that!?"
+msgstr "Ch-Chi sei tu per accusarmi di una cosa del genere!?"
+
+msgctxt "36||||4"
+msgid "I-I-I was just keeping an eye on you to make sure\r\nyou didn't do anything to hurt Erina-chan!"
+msgstr "I-I-Io stavo solo tenendo d'occhio te per assicurarmi\r\nche non facessi del male a Erina-chan!"
+
+msgctxt "37||||4"
+msgid "Huh? What are you talking about?"
+msgstr "Eh? Di che diavolo stai parlando?"
+
+msgctxt "38||||4"
+msgid "Poor, sweet Erina-chan... Getting forced to\r\nhang out with this big yakuza lug..."
+msgstr "Povera, dolce Erina-chan... Costretta a\r\nuscire con questo grosso bestione della yakuza..."
+
+msgctxt "39||||4"
+msgid "Ah, you're...!"
+msgstr "Ah, tu sei...!"
+
+msgctxt "40||||4"
+msgid "You know this guy?"
+msgstr "Lo conosci?"
+
+msgctxt "41||||4"
+msgid "Of course she does! We're an item!\r\nW-W-We're in love...!"
+msgstr "Certo che mi conosce! Stiamo insieme!\r\nS-S-Siamo innamorati...!"
+
+msgctxt "42||||4"
+msgid "What...?"
+msgstr "Cosa...?"
+
+msgctxt "43||||4"
+msgid "W-We aren't an \"item,\" and we're certainly not\r\nin love!"
+msgstr "N-Non \"stiamo insieme\" e non siamo\r\ncertamente innamorati!"
+
+msgctxt "44||||4"
+msgid "We only met once at a school club!"
+msgstr "Ci siamo visti solo una volta in un club a scuola!"
+
+msgctxt "45||||4"
+msgid "No need to be so shy about us, Erina-chan."
+msgstr "Non c'è bisogno di fare la timida riguardo a noi, Erina-chan."
+
+msgctxt "46||||4"
+msgid "You were so sweet to me...\r\nI know you really like me, right?"
+msgstr "Sei stata così dolce con me...\r\nSo che ti piaccio davvero, giusto?"
+
+msgctxt "47||||4"
+msgid "N-No... You've got the wrong idea..."
+msgstr "N-No... Ti sei fatto un'idea sbagliata..."
+
+msgctxt "48||||4"
+msgid "Besides, how can you say we've only met once?\r\nI watch over you every day, Erina-chan."
+msgstr "Inoltre, come puoi dire che ci siamo visti solo una volta?\r\nIo veglio su di te ogni giorno, Erina-chan."
+
+msgctxt "49||||4"
+msgid "What? Every day?"
+msgstr "Cosa? Ogni giorno?"
+
+msgctxt "50||||4"
+msgid "Looks like we solved your stalker problem...\r\nThis must be our guy."
+msgstr "Sembra che abbiamo risolto il tuo problema di stalker...\r\nDev'essere lui il nostro uomo."
+
+msgctxt "51||||4"
+msgid "N-No way..."
+msgstr "N-Non ci posso credere..."
+
+msgctxt "52||||4"
+msgid "Why don't you ditch this thug and come have\r\nfun with me, Erina-chan?"
+msgstr "Perché non molli questo teppista e vieni a\r\ndivertirti un po' con me, Erina-chan?"
+
+msgctxt "53||||4"
+msgid "K-Kiryu-san..."
+msgstr "K-Kiryu-san..."
+
+msgctxt "54||||4"
+msgid "That's enough.\r\nYou're making a fool of yourself."
+msgstr "Ora basta.\r\nTi stai rendendo ridicolo."
+
+msgctxt "55||||4"
+msgid "Shut up! Who do you think are, talking to me like\r\nthat!? And how dare you act so close to Erina-chan!?"
+msgstr "Chiudi la bocca! Chi ti credi di essere per parlarmi in\r\nquesto modo!? E come osi fare il cascamorto con Erina-chan!?"
+
+msgctxt "56||||4"
+msgid "You... Just who are you to Erina-chan!?"
+msgstr "Tu... Chi saresti esattamente per Erina-chan!?"
+
+msgctxt "57||||4"
+msgid "Erina is..."
+msgstr "Erina è..."
+
+msgctxt "58||||4"
+msgid "...my girl."
+msgstr "...la mia ragazza."
+
+msgctxt "59||||4"
+msgid "Kiryu-san...!"
+msgstr "Kiryu-san...!"
+
+msgctxt "60||||4"
+msgid "That's why...\r\nI'm not letting you anywhere near her."
+msgstr "Ecco perché...\r\nNon ti permetterò di avvicinarti a lei."
+
+msgctxt "61||||4"
+msgid "Excuse me!?\r\nI'm Erina's real boyfriend, asshole!"
+msgstr "Prego!?\r\nSono io il vero ragazzo di Erina, stronzo!"
+
+msgctxt "62||||4"
+msgid "Ahh!"
+msgstr "Ahh!"
+
+msgctxt "63||||4"
+msgid "Anyone who gets in my way... has to die!"
+msgstr "Chiunque si metta sulla mia strada... deve morire!"
+
+msgctxt "64||||4"
+msgid "Agh... Son of a..."
+msgstr "Agh... Figlio di una..."
+
+msgctxt "65||||4"
+msgid "Don't ever speak another word to Erina again.\r\nIf you even come near her, you'll regret it."
+msgstr "Non rivolgere mai più la parola a Erina.\r\nSe solo provi ad avvicinarti a lei, te ne pentirai."
+
+msgctxt "66||||4"
+msgid "E-Erina-chan..."
+msgstr "E-Erina-chan..."
+
+msgctxt "67||||4"
+msgid "I can't go out with you, and there's no need for\r\nyou to watch over me, okay?"
+msgstr "Non posso uscire con te, e non c'è alcun bisogno\r\nche tu vegli su di me, okay?"
+
+msgctxt "68||||4"
+msgid "I... already have someone special..."
+msgstr "Io... ho già una persona speciale..."
+
+msgctxt "69||||4"
+msgid "D... Dammit...! You asshooooole!"
+msgstr "M... Maledizione...! Brutto stronzoooo!"
+
+msgctxt "70||||4"
+msgid "Thank you so much...\r\n...I've caused a lot of trouble for you."
+msgstr "Grazie mille...\r\n...Ti ho causato un sacco di problemi."
+
+msgctxt "71||||4"
+msgid "Don't worry about it."
+msgstr "Non preoccuparti."
+
+msgctxt "72||||4"
+msgid "...Maybe I'm just bad at this romance thing.\r\nIt never seems to work out in my favor."
+msgstr "...Forse sono proprio negata per queste cose romantiche.\r\nNon sembra mai andare a mio favore."
+
+msgctxt "73||||4"
+msgid "People I'm not even pursuing get the wrong idea,\r\nand other people I like think I'm too fake..."
+msgstr "La gente che non mi interessa si fa un'idea sbagliata,\r\ne le persone che mi piacciono pensano che io sia troppo finta..."
+
+msgctxt "74||||4"
+msgid "You've had a rough go of it."
+msgstr "Ne hai passate un bel po'."
+
+msgctxt "75||||4"
+msgid "It was enough to make me want to give up\r\non romance for a while."
+msgstr "È stato abbastanza da farmi venire voglia di rinunciare\r\nall'amore per un po'."
+
+msgctxt "76||||4"
+msgid "But lately, I've been thinking I need to keep\r\nputting myself out there..."
+msgstr "Ma ultimamente, ho pensato che dovrei continuare\r\na mettermi in gioco..."
+
+msgctxt "77||||4"
+msgid "Yeah?"
+msgstr "Sì?"
+
+msgctxt "78||||4"
+msgid "But I was really surprised back there...\r\nWhen... When you called me your girl."
+msgstr "Ma prima sono rimasta davvero sorpresa...\r\nQuando... Quando mi hai chiamata 'la tua ragazza'."
+
+msgctxt "79||||4"
+msgid "Oh, sorry about that."
+msgstr "Oh, scusa per quello."
+
+msgctxt "80||||4"
+msgid "I figured if I lied to him like that,\r\nit might make him back down."
+msgstr "Ho pensato che se gli avessi mentito in quel modo,\r\nl'avrebbe fatto desistere."
+
+msgctxt "81||||4"
+msgid "N-No, I was just surprised.\r\nIt actually made me happy."
+msgstr "N-No, ero solo sorpresa.\r\nIn realtà mi ha resa felice."
+
+msgctxt "82||||4"
+msgid "And then... I thought maybe it wouldn't\r\nhave to stay a lie..."
+msgstr "E poi... ho pensato che forse non\r\nsarebbe dovuta rimanere una bugia..."
+
+msgctxt "83||||4"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "84||||4"
+msgid "N-Nothing!"
+msgstr "N-Niente!"
+
+msgctxt "85||||4"
+msgid "But... considering your track record Erina,\r\nthere may be other guys who get the wrong idea, too."
+msgstr "Ma... considerando i tuoi precedenti Erina,\r\npotrebbero esserci altri ragazzi che si fanno l'idea sbagliata."
+
+msgctxt "86||||4"
+msgid "I think I've figured out that I'm being too nice,\r\nall because I want to be liked in return."
+msgstr "Credo di aver capito che sono troppo gentile,\r\nsolo perché voglio piacere a tutti in cambio."
+
+msgctxt "87||||4"
+msgid "But all I've accomplished by doing that is hurting\r\nother people and sabotaging my own chances..."
+msgstr "Ma l'unica cosa che ho ottenuto facendo così è ferire\r\ngli altri e sabotare le mie stesse possibilità..."
+
+msgctxt "88||||4"
+msgid "......"
+msgstr "......"
+
+msgctxt "89||||4"
+msgid "So from now on,\r\nI'm going to be honest with myself."
+msgstr "Quindi d'ora in poi,\r\nsarò onesta con me stessa."
+
+msgctxt "90||||4"
+msgid "Worrying about how people think of me, or whether\r\nor not they like me... I'm done being tied down by that."
+msgstr "Preoccuparmi di cosa la gente pensa di me, o se\r\ngli piaccio o meno... Ho chiuso col farmi frenare da questo."
+
+msgctxt "91||||4"
+msgid "Hm... Sounds like you've finally figured it out.\r\nDoes that mean we can say goodbye to fake Erina?"
+msgstr "Mh... Sembra che tu l'abbia finalmente capito.\r\nQuesto significa che possiamo dire addio alla finta Erina?"
+
+msgctxt "92||||4"
+msgid "Yep, from today on, no more fake Erina.\r\nI won't put on a show of being so sweet anymore."
+msgstr "Sì, da oggi in poi, niente più finta Erina.\r\nNon farò più finta di essere così sdolcinata."
+
+msgctxt "93||||4"
+msgid "But, to balance that out...\r\nmaybe I'll be more assertive with people I like?"
+msgstr "Però, per bilanciare la cosa...\r\nforse sarò più decisa con le persone che mi piacciono?"
+
+msgctxt "94||||4"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "95||||4"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
