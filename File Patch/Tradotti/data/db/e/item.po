@@ -3273,15 +3273,15 @@ msgstr "Acqua fredda."
 
 msgctxt "477||drink_ccremon||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "478||drink_dekabita||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "480||drink_iemon||explanation"
 msgid "Boosts Defense."
-msgstr "Aumenta difesa."
+msgstr "Potenziamento difesa."
 
 msgctxt "482||drink_kurouron||explanation"
 msgid "Boosts EXP obtained in battle."
@@ -3317,11 +3317,11 @@ msgstr "Ti fa smaltire un po' la sbornia."
 
 msgctxt "497||drink_kora||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "498||drink_aomidori||explanation"
 msgid "Boosts Defense."
-msgstr "Aumenta difesa."
+msgstr "Potenziamento difesa."
 
 msgctxt "499||drink_sukusuku||explanation"
 msgid "Boosts EXP obtained in battle."
@@ -3333,11 +3333,11 @@ msgstr "Aumenta il denaro ottenuto."
 
 msgctxt "501||drink_shoryu||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "502||drink_koryu||explanation"
 msgid "Boosts Defense."
-msgstr "Aumenta difesa."
+msgstr "Potenziamento difesa."
 
 msgctxt "503||drink_kiwami||explanation"
 msgid "Boosts EXP obtained in battle."
@@ -3345,51 +3345,51 @@ msgstr "Aumenta l'EXP ottenuta in battaglia."
 
 msgctxt "504||drink_bitamin_enaji||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "505||drink_gurepu_500||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "506||drink_gurepu||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "507||drink_saida||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "508||drink_howaitosoda||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "509||drink_remon||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "510||drink_mikan||explanation"
 msgid "Boosts Attack."
-msgstr "Aumenta attacco."
+msgstr "Potenziamento attacco."
 
 msgctxt "511||drink_koiocha_500||explanation"
 msgid "Boosts Defense."
-msgstr "Aumenta difesa."
+msgstr "Potenziamento difesa."
 
 msgctxt "512||drink_koiocha||explanation"
 msgid "Boosts Defense."
-msgstr "Aumenta difesa."
+msgstr "Potenziamento difesa."
 
 msgctxt "513||drink_ocha||explanation"
 msgid "Boosts Defense."
-msgstr "Aumenta difesa."
+msgstr "Potenziamento difesa."
 
 msgctxt "514||drink_houjicha_500||explanation"
 msgid "Boosts Defense."
-msgstr "Aumenta difesa."
+msgstr "Potenziamento difesa."
 
 msgctxt "515||drink_houjicha||explanation"
 msgid "Boosts Defense."
-msgstr "Aumenta difesa."
+msgstr "Potenziamento difesa."
 
 msgctxt "516||drink_genmaicha_500||explanation"
 msgid "Boosts EXP obtained in battle."

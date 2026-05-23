@@ -13,7 +13,7 @@ msgstr "Statistiche"
 
 msgctxt "2||battle||name"
 msgid "Battle Skills"
-msgstr "Abilità di battaglia"
+msgstr "Tecniche di battaglia"
 
 msgctxt "3||heat||name"
 msgid "Heat Actions"
@@ -21,7 +21,7 @@ msgstr "Azioni Furore"
 
 msgctxt "4||other||name"
 msgid "Other Skills"
-msgstr "Altre abilità"
+msgstr "Tecniche varie"
 
 msgctxt "5||equip||name"
 msgid "Equipment"

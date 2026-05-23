@@ -9,15 +9,15 @@ msgstr ""
 
 msgctxt "1||hit_point_up_1||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "2||attack_up_1||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "3||defense_up_1||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "4||agility_up_1||name"
 msgid "Boost Evasion"
@@ -25,19 +25,19 @@ msgstr "Aumenta schivata"
 
 msgctxt "5||heat_gauge_up_1||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "36||hit_point_up_2||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "37||attack_up_2||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "38||defense_up_2||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "39||agility_up_2||name"
 msgid "Boost Evasion"
@@ -45,1183 +45,1183 @@ msgstr "Aumenta schivata"
 
 msgctxt "40||heat_gauge_up_2||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "41||hit_point_up_3||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "42||hit_point_up_4||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "43||hit_point_up_5||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "44||hit_point_up_6||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "45||hit_point_up_7||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "46||hit_point_up_8||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "47||hit_point_up_9||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "48||hit_point_up_10||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "49||hit_point_up_11||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "50||hit_point_up_12||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "51||hit_point_up_13||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "52||hit_point_up_14||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "53||hit_point_up_15||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "54||hit_point_up_16||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "55||hit_point_up_17||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "56||hit_point_up_18||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "57||hit_point_up_19||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "58||hit_point_up_20||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "59||hit_point_up_21||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "60||hit_point_up_22||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "61||hit_point_up_23||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "62||hit_point_up_24||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "63||hit_point_up_25||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "64||hit_point_up_26||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "65||hit_point_up_27||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "66||hit_point_up_28||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "67||hit_point_up_29||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "68||hit_point_up_30||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "69||hit_point_up_31||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "70||hit_point_up_32||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "71||hit_point_up_33||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "72||hit_point_up_34||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "73||hit_point_up_35||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "74||hit_point_up_36||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "75||hit_point_up_37||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "76||hit_point_up_38||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "77||hit_point_up_39||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "78||hit_point_up_40||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "79||hit_point_up_41||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "80||hit_point_up_42||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "81||hit_point_up_43||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "82||hit_point_up_44||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "83||hit_point_up_45||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "84||hit_point_up_46||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "85||hit_point_up_47||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "86||hit_point_up_48||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "87||hit_point_up_49||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "88||hit_point_up_50||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "89||hit_point_up_51||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "90||hit_point_up_52||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "91||hit_point_up_53||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "92||hit_point_up_54||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "93||hit_point_up_55||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "94||hit_point_up_56||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "95||hit_point_up_57||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "96||hit_point_up_58||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "97||hit_point_up_59||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "98||hit_point_up_60||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "99||hit_point_up_61||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "100||hit_point_up_62||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "101||hit_point_up_63||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "102||hit_point_up_64||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "103||hit_point_up_65||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "104||hit_point_up_66||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "105||hit_point_up_67||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "106||hit_point_up_68||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "107||hit_point_up_69||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "108||hit_point_up_70||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "109||hit_point_up_71||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "110||hit_point_up_72||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "111||hit_point_up_73||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "112||hit_point_up_74||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "113||hit_point_up_75||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "114||hit_point_up_76||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "115||hit_point_up_77||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "116||hit_point_up_78||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "117||hit_point_up_79||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "118||hit_point_up_80||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "119||hit_point_up_81||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "120||hit_point_up_82||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "121||hit_point_up_83||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "122||hit_point_up_84||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "123||hit_point_up_85||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "124||hit_point_up_86||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "125||hit_point_up_87||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "126||hit_point_up_88||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "127||hit_point_up_89||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "128||hit_point_up_90||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "129||hit_point_up_91||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "130||hit_point_up_92||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "131||hit_point_up_93||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "132||hit_point_up_94||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "133||hit_point_up_95||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "134||hit_point_up_96||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "135||hit_point_up_97||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "136||hit_point_up_98||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "137||hit_point_up_99||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "138||hit_point_up_100||name"
 msgid "Boost Health"
-msgstr "Aumenta salute"
+msgstr "Potenziamento salute"
 
 msgctxt "139||attack_up_3||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "140||attack_up_4||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "141||attack_up_5||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "142||attack_up_6||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "143||attack_up_7||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "144||attack_up_8||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "145||attack_up_9||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "146||attack_up_10||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "147||attack_up_11||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "148||attack_up_12||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "149||attack_up_13||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "150||attack_up_14||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "151||attack_up_15||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "152||attack_up_16||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "153||attack_up_17||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "154||attack_up_18||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "155||attack_up_19||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "156||attack_up_20||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "157||attack_up_21||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "158||attack_up_22||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "159||attack_up_23||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "160||attack_up_24||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "161||attack_up_25||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "162||attack_up_26||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "163||attack_up_27||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "164||attack_up_28||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "165||attack_up_29||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "166||attack_up_30||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "167||attack_up_31||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "168||attack_up_32||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "169||attack_up_33||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "170||attack_up_34||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "171||attack_up_35||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "172||attack_up_36||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "173||attack_up_37||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "174||attack_up_38||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "175||attack_up_39||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "176||attack_up_40||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "177||attack_up_41||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "178||attack_up_42||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "179||attack_up_43||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "180||attack_up_44||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "181||attack_up_45||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "182||attack_up_46||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "183||attack_up_47||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "184||attack_up_48||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "185||attack_up_49||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "186||attack_up_50||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "187||attack_up_51||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "188||attack_up_52||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "189||attack_up_53||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "190||attack_up_54||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "191||attack_up_55||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "192||attack_up_56||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "193||attack_up_57||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "194||attack_up_58||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "195||attack_up_59||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "196||attack_up_60||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "197||attack_up_61||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "198||attack_up_62||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "199||attack_up_63||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "200||attack_up_64||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "201||attack_up_65||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "202||attack_up_66||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "203||attack_up_67||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "204||attack_up_68||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "205||attack_up_69||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "206||attack_up_70||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "207||attack_up_71||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "208||attack_up_72||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "209||attack_up_73||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "210||attack_up_74||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "211||attack_up_75||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "212||attack_up_76||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "213||attack_up_77||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "214||attack_up_78||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "215||attack_up_79||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "216||attack_up_80||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "217||attack_up_81||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "218||attack_up_82||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "219||attack_up_83||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "220||attack_up_84||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "221||attack_up_85||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "222||attack_up_86||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "223||attack_up_87||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "224||attack_up_88||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "225||attack_up_89||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "226||attack_up_90||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "227||attack_up_91||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "228||attack_up_92||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "229||attack_up_93||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "230||attack_up_94||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "231||attack_up_95||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "232||attack_up_96||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "233||attack_up_97||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "234||attack_up_98||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "235||attack_up_99||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "236||attack_up_100||name"
 msgid "Boost Attack"
-msgstr "Aumenta attacco"
+msgstr "Potenziamento attacco"
 
 msgctxt "237||defense_up_3||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "238||defense_up_4||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "239||defense_up_5||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "240||defense_up_6||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "241||defense_up_7||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "242||defense_up_8||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "243||defense_up_9||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "244||defense_up_10||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "245||defense_up_11||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "246||defense_up_12||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "247||defense_up_13||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "248||defense_up_14||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "249||defense_up_15||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "250||defense_up_16||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "251||defense_up_17||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "252||defense_up_18||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "253||defense_up_19||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "254||defense_up_20||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "255||defense_up_21||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "256||defense_up_22||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "257||defense_up_23||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "258||defense_up_24||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "259||defense_up_25||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "260||defense_up_26||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "261||defense_up_27||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "262||defense_up_28||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "263||defense_up_29||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "264||defense_up_30||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "265||defense_up_31||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "266||defense_up_32||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "267||defense_up_33||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "268||defense_up_34||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "269||defense_up_35||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "270||defense_up_36||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "271||defense_up_37||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "272||defense_up_38||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "273||defense_up_39||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "274||defense_up_40||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "275||defense_up_41||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "276||defense_up_42||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "277||defense_up_43||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "278||defense_up_44||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "279||defense_up_45||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "280||defense_up_46||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "281||defense_up_47||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "282||defense_up_48||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "283||defense_up_49||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "284||defense_up_50||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "285||defense_up_51||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "286||defense_up_52||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "287||defense_up_53||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "288||defense_up_54||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "289||defense_up_55||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "290||defense_up_56||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "291||defense_up_57||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "292||defense_up_58||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "293||defense_up_59||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "294||defense_up_60||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "295||defense_up_61||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "296||defense_up_62||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "297||defense_up_63||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "298||defense_up_64||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "299||defense_up_65||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "300||defense_up_66||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "301||defense_up_67||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "302||defense_up_68||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "303||defense_up_69||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "304||defense_up_70||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "305||defense_up_71||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "306||defense_up_72||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "307||defense_up_73||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "308||defense_up_74||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "309||defense_up_75||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "310||defense_up_76||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "311||defense_up_77||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "312||defense_up_78||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "313||defense_up_79||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "314||defense_up_80||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "315||defense_up_81||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "316||defense_up_82||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "317||defense_up_83||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "318||defense_up_84||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "319||defense_up_85||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "320||defense_up_86||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "321||defense_up_87||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "322||defense_up_88||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "323||defense_up_89||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "324||defense_up_90||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "325||defense_up_91||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "326||defense_up_92||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "327||defense_up_93||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "328||defense_up_94||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "329||defense_up_95||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "330||defense_up_96||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "331||defense_up_97||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "332||defense_up_98||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "333||defense_up_99||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "334||defense_up_100||name"
 msgid "Boost Defense"
-msgstr "Aumenta difesa"
+msgstr "Potenziamento difesa"
 
 msgctxt "335||agility_up_3||name"
 msgid "Boost Evasion"
@@ -1617,395 +1617,395 @@ msgstr "Aumenta schivata"
 
 msgctxt "433||heat_gauge_up_3||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "434||heat_gauge_up_4||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "435||heat_gauge_up_5||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "436||heat_gauge_up_6||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "437||heat_gauge_up_7||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "438||heat_gauge_up_8||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "439||heat_gauge_up_9||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "440||heat_gauge_up_10||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "441||heat_gauge_up_11||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "442||heat_gauge_up_12||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "443||heat_gauge_up_13||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "444||heat_gauge_up_14||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "445||heat_gauge_up_15||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "446||heat_gauge_up_16||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "447||heat_gauge_up_17||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "448||heat_gauge_up_18||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "449||heat_gauge_up_19||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "450||heat_gauge_up_20||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "451||heat_gauge_up_21||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "452||heat_gauge_up_22||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "453||heat_gauge_up_23||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "454||heat_gauge_up_24||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "455||heat_gauge_up_25||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "456||heat_gauge_up_26||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "457||heat_gauge_up_27||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "458||heat_gauge_up_28||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "459||heat_gauge_up_29||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "460||heat_gauge_up_30||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "461||heat_gauge_up_31||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "462||heat_gauge_up_32||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "463||heat_gauge_up_33||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "464||heat_gauge_up_34||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "465||heat_gauge_up_35||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "466||heat_gauge_up_36||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "467||heat_gauge_up_37||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "468||heat_gauge_up_38||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "469||heat_gauge_up_39||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "470||heat_gauge_up_40||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "471||heat_gauge_up_41||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "472||heat_gauge_up_42||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "473||heat_gauge_up_43||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "474||heat_gauge_up_44||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "475||heat_gauge_up_45||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "476||heat_gauge_up_46||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "477||heat_gauge_up_47||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "478||heat_gauge_up_48||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "479||heat_gauge_up_49||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "480||heat_gauge_up_50||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "481||heat_gauge_up_51||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "482||heat_gauge_up_52||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "483||heat_gauge_up_53||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "484||heat_gauge_up_54||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "485||heat_gauge_up_55||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "486||heat_gauge_up_56||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "487||heat_gauge_up_57||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "488||heat_gauge_up_58||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "489||heat_gauge_up_59||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "490||heat_gauge_up_60||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "491||heat_gauge_up_61||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "492||heat_gauge_up_62||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "493||heat_gauge_up_63||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "494||heat_gauge_up_64||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "495||heat_gauge_up_65||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "496||heat_gauge_up_66||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "497||heat_gauge_up_67||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "498||heat_gauge_up_68||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "499||heat_gauge_up_69||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "500||heat_gauge_up_70||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "501||heat_gauge_up_71||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "502||heat_gauge_up_72||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "503||heat_gauge_up_73||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "504||heat_gauge_up_74||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "505||heat_gauge_up_75||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "506||heat_gauge_up_76||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "507||heat_gauge_up_77||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "508||heat_gauge_up_78||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "509||heat_gauge_up_79||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "510||heat_gauge_up_80||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "511||heat_gauge_up_81||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "512||heat_gauge_up_82||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "513||heat_gauge_up_83||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "514||heat_gauge_up_84||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "515||heat_gauge_up_85||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "516||heat_gauge_up_86||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "517||heat_gauge_up_87||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "518||heat_gauge_up_88||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "519||heat_gauge_up_89||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "520||heat_gauge_up_90||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "521||heat_gauge_up_91||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "522||heat_gauge_up_92||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "523||heat_gauge_up_93||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "524||heat_gauge_up_94||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "525||heat_gauge_up_95||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "526||heat_gauge_up_96||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "527||heat_gauge_up_97||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "528||heat_gauge_up_98||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "529||heat_gauge_up_99||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "530||heat_gauge_up_100||name"
 msgid "Boost Heat Gauge"
-msgstr "Aumenta barra Furore"
+msgstr "Potenziamento barra Furore"
 
 msgctxt "531||btl_cmb_speed_01||name"
 msgid "Boost Combo Speed Lv. 1"
