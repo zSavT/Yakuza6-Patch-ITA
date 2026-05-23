@@ -69,7 +69,7 @@ msgstr "Entra nelle fogne"
 
 msgctxt "144||m_adv01_210||title"
 msgid "Take a Taxi to Touto Hospital"
-msgstr "Prendi un taxi per l'ospedale Touto"
+msgstr "Prendi un taxi per il Touto Hospital"
 
 msgctxt "145||m_adv02_010||title"
 msgid "Investigate the Accident"
@@ -717,7 +717,7 @@ msgstr "Vai alla stazione della funivia"
 
 msgctxt "324||m_adv02_072||title"
 msgid "Go to Touto Hospital"
-msgstr "Vai all'ospedale Touto"
+msgstr "Vai al Touto Hospital"
 
 msgctxt "325||m_adv05_012||title"
 msgid "Go to the Ropeway Station"
@@ -2017,7 +2017,7 @@ msgstr "(Capitolo 1)\r\nAkiyama è davvero laggiù?\r\nImmagino ci sia solo un m
 
 msgctxt "144||m_adv01_210||mission_info"
 msgid "(Chapter 1)\r\nWhat was Haruka doing in Kamurocho?\r\nI need to head over to Touto Hospital and find out."
-msgstr "(Capitolo 1)\r\nCosa ci faceva Haruka a Kamurocho?\r\nDevo andare all'ospedale Touto per scoprirlo."
+msgstr "(Capitolo 1)\r\nCosa ci faceva Haruka a Kamurocho?\r\nDevo andare al Touto Hospital per scoprirlo."
 
 msgctxt "145||m_adv02_010||mission_info"
 msgid "(Chapter 2)\r\nThere must be some clues here about what happened..."
@@ -2665,7 +2665,7 @@ msgstr "(Capitolo 3)\r\nÈ giusto che le restituisca il favore.\r\nÈ ora di inc
 
 msgctxt "324||m_adv02_072||mission_info"
 msgid "(Chapter 2)\r\nAkiyama's apparently over at Touto Hospital.\r\nI should take a taxi to go see him."
-msgstr "(Capitolo 2)\r\nA quanto pare Akiyama si trova all'ospedale Touto.\r\nDovrei prendere un taxi per andarlo a trovare."
+msgstr "(Capitolo 2)\r\nA quanto pare Akiyama si trova al Touto Hospital.\r\nDovrei prendere un taxi per andarlo a trovare."
 
 msgctxt "325||m_adv05_012||mission_info"
 msgid "(Chapter 5)\r\nIt's just about time for my meeting with Kiyomi.\r\nShe should be waiting at the top of the ropeway."
