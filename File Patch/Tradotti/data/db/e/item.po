@@ -817,7 +817,7 @@ msgstr "Sandwich baguette"
 
 msgctxt "346||cafe_clubsand||name"
 msgid "Club Sandwich"
-msgstr "Club Sandwich"
+msgstr "Club sandwich"
 
 msgctxt "347||cafe_originalpan1||name"
 msgid "Original Bread"
@@ -857,7 +857,7 @@ msgstr "Succo d'arancia"
 
 msgctxt "356||wild_oolongtea||name"
 msgid "Oolong Tea"
-msgstr "Tè Oolong"
+msgstr "Tè oolong"
 
 msgctxt "357||ichiban_charsiudon||name"
 msgid "Chashu Rice Bowl"
@@ -901,7 +901,7 @@ msgstr "The Premium Malt's"
 
 msgctxt "372||bar_vsop||name"
 msgid "Suntory Brandy V.S.O.P"
-msgstr "Suntory Brandy V.S.O.P"
+msgstr "Suntory Brandy V.S.O.P."
 
 msgctxt "374||gindaco_tacoyaki||name"
 msgid "Absolutely Tasty Takoyaki"
@@ -965,7 +965,7 @@ msgstr "Birra alla spina (Media)"
 
 msgctxt "397||yoro_oolongtea||name"
 msgid "Oolong Tea"
-msgstr "Tè Oolong"
+msgstr "Tè oolong"
 
 msgctxt "398||yoro_lemonsour||name"
 msgid "Lemon Sour (Medium)"
@@ -1049,7 +1049,7 @@ msgstr "Champon piccante"
 
 msgctxt "426||ringer_sara||name"
 msgid "Nagasaki Saraudon"
-msgstr "Saraudon di Nagasaki"
+msgstr "Sara udon di Nagasaki"
 
 msgctxt "427||ringer_yasaisara||name"
 msgid "Vegetable Saraudon"
@@ -1141,7 +1141,7 @@ msgstr "Maiale a doppia cottura"
 
 msgctxt "461||oosaka_mabo||name"
 msgid "Mapo Tofu"
-msgstr "Mapo Tofu"
+msgstr "Mapo tofu"
 
 msgctxt "462||oosaka_banbanji||name"
 msgid "Banbanji Chicken Salad"
@@ -1749,11 +1749,11 @@ msgstr "Tessera dell'Internet Café"
 
 msgctxt "637||book_muscle||name"
 msgid "Strength Tome"
-msgstr "Tomo della Forza"
+msgstr "Tomo della forza"
 
 msgctxt "638||book_quickness||name"
 msgid "Agility Tome"
-msgstr "Tomo dell'Agilità"
+msgstr "Tomo dell'agilità"
 
 msgctxt "639||book_technique||name"
 msgid "Technique Tome"
@@ -1793,7 +1793,7 @@ msgstr "JAN JAN Yakisoba con salsa"
 
 msgctxt "648||acecook_wakame||name"
 msgid "Wakame Ramen"
-msgstr "Ramen Wakame"
+msgstr "Ramen wakame"
 
 msgctxt "649||acecook_wantan||name"
 msgid "Soup Harusame: Wonton"
@@ -2097,7 +2097,7 @@ msgstr "Talismano del Dio della guerra"
 
 msgctxt "731||staminan_d||name"
 msgid "Staminan Royale (Bonus Item)"
-msgstr "Staminan Royale (Oggetto bonus)"
+msgstr "Staminan Royale (oggetto bonus)"
 
 msgctxt "25||smile_burgar||explanation"
 msgid "Our classic Smile Burger."

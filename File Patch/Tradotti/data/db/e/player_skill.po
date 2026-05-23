@@ -4869,15 +4869,15 @@ msgstr "Aumenta la quantità di EXP ottenibile mangiando."
 
 msgctxt "661||otr_stomach_01||explanation"
 msgid "Increases the maximum hunger gauge."
-msgstr "Aumenta la capacità massima della barra fame."
+msgstr "Aumenta la capacità massima della barra Fame."
 
 msgctxt "662||otr_stomach_02||explanation"
 msgid "Increases the maximum hunger gauge."
-msgstr "Aumenta la capacità massima della barra fame."
+msgstr "Aumenta la capacità massima della barra Fame."
 
 msgctxt "663||otr_stomach_03||explanation"
 msgid "Increases the maximum hunger gauge."
-msgstr "Aumenta la capacità massima della barra fame."
+msgstr "Aumenta la capacità massima della barra Fame."
 
 msgctxt "664||otr_stomach_04||explanation"
 msgid "Increases the maximum hunger gauge."

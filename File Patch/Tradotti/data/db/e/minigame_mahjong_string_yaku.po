@@ -17,7 +17,7 @@ msgstr "Est"
 
 msgctxt "3||dabuton||text"
 msgid "Double East"
-msgstr "Doppio Est"
+msgstr "Doppio est"
 
 msgctxt "4||nan||text"
 msgid "South"
@@ -25,7 +25,7 @@ msgstr "Sud"
 
 msgctxt "5||dabunan||text"
 msgid "Double South"
-msgstr "Doppio Sud"
+msgstr "Doppio sud"
 
 msgctxt "6||sha||text"
 msgid "West"
@@ -33,7 +33,7 @@ msgstr "Ovest"
 
 msgctxt "7||dabusha||text"
 msgid "Double West"
-msgstr "Doppio Ovest"
+msgstr "Doppio ovest"
 
 msgctxt "8||pe||text"
 msgid "North"
@@ -41,7 +41,7 @@ msgstr "Nord"
 
 msgctxt "9||dabupe||text"
 msgid "Double North"
-msgstr "Doppio Nord"
+msgstr "Doppio nord"
 
 msgctxt "10||haku||text"
 msgid "White Dragon"
