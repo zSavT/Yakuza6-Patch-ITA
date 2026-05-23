@@ -2101,7 +2101,7 @@ msgstr "Staminan Royale (oggetto bonus)"
 
 msgctxt "25||smile_burgar||explanation"
 msgid "Our classic Smile Burger."
-msgstr "L'archetipo degli hamburger, famoso da anni\nin tutta Kamurocho."
+msgstr "Il nostro classico Smile Burger."
 
 msgctxt "26||smile_wburgar||explanation"
 msgid "Two times the meat, two times the fun!"
@@ -2181,7 +2181,7 @@ msgstr "Aiuta a proteggere i denti prevenendo gli sforzi."
 
 msgctxt "102||mouthguard_max||explanation"
 msgid "Fits perfectly in any set of teeth."
-msgstr "Si adatta perfettamente a qualsiasi dentatura."
+msgstr "Il paradenti definitivo, realizzato da Kamiyama Works."
 
 msgctxt "103||sarashi_asagao||explanation"
 msgid "Reminds you of home."
@@ -2301,11 +2301,11 @@ msgstr "In qualche modo rende i nemici meno inclini\r\nad affrontarti. C'è molt
 
 msgctxt "132||eye_ofthe_dragon||explanation"
 msgid "A stone that emits a bizarre red glow."
-msgstr "Una pietra che emette un bizzarro bagliore rosso."
+msgstr "Una bizzarra pietra rossa che emette un potente bagliore."
 
 msgctxt "133||amulet_dragon||explanation"
 msgid "A blessing from the heavens that taps into your\r\nhidden energy reserves to protect you from death."
-msgstr "Una benedizione dal cielo che attinge alle tue\r\nriserve di energia nascoste per proteggerti dalla morte."
+msgstr "Reliquia celeste che attinge alle tue energie latenti\r\nper proteggerti dalla morte."
 
 msgctxt "134||underwear_white||explanation"
 msgid "An essential piece of any middle-aged man's wardrobe."
@@ -2361,11 +2361,11 @@ msgstr "Mostra la posizione delle casseforti sulla mappa."
 
 msgctxt "172||toughnessz||explanation"
 msgid "Useful when you need a little health boost."
-msgstr "Utile quando hai bisogno di un piccolo recupero di salute."
+msgstr "Utile quando vuoi recuperare un po' di salute."
 
 msgctxt "173||toughnesszz||explanation"
 msgid "Restores your health quite a bit."
-msgstr "Ripristina un bel po' della tua salute."
+msgstr "Ripristina notevolmente la tua salute."
 
 msgctxt "174||toughnessinfinity||explanation"
 msgid "Restores your health to its maximum."
@@ -2373,35 +2373,35 @@ msgstr "Ripristina al massimo la tua salute."
 
 msgctxt "175||tauriner_a||explanation"
 msgid "Charges up your Heat a little."
-msgstr "Ricarica un po' il tuo Furore."
+msgstr "Ricarica leggermente il Furore."
 
 msgctxt "176||tauriner_b||explanation"
 msgid "Charges up your Heat significantly."
-msgstr "Ricarica notevolmente il tuo Furore."
+msgstr "Ricarica notevolmente il Furore."
 
 msgctxt "177||tauriner_c||explanation"
 msgid "Charges up your Heat dramatically."
-msgstr "Ricarica drasticamente il tuo Furore."
+msgstr "Ricarica considerevolmente il Furore."
 
 msgctxt "178||tauriner_s||explanation"
 msgid "Charges up your Heat to its maximum level."
-msgstr "Ricarica il tuo Furore al livello massimo."
+msgstr "Ricarica completamente il Furore."
 
 msgctxt "179||staminan_a||explanation"
 msgid "Charges up your health and Heat a little."
-msgstr "Ricarica un po' la tua salute e il Furore."
+msgstr "Ripristina la salute e ricarica il Furore leggermente."
 
 msgctxt "180||staminan_b||explanation"
 msgid "Charges up your health and Heat significantly."
-msgstr "Ricarica notevolmente la tua salute e il Furore."
+msgstr "Ripristina la salute e ricarica il Furore notevolmente."
 
 msgctxt "181||staminan_c||explanation"
 msgid "Charges up your health and Heat dramatically."
-msgstr "Ricarica drasticamente la tua salute e il Furore."
+msgstr "Ripristina la salute e ricarica il Furore considerevolmente."
 
 msgctxt "182||staminan_s||explanation"
 msgid "Charges up your health and Heat to its maximum."
-msgstr "Ricarica al massimo la tua salute e il Furore."
+msgstr "Ripristina la salute e ricarica il Furore completamente."
 
 msgctxt "183||haraheru_half||explanation"
 msgid "Stimulates your digestive tract,\r\nslightly lowering your Hunger Gauge."
@@ -2409,63 +2409,63 @@ msgstr "Stimola il tratto digestivo,\r\nabbassando leggermente la barra fame."
 
 msgctxt "184||haraheru_rx||explanation"
 msgid "Stimulates your digestive tract,\r\ngreatly lowering your Hunger Gauge."
-msgstr "Stimola il tratto digestivo,\r\nabbassando notevolmente la barra fame."
+msgstr "Stimola il tratto digestivo, riducendo notevolmente\r\nla barra Fame."
 
 msgctxt "185||random_drink01||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "186||random_drink02||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "187||random_drink03||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "188||random_drink04||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "189||random_drink05||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "190||random_drink06||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "191||random_drink07||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "192||random_drink08||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "193||random_drink09||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "194||random_drink10||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "195||random_drink11||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "196||random_drink12||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "197||random_drink13||explanation"
 msgid "Only your taste buds can solve this mystery."
-msgstr "Solo le tue papille gustative possono risolvere questo mistero."
+msgstr "Solo le tue papille gustative possono risolvere\nquesto mistero."
 
 msgctxt "198||alps_coffee||explanation"
 msgid "A blend of Mandheling and Brazilian beans with\r\na Colombian base."
-msgstr "Una miscela di chicchi Mandheling e brasiliani con\r\nuna base colombiana."
+msgstr "Un'incredibile miscela di chicchi Mandheling e brasiliani\r\ncon una base pungente di colombiano."
 
 msgctxt "200||alps_moca||explanation"
 msgid "Countless coffee drinkers love mocha-style\r\ncoffee for its rich, bitter flavor."
@@ -2473,7 +2473,7 @@ msgstr "Innumerevoli bevitori di caffè amano il caffè\r\nmocaccino per il suo 
 
 msgctxt "204||alps_cake||explanation"
 msgid "A modestly sweet shortcake topped with fresh\r\nwhipped cream."
-msgstr "Una shortcake non troppo dolce guarnita con\r\npanna montata fresca."
+msgstr "Una shortcake moderatamente dolce e guarnita\r\ncon panna montata fresca."
 
 msgctxt "205||alps_montblanc||explanation"
 msgid "A lavish Mont Blanc made with generous helpings\r\nof chestnuts."
@@ -2493,7 +2493,7 @@ msgstr "Goditi il sapore ricco dell'espresso\r\ne del soffice latte schiumato."
 
 msgctxt "210||cafe_espresso||explanation"
 msgid "Made with hand-selected fair-trade coffee \r\nbeans for superior taste and aroma."
-msgstr "Fatto con chicchi di caffè del commercio equosolidale\r\nselezionati a mano per un gusto e un aroma superiori."
+msgstr "Preparato con chicchi di caffè equosolidale selezionati\r\nper ottenere un sapore e un aroma superiori."
 
 msgctxt "219||cafe_sandwich||explanation"
 msgid "A basic egg sandwich for those days when\r\nyou just need to power through a meal."
@@ -2525,7 +2525,7 @@ msgstr "Una delizia fresca e dissetante, molto popolare\r\nnei mesi estivi."
 
 msgctxt "230||smile_salada||explanation"
 msgid "Choosing the healthy alternative to a\r\nburger is always something to smile about."
-msgstr "Scegliere l'alternativa sana a un hamburger\r\nè sempre un buon motivo per sorridere."
+msgstr "Scegliere un'alternativa sana a un hamburger\r\nè sempre un ottimo motivo per sorridere."
 
 msgctxt "231||smile_m_burgar||explanation"
 msgid "Several patties that absolutely explode with\r\nflavor in this Millennium Tower inspired burger."
@@ -2541,7 +2541,7 @@ msgstr "Un piatto standard del nostro menù. Questo tonkotsu ha\r\nil sapore del
 
 msgctxt "240||ichiban_ramen_kakuni||explanation"
 msgid "Our popular tonkotsu ramen, topped with pork\r\nkakuni that's been simmered over a long period."
-msgstr "Il nostro famoso ramen tonkotsu, condito con\r\nkakuni di maiale cotto a fuoco lento a lungo."
+msgstr "Un ramen tonkotsu molto popolare, coperto di pancetta di\r\nmaiale cotta finché il grasso non si stacca dall'osso."
 
 msgctxt "241||ichiban_ramen_charsiu||explanation"
 msgid "Tasty ramen topped with succulent, thin\r\nslices of roast pork."
@@ -2637,7 +2637,7 @@ msgstr "Un tipo di sushi con salmone e uova sparsi\r\nsul riso per sushi."
 
 msgctxt "265||sushigin_kiwamichirashi||explanation"
 msgid "A type of sushi with tuna, squid, and salmon\r\nscattered lavishly over sushi rice."
-msgstr "Un tipo di sushi con tonno, calamari e salmone\r\nsparsi abbondantemente sul riso per sushi."
+msgstr "Un tipo di sushi tradizionale con tonno, calamaro e salmone\r\ncosparsi generosamente su un letto di riso."
 
 msgctxt "266||sushigin_tekka||explanation"
 msgid "A rice bowl neatly topped with red tuna meat."
@@ -2649,7 +2649,7 @@ msgstr "Una ciotola di riso accuratamente guarnita con frutti di\r\nmare di luss
 
 msgctxt "268||sushigin_osuimono||explanation"
 msgid "Clear broth with condensed seafood stock."
-msgstr "Brodo limpido con concentrato di frutti di mare."
+msgstr "Brodo chiaro arricchito da una riduzione di frutti di mare."
 
 msgctxt "269||sushigin_ebijiru||explanation"
 msgid "Miso soup with the whole head of a Japanese\r\nspiny lobster in it."
@@ -2809,7 +2809,7 @@ msgstr "Il complemento perfetto per un piatto di manzo."
 
 msgctxt "311||akaushi_misoshiru||explanation"
 msgid "Long green onions and seaweed rest atop\r\nthis steaming miso soup."
-msgstr "Cipollotti lunghi e alghe riposano sopra\r\nquesta zuppa fumante di miso."
+msgstr "Rondelle di cipollotti e alghe galleggiano serene\r\nsu questa fumante ciotola di zuppa."
 
 msgctxt "312||akaushi_coleslaw||explanation"
 msgid "A simple salad made with thinly cut cabbage."
@@ -2861,11 +2861,11 @@ msgstr "Tofu fatto in casa del negozio del Pocket\r\nCircuit Fighter, \"Fujisawa
 
 msgctxt "334||alps_bluemountain||explanation"
 msgid "This is the ultimate cup of coffee, made with\r\ntop-grade coffee beans."
-msgstr "Questa è la tazza di caffè definitiva, preparata\r\ncon chicchi di caffè di prima qualità."
+msgstr "Il caffè supremo, preparato con chicchi di prima qualità."
 
 msgctxt "335||alps_earlgrey||explanation"
 msgid "Enjoy the citrus bergamot fragrance of this tea\r\ngrown in Sri Lanka under an exclusive contract."
-msgstr "Goditi la fragranza agrumata al bergamotto di questo\r\ntè coltivato in Sri Lanka con un contratto esclusivo."
+msgstr "Perditi nell'aroma di bergamotto di questo tè, raccolto in\r\nSri Lanka da un coltivatore esclusivo."
 
 msgctxt "336||alps_parfaitichigo||explanation"
 msgid "This creamy parfait loaded with fresh\r\nstrawberries is quite filling."
@@ -2873,7 +2873,7 @@ msgstr "Questo cremoso parfait carico di fragole fresche\r\nè abbastanza sazian
 
 msgctxt "337||alps_parfaitchoco||explanation"
 msgid "This parfait made with rich, delicious\r\nchocolate is really filling."
-msgstr "Questo parfait preparato con ricco e delizioso\r\ncioccolato è molto saziante."
+msgstr "Parfait con cioccolato dall'aroma ricco\r\ne delizioso, molto saziante."
 
 msgctxt "338||alps_beefcurry||explanation"
 msgid "The pride of Café Alps and all of Japan, beef\r\ncurry with roux simmered for an entire week."
@@ -2881,19 +2881,19 @@ msgstr "L'orgoglio del Café Alps e di tutto il Giappone, curry di\r\nmanzo con 
 
 msgctxt "339||cafe_milktea||explanation"
 msgid "Get refreshed with this blend of smooth tea\r\nand creamy milk."
-msgstr "Rinfrescati con questa miscela di tè vellutato\r\ne latte cremoso."
+msgstr "Rinfrescati con questo delizioso mix di tè e crema di latte."
 
 msgctxt "340||cafe_macchalatte||explanation"
 msgid "Matcha latte that's made with matcha from Uji.\r\nIt's popular with today's youth."
-msgstr "Matcha Latte preparato con matcha di Uji.\r\nÈ molto popolare tra i giovani d'oggi."
+msgstr "Una ricca crema di latte con tè verde matcha di Uji. Molto\r\npopolare tra i giovani."
 
 msgctxt "341||cafe_chococake||explanation"
 msgid "The rich taste of chocolate is not overpowered\r\nby any added sugars."
-msgstr "Il sapore ricco del cioccolato non viene sovrastato\r\nda zuccheri aggiunti."
+msgstr "Il suo avvolgente sapore di cacao non è sovrastato\r\nda zuccheri aggiunti."
 
 msgctxt "342||cafe_cheesecake||explanation"
 msgid "Light, fluffy, and slightly sour filling on\r\na graham-cracker crust."
-msgstr "Ripieno leggero, soffice e leggermente aspro\r\nsu una base di cracker graham."
+msgstr "Una crema leggera, spumosa e leggermente acidula\r\nsu una base di biscotto croccante."
 
 msgctxt "343||cafe_originalcake||explanation"
 msgid "The cafe owner's pride and joy."
@@ -2917,7 +2917,7 @@ msgstr "È un vero traguardo culinario innovare\r\nil pane al giorno d'oggi."
 
 msgctxt "348||cafe_originalpan2||explanation"
 msgid "The owner bakes this bread personally,\r\nputting his own twists on the classics."
-msgstr "Il proprietario cuoce questo pane personalmente,\r\ndando il suo tocco ai classici."
+msgstr "Il proprietario cuoce personalmente questo pane, aggiungendo\r\nun tocco personale alla ricetta classica."
 
 msgctxt "349||smile_maguroburgar||explanation"
 msgid "A healthy hamburger made with a tuna patty."
@@ -2945,7 +2945,7 @@ msgstr "Questo pollo piccante è fatto impastando spezie originali\r\nnella pana
 
 msgctxt "355||wild_orangejuice||explanation"
 msgid "100% pure orange juice."
-msgstr "Succo d'arancia puro al 100%."
+msgstr "Succo d'arancia al 100%."
 
 msgctxt "356||wild_oolongtea||explanation"
 msgid "Ice-cold oolong tea. Goes well with anything."
@@ -3045,7 +3045,7 @@ msgstr "Soba calda guarnita con agedama, tofu fritto,\r\nuova onsen e kamaboko."
 
 msgctxt "394||fujisoba_katsudon||explanation"
 msgid "A signature item that entwines the meaty pork\r\ncutlet with special sauce and fluffy eggs."
-msgstr "Un piatto forte che unisce la sostanziosa cotoletta\r\ndi maiale con una salsa speciale e soffici uova."
+msgstr "Un piatto amatissimo che unisce una succosa cotoletta di\r\nmaiale a morbide uova con una salsa speciale."
 
 msgctxt "395||fujisoba_curry||explanation"
 msgid "Curry rice with mild spice. The restaurant's\r\noriginal curry roux mixed with their famous soup."
@@ -3057,7 +3057,7 @@ msgstr "Un boccale medio di birra alla spina, un ottimo\r\ninizio. Ha una schium
 
 msgctxt "397||yoro_oolongtea||explanation"
 msgid "Oolong tea is the quintessential non-alcoholic\r\ndrink. Enjoy its exquisite fragrance and flavor."
-msgstr "Il tè Oolong è la quintessenza delle bevande\r\nanalcoliche. Goditi il suo squisito aroma e sapore."
+msgstr "Il tè oolong è la bevanda analcolica per eccellenza.\r\nGusta il suo squisito aroma e il magnifico sapore."
 
 msgctxt "398||yoro_lemonsour||explanation"
 msgid "A beverage with a refreshing lemon taste that\r\ncleanses the palate nicely when eating snacks."
@@ -3101,11 +3101,11 @@ msgstr "Sgombro molto grasso selezionato a mano.\r\nUn piatto consigliato del no
 
 msgctxt "412||yoro_choregi||explanation"
 msgid "Kotchori salad brimming with scallions. The\r\npeppery dressing and onions pair with any drink."
-msgstr "Insalata Kotchori ricca di cipollotti. Il condimento pepato\r\ne le cipolle si abbinano con qualsiasi bevanda."
+msgstr "Insalata Kotchori con cipollotti. Grazie al suo\r\ncondimento pepato e alle cipolle si abbina a ogni drink."
 
 msgctxt "413||yoro_edamame||explanation"
 msgid "These soybeans in the pod are pretty much the\r\ndefault snack when drinking."
-msgstr "Questi semi di soia nel baccello sono in pratica lo\r\nspuntino predefinito quando si beve."
+msgstr "I semi di soia ancora nel baccello sono lo snack\r\nper definizione da accompagnare a un drink."
 
 msgctxt "414||yoro_kushimori||explanation"
 msgid "A plate of five different skewers. The secret\r\nto their popularity is the special spicy miso."
@@ -3125,11 +3125,11 @@ msgstr "Questa celebre cotoletta di macinato è carica di deliziosa\r\ncarne che
 
 msgctxt "420||yoro_moyashi||explanation"
 msgid "A simple dish of bean sprouts with a peppery\r\npunch. Once you start eating, it's hard to stop."
-msgstr "Un piatto semplice di germogli di soia dal tocco pepato.\r\nUna volta iniziato a mangiare, è difficile fermarsi."
+msgstr "Un piatto saltato in padella molto semplice, ma dal\r\nretrogusto pepato. Una volta iniziato è difficile smettere."
 
 msgctxt "422||ringer_chanpon||explanation"
 msgid "The taste of Nagasaki. By making abundant use of\r\nquality ingredients, it has a deep, rich flavor."
-msgstr "Il sapore di Nagasaki. Facendo largo uso di ingredienti\r\ndi qualità, vanta un sapore profondo e ricco."
+msgstr "Il sapore di Nagasaki. Le verdure locali in abbondanza\r\ne altri ingredienti di qualità donano un'esplosione\r\ndi colore e sapore."
 
 msgctxt "423||ringer_yasai||explanation"
 msgid "Overflowing with 7 types of vegetables!\r\nTwice as many as the Nagasaki Champon!"
@@ -3137,11 +3137,11 @@ msgstr "Traboccante di 7 tipi di verdure!\r\nIl doppio rispetto al Champon di Na
 
 msgctxt "424||ringer_pirikara||explanation"
 msgid "A stimulating champon using homemade spicy miso."
-msgstr "Uno stuzzicante champon con miso piccante fatto in casa."
+msgstr "Del champon reso molto più interessante dal miso piccante."
 
 msgctxt "426||ringer_sara||explanation"
 msgid "Thin noodles fried until crunchy, then covered\r\nin hot vegetable topping."
-msgstr "Spaghetti sottili fritti fino a diventare croccanti e poi\r\nricoperti con verdure calde."
+msgstr "Noodle sottili fritti fino a diventare croccanti e ricoperti\r\ndi verdure fumanti."
 
 msgctxt "427||ringer_yasaisara||explanation"
 msgid "The sister product of the popular Vegetable\r\nChampon. Enjoy with your favorite dressing."
@@ -3229,7 +3229,7 @@ msgstr "Questo piatto è fatto con maiale croccante fritto e\r\nverdure croccant
 
 msgctxt "460||oosaka_hoikoro||explanation"
 msgid "This hearty dish uses lots of cabbage and pork."
-msgstr "Questo piatto sostanzioso usa molto cavolo e maiale."
+msgstr "Un abbondante piatto con cavolo e maiale."
 
 msgctxt "461||oosaka_mabo||explanation"
 msgid "The spiciness of the Japanese pepper and cayenne\r\npeppers stands out in this dish."
@@ -3237,7 +3237,7 @@ msgstr "Il sapore piccante del pepe giapponese e del pepe\r\ndi cayenna spicca i
 
 msgctxt "462||oosaka_banbanji||explanation"
 msgid "The fresh vegetables and chicken go perfectly with\r\neach other."
-msgstr "Le verdure fresche e il pollo si abbinano\r\nperfettamente tra loro."
+msgstr "Un matrimonio perfetto tra pollo e verdure fresche."
 
 msgctxt "463||oosaka_gomadango||explanation"
 msgid "Enjoy the fluffy and sticky texture of this\r\nsesame dumpling."
@@ -3257,7 +3257,7 @@ msgstr "Uno champagne che puoi trovare ovunque."
 
 msgctxt "473||caba_beer||explanation"
 msgid "A glass of beer with a refined taste."
-msgstr "Un bicchiere di birra dal gusto raffinato."
+msgstr "Una bella pinta dalla schiuma cremosa e dal sapore\nrinfrescante."
 
 msgctxt "474||caba_cassisorange||explanation"
 msgid "Cassis Orange is popular with young people."
@@ -3265,7 +3265,7 @@ msgstr "Il Cassis e arancia è molto popolare tra i giovani."
 
 msgctxt "475||caba_orangejuice||explanation"
 msgid "100% pure orange juice."
-msgstr "Succo d'arancia puro al 100%."
+msgstr "Succo d'arancia al 100%."
 
 msgctxt "476||caba_water||explanation"
 msgid "Cold water."
@@ -3449,7 +3449,7 @@ msgstr "Un caffè originale Wette Kitchen realizzato miscelando\r\nchicchi di ca
 
 msgctxt "531||wette_icelemontea||explanation"
 msgid "A popular Wette Kitchen soft drink that smells\r\nof fresh lemon."
-msgstr "Una bevanda analcolica popolare di Wette Kitchen che profuma\r\ndi limone fresco."
+msgstr "Una bibita che va alla grande al Wette Kitchen\r\ndall'intenso profumo di limone fresco."
 
 msgctxt "532||imuraya_niku||explanation"
 msgid "A widely loved staple. When you talk about\r\ngreat steamed buns, this is the one."
@@ -3473,11 +3473,11 @@ msgstr "L'ultimo nato della serie Gold Chinese Bun.\r\nUn panino pizza con ingre
 
 msgctxt "537||darts_beginner||explanation"
 msgid "Completely standard darts. Since they're for\r\ngeneral-use, they have low performance."
-msgstr "Freccette completamente standard. Essendo per\r\nuso generale, hanno prestazioni ridotte."
+msgstr "Delle comunissime freccette. Dato che sono adatte a tutti,\r\nnon hanno buone prestazioni."
 
 msgctxt "538||darts_middle||explanation"
 msgid "Darts made for people becoming familiar with the\r\ngame. They have average performance."
-msgstr "Freccette create per chi sta imparando il gioco.\r\nHanno prestazioni medie."
+msgstr "Freccette pensate per chi inizia ad avere familiarità\r\ncon questo gioco. Hanno prestazioni medie."
 
 msgctxt "539||darts_advanced||explanation"
 msgid "Custom-made darts. Since they're designed for\r\nexpert users, they're very high-performance."
@@ -3533,11 +3533,11 @@ msgstr "L'insalata croccante si sposa bene con la carne."
 
 msgctxt "552||ikinari_soup||explanation"
 msgid "A consommé based soup."
-msgstr "Una zuppa a base di consommé."
+msgstr "Un delicato consommé."
 
 msgctxt "553||smile_smileburgar||explanation"
 msgid "The original hamburger known throughout\r\nKamurocho for years."
-msgstr "L'hamburger originale conosciuto in tutta\r\nKamurocho da anni."
+msgstr "L'archetipo degli hamburger, famoso da anni\r\nin tutta Kamurocho."
 
 msgctxt "554||sushiza_uniikuradon||explanation"
 msgid "A bowl overflowing with a harmony of ikura and\r\nuni. Salmon roe and sea urchin, respectively."
@@ -3557,7 +3557,7 @@ msgstr "Lo stesso delizioso sapore del Champon di Nagasaki,\r\ncon il 30% in men
 
 msgctxt "559||ringer_yasaisoup||explanation"
 msgid "Soup with delicious vegetables and ginger. Topped\r\nwith ginger dressing or yuzu pepper dressing."
-msgstr "Zuppa con deliziose verdure e zenzero. Guarnita con\r\ncondimento allo zenzero o al pepe yuzu."
+msgstr "Zuppa con squisite verdure e zenzero, condita con altro\r\nzenzero o yuzu kosho."
 
 msgctxt "560||ringer_chapolitan||explanation"
 msgid "By combining champon noodles with ketchup,\r\na champon noodle Napolitan is made."
@@ -3565,7 +3565,7 @@ msgstr "Combinando i noodle champon con il ketchup,\r\nnasce un champon Napolita
 
 msgctxt "561||ringer_charhan||explanation"
 msgid "Ringer Hut is particular with vegetables, and\r\nthey take pride in their homemade fried rice."
-msgstr "Il Ringer Hut seleziona le proprie verdure con cura ed\r\nè fiero del proprio riso fritto fatto in casa."
+msgstr "Ringer Hut è particolarmente attento alla scelta\r\ndelle verdure, ed è orgoglioso del suo riso fritto artigianale."
 
 msgctxt "562||juuman_chukasoba||explanation"
 msgid "The ultimate bowl made through devoted studying\r\nand research since 1989."
@@ -3621,11 +3621,11 @@ msgstr "Combina la bontà piccante del pepe yuzu con\r\nun tocco di wasabi."
 
 msgctxt "575||gindaco_tacokara||explanation"
 msgid "Plump, deep-fried octopus covered with super\r\nspicy cayenne pepper and Japanese pepper."
-msgstr "Polpo fritto e polposo ricoperto di pepe di cayenna\r\nsuper piccante e pepe giapponese."
+msgstr "Delizioso polpo fritto ricoperto di pepe rosso piccantissimo\r\ne pepe giapponese."
 
 msgctxt "576||gindaco_potatosourcream||explanation"
 msgid "Take french fries to the next level with\r\na dollop of fresh and cool sour cream."
-msgstr "Porta le patatine fritte a un livello superiore con\r\nuna generosa dose di fresca panna acida."
+msgstr "Porta le classiche patatine fritte a un livello superiore\r\ncon una generosa dose di panna acida fresca."
 
 msgctxt "577||gindaco_tubokyu||explanation"
 msgid "Gindaco Highball's No. 1 side dish that goes\r\nwell with alcohol."
@@ -3645,7 +3645,7 @@ msgstr "Il sapore agrumato e rinfrescante dell'arancia rossa si abbina\r\nalla p
 
 msgctxt "581||gindaco_ginbeam||explanation"
 msgid "A highball with a strong Jim Beam taste."
-msgstr "Un highball con un forte sapore di Jim Beam."
+msgstr "Highball frizzante con il tipico sapore del Jim Beam."
 
 msgctxt "582||gindaco_citruslemon||explanation"
 msgid "The Jim Beam Highball garnished with lemon.\r\nIt has a fresh taste and is easy to drink."
@@ -3673,7 +3673,7 @@ msgstr "Il tuo classico pranzo bento. È sufficiente a saziarti."
 
 msgctxt "588||food_yakisoba||explanation"
 msgid "Yakisoba with cabbage and pork. The smell of\r\nthe sauce is simply mouth-watering."
-msgstr "Yakisoba con cavolo e maiale. Il profumo della\r\nsalsa fa semplicemente venire l'acquolina in bocca."
+msgstr "Yakisoba con cavolo e maiale. Il profumino della salsa\r\nè semplicemente irresistibile."
 
 msgctxt "589||food_tonkatsu||explanation"
 msgid "This tonkatsu lunch set is made with rich\r\nSatsuma pork."
@@ -3777,11 +3777,11 @@ msgstr "Una piccola conchiglia."
 
 msgctxt "614||drifters_buoy||explanation"
 msgid "A buoy that has drifted from somewhere."
-msgstr "Una boa che è andata alla deriva da qualche parte."
+msgstr "Una boa arrivata a riva da chissà dove."
 
 msgctxt "615||drifters_dust||explanation"
 msgid "Looks like it came from another country."
-msgstr "Sembra provenire da un altro paese."
+msgstr "Sembra venire da un altro paese."
 
 msgctxt "616||drifters_wakame||explanation"
 msgid "Seaweed washed ashore."
@@ -3829,7 +3829,7 @@ msgstr "Vino bianco dal sapore fruttato."
 
 msgctxt "628||snack_orangejuice||explanation"
 msgid "100% pure orange juice."
-msgstr "Succo d'arancia puro al 100%."
+msgstr "Succo d'arancia al 100%."
 
 msgctxt "629||snack_water||explanation"
 msgid "Cold water."
@@ -3841,11 +3841,11 @@ msgstr "Una tessera per l'Internet Café. Permette\r\ndi utilizzare la struttura
 
 msgctxt "637||book_muscle||explanation"
 msgid "A mysterious book that boosts your\r\nStrength EXP by 100 when read."
-msgstr "Un libro misterioso che aumenta l'EXP Forza\r\ndi 100 quando viene letto."
+msgstr "Libro misterioso che aumenta l'ESP Potenza di 100\r\nquando viene letto."
 
 msgctxt "638||book_quickness||explanation"
 msgid "A mysterious book that boosts your\r\nAgility EXP by 100 when read."
-msgstr "Un libro misterioso che aumenta l'EXP Agilità\r\ndi 100 quando viene letto."
+msgstr "Libro misterioso che aumenta l'ESP Agilità di 100\r\nquando viene letto."
 
 msgctxt "639||book_technique||explanation"
 msgid "A mysterious book that boosts your\r\nTechnique EXP by 100 when read."
@@ -3861,11 +3861,11 @@ msgstr "Un libro misterioso che aumenta l'EXP Spirito\r\ndi 100 quando viene let
 
 msgctxt "642||drink_nihonshu||explanation"
 msgid "This large bottle of sake can be enjoyed heated\r\nor chilled."
-msgstr "Questa grande bottiglia di sake può essere gustata scaldata\r\no fredda."
+msgstr "Una bottiglia bella abbondante di vino di riso\r\nda assaporare caldo o fresco."
 
 msgctxt "643||suntory_kakubin||explanation"
 msgid "A whisky known for its sweet scent, deep\r\nrichness, and dry aftertaste."
-msgstr "Un whisky noto per il suo profumo dolce, la sua\r\nprofonda ricchezza e il suo retrogusto secco."
+msgstr "Whisky classico amato per l'aroma dolce, la ricchezza\r\ndefinita e il retrogusto secco."
 
 msgctxt "644||suntory_maltz||explanation"
 msgid "Layered and dense. The ultimate beer full of\r\neverything a brewmaster dreams of."
@@ -3885,7 +3885,7 @@ msgstr "Yakisoba in un contenitore elegante. La salsa, con\r\ndieci frutti e ver
 
 msgctxt "648||acecook_wakame||explanation"
 msgid "This smooth-tasting cup ramen mixes organic\r\nmarudaizu sauce with great seafood and spices."
-msgstr "Questa cup ramen dal gusto morbido unisce la salsa di soia\r\nbiologica con ottimi frutti di mare e spezie."
+msgstr "Ramen istantaneo setoso che unisce salsa di soia marudaizu\r\nbiologica, frutti di mare scelti e spezie."
 
 msgctxt "649||acecook_wantan||explanation"
 msgid "These glass noodles are made specifically for\r\nsoup by combining mung bean and potato starch."
@@ -3969,23 +3969,23 @@ msgstr "Realizzato con alcuni dei metalli più rari al mondo.\r\nPotrebbe frutta
 
 msgctxt "673||dish_gold||explanation"
 msgid "The gold standard in plates.\r\nCould go for quite a lot at a pawn shop."
-msgstr "Lo standard aureo dei piatti.\r\nPotrebbe valere parecchio in un banco dei pegni."
+msgstr "Il re dei piatti. Potrebbe valere parecchio\r\nal banco dei pegni."
 
 msgctxt "674||dish_silver||explanation"
 msgid "This well-crafted plate could net you\r\na hefty sum over at a pawn shop."
-msgstr "Questo piatto ben lavorato potrebbe fruttarti\r\nuna bella somma in un banco dei pegni."
+msgstr "Un oggetto raffinato che può valere una somma sostanziosa\r\nal banco dei pegni."
 
 msgctxt "675||dish_copper||explanation"
 msgid "It's not particularly valuable, but it could\r\ngo for a relatively nice price at a pawn shop."
-msgstr "Non è particolarmente prezioso, ma potresti\r\nottenere un buon prezzo in un banco dei pegni."
+msgstr "Non è molto prezioso, ma potrebbe fruttare una bella somma\r\nal banco dei pegni."
 
 msgctxt "676||dish_iron||explanation"
 msgid "It's not too special, but it could go for\r\na decent price at a pawn shop."
-msgstr "Non è nulla di speciale, ma potresti venderlo\r\na un prezzo decente in un banco dei pegni."
+msgstr "Niente di speciale, ma potrebbe avere un\r\ncerto valore al banco dei pegni."
 
 msgctxt "677||dish_paper||explanation"
 msgid "This thing is practically worthless.\r\nYou could sell it at a pawn shop, if you want."
-msgstr "Questa cosa è praticamente inutile.\r\nPuoi venderla a un banco dei pegni, se vuoi."
+msgstr "Non vale praticamente niente. Potresti provare a venderlo\r\nal banco dei pegni, se proprio vuoi."
 
 msgctxt "678||suba03_harukabromide||explanation"
 msgid "A bromide of Haruka from her idol days."
@@ -4001,23 +4001,23 @@ msgstr "Una torta gelato che si abbina bene con del formaggio\r\nricco e una sal
 
 msgctxt "683||quadra_cappuccino||explanation"
 msgid "Rich espresso crowned with fluffy,\r\nfrothed milk that lingers on the lips."
-msgstr "Un espresso ricco, coronato da latte soffice\r\ne schiumato che indugia sulle labbra."
+msgstr "Espresso corposo sovrastato da latte morbido e schiumoso\r\nche accarezza le labbra."
 
 msgctxt "684||quadra_espresso||explanation"
 msgid "Made with hand-selected fair-trade coffee \r\nbeans for superior taste and aroma."
-msgstr "Fatto con chicchi di caffè del commercio equosolidale\r\nselezionati a mano per un gusto e un aroma superiori."
+msgstr "Preparato con chicchi di caffè equosolidale selezionati\r\nper ottenere un sapore e un aroma superiori."
 
 msgctxt "685||quadra_milktea||explanation"
 msgid "Get refreshed with this blend of smooth tea\r\nand creamy milk."
-msgstr "Rinfrescati con questa miscela di tè vellutato\r\ne latte cremoso."
+msgstr "Rinfrescati con questo delizioso mix di tè e crema di latte."
 
 msgctxt "686||quadra_chococake||explanation"
 msgid "The rich taste of chocolate is not overpowered\r\nby any added sugars."
-msgstr "Il sapore ricco del cioccolato non viene sovrastato\r\nda zuccheri aggiunti."
+msgstr "Il suo avvolgente sapore di cacao non è sovrastato\r\nda zuccheri aggiunti."
 
 msgctxt "687||quadra_cheesecake||explanation"
 msgid "Light, fluffy, and slightly sour filling on\r\na graham-cracker crust."
-msgstr "Ripieno leggero, soffice e leggermente aspro\r\nsu una base di cracker graham."
+msgstr "Una crema leggera, spumosa e leggermente acidula\r\nsu una base di biscotto croccante."
 
 msgctxt "688||quadra_sandwich||explanation"
 msgid "A basic egg sandwich for those days when\r\nyou just need to power through a meal."
@@ -4025,7 +4025,7 @@ msgstr "Un semplice sandwich all'uovo per quei giorni in cui\r\nhai solo bisogno
 
 msgctxt "689||quadra_croissant||explanation"
 msgid "Buttery, flaky, and served warm if asked."
-msgstr "Imburrato, sfogliato e servito caldo su richiesta."
+msgstr "Burroso, friabile, e servito caldo a piacere."
 
 msgctxt "690||quadra_toast||explanation"
 msgid "Warmed to golden brown and toasty."
@@ -6337,7 +6337,7 @@ msgstr "Nessuna"
 
 msgctxt "102||mouthguard_max||special_explanation"
 msgid "None"
-msgstr "Nessuna"
+msgstr "Niente"
 
 msgctxt "103||sarashi_asagao||special_explanation"
 msgid "None"
@@ -6365,11 +6365,11 @@ msgstr "Nessuna"
 
 msgctxt "109||vest_bltproof||special_explanation"
 msgid "None"
-msgstr "Nessuna"
+msgstr "Niente"
 
 msgctxt "110||vest_bltproof_sp||special_explanation"
 msgid "None"
-msgstr "Nessuna"
+msgstr "Niente"
 
 msgctxt "111||vest_knfproof||special_explanation"
 msgid "None"
@@ -6385,11 +6385,11 @@ msgstr "Nessuna"
 
 msgctxt "114||chainmail_lw||special_explanation"
 msgid "None"
-msgstr "Nessuna"
+msgstr "Niente"
 
 msgctxt "115||chainmail||special_explanation"
 msgid "None"
-msgstr "Nessuna"
+msgstr "Niente"
 
 msgctxt "116||chainmail_bloody||special_explanation"
 msgid "None"
@@ -6425,7 +6425,7 @@ msgstr "Nessuna"
 
 msgctxt "124||insole_max||special_explanation"
 msgid "None"
-msgstr "Nessuna"
+msgstr "Niente"
 
 msgctxt "125||amulet_health||special_explanation"
 msgid "None"
@@ -6449,7 +6449,7 @@ msgstr "Aumenta il tasso di affetto\r\ndelle hostess del 5%."
 
 msgctxt "130||photo_charisma||special_explanation"
 msgid "Increases probability of\r\ngetting into a fight."
-msgstr "Aumenta la probabilità di\r\niniziare un combattimento."
+msgstr "Aumenta le probabilità\r\ndi dover combattere."
 
 msgctxt "131||photo_asagao||special_explanation"
 msgid "Decreases probability of\r\ngetting into a fight."
@@ -6457,11 +6457,11 @@ msgstr "Diminuisce la probabilità di\r\niniziare un combattimento."
 
 msgctxt "132||eye_ofthe_dragon||special_explanation"
 msgid "None"
-msgstr "Nessuna"
+msgstr "Niente"
 
 msgctxt "133||amulet_dragon||special_explanation"
 msgid "Increases Heat gain by 10%\r\nwhen near death."
-msgstr "Aumenta l'ottenimento di Furore del 10%\r\nquando si è in fin di vita."
+msgstr "Aumenta il guadagno di Furore\r\ndel 10% se prossimo alla morte."
 
 msgctxt "134||underwear_white||special_explanation"
 msgid "None"
