@@ -2589,7 +2589,7 @@ msgstr "Aumenta la salute massima."
 
 msgctxt "2||attack_up_1||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "3||defense_up_1||explanation"
 msgid "Increases defense."
@@ -2601,7 +2601,7 @@ msgstr "Aumenta la schivata."
 
 msgctxt "5||heat_gauge_up_1||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "36||hit_point_up_2||explanation"
 msgid "Increases maximum health."
@@ -2609,7 +2609,7 @@ msgstr "Aumenta la salute massima."
 
 msgctxt "37||attack_up_2||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "38||defense_up_2||explanation"
 msgid "Increases defense."
@@ -2621,7 +2621,7 @@ msgstr "Aumenta la schivata."
 
 msgctxt "40||heat_gauge_up_2||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "41||hit_point_up_3||explanation"
 msgid "Increases maximum health."
@@ -3017,395 +3017,395 @@ msgstr "Aumenta la salute massima."
 
 msgctxt "139||attack_up_3||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "140||attack_up_4||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "141||attack_up_5||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "142||attack_up_6||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "143||attack_up_7||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "144||attack_up_8||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "145||attack_up_9||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "146||attack_up_10||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "147||attack_up_11||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "148||attack_up_12||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "149||attack_up_13||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "150||attack_up_14||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "151||attack_up_15||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "152||attack_up_16||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "153||attack_up_17||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "154||attack_up_18||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "155||attack_up_19||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "156||attack_up_20||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "157||attack_up_21||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "158||attack_up_22||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "159||attack_up_23||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "160||attack_up_24||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "161||attack_up_25||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "162||attack_up_26||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "163||attack_up_27||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "164||attack_up_28||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "165||attack_up_29||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "166||attack_up_30||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "167||attack_up_31||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "168||attack_up_32||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "169||attack_up_33||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "170||attack_up_34||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "171||attack_up_35||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "172||attack_up_36||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "173||attack_up_37||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "174||attack_up_38||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "175||attack_up_39||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "176||attack_up_40||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "177||attack_up_41||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "178||attack_up_42||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "179||attack_up_43||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "180||attack_up_44||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "181||attack_up_45||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "182||attack_up_46||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "183||attack_up_47||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "184||attack_up_48||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "185||attack_up_49||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "186||attack_up_50||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "187||attack_up_51||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "188||attack_up_52||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "189||attack_up_53||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "190||attack_up_54||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "191||attack_up_55||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "192||attack_up_56||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "193||attack_up_57||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "194||attack_up_58||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "195||attack_up_59||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "196||attack_up_60||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "197||attack_up_61||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "198||attack_up_62||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "199||attack_up_63||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "200||attack_up_64||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "201||attack_up_65||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "202||attack_up_66||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "203||attack_up_67||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "204||attack_up_68||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "205||attack_up_69||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "206||attack_up_70||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "207||attack_up_71||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "208||attack_up_72||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "209||attack_up_73||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "210||attack_up_74||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "211||attack_up_75||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "212||attack_up_76||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "213||attack_up_77||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "214||attack_up_78||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "215||attack_up_79||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "216||attack_up_80||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "217||attack_up_81||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "218||attack_up_82||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "219||attack_up_83||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "220||attack_up_84||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "221||attack_up_85||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "222||attack_up_86||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "223||attack_up_87||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "224||attack_up_88||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "225||attack_up_89||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "226||attack_up_90||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "227||attack_up_91||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "228||attack_up_92||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "229||attack_up_93||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "230||attack_up_94||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "231||attack_up_95||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "232||attack_up_96||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "233||attack_up_97||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "234||attack_up_98||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "235||attack_up_99||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "236||attack_up_100||explanation"
 msgid "Increases attack damage."
-msgstr "Aumenta i danni d'attacco."
+msgstr "Aumenta i danni degli attacchi."
 
 msgctxt "237||defense_up_3||explanation"
 msgid "Increases defense."
@@ -4193,395 +4193,395 @@ msgstr "Aumenta la schivata."
 
 msgctxt "433||heat_gauge_up_3||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "434||heat_gauge_up_4||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "435||heat_gauge_up_5||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "436||heat_gauge_up_6||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "437||heat_gauge_up_7||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "438||heat_gauge_up_8||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "439||heat_gauge_up_9||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "440||heat_gauge_up_10||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "441||heat_gauge_up_11||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "442||heat_gauge_up_12||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "443||heat_gauge_up_13||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "444||heat_gauge_up_14||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "445||heat_gauge_up_15||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "446||heat_gauge_up_16||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "447||heat_gauge_up_17||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "448||heat_gauge_up_18||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "449||heat_gauge_up_19||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "450||heat_gauge_up_20||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "451||heat_gauge_up_21||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "452||heat_gauge_up_22||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "453||heat_gauge_up_23||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "454||heat_gauge_up_24||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "455||heat_gauge_up_25||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "456||heat_gauge_up_26||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "457||heat_gauge_up_27||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "458||heat_gauge_up_28||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "459||heat_gauge_up_29||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "460||heat_gauge_up_30||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "461||heat_gauge_up_31||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "462||heat_gauge_up_32||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "463||heat_gauge_up_33||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "464||heat_gauge_up_34||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "465||heat_gauge_up_35||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "466||heat_gauge_up_36||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "467||heat_gauge_up_37||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "468||heat_gauge_up_38||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "469||heat_gauge_up_39||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "470||heat_gauge_up_40||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "471||heat_gauge_up_41||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "472||heat_gauge_up_42||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "473||heat_gauge_up_43||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "474||heat_gauge_up_44||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "475||heat_gauge_up_45||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "476||heat_gauge_up_46||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "477||heat_gauge_up_47||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "478||heat_gauge_up_48||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "479||heat_gauge_up_49||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "480||heat_gauge_up_50||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "481||heat_gauge_up_51||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "482||heat_gauge_up_52||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "483||heat_gauge_up_53||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "484||heat_gauge_up_54||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "485||heat_gauge_up_55||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "486||heat_gauge_up_56||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "487||heat_gauge_up_57||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "488||heat_gauge_up_58||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "489||heat_gauge_up_59||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "490||heat_gauge_up_60||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "491||heat_gauge_up_61||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "492||heat_gauge_up_62||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "493||heat_gauge_up_63||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "494||heat_gauge_up_64||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "495||heat_gauge_up_65||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "496||heat_gauge_up_66||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "497||heat_gauge_up_67||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "498||heat_gauge_up_68||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "499||heat_gauge_up_69||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "500||heat_gauge_up_70||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "501||heat_gauge_up_71||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "502||heat_gauge_up_72||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "503||heat_gauge_up_73||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "504||heat_gauge_up_74||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "505||heat_gauge_up_75||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "506||heat_gauge_up_76||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "507||heat_gauge_up_77||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "508||heat_gauge_up_78||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "509||heat_gauge_up_79||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "510||heat_gauge_up_80||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "511||heat_gauge_up_81||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "512||heat_gauge_up_82||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "513||heat_gauge_up_83||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "514||heat_gauge_up_84||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "515||heat_gauge_up_85||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "516||heat_gauge_up_86||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "517||heat_gauge_up_87||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "518||heat_gauge_up_88||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "519||heat_gauge_up_89||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "520||heat_gauge_up_90||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "521||heat_gauge_up_91||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "522||heat_gauge_up_92||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "523||heat_gauge_up_93||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "524||heat_gauge_up_94||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "525||heat_gauge_up_95||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "526||heat_gauge_up_96||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "527||heat_gauge_up_97||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "528||heat_gauge_up_98||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "529||heat_gauge_up_99||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "530||heat_gauge_up_100||explanation"
 msgid "Increases Heat Gauge gain rate."
-msgstr "Aumenta la velocità di ricarica della barra Furore."
+msgstr "Aumenta la capacità massima della barra Furore."
 
 msgctxt "531||btl_cmb_speed_01||explanation"
 msgid "Increases attack speed slightly."
@@ -4609,7 +4609,7 @@ msgstr "Recupera mentre vieni atterrato."
 
 msgctxt "537||btl_blowback||explanation"
 msgid "Regain your stance quickly after an enemy blocks your attack."
-msgstr "Recupera rapidamente la posizione dopo che un nemico ha parato un tuo attacco."
+msgstr "Attacca più rapidamente quando il nemico blocca gli attacchi combo."
 
 msgctxt "538||btl_reguard||explanation"
 msgid "Quickly regain ability to guard after guard is\r\nbroken."
@@ -4625,7 +4625,7 @@ msgstr "La tua posizione di deviazione dura più a lungo."
 
 msgctxt "541||btl_sway_atk||explanation"
 msgid "Attack immediately after a Quickstep."
-msgstr "Attacca immediatamente dopo un passo rapido."
+msgstr "Attacca immediatamente dopo un passo svelto."
 
 msgctxt "542||btl_sway_01||explanation"
 msgid "Perform two Quicksteps back-to-back."
@@ -4637,7 +4637,7 @@ msgstr "Esegui tre passi rapidi consecutivi."
 
 msgctxt "544||btl_sway_dash||explanation"
 msgid "Lunge forward while running to gain a lot of distance quickly."
-msgstr "Affonda in avanti mentre corri per coprire rapidamente molta distanza."
+msgstr "Esegui un affondo in avanti durante la corsa\nper guadagnare molto terreno rapidamente."
 
 msgctxt "545||btl_sway_dash_atk||explanation"
 msgid "An attack performed directly from a lunge."
@@ -4673,11 +4673,11 @@ msgstr "Esegui un passo rapido per annullare determinate azioni."
 
 msgctxt "554||btl_involve||explanation"
 msgid "Damage is increased to any additional enemies hit by\r\nyour attacks."
-msgstr "I danni inflitti a qualsiasi nemico aggiuntivo colpito dai\r\ntuoi attacchi aumentano."
+msgstr "Aumenta i danni inflitti per ogni nemico\r\naggiuntivo che viene colpito dai tuoi attacchi."
 
 msgctxt "555||btl_anti_atk||explanation"
 msgid "Deal more damage when you hit enemies while they\r\nare attacking."
-msgstr "Infliggi più danni quando colpisci i nemici mentre\r\nstanno attaccando."
+msgstr "Infliggi più danni quando colpisci\r\ni nemici mentre stanno attaccando."
 
 msgctxt "556||hct_rush||explanation"
 msgid "Your Rush Combo during Extreme Heat Mode increases\r\nfrom 4 hits to 8 hits."
@@ -4933,11 +4933,11 @@ msgstr "Aumenta la probabilità di ottenere un effetto positivo bevendo \r\nuna 
 
 msgctxt "677||otr_drunk_01||explanation"
 msgid "Your tolerance toward alcohol becomes stronger and your\r\nmaximum alcohol intake increases."
-msgstr "Rafforza la tolleranza all'alcol e aumenta la quantità\r\nmassima di alcol che puoi ingerire."
+msgstr "Aumenta la tolleranza all'alcol e la quantità massima\r\ndi alcol che puoi assumere."
 
 msgctxt "678||otr_drunk_02||explanation"
 msgid "Your tolerance toward alcohol becomes stronger and your\r\nmaximum alcohol intake increases."
-msgstr "Rafforza la tolleranza all'alcol e aumenta la quantità\r\nmassima di alcol che puoi ingerire."
+msgstr "Aumenta la tolleranza all'alcol e la quantità massima\r\ndi alcol che puoi assumere."
 
 msgctxt "679||otr_drunk_03||explanation"
 msgid "Your tolerance toward alcohol becomes stronger and your\r\nmaximum alcohol intake increases."
@@ -5173,7 +5173,7 @@ msgstr "Si sblocca dopo aver appreso Recupero rapido."
 
 msgctxt "537||btl_blowback||locked_message"
 msgid "Unlocked after Attack is over 150."
-msgstr "Si sblocca dopo che l'Attacco supera i 150."
+msgstr "Sbloccato dopo aver appreso Limite attacco e difesa liv. 2."
 
 msgctxt "540||btl_ukenagashi_02||locked_message"
 msgid "Unlocked after learning Parry."
@@ -5525,7 +5525,7 @@ msgstr "<Sign:6,Combat> appena prima che un attacco nemico vada a segno."
 
 msgctxt "541||btl_sway_atk||unlocked_message"
 msgid "<Sign:1,Combat> while Quickstepping with <Sign:3,Combat>."
-msgstr "<Sign:1,Combat> mentre esegui un passo rapido con <Sign:3,Combat>."
+msgstr "Premi <Sign:1,Combat> durante un passo svelto con <Sign:3,Combat>."
 
 msgctxt "542||btl_sway_01||unlocked_message"
 msgid "<Sign:3,Combat> while Quickstepping with <Sign:3,Combat>."
@@ -5537,7 +5537,7 @@ msgstr "<Sign:3,Combat> mentre esegui un doppio passo rapido."
 
 msgctxt "544||btl_sway_dash||unlocked_message"
 msgid "<Sign:3,Combat> while running."
-msgstr "<Sign:3,Combat> mentre corri."
+msgstr "Premi <Sign:3,Combat> durante la corsa."
 
 msgctxt "545||btl_sway_dash_atk||unlocked_message"
 msgid "<Sign:1,Combat> while lunging."
@@ -5557,7 +5557,7 @@ msgstr "<Sign:0,Combat> subito dopo aver messo a segno un Colpo finale su un nem
 
 msgctxt "551||btl_anti_stn||unlocked_message"
 msgid "Press <Sign:3,Combat> repeatedly."
-msgstr "Premi ripetutamente <Sign:3,Combat>."
+msgstr "Premi rapidamente <Sign:3,Combat>."
 
 msgctxt "552||btl_charge||unlocked_message"
 msgid "Hold down <Sign:1,Combat> during a Rush Combo."
