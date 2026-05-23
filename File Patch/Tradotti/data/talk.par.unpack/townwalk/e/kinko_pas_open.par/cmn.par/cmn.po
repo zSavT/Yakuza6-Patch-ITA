@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 10
 msgctxt "Offset_0x1FAC_Len_10"
 msgid "Try again?"
-msgstr ""
+msgstr "Riprova?"
 
 #. Max bytes: 24
 msgctxt "Offset_0x263C_Len_24"
 msgid "Please enter a passcode."
-msgstr ""
+msgstr "Inserisci il codice."
 

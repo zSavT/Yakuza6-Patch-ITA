@@ -15,5 +15,4 @@ msgstr ""
 #. Max bytes: 31
 msgctxt "Offset_0x3808_Len_31"
 msgid "Play mahjong at the hard table?"
-msgstr ""
-
+msgstr "Mahjong al tavolo difficile?"

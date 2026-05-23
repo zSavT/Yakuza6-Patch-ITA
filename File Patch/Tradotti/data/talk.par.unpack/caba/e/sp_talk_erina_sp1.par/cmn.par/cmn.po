@@ -10,22 +10,22 @@ msgstr ""
 #. Max bytes: 20
 msgctxt "Offset_0x36028_Len_20"
 msgid "I wouldn't say that."
-msgstr ""
+msgstr "Non direi proprio."
 
 #. Max bytes: 19
 msgctxt "Offset_0x36068_Len_19"
 msgid "If the shoe fits..."
-msgstr ""
+msgstr "Se ti si addice..."
 
 #. Max bytes: 29
 msgctxt "Offset_0x360A8_Len_29"
 msgid "Are you faking it to me, too?"
-msgstr ""
+msgstr "Fingi anche con me?"
 
 #. Max bytes: 37
 msgctxt "Offset_0x365B8_Len_37"
 msgid "Erina's rank has increased to Bronze."
-msgstr ""
+msgstr "Erina è salita al grado Bronzo."
 
 #. Max bytes: 44
 msgctxt "Offset_0x365E8_Len_44"
@@ -35,7 +35,7 @@ msgstr ""
 #. Max bytes: 37
 msgctxt "Offset_0x369B8_Len_37"
 msgid "Erina's rank has increased to Bronze."
-msgstr ""
+msgstr "Erina è salita al grado Bronzo."
 
 #. Max bytes: 44
 msgctxt "Offset_0x369E8_Len_44"

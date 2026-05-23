@@ -150,7 +150,7 @@ msgstr "Ma quando te ne accorgi, è sempre troppo tardi..."
 #. Max bytes: 47
 msgctxt "Offset_0x4E044_Len_47"
 msgid "Mama... Y'don't gotta rub salt in his wounds..."
-msgstr "Mama... Non rigirare il coltello nella piaga..."
+msgstr "Mama... non girare il coltello nella piaga..."
 
 #. Max bytes: 18
 msgctxt "Offset_0x4E2A4_Len_18"
@@ -250,7 +250,7 @@ msgstr "E all'anello?"
 #. Max bytes: 15
 msgctxt "Offset_0x50054_Len_15"
 msgid "Well, anyway..."
-msgstr "Beh, comunque..."
+msgstr "Comunque..."
 
 #. Max bytes: 27
 msgctxt "Offset_0x50274_Len_27"
@@ -380,7 +380,7 @@ msgstr "Così un divorzio ha un suo senso."
 #. Max bytes: 49
 msgctxt "Offset_0x52C24_Len_49"
 msgid "But I did some soul searchin', and I quit my job."
-msgstr "Però ho cercato la mia strada e lasciato il lavoro."
+msgstr "Ma ho cercato la mia strada e lasciato il lavoro."
 
 #. Max bytes: 10
 msgctxt "Offset_0x52EA4_Len_10"
@@ -430,7 +430,7 @@ msgstr "Comincio sul serio a provare pena per te..."
 #. Max bytes: 45
 msgctxt "Offset_0x536E4_Len_45"
 msgid "Yeah, I feel bad I wasn't paying attention..."
-msgstr "Sì, mi spiace di non aver fatto attenzione..."
+msgstr "Sì, mi spiace non aver fatto attenzione..."
 
 #. Max bytes: 14
 msgctxt "Offset_0x53944_Len_14"
@@ -470,7 +470,7 @@ msgstr "Chi paga stasera?"
 #. Max bytes: 15
 msgctxt "Offset_0x53D14_Len_15"
 msgid "Well, anyway..."
-msgstr "Beh, comunque..."
+msgstr "Comunque..."
 
 #. Max bytes: 42
 msgctxt "Offset_0x53F34_Len_42"

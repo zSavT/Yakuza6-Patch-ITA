@@ -15,30 +15,30 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0x1BEF4_Len_17"
 msgid "The food's great."
-msgstr ""
+msgstr "Si mangia bene."
 
 #. Max bytes: 19
 msgctxt "Offset_0x1BF34_Len_19"
 msgid "It's up and coming."
-msgstr ""
+msgstr "È in ascesa."
 
 #. Max bytes: 25
 msgctxt "Offset_0x1BF74_Len_25"
 msgid "The girls are cute there."
-msgstr ""
+msgstr "Ci sono ragazze carine."
 
 #. Max bytes: 10
 msgctxt "Offset_0x1C574_Len_10"
 msgid "Of course."
-msgstr ""
+msgstr "Ma certo."
 
 #. Max bytes: 7
 msgctxt "Offset_0x1C5B4_Len_7"
 msgid "No way."
-msgstr ""
+msgstr "Mai."
 
 #. Max bytes: 12
 msgctxt "Offset_0x1C5F4_Len_12"
 msgid "Who can say?"
-msgstr ""
+msgstr "Chi lo sa?"
 

@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0xA534_Len_22"
 msgid "I've been shot before."
-msgstr ""
+msgstr "Mi hanno già sparato."
 
 #. Max bytes: 24
 msgctxt "Offset_0xA574_Len_24"
 msgid "I've fought in an arena."
-msgstr ""
+msgstr "Ho lottato in un'arena."
 
 #. Max bytes: 23
 msgctxt "Offset_0xA5B4_Len_23"
 msgid "I'm amazing at karaoke."
-msgstr ""
+msgstr "Sono forte al karaoke."
 

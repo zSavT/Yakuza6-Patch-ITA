@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 26
 msgctxt "Offset_0x11C88_Len_26"
 msgid "Let's drink the place dry."
-msgstr ""
+msgstr "Svuotiamo il locale!"
 
 #. Max bytes: 26
 msgctxt "Offset_0x11CC8_Len_26"
 msgid "You've got refined tastes."
-msgstr ""
+msgstr "Hai gusti raffinati."
 
 #. Max bytes: 21
 msgctxt "Offset_0x11D08_Len_21"
 msgid "Then make it a water!"
-msgstr ""
+msgstr "Allora un'acqua!"
 

@@ -35,35 +35,34 @@ msgstr ""
 #. Max bytes: 10
 msgctxt "Offset_0x55D5BC_Len_10"
 msgid "Dolche Uho"
-msgstr ""
+msgstr "Dolche uho"
 
 #. Max bytes: 12
 msgctxt "Offset_0x55E2BC_Len_12"
 msgid "Munan Suzuki"
-msgstr ""
+msgstr "Munan Suzuki"
 
 #. Max bytes: 14
 msgctxt "Offset_0x55E2FC_Len_14"
 msgid "Munan Akamatsu"
-msgstr ""
+msgstr "Munan Akamatsu"
 
 #. Max bytes: 10
 msgctxt "Offset_0x55E33C_Len_10"
 msgid "Munan Sato"
-msgstr ""
+msgstr "Munan Sato"
 
 #. Max bytes: 13
 msgctxt "Offset_0x55E9BC_Len_13"
 msgid "Sex Education"
-msgstr ""
+msgstr "Ed. sessuale"
 
 #. Max bytes: 20
 msgctxt "Offset_0x55F1BC_Len_20"
 msgid "Say It with the Pose"
-msgstr ""
+msgstr "Dillo con la posa"
 
 #. Max bytes: 17
 msgctxt "Offset_0x55F1FC_Len_17"
 msgid "Just Say the Word"
-msgstr ""
-
+msgstr "Basta la parola"

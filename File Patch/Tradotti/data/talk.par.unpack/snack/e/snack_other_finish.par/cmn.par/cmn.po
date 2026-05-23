@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 32
 msgctxt "Offset_0x27C_Len_32"
 msgid "Would you like to leave the bar?"
-msgstr ""
-
+msgstr "Vuoi uscire dal bar?"

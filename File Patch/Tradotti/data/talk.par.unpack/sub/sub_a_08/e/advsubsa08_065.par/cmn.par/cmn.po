@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0x914_Len_17"
 msgid "I was too slow..."
-msgstr ""
-
+msgstr "Troppo lento..."

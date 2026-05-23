@@ -10,20 +10,20 @@ msgstr ""
 #. Max bytes: 28
 msgctxt "Offset_0x974_Len_28"
 msgid "Please enter your Clan Code."
-msgstr ""
+msgstr "Inserisci il codice clan."
 
 #. Max bytes: 18
 msgctxt "Offset_0xA24_Len_18"
 msgid "Enter a Clan Code?"
-msgstr ""
+msgstr "Usa codice clan?"
 
 #. Max bytes: 41
 msgctxt "Offset_0x10A4_Len_41"
 msgid "Would you like to re-enter the Clan Code?"
-msgstr ""
+msgstr "Vuoi reinserire il codice clan?"
 
 #. Max bytes: 33
 msgctxt "Offset_0x17D4_Len_33"
 msgid "The Clan Code was not recognized."
-msgstr ""
+msgstr "Codice clan non riconosciuto."
 

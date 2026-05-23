@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 75
 msgctxt "Offset_0x1BA4_Len_75"
 msgid "You've won the Lullaby Battle Royale!\nYou obtained 500,000 yen as a reward."
-msgstr ""
-
+msgstr "Hai vinto la Battle Royale Lullaby!\nHai ottenuto 500.000 yen in premio."

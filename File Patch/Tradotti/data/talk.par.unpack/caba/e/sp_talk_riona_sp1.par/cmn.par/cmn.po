@@ -10,22 +10,22 @@ msgstr ""
 #. Max bytes: 34
 msgctxt "Offset_0x23044_Len_34"
 msgid "Sales are everything to a hostess."
-msgstr ""
+msgstr "Vendere è tutto per un'hostess."
 
 #. Max bytes: 26
 msgctxt "Offset_0x23084_Len_26"
 msgid "That's a great philosophy."
-msgstr ""
+msgstr "È un'ottima filosofia."
 
 #. Max bytes: 21
 msgctxt "Offset_0x230C4_Len_21"
 msgid "I'm not rich, myself!"
-msgstr ""
+msgstr "Io non sono ricco!"
 
 #. Max bytes: 37
 msgctxt "Offset_0x235D4_Len_37"
 msgid "Riona's rank has increased to Bronze."
-msgstr ""
+msgstr "Riona è salita al grado Bronzo."
 
 #. Max bytes: 44
 msgctxt "Offset_0x23604_Len_44"

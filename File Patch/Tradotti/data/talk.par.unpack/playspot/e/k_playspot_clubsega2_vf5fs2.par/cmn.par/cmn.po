@@ -10,30 +10,29 @@ msgstr ""
 #. Max bytes: 35
 msgctxt "Offset_0x620_Len_35"
 msgid "(I'll let my fists do the talking!)"
-msgstr ""
+msgstr "(Farò parlare i miei pugni!)"
 
 #. Max bytes: 30
 msgctxt "Offset_0x710_Len_30"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 #. Max bytes: 22
 msgctxt "Offset_0x800_Len_22"
 msgid "(Actually, maybe not.)"
-msgstr ""
+msgstr "(Anzi, forse no.)"
 
 #. Max bytes: 48
 msgctxt "Offset_0x9B0_Len_48"
 msgid "Play Virtua Fighter 5 Final Showdown [VERY EASY]"
-msgstr ""
+msgstr "Virtua Fighter 5 FS [M. FACILE]"
 
 #. Max bytes: 15
 msgctxt "Offset_0x9F0_Len_15"
 msgid "Check the Rules"
-msgstr ""
+msgstr "Leggi le regole"
 
 #. Max bytes: 48
 msgctxt "Offset_0xDC0_Len_48"
 msgid "遊玩Virtua Fighter 5 Final Showdown[VERY EASY]"
 msgstr ""
-

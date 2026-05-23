@@ -10,112 +10,112 @@ msgstr ""
 #. Max bytes: 66
 msgctxt "Offset_0x40AC8_Len_66"
 msgid "(I wonder who this guy is...\nWait, I think I recognize his voice.)"
-msgstr ""
+msgstr "(Chi sarà mai questo tizio...\nAspetta, riconosco la voce.)"
 
 #. Max bytes: 23
 msgctxt "Offset_0x40BF8_Len_23"
 msgid "(Could it be... Daigo?)"
-msgstr ""
+msgstr "(Che sia... Daigo?)"
 
 #. Max bytes: 45
 msgctxt "Offset_0x40CC8_Len_45"
 msgid "(No. Daigo's young, but he's not this young.)"
-msgstr ""
+msgstr "(No. Daigo è giovane, ma non così tanto.)"
 
 #. Max bytes: 23
 msgctxt "Offset_0x40DD8_Len_23"
 msgid "(Could it be... Daigo?)"
-msgstr ""
+msgstr "(Che sia... Daigo?)"
 
 #. Max bytes: 45
 msgctxt "Offset_0x40EA8_Len_45"
 msgid "(No. Daigo's young, but he's not this young.)"
-msgstr ""
+msgstr "(No. Daigo è giovane, ma non così tanto.)"
 
 #. Max bytes: 37
 msgctxt "Offset_0x40FB8_Len_37"
 msgid "(It couldn't be Haruto, could it...?)"
-msgstr ""
+msgstr "(Non sarà mica Haruto...?)"
 
 #. Max bytes: 77
 msgctxt "Offset_0x41098_Len_77"
 msgid "(No, Haruto's too young to stand up\non his own, let alone talk on the phone.)"
-msgstr ""
+msgstr "(No, non sta nemmeno in piedi da solo,\nfiguriamoci parlare al telefono.)"
 
 #. Max bytes: 37
 msgctxt "Offset_0x411C8_Len_37"
 msgid "(It couldn't be Haruto, could it...?)"
-msgstr ""
+msgstr "(Non sarà mica Haruto...?)"
 
 #. Max bytes: 77
 msgctxt "Offset_0x412A8_Len_77"
 msgid "(No, Haruto's too young to stand up\non his own, let alone talk on the phone.)"
-msgstr ""
+msgstr "(No, non sta nemmeno in piedi da solo,\nfiguriamoci parlare al telefono.)"
 
 #. Max bytes: 25
 msgctxt "Offset_0x436A0_Len_25"
 msgid "(That sounds reasonable.)"
-msgstr ""
+msgstr "(Sembra ragionevole.)"
 
 #. Max bytes: 12
 msgctxt "Offset_0x43760_Len_12"
 msgid "(Hold on...)"
-msgstr ""
+msgstr "(Aspetta...)"
 
 #. Max bytes: 67
 msgctxt "Offset_0x43820_Len_67"
 msgid "(I feel like I've heard about scams\nthat sound a little like this.)"
-msgstr ""
+msgstr "(Ho sentito di truffe\nche assomigliano a questa.)"
 
 #. Max bytes: 43
 msgctxt "Offset_0x43950_Len_43"
 msgid "(I should figure out what's going on here.)"
-msgstr ""
+msgstr "(Devo capire cosa sta succedendo.)"
 
 #. Max bytes: 63
 msgctxt "Offset_0x44F28_Len_63"
 msgid "(This is no time to be distrustful.\nTaichi needs my help here.)"
-msgstr ""
+msgstr "(Non è il momento di diffidare.\nTaichi ha bisogno di me.)"
 
 #. Max bytes: 49
 msgctxt "Offset_0x4714C_Len_49"
 msgid "(What is that even supposed to mean?\nI wonder...)"
-msgstr ""
+msgstr "(Che dovrebbe significare?\nChissà...)"
 
 #. Max bytes: 71
 msgctxt "Offset_0x4AB3C_Len_71"
 msgid "(What is he even talking about?\nI wonder why he's acting so strange...)"
-msgstr ""
+msgstr "(Ma di che parla?\nChissà perché si comporta così...)"
 
 #. Max bytes: 80
 msgctxt "Offset_0x4AC7C_Len_80"
 msgid "(With everything that's happened,\nhe's probably just looking for a distraction.)"
-msgstr ""
+msgstr "(Con tutto quello che è successo,\ncerca solo un modo per distrarsi.)"
 
 #. Max bytes: 80
 msgctxt "Offset_0x4B6F8_Len_80"
 msgid "(With everything that's happened,\nhe's probably just looking for a distraction.)"
-msgstr ""
+msgstr "(Con tutto quello che è successo,\ncerca solo un modo per distrarsi.)"
 
 #. Max bytes: 43
 msgctxt "Offset_0x4B848_Len_43"
 msgid "(I should try to help get his mind off it.)"
-msgstr ""
+msgstr "(Dovrei aiutarlo a distrarsi.)"
 
 #. Max bytes: 41
 msgctxt "Offset_0x4CC00_Len_41"
 msgid "(This must be someone trying to scam me.)"
-msgstr ""
+msgstr "(Deve essere uno che prova a truffarmi.)"
 
 #. Max bytes: 76
 msgctxt "Offset_0x4CD10_Len_76"
 msgid "(I can't believe they'd really steal from\na random stranger over the phone.)"
-msgstr ""
+msgstr "(Non credo rubino davvero a uno sconosciuto\nqualsiasi per telefono.)"
 
 #. Max bytes: 68
 msgctxt "Offset_0x4CE30_Len_68"
 msgid "(I should play along and show him\nwhat happens to people like that.)"
-msgstr ""
+msgstr "(Starò al gioco e gli farò vedere\nche succede a chi fa così.)"
 
 #. Max bytes: 5
 msgctxt "Offset_0x4E1E7_Len_5"
@@ -135,60 +135,59 @@ msgstr ""
 #. Max bytes: 18
 msgctxt "Offset_0x6A080_Len_18"
 msgid "Sounds like Daigo."
-msgstr ""
+msgstr "Sembra Daigo."
 
 #. Max bytes: 19
 msgctxt "Offset_0x6A0C0_Len_19"
 msgid "Sounds like Haruto."
-msgstr ""
+msgstr "Sembra Haruto."
 
 #. Max bytes: 19
 msgctxt "Offset_0x6A700_Len_19"
 msgid "Sounds like Haruto."
-msgstr ""
+msgstr "Sembra Haruto."
 
 #. Max bytes: 18
 msgctxt "Offset_0x6AD80_Len_18"
 msgid "Sounds like Daigo."
-msgstr ""
+msgstr "Sembra Daigo."
 
 #. Max bytes: 30
 msgctxt "Offset_0x6BA80_Len_30"
 msgid "No, this is definitely Taichi."
-msgstr ""
+msgstr "No, questo è proprio Taichi."
 
 #. Max bytes: 24
 msgctxt "Offset_0x6BAC0_Len_24"
 msgid "This is probably a scam."
-msgstr ""
+msgstr "Sembra una truffa."
 
 #. Max bytes: 30
 msgctxt "Offset_0x6C100_Len_30"
 msgid "This doesn't seem like a scam."
-msgstr ""
+msgstr "Non sembra una truffa."
 
 #. Max bytes: 26
 msgctxt "Offset_0x6C140_Len_26"
 msgid "This is definitely a scam!"
-msgstr ""
+msgstr "È di sicuro una truffa!"
 
 #. Max bytes: 26
 msgctxt "Offset_0x6C780_Len_26"
 msgid "Maybe they were wrestling."
-msgstr ""
+msgstr "Forse stavano lottando."
 
 #. Max bytes: 26
 msgctxt "Offset_0x6C7C0_Len_26"
 msgid "This is definitely a scam!"
-msgstr ""
+msgstr "È di sicuro una truffa!"
 
 #. Max bytes: 28
 msgctxt "Offset_0x6CE00_Len_28"
 msgid "Taichi's probably flustered."
-msgstr ""
+msgstr "Taichi sarà agitato."
 
 #. Max bytes: 26
 msgctxt "Offset_0x6CE40_Len_26"
 msgid "This is definitely a scam!"
-msgstr ""
-
+msgstr "È di sicuro una truffa!"

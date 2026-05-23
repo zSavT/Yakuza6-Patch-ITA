@@ -15,22 +15,22 @@ msgstr ""
 #. Max bytes: 28
 msgctxt "Offset_0x44EC0_Len_28"
 msgid "Find out how he feels first."
-msgstr ""
+msgstr "Scopri prima cosa prova."
 
 #. Max bytes: 29
 msgctxt "Offset_0x44F00_Len_29"
 msgid "The answer will come in time."
-msgstr ""
+msgstr "Il tempo darà la risposta."
 
 #. Max bytes: 32
 msgctxt "Offset_0x44F40_Len_32"
 msgid "I'd like to go to Taiwan myself."
-msgstr ""
+msgstr "Andrei a Taiwan anch'io."
 
 #. Max bytes: 38
 msgctxt "Offset_0x45450_Len_38"
 msgid "Sora's rank has increased to Platinum."
-msgstr ""
+msgstr "Sora è salita al grado Platino."
 
 #. Max bytes: 41
 msgctxt "Offset_0x45480_Len_41"

@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 10
 msgctxt "Offset_0x16B84_Len_10"
 msgid "Oh, those!"
-msgstr ""
+msgstr "Oh, loro!"
 
 #. Max bytes: 21
 msgctxt "Offset_0x16BC4_Len_21"
 msgid "Parents can be tough."
-msgstr ""
+msgstr "Dura coi genitori."
 
 #. Max bytes: 24
 msgctxt "Offset_0x16C04_Len_24"
 msgid "Someone like Kazama-san?"
-msgstr ""
+msgstr "Uno come Kazama-san?"
 

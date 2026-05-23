@@ -10,22 +10,22 @@ msgstr ""
 #. Max bytes: 31
 msgctxt "Offset_0x2F958_Len_31"
 msgid "Sounds like you need some rest."
-msgstr ""
+msgstr "Sembra ti serva del riposo."
 
 #. Max bytes: 31
 msgctxt "Offset_0x2F998_Len_31"
 msgid "Maybe I'll stop requesting you."
-msgstr ""
+msgstr "Smetterò di richiederti."
 
 #. Max bytes: 24
 msgctxt "Offset_0x2F9D8_Len_24"
 msgid "I'll give you a massage."
-msgstr ""
+msgstr "Ti farò un massaggio."
 
 #. Max bytes: 39
 msgctxt "Offset_0x2FEE8_Len_39"
 msgid "Riona's rank has increased to Platinum."
-msgstr ""
+msgstr "Riona è salita al grado Platino."
 
 #. Max bytes: 46
 msgctxt "Offset_0x2FF18_Len_46"

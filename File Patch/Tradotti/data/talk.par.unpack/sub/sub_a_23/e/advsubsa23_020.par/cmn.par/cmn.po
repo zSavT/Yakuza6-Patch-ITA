@@ -20,5 +20,4 @@ msgstr ""
 #. Max bytes: 251
 msgctxt "Offset_0xBF850_Len_251"
 msgid "The way to a cat's heart is through its stomach, so bring\r\nit some food! Once a cat has reached max affection, someone\r\nfrom the café will come to pick it up.\n\nBuy food at conveniences stores or the café\nand get out there to make some furry friends!"
-msgstr ""
-
+msgstr "La via per il cuore di un gatto passa per il suo stomaco,\r\nportagli del cibo! Quando un gatto raggiunge l'affetto\r\nmassimo, qualcuno del café verrà a prenderlo.\n\nCompra cibo nei minimarket o al café\ne vai a farti dei nuovi amici pelosi!"

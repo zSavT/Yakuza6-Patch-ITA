@@ -20,15 +20,14 @@ msgstr ""
 #. Max bytes: 48
 msgctxt "Offset_0x3D780_Len_48"
 msgid "\"Kiryu, I just found out my account got hacked!\""
-msgstr ""
+msgstr "\"Kiryu, ho scoperto che mi hanno hackerato!\""
 
 #. Max bytes: 39
 msgctxt "Offset_0x3D980_Len_39"
 msgid "\"I'll send some guys to clean this up.\""
-msgstr ""
+msgstr "\"Manderò qualcuno a sistemare.\""
 
 #. Max bytes: 61
 msgctxt "Offset_0x3DA70_Len_61"
 msgid "\"Spare me the details, but it sounds\nlike I owe you a drink.\""
-msgstr ""
-
+msgstr "\"Risparmia i dettagli, ma sembra\nche ti debba un drink.\""

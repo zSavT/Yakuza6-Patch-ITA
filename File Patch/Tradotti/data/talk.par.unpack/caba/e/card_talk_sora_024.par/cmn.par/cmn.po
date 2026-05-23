@@ -15,15 +15,15 @@ msgstr ""
 #. Max bytes: 13
 msgctxt "Offset_0x129B4_Len_13"
 msgid "It's working."
-msgstr ""
+msgstr "Funziona."
 
 #. Max bytes: 36
 msgctxt "Offset_0x129F4_Len_36"
 msgid "You should have tried pro wrestling."
-msgstr ""
+msgstr "Dovevi darti al wrestling."
 
 #. Max bytes: 17
 msgctxt "Offset_0x12A34_Len_17"
 msgid "How tall are you?"
-msgstr ""
+msgstr "Quanto sei alta?"
 

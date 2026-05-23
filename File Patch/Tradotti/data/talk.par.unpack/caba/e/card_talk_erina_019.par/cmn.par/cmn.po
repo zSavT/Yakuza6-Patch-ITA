@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 20
 msgctxt "Offset_0xA5E4_Len_20"
 msgid "I took down a tiger."
-msgstr ""
+msgstr "Ho steso una tigre."
 
 #. Max bytes: 35
 msgctxt "Offset_0xA624_Len_35"
 msgid "I defeated a hundred yakuza, alone."
-msgstr ""
+msgstr "Ho sconfitto cento yakuza da solo."
 
 #. Max bytes: 27
 msgctxt "Offset_0xA664_Len_27"
 msgid "I used to be a taxi driver."
-msgstr ""
+msgstr "Facevo il tassista."
 

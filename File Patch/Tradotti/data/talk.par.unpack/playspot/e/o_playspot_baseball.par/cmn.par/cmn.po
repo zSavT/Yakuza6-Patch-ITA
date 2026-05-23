@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 14
 msgctxt "Offset_0xD20_Len_14"
 msgid "Play baseball?"
-msgstr ""
-
+msgstr "A baseball?"

@@ -10,15 +10,14 @@ msgstr ""
 #. Max bytes: 30
 msgctxt "Offset_0x16614_Len_30"
 msgid "No wonder you're so beautiful."
-msgstr ""
+msgstr "Ecco perché sei così bella."
 
 #. Max bytes: 17
 msgctxt "Offset_0x16654_Len_17"
 msgid "Sounds expensive."
-msgstr ""
+msgstr "Sembra costoso."
 
 #. Max bytes: 30
 msgctxt "Offset_0x16694_Len_30"
 msgid "Let me touch you and find out."
-msgstr ""
-
+msgstr "Fammi toccare per scoprirlo."

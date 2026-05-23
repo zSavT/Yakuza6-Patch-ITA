@@ -15,5 +15,4 @@ msgstr ""
 #. Max bytes: 291
 msgctxt "Offset_0xE5A48_Len_291"
 msgid "Your players' stats will grow as you utilize them in games.\n\nIf you think an individual player shows some promise,\nuse the Training Tickets you win after games to give\nthem a significant stat boost.\n\nGet your team ready to face the next challenge by\nplaying some ball and training your team!"
-msgstr ""
-
+msgstr "Le statistiche dei giocatori crescono se giocano.\n\nSe pensi che un giocatore sia promettente,\nusa i Biglietti Allenamento vinti a fine gara per\ndargli un forte potenziamento.\n\nPrepara la squadra ad affrontare le prossime sfide\ngiocando a palla e allenando i tuoi atleti!"

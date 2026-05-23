@@ -10,50 +10,49 @@ msgstr ""
 #. Max bytes: 82
 msgctxt "Offset_0x3239C_Len_82"
 msgid "(Is this the father of the kid Taichi hurt?\nI'm pretty sure his name is Ishigaki.)"
-msgstr ""
+msgstr "(È il padre del bimbo ferito da Taichi?\nCredo si chiami Ishigaki.)"
 
 #. Max bytes: 75
 msgctxt "Offset_0x33340_Len_75"
 msgid "(I need to make sure they have enough\nto cover their son's hospital bills.)"
-msgstr ""
+msgstr "(Devo accertarmi che abbiano soldi\nper le cure in ospedale del figlio.)"
 
 #. Max bytes: 54
 msgctxt "Offset_0x33480_Len_54"
 msgid "(More importantly, I can't let\nTaichi end up in debt!)"
-msgstr ""
+msgstr "(Soprattutto, Taichi non\npuò finire nei debiti!)"
 
 #. Max bytes: 18
 msgctxt "Offset_0x3AD8C_Len_18"
 msgid "(This is weird...)"
-msgstr ""
+msgstr "(È strano...)"
 
 #. Max bytes: 58
 msgctxt "Offset_0x3B598_Len_58"
 msgid "(Something seems wrong about this...\nIt has to be a scam.)"
-msgstr ""
+msgstr "(C'è qualcosa che non va...\nDeve essere una truffa.)"
 
 #. Max bytes: 39
 msgctxt "Offset_0x3B6B8_Len_39"
 msgid "(I should try to catch him in his lie.)"
-msgstr ""
+msgstr "(Dovrei farlo cadere in trappola.)"
 
 #. Max bytes: 54
 msgctxt "Offset_0x3BEFC_Len_54"
 msgid "(This must be the guy that fake Taichi told me about.)"
-msgstr ""
+msgstr "(Deve essere il tizio del\nfinto Taichi.)"
 
 #. Max bytes: 10
 msgctxt "Offset_0x3E244_Len_10"
 msgid "(Got him.)"
-msgstr ""
+msgstr "(Preso.)"
 
 #. Max bytes: 29
 msgctxt "Offset_0x79CA8_Len_29"
 msgid "I should hand over the money."
-msgstr ""
+msgstr "Dovrei dare i soldi."
 
 #. Max bytes: 15
 msgctxt "Offset_0x79CE8_Len_15"
 msgid "This is a scam!"
-msgstr ""
-
+msgstr "È una truffa!"

@@ -40,42 +40,42 @@ msgstr ""
 #. Max bytes: 14
 msgctxt "Offset_0xDAC14_Len_14"
 msgid "If you insist."
-msgstr ""
+msgstr "Se insisti."
 
 #. Max bytes: 19
 msgctxt "Offset_0xDAC54_Len_19"
 msgid "Nah, I'm all right."
-msgstr ""
+msgstr "No, sto bene."
 
 #. Max bytes: 36
 msgctxt "Offset_0xDB294_Len_36"
 msgid "Will there be any serious disasters?"
-msgstr ""
+msgstr "Ci saranno disastri seri?"
 
 #. Max bytes: 31
 msgctxt "Offset_0xDB2D4_Len_31"
 msgid "Who'll win the top horse races?"
-msgstr ""
+msgstr "Chi vince ai cavalli?"
 
 #. Max bytes: 32
 msgctxt "Offset_0xDB314_Len_32"
 msgid "Where will I be a year from now?"
-msgstr ""
+msgstr "Dove sarò tra un anno?"
 
 #. Max bytes: 23
 msgctxt "Offset_0xDB914_Len_23"
 msgid "Okay, I'll believe you."
-msgstr ""
+msgstr "Ok, ti credo."
 
 #. Max bytes: 38
 msgctxt "Offset_0xDB954_Len_38"
 msgid "No way, I can't believe you after all."
-msgstr ""
+msgstr "Non ci credo, non posso fidarmi."
 
 #. Max bytes: 39
 msgctxt "Offset_0xDB994_Len_39"
 msgid "After a closer look, she's pretty cute."
-msgstr ""
+msgstr "A ben guardare, è molto carina."
 
 #. Max bytes: 6
 msgctxt "Offset_0xDD722_Len_6"
@@ -86,4 +86,3 @@ msgstr ""
 msgctxt "Offset_0xDD7B6_Len_6"
 msgid " ?|V2?"
 msgstr ""
-

@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 20
 msgctxt "Offset_0x37C_Len_20"
 msgid "Rest Until Nighttime"
-msgstr ""
+msgstr "Fino a notte"
 

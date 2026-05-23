@@ -10,10 +10,9 @@ msgstr ""
 #. Max bytes: 38
 msgctxt "Offset_0x25C4_Len_38"
 msgid "Hide the Letter in the Karaoke Machine"
-msgstr ""
+msgstr "Nascondi nel karaoke"
 
 #. Max bytes: 14
 msgctxt "Offset_0x2604_Len_14"
 msgid "Look Elsewhere"
-msgstr ""
-
+msgstr "Guarda altrove"

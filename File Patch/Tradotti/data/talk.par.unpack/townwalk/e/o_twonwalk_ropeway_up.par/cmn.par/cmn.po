@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 20
 msgctxt "Offset_0x39A8_Len_20"
 msgid "Buy a One-way Ticket"
-msgstr ""
-
+msgstr "Compra solo andata"

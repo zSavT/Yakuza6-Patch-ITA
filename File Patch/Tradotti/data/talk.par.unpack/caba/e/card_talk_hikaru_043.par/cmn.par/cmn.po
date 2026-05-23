@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 26
 msgctxt "Offset_0xC358_Len_26"
 msgid "Yeah, I feel bad about it."
-msgstr ""
+msgstr "Sì, mi sento in colpa."
 
 #. Max bytes: 19
 msgctxt "Offset_0xC398_Len_19"
 msgid "It wasn't my fault."
-msgstr ""
+msgstr "Non è colpa mia."
 

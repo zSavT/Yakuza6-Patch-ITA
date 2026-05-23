@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 18
 msgctxt "Offset_0xBDBC_Len_18"
 msgid "I'm quite serious."
-msgstr ""
+msgstr "Dico sul serio."
 
 #. Max bytes: 15
 msgctxt "Offset_0xBDFC_Len_15"
 msgid "No, not really."
-msgstr ""
+msgstr "Non proprio."
 
 #. Max bytes: 22
 msgctxt "Offset_0xBE3C_Len_22"
 msgid "It's an American joke!"
-msgstr ""
+msgstr "Battuta all'americana!"
 

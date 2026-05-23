@@ -10,10 +10,9 @@ msgstr ""
 #. Max bytes: 65
 msgctxt "Offset_0xECD0_Len_65"
 msgid "(Kaneko-san's so desperate...\nI guess he didn't want to be seen.)"
-msgstr ""
+msgstr "(Kaneko-san è disperato...\nNon voleva farsi vedere, credo.)"
 
 #. Max bytes: 19
 msgctxt "Offset_0x1E384_Len_19"
 msgid "I'm busy right now."
-msgstr ""
-
+msgstr "Sono occupato ora."

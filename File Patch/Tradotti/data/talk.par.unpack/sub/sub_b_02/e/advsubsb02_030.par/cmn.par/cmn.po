@@ -15,10 +15,9 @@ msgstr ""
 #. Max bytes: 18
 msgctxt "Offset_0x17F10_Len_18"
 msgid "Yeah, let's do it."
-msgstr ""
+msgstr "Sì, facciamolo."
 
 #. Max bytes: 22
 msgctxt "Offset_0x17F50_Len_22"
 msgid "Maybe some other time."
-msgstr ""
-
+msgstr "Forse un'altra volta."

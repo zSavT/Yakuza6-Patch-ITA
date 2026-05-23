@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 25
 msgctxt "Offset_0x83A0_Len_25"
 msgid "I'm an underworld legend."
-msgstr ""
+msgstr "Leggenda della malavita."
 
 #. Max bytes: 33
 msgctxt "Offset_0x83E0_Len_33"
 msgid "I fought some tigers bare-handed."
-msgstr ""
+msgstr "Affrontato tigri a mani nude."
 

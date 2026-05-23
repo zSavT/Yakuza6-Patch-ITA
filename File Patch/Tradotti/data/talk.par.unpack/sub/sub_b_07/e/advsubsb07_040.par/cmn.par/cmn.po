@@ -30,20 +30,19 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0x175B5C_Len_15"
 msgid "Honestly, I am."
-msgstr ""
+msgstr "Sì, lo sono."
 
 #. Max bytes: 11
 msgctxt "Offset_0x175B9C_Len_11"
 msgid "Not at all."
-msgstr ""
+msgstr "Per niente."
 
 #. Max bytes: 6
 msgctxt "Offset_0x175BDC_Len_6"
 msgid "Oh no!"
-msgstr ""
+msgstr "Oh no!"
 
 #. Max bytes: 11
 msgctxt "Offset_0x175FEC_Len_11"
 msgid "Oh no……"
-msgstr ""
-
+msgstr "Oh no..."

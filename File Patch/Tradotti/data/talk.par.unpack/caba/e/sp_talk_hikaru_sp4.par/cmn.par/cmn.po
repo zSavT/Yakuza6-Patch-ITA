@@ -10,22 +10,22 @@ msgstr ""
 #. Max bytes: 20
 msgctxt "Offset_0x2A788_Len_20"
 msgid "You sound love sick."
-msgstr ""
+msgstr "Sembri innamorata."
 
 #. Max bytes: 27
 msgctxt "Offset_0x2A7C8_Len_27"
 msgid "What a coincidence. Me too."
-msgstr ""
+msgstr "Che coincidenza. Anch'io."
 
 #. Max bytes: 27
 msgctxt "Offset_0x2A808_Len_27"
 msgid "Lay off the sweet potatoes."
-msgstr ""
+msgstr "Evita le patate dolci."
 
 #. Max bytes: 40
 msgctxt "Offset_0x2AD18_Len_40"
 msgid "Hikaru's rank has increased to Platinum."
-msgstr ""
+msgstr "Hikaru è salita al grado Platino."
 
 #. Max bytes: 40
 msgctxt "Offset_0x2AD48_Len_40"

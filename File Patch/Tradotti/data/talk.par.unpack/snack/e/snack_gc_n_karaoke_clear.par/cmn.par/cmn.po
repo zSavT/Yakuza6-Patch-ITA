@@ -15,7 +15,7 @@ msgstr ""
 #. Max bytes: 259
 msgctxt "Offset_0x6D4C_Len_259"
 msgid "You can now drink with Gen-san!\n\n\nAs you become closer to the customers, your rank within\nthe bar will increase. As your rank increases, you'll\nbe able to drink with more people.\n\nBe assertive about approaching people, or form a bond\nthrough karaoke or darts."
-msgstr ""
+msgstr "Ora puoi bere con Gen-san!\n\n\nPiù ti avvicinerai ai clienti, più il tuo rango nel locale aumenterà. Aumentando di rango, potrai bere con più persone.\n\nAvvicina le persone senza esitare o stringi legami con il karaoke o le freccette."
 
 #. Max bytes: 257
 msgctxt "Offset_0x6E5C_Len_257"

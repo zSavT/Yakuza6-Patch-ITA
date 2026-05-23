@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 30
 msgctxt "Offset_0x4CBC_Len_30"
 msgid "(I don't have any cat food...)"
-msgstr ""
-
+msgstr "(Non ho cibo per gatti...)"

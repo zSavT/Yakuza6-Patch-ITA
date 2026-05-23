@@ -10,10 +10,9 @@ msgstr ""
 #. Max bytes: 32
 msgctxt "Offset_0xF590_Len_32"
 msgid "I guess I have time for a round."
-msgstr ""
+msgstr "Ho tempo per una partita."
 
 #. Max bytes: 22
 msgctxt "Offset_0xF5D0_Len_22"
 msgid "I'm too busy for this."
-msgstr ""
-
+msgstr "Sono troppo occupato."

@@ -10,15 +10,14 @@ msgstr ""
 #. Max bytes: 23
 msgctxt "Offset_0x9C9C_Len_23"
 msgid "Enter the Battle Royale"
-msgstr ""
+msgstr "Entra in Battle Royale"
 
 #. Max bytes: 23
 msgctxt "Offset_0x9CDC_Len_23"
 msgid "Ask About Point Bonuses"
-msgstr ""
+msgstr "Punti bonus aggiuntivi"
 
 #. Max bytes: 32
 msgctxt "Offset_0xA21C_Len_32"
 msgid "Enter the Lullaby Battle Royale?"
-msgstr ""
-
+msgstr "Entri in Battle Royale Lullaby?"

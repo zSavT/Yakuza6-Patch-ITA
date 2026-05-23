@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 31
 msgctxt "Offset_0x23E4_Len_31"
 msgid "Place it Under the Electric Pot"
-msgstr ""
+msgstr "Mettilo sotto il bollitore"
 
 #. Max bytes: 14
 msgctxt "Offset_0x2424_Len_14"
 msgid "Look Elsewhere"
-msgstr ""
+msgstr "Guarda altrove"
 

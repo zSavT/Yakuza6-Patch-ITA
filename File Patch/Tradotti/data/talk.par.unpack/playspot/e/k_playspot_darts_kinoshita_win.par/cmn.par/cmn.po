@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 86
 msgctxt "Offset_0xA50_Len_86"
 msgid "Congratulations on defeating a mid-rank player!\nYou obtained Expert Darts as a reward."
-msgstr ""
-
+msgstr "Complimenti, hai battuto un giocatore medio!\nHai ottenuto Freccette Esperto."

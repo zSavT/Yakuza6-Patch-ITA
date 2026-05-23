@@ -10,70 +10,70 @@ msgstr ""
 #. Max bytes: 45
 msgctxt "Offset_0x8BC_Len_45"
 msgid "Clan Creator Special Leader Goro Majima (SSR)"
-msgstr ""
+msgstr "Leader spec. Clan Creator Goro Majima (SSR)"
 
 #. Max bytes: 47
 msgctxt "Offset_0xAB0_Len_47"
 msgid "Clan Creator Special Leader Taiga Saejima (SSR)"
-msgstr ""
+msgstr "Leader spec. Clan Creator Taiga Saejima (SSR)"
 
 #. Max bytes: 46
 msgctxt "Offset_0xCA4_Len_46"
 msgid "Clan Creator Special Leader Daigo Dojima (SSR)"
-msgstr ""
+msgstr "Leader spec. Clan Creator Daigo Dojima (SSR)"
 
 #. Max bytes: 45
 msgctxt "Offset_0xE98_Len_45"
 msgid "Clan Creator Special Leader Makoto Date (SSR)"
-msgstr ""
+msgstr "Leader spec. Clan Creator Makoto Date (SSR)"
 
 #. Max bytes: 46
 msgctxt "Offset_0x108C_Len_46"
 msgid "Clan Creator Special Leader Shun Akiyama (SSR)"
-msgstr ""
+msgstr "Leader spec. Clan Creator Shun Akiyama (SSR)"
 
 #. Max bytes: 46
 msgctxt "Offset_0x1280_Len_46"
 msgid "Clan Creator Special Leader Kazuma Kiryu (SSR)"
-msgstr ""
+msgstr "Leader spec. Clan Creator Kazuma Kiryu (SSR)"
 
 #. Max bytes: 29
 msgctxt "Offset_0x1474_Len_29"
 msgid "Strategy Guide Exclusive Item"
-msgstr ""
+msgstr "Oggetto escl. guida strat."
 
 #. Max bytes: 25
 msgctxt "Offset_0x15B8_Len_25"
 msgid "Kiryu Best Exclusive Item"
-msgstr ""
+msgstr "Oggetto escl. Kiryu Best"
 
 #. Max bytes: 128
 msgctxt "Offset_0x1760_Len_128"
 msgid "There are new bonus gifts waiting for you.\nYou have acquired \"Morning Glory Photo.\"\nYou have acquired \"Morning Glory Waistband.\""
-msgstr ""
+msgstr "Ci sono nuovi regali bonus per te.\nHai ottenuto \"Foto del Morning Glory\".\nHai ottenuto \"Fascia del Morning Glory\"."
 
 #. Max bytes: 37
 msgctxt "Offset_0x1910_Len_37"
 msgid "Bonus For Completing Achievement List"
-msgstr ""
+msgstr "Bonus completamento lista obiettivi"
 
 #. Max bytes: 19
 msgctxt "Offset_0x1A64_Len_19"
 msgid "Yakuza 6 Fun Pack 1"
-msgstr ""
+msgstr "Yakuza 6 Fun Pack 1"
 
 #. Max bytes: 19
 msgctxt "Offset_0x1BB8_Len_19"
 msgid "Yakuza 6 Fun Pack 2"
-msgstr ""
+msgstr "Yakuza 6 Fun Pack 2"
 
 #. Max bytes: 19
 msgctxt "Offset_0x1D0C_Len_19"
 msgid "Yakuza 6 Fun Pack 3"
-msgstr ""
+msgstr "Yakuza 6 Fun Pack 3"
 
 #. Max bytes: 19
 msgctxt "Offset_0x1E60_Len_19"
 msgid "Yakuza 6 Fun Pack 4"
-msgstr ""
+msgstr "Yakuza 6 Fun Pack 4"
 

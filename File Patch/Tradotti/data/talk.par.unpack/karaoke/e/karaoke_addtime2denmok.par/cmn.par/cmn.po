@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 50
 msgctxt "Offset_0xBD70_Len_50"
 msgid "Would you like to extend\nyour session for 500 yen?"
-msgstr ""
-
+msgstr "Vuoi prolungare\nla sessione per 500 yen?"

@@ -20,30 +20,29 @@ msgstr ""
 #. Max bytes: 29
 msgctxt "Offset_0xD7A50_Len_29"
 msgid "Is it some kind of rice bowl?"
-msgstr ""
+msgstr "È una ciotola di riso?"
 
 #. Max bytes: 27
 msgctxt "Offset_0xD7A90_Len_27"
 msgid "It sounds like a Greek god."
-msgstr ""
+msgstr "Sembra un dio greco."
 
 #. Max bytes: 39
 msgctxt "Offset_0xD7AD0_Len_39"
 msgid "Does it have to do with hitting a wall?"
-msgstr ""
+msgstr "C'entra con il battere sul muro?"
 
 #. Max bytes: 23
 msgctxt "Offset_0xD80D0_Len_23"
 msgid "Give me all your money."
-msgstr ""
+msgstr "Dammi tutti i soldi."
 
 #. Max bytes: 30
 msgctxt "Offset_0xD8110_Len_30"
 msgid "You're not going home tonight."
-msgstr ""
+msgstr "Stasera non torni a casa."
 
 #. Max bytes: 12
 msgctxt "Offset_0xD8150_Len_12"
 msgid "You're mine."
-msgstr ""
-
+msgstr "Sei mio."

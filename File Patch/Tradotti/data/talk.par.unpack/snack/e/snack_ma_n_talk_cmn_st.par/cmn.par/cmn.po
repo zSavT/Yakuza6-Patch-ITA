@@ -10,35 +10,34 @@ msgstr ""
 #. Max bytes: 14
 msgctxt "Offset_0x1098_Len_14"
 msgid "Place an Order"
-msgstr ""
+msgstr "Ordina"
 
 #. Max bytes: 19
 msgctxt "Offset_0x10D8_Len_19"
 msgid "Learn about the Bar"
-msgstr ""
+msgstr "Info sul bar"
 
 #. Max bytes: 14
 msgctxt "Offset_0x1718_Len_14"
 msgid "Place an Order"
-msgstr ""
+msgstr "Ordina"
 
 #. Max bytes: 18
 msgctxt "Offset_0x1758_Len_18"
 msgid "Remember Old Talks"
-msgstr ""
+msgstr "Vecchi discorsi"
 
 #. Max bytes: 19
 msgctxt "Offset_0x1798_Len_19"
 msgid "Learn about the Bar"
-msgstr ""
+msgstr "Info sul bar"
 
 #. Max bytes: 19
 msgctxt "Offset_0x1D98_Len_19"
 msgid "Making Conversation"
-msgstr ""
+msgstr "Conversazione"
 
 #. Max bytes: 14
 msgctxt "Offset_0x1DD8_Len_14"
 msgid "About Regulars"
-msgstr ""
-
+msgstr "Sui clienti"

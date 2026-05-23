@@ -10,22 +10,22 @@ msgstr ""
 #. Max bytes: 23
 msgctxt "Offset_0x2F07C_Len_23"
 msgid "Check out my fine butt!"
-msgstr ""
+msgstr "Guarda che bel sedere!"
 
 #. Max bytes: 42
 msgctxt "Offset_0x2F0BC_Len_42"
 msgid "I'm the brightest and most energetic girl!"
-msgstr ""
+msgstr "Sono la ragazza più solare ed energica!"
 
 #. Max bytes: 39
 msgctxt "Offset_0x2F0FC_Len_39"
 msgid "I'm the princess of the Healer Kingdom!"
-msgstr ""
+msgstr "Principessa del Regno dei Guaritori!"
 
 #. Max bytes: 36
 msgctxt "Offset_0x2F60C_Len_36"
 msgid "Hikaru's rank has increased to Gold."
-msgstr ""
+msgstr "Hikaru è salita al grado Oro."
 
 #. Max bytes: 36
 msgctxt "Offset_0x2F63C_Len_36"

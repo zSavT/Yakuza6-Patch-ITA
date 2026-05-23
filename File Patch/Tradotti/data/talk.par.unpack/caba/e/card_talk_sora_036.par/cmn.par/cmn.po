@@ -10,30 +10,30 @@ msgstr ""
 #. Max bytes: 19
 msgctxt "Offset_0x80A0_Len_19"
 msgid "[Beautiful eyes...]"
-msgstr ""
+msgstr "[Occhi bellissimi]"
 
 #. Max bytes: 17
 msgctxt "Offset_0x80E0_Len_17"
 msgid "[Perfect nose...]"
-msgstr ""
+msgstr "[Naso perfetto]"
 
 #. Max bytes: 20
 msgctxt "Offset_0x8120_Len_20"
 msgid "[Marvelous mouth...]"
-msgstr ""
+msgstr "[Bocca meravigliosa]"
 
 #. Max bytes: 20
 msgctxt "Offset_0x84B0_Len_20"
 msgid "Beautiful Eyes……"
-msgstr ""
+msgstr "Occhi bellissimi..."
 
 #. Max bytes: 18
 msgctxt "Offset_0x84F0_Len_18"
 msgid "Perfect Nose……"
-msgstr ""
+msgstr "Naso perfetto..."
 
 #. Max bytes: 21
 msgctxt "Offset_0x8530_Len_21"
 msgid "Marvelous Mouth……"
-msgstr ""
+msgstr "Bocca meravigliosa..."
 

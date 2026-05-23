@@ -15,22 +15,22 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0x2B584_Len_22"
 msgid "I feel lonely already."
-msgstr ""
+msgstr "Mi sento già solo."
 
 #. Max bytes: 16
 msgctxt "Offset_0x2B5C4_Len_16"
 msgid "Don't overdo it."
-msgstr ""
+msgstr "Non esagerare."
 
 #. Max bytes: 27
 msgctxt "Offset_0x2B604_Len_27"
 msgid "I'll make more friends too!"
-msgstr ""
+msgstr "Farò nuovi amici anch'io!"
 
 #. Max bytes: 35
 msgctxt "Offset_0x2BB14_Len_35"
 msgid "Erina's rank has increased to Gold."
-msgstr ""
+msgstr "Erina è salita al grado Oro."
 
 #. Max bytes: 42
 msgctxt "Offset_0x2BB44_Len_42"

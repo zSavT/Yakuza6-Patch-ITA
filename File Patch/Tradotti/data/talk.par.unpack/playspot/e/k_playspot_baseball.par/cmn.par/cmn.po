@@ -10,10 +10,9 @@ msgstr ""
 #. Max bytes: 14
 msgctxt "Offset_0x4D8_Len_14"
 msgid "See you later."
-msgstr ""
+msgstr "Ci vediamo."
 
 #. Max bytes: 29
 msgctxt "Offset_0x568_Len_29"
 msgid "Head to the baseball diamond?"
-msgstr ""
-
+msgstr "Andare al campo da baseball?"

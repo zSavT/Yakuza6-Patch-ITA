@@ -30,10 +30,9 @@ msgstr ""
 #. Max bytes: 43
 msgctxt "Offset_0xFCDCC_Len_43"
 msgid "Moritsuka has joined the Setouchi Warriors!"
-msgstr ""
+msgstr "Moritsuka è nei Setouchi Warriors!"
 
 #. Max bytes: 255
 msgctxt "Offset_0xFCF3C_Len_255"
 msgid "There are many experienced baseball players\nin Onomichi who can be recruited to your team.\nDon't hesitate to ask them to join up! \n\nStay active in other areas around town, and you\nmay even find more players that way, too.\n\nIf you build it, they will come!"
-msgstr ""
-
+msgstr "Ad Onomichi ci sono molti giocatori esperti\ndi baseball da arruolare nel team.\nNon esitare a chiedere loro di unirsi!\n\nGira per la città e fai diverse attività,\npotresti trovare altri atleti così.\n\nFatti un nome, e loro arriveranno!"

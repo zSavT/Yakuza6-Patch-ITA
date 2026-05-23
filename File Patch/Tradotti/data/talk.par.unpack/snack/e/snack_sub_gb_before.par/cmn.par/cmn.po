@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 19
 msgctxt "Offset_0xC3C8_Len_19"
 msgid "I'm busy right now."
-msgstr ""
-
+msgstr "Sono occupato ora."

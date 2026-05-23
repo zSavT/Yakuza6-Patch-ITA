@@ -15,10 +15,9 @@ msgstr ""
 #. Max bytes: 77
 msgctxt "Offset_0x1F08_Len_77"
 msgid "(That's the drone...! I lost track of it\nat one point, but here it is again.)"
-msgstr ""
+msgstr "(Ecco il drone...!\nL'avevo perso, ma eccolo qui.)"
 
 #. Max bytes: 37
 msgctxt "Offset_0x2038_Len_37"
 msgid "(I'll definitely catch it this time.)"
-msgstr ""
-
+msgstr "(Stavolta lo prendo di sicuro.)"

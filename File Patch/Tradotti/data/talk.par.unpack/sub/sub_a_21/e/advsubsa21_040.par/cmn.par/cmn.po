@@ -10,10 +10,9 @@ msgstr ""
 #. Max bytes: 5
 msgctxt "Offset_0x85BC_Len_5"
 msgid "I am."
-msgstr ""
+msgstr "Sì."
 
 #. Max bytes: 14
 msgctxt "Offset_0x85FC_Len_14"
 msgid "Not right now."
-msgstr ""
-
+msgstr "Non ora."

@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 18
 msgctxt "Offset_0x1378_Len_18"
 msgid "Request a hostess?"
-msgstr ""
-
+msgstr "Vuoi un'hostess?"

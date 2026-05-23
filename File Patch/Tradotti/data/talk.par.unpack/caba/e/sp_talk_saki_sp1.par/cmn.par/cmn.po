@@ -10,22 +10,22 @@ msgstr ""
 #. Max bytes: 27
 msgctxt "Offset_0x1F9BC_Len_27"
 msgid "You are who you are, right?"
-msgstr ""
+msgstr "Sei fatta così, no?"
 
 #. Max bytes: 22
 msgctxt "Offset_0x1F9FC_Len_22"
 msgid "You are kind of manly."
-msgstr ""
+msgstr "Sei un po' mascolina."
 
 #. Max bytes: 20
 msgctxt "Offset_0x1FA3C_Len_20"
 msgid "I love... wrestling."
-msgstr ""
+msgstr "Amo... il wrestling."
 
 #. Max bytes: 36
 msgctxt "Offset_0x1FF4C_Len_36"
 msgid "Saki's rank has increased to Bronze."
-msgstr ""
+msgstr "Saki è salita al grado Bronzo."
 
 #. Max bytes: 41
 msgctxt "Offset_0x1FF7C_Len_41"

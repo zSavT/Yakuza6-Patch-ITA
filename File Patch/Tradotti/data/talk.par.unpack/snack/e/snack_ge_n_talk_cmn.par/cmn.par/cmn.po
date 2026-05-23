@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 23
 msgctxt "Offset_0x13970_Len_23"
 msgid "What do you want to do?"
-msgstr ""
+msgstr "Cosa vuoi fare?"
 
 #. Max bytes: 14
 msgctxt "Offset_0x13A70_Len_14"
 msgid "Drink Together"
-msgstr ""
+msgstr "Bere insieme"
 
 #. Max bytes: 18
 msgctxt "Offset_0x13AB0_Len_18"
 msgid "Remember Old Talks"
-msgstr ""
+msgstr "Vecchi discorsi"
 

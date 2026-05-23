@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 24
 msgctxt "Offset_0x1C4_Len_24"
 msgid "(As good as I expected.)"
-msgstr ""
-
+msgstr "(Buono, come previsto.)"

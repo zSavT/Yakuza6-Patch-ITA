@@ -10,20 +10,19 @@ msgstr ""
 #. Max bytes: 48
 msgctxt "Offset_0x79C_Len_48"
 msgid "(Should I make an offering at the donation box?)"
-msgstr ""
+msgstr "(Faccio un'offerta nella cassetta?)"
 
 #. Max bytes: 33
 msgctxt "Offset_0x8CC_Len_33"
 msgid "(I don't have any money on me...)"
-msgstr ""
+msgstr "(Non ho soldi con me...)"
 
 #. Max bytes: 28
 msgctxt "Offset_0x9BC_Len_28"
 msgid "(I think I'll pass for now.)"
-msgstr ""
+msgstr "(Penso che per ora passerò)"
 
 #. Max bytes: 29
 msgctxt "Offset_0xA6C_Len_29"
 msgid "Toss a donation into the box?"
-msgstr ""
-
+msgstr "Butti una moneta nella cassa?"

@@ -10,15 +10,14 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0x14C1C_Len_22"
 msgid "It makes me feel good."
-msgstr ""
+msgstr "Mi fa sentire bene."
 
 #. Max bytes: 13
 msgctxt "Offset_0x14C5C_Len_13"
 msgid "It's healthy."
-msgstr ""
+msgstr "È salutare."
 
 #. Max bytes: 26
 msgctxt "Offset_0x14C9C_Len_26"
 msgid "It's proof of being a man."
-msgstr ""
-
+msgstr "Dimostra che sono un uomo."

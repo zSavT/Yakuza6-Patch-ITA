@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 25
 msgctxt "Offset_0x12A30_Len_25"
 msgid "That some kind of cookie?"
-msgstr ""
+msgstr "Tipo un biscotto?"
 
 #. Max bytes: 28
 msgctxt "Offset_0x12A70_Len_28"
 msgid "Is that related to sokubaku?"
-msgstr ""
+msgstr "È legato al sokubaku?"
 
 #. Max bytes: 22
 msgctxt "Offset_0x12AB0_Len_22"
 msgid "I prefer... Kazumakki."
-msgstr ""
+msgstr "Meglio... Kazumakki."
 

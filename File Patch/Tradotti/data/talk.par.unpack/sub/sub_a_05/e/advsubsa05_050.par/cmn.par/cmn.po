@@ -10,65 +10,64 @@ msgstr ""
 #. Max bytes: 64
 msgctxt "Offset_0x6844_Len_64"
 msgid "(This is the Children's Park.\nMaybe I should give Hiji a try...)"
-msgstr ""
+msgstr "(È il Children's Park.\nForse dovrei provare Hiji...)"
 
 #. Max bytes: 78
 msgctxt "Offset_0x9658_Len_78"
 msgid "(This thing is pretty impressive.\nIt's hard to believe it's just a phone app.)"
-msgstr ""
+msgstr "(È incredibile.\nDifficile credere sia solo un'app.)"
 
 #. Max bytes: 92
 msgctxt "Offset_0xD06C_Len_92"
 msgid "(Hiji's totally in control of the conversation.\nShe's really a special piece of technology.)"
-msgstr ""
+msgstr "(Hiji guida la conversazione.\nÈ davvero una tecnologia speciale.)"
 
 #. Max bytes: 43
 msgctxt "Offset_0xD1DC_Len_43"
 msgid "(Maybe I should try asking her a question.)"
-msgstr ""
+msgstr "(Forse dovrei farle una domanda.)"
 
 #. Max bytes: 20
 msgctxt "Offset_0x8DE30_Len_20"
 msgid "Younger sounds good."
-msgstr ""
+msgstr "Più giovane è ok."
 
 #. Max bytes: 17
 msgctxt "Offset_0x8DE70_Len_17"
 msgid "How about sexier?"
-msgstr ""
+msgstr "Che ne dici sexy?"
 
 #. Max bytes: 27
 msgctxt "Offset_0x8DEB0_Len_27"
 msgid "No, you're perfect already."
-msgstr ""
+msgstr "No, sei già perfetta."
 
 #. Max bytes: 35
 msgctxt "Offset_0x8E4B0_Len_35"
 msgid "Do you want to exterminate mankind?"
-msgstr ""
+msgstr "Vuoi sterminare l'umanità?"
 
 #. Max bytes: 17
 msgctxt "Offset_0x8E4F0_Len_17"
 msgid "Why do you exist?"
-msgstr ""
+msgstr "Perché esisti?"
 
 #. Max bytes: 39
 msgctxt "Offset_0x8E530_Len_39"
 msgid "You're really just a human, aren't you?"
-msgstr ""
+msgstr "Sei solo un'umana, vero?"
 
 #. Max bytes: 22
 msgctxt "Offset_0x8EB30_Len_22"
 msgid "I'm too busy for this."
-msgstr ""
+msgstr "Sono troppo occupato."
 
 #. Max bytes: 35
 msgctxt "Offset_0x8EB70_Len_35"
 msgid "I might like that other app better."
-msgstr ""
+msgstr "Forse preferisco l'altra app."
 
 #. Max bytes: 16
 msgctxt "Offset_0x8EBB0_Len_16"
 msgid "Hiji's the best."
-msgstr ""
-
+msgstr "Meglio Hiji."

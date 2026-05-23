@@ -25,15 +25,14 @@ msgstr ""
 #. Max bytes: 25
 msgctxt "Offset_0xBA388_Len_25"
 msgid "Go tell him how you feel."
-msgstr ""
+msgstr "Digli cosa provi."
 
 #. Max bytes: 36
 msgctxt "Offset_0xBA3C8_Len_36"
 msgid "It's better if you don't go see him."
-msgstr ""
+msgstr "È meglio non andare da lui."
 
 #. Max bytes: 38
 msgctxt "Offset_0xBA408_Len_38"
 msgid "Why don't I help you forget about him?"
-msgstr ""
-
+msgstr "Ti aiuto a dimenticarti di lui?"

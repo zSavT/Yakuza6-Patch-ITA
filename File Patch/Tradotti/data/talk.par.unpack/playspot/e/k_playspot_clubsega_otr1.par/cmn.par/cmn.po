@@ -10,30 +10,29 @@ msgstr ""
 #. Max bytes: 21
 msgctxt "Offset_0x620_Len_21"
 msgid "(Pedal to the metal!)"
-msgstr ""
+msgstr "(A tavoletta!)"
 
 #. Max bytes: 30
 msgctxt "Offset_0x6F0_Len_30"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 #. Max bytes: 22
 msgctxt "Offset_0x7E0_Len_22"
 msgid "(Actually, maybe not.)"
-msgstr ""
+msgstr "(Anzi, forse no.)"
 
 #. Max bytes: 21
 msgctxt "Offset_0x990_Len_21"
 msgid "Play Out Run [NORMAL]"
-msgstr ""
+msgstr "Out Run [NORMALE]"
 
 #. Max bytes: 15
 msgctxt "Offset_0x9D0_Len_15"
 msgid "Check the Rules"
-msgstr ""
+msgstr "Leggi le regole"
 
 #. Max bytes: 21
 msgctxt "Offset_0xDA0_Len_21"
 msgid "遊玩Out Run[NORMAL]"
 msgstr ""
-

@@ -10,7 +10,7 @@ msgstr ""
 #. Max bytes: 344
 msgctxt "Offset_0x117D0_Len_344"
 msgid "You can now drink with Ando-san and Kaneko-san!\n\nAs you become closer to the customers, your rank within\nthe bar will increase. As your rank increases, you'll\nbe able to drink with more people.\n\nBe assertive about approaching people, or form a bond\nthrough karaoke or darts.\n\nIt'd be great if everyone got along.\nI'm sure Mama would be happy..."
-msgstr ""
+msgstr "Ora puoi bere con Ando-san e Kaneko-san!\n\nPiù ti avvicinerai ai clienti, più il tuo rango nel locale aumenterà. Aumentando di rango, potrai bere con più persone.\n\nAvvicina le persone senza esitare o stringi legami con il karaoke o le freccette.\n\nSarebbe bello se tutti andassero d'accordo.\nSono certo che Mama ne sarebbe felice..."
 
 #. Max bytes: 296
 msgctxt "Offset_0x11930_Len_296"

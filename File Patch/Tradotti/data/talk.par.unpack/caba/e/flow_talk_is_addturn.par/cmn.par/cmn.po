@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 33
 msgctxt "Offset_0x3D8C_Len_33"
 msgid "Pay \\5,000 to extend the session?"
-msgstr ""
+msgstr "Pagare \\5.000 per prolungare?"
 
 #. Max bytes: 14
 msgctxt "Offset_0x3E8C_Len_14"
 msgid "Extend Session"
-msgstr ""
+msgstr "Prolunga"
 
 #. Max bytes: 13
 msgctxt "Offset_0x3ECC_Len_13"
 msgid "Call It Quits"
-msgstr ""
+msgstr "Basta così"
 

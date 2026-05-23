@@ -10,20 +10,19 @@ msgstr ""
 #. Max bytes: 27
 msgctxt "Offset_0x49C_Len_27"
 msgid "(I don't have the money...)"
-msgstr ""
+msgstr "(Non ho i soldi...)"
 
 #. Max bytes: 65
 msgctxt "Offset_0x55C_Len_65"
 msgid "Which course would you like to play?\nOne round will cost 300 yen."
-msgstr ""
+msgstr "Quale percorso vuoi fare?\nUn turno costa 300 yen."
 
 #. Max bytes: 15
 msgctxt "Offset_0x65C_Len_15"
 msgid "Home Run Course"
-msgstr ""
+msgstr "Corso Home Run"
 
 #. Max bytes: 16
 msgctxt "Offset_0x69C_Len_16"
 msgid "Challenge Course"
-msgstr ""
-
+msgstr "Percorso Sfida"

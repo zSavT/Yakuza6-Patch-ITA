@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 11
 msgctxt "Offset_0x26C0_Len_11"
 msgid "Don't Train"
-msgstr ""
+msgstr "Rinuncia"
 

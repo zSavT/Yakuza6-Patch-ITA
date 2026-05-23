@@ -10,10 +10,9 @@ msgstr ""
 #. Max bytes: 29
 msgctxt "Offset_0x73BC_Len_29"
 msgid "You grew even closer to Saki."
-msgstr ""
+msgstr "Ancora più vicino a Saki."
 
 #. Max bytes: 29
 msgctxt "Offset_0x7584_Len_29"
 msgid "You grew even closer to Saki."
-msgstr ""
-
+msgstr "Ancora più vicino a Saki."

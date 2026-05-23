@@ -10,15 +10,14 @@ msgstr ""
 #. Max bytes: 49
 msgctxt "Offset_0x41B9C_Len_49"
 msgid "I want to join the Order of Saren Chohabt Atrast."
-msgstr ""
+msgstr "Entro nell'Ordine di Saren Chohabt Atrast."
 
 #. Max bytes: 48
 msgctxt "Offset_0x41BDC_Len_48"
 msgid "I want to join the Order of Aban Chodesht Orest."
-msgstr ""
+msgstr "Entro nell'Ordine di Aban Chodesht Orest."
 
 #. Max bytes: 48
 msgctxt "Offset_0x41C1C_Len_48"
 msgid "I want to join the Order of Munan Chohept Onast."
-msgstr ""
-
+msgstr "Entro nell'Ordine di Munan Chohept Onast."

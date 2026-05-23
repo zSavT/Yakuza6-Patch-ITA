@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 114
 msgctxt "Offset_0x208_Len_114"
 msgid "Clan Creator\n\nThe Kiryu Clan leveled up.\nThe number of people you can set in the organization chart has increased."
-msgstr ""
+msgstr "Clan Creator\n\nIl Clan Kiryu è salito di livello.\nOra puoi assegnare più membri all'organigramma."
 

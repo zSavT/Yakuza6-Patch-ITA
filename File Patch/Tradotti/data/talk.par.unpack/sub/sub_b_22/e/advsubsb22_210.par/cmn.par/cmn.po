@@ -10,12 +10,12 @@ msgstr ""
 #. Max bytes: 94
 msgctxt "Offset_0x3D0C_Len_94"
 msgid "(Bars... You walk in to share a drink and a laugh,\nbut sometimes you walk out with a story...)"
-msgstr ""
+msgstr "(I bar... Ci entri per bere e ridere in compagnia,\nma a volte ne esci con una storia...)"
 
 #. Max bytes: 93
 msgctxt "Offset_0x3E5C_Len_93"
 msgid "(Stories that turn strangers into family.\nI like this little family. I'll never forget them.)"
-msgstr ""
+msgstr "(Storie che rendono gli sconosciuti famiglia.\nUna piccola famiglia che non scorderò mai.)"
 
 #. Max bytes: 5
 msgctxt "Offset_0x4A63_Len_5"

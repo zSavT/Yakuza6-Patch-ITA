@@ -10,30 +10,29 @@ msgstr ""
 #. Max bytes: 18
 msgctxt "Offset_0x620_Len_18"
 msgid "(This'll be easy!)"
-msgstr ""
+msgstr "(Sarà facile!)"
 
 #. Max bytes: 30
 msgctxt "Offset_0x700_Len_30"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 #. Max bytes: 22
 msgctxt "Offset_0x7F0_Len_22"
 msgid "(Actually, maybe not.)"
-msgstr ""
+msgstr "(Anzi, forse no.)"
 
 #. Max bytes: 30
 msgctxt "Offset_0x9A0_Len_30"
 msgid "Play Super Hang-On [VERY EASY]"
-msgstr ""
+msgstr "Super Hang-On [MOLTO FACILE]"
 
 #. Max bytes: 15
 msgctxt "Offset_0x9E0_Len_15"
 msgid "Check the Rules"
-msgstr ""
+msgstr "Leggi le regole"
 
 #. Max bytes: 32
 msgctxt "Offset_0xDB0_Len_32"
 msgid "遊玩超級摩托車[VERY EASY]"
 msgstr ""
-

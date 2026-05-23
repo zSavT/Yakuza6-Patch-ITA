@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 20
 msgctxt "Offset_0xEC2C_Len_20"
 msgid "I've been to prison."
-msgstr ""
+msgstr "Sono stato dentro."
 
 #. Max bytes: 33
 msgctxt "Offset_0xEC6C_Len_33"
 msgid "People pick fights with me a lot."
-msgstr ""
+msgstr "Molti attaccano briga con me."
 
 #. Max bytes: 22
 msgctxt "Offset_0xECAC_Len_22"
 msgid "I'm 100,024 years old."
-msgstr ""
+msgstr "Ho 100.024 anni."
 

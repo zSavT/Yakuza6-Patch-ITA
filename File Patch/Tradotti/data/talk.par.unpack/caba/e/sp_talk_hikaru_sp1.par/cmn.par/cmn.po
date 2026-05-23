@@ -10,22 +10,22 @@ msgstr ""
 #. Max bytes: 24
 msgctxt "Offset_0x49960_Len_24"
 msgid "Let's practice together."
-msgstr ""
+msgstr "Esercitiamoci insieme."
 
 #. Max bytes: 23
 msgctxt "Offset_0x499A0_Len_23"
 msgid "You're fine as you are."
-msgstr ""
+msgstr "Sei perfetta così."
 
 #. Max bytes: 25
 msgctxt "Offset_0x499E0_Len_25"
 msgid "I'll make you number one!"
-msgstr ""
+msgstr "Sarai la numero uno!"
 
 #. Max bytes: 38
 msgctxt "Offset_0x49EF0_Len_38"
 msgid "Hikaru's rank has increased to Bronze."
-msgstr ""
+msgstr "Hikaru è salita al grado Bronzo."
 
 #. Max bytes: 38
 msgctxt "Offset_0x49F20_Len_38"

@@ -10,10 +10,9 @@ msgstr ""
 #. Max bytes: 69
 msgctxt "Offset_0x1F64_Len_69"
 msgid "(There's Soji! I might have lost it once,\nbut I won't lose it again.)"
-msgstr ""
+msgstr "(Ecco Soji! L'ho perso una volta,\nma non lo perderò più.)"
 
 #. Max bytes: 34
 msgctxt "Offset_0x2094_Len_34"
 msgid "(I'm going to catch it this time!)"
-msgstr ""
-
+msgstr "(Stavolta lo prenderò!)"

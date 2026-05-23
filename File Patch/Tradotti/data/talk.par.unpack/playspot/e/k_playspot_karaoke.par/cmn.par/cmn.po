@@ -10,7 +10,7 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0xF60_Len_15"
 msgid "Reserve a Room?"
-msgstr ""
+msgstr "Prenoti sala?"
 
 #. Max bytes: 6
 msgctxt "Offset_0x255E_Len_6"
@@ -21,4 +21,3 @@ msgstr ""
 msgctxt "Offset_0x2D7E_Len_6"
 msgid " >t(/>"
 msgstr ""
-

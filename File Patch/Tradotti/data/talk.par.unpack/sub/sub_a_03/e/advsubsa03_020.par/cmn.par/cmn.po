@@ -10,25 +10,24 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0xA8836_Len_6"
 msgid "w>d (>"
-msgstr ""
+msgstr "w>d (>"
 
 #. Max bytes: 5
 msgctxt "Offset_0xB586B_Len_5"
 msgid ">wx ="
-msgstr ""
+msgstr ">wx ="
 
 #. Max bytes: 16
 msgctxt "Offset_0xC0C7C_Len_16"
 msgid "How kind she is."
-msgstr ""
+msgstr "Com'è gentile."
 
 #. Max bytes: 10
 msgctxt "Offset_0xC0CBC_Len_10"
 msgid "Her voice."
-msgstr ""
+msgstr "La voce."
 
 #. Max bytes: 9
 msgctxt "Offset_0xC0CFC_Len_9"
 msgid "Her face."
-msgstr ""
-
+msgstr "Il viso."

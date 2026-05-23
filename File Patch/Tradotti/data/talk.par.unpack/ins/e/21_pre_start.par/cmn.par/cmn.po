@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0x36A4_Len_15"
 msgid "Huh? My wallet!"
-msgstr ""
+msgstr "Il portafoglio!"
 

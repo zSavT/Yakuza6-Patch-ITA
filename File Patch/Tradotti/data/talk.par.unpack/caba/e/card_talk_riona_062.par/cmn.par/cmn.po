@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0x1B140_Len_17"
 msgid "Do you regret it?"
-msgstr ""
+msgstr "Te ne penti?"
 
 #. Max bytes: 40
 msgctxt "Offset_0x1B180_Len_40"
 msgid "You want them to confess their feelings?"
-msgstr ""
+msgstr "Vuoi che ti confessi i suoi sentimenti?"
 
 #. Max bytes: 26
 msgctxt "Offset_0x1B1C0_Len_26"
 msgid "Let's practice confessing!"
-msgstr ""
+msgstr "Proviamo a dichiararci!"
 

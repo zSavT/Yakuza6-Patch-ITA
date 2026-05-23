@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 34
 msgctxt "Offset_0xDAFC_Len_34"
 msgid "Attempt Yoshida's trial challenge?"
-msgstr ""
-
+msgstr "Provare la sfida di Yoshida?"

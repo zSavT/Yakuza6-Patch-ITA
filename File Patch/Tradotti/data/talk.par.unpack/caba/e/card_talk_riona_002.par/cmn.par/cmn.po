@@ -15,15 +15,15 @@ msgstr ""
 #. Max bytes: 24
 msgctxt "Offset_0x11218_Len_24"
 msgid "It's like a public bath."
-msgstr ""
+msgstr "È come una spa."
 
 #. Max bytes: 13
 msgctxt "Offset_0x11258_Len_13"
 msgid "I don't know."
-msgstr ""
+msgstr "Non lo so."
 
 #. Max bytes: 22
 msgctxt "Offset_0x11298_Len_22"
 msgid "It's a kind of noodle."
-msgstr ""
+msgstr "È un tipo di noodle."
 

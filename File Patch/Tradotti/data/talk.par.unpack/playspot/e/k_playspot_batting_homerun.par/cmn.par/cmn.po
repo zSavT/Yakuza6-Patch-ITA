@@ -10,10 +10,9 @@ msgstr ""
 #. Max bytes: 20
 msgctxt "Offset_0x588_Len_20"
 msgid "Thank you very much."
-msgstr ""
+msgstr "Grazie mille."
 
 #. Max bytes: 36
 msgctxt "Offset_0x628_Len_36"
 msgid "Take a swing at the Home Run Course?"
-msgstr ""
-
+msgstr "Provare il percorso Home Run?"

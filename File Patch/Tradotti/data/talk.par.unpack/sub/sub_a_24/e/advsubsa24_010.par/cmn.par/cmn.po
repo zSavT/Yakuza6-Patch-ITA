@@ -10,5 +10,4 @@ msgstr ""
 #. Max bytes: 32
 msgctxt "Offset_0x33CC_Len_32"
 msgid "(What's going on over there...?)"
-msgstr ""
-
+msgstr "(Che sta succedendo lì...?)"

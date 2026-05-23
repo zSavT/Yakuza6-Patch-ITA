@@ -35,50 +35,49 @@ msgstr ""
 #. Max bytes: 24
 msgctxt "Offset_0xDBD10_Len_24"
 msgid "I can't wait any longer."
-msgstr ""
+msgstr "Non posso più aspettare"
 
 #. Max bytes: 21
 msgctxt "Offset_0xDBD50_Len_21"
 msgid "I'm gonna eat you up."
-msgstr ""
+msgstr "Ti mangerò vivo."
 
 #. Max bytes: 31
 msgctxt "Offset_0xDBD90_Len_31"
 msgid "Are you sure this isn't a trap?"
-msgstr ""
+msgstr "Sicuro non sia una trappola?"
 
 #. Max bytes: 28
 msgctxt "Offset_0xDC390_Len_28"
 msgid "You don't need to know that."
-msgstr ""
+msgstr "Non hai bisogno di saperlo."
 
 #. Max bytes: 17
 msgctxt "Offset_0xDC3D0_Len_17"
 msgid "It's Makoto Date."
-msgstr ""
+msgstr "Sono Makoto Date."
 
 #. Max bytes: 18
 msgctxt "Offset_0xDC410_Len_18"
 msgid "It's Kazuma Kiryu."
-msgstr ""
+msgstr "Sono Kazuma Kiryu."
 
 #. Max bytes: 17
 msgctxt "Offset_0xDCA10_Len_17"
 msgid "It's Makoto Date."
-msgstr ""
+msgstr "Sono Makoto Date."
 
 #. Max bytes: 18
 msgctxt "Offset_0xDCA50_Len_18"
 msgid "It's Kazuma Kiryu."
-msgstr ""
+msgstr "Sono Kazuma Kiryu."
 
 #. Max bytes: 18
 msgctxt "Offset_0xDD090_Len_18"
 msgid "I love you, Reiko."
-msgstr ""
+msgstr "Ti amo, Reiko."
 
 #. Max bytes: 41
 msgctxt "Offset_0xDD0D0_Len_41"
 msgid "I can't say something if I don't mean it."
-msgstr ""
-
+msgstr "Non posso dire cose che non penso."

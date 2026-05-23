@@ -10,10 +10,9 @@ msgstr ""
 #. Max bytes: 31
 msgctxt "Offset_0x47C_Len_31"
 msgid "Would you like to sing karaoke?"
-msgstr ""
+msgstr "Vuoi cantare al karaoke?"
 
 #. Max bytes: 56
 msgctxt "Offset_0xC48_Len_56"
 msgid "(Singing karaoke by myself would be poor\nbar manners...)"
-msgstr ""
-
+msgstr "(Cantare da solo sarebbe da\nmaleducati...)"

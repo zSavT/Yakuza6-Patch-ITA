@@ -15,10 +15,10 @@ msgstr ""
 #. Max bytes: 32
 msgctxt "Offset_0x15054_Len_32"
 msgid "Looks like your dream came true."
-msgstr ""
+msgstr "Il tuo sogno si è avverato."
 
 #. Max bytes: 20
 msgctxt "Offset_0x15094_Len_20"
 msgid "Effort is important."
-msgstr ""
+msgstr "L'impegno conta."
 
