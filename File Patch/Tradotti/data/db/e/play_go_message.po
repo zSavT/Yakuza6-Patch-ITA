@@ -9,7 +9,7 @@ msgstr ""
 
 msgctxt "1||wait_min||text"
 msgid "Installation must complete\r\nto proceed beyond here.\r\n(Time remaining: ${hour} hour(s) ${min} minute(s))"
-msgstr "L'installazione deve essere completata\r\nper poter proseguire.\r\n(Tempo rimanente: ${hour} ora/e ${min} minuto/i)"
+msgstr "Per proseguire è necessario\r\ncompletare l'installazione.\r\nTempo rimasto: ${hour} h ${min} m"
 
 msgctxt "2||download_completed||text"
 msgid "Installation complete."
@@ -17,11 +17,11 @@ msgstr "Installazione completata."
 
 msgctxt "3||wait_min2||text"
 msgid "Installation must complete to play here.\r\n(Time remaining: ${hour} hour(s) ${min} minute(s))"
-msgstr "L'installazione deve essere completata per giocare qui.\r\n(Tempo rimanente: ${hour} ora/e ${min} minuto/i)"
+msgstr "Per proseguire è necessario completare l'installazione.\r\nTempo rimasto: ${hour} h ${min} m"
 
 msgctxt "4||wait_f2p||text"
 msgid "You cannot proceed beyond\r\nthis point in the trial version."
-msgstr "Non puoi proseguire oltre\r\nquesto punto nella versione di prova."
+msgstr "Non puoi procedere oltre\r\nquesto punto nella versione di prova."
 
 msgctxt "5||wait_f2p2||text"
 msgid "This content is not available\r\nin the trial version."

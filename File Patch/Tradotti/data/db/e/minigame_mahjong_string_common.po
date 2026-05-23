@@ -9,7 +9,7 @@ msgstr ""
 
 msgctxt "1||han||text"
 msgid "Han"
-msgstr "Han"
+msgstr " Han"
 
 msgctxt "2||fu||text"
 msgid "Fu"
@@ -17,11 +17,11 @@ msgstr "Fu"
 
 msgctxt "3||ten||text"
 msgid "Pts."
-msgstr "Pti."
+msgstr " pti"
 
 msgctxt "4||kurai||text"
 msgid "Rank"
-msgstr "Posizione"
+msgstr "Rango"
 
 msgctxt "5||dora||text"
 msgid "Dora"
@@ -29,11 +29,11 @@ msgstr "Dora"
 
 msgctxt "6||uradora||text"
 msgid "Ura-Dora"
-msgstr "Ura-Dora"
+msgstr "Ura-dora"
 
 msgctxt "7||total_tenbou||text"
 msgid "Total Points"
-msgstr "Punti totali"
+msgstr "I tuoi punti totali"
 
 msgctxt "8||cancel||text"
 msgid "Cancel"
@@ -45,15 +45,15 @@ msgstr "<Sign:2> Nascondi finestra"
 
 msgctxt "10||winning_streak||text"
 msgid "Current Winning Streak: ${count}"
-msgstr "Serie di vittorie attuale: ${count}"
+msgstr "Serie attuale di vittorie: ${count}"
 
 msgctxt "11||winning||text"
 msgid "Winning Streak: ${count}"
-msgstr "Serie di vittorie: ${count}"
+msgstr "　　Serie di vittorie: ${count}"
 
 msgctxt "12||max_winning||text"
 msgid "Highest Winning Streak: ${count}"
-msgstr "Miglior serie di vittorie: ${count}"
+msgstr "Serie di vittorie più lunga: ${count}"
 
 msgctxt "13||rule||text"
 msgid "Rules"
@@ -61,11 +61,11 @@ msgstr "Regole"
 
 msgctxt "14||yaku_list||text"
 msgid "Hands"
-msgstr "Mani (Yaku)"
+msgstr "Mani"
 
 msgctxt "15||kyuushukyuuhai||text"
 msgid "Declare nine terminals and redraw the hand?"
-msgstr "Dichiarare nove terminali e rimescolare la mano?"
+msgstr "Dichiarare nove teste e ripescare la mano?"
 
 msgctxt "16||agari_cancel||text"
 msgid "End game?"

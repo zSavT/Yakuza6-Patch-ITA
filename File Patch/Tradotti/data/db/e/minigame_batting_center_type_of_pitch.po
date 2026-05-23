@@ -17,15 +17,15 @@ msgstr "Sinker"
 
 msgctxt "8||fastball||name"
 msgid "Fastball"
-msgstr "Palla veloce"
+msgstr "Dritta"
 
 msgctxt "9||twoseam||name"
 msgid "Two-seamer"
-msgstr "Two-seamer"
+msgstr "Due cuciture"
 
 msgctxt "10||oneseam||name"
 msgid "One-seamer"
-msgstr "One-seamer"
+msgstr "Una cucitura"
 
 msgctxt "11||cutball||name"
 msgid "Cutter"
@@ -33,7 +33,7 @@ msgstr "Cutter"
 
 msgctxt "12||curve||name"
 msgid "Curveball"
-msgstr "Palla curva"
+msgstr "Curva"
 
 msgctxt "13||fork||name"
 msgid "Forkball"
@@ -57,7 +57,7 @@ msgstr "Gyroball"
 
 msgctxt "18||Hfastball||name"
 msgid "Fastball"
-msgstr "Palla veloce"
+msgstr "Dritta"
 
 msgctxt "5||sinker||name_left"
 msgid "Screwball"
