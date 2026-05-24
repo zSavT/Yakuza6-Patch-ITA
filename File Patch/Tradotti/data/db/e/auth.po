@@ -3061,15 +3061,15 @@ msgstr "Kiryu-aniki!"
 
 msgctxt "40||a03_090||cinema_telop||2||||4"
 msgid "I know I don't deserve this,\r\nbut please lemme call you aniki!"
-msgstr "So di non meritarmelo,\r\nma ti prego, fammi chiamare aniki!"
+msgstr "So di non meritarmelo,\r\nma ti prego, lasciami chiamarti aniki!"
 
 msgctxt "40||a03_090||cinema_telop||3||||4"
 msgid "Hey, wait a second!"
-msgstr "Ehi, aspetta un secondo!"
+msgstr "Ehi, aspetta un attimo!"
 
 msgctxt "40||a03_090||cinema_telop||4||||4"
 msgid "Nope!"
-msgstr "No!"
+msgstr "Neanche per idea!"
 
 msgctxt "40||a03_090||cinema_telop||5||||4"
 msgid "I'll follow ya t'the ends o' the earth, Aniki!"
@@ -3081,7 +3081,7 @@ msgstr "Ti prego, accettami e basta!"
 
 msgctxt "40||a03_090||cinema_telop||7||||4"
 msgid "Let go."
-msgstr "Lasciami."
+msgstr "Mollami."
 
 msgctxt "40||a03_090||cinema_telop||8||||4"
 msgid "I ain't lettin' go!\r\nC'mon, Kiryu-aniki!"
@@ -3205,11 +3205,11 @@ msgstr "Davvero? È così?"
 
 msgctxt "41||a04_010||cinema_telop||23||||4"
 msgid "Coulda fooled me, right?"
-msgstr "Ci avrei giurato, eh?"
+msgstr "Mi aveva quasi fregato, eh?"
 
 msgctxt "41||a04_010||cinema_telop||24||||4"
 msgid "Can't say I blame ya for thinkin he's yakuza.\r\nAniki here's tough as they come, boss."
-msgstr "Non posso darti torto per aver pensato fosse yakuza.\r\nL'Aniki qui è un vero duro, boss."
+msgstr "Non ti do torto per aver pensato che fosse uno yakuza.\r\nL'Aniki qui è un vero duro, boss."
 
 msgctxt "41||a04_010||cinema_telop||25||||4"
 msgid "By the way, Nagumo..."
@@ -3217,7 +3217,7 @@ msgstr "A proposito, Nagumo..."
 
 msgctxt "41||a04_010||cinema_telop||26||||4"
 msgid "What'd ya do about that payment?\r\nWe're flat broke, right?"
-msgstr "Cosa hai fatto con quel pagamento?\r\nSiamo completamente al verde, giusto?"
+msgstr "Com'è finita con quel pagamento?\r\nSiamo completamente al verde, giusto?"
 
 msgctxt "41||a04_010||cinema_telop||27||||4"
 msgid "Did the big boys give\r\nyou any lip about it?"
@@ -3225,7 +3225,7 @@ msgstr "I pezzi grossi ti hanno\r\nfatto delle storie al riguardo?"
 
 msgctxt "41||a04_010||cinema_telop||28||||4"
 msgid "I've got a handle on that,\r\nso nothin' t'worry about, boss."
-msgstr "Ho la situazione sotto controllo,\r\nquindi non c'è nulla di cui preoccuparsi, boss."
+msgstr "Ho la situazione sotto controllo,\r\nquindi non c'è niente di cui preoccuparsi, boss."
 
 msgctxt "41||a04_010||cinema_telop||29||||4"
 msgid "Oh yeah? Works for me."

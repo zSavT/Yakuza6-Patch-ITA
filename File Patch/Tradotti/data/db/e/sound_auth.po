@@ -33129,15 +33129,15 @@ msgstr "Oggigiorno i giovani preferiscono i cabaret club\ndi altre città ai bar
 
 msgctxt "15||speech_list_main03||table||406||||4"
 msgid "Guess I should actually pay\nmy bill this time, then."
-msgstr "Immagino di dover davvero pagare\nil conto, questa volta."
+msgstr "Mi sa che questa volta mi tocca\nproprio pagare il conto, allora."
 
 msgctxt "15||speech_list_main03||table||407||||4"
 msgid "Didn't I say it would be my treat?\nDon't embarrass me."
-msgstr "Non ho detto che avrei offerto io?\nNon mettermi in imbarazzo."
+msgstr "Non avevo detto che avrei offerto io?\nNon mettermi in imbarazzo."
 
 msgctxt "15||speech_list_main03||table||408||||4"
 msgid "My regulars still come by often.\nI make enough to support myself."
-msgstr "I miei clienti abituali vengono ancora spesso.\nGuadagno abbastanza per mantenermi."
+msgstr "I miei clienti abituali passano ancora spesso.\nGuadagno abbastanza per mantenermi."
 
 msgctxt "15||speech_list_main03||table||409||||4"
 msgid "Have you always run this place alone?"
@@ -33145,7 +33145,7 @@ msgstr "Hai sempre gestito questo posto da sola?"
 
 msgctxt "15||speech_list_main03||table||410||||4"
 msgid "Yeah, I suppose I have.\nAnyway, how about a drink?"
-msgstr "Sì, suppongo di sì.\nComunque, che ne dici di un drink?"
+msgstr "Sì, direi di sì.\nComunque, che ne dici di un drink?"
 
 msgctxt "15||speech_list_main03||table||411||||4"
 msgid "Hm?"
@@ -33157,7 +33157,7 @@ msgstr "D'accordo."
 
 msgctxt "15||speech_list_main03||table||413||||4"
 msgid "You can really throw 'em back, Haruto."
-msgstr "Te lo tiri proprio giù, Haruto."
+msgstr "Ci dai proprio dentro, Haruto."
 
 msgctxt "15||speech_list_main03||table||414||||4"
 msgid "Huh!?"
@@ -33165,7 +33165,7 @@ msgstr "Eh!?"
 
 msgctxt "15||speech_list_main03||table||415||||4"
 msgid "Sorry fer intrudin'."
-msgstr "Scusate per l'intrusione."
+msgstr "Scusate il disturbo."
 
 msgctxt "15||speech_list_main03||table||416||||4"
 msgid "Wh-What's going on here?"
@@ -33173,7 +33173,7 @@ msgstr "Ch-Che succede qui?"
 
 msgctxt "15||speech_list_main03||table||417||||4"
 msgid "We're from the Masuzoe Family.\nNagumo's been a real bad kid."
-msgstr "Siamo della Famiglia Masuzoe.\nNagumo ha fatto il cattivo ragazzo."
+msgstr "Siamo della Famiglia Masuzoe.\nNagumo ha fatto proprio il bambino cattivo."
 
 msgctxt "15||speech_list_main03||table||418||||4"
 msgid "I'm Patriarch Masuzoe."
@@ -33189,7 +33189,7 @@ msgstr "Con me?"
 
 msgctxt "15||speech_list_main03||table||421||||4"
 msgid "Well, it's kinda complex. Could y'ask\nyer friend here to step out for a bit?"
-msgstr "Beh, è un po' complesso. Puoi chiedere al\ntuo amichetto qui di uscire un attimo?"
+msgstr "Beh, è una faccenda un po' complicata. Puoi chiedere al\ntuo amichetto qui di uscire un attimo?"
 
 msgctxt "15||speech_list_main03||table||423||||4"
 msgid "I'm tellin' ya t'leave."
@@ -33197,11 +33197,11 @@ msgstr "Ti sto dicendo di andartene."
 
 msgctxt "15||speech_list_main03||table||424||||4"
 msgid "I don't take orders from you. I'm not\nin the way. Just go about your business."
-msgstr "Non prendo ordini da te. Non sono in\nmezzo. Fai pure i tuoi affari."
+msgstr "Non prendo ordini da te. Non sono\nd'intralcio. Fai pure i tuoi affari."
 
 msgctxt "15||speech_list_main03||table||425||||4"
 msgid "Oh yeah? I don't mind doin' just that,\nbut yer not gonna like what y'see."
-msgstr "Ah sì? Non mi dispiace affatto, ma\nnon ti piacerà quello che vedrai."
+msgstr "Ah sì? A me sta benissimo, ma\nnon ti piacerà quello che vedrai."
 
 msgctxt "15||speech_list_main03||table||426||||4"
 msgid "K-Kiyo-chan... Sorry."
@@ -33213,7 +33213,7 @@ msgstr "Eh?"
 
 msgctxt "15||speech_list_main03||table||428||||4"
 msgid "The rumors're spot-on.\nY'really are easy on the eyes."
-msgstr "Le voci ci hanno preso in pieno.\nSei un vero schianto."
+msgstr "Le voci dicevano il vero.\nSei proprio uno schianto."
 
 msgctxt "15||speech_list_main03||table||429||||4"
 msgid "I can see why y'wouldn't wanna go\ncollectin' dues from her, Nagumo."
@@ -33221,7 +33221,7 @@ msgstr "Capisco perché non ti andava di\nriscuotere il pizzo da lei, Nagumo."
 
 msgctxt "15||speech_list_main03||table||430||||4"
 msgid "But that ain't an excuse fer ya to be keepin'\nyer family's payments from me, y'hear?"
-msgstr "Ma non è una scusa per te per trattenere i\npagamenti della tua famiglia, mi hai sentito?"
+msgstr "Ma non è una scusa per trattenere i\npagamenti della tua famiglia, chiaro?"
 
 msgctxt "15||speech_list_main03||table||431||||4"
 msgid "M-Masuzoe-san..."
@@ -33393,11 +33393,11 @@ msgstr "V-Vattene, Kiryu! Non puoi andare a ficcare\nil naso negli affari della 
 
 msgctxt "15||speech_list_main03||table||475||||4"
 msgid "Yakuza or not, I don't really care.\nThese guys made my baby cry."
-msgstr "Yakuza o no, non mi importa minimamente.\nQuesti tizi hanno fatto piangere il mio bambino."
+msgstr "Yakuza o no, non m'interessa.\nQuesti tizi hanno fatto piangere il bambino."
 
 msgctxt "15||speech_list_main03||table||476||||4"
 msgid "And I'm not walking away until I get\nan apology for that."
-msgstr "E non me ne andrò finché non avrò ricevuto\nle scuse per questo."
+msgstr "E non me ne andrò finché non\nsi scuseranno per questo."
 
 msgctxt "15||speech_list_main03||table||477||||4"
 msgid "Y'been drinkin', old man?"
