@@ -21,7 +21,7 @@ msgstr "Potenziamento difesa"
 
 msgctxt "4||agility_up_1||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "5||heat_gauge_up_1||name"
 msgid "Boost Heat Gauge"
@@ -41,7 +41,7 @@ msgstr "Potenziamento difesa"
 
 msgctxt "39||agility_up_2||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "40||heat_gauge_up_2||name"
 msgid "Boost Heat Gauge"
@@ -1225,395 +1225,395 @@ msgstr "Potenziamento difesa"
 
 msgctxt "335||agility_up_3||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "336||agility_up_4||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "337||agility_up_5||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "338||agility_up_6||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "339||agility_up_7||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "340||agility_up_8||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "341||agility_up_9||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "342||agility_up_10||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "343||agility_up_11||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "344||agility_up_12||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "345||agility_up_13||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "346||agility_up_14||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "347||agility_up_15||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "348||agility_up_16||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "349||agility_up_17||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "350||agility_up_18||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "351||agility_up_19||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "352||agility_up_20||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "353||agility_up_21||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "354||agility_up_22||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "355||agility_up_23||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "356||agility_up_24||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "357||agility_up_25||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "358||agility_up_26||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "359||agility_up_27||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "360||agility_up_28||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "361||agility_up_29||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "362||agility_up_30||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "363||agility_up_31||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "364||agility_up_32||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "365||agility_up_33||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "366||agility_up_34||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "367||agility_up_35||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "368||agility_up_36||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "369||agility_up_37||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "370||agility_up_38||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "371||agility_up_39||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "372||agility_up_40||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "373||agility_up_41||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "374||agility_up_42||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "375||agility_up_43||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "376||agility_up_44||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "377||agility_up_45||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "378||agility_up_46||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "379||agility_up_47||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "380||agility_up_48||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "381||agility_up_49||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "382||agility_up_50||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "383||agility_up_51||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "384||agility_up_52||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "385||agility_up_53||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "386||agility_up_54||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "387||agility_up_55||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "388||agility_up_56||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "389||agility_up_57||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "390||agility_up_58||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "391||agility_up_59||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "392||agility_up_60||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "393||agility_up_61||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "394||agility_up_62||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "395||agility_up_63||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "396||agility_up_64||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "397||agility_up_65||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "398||agility_up_66||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "399||agility_up_67||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "400||agility_up_68||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "401||agility_up_69||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "402||agility_up_70||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "403||agility_up_71||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "404||agility_up_72||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "405||agility_up_73||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "406||agility_up_74||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "407||agility_up_75||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "408||agility_up_76||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "409||agility_up_77||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "410||agility_up_78||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "411||agility_up_79||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "412||agility_up_80||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "413||agility_up_81||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "414||agility_up_82||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "415||agility_up_83||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "416||agility_up_84||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "417||agility_up_85||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "418||agility_up_86||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "419||agility_up_87||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "420||agility_up_88||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "421||agility_up_89||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "422||agility_up_90||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "423||agility_up_91||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "424||agility_up_92||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "425||agility_up_93||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "426||agility_up_94||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "427||agility_up_95||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "428||agility_up_96||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "429||agility_up_97||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "430||agility_up_98||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "431||agility_up_99||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "432||agility_up_100||name"
 msgid "Boost Evasion"
-msgstr "Aumenta schivata"
+msgstr "Potenziamento schivata"
 
 msgctxt "433||heat_gauge_up_3||name"
 msgid "Boost Heat Gauge"
