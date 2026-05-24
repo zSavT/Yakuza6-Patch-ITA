@@ -33,7 +33,7 @@ msgstr "Esci"
 
 msgctxt "7||check_sight||info"
 msgid "Check"
-msgstr "Osserva"
+msgstr "Controlla"
 
 msgctxt "8||look_around||info"
 msgid "Look Around"

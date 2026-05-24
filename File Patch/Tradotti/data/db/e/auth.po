@@ -669,11 +669,11 @@ msgstr "Il Morning Glory è proprio come l'hai lasciato.\r\nStanno tutti molto b
 
 msgctxt "7||a01_060||cinema_telop||6||||4"
 msgid "That's great."
-msgstr "È fantastico."
+msgstr "Ottimo."
 
 msgctxt "7||a01_060||cinema_telop||7||||4"
 msgid "I'm glad to hear it."
-msgstr "Sono contento di sentirlo."
+msgstr "Mi fa piacere sentirlo."
 
 msgctxt "7||a01_060||cinema_telop||8||||4"
 msgid "The others really wanted to see you too,\r\nbut it would've cost a fortune to get them all here."
@@ -681,7 +681,7 @@ msgstr "Anche gli altri volevano davvero vederti,\r\nma sarebbe costato una fort
 
 msgctxt "7||a01_060||cinema_telop||9||||4"
 msgid "Everyone down in Okinawa is treating us\r\nwell though. You don't need to worry about us."
-msgstr "Comunque, ad Okinawa ci stanno tutti trattando\r\nbene. Non devi preoccuparti per noi."
+msgstr "Comunque, giù a Okinawa ci trattano tutti\r\nbene. Non devi preoccuparti per noi."
 
 msgctxt "7||a01_060||cinema_telop||10||||4"
 msgid "And the media?"
@@ -689,7 +689,7 @@ msgstr "E i media?"
 
 msgctxt "7||a01_060||cinema_telop||11||||4"
 msgid "There have been a few reporters, but..."
-msgstr "Ci sono stati un paio di giornalisti, ma..."
+msgstr "Si è fatto vivo qualche giornalista, ma..."
 
 msgctxt "7||a01_060||cinema_telop||12||||4"
 msgid "...I've handled them."
@@ -773,7 +773,7 @@ msgstr "Voglio dire, ero solo una bambina."
 
 msgctxt "7||a01_060||cinema_telop||32||||4"
 msgid "That stuff had never really\r\ncrossed my mind before."
-msgstr "Queste cose non mi erano mai davvero\r\npassate per la testa, prima d'ora."
+msgstr "A certe cose non ci avevo mai davvero\r\npensato, prima d'ora."
 
 msgctxt "7||a01_060||cinema_telop||33||||4"
 msgid "But that's why even if we're not\r\ntogether... I'll keep my chin up."
@@ -781,15 +781,15 @@ msgstr "Ma è per questo che, anche se non siamo\r\ninsieme... terrò la testa a
 
 msgctxt "7||a01_060||cinema_telop||34||||4"
 msgid "No matter how far apart we are,\r\nwe're still family. I know that in my heart."
-msgstr "Non importa quanto siamo lontani,\r\nsiamo comunque una famiglia. Questo lo so, nel cuore."
+msgstr "Non importa quanto siamo lontani,\r\nsiamo comunque una famiglia. Lo so nel profondo del cuore."
 
 msgctxt "7||a01_060||cinema_telop||35||||4"
 msgid "That's what I came to tell you today."
-msgstr "Questo è quello che sono venuta a dirti oggi."
+msgstr "È questo che sono venuta a dirti oggi."
 
 msgctxt "7||a01_060||cinema_telop||36||||4"
 msgid "It would be too embarrassing to say\r\nit once we're living together again..."
-msgstr "Sarebbe troppo imbarazzante dirlo\r\nuna volta che vivremo di nuovo insieme..."
+msgstr "Sarebbe troppo imbarazzante dirlo\r\nquando torneremo a vivere insieme..."
 
 msgctxt "7||a01_060||cinema_telop||37||||4"
 msgid "I get that."
@@ -869,7 +869,7 @@ msgstr "Per oggi sono a posto."
 
 msgctxt "8||a01_070||cinema_telop||18||||4"
 msgid "I promised Oshiro I'd train with\r\nhim some more after dinner."
-msgstr "Ho promesso a Oshiro che mi sarei allenato ancora un po' con\r\nlui dopo cena."
+msgstr "Ho promesso a Oshiro di allenarmi\r\nancora un po' con lui dopo cena."
 
 msgctxt "8||a01_070||cinema_telop||19||||4"
 msgid "Uncle Kaz is gonna be so surprised\r\nwhen he gets out of jail."
@@ -881,7 +881,7 @@ msgstr "Chi avrebbe mai immaginato che Mitsuo\r\nsarebbe diventato un giocatore 
 
 msgctxt "8||a01_070||cinema_telop||21||||4"
 msgid "Don't jinx him, you dummy.\r\nHe's still just in middle school."
-msgstr "Non portargli sfiga, stupido.\r\nÈ ancora alle scuole medie."
+msgstr "Non portargli sfiga, scemo.\r\nÈ ancora alle scuole medie."
 
 msgctxt "8||a01_070||cinema_telop||22||||4"
 msgid "But if he's competing for\r\na scholarship..."
@@ -893,7 +893,7 @@ msgstr "Mitsuo deve essersi impegnato davvero tanto."
 
 msgctxt "8||a01_070||cinema_telop||24||||4"
 msgid "Koji was the one showing him the ropes,\r\nbut now he's just getting shown up."
-msgstr "Era Koji che gli insegnava le basi,\r\nma ora lo sta proprio surclassando."
+msgstr "Era Koji a insegnargli le basi,\r\nma ora si sta facendo surclassare."
 
 msgctxt "8||a01_070||cinema_telop||25||||4"
 msgid "Shut up!"
@@ -1213,7 +1213,7 @@ msgstr "Ehi, dov'è Haruka-chan?\r\nSiete venuti insieme, vero?"
 
 msgctxt "15||a01_090||cinema_telop||16||||4"
 msgid "Oh yeah!\r\nShe'll be here soon, right?"
-msgstr "Oh già!\r\nSarà qui a breve, no?"
+msgstr "Ah, già!\r\nSarà qui a breve, no?"
 
 msgctxt "15||a01_090||cinema_telop||17||||4"
 msgid "No, she's not with me."
@@ -1225,7 +1225,7 @@ msgstr "Haruka non si è vista?"
 
 msgctxt "15||a01_090||cinema_telop||19||||4"
 msgid "What do you mean, Uncle Kaz?\r\nShe said she'd be with you."
-msgstr "Cosa intendi, zio Kaz?\r\nHa detto che sarebbe stata con te."
+msgstr "Che vuoi dire, zio Kaz?\r\nHa detto che sarebbe stata con te."
 
 msgctxt "15||a01_090||cinema_telop||20||||4"
 msgid "Hm?"
@@ -1301,35 +1301,35 @@ msgstr "Eppure! Perché Haruka-chan ha dovuto\r\nlasciarci qui, per cominciare?"
 
 msgctxt "16||a01_100||cinema_telop||14||||4"
 msgid "Things were good, weren't they?"
-msgstr "Le cose andavano bene, no?"
+msgstr "Andava tutto bene, no?"
 
 msgctxt "16||a01_100||cinema_telop||15||||4"
 msgid "Does Haruka-chan...\r\nnot like us anymore?"
-msgstr "Forse ad Haruka-chan...\r\nnon piacciamo più?"
+msgstr "Forse a Haruka-chan...\r\nnon piacciamo più?"
 
 msgctxt "16||a01_100||cinema_telop||16||||4"
 msgid "That's not it. She doesn't want to\r\nhold us back. That's what she told me."
-msgstr "Non è questo. Non vuole essere\r\nun ostacolo per noi. Questo è ciò che mi ha detto."
+msgstr "Non è questo. Non vuole essere\r\nun peso per noi. È quello che mi ha detto."
 
 msgctxt "16||a01_100||cinema_telop||17||||4"
 msgid "Huh? Hold us back?\r\nWhat's that supposed to mean?"
-msgstr "Eh? Essere un ostacolo per noi?\r\nChe diavolo dovrebbe significare?"
+msgstr "Eh? Un peso per noi?\r\nChe diavolo vorrebbe dire?"
 
 msgctxt "16||a01_100||cinema_telop||18||||4"
 msgid "Right around when Mitsuo was up for that\r\nbaseball scholarship from his school..."
-msgstr "Proprio quando Mitsuo era in lizza per quella\r\nborsa di studio sportiva dalla sua scuola..."
+msgstr "Proprio quando Mitsuo era in lizza per quella\r\nborsa di studio sportiva della sua scuola..."
 
 msgctxt "16||a01_100||cinema_telop||19||||4"
 msgid "...this article got published."
-msgstr "...è stato pubblicato questo articolo."
+msgstr "...è uscito questo articolo."
 
 msgctxt "16||a01_100||cinema_telop||20||||4"
 msgid "I think Haruka-chan hated the idea of\r\nher actions turning people against us."
-msgstr "Penso che Haruka-chan odiasse l'idea che le\r\nsue azioni potessero mettere le persone contro di noi."
+msgstr "Penso che Haruka-chan odiasse l'idea che le\r\nsue azioni mettessero la gente contro di noi."
 
 msgctxt "16||a01_100||cinema_telop||21||||4"
 msgid "Plus, back then, we didn't know how\r\nMitsuo's career would play out yet."
-msgstr "Inoltre, all'epoca non sapevamo ancora\r\ncome si sarebbe evoluta la carriera di Mitsuo."
+msgstr "Inoltre, all'epoca non sapevamo ancora\r\ncome sarebbe andata la carriera di Mitsuo."
 
 msgctxt "16||a01_100||cinema_telop||22||||4"
 msgid "What? Are you trying to pin this on me!?"
@@ -1961,7 +1961,7 @@ msgstr "Un altro segno dei tempi."
 
 msgctxt "25||a02_030||cinema_telop||15||||4"
 msgid "And Someya over there? He doesn't\r\nlook like much of a paper pusher to me."
-msgstr "E Someya laggiù? Non mi\r\nsembra proprio un passacarte."
+msgstr "E Someya laggiù? A me non\r\nsembra proprio uno scaldasedie."
 
 msgctxt "25||a02_030||cinema_telop||16||||4"
 msgid "I leave the math to the number crunchers."
@@ -2153,7 +2153,7 @@ msgstr "Lei è salito al potere in modo\r\nmolto simile, non è vero?"
 
 msgctxt "25||a02_030||cinema_telop||64||||4"
 msgid "Now even the once invincible Sugai-san\r\nhas to rely on youth to keep the clan intact."
-msgstr "Ora persino l'un tempo invincibile Sugai-san deve\r\naffidarsi ai giovani per mantenere intatto il clan."
+msgstr "Ora persino l'invincibile Sugai-san di un tempo\r\ndeve affidarsi ai giovani per mantenere intatto il clan."
 
 msgctxt "25||a02_030||cinema_telop||65||||4"
 msgid "Isn't that right, Sugai-san?"
@@ -2225,11 +2225,11 @@ msgstr "L'unico che può tenere al sicuro\r\nquesto bambino... sono io."
 
 msgctxt "28||a02_040||cinema_telop||4||||4"
 msgid "Maybe, but the guy did have\r\n<font_kind=yakuza_italic>some</font_kind> logic behind him."
-msgstr "Forse, ma quel tizio aveva\r\n<font_kind=yakuza_italic>un minimo</font_kind> di logica dalla sua parte."
+msgstr "Forse, ma quel tizio aveva\r\n<font_kind=yakuza_italic>un minimo</font_kind> di logica dalla sua."
 
 msgctxt "28||a02_040||cinema_telop||5||||4"
 msgid "People who know you personally are\r\none thing, but to the rest of the world..."
-msgstr "Le persone che ti conoscono di persona sono\r\nuna cosa, ma per il resto del mondo..."
+msgstr "Chi ti conosce di persona è\r\nun conto, ma per il resto del mondo..."
 
 msgctxt "28||a02_040||cinema_telop||6||||4"
 msgid "...You're just an ex-con of a yakuza."
@@ -2237,7 +2237,7 @@ msgstr "...sei solo un ex-galeotto della yakuza."
 
 msgctxt "28||a02_040||cinema_telop||7||||4"
 msgid "I'm sorry. But there's not much we can do\r\nfor the kid until Haruka-chan wakes up."
-msgstr "Mi dispiace. Ma non c'è molto che possiamo fare\r\nper il bambino finché Haruka-chan non si sveglierà."
+msgstr "Mi dispiace. Ma non c'è molto che possiamo fare\r\nper il bambino finché Haruka-chan non si sveglia."
 
 msgctxt "28||a02_040||cinema_telop||8||||4"
 msgid "We have to let the authorities\r\nhandle this how they see fit."
@@ -2309,7 +2309,7 @@ msgstr "Lo porto con me."
 
 msgctxt "28||a02_040||cinema_telop||25||||4"
 msgid "I'll give him back once Haruka wakes up.\r\nTrust me."
-msgstr "Lo riporterò non appena Haruka si sveglierà.\r\nFidatevi."
+msgstr "Lo riporterò appena Haruka si sveglierà.\r\nFidatevi."
 
 msgctxt "28||a02_040||cinema_telop||26||||4"
 msgid "I can't let you do this, Kiryu-san."
@@ -2325,7 +2325,7 @@ msgstr "Le faresti davvero una cosa del genere?"
 
 msgctxt "28||a02_040||cinema_telop||29||||4"
 msgid "My choice is made, Akiyama!\r\nYou can't change my mind."
-msgstr "La mia decisione è presa, Akiyama!\r\nNon puoi farmi cambiare idea."
+msgstr "Ho fatto la mia scelta, Akiyama!\r\nNon puoi farmi cambiare idea."
 
 msgctxt "28||a02_040||cinema_telop||30||||4"
 msgid "I'm trying anyway, Kiryu-san."
@@ -2349,11 +2349,11 @@ msgstr "Credi che non sappia che è sbagliato?"
 
 msgctxt "28||a02_040||cinema_telop||35||||4"
 msgid "Whatever happens to me doesn't matter,\r\nand nobody else does either."
-msgstr "Quello che succederà a me non ha importanza,\r\ne non mi importa di nessun altro."
+msgstr "Quello che mi succederà non ha importanza,\r\ne non mi importa di nessun altro."
 
 msgctxt "28||a02_040||cinema_telop||36||||4"
 msgid "I need to protect Haruka's son, now."
-msgstr "Devo proteggere il figlio di Haruka, ora."
+msgstr "Devo proteggere il figlio di Haruka, adesso."
 
 msgctxt "28||a02_040||cinema_telop||37||||4"
 msgid "I have to do this."
@@ -2365,7 +2365,7 @@ msgstr "Kiryu-san!"
 
 msgctxt "28||a02_040||cinema_telop||39||||4"
 msgid "If you're dead-set on stopping me..."
-msgstr "Se sei determinato a fermarmi..."
+msgstr "Se sei così deciso a fermarmi..."
 
 msgctxt "28||a02_040||cinema_telop||40||||4"
 msgid "...There's only one way forward."
@@ -2757,7 +2757,7 @@ msgstr "Che stai facendo, codardo!?"
 
 msgctxt "36||a03_050||cinema_telop||9||||4"
 msgid "Y'think yer too cool to throw down, huh!?\r\nHey, I didn't realize yer balls fell off!"
-msgstr "Pensi di essere troppo figo per fare a botte, eh!?\r\nEhi, non sapevo ti fossero cadute le palle!"
+msgstr "Credi di essere troppo figo per fare a botte, eh!?\r\nEhi, non sapevo ti fossero cascate le palle!"
 
 msgctxt "36||a03_050||cinema_telop||10||||4"
 msgid "Matsunaga-aniki."
@@ -2769,15 +2769,15 @@ msgstr "Sai chi è il prossimo battitore?\r\nÈ quel tizio, Kiryu."
 
 msgctxt "36||a03_050||cinema_telop||12||||4"
 msgid "Right. Why's Cap been gettin' all\r\nworked up over him anyways?"
-msgstr "Già. Perché il Capitano se la prende\r\ncosì tanto con lui, poi?"
+msgstr "Già. Ma perché il Capitano si sta\r\nscaldando così tanto per lui, poi?"
 
 msgctxt "36||a03_050||cinema_telop||13||||4"
 msgid "He's screwed if he can't focus on the game.\r\nBaseball's his one savin' grace."
-msgstr "È fregato se non riesce a concentrarsi sulla partita.\r\nIl baseball è la sua unica grazia salvifica."
+msgstr "È fregato se non riesce a concentrarsi sulla partita.\r\nIl baseball è la sua unica ancora di salvezza."
 
 msgctxt "36||a03_050||cinema_telop||14||||4"
 msgid "It doesn't really matter why. He's just\r\nnot gonna be happy 'til he fights someone."
-msgstr "Non importa davvero perché. Non sarà\r\ncontento finché non farà a botte con qualcuno."
+msgstr "Poco importa il perché. Non sarà\r\ncontento finché non farà a botte con qualcuno."
 
 msgctxt "36||a03_050||cinema_telop||15||||4"
 msgid "Let's get this over with so we\r\ncan go home in peace."

@@ -29037,15 +29037,15 @@ msgstr "C'è la possibilità che abbia sentito\r\nqualcosa su dove si trovi."
 
 msgctxt "13||speech_list_main01||table||120||||4"
 msgid "I'll go give him a call now."
-msgstr "Vado a chiamarlo subito."
+msgstr "Vado a chiamarlo adesso."
 
 msgctxt "13||speech_list_main01||table||121||||4"
 msgid "(I should give Akiyama a call. He might\r\nhave heard something about Haruka.)"
-msgstr "(Dovrei chiamare Akiyama. Potrebbe\r\naver saputo qualcosa su Haruka.)"
+msgstr "(Dovrei chiamare Akiyama. Potrebbe\r\naver sentito qualcosa su Haruka.)"
 
 msgctxt "13||speech_list_main01||table||122||||4"
 msgid "The number you have dialed\r\nis currently out of service."
-msgstr "Il numero selezionato\r\nè attualmente fuori servizio."
+msgstr "Il numero chiamato\r\nè attualmente fuori servizio."
 
 msgctxt "13||speech_list_main01||table||123||||4"
 msgid "Please confirm you have the\ncorrect number and try again."
@@ -30277,7 +30277,7 @@ msgstr "Proprio qua sotto."
 
 msgctxt "13||speech_list_main01||table||439||||4"
 msgid "I see what you meant by \"close.\"\r\nAkiyama's inside, then?"
-msgstr "Capisco cosa intendevi con \"vicino.\"\r\nAkiyama è lì dentro, allora?"
+msgstr "Capisco cosa intendevi con \"vicino\".\r\nQuindi Akiyama è lì dentro?"
 
 msgctxt "13||speech_list_main01||table||440||||4"
 msgid "You'll find out soon enough."
@@ -30541,11 +30541,11 @@ msgstr "È possibile.\nE non ci sarebbe alcun perdono."
 
 msgctxt "14||speech_list_main02||table||26||||4"
 msgid "Wait. All right."
-msgstr "Aspetta. D'accordo."
+msgstr "Aspetta... Va bene."
 
 msgctxt "14||speech_list_main02||table||27||||4"
 msgid "The accident took place near Senryo Avenue.\nI can take you there if you'd like."
-msgstr "L'incidente è avvenuto vicino a Senryo Ave.\nPosso accompagnarti lì, se vuoi."
+msgstr "L'incidente è avvenuto vicino a Senryo Avenue.\nPosso accompagnarti lì, se vuoi."
 
 msgctxt "14||speech_list_main02||table||28||||4"
 msgid "That okay by you, Date-san?"
@@ -30557,7 +30557,7 @@ msgstr "Sì, se non ti dispiace. Grazie."
 
 msgctxt "14||speech_list_main02||table||30||||4"
 msgid "We're here. Haruka Sawamura was here\nwith her child just a few hours ago."
-msgstr "Siamo qui. Haruka Sawamura era in questo punto\ncon il suo bambino solo poche ore fa."
+msgstr "Eccoci. Haruka Sawamura era qui\ncon il suo bambino solo poche ore fa."
 
 msgctxt "14||speech_list_main02||table||31||||4"
 msgid "At that point, she was struck\nfrom behind by a black sedan."
@@ -30593,7 +30593,7 @@ msgstr "Il che spiegherebbe perché ha perso\nil controllo dell'auto..."
 
 msgctxt "14||speech_list_main02||table||39||||4"
 msgid "If you're right, which side was he on?\nTojo Clan or the triads?"
-msgstr "Se hai ragione, da che parte stava?\nClan Tojo o le triadi?"
+msgstr "Se hai ragione, da che parte stava?\nCol Clan Tojo o con le triadi?"
 
 msgctxt "14||speech_list_main02||table||40||||4"
 msgid "Not necessarily either."
@@ -31149,7 +31149,7 @@ msgstr "Poiché Sawamura-san non ha parenti in vita,\nprenderemo in custodia il 
 
 msgctxt "14||speech_list_main02||table||188||||4"
 msgid "This is just standard procedure in these\ncases. Sorry, but if you'll excuse me..."
-msgstr "Questa è solo la procedura standard in questi\ncasi. Mi dispiace, ma se vuole scusarmi..."
+msgstr "Questa è solo la procedura standard in questi\ncasi. Mi dispiace, ma se mi scusa..."
 
 msgctxt "14||speech_list_main02||table||189||||4"
 msgid "Is Haruka's son going to\nend up in an orphanage?"
@@ -31157,19 +31157,19 @@ msgstr "Il figlio di Haruka finirà\nin un orfanotrofio?"
 
 msgctxt "14||speech_list_main02||table||190||||4"
 msgid "Yes, though considering he's not even a\nyear old, he'll go to a nursery first."
-msgstr "Sì, anche se considerando che non ha nemmeno un\nanno, andrà prima in un nido d'infanzia."
+msgstr "Sì, anche se considerando che non ha nemmeno un\nanno, andrà prima in un asilo nido."
 
 msgctxt "14||speech_list_main02||table||191||||4"
 msgid "Regardless, he must be taken in until\nSawamura-san can fully recover."
-msgstr "A prescindere da ciò, deve essere preso in custodia finché\nSawamura-san non si sarà ripresa completamente."
+msgstr "In ogni caso, deve essere preso in custodia finché\nSawamura-san non si sarà ripresa del tutto."
 
 msgctxt "14||speech_list_main02||table||192||||4"
 msgid "Hold on a second. I'm Haruka Sawamura's\nguardian. The name's Kiryu."
-msgstr "Aspetti un secondo. Sono il tutore di\nHaruka Sawamura. Il mio nome è Kiryu."
+msgstr "Aspetti un secondo. Sono il tutore di\nHaruka Sawamura. Mi chiamo Kiryu."
 
 msgctxt "14||speech_list_main02||table||193||||4"
 msgid "I can take responsibility for her child.\nYou guys don't need to get involved."
-msgstr "Posso assumermi io la responsabilità per il suo bambino.\nNon avete bisogno di essere coinvolti."
+msgstr "Posso occuparmi io del bambino.\nNon c'è bisogno del vostro intervento."
 
 msgctxt "14||speech_list_main02||table||194||||4"
 msgid "Kiryu-san."
@@ -31293,7 +31293,7 @@ msgstr "Mi dispiace, Akiyama."
 
 msgctxt "14||speech_list_main02||table||227||||4"
 msgid "Is taking the kid really the only way?\nWe're all kinda screwed, you know."
-msgstr "Prendere il bambino è davvero l'unica via d'uscita?\nSiamo tutti un po' fottuti, sai."
+msgstr "Portare via il bambino è davvero l'unica soluzione?\nSiamo tutti un po' fottuti, sai."
 
 msgctxt "14||speech_list_main02||table||228||||4"
 msgid "I know I act before I think sometimes.\nCall it a bad habit of mine."
@@ -31309,7 +31309,7 @@ msgstr "Così, bravo. Ecco fatto."
 
 msgctxt "14||speech_list_main02||table||231||||4"
 msgid "Don't drop him.\nEasy now, be gentle."
-msgstr "Non farlo cadere.\nPiano, fai con delicatezza."
+msgstr "Non farlo cadere.\nPiano, con delicatezza."
 
 msgctxt "14||speech_list_main02||table||232||||4"
 msgid "Oh, please."
@@ -31441,7 +31441,7 @@ msgstr "Scommetto che potrebbe dirti tutto."
 
 msgctxt "14||speech_list_main02||table||268||||4"
 msgid "So... What's next, Kiryu?"
-msgstr "Quindi... Qual è la prossima mossa, Kiryu?"
+msgstr "Quindi... Qual è la tua prossima mossa, Kiryu?"
 
 msgctxt "14||speech_list_main02||table||269||||4"
 msgid "Let's just say I have a lot of questions\nfor this guy when I find him. But first..."
@@ -31761,7 +31761,7 @@ msgstr "Ma che cazzo dici!?"
 
 msgctxt "15||speech_list_main03||table||45||||4"
 msgid "Let's take this outside. It's hard to talk to this\npretty Mama with you yapping in my ear."
-msgstr "Andiamo fuori. È difficile parlare con questa\nbella Mama con te che mi starnazzi nell'orecchio."
+msgstr "Andiamo fuori. È difficile parlare con questa\nbella Mama con te che mi blateri nell'orecchio."
 
 msgctxt "15||speech_list_main03||table||46||||4"
 msgid "Sir, should I call the police?"
@@ -31769,11 +31769,11 @@ msgstr "Signore, devo chiamare la polizia?"
 
 msgctxt "15||speech_list_main03||table||47||||4"
 msgid "It's all right. He'll calm down once I sober\nhim up a bit. Can you keep an eye on Haruto?"
-msgstr "Va tutto bene. Si darà una calmata non appena gli avrò\nfatto smaltire la sbornia. Puoi dare un'occhiata ad Haruto?"
+msgstr "Va tutto bene. Si darà una calmata non appena gli avrò\nfatto passare un po' la sbornia. Puoi dare un'occhiata a Haruto?"
 
 msgctxt "15||speech_list_main03||table||48||||4"
 msgid "Alright, let's do this! I'll show ya\nhow we <font_kind=yakuza_italic>take care</font_kind> of guys like you."
-msgstr "D'accordo, facciamolo! Ti farò vedere\ncome ci <font_kind=yakuza_italic>prendiamo cura</font_kind> dei tipi come te."
+msgstr "D'accordo, fatti sotto! Ti farò vedere\ncome ci <font_kind=yakuza_italic>prendiamo cura</font_kind> dei tipi come te."
 
 msgctxt "15||speech_list_main03||table||49||||4"
 msgid "By tearin' ya to bits!"
@@ -31785,7 +31785,7 @@ msgstr "Qui è perfetto.\nNessuno che si metta in mezzo."
 
 msgctxt "15||speech_list_main03||table||51||||4"
 msgid "Too late t'go cryin' fer help now."
-msgstr "Troppo tardi per piangere in cerca di aiuto, ora."
+msgstr "Troppo tardi per mettersi a frignare in cerca d'aiuto, ormai."
 
 msgctxt "15||speech_list_main03||table||52||||4"
 msgid "Remember, this is what ya get fer pissin' me off.\nDieeeeeee!"
@@ -31793,7 +31793,7 @@ msgstr "Ricorda, è questo che ti becchi per avermi fatto incazzare.\nMuoriiiiii
 
 msgctxt "15||speech_list_main03||table||53||||4"
 msgid "What the hell?\nH-How'd I lose to you...?"
-msgstr "Che diavolo...?\nC-Come ho fatto a perdere contro di te...?"
+msgstr "Che cazzo...?\nC-Come ho fatto a perdere contro di te...?"
 
 msgctxt "15||speech_list_main03||table||54||||4"
 msgid "Had enough?"
@@ -32045,11 +32045,11 @@ msgstr "Mi ha chiamato Kiyo-chan."
 
 msgctxt "15||speech_list_main03||table||121||||4"
 msgid "Y'know, the mama from Snack Kiyomi.\nYer the fella who needs my apartment, huh?"
-msgstr "Sai, la mama dello Snack Kiyomi.\nTu sei il tipo che ha bisogno del mio appartamento, eh?"
+msgstr "Sai, la Mama dello Snack Kiyomi.\nTu sei il tipo che ha bisogno del mio appartamento, eh?"
 
 msgctxt "15||speech_list_main03||table||122||||4"
 msgid "Oh, yeah.\nI'm Kiryu, and this is Haruto."
-msgstr "Oh, sì.\nSono Kiryu, e lui è Haruto."
+msgstr "Ah, sì.\nSono Kiryu, e lui è Haruto."
 
 msgctxt "15||speech_list_main03||table||123||||4"
 msgid "Name's Ino."
@@ -32057,7 +32057,7 @@ msgstr "Sono Ino."
 
 msgctxt "15||speech_list_main03||table||124||||4"
 msgid "So, what'd y'say to get\nKiyo-chan to like ya, huh?"
-msgstr "E allora, che le hai detto per farti\npiacere da Kiyo-chan, eh?"
+msgstr "E allora, cos'hai detto per andare\ncosì a genio a Kiyo-chan, eh?"
 
 msgctxt "15||speech_list_main03||table||125||||4"
 msgid "I don't follow?"
@@ -32489,11 +32489,11 @@ msgstr "Non ci vorrà ancora molto.\nScusa per l'attesa, Haruto."
 
 msgctxt "15||speech_list_main03||table||238||||4"
 msgid "Kiryu-san. Ino-kun had some info for me."
-msgstr "Kiryu-san. Ino-kun mi ha dato un'informazione."
+msgstr "Kiryu-san. Ino-kun aveva delle informazioni per me."
 
 msgctxt "15||speech_list_main03||table||239||||4"
 msgid "He said a barber in town had a baby recently.\nThey might share their milk with you."
-msgstr "Ha detto che un barbiere in città ha avuto un bambino di recente.\nPotrebbero condividere un po' del loro latte con te."
+msgstr "Ha detto che un barbiere in città ha avuto un bambino di recente.\nMagari potrebbero darti un po' del loro latte."
 
 msgctxt "15||speech_list_main03||table||240||||4"
 msgid "A barber?\nIs the shop nearby?"
@@ -32501,11 +32501,11 @@ msgstr "Un barbiere?\nIl negozio è qui vicino?"
 
 msgctxt "15||speech_list_main03||table||241||||4"
 msgid "Yeah. I wish I could show you the way,\nbut I need to tend the bar."
-msgstr "Sì. Vorrei poterti accompagnare,\nma devo stare al bar."
+msgstr "Sì. Vorrei poterti accompagnare,\nma devo badare al locale."
 
 msgctxt "15||speech_list_main03||table||242||||4"
 msgid "It's all right. Thank you, though.\nI'll go take a look around."
-msgstr "Va tutto bene. Grazie mille, comunque.\nAndrò a dare un'occhiata in giro."
+msgstr "Non preoccuparti. Grazie lo stesso.\nAndrò a dare un'occhiata in giro."
 
 msgctxt "15||speech_list_main03||table||243||||4"
 msgid "(Is this the barber shop Kiyomi mentioned?)"
@@ -54233,7 +54233,7 @@ msgstr "Oh, capisco perfettamente cosa intendi!"
 
 msgctxt "40||speech_list_sub_a03||table||54||||4"
 msgid "Even after that handshake event was over, I stayed\nbehind in the park so I could watch her some more."
-msgstr "Anche dopo che l'evento della stretta di mano era finito, sono\nrimasta al parco per poterla guardare ancora un po'."
+msgstr "Anche dopo la fine dell'evento delle strette di mano, sono\nrimasta al parco per poterla guardare ancora un po'."
 
 msgctxt "40||speech_list_sub_a03||table||55||||4"
 msgid "Haruka-chan didn't sit by and let everyone else\nclean up, though. She joined in right away!"
@@ -54241,7 +54241,7 @@ msgstr "Però Haruka-chan non è rimasta lì a guardare gli altri\nche pulivano.
 
 msgctxt "40||speech_list_sub_a03||table||56||||4"
 msgid "When I saw that, I knew she wasn't just cute.\nShe was super cool, too!"
-msgstr "Quando l'ho visto, ho capito che non era solo carina.\nEra anche super fantastica!"
+msgstr "Quando l'ho visto, ho capito che non era solo carina.\nEra anche super in gamba!"
 
 msgctxt "40||speech_list_sub_a03||table||57||||4"
 msgid "Not surprising. That sounds just like her."
