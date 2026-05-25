@@ -3485,15 +3485,15 @@ msgstr "Il boss?"
 
 msgctxt "43||a04_030||cinema_telop||32||||4"
 msgid "Not sure, t'be honest.\r\nHe sneaks out the back all the time."
-msgstr "Non ne sono sicuro, a essere onesti.\r\nSi sgattaiola sempre dal retro."
+msgstr "A dirla tutta, non saprei.\r\nSgattaiola sempre fuori dal retro."
 
 msgctxt "43||a04_030||cinema_telop||33||||4"
 msgid "Lemme go look fer him."
-msgstr "Fammi andare a cercarlo."
+msgstr "Vado a cercarlo."
 
 msgctxt "43||a04_030||cinema_telop||34||||4"
 msgid "No, it's all right. Just thought\r\nI'd say hello before I head home."
-msgstr "No, va bene così. Pensavo solo\r\ndi fargli un saluto prima di tornare a casa."
+msgstr "No, non importa. Volevo solo\r\nsalutarlo prima di tornare a casa."
 
 msgctxt "43||a04_030||cinema_telop||35||||4"
 msgid "R-Right..."
@@ -3709,7 +3709,7 @@ msgstr "Uh..."
 
 msgctxt "45||a04_045||cinema_telop||29||||4"
 msgid "Cap'n Koshimizu was talkin' crazy, right?\r\nThat stuff 'bout yer identity..."
-msgstr "Il Capitano Koshimizu stava farneticando, giusto?\r\nQuella roba sulla tua identità..."
+msgstr "Il Capitano Koshimizu stava farneticando, vero?\r\nQuella storia sulla tua identità..."
 
 msgctxt "45||a04_045||cinema_telop||30||||4"
 msgid "Matsunaga."
@@ -3725,15 +3725,15 @@ msgstr "Perché sei venuto?"
 
 msgctxt "45||a04_045||cinema_telop||33||||4"
 msgid "Didn't I tell ya not to leave Moreno!?\r\nWhy couldn't y'just stay put?"
-msgstr "Non ti avevo detto di non lasciare il Moreno!?\r\nPerché non te ne sei stato buono lì?"
+msgstr "Non ti avevo detto di non muoverti dal Moreno!?\r\nPerché non te ne sei stato buono lì?"
 
 msgctxt "45||a04_045||cinema_telop||34||||4"
 msgid "Y'think this is gonna solve anythin'?\r\nNow the main family's got your scent."
-msgstr "Credi che questo risolverà qualcosa?\r\nOra la famiglia principale ha fiutato le tue tracce."
+msgstr "Credi che questo risolva qualcosa?\r\nOra la famiglia principale è sulle tue tracce."
 
 msgctxt "45||a04_045||cinema_telop||35||||4"
 msgid "Who knows what's comin' now?"
-msgstr "Chi sa cosa ci aspetta ora?"
+msgstr "Chissà cosa ci aspetta ora?"
 
 msgctxt "45||a04_045||cinema_telop||36||||4"
 msgid "I'd rather have lost my pinky n' been\r\ndone with it! Y'don't get this shit!"
@@ -3757,7 +3757,7 @@ msgstr "So quello che faccio."
 
 msgctxt "45||a04_045||cinema_telop||41||||4"
 msgid "Ya goddamn turkey!"
-msgstr "Brutto tacchino maledetto!"
+msgstr "Razza di rincoglionito!"
 
 msgctxt "45||a04_045||cinema_telop||42||||4"
 msgid "Listen up. If y'got time to criticize\r\nKiryu-aniki, y'got time to bow."
@@ -3921,7 +3921,7 @@ msgstr "Uh..."
 
 msgctxt "46||a04_050||cinema_telop||15||||4"
 msgid "Cap'n Koshimizu was talkin' crazy, right?\r\nThat stuff 'bout yer identity..."
-msgstr "Il Capitano Koshimizu stava farneticando, giusto?\r\nQuella roba sulla tua identità..."
+msgstr "Il Capitano Koshimizu stava farneticando, vero?\r\nQuella storia sulla tua identità..."
 
 msgctxt "46||a04_050||cinema_telop||16||||4"
 msgid "Matsunaga."
@@ -3937,15 +3937,15 @@ msgstr "Perché sei venuto?"
 
 msgctxt "46||a04_050||cinema_telop||19||||4"
 msgid "Didn't I tell ya not to leave Moreno!?\r\nWhy couldn't y'just stay put?"
-msgstr "Non ti avevo detto di non lasciare il Moreno!?\r\nPerché non te ne sei stato buono lì?"
+msgstr "Non ti avevo detto di non muoverti dal Moreno!?\r\nPerché non te ne sei stato buono lì?"
 
 msgctxt "46||a04_050||cinema_telop||20||||4"
 msgid "Y'think this is gonna solve anythin'?\r\nNow the main family's got your scent."
-msgstr "Credi che questo risolverà qualcosa?\r\nOra la famiglia principale ha fiutato le tue tracce."
+msgstr "Credi che questo risolva qualcosa?\r\nOra la famiglia principale è sulle tue tracce."
 
 msgctxt "46||a04_050||cinema_telop||21||||4"
 msgid "Who knows what's comin' now?"
-msgstr "Chi sa cosa ci aspetta ora?"
+msgstr "Chissà cosa ci aspetta ora?"
 
 msgctxt "46||a04_050||cinema_telop||22||||4"
 msgid "I'd rather have lost my pinky n' been\r\ndone with it! Y'don't get this shit!"
@@ -3969,7 +3969,7 @@ msgstr "So quello che faccio."
 
 msgctxt "46||a04_050||cinema_telop||27||||4"
 msgid "Ya goddamn turkey!"
-msgstr "Brutto tacchino maledetto!"
+msgstr "Razza di rincoglionito!"
 
 msgctxt "46||a04_050||cinema_telop||28||||4"
 msgid "Listen up. If y'got time to criticize\r\nKiryu-aniki, y'got time to bow."
@@ -4245,7 +4245,7 @@ msgstr "Capisco..."
 
 msgctxt "50||a05_030||cinema_telop||5||||4"
 msgid "I do have an idea, though.\r\nI'm not totally sure, but..."
-msgstr "Ho un'idea, però.\r\nNon ne sono completamente sicura, ma..."
+msgstr "Ho una mezza idea, però.\r\nNon ne sono completamente sicura, ma..."
 
 msgctxt "50||a05_030||cinema_telop||6||||4"
 msgid "You do? Who are you thinking?"
@@ -4281,7 +4281,7 @@ msgstr "Per quanto mi riguarda, alloggio\r\nin quell'hotel proprio laggiù."
 
 msgctxt "50||a05_030||cinema_telop||14||||4"
 msgid "It's my first trip to the countryside.\r\nClimbing all these hills is a real pain."
-msgstr "È il mio primo viaggio in campagna.\r\nScalare tutte queste colline è una vera seccatura."
+msgstr "È il mio primo viaggio in campagna.\r\nFarsi tutte queste salite è una vera seccatura."
 
 msgctxt "50||a05_030||cinema_telop||15||||4"
 msgid "That's not what I'm asking."
@@ -4317,11 +4317,11 @@ msgstr "In circostanze normali, il giuramento\r\nsarebbe tra i presidenti, Dojim
 
 msgctxt "50||a05_030||cinema_telop||23||||4"
 msgid "But as you know,\r\nhe's been indisposed with trials."
-msgstr "Ma come sai,\r\nè stato indisposto per i processi."
+msgstr "Ma come sai,\r\nè trattenuto dai processi."
 
 msgctxt "50||a05_030||cinema_telop||24||||4"
 msgid "Even so, why would it be you here?"
-msgstr "Anche così, perché dovresti essere tu qui?"
+msgstr "E anche se fosse, perché proprio tu?"
 
 msgctxt "50||a05_030||cinema_telop||25||||4"
 msgid "Excellent question, Fourth Chairman."
@@ -4389,7 +4389,7 @@ msgstr "Ti ho cercata ovunque dopo che te ne sei andata.\r\nDevo dire che è bel
 
 msgctxt "50||a05_030||cinema_telop||41||||4"
 msgid "Look at the time!\r\nI should be getting back."
-msgstr "Guarda che ore sono!\r\nDovrei tornare indietro."
+msgstr "Guarda che ore sono!\r\nÈ meglio che vada."
 
 msgctxt "50||a05_030||cinema_telop||42||||4"
 msgid "Well then, Fourth Chairman..."
@@ -4765,11 +4765,11 @@ msgstr "Sei un idiota!\r\nÈ troppo tardi per nascondersi!"
 
 msgctxt "55||a05_070||cinema_telop||14||||4"
 msgid "Awww hell!"
-msgstr "Ahhh all'inferno!"
+msgstr "Ah, merda!"
 
 msgctxt "55||a05_070||cinema_telop||15||||4"
 msgid "Oh really?\r\nIs that you, Kiryu-san?"
-msgstr "Oh, davvero?\r\nSei tu, Kiryu-san?"
+msgstr "Ma davvero?\r\nSei tu, Kiryu-san?"
 
 msgctxt "55||a05_070||cinema_telop||16||||4"
 msgid "Someya!"
@@ -4777,15 +4777,15 @@ msgstr "Someya!"
 
 msgctxt "55||a05_070||cinema_telop||17||||4"
 msgid "Looks like we can't write this\r\nmeeting off as coincidence."
-msgstr "A quanto pare non possiamo considerare questo\r\nincontro come una coincidenza."
+msgstr "A quanto pare non possiamo liquidare questo\r\nincontro come una coincidenza."
 
 msgctxt "55||a05_070||cinema_telop||18||||4"
 msgid "And what's with that outfit?\r\nAren't you hot in that?"
-msgstr "E che mi dici di quel completo?\r\nNon hai caldo lì dentro?"
+msgstr "E che mi dici di quel costume?\r\nNon hai caldo lì dentro?"
 
 msgctxt "55||a05_070||cinema_telop||19||||4"
 msgid "Kiyomi better be safe."
-msgstr "Kiyomi farà bene a essere al sicuro."
+msgstr "Spero per te che Kiyomi sia al sicuro."
 
 msgctxt "55||a05_070||cinema_telop||20||||4"
 msgid "Where are you hiding her!?"
@@ -4801,15 +4801,15 @@ msgstr "Le voci su di te erano fondate."
 
 msgctxt "55||a05_070||cinema_telop||23||||4"
 msgid "I asked you where the girl is."
-msgstr "Ti ho chiesto dove si trova la ragazza."
+msgstr "Ti ho chiesto dove si trova Kiyomi."
 
 msgctxt "55||a05_070||cinema_telop||24||||4"
 msgid "Give me a straight answer."
-msgstr "Dammi una risposta diretta."
+msgstr "Dammi una risposta chiara."
 
 msgctxt "55||a05_070||cinema_telop||25||||4"
 msgid "I see now. You want to fight me?"
-msgstr "Capisco. Vuoi combattere?"
+msgstr "Capisco. Vuoi batterti?"
 
 msgctxt "55||a05_070||cinema_telop||26||||4"
 msgid "Unfortunately for you,\r\nI'm not interested."
@@ -5497,11 +5497,11 @@ msgstr "Mi chiamo Joon-gi Han."
 
 msgctxt "61||a06_030||cinema_telop||7||||4"
 msgid "As I hear it, you graced my club\r\nwith your presence earlier today."
-msgstr "A quanto ho saputo, avete onorato il mio club\r\ncon la vostra presenza prima, oggi."
+msgstr "A quanto mi dicono, avete onorato il mio club\r\ncon la vostra presenza quest'oggi."
 
 msgctxt "61||a06_030||cinema_telop||8||||4"
 msgid "Only to have this imbecile\r\nturn you away at the door!"
-msgstr "Solo per essere allontanati alla porta\r\nda questo imbecille!"
+msgstr "Per poi farvi respingere alla porta\r\nda questo imbecille!"
 
 msgctxt "61||a06_030||cinema_telop||9||||4"
 msgid "Wh-What the hell're y'doin'!?"

@@ -13585,11 +13585,11 @@ msgstr "Capisco. Komei è lo stratega di JUSTIS.\nÈ il braccio destro del capo,
 
 msgctxt "11||speech_list_cln||table||118||||4"
 msgid "Oh yeah. That guy was there with Komei.\nGoes by the name \"Rainmaker\" or something."
-msgstr "Ah, sì. C'era un tizio con Komei.\nSi fa chiamare \"Rainmaker\" o qualcosa del genere."
+msgstr "Ah, sì. C'era quel tizio con Komei.\nSi fa chiamare \"Rainmaker\" o qualcosa del genere."
 
 msgctxt "11||speech_list_cln||table||119||||4"
 msgid "The one who makes it rain cash...\nHe's a key figure in Kamurocho."
-msgstr "Colui che fa piovere contanti...\nÈ una figura chiave a Kamurocho."
+msgstr "Quello che fa piovere soldi...\nÈ una figura chiave a Kamurocho."
 
 msgctxt "11||speech_list_cln||table||120||||4"
 msgid "Kids who look up to him have formed an army\nand taken to the streets. That army is JUSTIS."
@@ -13601,7 +13601,7 @@ msgstr "Ma... non eri uno dei fondatori?"
 
 msgctxt "11||speech_list_cln||table||122||||4"
 msgid "It didn't use to be like that\nback when it first started, though."
-msgstr "Quando tutto è iniziato,\nnon era così, però."
+msgstr "All'inizio, però,\nnon era affatto così."
 
 msgctxt "11||speech_list_cln||table||123||||4"
 msgid "A lot's happened, though. Okada and JUSTIS\nchanged, and now it's just a regular old street gang."
@@ -13893,7 +13893,7 @@ msgstr "Heh, mi sorprende che siate venuti, sapendo quanti\nsiamo. Niente male, 
 
 msgctxt "11||speech_list_cln||table||197||||4"
 msgid "My orders're coming from the top...\nSo no hard feelings, yeah?"
-msgstr "I miei ordini arrivano dall'alto...\nQuindi niente rancore, d'accordo?"
+msgstr "I miei ordini arrivano dall'alto...\nQuindi niente rancore, eh?"
 
 msgctxt "11||speech_list_cln||table||198||||4"
 msgid "All right... Let's do this thing! Sachiko's\ncoming back to us! We're gonna win!"
@@ -13901,11 +13901,11 @@ msgstr "D'accordo... Diamoci dentro! Riportiamo\na casa Sachiko! Vinceremo noi!"
 
 msgctxt "11||speech_list_cln||table||199||||4"
 msgid "We took care of all of them.\nYou're a real boss, Kiryu-san."
-msgstr "Ci siamo occupati di tutti loro.\nSei un vero capo, Kiryu-san."
+msgstr "Li abbiamo sistemati tutti.\nSei un vero capo, Kiryu-san."
 
 msgctxt "11||speech_list_cln||table||200||||4"
 msgid "Same to you. I assumed you were weaker than\nthat since I've only ever seen you get beaten up."
-msgstr "Anche tu. Credevo fossi più debole di così,\nvisto che ti avevo visto solo prenderle."
+msgstr "Lo stesso vale per te. Credevo fossi più debole di così,\nvisto che finora ti avevo visto solo prenderle."
 
 msgctxt "11||speech_list_cln||table||201||||4"
 msgid "Harsh, man."
@@ -14421,7 +14421,7 @@ msgstr "Pensaci. Ogni squadra famosa\ndeve essere riconoscibile in qualche modo.
 
 msgctxt "11||speech_list_cln||table||335||||4"
 msgid "We've gotta make sure ours is good, though.\nMaybe we could use English like JUSTIS did..."
-msgstr "Dobbiamo assicurarci che il nostro sia bello, però.\nForse potremmo usare l'inglese, come ha fatto JUSTIS..."
+msgstr "Dobbiamo assicurarci che il nostro sia all'altezza, però.\nForse potremmo usare l'inglese, come ha fatto JUSTIS..."
 
 msgctxt "11||speech_list_cln||table||336||||4"
 msgid "Hm... We should probably let our leader decide."
@@ -14429,11 +14429,11 @@ msgstr "Mhm... Forse dovremmo far decidere al nostro leader."
 
 msgctxt "11||speech_list_cln||table||337||||4"
 msgid "Me...?"
-msgstr "A me...?"
+msgstr "Io...?"
 
 msgctxt "11||speech_list_cln||table||338||||4"
 msgid "Yeah. You're the head of our team, Kiryu-san,\nso our name should represent that somehow."
-msgstr "Sì. Sei a capo del nostro gruppo, Kiryu-san,\nquindi il nostro nome dovrebbe rappresentarlo in qualche modo."
+msgstr "Sì. Sei a capo della nostra squadra, Kiryu-san,\nquindi il nostro nome dovrebbe rispecchiare la cosa in qualche modo."
 
 msgctxt "11||speech_list_cln||table||339||||4"
 msgid "We could go with K-2016. Or the Kiryu Revolution\nArmy! That might be too old-school, though..."
@@ -14441,7 +14441,7 @@ msgstr "Potremmo chiamarci K-2016. Oppure Esercito\nRivoluzionario di Kiryu! For
 
 msgctxt "11||speech_list_cln||table||340||||4"
 msgid "Hm... A team name that includes my own..."
-msgstr "Mhm... Un nome per il gruppo che includa il mio..."
+msgstr "Mhm... Un nome per la squadra che includa il mio..."
 
 msgctxt "11||speech_list_cln||table||341||||4"
 msgid "What about the Kiryu Clan?"
@@ -14489,7 +14489,7 @@ msgstr "D'accordo! Diamoci dentro!"
 
 msgctxt "11||speech_list_cln||table||352||||4"
 msgid "Heh... Here goes nothing..."
-msgstr "Heh... O la va o la spacca..."
+msgstr "Ah, che seccatura."
 
 msgctxt "11||speech_list_cln||table||353||||4"
 msgid "So... I know I'm the team leader,\nbut what exactly does that entail?"
@@ -26545,7 +26545,7 @@ msgstr "Non me ne frega niente."
 
 msgctxt "12||speech_list_imssn||table||1888||||4"
 msgid "Stuff gets buried with corpses all the time. Jus' so\nhappens that a lot of it ends up bein' pretty pricey."
-msgstr "Roba viene sepolta con i cadaveri in continuazione. Solo che\nspesso finisce per valere un bel po' di soldi."
+msgstr "Con i cadaveri viene sepolta un sacco di roba in continuazione. Guarda caso,\ngran parte finisce per valere un bel po' di soldi."
 
 msgctxt "12||speech_list_imssn||table||1889||||4"
 msgid "Time fer ya t'pay up."
@@ -26553,7 +26553,7 @@ msgstr "È ora di pagare."
 
 msgctxt "12||speech_list_imssn||table||1890||||4"
 msgid "Quit yer goddamn yappin'!\n*I'm gonna make you pay me!"
-msgstr "Piantala con le tue lamentele del cazzo!\n*Ti costringerò a pagarmi!"
+msgstr "Piantala di blaterare, cazzo!\n*Ti farò sputare quei soldi!"
 
 msgctxt "12||speech_list_imssn||table||1891||||4"
 msgid "'ppreciate the business!"
@@ -26601,7 +26601,7 @@ msgstr "E va bene."
 
 msgctxt "12||speech_list_imssn||table||1902||||4"
 msgid "Just gimme your wallet already!"
-msgstr "Dammi il tuo portafogli e muoviti!"
+msgstr "Dammi il portafogli e muoviti!"
 
 msgctxt "12||speech_list_imssn||table||1903||||4"
 msgid "Quiet!"
@@ -26689,7 +26689,7 @@ msgstr "Ehi, che ci fai con la mia donna!?"
 
 msgctxt "12||speech_list_imssn||table||1924||||4"
 msgid "What was 'at!? Yer goin' down!"
-msgstr "Cosa!? Vai al tappeto!"
+msgstr "Come scusa!? Ora ti stendo!"
 
 msgctxt "12||speech_list_imssn||table||1925||||4"
 msgid "If y'don't wanna get yerself hurt,\nyer gonna have t'gimme 100k."
@@ -26729,7 +26729,7 @@ msgstr "Ehi, datemi una mano qui!"
 
 msgctxt "12||speech_list_imssn||table||1934||||4"
 msgid "What's yer beef!?"
-msgstr "Qual è il tuo problema!?"
+msgstr "Che problema hai!?"
 
 msgctxt "12||speech_list_imssn||table||1935||||4"
 msgid "I won't do it again, promise..."
@@ -26757,7 +26757,7 @@ msgstr "Mi hanno derubato!"
 
 msgctxt "12||speech_list_imssn||table||1941||||4"
 msgid "Stuff gets buried with corpses all the time. Jus' so\nhappens that a lot of it ends up bein' pretty pricey."
-msgstr "Roba viene sepolta con i cadaveri in continuazione. Solo che\nspesso finisce per valere un bel po' di soldi."
+msgstr "Con i cadaveri viene sepolta un sacco di roba in continuazione. Guarda caso,\ngran parte finisce per valere un bel po' di soldi."
 
 msgctxt "12||speech_list_imssn||table||1942||||4"
 msgid "Time fer ya t'pay up."
@@ -26765,7 +26765,7 @@ msgstr "È ora di pagare."
 
 msgctxt "12||speech_list_imssn||table||1943||||4"
 msgid "Quit yer goddamn yappin'!\nI'm gonna make you pay me!"
-msgstr "Piantala con le tue lamentele del cazzo!\nTi costringerò a pagarmi!"
+msgstr "Piantala di blaterare, cazzo!\nTi farò sputare quei soldi!"
 
 msgctxt "12||speech_list_imssn||table||1944||||4"
 msgid "'ppreciate the business!"
@@ -26825,7 +26825,7 @@ msgstr "Ti farò a pezzi!"
 
 msgctxt "12||speech_list_imssn||table||1958||||4"
 msgid "Stuff gets buried with corpses all the time. Jus' so\nhappens that a lot of it ends up bein' pretty pricey."
-msgstr "Roba viene sepolta con i cadaveri in continuazione. Solo che\nspesso finisce per valere un bel po' di soldi."
+msgstr "Con i cadaveri viene sepolta un sacco di roba in continuazione. Guarda caso,\ngran parte finisce per valere un bel po' di soldi."
 
 msgctxt "12||speech_list_imssn||table||1959||||4"
 msgid "Yo, what're y'doin' with my woman!?"
@@ -26833,7 +26833,7 @@ msgstr "Ehi, che ci fai con la mia donna!?"
 
 msgctxt "12||speech_list_imssn||table||1960||||4"
 msgid "What was 'at!? Yer goin' down!"
-msgstr "Cosa!? Vai al tappeto!"
+msgstr "Come scusa!? Ora ti stendo!"
 
 msgctxt "12||speech_list_imssn||table||1961||||4"
 msgid "If you don't wanna get hurt,\nhow 'bout you hand over 100k?"
@@ -27005,7 +27005,7 @@ msgstr "Tieni, questo è il mio numero. Ti prego,\nti prego, fammi sapere se lo 
 
 msgctxt "12||speech_list_imssn||table||2003||||4"
 msgid "What!? You're horrible!"
-msgstr "Cosa!? Sei orribile!"
+msgstr "Cosa!? Sei pessimo!"
 
 msgctxt "12||speech_list_imssn||table||2004||||4"
 msgid "If you want to keep all your teeth aligned,\nyou should probably think about paying up."
@@ -27085,7 +27085,7 @@ msgstr "Tieni, questo è il mio numero. Ti prego,\nti prego, fammi sapere se lo 
 
 msgctxt "12||speech_list_imssn||table||2023||||4"
 msgid "What!? Yer terrible!"
-msgstr "Cosa!? Sei orribile!"
+msgstr "Cosa!? Sei pessimo!"
 
 msgctxt "12||speech_list_imssn||table||2024||||4"
 msgid "If y'wanna keep all yer teeth aligned,\ny'should probly think about payin' up."
@@ -34917,7 +34917,7 @@ msgstr "Allora... so chi sei. Il Drago di Dojima!\nUna volta ho letto di te su u
 
 msgctxt "16||speech_list_main04||table||362||||4"
 msgid "Hey, what's up with y'guys?\nWhy aren't ya surprised?"
-msgstr "Ehi, che vi prende a voi?\nPerché non siete sorpresi?"
+msgstr "Ehi, che vi prende?\nPerché non siete sorpresi?"
 
 msgctxt "16||speech_list_main04||table||363||||4"
 msgid "Is he really that famous?"
@@ -34925,7 +34925,7 @@ msgstr "È davvero così famoso?"
 
 msgctxt "16||speech_list_main04||table||364||||4"
 msgid "Huh? What're y'talkin' about!?\nHe's legendary fer bein' a ruthless yakuza!"
-msgstr "Eh? Di che cavolo stai parlando!?\nÈ leggendario per essere uno spietato yakuza!"
+msgstr "Eh? Di che cavolo stai parlando!?\nÈ leggendario per essere uno yakuza spietato!"
 
 msgctxt "16||speech_list_main04||table||365||||4"
 msgid "This guy's incredible!"
@@ -34981,7 +34981,7 @@ msgstr "Ehi, Nagumo.\nSentiamo questo segreto."
 
 msgctxt "16||speech_list_main04||table||379||||4"
 msgid "(Mama said she'd bring Haruto back to the\napartment. She's probably waiting there.)"
-msgstr "(La signora ha detto che avrebbe riportato Haruto\nall'appartamento. Probabilmente ci sta aspettando lì.)"
+msgstr "(Mama ha detto che avrebbe riportato Haruto\nall'appartamento. Probabilmente mi starà aspettando lì.)"
 
 msgctxt "16||speech_list_main04||table||380||||4"
 msgid "Kiryu-san."
@@ -34989,15 +34989,15 @@ msgstr "Kiryu-san."
 
 msgctxt "16||speech_list_main04||table||381||||4"
 msgid "Hi there. Sorry I'm late.\nHave you been here long?"
-msgstr "Salve. Scusa per il ritardo.\nSiete qui da molto?"
+msgstr "Ciao. Scusa il ritardo.\nSiete qui da molto?"
 
 msgctxt "16||speech_list_main04||table||382||||4"
 msgid "Not really. Haruto-kun's fast asleep.\nHe's been in a great mood today, though."
-msgstr "Non molto. Haruto-kun è profondamente addormentato.\nPerò oggi è stato di ottimo umore."
+msgstr "Non da molto. Haruto-kun dorme profondamente.\nOggi però è stato di ottimo umore."
 
 msgctxt "16||speech_list_main04||table||383||||4"
 msgid "That's good. Did you want to\ncome inside for a bit?"
-msgstr "Meno male. Vuoi\nentrare un po'?"
+msgstr "Meno male. Ti va di\nentrare un attimo?"
 
 msgctxt "16||speech_list_main04||table||384||||4"
 msgid "Oh no, it's getting late. Anyway,\nhow are things with the Masuzoe Family?"
@@ -35005,11 +35005,11 @@ msgstr "Oh no, si sta facendo tardi. Comunque,\ncome vanno le cose con la Famigl
 
 msgctxt "16||speech_list_main04||table||385||||4"
 msgid "Fine, for now at least."
-msgstr "Bene, per ora almeno."
+msgstr "Bene, almeno per ora."
 
 msgctxt "16||speech_list_main04||table||386||||4"
 msgid "I'm glad to hear that.\nWell, here's Haruto-kun."
-msgstr "Mi fa piacere sentirlo.\nBene, ecco Haruto-kun."
+msgstr "Mi fa piacere sentirlo.\nAllora, ecco a te Haruto-kun."
 
 msgctxt "16||speech_list_main04||table||387||||4"
 msgid "I really shouldn't keep asking you\nto take care of him."
@@ -35049,7 +35049,7 @@ msgstr "Nagumo...?"
 
 msgctxt "16||speech_list_main04||table||398||||4"
 msgid "Kiyo-chan told me where yer stayin'.\nI've got somethin' I wanna tell ya, Aniki."
-msgstr "Kiyo-chan mi ha detto dove alloggi.\nHo qualcosa da dirti, Aniki."
+msgstr "Kiyo-chan mi ha detto dove stai.\nHo una cosa da dirti, Aniki."
 
 msgctxt "16||speech_list_main04||table||399||||4"
 msgid "Haruto's sleeping, so let's talk outside.\nDo you mind?"
@@ -35057,15 +35057,15 @@ msgstr "Haruto sta dormendo, quindi parliamo fuori.\nTi dispiace?"
 
 msgctxt "16||speech_list_main04||table||400||||4"
 msgid "Not a lick."
-msgstr "Nemmeno un po'."
+msgstr "Nessun problema."
 
 msgctxt "16||speech_list_main04||table||401||||4"
 msgid "As y'can probly guess,\nI came t'talk about Haruka-san."
-msgstr "Come puoi probabilmente immaginare,\nsono venuto a parlarti di Haruka-san."
+msgstr "Come avrai già capito,\nsono venuto a parlarti di Haruka-san."
 
 msgctxt "16||speech_list_main04||table||403||||4"
 msgid "Truth is, everyone in the family\nknew Haruka-san when she was here."
-msgstr "La verità è che tutti nella famiglia\nconoscevano Haruka-san quando era qui."
+msgstr "La verità è che tutti nella Famiglia\nconoscevano Haruka-san quando era qui."
 
 msgctxt "16||speech_list_main04||table||404||||4"
 msgid "Soon as y'showed us that picture over at\nthe office, we figured out who y'were."
@@ -35073,15 +35073,15 @@ msgstr "Appena ci hai mostrato quella foto in\nufficio, abbiamo capito chi eri."
 
 msgctxt "16||speech_list_main04||table||405||||4"
 msgid "Kiryu-aniki. Yer Haruka's guardian and the\nTojo Clan Fourth Chairman... Kazuma Kiryu."
-msgstr "Kiryu-aniki. Sei il tutore di Haruka e il\nquarto presidente del Clan Tojo... Kazuma Kiryu."
+msgstr "Kiryu-aniki. Sei il tutore di Haruka e il\nQuarto Presidente del Clan Tojo... Kazuma Kiryu."
 
 msgctxt "16||speech_list_main04||table||407||||4"
 msgid "Pretty sure Matsunaga didn't quite\nput the pieces together, though."
-msgstr "Sono abbastanza sicuro che Matsunaga non avesse\nmesso insieme i pezzi, però."
+msgstr "Sono abbastanza sicuro che Matsunaga non abbia\nmesso insieme i pezzi, però."
 
 msgctxt "16||speech_list_main04||table||408||||4"
 msgid "Lemme tell ya, that thick skull o' his\nserves him good sometimes."
-msgstr "Lascia che te lo dica, quella sua testa dura\nogni tanto gli fa comodo."
+msgstr "Ti dirò, quella sua testa dura\nogni tanto gli torna utile."
 
 msgctxt "16||speech_list_main04||table||409||||4"
 msgid "I see."
@@ -35341,7 +35341,7 @@ msgstr "Te l'ha detto Nagumo-kun, vero? Di\ncome Haruka-chan lavorasse per me."
 
 msgctxt "17||speech_list_main05||table||41||||4"
 msgid "Yeah, he did. If you don't mind,\ncan you tell me how Haruka got here?"
-msgstr "Sì, me l'ha detto. Se non ti dispiace,\npuoi dirmi come Haruka è arrivata qui?"
+msgstr "Sì, me l'ha detto. Se non ti dispiace,\npuoi dirmi come è finita qui Haruka?"
 
 msgctxt "17||speech_list_main05||table||42||||4"
 msgid "The first time we met was\nthree years ago, down by the harbor."
@@ -35353,7 +35353,7 @@ msgstr "Stava fissando l'acqua\ncon uno sguardo tristissimo."
 
 msgctxt "17||speech_list_main05||table||44||||4"
 msgid "I thought maybe she would jump,\nso I called out to her."
-msgstr "Pensavo che forse si sarebbe buttata,\ncosì l'ho chiamata."
+msgstr "Pensavo che forse si sarebbe buttata,\ncosì le ho rivolto la parola."
 
 msgctxt "17||speech_list_main05||table||45||||4"
 msgid "That's how we started talking."
@@ -35793,7 +35793,7 @@ msgstr "Insegui Someya, Aniki."
 
 msgctxt "17||speech_list_main05||table||161||||4"
 msgid "Isn't this view incredible?\nI love how Onomichi looks from the water."
-msgstr "Non è incredibile questa vista?\nAdoro l'aspetto di Onomichi dall'acqua."
+msgstr "Non è incredibile questa vista?\nAdoro la vista di Onomichi dall'acqua."
 
 msgctxt "17||speech_list_main05||table||163||||4"
 msgid "Beyond that, there is no better place than\nthis to discuss important matters."
@@ -35813,7 +35813,7 @@ msgstr "Ad essere sincero, Kiryu-san...\nHo una richiesta da farti."
 
 msgctxt "17||speech_list_main05||table||167||||4"
 msgid "I would like you to bear witness to the pact\nsworn between Koshimizu and Someya-san."
-msgstr "Vorrei che facessi da testimone al patto\ngiurato tra Koshimizu e Someya-san."
+msgstr "Vorrei che facessi da testimone al patto\nstretto tra Koshimizu e Someya-san."
 
 msgctxt "17||speech_list_main05||table||168||||4"
 msgid "What are you talking about?"
@@ -36745,7 +36745,7 @@ msgstr "S-Scusate! Vado un\nattimo al Poppo!"
 
 msgctxt "18||speech_list_main06||table||163||||4"
 msgid "Guess that parfait bit 'im in the ass. That's\nwhat he gets fer eatin' the whole damn thing."
-msgstr "Immagino che il parfait gli si sia ritorto contro. Questo è\nquello che si merita per esserselo mangiato tutto intero."
+msgstr "Immagino che il parfait gli si sia ritorto contro.\nBen gli sta per esserselo sbafato tutto intero."
 
 msgctxt "18||speech_list_main06||table||164||||4"
 msgid "I take it he went to use the bathroom, then."
@@ -36757,7 +36757,7 @@ msgstr "Probabile. Andiamo anche noi.\nPossiamo aspettarlo dentro."
 
 msgctxt "18||speech_list_main06||table||166||||4"
 msgid "C'mon, I'm beggin' you!\nI'm gonna explode!"
-msgstr "Andiamo, te ne prego!\nSto per esplodere!"
+msgstr "Dai, te ne prego!\nSto per esplodere!"
 
 msgctxt "18||speech_list_main06||table||167||||4"
 msgid "I'm sorry, but we don't have a restroom."
@@ -36765,15 +36765,15 @@ msgstr "Mi spiace, ma non abbiamo un bagno."
 
 msgctxt "18||speech_list_main06||table||168||||4"
 msgid "Don't lie t'me! What happens when\nthe employees gotta take a dump!?"
-msgstr "Non mentirmi! Che succede quando\ni dipendenti devono cagare!?"
+msgstr "Non dirmi cazzate! Che succede quando\ni dipendenti devono cagare!?"
 
 msgctxt "18||speech_list_main06||table||169||||4"
 msgid "I'm sorry, sir, but we can't let customers\nback there for inventory control reasons."
-msgstr "Mi spiace, signore, ma non possiamo far passare i clienti\nlì dietro per motivi di controllo dell'inventario."
+msgstr "Mi spiace, signore, ma non possiamo far passare i clienti\nlì dietro per questioni di controllo dell'inventario."
 
 msgctxt "18||speech_list_main06||table||170||||4"
 msgid "So I gotta take a shit right\nhere on the floor, then!?"
-msgstr "Quindi devo fare una cagata proprio\nqui sul pavimento, allora!?"
+msgstr "Quindi devo cagare proprio\nqui sul pavimento, allora!?"
 
 msgctxt "18||speech_list_main06||table||171||||4"
 msgid "Actually, I'm going to have to ask\nyou to do that outside."
@@ -37441,7 +37441,7 @@ msgstr "Sì!"
 
 msgctxt "18||speech_list_main06||table||348||||4"
 msgid "I'm heatin' up now! Kinda hopin' these\nbitches call up some more friends!"
-msgstr "Ora mi sto scaldando! Spero che queste\nputtane chiamino qualche altro amico!"
+msgstr "Ora mi sto scaldando! Spero quasi che 'ste\nputtane chiamino qualche amichetto!"
 
 msgctxt "18||speech_list_main06||table||349||||4"
 msgid "'Cause this ain't over by a long shot!"
@@ -37461,7 +37461,7 @@ msgstr "Yuta!"
 
 msgctxt "18||speech_list_main06||table||354||||4"
 msgid "Cap said I should go n' catch up to you."
-msgstr "Il Capo ha detto che dovevo venire a raggiungerti."
+msgstr "Il Capo ha detto di raggiungerti."
 
 msgctxt "18||speech_list_main06||table||355||||4"
 msgid "What?"
@@ -37517,7 +37517,7 @@ msgstr "A parte questo, non è favoloso questo posto?\nIl precedente proprietari
 
 msgctxt "18||speech_list_main06||table||369||||4"
 msgid "Kind of sad then, how it started to stagnate.\nIt was in desperate need of a facelift."
-msgstr "Un po' triste allora, come avesse iniziato a stagnare.\nAveva disperatamente bisogno di una rinfrescata."
+msgstr "Un po' triste allora, come avesse iniziato a decadere.\nAveva disperatamente bisogno di una rinfrescata."
 
 msgctxt "18||speech_list_main06||table||370||||4"
 msgid "Considering how empty it is,\nI wouldn't say it really worked."
@@ -37525,11 +37525,11 @@ msgstr "Considerando quanto è vuoto,\nnon direi che abbia davvero funzionato."
 
 msgctxt "18||speech_list_main06||table||371||||4"
 msgid "What a cruel thing to say.\nBut all you've seen is the front."
-msgstr "Che cosa crudele da dire.\nMa tutto ciò che hai visto è solo la facciata."
+msgstr "Che cosa crudele da dire.\nMa tutto ciò che hai visto è solo la parte davanti."
 
 msgctxt "18||speech_list_main06||table||372||||4"
 msgid "It makes for a convenient facade."
-msgstr "È una facciata conveniente."
+msgstr "Funge da comoda copertura."
 
 msgctxt "18||speech_list_main06||table||373||||4"
 msgid "What truly entices our female patrons is\nthe intangible danger lurking in the back."
@@ -37541,7 +37541,7 @@ msgstr "Inoltre, crediamo che questo locale ci\naiuterà a riprendere piede a Ka
 
 msgctxt "18||speech_list_main06||table||376||||4"
 msgid "\"We\"?"
-msgstr "\"Ci\"?"
+msgstr "\"Noi\"?"
 
 msgctxt "18||speech_list_main06||table||377||||4"
 msgid "Haven't you realized who I am by now?"
@@ -37893,11 +37893,11 @@ msgstr "Uh..."
 
 msgctxt "18||speech_list_main06||table||472||||4"
 msgid "Are you trying to disgrace us!?\nLet Yuta-kun go. And drop the knife, too."
-msgstr "Stai cercando di disonorarci!?\nLascia andare Yuta-kun. E butta anche il coltello."
+msgstr "Stai cercando di disonorarci!?\nLascia andare Yuta-kun. E lascia cadere quel coltello."
 
 msgctxt "18||speech_list_main06||table||473||||4"
 msgid "What are all of you looking at?\nShow some respect to our victor."
-msgstr "Cosa state guardando tutti quanti?\nMostrate rispetto al nostro vincitore."
+msgstr "Che avete da guardare tutti quanti?\nMostrate un po' di rispetto per il nostro vincitore."
 
 msgctxt "18||speech_list_main06||table||474||||4"
 msgid "Kazuma Kiryu has defeated me.\nApplause for the Dragon of Dojima!"
@@ -37905,7 +37905,7 @@ msgstr "Kazuma Kiryu mi ha sconfitto.\nUn applauso per il Drago di Dojima!"
 
 msgctxt "18||speech_list_main06||table||475||||4"
 msgid "Sensational! Moreover, a grand display!"
-msgstr "Sensazionale! Inoltre, uno spettacolo grandioso!"
+msgstr "Sensazionale! E per di più, uno spettacolo grandioso!"
 
 msgctxt "18||speech_list_main06||table||476||||4"
 msgid "I see now why the old guard of the\nJingweon are so troubled by your existence."
@@ -38445,7 +38445,7 @@ msgstr "Mi sembra solo giusto essere trasparenti\nsulle informazioni in nostro p
 
 msgctxt "19||speech_list_main07||table||21||||4"
 msgid "From where I'm standing, it looks\nmore like collusion. How about that?"
-msgstr "Dal mio punto di vista, sembra\npiù collusione. Che ne dici?"
+msgstr "Dal mio punto di vista, sembra\npiù collusione. Come la mettiamo?"
 
 msgctxt "19||speech_list_main07||table||22||||4"
 msgid "He's been out of the yakuza for years, man."
@@ -38461,7 +38461,7 @@ msgstr "A proposito, puoi passare dal Serena più tardi?\nHo ancora qualche doma
 
 msgctxt "19||speech_list_main07||table||25||||4"
 msgid "That sounds good. I'll come alone.\nYou go on over and wait for me, Kiryu."
-msgstr "D'accordo. Verrò da solo.\nTu vai lì ad aspettarmi, Kiryu."
+msgstr "D'accordo. Verrò da solo.\nVai avanti e aspettami, Kiryu."
 
 msgctxt "19||speech_list_main07||table||26||||4"
 msgid "Right. See you."
@@ -38469,7 +38469,7 @@ msgstr "Va bene. Ci vediamo."
 
 msgctxt "19||speech_list_main07||table||27||||4"
 msgid "(Nagumo and Yuta are waiting at Serena.\nI should head there myself...)"
-msgstr "(Nagumo e Yuta mi stanno aspettando al Serena.\nDovrei andarci...)"
+msgstr "(Nagumo e Yuta mi stanno aspettando al Serena.\nDovrei raggiungerli...)"
 
 msgctxt "19||speech_list_main07||table||28||||4"
 msgid "Kiryu-aniki."
@@ -64133,11 +64133,11 @@ msgstr "Che succede, Misa? Non hai intenzione\ndi dire al tuo senpai cosa provi?
 
 msgctxt "62||speech_list_sub_b01||table||82||||4"
 msgid "I tried, but I got kinda nervous...\nSorry, but can you give me some more time?"
-msgstr "Ci ho provato, ma mi sono innervosita...\nScusa, puoi darmi ancora un po' di tempo?"
+msgstr "Ci ho provato, ma mi sono agitata...\nScusa, puoi darmi ancora un po' di tempo?"
 
 msgctxt "62||speech_list_sub_b01||table||83||||4"
 msgid "Sure. I wasn't trying to rush you."
-msgstr "Certo. Non stavo cercando di metterti fretta."
+msgstr "Certo. Non volevo metterti fretta."
 
 msgctxt "62||speech_list_sub_b01||table||84||||4"
 msgid "Hm? Is that... Misa? So the guy\nmust be the one she mentioned earlier."
@@ -64153,7 +64153,7 @@ msgstr "Che succede, Misa? Sono tutt'orecchi."
 
 msgctxt "62||speech_list_sub_b01||table||87||||4"
 msgid "Um, do you remember how I told you my dream\nof becoming an idol back in middle school, senpai?"
-msgstr "Ehm, ti ricordi di quando ti ho raccontato del mio sogno\ndi diventare un'idol alle scuole medie, senpai?"
+msgstr "Ehm, ti ricordi quando, alle medie, ti ho raccontato\ndel mio sogno di diventare un'idol, senpai?"
 
 msgctxt "62||speech_list_sub_b01||table||88||||4"
 msgid "Yeah, of course I do."
@@ -64161,7 +64161,7 @@ msgstr "Sì, certo che me lo ricordo."
 
 msgctxt "62||speech_list_sub_b01||table||89||||4"
 msgid "It was after you saw Haruka Sawamura's\nlast concert on TV. That was what inspired you."
-msgstr "È stato dopo che hai visto l'ultimo concerto\ndi Haruka Sawamura in TV. È stato quello a ispirarti."
+msgstr "È successo dopo che hai visto l'ultimo concerto\ndi Haruka Sawamura in TV. È quello che ti ha ispirata."
 
 msgctxt "62||speech_list_sub_b01||table||90||||4"
 msgid "So Misa wants to be an idol now\nbecause of Haruka...?"
@@ -64169,11 +64169,11 @@ msgstr "(Quindi Misa vuole diventare un'idol\nper via di Haruka...?)"
 
 msgctxt "62||speech_list_sub_b01||table||91||||4"
 msgid "Back then, everyone made fun of me and\ncalled me names. You were different, though."
-msgstr "Allora tutti mi prendevano in giro e\nmi offendevano. Tu invece eri diverso."
+msgstr "All'epoca tutti mi prendevano in giro e\nmi offendevano. Tu invece eri diverso."
 
 msgctxt "62||speech_list_sub_b01||table||92||||4"
 msgid "You've supported me nonstop since then."
-msgstr "Da quel giorno non hai mai smesso di appoggiarmi."
+msgstr "Da quel giorno non hai mai smesso di sostenermi."
 
 msgctxt "62||speech_list_sub_b01||table||94||||4"
 msgid "The truth is, um... from that day forward, I..."
@@ -64181,7 +64181,7 @@ msgstr "La verità è che, ehm... da quel giorno in poi, io..."
 
 msgctxt "62||speech_list_sub_b01||table||95||||4"
 msgid "It would be rude of me to keep listening to this.\nI should get out of here before they notice me."
-msgstr "(Sarebbe maleducato da parte mia continuare ad ascoltare.\nDovrei andarmene di qui prima che mi notino.)"
+msgstr "(Sarebbe maleducato da parte mia continuare a origliare.\nDovrei andarmene prima che mi notino.)"
 
 msgctxt "62||speech_list_sub_b01||table||96||||4"
 msgid "Hm?"
@@ -64189,7 +64189,7 @@ msgstr "(Mh?)"
 
 msgctxt "62||speech_list_sub_b01||table||97||||4"
 msgid "Well, well! Look what we got here!\nY'guys're real cute, y'know?"
-msgstr "Bene, bene! Guarda cos'abbiamo qui!\nSiete proprio una coppietta carina, lo sapete?"
+msgstr "Bene, bene! Guardate un po' chi c'è qui!\nSiete proprio una coppietta carina, lo sapete?"
 
 msgctxt "62||speech_list_sub_b01||table||98||||4"
 msgid "This ain't no place t'be gettin'\nall lovey-dovey like that, though."
@@ -64201,15 +64201,15 @@ msgstr "U-Uh, scusate?"
 
 msgctxt "62||speech_list_sub_b01||table||100||||4"
 msgid "Hey, we're in the middle of something! Go away!"
-msgstr "Ehi, siamo nel bel mezzo di una conversazione! Andate via!"
+msgstr "Ehi, eravamo nel mezzo di un discorso! Andatevene!"
 
 msgctxt "62||speech_list_sub_b01||table||101||||4"
 msgid "Y'really got the balls t'be tellin' us off?\nDon't y'know yer in a public place? Huh!?"
-msgstr "Hai davvero le palle di dirci cosa fare?\nNon lo sai che sei in un luogo pubblico? Eh!?"
+msgstr "Hai davvero le palle di risponderci così?\nNon lo sai che sei in un luogo pubblico? Eh!?"
 
 msgctxt "62||speech_list_sub_b01||table||102||||4"
 msgid "It looks like I might need to get involved."
-msgstr "(Sembra che io debba intervenire.)"
+msgstr "(Mi sa che mi tocca intervenire.)"
 
 msgctxt "62||speech_list_sub_b01||table||103||||4"
 msgid "Hey bro, we don't got business with ya.\nWe're way more into this li'l lady over here."
@@ -64229,7 +64229,7 @@ msgstr "Eh? S-Senpai?"
 
 msgctxt "62||speech_list_sub_b01||table||107||||4"
 msgid "(Some senpai he is.)"
-msgstr "(Bel senpai.)"
+msgstr "(Alla faccia del senpai.)"
 
 msgctxt "62||speech_list_sub_b01||table||108||||4"
 msgid "Look, Misa. These guys probably aren't so bad, right?"
@@ -64769,11 +64769,11 @@ msgstr "Hai capito tutto male."
 
 msgctxt "63||speech_list_sub_b02||table||2||||4"
 msgid "Jus' don't worry about it.\nI'll be fine, really."
-msgstr "Semplicemente non preoccuparti per me.\nStarò bene, davvero."
+msgstr "Non preoccuparti e basta.\nStarò bene, davvero."
 
 msgctxt "63||speech_list_sub_b02||table||3||||4"
 msgid "That's what they want you to think, Mie-san!\nTrust me, those Munan Chohept Onast guys are bad news!"
-msgstr "È quello che vogliono farti credere, Mie-san!\nFidati di me, quei tipi del Munan Chohept Onast sono una brutta storia!"
+msgstr "È quello che vogliono farti credere, Mie-san!\nFidati di me, quei tipi del Munan Chohept Onast sono brutta gente!"
 
 msgctxt "63||speech_list_sub_b02||table||4||||4"
 msgid "Munan Chohept?\nWhat are they talking about?"
@@ -64781,7 +64781,7 @@ msgstr "(Munan Chohept?\nDi cosa stanno parlando?)"
 
 msgctxt "63||speech_list_sub_b02||table||5||||4"
 msgid "Everyone over there's jus' so nice, though!\nYou'll see if ya come down to the facility."
-msgstr "Ma tutti là dentro sono così gentili!\nVedrai, se verrai anche tu alla struttura."
+msgstr "Ma tutti là dentro sono così gentili!\nVedrai, se vieni anche tu alla struttura."
 
 msgctxt "63||speech_list_sub_b02||table||6||||4"
 msgid "You'd make a great Friend, y'know."
@@ -64889,11 +64889,11 @@ msgstr "Il che ci porta alla donna di prima.\nOra è invischiata con questa sett
 
 msgctxt "63||speech_list_sub_b02||table||33||||4"
 msgid "Yeah. Her name is Mie-san."
-msgstr "Sì. Il suo nome è Mie-san."
+msgstr "Sì. Si chiama Mie-san."
 
 msgctxt "63||speech_list_sub_b02||table||34||||4"
 msgid "I only just moved here a couple of months ago,\nbut she's shown me nothing but kindness."
-msgstr "Mi sono trasferito qui solo un paio di mesi fa,\nma lei non mi ha mostrato altro che gentilezza."
+msgstr "Mi sono trasferito qui solo un paio di mesi fa,\nma lei mi ha sempre trattato con estrema gentilezza."
 
 msgctxt "63||speech_list_sub_b02||table||35||||4"
 msgid "Talking to Mie-san takes me back to when\nI was still chasin' skirts around town..."
@@ -64909,11 +64909,11 @@ msgstr "E sei assolutamente certo che questa religione sia una truffa?"
 
 msgctxt "63||speech_list_sub_b02||table||39||||4"
 msgid "There's no doubt in my mind, yeah."
-msgstr "Nella mia mente non c'è alcun dubbio, sì."
+msgstr "Sì, non ho il minimo dubbio."
 
 msgctxt "63||speech_list_sub_b02||table||40||||4"
 msgid "This cult transforms its followers into thoughtless drones.\nThey make them donate every last yen they have, too."
-msgstr "Questa setta trasforma i suoi seguaci in droni senza cervello.\nE li costringono persino a donare fino all'ultimo yen."
+msgstr "Questa setta trasforma i suoi seguaci in automi senza cervello.\nE li costringono persino a donare fino all'ultimo yen."
 
 msgctxt "63||speech_list_sub_b02||table||41||||4"
 msgid "That's terrible."
@@ -64921,7 +64921,7 @@ msgstr "È terribile."
 
 msgctxt "63||speech_list_sub_b02||table||42||||4"
 msgid "As for Mie-san, her husband died recently\nafter many great years in her care."
-msgstr "Per quanto riguarda Mie-san, suo marito è morto da poco\ndopo molti splendidi anni in cui si è presa cura di lui."
+msgstr "Per quanto riguarda Mie-san, suo marito è morto da poco\ndopo che lei si è presa cura di lui per tanti splendidi anni."
 
 msgctxt "63||speech_list_sub_b02||table||43||||4"
 msgid "And those bastards took advantage\nof her at her most vulnerable."
@@ -65225,7 +65225,7 @@ msgstr "Che notizia meravigliosa! Molto bene, allora!\nPrego, vieni da questa pa
 
 msgctxt "63||speech_list_sub_b02||table||120||||4"
 msgid "(That went smoother than expected.)"
-msgstr "(È andata più liscia del previsto.)"
+msgstr "(È stato più facile del previsto.)"
 
 msgctxt "63||speech_list_sub_b02||table||121||||4"
 msgid "Come. Right this way."
@@ -65337,7 +65337,7 @@ msgstr "Kulipaas?"
 
 msgctxt "63||speech_list_sub_b02||table||148||||4"
 msgid "In layman's terms, it can be considered a measure\nof virtue. Accumulating kulipaas is vital."
-msgstr "In parole povere, può essere considerata una misura\ndi virtù. Accumulare kulipaas è vitale."
+msgstr "In parole povere, può essere considerata un'unità di misura\ndella virtù. Accumulare kulipaas è vitale."
 
 msgctxt "63||speech_list_sub_b02||table||149||||4"
 msgid "Only by doing so can a Friend grow closer\nto the divine being Munan Chohept."
@@ -65389,7 +65389,7 @@ msgstr "Li rinchiudono e li costringono\na subire il chomo gomes."
 
 msgctxt "63||speech_list_sub_b02||table||161||||4"
 msgid "This cult is even crazier than I thought.\nThey're insane."
-msgstr "Questo culto è persino più folle di quanto pensassi.\nSono pazzi."
+msgstr "Questa setta è persino più folle di quanto pensassi.\nSono pazzi."
 
 msgctxt "63||speech_list_sub_b02||table||162||||4"
 msgid "You're right."
@@ -65413,7 +65413,7 @@ msgstr "...Quasi <font_kind=yakuza_italic>troppo</font_kind> familiare."
 
 msgctxt "63||speech_list_sub_b02||table||167||||4"
 msgid "Oh, well, uh... That shows how desperate I am\nto save Mie-san. I must become one of them."
-msgstr "Oh, beh, uh... Questo dimostra solo quanto io sia disperato\nper salvare Mie-san. Devo diventare uno di loro."
+msgstr "Oh, beh, uh... Questo dimostra solo quanto io voglia disperatamente\nsalvare Mie-san. Devo diventare uno di loro."
 
 msgctxt "63||speech_list_sub_b02||table||168||||4"
 msgid "Hm...?"
@@ -65625,7 +65625,7 @@ msgstr "Solo allora potrete accumulare il massimo dei kulipaas."
 
 msgctxt "63||speech_list_sub_b02||table||220||||4"
 msgid "Take our new friend Sister Mie-san for example.\nShe will be offering 100 rinchos today."
-msgstr "Prendete la nostra nuova amica Sorella Mie-san, per\nesempio. Lei offrirà 100 rincho quest'oggi."
+msgstr "Prendete la nostra nuova amica Sorella Mie-san, per\nesempio. Lei verserà 100 rincho quest'oggi."
 
 msgctxt "63||speech_list_sub_b02||table||221||||4"
 msgid "Huh? 100 rinchos!?"
@@ -65641,7 +65641,7 @@ msgstr "Mie-san è davvero una Amica benedetta!"
 
 msgctxt "63||speech_list_sub_b02||table||224||||4"
 msgid "What immense faith! Your Holiness,\nI too will offer up 100 rinchos of my own tomorrow!"
-msgstr "Che immensa fede! Vostra Santità,\nanch'io offrirò 100 rincho domani stesso!"
+msgstr "Che immensa fede! Vostra Santità,\nanch'io verserò 100 rincho domani stesso!"
 
 msgctxt "63||speech_list_sub_b02||table||225||||4"
 msgid "What are they going on about?"
@@ -65653,7 +65653,7 @@ msgstr "Rincho è il termine che usano per le donazioni.\nUn rincho equivale a..
 
 msgctxt "63||speech_list_sub_b02||table||227||||4"
 msgid "You mean... Mie-san is going to\ngive this crazy cult 10 million yen?"
-msgstr "Vuoi dire che... Mie-san sta per\ndonare a questo folle culto 10 milioni di yen?"
+msgstr "Vuoi dire che... Mie-san sta per\ndonare a questa folle setta 10 milioni di yen?"
 
 msgctxt "63||speech_list_sub_b02||table||228||||4"
 msgid "There's no way she has that kind of money."
@@ -65977,7 +65977,7 @@ msgstr "Infine, l'ultima domanda è alle porte."
 
 msgctxt "63||speech_list_sub_b02||table||312||||4"
 msgid "Please describe the true meaning of chomo gomes.\nDo you know the answer?"
-msgstr "Ti prego di descrivere il vero significato di chomo gomes.\nConosci la risposta?"
+msgstr "Ti prego, descrivi il vero significato di chomo gomes.\nConosci la risposta?"
 
 msgctxt "63||speech_list_sub_b02||table||313||||4"
 msgid "It's brainwashing, isn't it?"
@@ -66273,7 +66273,7 @@ msgstr "Non lo farò!"
 
 msgctxt "63||speech_list_sub_b02||table||391||||4"
 msgid "It appears you misunderstand our order's intentions.\nI am aware that many perceive us as a simple scam."
-msgstr "A quanto pare travisi le intenzioni del nostro ordine.\nSono consapevole che in molti ci percepiscano come una semplice truffa."
+msgstr "A quanto pare fraintendi le intenzioni del nostro ordine.\nSono consapevole che in molti ci percepiscano come una semplice truffa."
 
 msgctxt "63||speech_list_sub_b02||table||392||||4"
 msgid "However, our faith burns bright\nthrough the darkness of their slander."
@@ -66469,7 +66469,7 @@ msgstr "M-Manica di coglioni!\nQuello non sistemerà un bel niente!"
 
 msgctxt "63||speech_list_sub_b02||table||443||||4"
 msgid "You know, I'm getting the craziest deja vu...\nI feel like I was in this exact situation before."
-msgstr "Sapete, ho un incredibile senso di deja vu...\nMi sembra di essermi già trovato in questa esatta situazione prima."
+msgstr "Sai, ho un assurdo senso di deja vu...\nMi sembra di essermi già trovato in questa esatta situazione."
 
 msgctxt "63||speech_list_sub_b02||table||444||||4"
 msgid "Stop waving your hands around\nand call me an ambulance!"
@@ -66517,7 +66517,7 @@ msgstr "Dopo essere uscito di prigione, non avevo nessun posto in cui andare."
 
 msgctxt "63||speech_list_sub_b02||table||456||||4"
 msgid "But if I returned to be the guru,\nI knew I could belong somewhere again."
-msgstr "Ma se fossi tornato a essere il guru,\nsapevo di poter appartenere di nuovo a qualche luogo."
+msgstr "Ma se fossi tornato a essere il guru,\nsapevo che avrei potuto avere di nuovo un mio posto nel mondo."
 
 msgctxt "63||speech_list_sub_b02||table||457||||4"
 msgid "I didn't plan on meeting someone as wonderful\nas Mie-san before I got back to the order, though."
@@ -67893,7 +67893,7 @@ msgstr "La gente del posto non oserebbe mai girare per il mio cimitero.\nPersino
 
 msgctxt "65||speech_list_sub_b04||table||17||||4"
 msgid "Honestly, I ain't even heard of an outsider who\nwas brave enough t'show his face in here."
-msgstr "Onestamente, non ho mai sentito di uno straniero che\navesse il coraggio di farsi vedere da queste parti."
+msgstr "Onestamente, non ho mai sentito di un forestiero che\navesse il coraggio di farsi vedere da queste parti."
 
 msgctxt "65||speech_list_sub_b04||table||18||||4"
 msgid "Huh. I had no idea."
@@ -67905,7 +67905,7 @@ msgstr "Non preoccupartene.\nNon sto cercando di farti la ramanzina."
 
 msgctxt "65||speech_list_sub_b04||table||20||||4"
 msgid "If the legends're true, the ghosts that show up 'round\nhere are pirates who raided the Inland Sea ages ago."
-msgstr "Se le leggende dicono il vero, i fantasmi che si vedono da\nqueste parti sono pirati che depredarono il Mare Interno anni fa."
+msgstr "Se le leggende dicono il vero, i fantasmi che si vedono da\nqueste parti sono pirati che depredarono il Mare Interno secoli fa."
 
 msgctxt "65||speech_list_sub_b04||table||21||||4"
 msgid "(Pirates...?)"
@@ -67913,7 +67913,7 @@ msgstr "(Pirati...?)"
 
 msgctxt "65||speech_list_sub_b04||table||22||||4"
 msgid "These guys're a real rowdy bunch.\nEven in death, they're always itchin' fer a fight."
-msgstr "Questa gente è una marmaglia piuttosto turbolenta.\nAnche nella morte, smaniano sempre dalla voglia di combattere."
+msgstr "Questi tizi sono una marmaglia bella turbolenta.\nAnche nella morte, smaniano sempre dalla voglia di combattere."
 
 msgctxt "65||speech_list_sub_b04||table||23||||4"
 msgid "If yer feelin' up to it, y'should come\nback and humor 'em sometime."
@@ -68381,7 +68381,7 @@ msgstr "Non mi piace la piega che sta prendendo."
 
 msgctxt "66||speech_list_sub_b05||table||31||||4"
 msgid "I found one!"
-msgstr "L'ho trovato!"
+msgstr "Ne ho trovato uno!"
 
 msgctxt "66||speech_list_sub_b05||table||32||||4"
 msgid "I'm not getting in that thing."
@@ -68389,7 +68389,7 @@ msgstr "Non mi infilerò là dentro."
 
 msgctxt "66||speech_list_sub_b05||table||33||||4"
 msgid "Come on, please!\nI'll make it up to you somehow!"
-msgstr "Avanti, ti prego!\nMi farò perdonare in qualche modo!"
+msgstr "Avanti, ti prego!\nMi sdebiterò in qualche modo!"
 
 msgctxt "66||speech_list_sub_b05||table||34||||4"
 msgid "Michio-kun needs someone like you. You're big,\nyou're strong, and you have tons of time on your hands!"
@@ -68397,7 +68397,7 @@ msgstr "Michio-kun ha bisogno di uno come te. Sei grande, sei\nforte, e hai un s
 
 msgctxt "66||speech_list_sub_b05||table||35||||4"
 msgid "This really isn't my style."
-msgstr "Non è davvero nel mio stile."
+msgstr "Non è proprio nel mio stile."
 
 msgctxt "66||speech_list_sub_b05||table||36||||4"
 msgid "I'm begging you!\nI'll do whatever it takes to get you in there!"
@@ -71617,7 +71617,7 @@ msgstr "Eh? Perché sono laggiù?"
 
 msgctxt "70||speech_list_sub_b09||table||14||||4"
 msgid "The hell's this shit?\nMy own body's... in front of me?"
-msgstr "Ma che diavolo...?\nIl mio corpo è... di fronte a me?"
+msgstr "Che cazzo è 'sta roba?\nIl mio corpo è... di fronte a me?"
 
 msgctxt "70||speech_list_sub_b09||table||15||||4"
 msgid "H-H-Huh? What's going on?\nHuh!?"
@@ -71865,11 +71865,11 @@ msgstr "Nessuno crederebbe mai che Kazumi\nesca con un tipo come me."
 
 msgctxt "70||speech_list_sub_b09||table||91||||4"
 msgid "Yeah, I bet..."
-msgstr "Sì, ci scommetto..."
+msgstr "Già, lo immagino..."
 
 msgctxt "70||speech_list_sub_b09||table||92||||4"
 msgid "For a girl as privileged as Kazumi, she's a good person.\nShe looks at who you are, not where you came from."
-msgstr "Per essere una ragazza così privilegiata, è una brava persona.\nGuarda a chi sei, non da dove vieni."
+msgstr "Per essere una ragazza così privilegiata, è una brava persona.\nGuarda chi sei, non da dove vieni."
 
 msgctxt "70||speech_list_sub_b09||table||93||||4"
 msgid "And to get to the point...\nwe're in a serious relationship."
@@ -72013,7 +72013,7 @@ msgstr "Io non c'entro nulla con tutto questo, ma..."
 
 msgctxt "70||speech_list_sub_b09||table||134||||4"
 msgid "I can't stand by and watch when\nsomeone lays their hands on a woman."
-msgstr "Non posso starmene con le mani in mano e\nguardare mentre qualcuno alza le mani su una donna."
+msgstr "Non posso restare a guardare quando\nqualcuno alza le mani su una donna."
 
 msgctxt "70||speech_list_sub_b09||table||135||||4"
 msgid "Kiryu-san..."
@@ -72065,7 +72065,7 @@ msgstr "Non importa quanto male ti abbiano fatto,\nnon hai mai smesso di dire ch
 
 msgctxt "70||speech_list_sub_b09||table||149||||4"
 msgid "Maybe I just believed for a moment\nthat you really were Kazumi."
-msgstr "Forse per un attimo ho creduto davvero\nche tu fossi per davvero Kazumi."
+msgstr "Forse per un attimo ho creduto\nche tu fossi davvero Kazumi."
 
 msgctxt "70||speech_list_sub_b09||table||150||||4"
 msgid "Sometimes, a lie that you risk your life for\ncan be true to someone... but only sometimes."
@@ -72133,7 +72133,7 @@ msgstr "Sono molto grata. Grazie infinite!"
 
 msgctxt "70||speech_list_sub_b09||table||167||||4"
 msgid "Quite the trouble I've caused."
-msgstr "(Ho causato un bel trambusto.)"
+msgstr "Ho causato un bel trambusto."
 
 msgctxt "70||speech_list_sub_b09||table||168||||4"
 msgid "Were you... watching this whole time?"
@@ -72173,7 +72173,7 @@ msgstr "No... Sono sicuro che andrà tutto bene,\nspecialmente con te dalla loro
 
 msgctxt "70||speech_list_sub_b09||table||177||||4"
 msgid "Well, thank you. She's a handful...\nI guess new responsibilities are part of getting older."
-msgstr "Beh, ti ringrazio. È un bel po' ribelle...\nImmagino che le nuove responsabilità facciano parte dell'invecchiare."
+msgstr "Beh, ti ringrazio. Dà un bel da fare...\nImmagino che le nuove responsabilità facciano parte dell'invecchiare."
 
 msgctxt "70||speech_list_sub_b09||table||178||||4"
 msgid "Yeah... I know what you mean."
