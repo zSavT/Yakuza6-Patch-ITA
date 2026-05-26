@@ -32,12 +32,6 @@ msgctxt "Offset_0x5712C_Len_31"
 msgid "I want you on my baseball team."
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x5776C_Len_8"
-msgid "minigame"
-msgstr ""
-
 #. Max bytes: 74
 msgctxt "Offset_0x578F4_Len_74"
 msgid "Yoshida, of Yoshida Batting Center fame,\nhas joined the Setouchi Warriors!"

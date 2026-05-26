@@ -19,10 +19,21 @@ msgstr "Non diventare membro."
 
 #. Max bytes: 57
 msgctxt "Offset_0x26834_Len_57"
-msgid "Talk to Makuta when you want to\nbegin a training session."
-msgstr "Parla con Makuta quando vuoi\niniziare un allenamento."
+msgid ""
+"Talk to Makuta when you want to\n"
+"begin a training session."
+msgstr ""
+"Parla con Makuta quando vuoi\n"
+"iniziare un allenamento."
 
 #. Max bytes: 101
 msgctxt "Offset_0x26924_Len_101"
-msgid "The EXP you earn from training will be\ngranted once you complete a full round\nof the RIZAP Challenge."
-msgstr "L'EXP ottenuta dall'allenamento sarà\nconcessa al termine di un round\ncompleto della Sfida RIZAP."
+msgid ""
+"The EXP you earn from training will be\n"
+"granted once you complete a full round\n"
+"of the RIZAP Challenge."
+msgstr ""
+"L'EXP ottenuta dall'allenamento sarà\n"
+"concessa al termine di un round\n"
+"completo della Sfida RIZAP."
+

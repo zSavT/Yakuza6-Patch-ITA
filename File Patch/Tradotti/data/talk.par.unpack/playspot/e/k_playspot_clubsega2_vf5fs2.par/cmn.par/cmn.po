@@ -32,7 +32,8 @@ msgctxt "Offset_0x9F0_Len_15"
 msgid "Check the Rules"
 msgstr "Leggi le regole"
 
-#. Max bytes: 48
-msgctxt "Offset_0xDC0_Len_48"
-msgid "遊玩Virtua Fighter 5 Final Showdown[VERY EASY]"
+#. Max bytes: 6
+msgctxt "Offset_0xA30_Len_6"
+msgid "Cancel"
 msgstr ""
+

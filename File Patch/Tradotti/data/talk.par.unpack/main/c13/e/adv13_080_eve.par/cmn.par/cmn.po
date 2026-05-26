@@ -22,3 +22,8 @@ msgctxt "Offset_0x24DC_Len_15"
 msgid "Go to Kamurocho"
 msgstr "Vai a Kamurocho"
 
+#. Max bytes: 6
+msgctxt "Offset_0x251C_Len_6"
+msgid "Cancel"
+msgstr ""
+

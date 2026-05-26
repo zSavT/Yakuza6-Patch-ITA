@@ -34,8 +34,12 @@ msgstr "(Bene, benvenuto a bordo!)"
 
 #. Max bytes: 95
 msgctxt "Offset_0x42B0_Len_95"
-msgid "(I'll need to keep finding players for the Warriors\nif I want to help the team really succeed.)"
-msgstr "(Devo continuare a cercare giocatori\nper portare i Warriors al successo.)"
+msgid ""
+"(I'll need to keep finding players for the Warriors\n"
+"if I want to help the team really succeed.)"
+msgstr ""
+"(Devo continuare a cercare giocatori\n"
+"per portare i Warriors al successo.)"
 
 #. Max bytes: 41
 msgctxt "Offset_0x2C81C_Len_41"

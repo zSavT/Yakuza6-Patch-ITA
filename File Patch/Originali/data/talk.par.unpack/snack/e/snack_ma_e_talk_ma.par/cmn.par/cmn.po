@@ -607,6 +607,11 @@ msgctxt "Offset_0x50E38_Len_42"
 msgid "Could y'say that in front of yer daughter?"
 msgstr ""
 
+#. Max bytes: 13
+msgctxt "Offset_0x51088_Len_13"
+msgid "Er... Well..."
+msgstr ""
+
 #. Max bytes: 52
 msgctxt "Offset_0x512A8_Len_52"
 msgid "You're not far off, though. It feels like home here."

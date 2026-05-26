@@ -12,11 +12,6 @@ msgctxt "Offset_0x2B91C_Len_4"
 msgid "Q Z<"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0x2BBDC_Len_4"
-msgid " k6<"
-msgstr ""
-
 #. Max bytes: 26
 msgctxt "Offset_0x7C579_Len_26"
 msgid " #'+34Udl^mreg[NBORai[M?2$"
@@ -36,3 +31,4 @@ msgstr "È meglio non andare da lui."
 msgctxt "Offset_0xBA408_Len_38"
 msgid "Why don't I help you forget about him?"
 msgstr "Ti aiuto a dimenticarti di lui?"
+

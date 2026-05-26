@@ -7,28 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x17E_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 24
-msgctxt "Offset_0x1BC_Len_24"
-msgid "詐欺確信フラグOFF"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x20A_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 23
-msgctxt "Offset_0x248_Len_23"
-msgid "詐欺確信フラグON"
-msgstr ""
-
 #. Max bytes: 82
 msgctxt "Offset_0x3239C_Len_82"
 msgid "(Is this the father of the kid Taichi hurt?\nI'm pretty sure his name is Ishigaki.)"
@@ -77,17 +55,5 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0x79CE8_Len_15"
 msgid "This is a scam!"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x7A328_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x7A3DC_Len_8"
-msgid "substory"
 msgstr ""
 

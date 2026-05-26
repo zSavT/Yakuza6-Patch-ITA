@@ -8,42 +8,6 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x466_Len_4"
-msgid "main"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x486_Len_4"
-msgid "padv"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x4A4_Len_4"
-msgid "padv"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x63E_Len_4"
-msgid "main"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x65E_Len_4"
-msgid "padv"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x67C_Len_4"
-msgid "padv"
-msgstr ""
-
-#. Max bytes: 4
 msgctxt "Offset_0x818_Len_4"
 msgid " YV="
 msgstr ""
@@ -51,12 +15,6 @@ msgstr ""
 #. Max bytes: 4
 msgctxt "Offset_0x840_Len_4"
 msgid " YV="
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x898_Len_6"
-msgid "camera"
 msgstr ""
 
 #. Max bytes: 20
@@ -72,41 +30,5 @@ msgstr ""
 #. Max bytes: 30
 msgctxt "Offset_0x768C_Len_30"
 msgid "(I don't have enough money...)"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x78CC_Len_4"
-msgid "taxi"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x78EC_Len_4"
-msgid "taxi"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x79CC_Len_4"
-msgid "taxi"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x79EC_Len_4"
-msgid "taxi"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x7ACC_Len_4"
-msgid "taxi"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x7AEC_Len_4"
-msgid "taxi"
 msgstr ""
 

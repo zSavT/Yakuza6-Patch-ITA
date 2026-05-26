@@ -8,18 +8,6 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x4EE8C_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x8C74E_Len_6"
-msgid "r?Kyr?"
-msgstr ""
-
-#. Max bytes: 5
 msgctxt "Offset_0xC4FAF_Len_5"
 msgid "Eff\"E"
 msgstr ""
@@ -27,6 +15,11 @@ msgstr ""
 #. Max bytes: 7
 msgctxt "Offset_0xFC569_Len_7"
 msgid " ^EÑaE"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x197AD7_Len_5"
+msgid "F{ \rF"
 msgstr ""
 
 #. Max bytes: 24

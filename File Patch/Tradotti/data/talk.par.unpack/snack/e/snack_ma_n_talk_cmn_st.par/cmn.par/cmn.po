@@ -41,3 +41,9 @@ msgstr "Conversazione"
 msgctxt "Offset_0x1DD8_Len_14"
 msgid "About Regulars"
 msgstr "Sui clienti"
+
+#. Max bytes: 10
+msgctxt "Offset_0x1E18_Len_10"
+msgid "Reputation"
+msgstr ""
+

@@ -9,10 +9,23 @@ msgstr ""
 
 #. Max bytes: 40
 msgctxt "Offset_0x1BD0_Len_40"
-msgid "Play darts?\nOne round will cost 200 yen."
+msgid ""
+"Play darts?\n"
+"One round will cost 200 yen."
 msgstr "Freccette?\n200 yen a partita."
+
+#. Max bytes: 3
+msgctxt "Offset_0x1CD0_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x1D10_Len_2"
+msgid "No"
+msgstr ""
 
 #. Max bytes: 30
 msgctxt "Offset_0x25E8_Len_30"
 msgid "(I don't have enough money...)"
 msgstr "(Non ho abbastanza soldi...)"
+

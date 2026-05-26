@@ -7,6 +7,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 6
+msgctxt "Offset_0x9B3A_Len_6"
+msgid "I@ {R="
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x9BBA_Len_6"
+msgid "I@ u[="
+msgstr ""
+
 #. Max bytes: 48
 msgctxt "Offset_0x3D780_Len_48"
 msgid "\"Kiryu, I just found out my account got hacked!\""

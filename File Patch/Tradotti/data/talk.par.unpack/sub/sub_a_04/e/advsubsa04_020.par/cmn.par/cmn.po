@@ -7,14 +7,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-msgctxt "Offset_0xC23B_Len_5"
-msgid "= ߺ;"
-msgstr ""
-
 #. Max bytes: 6
-msgctxt "Offset_0x60622_Len_6"
-msgid " =ڼ6<"
+msgctxt "Offset_0x18062_Len_6"
+msgid "CFHQEF"
 msgstr ""
 
 #. Max bytes: 7
@@ -46,3 +41,4 @@ msgstr "Ti aiuterò."
 msgctxt "Offset_0x9EF04_Len_23"
 msgid "I'm too busy right now."
 msgstr "Sono troppo occupato."
+

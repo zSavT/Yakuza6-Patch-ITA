@@ -7,36 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xB4278_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x125B28_Len_6"
-msgid "suzuki"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1AB128_Len_5"
-msgid "kanbu"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1BDB9C_Len_7"
-msgid "akamatu"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x50EA14_Len_4"
-msgid " yR<"
-msgstr ""
-
 #. Max bytes: 10
 msgctxt "Offset_0x55D5BC_Len_10"
 msgid "Dolche Uho"
@@ -105,29 +75,5 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x55F23C_Len_6"
 msgid "Refuse"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x55F73C_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x55F7F0_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x55F8A4_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x55F958_Len_8"
-msgid "substory"
 msgstr ""
 

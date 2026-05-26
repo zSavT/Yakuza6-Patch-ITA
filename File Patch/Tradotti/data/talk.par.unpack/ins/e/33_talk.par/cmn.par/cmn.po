@@ -27,8 +27,23 @@ msgctxt "Offset_0x15CC_Len_13"
 msgid "Th-Thank you!"
 msgstr "G-Grazie!"
 
+#. Max bytes: 7
+msgctxt "Offset_0x168C_Len_7"
+msgid "Thanks!"
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x173C_Len_8"
+msgid "Subtitle"
+msgstr ""
+
 #. Max bytes: 14
 msgctxt "Offset_0x17EC_Len_14"
 msgid "What was that?"
 msgstr "Che cos'era?"
+
+#. Max bytes: 8
+msgctxt "Offset_0x189C_Len_8"
+msgid "Subtitle"
+msgstr ""
 

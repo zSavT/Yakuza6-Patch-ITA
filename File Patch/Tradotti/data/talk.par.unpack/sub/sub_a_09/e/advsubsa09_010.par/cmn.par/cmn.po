@@ -14,10 +14,15 @@ msgstr ""
 
 #. Max bytes: 7
 msgctxt "Offset_0x72BE1_Len_7"
-msgid "t	@Xy C"
+msgid "t\t@Xy C"
 msgstr ""
 
 #. Max bytes: 68
 msgctxt "Offset_0xB58B4_Len_68"
-msgid "(Where I last saw him...?\nThat would be the Yoshida Batting Center.)"
-msgstr "(L'ultima volta che l'ho visto...?\nAlle Gabbie di battuta Yoshida.)"
+msgid ""
+"(Where I last saw him...?\n"
+"That would be the Yoshida Batting Center.)"
+msgstr ""
+"(L'ultima volta che l'ho visto...?\n"
+"Alle Gabbie di battuta Yoshida.)"
+

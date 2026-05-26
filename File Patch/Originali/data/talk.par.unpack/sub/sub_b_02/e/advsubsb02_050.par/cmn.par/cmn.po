@@ -7,12 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x219C8_Len_8"
-msgid "substory"
-msgstr ""
-
 #. Max bytes: 47
 msgctxt "Offset_0x21B7C_Len_47"
 msgid "I want to join the Order of Mosan Chohip Istes."

@@ -11,3 +11,14 @@ msgstr ""
 msgctxt "Offset_0xD20_Len_14"
 msgid "Play baseball?"
 msgstr "A baseball?"
+
+#. Max bytes: 3
+msgctxt "Offset_0xE20_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0xE60_Len_2"
+msgid "No"
+msgstr ""
+

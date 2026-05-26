@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 63
 msgctxt "Offset_0x1C4_Len_63"
-msgid "(I'm hungry. Maybe I should go\ngrab something at a restaurant.)"
-msgstr "(Ho fame. Forse dovrei fare un\nboccone al ristorante.)"
+msgid ""
+"(I'm hungry. Maybe I should go\n"
+"grab something at a restaurant.)"
+msgstr ""
+"(Ho fame. Forse dovrei fare un\n"
+"boccone al ristorante.)"
 

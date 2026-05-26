@@ -9,8 +9,12 @@ msgstr ""
 
 #. Max bytes: 50
 msgctxt "Offset_0x1C4_Len_50"
-msgid "My wallet got stolen...\nI don't know what to do..."
-msgstr "Rubato il portafoglio...\nNon so che fare..."
+msgid ""
+"My wallet got stolen...\n"
+"I don't know what to do..."
+msgstr ""
+"Rubato il portafoglio...\n"
+"Non so che fare..."
 
 #. Max bytes: 17
 msgctxt "Offset_0x2C4_Len_17"

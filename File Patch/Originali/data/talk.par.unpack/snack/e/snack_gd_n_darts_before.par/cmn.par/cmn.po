@@ -17,15 +17,3 @@ msgctxt "Offset_0x514_Len_10"
 msgid "Play Alone"
 msgstr ""
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1358_Len_5"
-msgid "guest"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3BD0_Len_6"
-msgid "player"
-msgstr ""
-

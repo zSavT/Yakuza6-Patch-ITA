@@ -22,9 +22,3 @@ msgctxt "Offset_0x3BC_Len_2"
 msgid "No"
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x8FC_Len_8"
-msgid "minigame"
-msgstr ""
-

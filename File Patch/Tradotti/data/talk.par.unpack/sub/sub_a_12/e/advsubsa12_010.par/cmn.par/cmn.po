@@ -14,8 +14,12 @@ msgstr "\"Ti prego? Mi serve il tuo aiuto.\""
 
 #. Max bytes: 73
 msgctxt "Offset_0x1B9D8_Len_73"
-msgid "\"Can you head over to a convenience store\nand buy me some prepaid cards?\""
-msgstr "\"Puoi andare in un minimarket\ne comprarmi delle carte prepagate?\""
+msgid ""
+"\"Can you head over to a convenience store\n"
+"and buy me some prepaid cards?\""
+msgstr ""
+"\"Puoi andare in un minimarket\n"
+"e comprarmi delle carte prepagate?\""
 
 #. Max bytes: 35
 msgctxt "Offset_0x1BB08_Len_35"
@@ -41,3 +45,4 @@ msgstr "Scusa, ora sono un po' occupato."
 msgctxt "Offset_0x1BF68_Len_32"
 msgid "Yeah. What do you need me to do?"
 msgstr "Sì. Cosa devo fare?"
+

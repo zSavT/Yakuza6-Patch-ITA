@@ -17,9 +17,3 @@ msgctxt "Offset_0x6870_Len_7"
 msgid "Decline"
 msgstr ""
 
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6DF0_Len_6"
-msgid "battle"
-msgstr ""
-

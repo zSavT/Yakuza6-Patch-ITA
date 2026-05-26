@@ -7,19 +7,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x108C_Len_7"
-msgid "trainer"
-msgstr ""
-
 #. Max bytes: 85
 msgctxt "Offset_0x1118_Len_85"
 msgid "You'll be able to try another RIZAP Challenge \nafter your next random battle in town."
-msgstr ""
-
-#. Max bytes: 64
-msgctxt "Offset_0x1178_Len_64"
-msgid "只要在街頭遇敵戰鬥後\n即可再次進行\nRIZAP挑戰。"
 msgstr ""
 

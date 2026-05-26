@@ -14,5 +14,10 @@ msgstr ""
 
 #. Max bytes: 60
 msgctxt "Offset_0x25EEC_Len_60"
-msgid "Misa's beloved Kase-senpai\nhas joined the Setouchi Warriors!"
-msgstr "L'amato Kase-senpai di Misa\nè nei Setouchi Warriors!"
+msgid ""
+"Misa's beloved Kase-senpai\n"
+"has joined the Setouchi Warriors!"
+msgstr ""
+"L'amato Kase-senpai di Misa\n"
+"è nei Setouchi Warriors!"
+

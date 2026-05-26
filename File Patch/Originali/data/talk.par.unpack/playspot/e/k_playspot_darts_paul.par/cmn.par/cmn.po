@@ -7,12 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x908_Len_4"
-msgid "paul"
-msgstr ""
-
 #. Max bytes: 40
 msgctxt "Offset_0x1BD0_Len_40"
 msgid "Play darts?\nOne round will cost 200 yen."
@@ -28,32 +22,8 @@ msgctxt "Offset_0x1D10_Len_2"
 msgid "No"
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x22D0_Len_8"
-msgid "playspot"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x23D0_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x23F0_Len_5"
-msgid "darts"
-msgstr ""
-
 #. Max bytes: 30
 msgctxt "Offset_0x25E8_Len_30"
 msgid "(I don't have enough money...)"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x26B8_Len_8"
-msgid "playspot"
 msgstr ""
 

@@ -12,9 +12,3 @@ msgctxt "Offset_0x196C_Len_69"
 msgid "(There's Soji! I need to catch it and\nget that ring back for Fujita.)"
 msgstr ""
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1BA0_Len_5"
-msgid "soujy"
-msgstr ""
-

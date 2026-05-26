@@ -7,44 +7,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x70EC_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x81CC_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x907C_Len_4"
-msgid "loop"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xBB7C_Len_4"
-msgid "loop"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x10CC0_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x11DA0_Len_7"
 msgid "Oneshot"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x12C50_Len_4"
-msgid "loop"
 msgstr ""
 
 #. Max bytes: 7
@@ -57,32 +27,14 @@ msgctxt "Offset_0x19D34_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1ABE4_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x1C654_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1D6B4_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x200D4_Len_7"
 msgid "Oneshot"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x23828_Len_4"
-msgid "main"
 msgstr ""
 
 #. Max bytes: 83

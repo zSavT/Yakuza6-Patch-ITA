@@ -7,12 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x35E_Len_8"
-msgid "playspot"
-msgstr ""
-
 #. Max bytes: 21
 msgctxt "Offset_0x620_Len_21"
 msgid "(Pedal to the metal!)"
@@ -41,22 +35,5 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0xA10_Len_6"
 msgid "Cancel"
-msgstr ""
-
-#. Max bytes: 19
-msgctxt "Offset_0xDA0_Len_19"
-msgid "遊玩Out Run[EASY]"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xF90_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xFD0_Len_4"
-msgid "easy"
 msgstr ""
 

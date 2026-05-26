@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 101
 msgctxt "Offset_0x11FC_Len_101"
-msgid "(Countless tile-roofed temples dot the mountainside.\r\nOnomichi must have been bustling in its prime.)"
-msgstr "(Templi dai tetti in tegole punteggiano il monte.\r\nOnomichi doveva essere vivace ai suoi tempi.)"
+msgid ""
+"(Countless tile-roofed temples dot the mountainside.\r\n"
+"Onomichi must have been bustling in its prime.)"
+msgstr ""
+"(Templi dai tetti in tegole punteggiano il monte.\r\n"
+"Onomichi doveva essere vivace ai suoi tempi.)"
 

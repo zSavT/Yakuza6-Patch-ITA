@@ -9,8 +9,12 @@ msgstr ""
 
 #. Max bytes: 70
 msgctxt "Offset_0x878_Len_70"
-msgid "(There's a row of Jizo statues here.\nMaybe I should make an offering.)"
-msgstr "(Ci sono delle statue Jizo qui.\nForse dovrei fare un'offerta.)"
+msgid ""
+"(There's a row of Jizo statues here.\n"
+"Maybe I should make an offering.)"
+msgstr ""
+"(Ci sono delle statue Jizo qui.\n"
+"Forse dovrei fare un'offerta.)"
 
 #. Max bytes: 28
 msgctxt "Offset_0x9C8_Len_28"
@@ -21,3 +25,14 @@ msgstr "(Penso che per ora passerò)"
 msgctxt "Offset_0xA78_Len_17"
 msgid "Make an offering?"
 msgstr "Fai un'offerta?"
+
+#. Max bytes: 3
+msgctxt "Offset_0xB78_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0xBB8_Len_2"
+msgid "No"
+msgstr ""
+

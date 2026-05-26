@@ -17,11 +17,6 @@ msgctxt "Offset_0x41A6D_Len_7"
 msgid "R7>Ik >"
 msgstr ""
 
-#. Max bytes: 5
-msgctxt "Offset_0x43AB7_Len_5"
-msgid ">j 9="
-msgstr ""
-
 #. Max bytes: 24
 msgctxt "Offset_0x4ADC0_Len_24"
 msgid "Sure, I'll hear you out."
@@ -41,3 +36,4 @@ msgstr "Sì, facciamolo."
 msgctxt "Offset_0x4B480_Len_22"
 msgid "Maybe some other time."
 msgstr "Forse un'altra volta."
+

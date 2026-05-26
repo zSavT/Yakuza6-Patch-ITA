@@ -7,18 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xF6_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x17E_Len_8"
-msgid "minigame"
-msgstr ""
-
 #. Max bytes: 37
 msgctxt "Offset_0x1F68_Len_37"
 msgid "(Hm, that guy looks pretty muscular.)"
@@ -49,27 +37,9 @@ msgctxt "Offset_0x42B0_Len_95"
 msgid "(I'll need to keep finding players for the Warriors\nif I want to help the team really succeed.)"
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2C70C_Len_8"
-msgid "minigame"
-msgstr ""
-
 #. Max bytes: 41
 msgctxt "Offset_0x2C81C_Len_41"
 msgid "Maetani has joined the Setouchi Warriors."
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2C97C_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2CA7C_Len_8"
-msgid "minigame"
 msgstr ""
 
 #. Max bytes: 17

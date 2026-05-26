@@ -9,18 +9,35 @@ msgstr ""
 
 #. Max bytes: 64
 msgctxt "Offset_0x6844_Len_64"
-msgid "(This is the Children's Park.\nMaybe I should give Hiji a try...)"
-msgstr "(È il Children's Park.\nForse dovrei provare Hiji...)"
+msgid ""
+"(This is the Children's Park.\n"
+"Maybe I should give Hiji a try...)"
+msgstr ""
+"(È il Children's Park.\n"
+"Forse dovrei provare Hiji...)"
+
+#. Max bytes: 6
+msgctxt "Offset_0x872A_Len_6"
+msgid "JEÝNE"
+msgstr ""
 
 #. Max bytes: 78
 msgctxt "Offset_0x9658_Len_78"
-msgid "(This thing is pretty impressive.\nIt's hard to believe it's just a phone app.)"
-msgstr "(È incredibile.\nDifficile credere sia solo un'app.)"
+msgid ""
+"(This thing is pretty impressive.\n"
+"It's hard to believe it's just a phone app.)"
+msgstr ""
+"(È incredibile.\n"
+"Difficile credere sia solo un'app.)"
 
 #. Max bytes: 92
 msgctxt "Offset_0xD06C_Len_92"
-msgid "(Hiji's totally in control of the conversation.\nShe's really a special piece of technology.)"
-msgstr "(Hiji guida la conversazione.\nÈ davvero una tecnologia speciale.)"
+msgid ""
+"(Hiji's totally in control of the conversation.\n"
+"She's really a special piece of technology.)"
+msgstr ""
+"(Hiji guida la conversazione.\n"
+"È davvero una tecnologia speciale.)"
 
 #. Max bytes: 43
 msgctxt "Offset_0xD1DC_Len_43"
@@ -71,3 +88,4 @@ msgstr "Forse preferisco l'altra app."
 msgctxt "Offset_0x8EBB0_Len_16"
 msgid "Hiji's the best."
 msgstr "Meglio Hiji."
+

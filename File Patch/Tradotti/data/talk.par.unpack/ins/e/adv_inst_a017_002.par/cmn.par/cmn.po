@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 52
 msgctxt "Offset_0x1C4_Len_52"
-msgid "(Ahhh, that worked wonders.\nI feel much better now.)"
-msgstr "(Ahhh, ha fatto miracoli.\nSto molto meglio ora.)"
+msgid ""
+"(Ahhh, that worked wonders.\n"
+"I feel much better now.)"
+msgstr ""
+"(Ahhh, ha fatto miracoli.\n"
+"Sto molto meglio ora.)"
 

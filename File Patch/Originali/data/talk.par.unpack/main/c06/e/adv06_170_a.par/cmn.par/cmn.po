@@ -7,21 +7,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x34E6C_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x41F0C_Len_7"
 msgid "Oneshot"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x45298_Len_4"
-msgid "loop"
 msgstr ""
 
 #. Max bytes: 7
@@ -29,38 +17,14 @@ msgctxt "Offset_0x4FBB8_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x51CD8_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x526D8_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x5E2E8_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x699C8_Len_7"
 msgid "Oneshot"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6AD28_Len_4"
-msgid "loop"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x80034_Len_4"
-msgid "loop"
 msgstr ""
 
 #. Max bytes: 7
@@ -83,27 +47,9 @@ msgctxt "Offset_0x8993C_Len_4"
 msgid "U+ A"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x8A2B4_Len_4"
-msgid "loop"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x9E9A8_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x9F808_Len_7"
 msgid "Oneshot"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xA0348_Len_4"
-msgid "loop"
 msgstr ""
 
 #. Max bytes: 7
@@ -111,21 +57,9 @@ msgctxt "Offset_0xB02A8_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xBD788_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0xC7998_Len_7"
 msgid "Oneshot"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xC8618_Len_4"
-msgid "loop"
 msgstr ""
 
 #. Max bytes: 7
@@ -133,111 +67,14 @@ msgctxt "Offset_0xCC348_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xCCD48_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0xCD9F8_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xCE178_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x382964_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x38372C_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x383A5C_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x384084_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3846AC_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x384CD4_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3852FC_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x385924_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x385A34_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x385D64_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x38638C_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x38649C_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3867CC_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3868DC_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x386F04_Len_5"
-msgid "stage"
+msgctxt "Offset_0xD104F_Len_5"
+msgid ">x s;"
 msgstr ""
 
 #. Max bytes: 4
@@ -291,31 +128,7 @@ msgid "AH"
 msgstr ""
 
 #. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3B6124_Len_4"
-msgid "yuta"
-msgstr ""
-
-#. Max bytes: 4
 msgctxt "Offset_0x3C044C_Len_4"
 msgid " OG>"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xA1792C_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xA17F54_Len_5"
-msgid "stage"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xA1857C_Len_5"
-msgid "stage"
 msgstr ""
 

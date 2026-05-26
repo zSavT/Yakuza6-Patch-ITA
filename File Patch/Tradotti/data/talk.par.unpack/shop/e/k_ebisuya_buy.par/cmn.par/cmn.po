@@ -29,6 +29,10 @@ msgstr "Qui per vendere"
 
 #. Max bytes: 69
 msgctxt "Offset_0x4DD8_Len_69"
-msgid "(I don't have anything I can sell.\nMaybe I should come back later...)"
-msgstr "(Non ho nulla da vendere.\nMeglio tornare più tardi...)"
+msgid ""
+"(I don't have anything I can sell.\n"
+"Maybe I should come back later...)"
+msgstr ""
+"(Non ho nulla da vendere.\n"
+"Meglio tornare più tardi...)"
 

@@ -12,6 +12,11 @@ msgctxt "Offset_0x47990_Len_8"
 msgid "B V<qAM="
 msgstr ""
 
+#. Max bytes: 6
+msgctxt "Offset_0x7F152_Len_6"
+msgid "IE\n'TE"
+msgstr ""
+
 #. Max bytes: 5
 msgctxt "Offset_0x81823_Len_5"
 msgid "< Ma;"
@@ -19,5 +24,18 @@ msgstr ""
 
 #. Max bytes: 251
 msgctxt "Offset_0xBF850_Len_251"
-msgid "The way to a cat's heart is through its stomach, so bring\r\nit some food! Once a cat has reached max affection, someone\r\nfrom the café will come to pick it up.\n\nBuy food at conveniences stores or the café\nand get out there to make some furry friends!"
-msgstr "La via per il cuore di un gatto passa per il suo stomaco,\r\nportagli del cibo! Quando un gatto raggiunge l'affetto\r\nmassimo, qualcuno del café verrà a prenderlo.\n\nCompra cibo nei minimarket o al café\ne vai a farti dei nuovi amici pelosi!"
+msgid ""
+"The way to a cat's heart is through its stomach, so bring\r\n"
+"it some food! Once a cat has reached max affection, someone\r\n"
+"from the café will come to pick it up.\n"
+"\n"
+"Buy food at conveniences stores or the café\n"
+"and get out there to make some furry friends!"
+msgstr ""
+"La via per il cuore di un gatto passa per il suo stomaco,\r\n"
+"portagli del cibo! Quando un gatto raggiunge l'affetto\r\n"
+"massimo, qualcuno del café verrà a prenderlo.\n"
+"\n"
+"Compra cibo nei minimarket o al café\n"
+"e vai a farti dei nuovi amici pelosi!"
+

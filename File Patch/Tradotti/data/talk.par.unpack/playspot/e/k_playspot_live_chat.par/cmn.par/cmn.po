@@ -11,3 +11,14 @@ msgstr ""
 msgctxt "Offset_0x3D0_Len_15"
 msgid "Start chatting?"
 msgstr "Inizia chat?"
+
+#. Max bytes: 3
+msgctxt "Offset_0x4D0_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x510_Len_2"
+msgid "No"
+msgstr ""
+

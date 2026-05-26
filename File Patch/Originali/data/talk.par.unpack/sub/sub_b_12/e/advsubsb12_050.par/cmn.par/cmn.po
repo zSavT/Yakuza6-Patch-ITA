@@ -7,42 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x41600_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x85050_Len_8"
-msgid "moriduka"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xD44E0_Len_5"
-msgid "chiba"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xEBA14_Len_6"
-msgid "hamana"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xFCAE0_Len_8"
-msgid "sinozaki"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xFCCBC_Len_8"
-msgid "minigame"
-msgstr ""
-
 #. Max bytes: 43
 msgctxt "Offset_0xFCDCC_Len_43"
 msgid "Moritsuka has joined the Setouchi Warriors!"

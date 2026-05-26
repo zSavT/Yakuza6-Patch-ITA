@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 52
 msgctxt "Offset_0x1C4_Len_52"
-msgid "(Nagumo's waiting... \nI should head up to the roof.)"
-msgstr "(Nagumo aspetta...\nMeglio salire sul tetto.)"
+msgid ""
+"(Nagumo's waiting... \n"
+"I should head up to the roof.)"
+msgstr ""
+"(Nagumo aspetta...\n"
+"Meglio salire sul tetto.)"
 

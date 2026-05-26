@@ -12,3 +12,8 @@ msgctxt "Offset_0x37C_Len_18"
 msgid "Rest Until Morning"
 msgstr "Fino a mattina"
 
+#. Max bytes: 4
+msgctxt "Offset_0x3BC_Len_4"
+msgid "Quit"
+msgstr ""
+

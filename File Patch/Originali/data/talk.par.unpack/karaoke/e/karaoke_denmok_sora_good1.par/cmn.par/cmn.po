@@ -7,69 +7,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xB6_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xD6_Len_7"
-msgid "karaoke"
-msgstr ""
-
 #. Max bytes: 4
 msgctxt "Offset_0x2B2C_Len_4"
 msgid "SORA"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6354_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6374_Len_7"
-msgid "karaoke"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6584_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x65A4_Len_7"
-msgid "karaoke"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6684_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x66A4_Len_7"
-msgid "karaoke"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6784_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x67A4_Len_7"
-msgid "karaoke"
 msgstr ""
 
 #. Max bytes: 29
@@ -77,18 +17,8 @@ msgctxt "Offset_0x6894_Len_29"
 msgid "You grew even closer to Sora."
 msgstr ""
 
-#. Max bytes: 25
-msgctxt "Offset_0x68B4_Len_25"
-msgid "和SORA變得更親密了"
-msgstr ""
-
 #. Max bytes: 29
 msgctxt "Offset_0x6A5C_Len_29"
 msgid "You grew even closer to Sora."
-msgstr ""
-
-#. Max bytes: 25
-msgctxt "Offset_0x6A7C_Len_25"
-msgid "和SORA變得更親密了"
 msgstr ""
 

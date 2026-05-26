@@ -24,8 +24,12 @@ msgstr "(Bene, vado a vedere cosa vuole.)"
 
 #. Max bytes: 71
 msgctxt "Offset_0x3380_Len_71"
-msgid "(So he wants sushi, huh...\nI guess I should buy some when I have time.)"
-msgstr "(Quindi vuole del sushi...\nNe comprerò un po' quando ho tempo.)"
+msgid ""
+"(So he wants sushi, huh...\n"
+"I guess I should buy some when I have time.)"
+msgstr ""
+"(Quindi vuole del sushi...\n"
+"Ne comprerò un po' quando ho tempo.)"
 
 #. Max bytes: 28
 msgctxt "Offset_0x380C_Len_28"
@@ -34,8 +38,12 @@ msgstr "(Bene, benvenuto a bordo!)"
 
 #. Max bytes: 95
 msgctxt "Offset_0x38DC_Len_95"
-msgid "(I'll need to keep finding players for the Warriors\nif I want to help the team really succeed.)"
-msgstr "(Devo continuare a cercare giocatori\nper portare i Warriors al successo.)"
+msgid ""
+"(I'll need to keep finding players for the Warriors\n"
+"if I want to help the team really succeed.)"
+msgstr ""
+"(Devo continuare a cercare giocatori\n"
+"per portare i Warriors al successo.)"
 
 #. Max bytes: 47
 msgctxt "Offset_0x3A1C_Len_47"

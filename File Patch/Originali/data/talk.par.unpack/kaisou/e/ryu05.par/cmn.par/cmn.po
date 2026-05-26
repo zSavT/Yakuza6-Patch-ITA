@@ -27,11 +27,6 @@ msgctxt "Offset_0x1250_Len_485"
 msgid "The Events of Yakuza 5\n\nAs the Tojo Clan began to stir, the Omi Alliance did as well, with two\ncaptains in a dead heat for the succession to the Omi throne: Masaru Watase\nand Naoki Katsuya.\n\nThe two men were ideological opposites. Watase was brash and ready for\nwar, while Katsuya was quiet and calculating, with immense control of the\nentertainment industry in Osaka. But the apparent suicide of Mirei Park,\nthe woman who had scouted Haruka Sawamura, cast a shadow over his influence."
 msgstr ""
 
-#. Max bytes: 450
-msgctxt "Offset_0x1440_Len_450"
-msgid "『人中之龍５』 劇情提要\n\n\n桐生與冴島……就在兩名傳說中的黑道展開行動時，\n近江聯盟內部也因為若頭渡瀨勝和逢坂興業會長勝矢直樹，\n這兩個男人在檯面下的組織繼承人之爭，使氣氛一觸即發。\n\n相對於個性好戰的渡瀨豪放的行動，\n對大阪演藝圈擁有巨大影響力的勝矢周遭，\n正因為DYNA CHAIR女社長‧朴美麗的自殺而陷入一陣低氣壓。\n"
-msgstr ""
-
 #. Max bytes: 321
 msgctxt "Offset_0x16A0_Len_321"
 msgid "The Events of Yakuza 5\n\nHaruka, who had been training for idol stardom under Park's watchful eyes,\nwas devastated by her death. That's when Shun Akiyama arrived in Osaka,\nas he'd been the one to finance Park's talent agency. As the two worked to\ndiscover the truth, they became entangled in the conflict of the yakuza...\n"

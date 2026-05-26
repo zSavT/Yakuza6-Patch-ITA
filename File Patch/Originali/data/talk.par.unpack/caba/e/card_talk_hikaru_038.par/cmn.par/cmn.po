@@ -17,3 +17,8 @@ msgctxt "Offset_0x1449C_Len_19"
 msgid "Is it the Florist!?"
 msgstr ""
 
+#. Max bytes: 13
+msgctxt "Offset_0x144DC_Len_13"
+msgid "Is it... me!?"
+msgstr ""
+

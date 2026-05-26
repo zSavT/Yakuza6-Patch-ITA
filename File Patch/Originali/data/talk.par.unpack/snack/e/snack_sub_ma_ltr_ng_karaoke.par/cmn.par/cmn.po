@@ -17,20 +17,3 @@ msgctxt "Offset_0x2604_Len_14"
 msgid "Look Elsewhere"
 msgstr ""
 
-#. Max bytes: 29
-msgctxt "Offset_0x29D4_Len_29"
-msgid "把信藏在卡拉OK機器裡"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2B44_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2C44_Len_8"
-msgid "substory"
-msgstr ""
-

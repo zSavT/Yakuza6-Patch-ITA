@@ -117,10 +117,9 @@ msgctxt "Offset_0x4CE30_Len_68"
 msgid "(I should play along and show him\nwhat happens to people like that.)"
 msgstr ""
 
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x51A6C_Len_7"
-msgid "~yobP: "
+#. Max bytes: 20
+msgctxt "Offset_0x4ED73_Len_20"
+msgid " #&)+.147:=@CFHKNQTR"
 msgstr ""
 
 #. Max bytes: 18
@@ -206,27 +205,5 @@ msgstr ""
 #. Max bytes: 8
 msgctxt "Offset_0x6CE80_Len_8"
 msgid "Mensore!"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6D4D8_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 23
-msgctxt "Offset_0x6D518_Len_23"
-msgid "詐欺確信フラグON"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6D6B8_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 24
-msgctxt "Offset_0x6D6F8_Len_24"
-msgid "詐欺確信フラグOFF"
 msgstr ""
 

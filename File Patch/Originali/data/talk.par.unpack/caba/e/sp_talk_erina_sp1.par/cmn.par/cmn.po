@@ -7,30 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xDA2_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xDC2_Len_7"
-msgid "cabaret"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xEF6_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xF16_Len_7"
-msgid "cabaret"
-msgstr ""
-
 #. Max bytes: 20
 msgctxt "Offset_0x36028_Len_20"
 msgid "I wouldn't say that."
@@ -51,18 +27,8 @@ msgctxt "Offset_0x365B8_Len_37"
 msgid "Erina's rank has increased to Bronze."
 msgstr ""
 
-#. Max bytes: 44
-msgctxt "Offset_0x365E8_Len_44"
-msgid "艾莉娜的階級已成為「Bronze Cast」"
-msgstr ""
-
 #. Max bytes: 37
 msgctxt "Offset_0x369B8_Len_37"
 msgid "Erina's rank has increased to Bronze."
-msgstr ""
-
-#. Max bytes: 44
-msgctxt "Offset_0x369E8_Len_44"
-msgid "艾莉娜的階級已成為「Bronze Cast」"
 msgstr ""
 

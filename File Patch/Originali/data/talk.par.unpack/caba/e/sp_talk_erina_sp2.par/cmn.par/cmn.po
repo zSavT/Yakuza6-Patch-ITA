@@ -7,16 +7,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xE42_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xE62_Len_7"
-msgid "cabaret"
+#. Max bytes: 6
+msgctxt "Offset_0x22CDE_Len_6"
+msgid " A)\\4C"
 msgstr ""
 
 #. Max bytes: 29
@@ -37,10 +30,5 @@ msgstr ""
 #. Max bytes: 37
 msgctxt "Offset_0x39468_Len_37"
 msgid "Erina's rank has increased to Silver."
-msgstr ""
-
-#. Max bytes: 44
-msgctxt "Offset_0x39498_Len_44"
-msgid "艾莉娜的階級已成為「Silver Cast」"
 msgstr ""
 

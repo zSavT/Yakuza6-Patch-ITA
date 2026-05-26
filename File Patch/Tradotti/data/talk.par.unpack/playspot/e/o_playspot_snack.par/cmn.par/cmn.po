@@ -9,8 +9,22 @@ msgstr ""
 
 #. Max bytes: 51
 msgctxt "Offset_0x744_Len_51"
-msgid "Head into New Gaudi?\nThe cover charge is 3,000 yen."
-msgstr "Entri nel New Gaudi?\nL'ingresso costa 3.000 yen."
+msgid ""
+"Head into New Gaudi?\n"
+"The cover charge is 3,000 yen."
+msgstr ""
+"Entri nel New Gaudi?\n"
+"L'ingresso costa 3.000 yen."
+
+#. Max bytes: 3
+msgctxt "Offset_0x844_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x884_Len_2"
+msgid "No"
+msgstr ""
 
 #. Max bytes: 33
 msgctxt "Offset_0x1824_Len_33"
@@ -34,5 +48,10 @@ msgstr "(Chissà cosa stanno facendo.)"
 
 #. Max bytes: 67
 msgctxt "Offset_0x1BC4_Len_67"
-msgid "(I'm feeling pretty damn drunk.\nI should sober up before going in.)"
-msgstr "(Mi sento ubriaco fradicio.\nDovrei smaltire prima di entrare.)"
+msgid ""
+"(I'm feeling pretty damn drunk.\n"
+"I should sober up before going in.)"
+msgstr ""
+"(Mi sento ubriaco fradicio.\n"
+"Dovrei smaltire prima di entrare.)"
+

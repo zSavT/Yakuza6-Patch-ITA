@@ -17,9 +17,3 @@ msgctxt "Offset_0x25EEC_Len_60"
 msgid "Misa's beloved Kase-senpai\nhas joined the Setouchi Warriors!"
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x25FDC_Len_8"
-msgid "minigame"
-msgstr ""
-

@@ -7,26 +7,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xF550_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1DAE0_Len_4"
-msgid "isao"
-msgstr ""
-
 #. Max bytes: 41
 msgctxt "Offset_0x3A448_Len_41"
 msgid "Gorchov has joined the Setouchi Warriors!"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3A518_Len_8"
-msgid "minigame"
 msgstr ""
 

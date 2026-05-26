@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 58
 msgctxt "Offset_0x254_Len_58"
-msgid "(The exit's sealed off...?\nI should find another way out.)"
-msgstr "(L'uscita è bloccata...?\nDovrei cercare un'altra via.)"
+msgid ""
+"(The exit's sealed off...?\n"
+"I should find another way out.)"
+msgstr ""
+"(L'uscita è bloccata...?\n"
+"Dovrei cercare un'altra via.)"
 

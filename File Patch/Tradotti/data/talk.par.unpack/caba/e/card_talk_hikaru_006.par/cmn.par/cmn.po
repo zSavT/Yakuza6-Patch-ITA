@@ -12,6 +12,11 @@ msgctxt "Offset_0x12214_Len_10"
 msgid "Of course."
 msgstr "Certo."
 
+#. Max bytes: 5
+msgctxt "Offset_0x12254_Len_5"
+msgid "Nope."
+msgstr ""
+
 #. Max bytes: 29
 msgctxt "Offset_0x12294_Len_29"
 msgid "I'd carry the old woman, too."

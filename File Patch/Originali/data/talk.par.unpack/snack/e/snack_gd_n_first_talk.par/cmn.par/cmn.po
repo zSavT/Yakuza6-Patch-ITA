@@ -7,19 +7,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x5778_Len_6"
-msgid "player"
-msgstr ""
-
 #. Max bytes: 344
 msgctxt "Offset_0x117D0_Len_344"
 msgid "You can now drink with Ando-san and Kaneko-san!\n\nAs you become closer to the customers, your rank within\nthe bar will increase. As your rank increases, you'll\nbe able to drink with more people.\n\nBe assertive about approaching people, or form a bond\nthrough karaoke or darts.\n\nIt'd be great if everyone got along.\nI'm sure Mama would be happy..."
-msgstr ""
-
-#. Max bytes: 296
-msgctxt "Offset_0x11930_Len_296"
-msgid "< 已和安藤先生及金子先生成為酒友！ >\n\n只要和客人們培養感情，就能提昇在小酒館中的地位。\n積極和其他客人攀談，或利用卡拉OK和飛鏢引起注目來提昇友好度吧。\n\n一旦和大家建立感情，和媽媽桑的關係一定也會更加……"
 msgstr ""
 

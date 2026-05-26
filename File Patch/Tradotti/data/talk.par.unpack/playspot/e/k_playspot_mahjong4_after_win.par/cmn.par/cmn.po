@@ -9,5 +9,10 @@ msgstr ""
 
 #. Max bytes: 76
 msgctxt "Offset_0x1BD4_Len_76"
-msgid "You've won the Modern Battle Royale!\nYou obtained 1,000,000 yen as a reward."
-msgstr "Hai vinto la Battle Royale Moderna!\nOttieni 1.000.000 di yen in premio."
+msgid ""
+"You've won the Modern Battle Royale!\n"
+"You obtained 1,000,000 yen as a reward."
+msgstr ""
+"Hai vinto la Battle Royale Moderna!\n"
+"Ottieni 1.000.000 di yen in premio."
+

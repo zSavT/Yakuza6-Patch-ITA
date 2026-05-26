@@ -12,33 +12,9 @@ msgctxt "Offset_0xDCA3_Len_5"
 msgid "F\nJ F"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xEBDC_Len_4"
-msgid "mama"
-msgstr ""
-
 #. Max bytes: 6
 msgctxt "Offset_0x1583E_Len_6"
 msgid "F>U R>"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1805C_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2B708_Len_8"
-msgid "akiyoshi"
-msgstr ""
-
-#. Max bytes: 10
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x38B5C_Len_10"
-msgid "hatakeyama"
 msgstr ""
 
 #. Max bytes: 32

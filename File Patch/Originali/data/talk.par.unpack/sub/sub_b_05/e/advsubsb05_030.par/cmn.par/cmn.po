@@ -62,24 +62,6 @@ msgctxt "Offset_0x4060C_Len_4"
 msgid "k M?"
 msgstr ""
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x5A268_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x68FFC_Len_8"
-msgid "hironaka"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xB4F78_Len_5"
-msgid "jaian"
-msgstr ""
-
 #. Max bytes: 6
 msgctxt "Offset_0xB737A_Len_6"
 msgid "EF׀FF"
@@ -113,5 +95,10 @@ msgstr ""
 #. Max bytes: 33
 msgctxt "Offset_0x11B3F0_Len_33"
 msgid "You brats are gonna pay for this!"
+msgstr ""
+
+#. Max bytes: 9
+msgctxt "Offset_0x11B430_Len_9"
+msgid "Oh no...!"
 msgstr ""
 

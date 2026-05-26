@@ -17,12 +17,6 @@ msgctxt "Offset_0xC3E4_Len_23"
 msgid "Let me join in on that."
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xC494_Len_8"
-msgid "minigame"
-msgstr ""
-
 #. Max bytes: 46
 msgctxt "Offset_0xC5A4_Len_46"
 msgid "Akiyoshi-san has joined the Setouchi Warriors."

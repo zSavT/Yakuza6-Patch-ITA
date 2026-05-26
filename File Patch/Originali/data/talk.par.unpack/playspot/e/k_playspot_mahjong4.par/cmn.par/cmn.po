@@ -7,12 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1940_Len_5"
-msgid "kiryu"
-msgstr ""
-
 #. Max bytes: 23
 msgctxt "Offset_0x99E4_Len_23"
 msgid "Enter the Battle Royale"
@@ -41,17 +35,5 @@ msgstr ""
 #. Max bytes: 2
 msgctxt "Offset_0xA0A4_Len_2"
 msgid "No"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xA664_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xA684_Len_7"
-msgid "mahjong"
 msgstr ""
 

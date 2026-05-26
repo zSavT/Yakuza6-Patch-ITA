@@ -22,3 +22,8 @@ msgctxt "Offset_0x3ECC_Len_13"
 msgid "Call It Quits"
 msgstr "Basta così"
 
+#. Max bytes: 2
+msgctxt "Offset_0x590D_Len_2"
+msgid "Uh"
+msgstr ""
+

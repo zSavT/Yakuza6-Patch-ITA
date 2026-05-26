@@ -7,12 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x20E6C_Len_5"
-msgid "kiryu"
-msgstr ""
-
 #. Max bytes: 79
 msgctxt "Offset_0x20FC4_Len_79"
 msgid "(Right... In a strange turn of events,\nI was appointed as this team's captain.)"
@@ -21,17 +15,5 @@ msgstr ""
 #. Max bytes: 63
 msgctxt "Offset_0x27BF0_Len_63"
 msgid "(Damn it. I guess I'll look for\nsomewhere I can get a drink...)"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x46F5C_Len_5"
-msgid "chiba"
-msgstr ""
-
-#. Max bytes: 9
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6E37C_Len_9"
-msgid "miyakoshi"
 msgstr ""
 

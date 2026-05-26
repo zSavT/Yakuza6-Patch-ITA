@@ -9,8 +9,12 @@ msgstr ""
 
 #. Max bytes: 60
 msgctxt "Offset_0x1C4_Len_60"
-msgid "(It's a message from Sodachi.\nHe's trying to lure me out...)"
-msgstr "(È un messaggio da Sodachi.\nCerca di attirarmi fuori...)"
+msgid ""
+"(It's a message from Sodachi.\n"
+"He's trying to lure me out...)"
+msgstr ""
+"(È un messaggio da Sodachi.\n"
+"Cerca di attirarmi fuori...)"
 
 #. Max bytes: 37
 msgctxt "Offset_0x2C4_Len_37"
@@ -19,5 +23,10 @@ msgstr "(Come ha avuto la mia e-mail...?)"
 
 #. Max bytes: 72
 msgctxt "Offset_0x3D4_Len_72"
-msgid "(Whatever. I'll try to go wherever\nhe's waiting when I find the time...)"
-msgstr "(Vabbè. Andrò dove mi\nsta aspettando quando troverò il tempo...)"
+msgid ""
+"(Whatever. I'll try to go wherever\n"
+"he's waiting when I find the time...)"
+msgstr ""
+"(Vabbè. Andrò dove mi\n"
+"sta aspettando quando troverò il tempo...)"
+

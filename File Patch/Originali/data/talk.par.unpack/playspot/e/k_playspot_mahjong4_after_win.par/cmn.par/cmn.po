@@ -7,12 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3BC_Len_5"
-msgid "kiryu"
-msgstr ""
-
 #. Max bytes: 76
 msgctxt "Offset_0x1BD4_Len_76"
 msgid "You've won the Modern Battle Royale!\nYou obtained 1,000,000 yen as a reward."

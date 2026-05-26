@@ -27,8 +27,3 @@ msgctxt "Offset_0x9A2C_Len_28"
 msgid "You're pretty sexy yourself."
 msgstr ""
 
-#. Max bytes: 19
-msgctxt "Offset_0x9E3C_Len_19"
-msgid "SORA也非常性感"
-msgstr ""
-

@@ -32,8 +32,3 @@ msgctxt "Offset_0x21308_Len_35"
 msgid "Riona's rank has increased to Gold."
 msgstr "Riona è salita al grado Oro."
 
-#. Max bytes: 42
-msgctxt "Offset_0x21338_Len_42"
-msgid "蕾歐娜的階級已成為「Gold Cast」"
-msgstr ""
-

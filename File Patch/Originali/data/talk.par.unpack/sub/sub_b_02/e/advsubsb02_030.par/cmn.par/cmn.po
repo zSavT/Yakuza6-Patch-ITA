@@ -12,18 +12,6 @@ msgctxt "Offset_0x2A20_Len_8"
 msgid "q= D\nGAD"
 msgstr ""
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xC0CC_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x17C60_Len_6"
-msgid "suzuki"
-msgstr ""
-
 #. Max bytes: 18
 msgctxt "Offset_0x17F10_Len_18"
 msgid "Yeah, let's do it."
@@ -32,11 +20,5 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0x17F50_Len_22"
 msgid "Maybe some other time."
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x18490_Len_8"
-msgid "substory"
 msgstr ""
 

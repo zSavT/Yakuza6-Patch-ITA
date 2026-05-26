@@ -7,13 +7,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-msgctxt "Offset_0xBFF_Len_5"
-msgid "> V:>"
-msgstr ""
-
 #. Max bytes: 85
 msgctxt "Offset_0x1118_Len_85"
-msgid "You'll be able to try another RIZAP Challenge \nafter your next random battle in town."
-msgstr "Potrai provare un'altra Sfida RIZAP \ndopo il prossimo scontro casuale in città."
+msgid ""
+"You'll be able to try another RIZAP Challenge \n"
+"after your next random battle in town."
+msgstr ""
+"Potrai provare un'altra Sfida RIZAP \n"
+"dopo il prossimo scontro casuale in città."
 

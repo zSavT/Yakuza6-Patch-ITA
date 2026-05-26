@@ -17,6 +17,11 @@ msgctxt "Offset_0x5344_Len_26"
 msgid "What's your problem, man!?"
 msgstr ""
 
+#. Max bytes: 6
+msgctxt "Offset_0x5414_Len_6"
+msgid "Later!"
+msgstr ""
+
 #. Max bytes: 26
 msgctxt "Offset_0x5584_Len_26"
 msgid "(I should do something...)"

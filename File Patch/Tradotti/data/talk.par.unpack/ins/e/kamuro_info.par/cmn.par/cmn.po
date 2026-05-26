@@ -9,11 +9,10 @@ msgstr ""
 
 #. Max bytes: 105
 msgctxt "Offset_0x874_Len_105"
-msgid "Incidents around Kamurocho will now be posted to Troublr.\nSelect a post from the list to begin a mission."
-msgstr "I casi di Kamurocho verranno segnalati su Troublr.\nScegli un post dalla lista per avviare una missione."
-
-#. Max bytes: 4
-msgctxt "Offset_0x15CE4_Len_4"
-msgid " є?"
+msgid ""
+"Incidents around Kamurocho will now be posted to Troublr.\n"
+"Select a post from the list to begin a mission."
 msgstr ""
+"I casi di Kamurocho verranno segnalati su Troublr.\n"
+"Scegli un post dalla lista per avviare una missione."
 

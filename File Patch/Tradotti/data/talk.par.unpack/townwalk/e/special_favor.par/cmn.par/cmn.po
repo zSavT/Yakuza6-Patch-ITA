@@ -49,8 +49,14 @@ msgstr "Oggetto escl. Kiryu Best"
 
 #. Max bytes: 128
 msgctxt "Offset_0x1760_Len_128"
-msgid "There are new bonus gifts waiting for you.\nYou have acquired \"Morning Glory Photo.\"\nYou have acquired \"Morning Glory Waistband.\""
-msgstr "Ci sono nuovi regali bonus per te.\nHai ottenuto \"Foto del Morning Glory\".\nHai ottenuto \"Fascia del Morning Glory\"."
+msgid ""
+"There are new bonus gifts waiting for you.\n"
+"You have acquired \"Morning Glory Photo.\"\n"
+"You have acquired \"Morning Glory Waistband.\""
+msgstr ""
+"Ci sono nuovi regali bonus per te.\n"
+"Hai ottenuto \"Foto del Morning Glory\".\n"
+"Hai ottenuto \"Fascia del Morning Glory\"."
 
 #. Max bytes: 37
 msgctxt "Offset_0x1910_Len_37"

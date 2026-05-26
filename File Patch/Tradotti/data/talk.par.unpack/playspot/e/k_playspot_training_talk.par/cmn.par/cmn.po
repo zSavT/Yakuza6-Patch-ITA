@@ -19,13 +19,21 @@ msgstr "Ho saputo che offrite personal trainer."
 
 #. Max bytes: 61
 msgctxt "Offset_0x3ED4_Len_61"
-msgid "You must be a new customer.\nAllow me to explain our services."
-msgstr "Devi essere nuovo.\nLascia che ti spieghi i nostri servizi."
+msgid ""
+"You must be a new customer.\n"
+"Allow me to explain our services."
+msgstr ""
+"Devi essere nuovo.\n"
+"Lascia che ti spieghi i nostri servizi."
 
 #. Max bytes: 82
 msgctxt "Offset_0x3FF4_Len_82"
-msgid "If you'd like to take advantage of our\nsports gym, you'll have to become a member."
-msgstr "Per sfruttare la nostra palestra,\ndovrai prima diventare un membro."
+msgid ""
+"If you'd like to take advantage of our\n"
+"sports gym, you'll have to become a member."
+msgstr ""
+"Per sfruttare la nostra palestra,\n"
+"dovrai prima diventare un membro."
 
 #. Max bytes: 25
 msgctxt "Offset_0x4134_Len_25"
@@ -34,30 +42,51 @@ msgstr "Davvero? E come si fa?"
 
 #. Max bytes: 97
 msgctxt "Offset_0x4224_Len_97"
-msgid "Well, after listening to us explain the program,\nyou'll have to undergo a trial training session."
-msgstr "Beh, dopo averti spiegato il programma,\ndovrai sottoporti a una sessione di prova."
+msgid ""
+"Well, after listening to us explain the program,\n"
+"you'll have to undergo a trial training session."
+msgstr ""
+"Beh, dopo averti spiegato il programma,\n"
+"dovrai sottoporti a una sessione di prova."
 
 #. Max bytes: 79
 msgctxt "Offset_0x4394_Len_79"
-msgid "We'll design a personalized training regiment\njust for you based on that trial."
-msgstr "Creeremo un piano di allenamento\nsu misura per te in base a quella prova."
+msgid ""
+"We'll design a personalized training regiment\n"
+"just for you based on that trial."
+msgstr ""
+"Creeremo un piano di allenamento\n"
+"su misura per te in base a quella prova."
 
 #. Max bytes: 79
 msgctxt "Offset_0x44B4_Len_79"
-msgid "Of course, you'll be able to approve \nthe contents before we finalize the plan."
-msgstr "Certo, potrai approvare i contenuti\nprima di finalizzare il nostro piano."
+msgid ""
+"Of course, you'll be able to approve \n"
+"the contents before we finalize the plan."
+msgstr ""
+"Certo, potrai approvare i contenuti\n"
+"prima di finalizzare il nostro piano."
 
 #. Max bytes: 69
 msgctxt "Offset_0x45E4_Len_69"
-msgid "That could be interesting. All right,\ncan you tell me about your gym?"
-msgstr "Potrebbe essere interessante.\nMi parli della vostra palestra?"
+msgid ""
+"That could be interesting. All right,\n"
+"can you tell me about your gym?"
+msgstr ""
+"Potrebbe essere interessante.\n"
+"Mi parli della vostra palestra?"
 
 #. Max bytes: 79
 msgctxt "Offset_0x4714_Len_79"
-msgid "Just a moment. I'll bring the manager over.\nPlease take a seat in the meantime."
-msgstr "Un momento. Chiamo il manager.\nPrendi posto nel frattempo."
+msgid ""
+"Just a moment. I'll bring the manager over.\n"
+"Please take a seat in the meantime."
+msgstr ""
+"Un momento. Chiamo il manager.\n"
+"Prendi posto nel frattempo."
 
 #. Max bytes: 10
 msgctxt "Offset_0x4834_Len_10"
 msgid "All right."
 msgstr "D'accordo."
+

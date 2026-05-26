@@ -7,18 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x482_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x4A2_Len_7"
-msgid "cabaret"
-msgstr ""
-
 #. Max bytes: 4
 msgctxt "Offset_0xA74_Len_4"
 msgid "SORA"
@@ -27,11 +15,5 @@ msgstr ""
 #. Max bytes: 37
 msgctxt "Offset_0xC334_Len_37"
 msgid "Sora's rank has increased to Diamond."
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xC724_Len_8"
-msgid "substory"
 msgstr ""
 

@@ -22,15 +22,3 @@ msgctxt "Offset_0x10A0_Len_2"
 msgid "No"
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x15E0_Len_8"
-msgid "playspot"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1694_Len_8"
-msgid "playspot"
-msgstr ""
-

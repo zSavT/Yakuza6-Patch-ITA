@@ -8,6 +8,11 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 4
+msgctxt "Offset_0xEE4_Len_4"
+msgid "SORA"
+msgstr ""
+
+#. Max bytes: 4
 msgctxt "Offset_0x1B455_Len_4"
 msgid " IER"
 msgstr ""

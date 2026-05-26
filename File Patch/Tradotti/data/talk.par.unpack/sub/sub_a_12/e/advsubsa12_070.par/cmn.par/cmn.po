@@ -29,5 +29,10 @@ msgstr "\"Manderò qualcuno a sistemare.\""
 
 #. Max bytes: 61
 msgctxt "Offset_0x3DA70_Len_61"
-msgid "\"Spare me the details, but it sounds\nlike I owe you a drink.\""
-msgstr "\"Risparmia i dettagli, ma sembra\nche ti debba un drink.\""
+msgid ""
+"\"Spare me the details, but it sounds\n"
+"like I owe you a drink.\""
+msgstr ""
+"\"Risparmia i dettagli, ma sembra\n"
+"che ti debba un drink.\""
+

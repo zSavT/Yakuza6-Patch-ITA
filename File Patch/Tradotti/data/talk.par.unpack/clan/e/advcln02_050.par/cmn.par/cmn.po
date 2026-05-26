@@ -12,6 +12,11 @@ msgctxt "Offset_0x3248_Len_25"
 msgid "Are you ready to do this?"
 msgstr "Sei pronto a farlo?"
 
+#. Max bytes: 4
+msgctxt "Offset_0x3348_Len_4"
+msgid "Yes."
+msgstr ""
+
 #. Max bytes: 11
 msgctxt "Offset_0x3388_Len_11"
 msgid "Just a sec."

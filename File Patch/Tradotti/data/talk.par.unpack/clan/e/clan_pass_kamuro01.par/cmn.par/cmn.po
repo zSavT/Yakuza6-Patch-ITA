@@ -9,26 +9,76 @@ msgstr ""
 
 #. Max bytes: 148
 msgctxt "Offset_0x548_Len_148"
-msgid "About Clan Codes\n\nIf you have a Clan Code, you can speak with Masao\nto enter it and obtain a special leader not obtained\nthrough normal progression."
-msgstr "I codici del clan\n\nSe hai un codice del clan, parla con Masao\nper inserirlo e ottenere un leader speciale\nnon ottenibile normalmente."
+msgid ""
+"About Clan Codes\n"
+"\n"
+"If you have a Clan Code, you can speak with Masao\n"
+"to enter it and obtain a special leader not obtained\n"
+"through normal progression."
+msgstr ""
+"I codici del clan\n"
+"\n"
+"Se hai un codice del clan, parla con Masao\n"
+"per inserirlo e ottenere un leader speciale\n"
+"non ottenibile normalmente."
 
 #. Max bytes: 148
 msgctxt "Offset_0x738_Len_148"
-msgid "About Clan Codes\n\nIf you have a Clan Code, you can speak with Masao to\nenter it and obtain a special leader not obtained\nthrough normal progression."
-msgstr "I codici del clan\n\nSe hai un codice del clan, parla con Masao per\ninserirlo e ottenere un leader speciale\nnon ottenibile normalmente."
+msgid ""
+"About Clan Codes\n"
+"\n"
+"If you have a Clan Code, you can speak with Masao to\n"
+"enter it and obtain a special leader not obtained\n"
+"through normal progression."
+msgstr ""
+"I codici del clan\n"
+"\n"
+"Se hai un codice del clan, parla con Masao per\n"
+"inserirlo e ottenere un leader speciale\n"
+"non ottenibile normalmente."
 
 #. Max bytes: 148
 msgctxt "Offset_0x928_Len_148"
-msgid "About Clan Codes\n\nIf you have a Clan Code, you can speak with Masao to\nenter it and obtain a special leader not obtained\nthrough normal progression."
-msgstr "I codici del clan\n\nSe hai un codice del clan, parla con Masao per\ninserirlo e ottenere un leader speciale\nnon ottenibile normalmente."
+msgid ""
+"About Clan Codes\n"
+"\n"
+"If you have a Clan Code, you can speak with Masao to\n"
+"enter it and obtain a special leader not obtained\n"
+"through normal progression."
+msgstr ""
+"I codici del clan\n"
+"\n"
+"Se hai un codice del clan, parla con Masao per\n"
+"inserirlo e ottenere un leader speciale\n"
+"non ottenibile normalmente."
 
 #. Max bytes: 44
 msgctxt "Offset_0xB98_Len_44"
 msgid "The Clan Code was not recognized. Try again?"
 msgstr "Codice clan non riconosciuto. Riprovare?"
 
+#. Max bytes: 3
+msgctxt "Offset_0xC98_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0xCD8_Len_2"
+msgid "No"
+msgstr ""
+
 #. Max bytes: 18
 msgctxt "Offset_0x17B0_Len_18"
 msgid "Enter a Clan Code?"
 msgstr "Usa codice clan?"
+
+#. Max bytes: 3
+msgctxt "Offset_0x18B0_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x18F0_Len_2"
+msgid "No"
+msgstr ""
 

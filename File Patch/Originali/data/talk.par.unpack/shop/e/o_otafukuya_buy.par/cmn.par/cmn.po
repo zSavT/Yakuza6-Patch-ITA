@@ -7,42 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xE2_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x16E_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1FA_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x282_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x58A_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x612_Len_8"
-msgid "minigame"
-msgstr ""
-
 #. Max bytes: 69
 msgctxt "Offset_0x1DC8_Len_69"
 msgid "(I don't have anything I can sell.\nMaybe I should come back later...)"
@@ -56,11 +20,5 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0x2008_Len_17"
 msgid "I'm here to sell."
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2728_Len_8"
-msgid "minigame"
 msgstr ""
 

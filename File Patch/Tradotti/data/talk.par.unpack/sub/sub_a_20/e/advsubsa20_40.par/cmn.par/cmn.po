@@ -34,5 +34,10 @@ msgstr "Ti voglio in squadra."
 
 #. Max bytes: 74
 msgctxt "Offset_0x578F4_Len_74"
-msgid "Yoshida, of Yoshida Batting Center fame,\nhas joined the Setouchi Warriors!"
-msgstr "Yoshida, del Yoshida Batting Center,\nè nei Setouchi Warriors!"
+msgid ""
+"Yoshida, of Yoshida Batting Center fame,\n"
+"has joined the Setouchi Warriors!"
+msgstr ""
+"Yoshida, del Yoshida Batting Center,\n"
+"è nei Setouchi Warriors!"
+

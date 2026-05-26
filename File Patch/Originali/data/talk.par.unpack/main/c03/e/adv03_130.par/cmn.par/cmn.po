@@ -12,21 +12,9 @@ msgctxt "Offset_0x78C0_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x9990_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0xA070_Len_7"
 msgid "Oneshot"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xB1A0_Len_4"
-msgid "loop"
 msgstr ""
 
 #. Max bytes: 7
@@ -34,43 +22,13 @@ msgctxt "Offset_0x14F6C_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1703C_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x1771C_Len_7"
 msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1884C_Len_4"
-msgid "loop"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x24490_Len_4"
-msgid "loop"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x26F70_Len_7"
 msgid "Oneshot"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x280A0_Len_4"
-msgid "loop"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x31064_Len_4"
-msgid "mise"
 msgstr ""
 

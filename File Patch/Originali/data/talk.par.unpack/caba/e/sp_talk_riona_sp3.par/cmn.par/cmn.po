@@ -7,18 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x852_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x872_Len_7"
-msgid "cabaret"
-msgstr ""
-
 #. Max bytes: 6
 msgctxt "Offset_0x142F6_Len_6"
 msgid " AffQB"
@@ -42,10 +30,5 @@ msgstr ""
 #. Max bytes: 35
 msgctxt "Offset_0x21308_Len_35"
 msgid "Riona's rank has increased to Gold."
-msgstr ""
-
-#. Max bytes: 42
-msgctxt "Offset_0x21338_Len_42"
-msgid "蕾歐娜的階級已成為「Gold Cast」"
 msgstr ""
 

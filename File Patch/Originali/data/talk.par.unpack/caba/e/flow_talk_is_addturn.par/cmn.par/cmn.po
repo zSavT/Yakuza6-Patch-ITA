@@ -22,36 +22,6 @@ msgctxt "Offset_0x3ECC_Len_13"
 msgid "Call It Quits"
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x440C_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x442C_Len_7"
-msgid "cabaret"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x450C_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x452C_Len_7"
-msgid "cabaret"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x4EB4_Len_5"
-msgid "stage"
-msgstr ""
-
 #. Max bytes: 2
 msgctxt "Offset_0x590D_Len_2"
 msgid "Uh"

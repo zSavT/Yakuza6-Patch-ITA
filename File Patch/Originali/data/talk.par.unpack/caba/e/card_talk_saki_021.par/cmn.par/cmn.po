@@ -12,8 +12,3 @@ msgctxt "Offset_0x70F0_Len_15"
 msgid "Either AB or O!"
 msgstr ""
 
-#. Max bytes: 18
-msgctxt "Offset_0x7500_Len_18"
-msgid "是AB型或O型！"
-msgstr ""
-

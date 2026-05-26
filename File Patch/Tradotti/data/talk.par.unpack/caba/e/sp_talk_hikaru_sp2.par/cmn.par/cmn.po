@@ -27,8 +27,3 @@ msgctxt "Offset_0x424EC_Len_38"
 msgid "Hikaru's rank has increased to Silver."
 msgstr "Hikaru è salita al grado Argento."
 
-#. Max bytes: 38
-msgctxt "Offset_0x4251C_Len_38"
-msgid "光的階級已成為「Silver Cast」"
-msgstr ""
-

@@ -12,6 +12,16 @@ msgctxt "Offset_0x74C_Len_29"
 msgid "Would you like to play darts?"
 msgstr "Vuoi giocare a freccette?"
 
+#. Max bytes: 3
+msgctxt "Offset_0x84C_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x88C_Len_2"
+msgid "No"
+msgstr ""
+
 #. Max bytes: 10
 msgctxt "Offset_0xECC_Len_10"
 msgid "Play Alone"
@@ -27,6 +37,11 @@ msgctxt "Offset_0xF4C_Len_18"
 msgid "Play with Ando-san"
 msgstr "Con Ando-san"
 
+#. Max bytes: 4
+msgctxt "Offset_0xF8C_Len_4"
+msgid "Quit"
+msgstr ""
+
 #. Max bytes: 10
 msgctxt "Offset_0x154C_Len_10"
 msgid "Play Alone"
@@ -37,7 +52,17 @@ msgctxt "Offset_0x158C_Len_14"
 msgid "Play with Mama"
 msgstr "Con Mama"
 
+#. Max bytes: 4
+msgctxt "Offset_0x15CC_Len_4"
+msgid "Quit"
+msgstr ""
+
 #. Max bytes: 54
 msgctxt "Offset_0x1CFC_Len_54"
-msgid "(Playing darts by myself would be poor\nbar manners...)"
-msgstr "(Giocare da solo sarebbe da\nmaleducati...)"
+msgid ""
+"(Playing darts by myself would be poor\n"
+"bar manners...)"
+msgstr ""
+"(Giocare da solo sarebbe da\n"
+"maleducati...)"
+

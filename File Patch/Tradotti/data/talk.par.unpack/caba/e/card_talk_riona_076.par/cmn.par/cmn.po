@@ -7,6 +7,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 5
+msgctxt "Offset_0xDE88_Len_5"
+msgid "Enka."
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0xDEC8_Len_5"
+msgid "Rock."
+msgstr ""
+
 #. Max bytes: 24
 msgctxt "Offset_0xDF08_Len_24"
 msgid "I only do interjections."

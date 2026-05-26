@@ -12,7 +12,22 @@ msgctxt "Offset_0x47C_Len_31"
 msgid "Would you like to sing karaoke?"
 msgstr "Vuoi cantare al karaoke?"
 
+#. Max bytes: 3
+msgctxt "Offset_0x57C_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x5BC_Len_2"
+msgid "No"
+msgstr ""
+
 #. Max bytes: 56
 msgctxt "Offset_0xC48_Len_56"
-msgid "(Singing karaoke by myself would be poor\nbar manners...)"
-msgstr "(Cantare da solo sarebbe da\nmaleducati...)"
+msgid ""
+"(Singing karaoke by myself would be poor\n"
+"bar manners...)"
+msgstr ""
+"(Cantare da solo sarebbe da\n"
+"maleducati...)"
+

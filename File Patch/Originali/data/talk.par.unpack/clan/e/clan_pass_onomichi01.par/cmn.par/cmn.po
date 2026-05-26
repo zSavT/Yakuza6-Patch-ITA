@@ -37,24 +37,6 @@ msgctxt "Offset_0xCD8_Len_2"
 msgid "No"
 msgstr ""
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x11D8_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x152C_Len_5"
-msgid "masao"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1738_Len_5"
-msgid "masao"
-msgstr ""
-
 #. Max bytes: 18
 msgctxt "Offset_0x17B0_Len_18"
 msgid "Enter a Clan Code?"

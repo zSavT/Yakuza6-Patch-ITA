@@ -12,6 +12,16 @@ msgctxt "Offset_0x41C4_Len_4"
 msgid "c n<"
 msgstr ""
 
+#. Max bytes: 5
+msgctxt "Offset_0xF59B_Len_5"
+msgid "5QE ?"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0xF5AB_Len_5"
+msgid "5Lq ?"
+msgstr ""
+
 #. Max bytes: 54
 msgctxt "Offset_0x25198_Len_54"
 msgid "\"Good. Now send me photos\nof the numbers on each one.\""
@@ -105,29 +115,5 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0x26F68_Len_16"
 msgid "Pry Even Further"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x274A8_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x275A8_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x276A8_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x277A8_Len_8"
-msgid "substory"
 msgstr ""
 

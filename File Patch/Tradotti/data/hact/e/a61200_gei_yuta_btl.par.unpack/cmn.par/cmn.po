@@ -7,45 +7,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x4BA0_Len_8"
-msgid "tagasira"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x500C_Len_6"
-msgid "player"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x5408_Len_4"
-msgid "yuta"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6600_Len_8"
-msgid "matunaga"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6E20_Len_6"
-msgid "nagumo"
-msgstr ""
-
 #. Max bytes: 5
 msgctxt "Offset_0x6F50_Len_5"
 msgid "Kiryu"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x7170_Len_6"
-msgid "player"
 msgstr ""
 
 #. Max bytes: 8
@@ -54,20 +18,8 @@ msgid "Tagasira"
 msgstr ""
 
 #. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x7F78_Len_8"
-msgid "tagasira"
-msgstr ""
-
-#. Max bytes: 8
 msgctxt "Offset_0x86CC_Len_8"
 msgid "Matunaga"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x882C_Len_8"
-msgid "matunaga"
 msgstr ""
 
 #. Max bytes: 4
@@ -75,21 +27,9 @@ msgctxt "Offset_0x97D4_Len_4"
 msgid "Yuta"
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x9934_Len_4"
-msgid "yuta"
-msgstr ""
-
 #. Max bytes: 6
 msgctxt "Offset_0x9F5C_Len_6"
 msgid "Nagumo"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xA0BC_Len_6"
-msgid "nagumo"
 msgstr ""
 
 #. Max bytes: 32

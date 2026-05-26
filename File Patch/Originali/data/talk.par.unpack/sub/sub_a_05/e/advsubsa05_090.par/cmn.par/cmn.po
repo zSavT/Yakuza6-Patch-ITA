@@ -22,9 +22,3 @@ msgctxt "Offset_0x2BB00_Len_31"
 msgid "No, let's leave it be actually."
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2C270_Len_8"
-msgid "substory"
-msgstr ""
-

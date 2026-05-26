@@ -8,12 +8,6 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x33BC_Len_6"
-msgid "player"
-msgstr ""
-
-#. Max bytes: 6
 msgctxt "Offset_0x59D8_Len_6"
 msgid "What!?"
 msgstr ""

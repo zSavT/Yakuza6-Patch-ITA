@@ -17,9 +17,3 @@ msgctxt "Offset_0x2068_Len_25"
 msgid "All I can do now is wait."
 msgstr ""
 
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x265C_Len_4"
-msgid "main"
-msgstr ""
-

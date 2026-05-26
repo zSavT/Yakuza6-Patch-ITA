@@ -26,3 +26,14 @@ msgstr "(Penso che per ora passerò)"
 msgctxt "Offset_0xA6C_Len_29"
 msgid "Toss a donation into the box?"
 msgstr "Butti una moneta nella cassa?"
+
+#. Max bytes: 3
+msgctxt "Offset_0xB6C_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0xBAC_Len_2"
+msgid "No"
+msgstr ""
+

@@ -9,23 +9,39 @@ msgstr ""
 
 #. Max bytes: 70
 msgctxt "Offset_0x25AEC_Len_70"
-msgid "Kiryu-san, you should eat whatever\nyou think is the healthiest option."
-msgstr "Kiryu-san, mangia ciò che ritieni\nsia l'opzione più salutare."
+msgid ""
+"Kiryu-san, you should eat whatever\n"
+"you think is the healthiest option."
+msgstr ""
+"Kiryu-san, mangia ciò che ritieni\n"
+"sia l'opzione più salutare."
 
 #. Max bytes: 91
 msgctxt "Offset_0x2BF94_Len_91"
-msgid "After each training session, Makuta will give\nyou hints on recommended foods for your diet."
-msgstr "Dopo ogni allenamento, Makuta ti darà\nconsigli sui cibi adatti alla tua dieta."
+msgid ""
+"After each training session, Makuta will give\n"
+"you hints on recommended foods for your diet."
+msgstr ""
+"Dopo ogni allenamento, Makuta ti darà\n"
+"consigli sui cibi adatti alla tua dieta."
 
 #. Max bytes: 88
 msgctxt "Offset_0x2C0D4_Len_88"
-msgid "If you successfully follow these hints,\nyour RIZAP training will be much more effective."
-msgstr "Seguendo correttamente i consigli,\nl'allenamento RIZAP sarà molto più efficace."
+msgid ""
+"If you successfully follow these hints,\n"
+"your RIZAP training will be much more effective."
+msgstr ""
+"Seguendo correttamente i consigli,\n"
+"l'allenamento RIZAP sarà molto più efficace."
 
 #. Max bytes: 93
 msgctxt "Offset_0x2C224_Len_93"
-msgid "Furthermore, you can go back to eating whatever\nyou want after you've followed Makuta's hint."
-msgstr "Inoltre, dopo il consiglio di Makuta,\npotrai tornare a mangiare ciò che vuoi."
+msgid ""
+"Furthermore, you can go back to eating whatever\n"
+"you want after you've followed Makuta's hint."
+msgstr ""
+"Inoltre, dopo il consiglio di Makuta,\n"
+"potrai tornare a mangiare ciò che vuoi."
 
 #. Max bytes: 51
 msgctxt "Offset_0x2C374_Len_51"

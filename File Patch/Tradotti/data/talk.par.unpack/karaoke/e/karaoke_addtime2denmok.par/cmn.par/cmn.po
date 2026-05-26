@@ -9,5 +9,20 @@ msgstr ""
 
 #. Max bytes: 50
 msgctxt "Offset_0xBD70_Len_50"
-msgid "Would you like to extend\nyour session for 500 yen?"
-msgstr "Vuoi prolungare\nla sessione per 500 yen?"
+msgid ""
+"Would you like to extend\n"
+"your session for 500 yen?"
+msgstr ""
+"Vuoi prolungare\n"
+"la sessione per 500 yen?"
+
+#. Max bytes: 3
+msgctxt "Offset_0xBE70_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0xBEB0_Len_2"
+msgid "No"
+msgstr ""
+

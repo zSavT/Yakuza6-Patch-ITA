@@ -7,18 +7,3 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 4
-msgctxt "Offset_0xC6B84_Len_4"
-msgid " \"u="
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x107048_Len_4"
-msgid " є?"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x10D538_Len_4"
-msgid " є?"
-msgstr ""
-

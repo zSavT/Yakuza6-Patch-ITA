@@ -27,8 +27,3 @@ msgctxt "Offset_0x2F60C_Len_36"
 msgid "Hikaru's rank has increased to Gold."
 msgstr "Hikaru è salita al grado Oro."
 
-#. Max bytes: 36
-msgctxt "Offset_0x2F63C_Len_36"
-msgid "光的階級已成為「Gold Cast」"
-msgstr ""
-

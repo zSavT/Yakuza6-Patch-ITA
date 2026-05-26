@@ -33,31 +33,7 @@ msgid "Maybe someday."
 msgstr ""
 
 #. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x19378_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 5
 msgctxt "Offset_0x52333_Len_5"
 msgid "F=R F"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x5289C_Len_5"
-msgid "kiryu"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x53578_Len_4"
-msgid "sora"
-msgstr ""
-
-#. Max bytes: 4
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x89910_Len_4"
-msgid "sora"
 msgstr ""
 

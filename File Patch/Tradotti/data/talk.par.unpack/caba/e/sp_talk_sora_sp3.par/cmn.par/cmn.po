@@ -7,6 +7,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+msgctxt "Offset_0x12C4_Len_4"
+msgid "SORA"
+msgstr ""
+
 #. Max bytes: 6
 msgctxt "Offset_0x298C2_Len_6"
 msgid " Aff[C"
@@ -22,18 +27,23 @@ msgctxt "Offset_0x31650_Len_17"
 msgid "\"Soup Dumplings.\""
 msgstr "\"Dei ravioli.\""
 
+#. Max bytes: 12
+msgctxt "Offset_0x31690_Len_12"
+msgid "\"Dreamcast.\""
+msgstr ""
+
 #. Max bytes: 10
 msgctxt "Offset_0x31A20_Len_10"
 msgid "I love you"
 msgstr "Ti amo"
 
+#. Max bytes: 9
+msgctxt "Offset_0x31AA0_Len_9"
+msgid "Dreamcast"
+msgstr ""
+
 #. Max bytes: 34
 msgctxt "Offset_0x31BA0_Len_34"
 msgid "Sora's rank has increased to Gold."
 msgstr "Sora è salita al grado Oro."
-
-#. Max bytes: 37
-msgctxt "Offset_0x31BD0_Len_37"
-msgid "SORA的階級已成為「Gold Cast」"
-msgstr ""
 

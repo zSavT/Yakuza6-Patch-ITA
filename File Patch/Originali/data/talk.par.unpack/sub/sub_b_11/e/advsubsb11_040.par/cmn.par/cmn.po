@@ -7,9 +7,3 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2EFC4_Len_8"
-msgid "substory"
-msgstr ""
-

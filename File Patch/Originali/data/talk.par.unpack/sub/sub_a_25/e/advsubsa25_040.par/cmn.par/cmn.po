@@ -17,18 +17,6 @@ msgctxt "Offset_0x65A90_Len_22"
 msgid "Don't become a member."
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x65FD0_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x660D0_Len_8"
-msgid "minigame"
-msgstr ""
-
 #. Max bytes: 57
 msgctxt "Offset_0x661E0_Len_57"
 msgid "Talk to Makuta when you want to\nbegin a training session."
@@ -37,10 +25,5 @@ msgstr ""
 #. Max bytes: 101
 msgctxt "Offset_0x662D0_Len_101"
 msgid "The EXP you earn from training will be\ngranted once you complete a full round\nof the RIZAP Challenge."
-msgstr ""
-
-#. Max bytes: 67
-msgctxt "Offset_0x66340_Len_67"
-msgid "健身累積的經驗值\n將於RIZAP挑戰結束時\n一併獲得。"
 msgstr ""
 

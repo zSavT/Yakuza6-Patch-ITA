@@ -37,7 +37,3 @@ msgctxt "Offset_0x52333_Len_5"
 msgid "F=R F"
 msgstr ""
 
-#. Max bytes: 6
-msgctxt "Offset_0x53202_Len_6"
-msgid " >ףp?"
-msgstr ""

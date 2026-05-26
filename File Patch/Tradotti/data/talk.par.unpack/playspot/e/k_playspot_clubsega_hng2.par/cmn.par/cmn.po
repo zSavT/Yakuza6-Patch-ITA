@@ -31,3 +31,9 @@ msgstr "Super Hang-On [FACILE]"
 msgctxt "Offset_0x9E0_Len_15"
 msgid "Check the Rules"
 msgstr "Leggi le regole"
+
+#. Max bytes: 6
+msgctxt "Offset_0xA20_Len_6"
+msgid "Cancel"
+msgstr ""
+

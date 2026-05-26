@@ -7,29 +7,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 151
-msgctxt "Offset_0x3B0D2_Len_151"
-msgid "   !!!!\"\"\"###$$$$%%%&&&''''((()))****+++,,,----...///0000111222333344455556667778888999:::;;;;<<<===>>>>???@@@AAAABBBCCCDDDDEEEFFFGGGGHHHIIIJJJJKKKLLLD"
-msgstr ""
-
-#. Max bytes: 151
-msgctxt "Offset_0x3B1D6_Len_151"
-msgid "   !!!!\"\"\"###$$$$%%%&&&''''((()))****+++,,,----...///0000111222333344455556667778888999:::;;;;<<<===>>>>???@@@AAAABBBCCCDDDDEEEFFFGGGGHHHIIIJJJJKKKLLLG"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x3B8F5_Len_4"
-msgid "   C"
-msgstr ""
-
 #. Max bytes: 23
 msgctxt "Offset_0x4A3B4_Len_23"
 msgid " '.GT\\a]YUQMIxtuQ[vmiL."
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x4B7C8_Len_4"
-msgid " є?"
 msgstr ""
 
 #. Max bytes: 18
@@ -41,3 +21,4 @@ msgstr "Ti aiuterò io."
 msgctxt "Offset_0x686A0_Len_22"
 msgid "Let me think about it."
 msgstr "Fammi pensare un po'."
+

@@ -12,33 +12,9 @@ msgctxt "Offset_0x18062_Len_6"
 msgid "CFHQEF"
 msgstr ""
 
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1F264_Len_5"
-msgid "kamae"
-msgstr ""
-
 #. Max bytes: 7
 msgctxt "Offset_0x63445_Len_7"
 msgid "DLF\n NF"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6BE94_Len_5"
-msgid "kamae"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6D434_Len_5"
-msgid "kamae"
-msgstr ""
-
-#. Max bytes: 6
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x9B0E0_Len_6"
-msgid "fujita"
 msgstr ""
 
 #. Max bytes: 29
@@ -64,17 +40,5 @@ msgstr ""
 #. Max bytes: 23
 msgctxt "Offset_0x9EF04_Len_23"
 msgid "I'm too busy right now."
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x9F834_Len_8"
-msgid "substory"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x9F934_Len_8"
-msgid "substory"
 msgstr ""
 

@@ -22,21 +22,3 @@ msgctxt "Offset_0x44A8E_Len_6"
 msgid " A33ZB"
 msgstr ""
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x4CDE4_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x4CE04_Len_5"
-msgid "darts"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x4D05C_Len_8"
-msgid "substory"
-msgstr ""
-

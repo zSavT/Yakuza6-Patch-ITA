@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 101
 msgctxt "Offset_0x110C_Len_101"
-msgid "(I get the sense that those islands fading in and out\r\nof view held great sentimental value for him.)"
-msgstr "(Sento che quelle isole che appaiono e scompaiono\r\navevano un grande valore affettivo per lui.)"
+msgid ""
+"(I get the sense that those islands fading in and out\r\n"
+"of view held great sentimental value for him.)"
+msgstr ""
+"(Sento che quelle isole che appaiono e scompaiono\r\n"
+"avevano un grande valore affettivo per lui.)"
 

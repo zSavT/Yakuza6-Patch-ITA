@@ -7,18 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xDE_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x166_Len_8"
-msgid "minigame"
-msgstr ""
-
 #. Max bytes: 37
 msgctxt "Offset_0x1D20_Len_37"
 msgid "(Hm, that guy looks pretty muscular.)"
@@ -37,11 +25,6 @@ msgstr ""
 #. Max bytes: 44
 msgctxt "Offset_0x34B4_Len_44"
 msgid "(Hm... So he wants some protein from RIZAP.)"
-msgstr ""
-
-#. Max bytes: 41
-msgctxt "Offset_0x34E4_Len_41"
-msgid "（唔……RIZAP的蛋白粉嗎……）"
 msgstr ""
 
 #. Max bytes: 51
@@ -69,38 +52,8 @@ msgctxt "Offset_0x3D20_Len_47"
 msgid "(Wait, maybe I shouldn't give it to him yet...)"
 msgstr ""
 
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x1A115_Len_7"
-msgid " bE\\ChE"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2C094_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2C194_Len_8"
-msgid "minigame"
-msgstr ""
-
 #. Max bytes: 42
 msgctxt "Offset_0x2C2A4_Len_42"
 msgid "Kawamura has joined the Setouchi Warriors."
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2C404_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x2C504_Len_8"
-msgid "minigame"
 msgstr ""
 

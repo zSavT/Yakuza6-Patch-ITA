@@ -12,10 +12,9 @@ msgctxt "Offset_0x63B68_Len_4"
 msgid "XF >"
 msgstr ""
 
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x95CF8_Len_7"
-msgid "shizuko"
+#. Max bytes: 5
+msgctxt "Offset_0x99CB7_Len_5"
+msgid "E), E"
 msgstr ""
 
 #. Max bytes: 15

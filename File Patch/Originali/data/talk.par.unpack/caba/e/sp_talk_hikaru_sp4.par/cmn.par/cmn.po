@@ -7,18 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xC62_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xC82_Len_7"
-msgid "cabaret"
-msgstr ""
-
 #. Max bytes: 20
 msgctxt "Offset_0x2A788_Len_20"
 msgid "You sound love sick."
@@ -37,10 +25,5 @@ msgstr ""
 #. Max bytes: 40
 msgctxt "Offset_0x2AD18_Len_40"
 msgid "Hikaru's rank has increased to Platinum."
-msgstr ""
-
-#. Max bytes: 40
-msgctxt "Offset_0x2AD48_Len_40"
-msgid "光的階級已成為「Platinum Cast」"
 msgstr ""
 

@@ -24,8 +24,12 @@ msgstr ""
 
 #. Max bytes: 54
 msgctxt "Offset_0x25198_Len_54"
-msgid "\"Good. Now send me photos\nof the numbers on each one.\""
-msgstr "\"Bene. Ora mandami le foto\ndei numeri su ciascuna.\""
+msgid ""
+"\"Good. Now send me photos\n"
+"of the numbers on each one.\""
+msgstr ""
+"\"Bene. Ora mandami le foto\n"
+"dei numeri su ciascuna.\""
 
 #. Max bytes: 35
 msgctxt "Offset_0x25298_Len_35"
@@ -34,8 +38,12 @@ msgstr "\"Che diavolo succede, Kiryu!?\""
 
 #. Max bytes: 62
 msgctxt "Offset_0x25388_Len_62"
-msgid "\"Kiryu, you've been had!\nMy account got hacked the other day!\""
-msgstr "\"Kiryu, ti hanno fregato!\nMi hanno hackerato l'account!\""
+msgid ""
+"\"Kiryu, you've been had!\n"
+"My account got hacked the other day!\""
+msgstr ""
+"\"Kiryu, ti hanno fregato!\n"
+"Mi hanno hackerato l'account!\""
 
 #. Max bytes: 37
 msgctxt "Offset_0x254A8_Len_37"
@@ -54,23 +62,40 @@ msgstr "\"No, cavolo!\""
 
 #. Max bytes: 68
 msgctxt "Offset_0x25758_Len_68"
-msgid "\"I'll see what I can do.\nThat scammer's not getting away with this.\""
-msgstr "\"Vedrò che fare.\nQuel truffatore non la passerà liscia.\""
+msgid ""
+"\"I'll see what I can do.\n"
+"That scammer's not getting away with this.\""
+msgstr ""
+"\"Vedrò che fare.\n"
+"Quel truffatore non la passerà liscia.\""
 
 #. Max bytes: 83
 msgctxt "Offset_0x25888_Len_83"
-msgid "\"Sorry, 50 grand really is a lot.\nI'll buy you a drink sometime to make up for it.\""
-msgstr "\"Scusa, 50.000 sono tanti.\nTi offrirò un drink per farmi perdonare.\""
+msgid ""
+"\"Sorry, 50 grand really is a lot.\n"
+"I'll buy you a drink sometime to make up for it.\""
+msgstr ""
+"\"Scusa, 50.000 sono tanti.\n"
+"Ti offrirò un drink per farmi perdonare.\""
 
 #. Max bytes: 16
 msgctxt "Offset_0x259D8_Len_16"
 msgid "\"Family issues.\""
 msgstr "\"Guaio in casa.\""
 
+#. Max bytes: 12
+msgctxt "Offset_0x25AA8_Len_12"
+msgid "\"Kamurocho.\""
+msgstr ""
+
 #. Max bytes: 46
 msgctxt "Offset_0x25B68_Len_46"
-msgid "\"Just send them already.\nI'm in a hurry here.\""
-msgstr "\"Mandale e basta.\nSono di fretta qui.\""
+msgid ""
+"\"Just send them already.\n"
+"I'm in a hurry here.\""
+msgstr ""
+"\"Mandale e basta.\n"
+"Sono di fretta qui.\""
 
 #. Max bytes: 22
 msgctxt "Offset_0x25C48_Len_22"
@@ -111,3 +136,4 @@ msgstr "Manda le foto"
 msgctxt "Offset_0x26F68_Len_16"
 msgid "Pry Even Further"
 msgstr "Indaga ancora"
+

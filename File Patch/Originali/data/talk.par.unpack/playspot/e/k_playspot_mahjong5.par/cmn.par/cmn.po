@@ -8,9 +8,8 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x6A8_Len_5"
-msgid "kiryu"
+msgctxt "Offset_0x2AF3_Len_5"
+msgid ">CI >"
 msgstr ""
 
 #. Max bytes: 31
@@ -26,17 +25,5 @@ msgstr ""
 #. Max bytes: 2
 msgctxt "Offset_0x3948_Len_2"
 msgid "No"
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3E88_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3EA8_Len_7"
-msgid "mahjong"
 msgstr ""
 

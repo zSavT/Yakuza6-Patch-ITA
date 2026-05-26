@@ -7,13 +7,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x1CE82_Len_6"
-msgid "ɿ tּ"
+#. Max bytes: 7
+msgctxt "Offset_0x81CC_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x11DA0_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x18C54_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x19D34_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x1C654_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x200D4_Len_7"
+msgid "Oneshot"
 msgstr ""
 
 #. Max bytes: 83
 msgctxt "Offset_0x239C0_Len_83"
-msgid "(All right, I got the milk. I should head\nback to the apartment and feed Haruto...)"
-msgstr "(Bene, ho il latte. Dovrei tornare\nall'appartamento e dare la pappa a Haruto...)"
+msgid ""
+"(All right, I got the milk. I should head\n"
+"back to the apartment and feed Haruto...)"
+msgstr ""
+"(Bene, ho il latte. Dovrei tornare\n"
+"all'appartamento e dare la pappa a Haruto...)"
 

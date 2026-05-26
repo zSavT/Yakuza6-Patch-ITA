@@ -9,5 +9,10 @@ msgstr ""
 
 #. Max bytes: 69
 msgctxt "Offset_0x196C_Len_69"
-msgid "(There's Soji! I need to catch it and\nget that ring back for Fujita.)"
-msgstr "(Ecco Soji! Devo prenderlo e\nrecuperare l'anello per Fujita.)"
+msgid ""
+"(There's Soji! I need to catch it and\n"
+"get that ring back for Fujita.)"
+msgstr ""
+"(Ecco Soji! Devo prenderlo e\n"
+"recuperare l'anello per Fujita.)"
+

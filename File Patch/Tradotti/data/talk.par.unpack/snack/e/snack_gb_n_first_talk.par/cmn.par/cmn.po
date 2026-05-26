@@ -9,11 +9,19 @@ msgstr ""
 
 #. Max bytes: 263
 msgctxt "Offset_0x132F8_Len_263"
-msgid "You can now drink with Akiyoshi-san!\n\nAs you become closer to the customers, your rank within\nthe bar will increase. As your rank increases, you'll\nbe able to drink with more people.\n\nBe assertive about approaching people, or form a bond\nthrough karaoke or darts."
-msgstr "Ora puoi bere con Akiyoshi-san!\n\nPiù ti avvicinerai ai clienti, più il tuo rango nel locale aumenterà. Aumentando di rango, potrai bere con più persone.\n\nAvvicina le persone senza esitare o stringi legami con il karaoke o le freccette."
-
-#. Max bytes: 260
-msgctxt "Offset_0x13408_Len_260"
-msgid "< 已和秋吉先生成為酒友！ >\n\n只要和客人們培養感情，就能提昇在小酒館中的地位。\n隨著地位提昇，可以和更多人成為酒友。\n\n積極和其他客人攀談，或利用卡拉OK和飛鏢引起注目來提昇友好度吧。"
+msgid ""
+"You can now drink with Akiyoshi-san!\n"
+"\n"
+"As you become closer to the customers, your rank within\n"
+"the bar will increase. As your rank increases, you'll\n"
+"be able to drink with more people.\n"
+"\n"
+"Be assertive about approaching people, or form a bond\n"
+"through karaoke or darts."
 msgstr ""
+"Ora puoi bere con Akiyoshi-san!\n"
+"\n"
+"Più ti avvicinerai ai clienti, più il tuo rango nel locale aumenterà. Aumentando di rango, potrai bere con più persone.\n"
+"\n"
+"Avvicina le persone senza esitare o stringi legami con il karaoke o le freccette."
 

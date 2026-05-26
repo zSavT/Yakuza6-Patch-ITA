@@ -22,11 +22,6 @@ msgctxt "Offset_0x5BC_Len_2"
 msgid "No"
 msgstr ""
 
-#. Max bytes: 20
-msgctxt "Offset_0x88C_Len_20"
-msgid "要唱卡拉OK嗎？"
-msgstr ""
-
 #. Max bytes: 56
 msgctxt "Offset_0xC48_Len_56"
 msgid "(Singing karaoke by myself would be poor\nbar manners...)"

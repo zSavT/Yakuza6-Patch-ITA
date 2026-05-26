@@ -7,18 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 3
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3E9C_Len_3"
-msgid "man"
-msgstr ""
-
-#. Max bytes: 5
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xA3FC_Len_5"
-msgid "kiryu"
-msgstr ""
-
 #. Max bytes: 104
 msgctxt "Offset_0xF7E4_Len_104"
 msgid "Incidents around Onomichi will now be posted to Troublr.\nSelect a post from the list to begin a mission."

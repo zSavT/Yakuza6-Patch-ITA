@@ -7,26 +7,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3B2_Len_8"
-msgid "minigame"
-msgstr ""
-
-#. Max bytes: 7
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0x3D2_Len_7"
-msgid "cabaret"
-msgstr ""
-
 #. Max bytes: 37
 msgctxt "Offset_0xB0DC_Len_37"
 msgid "Saki's rank has increased to Diamond."
-msgstr ""
-
-#. Max bytes: 8
-#. WARNING: Might be a system string/identifier (do not translate).
-msgctxt "Offset_0xB4CC_Len_8"
-msgid "substory"
 msgstr ""
 
