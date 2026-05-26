@@ -1461,7 +1461,7 @@ msgstr "(Non ho tempo da perdere...)"
 
 msgctxt "2||speech_list_adv_shop_sp||table||118||||4"
 msgid "(I shouldn't bring Haruto to Little Asia with me...)"
-msgstr "(Non dovrei portare Haruto alla Little Asia con me...)"
+msgstr "(Non dovrei portare Haruto a Little Asia con me...)"
 
 msgctxt "2||speech_list_adv_shop_sp||table||119||||4"
 msgid "(I should go somewhere with fewer people...)"
@@ -15709,7 +15709,7 @@ msgstr "Immagino di doverlo fare...\nMa solo per un attimo."
 
 msgctxt "11||speech_list_cln||table||666||||4"
 msgid "This is a pretty swanky place.\nAre you sure we'll be okay here?"
-msgstr "È un posto piuttosto sciccoso.\nSiete sicuri che andrà bene, per noi?"
+msgstr "È un posto piuttosto elegante.\nSiete sicuri che sia il posto adatto a noi?"
 
 msgctxt "11||speech_list_cln||table||667||||4"
 msgid "Well, the bartender down at La Pente apparently\nknows the owner. He helped negotiate for us."
@@ -15717,7 +15717,7 @@ msgstr "Beh, a quanto pare il barista del La Pente conosce\nil proprietario. Ha 
 
 msgctxt "11||speech_list_cln||table||668||||4"
 msgid "Seriously?\nWhat's up with that guy?"
-msgstr "Sul serio?\nChe storia ha quel tizio?"
+msgstr "Sul serio?\nChe tipo è quel tizio?"
 
 msgctxt "11||speech_list_cln||table||669||||4"
 msgid "I wonder..."
@@ -29465,7 +29465,7 @@ msgstr "Quell'incendio alla fine è costato al Clan Tojo\nla sua presa su Kamuro
 
 msgctxt "13||speech_list_main01||table||230||||4"
 msgid "Little Asia went up in smoke, and this\nSaio Triad smelled blood in the water."
-msgstr "La Little Asia è andata in fumo e questa\nTriade Saio ha sentito odore di sangue."
+msgstr "Little Asia è andata in fumo e questa\nTriade Saio ha sentito odore di sangue."
 
 msgctxt "13||speech_list_main01||table||231||||4"
 msgid "Their war with the Tojo Clan broke out\nsoon after. Even civilians are fair game now."
@@ -29577,7 +29577,7 @@ msgstr "Sì, d'accordo."
 
 msgctxt "13||speech_list_main01||table||258||||4"
 msgid "Oh, and steer clear of Little Asia.\r\nThe triads are getting pretty ballsy."
-msgstr "Oh, e stai alla larga dalla Little Asia.\r\nLe triadi stanno diventando piuttosto spavalde."
+msgstr "Oh, e stai alla larga da Little Asia.\r\nLe triadi stanno diventando piuttosto spavalde."
 
 msgctxt "13||speech_list_main01||table||259||||4"
 msgid "Guy like you shouldn't even go near it."
@@ -29625,7 +29625,7 @@ msgstr "S-Sì. Ho iniziato a bere da queste parti..."
 
 msgctxt "13||speech_list_main01||table||270||||4"
 msgid "...but then before I knew it, I was\r\nsmack dab in the middle of Little Asia."
-msgstr "...ma poi, prima che me ne accorgessi, ero\r\nproprio nel bel mezzo della Little Asia."
+msgstr "...ma poi, prima che me ne accorgessi, ero\r\nproprio nel bel mezzo di Little Asia."
 
 msgctxt "13||speech_list_main01||table||271||||4"
 msgid "What were you thinking? Don't you\r\nknow how dangerous that place is?"
@@ -29813,7 +29813,7 @@ msgstr "Capisco."
 
 msgctxt "13||speech_list_main01||table||317||||4"
 msgid "Rumor has it, he got caught in a feud\r\nwith those folks over in Little Asia."
-msgstr "Gira voce che sia rimasto invischiato in una faida\r\ncon quella gente giù alla Little Asia."
+msgstr "Gira voce che sia rimasto invischiato in una faida\r\ncon quella gente giù a Little Asia."
 
 msgctxt "13||speech_list_main01||table||318||||4"
 msgid "I haven't seen or heard from him since."
@@ -29849,11 +29849,11 @@ msgstr "Grazie."
 
 msgctxt "13||speech_list_main01||table||326||||4"
 msgid "(Looks like Little Asia is the only option\nI've got left. Let's just hope for the best.)"
-msgstr "(Sembra che la Little Asia sia l'unica opzione\nche mi è rimasta. Speriamo in bene.)"
+msgstr "(Sembra che Little Asia sia l'unica opzione\nche mi è rimasta. Speriamo in bene.)"
 
 msgctxt "13||speech_list_main01||table||327||||4"
 msgid "(Hold on, didn't Little Asia burn down?\r\nThey built all this back up in a year...?)"
-msgstr "(Aspetta, la Little Asia non era andata a fuoco?\r\nHanno ricostruito tutto in un anno...?)"
+msgstr "(Aspetta, Little Asia non era andata a fuoco?\r\nHanno ricostruito tutto in un anno...?)"
 
 msgctxt "13||speech_list_main01||table||328||||4"
 msgid "(If they're really this capable, no wonder\nthe Tojo Clan is struggling with them.)"
@@ -38041,7 +38041,7 @@ msgstr "Un diversivo?"
 
 msgctxt "18||speech_list_main06||table||512||||4"
 msgid "Soon after Tatsukawa quit his job here, he was\nseen spending a lot of time in Little Asia."
-msgstr "Subito dopo che Tatsukawa si è dimesso, è stato\nvisto passare molto tempo nella Little Asia."
+msgstr "Subito dopo che Tatsukawa si è dimesso, è stato\nvisto passare molto tempo a Little Asia."
 
 msgctxt "18||speech_list_main06||table||514||||4"
 msgid "Were you aware that he can speak Chinese?"
@@ -38077,7 +38077,7 @@ msgstr "Gli affari di cuore sono una delle motivazioni\nmigliori per imparare un
 
 msgctxt "18||speech_list_main06||table||523||||4"
 msgid "After Tatsukawa-kun left, he used his Chinese\nto get work as an informant in Little Asia..."
-msgstr "Dopo che Tatsukawa-kun se n'è andato, ha usato il suo\ncinese per lavorare come informatore nella Little Asia..."
+msgstr "Dopo che Tatsukawa-kun se n'è andato, ha usato il suo\ncinese per lavorare come informatore a Little Asia..."
 
 msgctxt "18||speech_list_main06||table||524||||4"
 msgid "Specifically, for the Saio Triad."
@@ -38393,7 +38393,7 @@ msgstr "Fino a prova contraria,\nchiunque sia coinvolto è un sospettato."
 
 msgctxt "19||speech_list_main07||table||8||||4"
 msgid "After Tatsukawa left his job as a host,\nhe spent a lot of time in Little Asia."
-msgstr "Dopo che Tatsukawa ha lasciato il lavoro di host,\nha passato molto tempo nella Little Asia."
+msgstr "Dopo che Tatsukawa ha lasciato il lavoro di host,\nha passato molto tempo a Little Asia."
 
 msgctxt "19||speech_list_main07||table||9||||4"
 msgid "Apparently he was working as\nan informant for the triads."
@@ -39013,7 +39013,7 @@ msgstr "La Triade Saio potrebbe essere coinvolta\nnell'incidente di Haruka in qu
 
 msgctxt "19||speech_list_main07||table||168||||4"
 msgid "Ed should be in Little Asia."
-msgstr "Ed dovrebbe essere nella Little Asia."
+msgstr "Ed dovrebbe essere a Little Asia."
 
 msgctxt "19||speech_list_main07||table||169||||4"
 msgid "He's the head honcho of that\nhuge building in the middle, but... Hm..."
@@ -39217,7 +39217,7 @@ msgstr "Che intendi dire?"
 
 msgctxt "19||speech_list_main07||table||220||||4"
 msgid "Let me explain from the beginning.\nFirst we had that arson in Little Asia."
-msgstr "Lascia che ti spieghi dall'inizio.\nPrima c'è stato quell'incendio doloso nella Little Asia."
+msgstr "Lascia che ti spieghi dall'inizio.\nPrima c'è stato quell'incendio doloso a Little Asia."
 
 msgctxt "19||speech_list_main07||table||221||||4"
 msgid "Several fires flared up at the same time,\nyet they still couldn't make a single arrest."
@@ -39229,11 +39229,11 @@ msgstr "A quel punto, l'unico gruppo in grado di mettere in atto un\npiano così
 
 msgctxt "19||speech_list_main07||table||223||||4"
 msgid "You're telling me the Tojo Clan\nburned down Little Asia?"
-msgstr "Mi stai dicendo che è stato il Clan Tojo\na dare fuoco alla Little Asia?"
+msgstr "Mi stai dicendo che è stato il Clan Tojo\na dare fuoco a Little Asia?"
 
 msgctxt "19||speech_list_main07||table||224||||4"
 msgid "Exactly. After the fire, Little Asia was ripe\nfor the Saio Triad to move into the ruins."
-msgstr "Esatto. Dopo l'incendio, la Little Asia era pronta\na far insediare la Triade Saio tra le rovine."
+msgstr "Esatto. Dopo l'incendio, Little Asia era pronta\na far insediare la Triade Saio tra le rovine."
 
 msgctxt "19||speech_list_main07||table||225||||4"
 msgid "That's when the turf war erupted."
@@ -39253,7 +39253,7 @@ msgstr "Si dice in giro che\nSugai fosse in affari con la Triade Saio."
 
 msgctxt "19||speech_list_main07||table||229||||4"
 msgid "The point of the Little Asia fire was to\ncreate a space the Saio could move into."
-msgstr "Lo scopo dell'incendio nella Little Asia era di\ncreare uno spazio dove i Saio potessero insediarsi."
+msgstr "Lo scopo dell'incendio a Little Asia era di\ncreare uno spazio dove i Saio potessero insediarsi."
 
 msgctxt "19||speech_list_main07||table||230||||4"
 msgid "And the \"war\" he incited was all staged\nin order to bring down the sixth chairman."
@@ -39377,7 +39377,7 @@ msgstr "Scusa. È stato molto egoista da parte mia."
 
 msgctxt "19||speech_list_main07||table||264||||4"
 msgid "I've looked into Little Asia."
-msgstr "Ho indagato sulla Little Asia."
+msgstr "Ho indagato su Little Asia."
 
 msgctxt "19||speech_list_main07||table||265||||4"
 msgid "Kicking down the front door may not\nbe the only way to get to Ed."
@@ -39429,7 +39429,7 @@ msgstr "Anch'io ho i miei dubbi. Ed è per questo che\nvoglio fare due chiacchie
 
 msgctxt "19||speech_list_main07||table||277||||4"
 msgid "I get you. Okay then,\nI'll help you get into Little Asia."
-msgstr "Afferrato. Va bene allora,\nti aiuterò a entrare nella Little Asia."
+msgstr "Afferrato. Va bene allora,\nti aiuterò a entrare a Little Asia."
 
 msgctxt "19||speech_list_main07||table||278||||4"
 msgid "You sure?"
@@ -39437,7 +39437,7 @@ msgstr "Sei sicuro?"
 
 msgctxt "19||speech_list_main07||table||279||||4"
 msgid "Yeah, I'll be fine. Let's meet up\nagain near the border of Little Asia."
-msgstr "Sì, non c'è problema. Vediamoci\ndi nuovo vicino al confine della Little Asia."
+msgstr "Sì, non c'è problema. Vediamoci\ndi nuovo vicino al confine di Little Asia."
 
 msgctxt "19||speech_list_main07||table||280||||4"
 msgid "I'd feel better with more guys, though..."
@@ -39513,7 +39513,7 @@ msgstr "La Mama ha detto che ce lo segna sul conto, così potremo\ncapire come g
 
 msgctxt "19||speech_list_main07||table||299||||4"
 msgid "Fer now, we need to talk about Little Asia.\nRight, Kiryu-aniki?"
-msgstr "Per ora, dobbiamo parlare della Little Asia.\nGiusto, Kiryu-aniki?"
+msgstr "Per ora, dobbiamo parlare di Little Asia.\nGiusto, Kiryu-aniki?"
 
 msgctxt "19||speech_list_main07||table||300||||4"
 msgid "Right. Are you sober enough, Nagumo?"
@@ -39573,7 +39573,7 @@ msgstr "Puoi giurarci.\nKiryu-aniki. Sei pronto?"
 
 msgctxt "19||speech_list_main07||table||314||||4"
 msgid "Yeah, it's about time.\nLet's head to Little Asia."
-msgstr "Sì, è giunta l'ora.\nDirigiamoci verso la Little Asia."
+msgstr "Sì, è giunta l'ora.\nDirigiamoci verso Little Asia."
 
 msgctxt "19||speech_list_main07||table||315||||4"
 msgid "All right! I'd follow ya t'the depths\no' hell n' back, Kiryu-aniki!"
@@ -39581,11 +39581,11 @@ msgstr "D'accordo! Ti seguirei fino in fondo\nall'inferno e ritorno, Kiryu-aniki
 
 msgctxt "19||speech_list_main07||table||316||||4"
 msgid "(Akiyama said to meet him outside of\nLittle Asia. We should get going...)"
-msgstr "(Akiyama ha detto di incontrarlo fuori dalla\nLittle Asia. Dovremmo andare...)"
+msgstr "(Akiyama ha detto di incontrarlo fuori da\nLittle Asia. Dovremmo andare...)"
 
 msgctxt "19||speech_list_main07||table||317||||4"
 msgid "Aniki, this here's Little Asia. We're s'posed\nt'be meetin' that Akiyama fella here, right?"
-msgstr "Aniki, questa è la Little Asia. Dovremmo\nincontrare quel tizio, Akiyama, proprio qui, vero?"
+msgstr "Aniki, questa è Little Asia. Dovremmo\nincontrare quel tizio, Akiyama, proprio qui, vero?"
 
 msgctxt "19||speech_list_main07||table||318||||4"
 msgid "Yeah."
@@ -40189,7 +40189,7 @@ msgstr "Sei davvero nella posizione di fare domande?"
 
 msgctxt "19||speech_list_main07||table||475||||4"
 msgid "If anything, I should be questioning you.\nWhy did you sneak into Little Asia like this?"
-msgstr "Semmai dovrei essere io a interrogarvi.\nPerché vi siete intrufolati così nella Little Asia?"
+msgstr "Semmai dovrei essere io a interrogarvi.\nPerché vi siete intrufolati così a Little Asia?"
 
 msgctxt "19||speech_list_main07||table||476||||4"
 msgid "If you don't want me to kill every last one\nof you here, you'd better start talking."
@@ -40413,7 +40413,7 @@ msgstr "Dopo tutto questo, non sappiamo ancora perché\nTatsukawa sia stato ucci
 
 msgctxt "20||speech_list_main08||table||2||||4"
 msgid "You risked your necks busting into\nLittle Asia, and still came up empty."
-msgstr "Avete rischiato il collo irrompendo nella\nLittle Asia e ne siete usciti a mani vuote."
+msgstr "Avete rischiato il collo irrompendo in\nLittle Asia e ne siete usciti a mani vuote."
 
 msgctxt "20||speech_list_main08||table||3||||4"
 msgid "Well, we know that Tatsukawa betraying\nthe triads had something to do with it."
@@ -40577,7 +40577,7 @@ msgstr "Lei ha incontrato Lo della Triade Saio\nla scorsa notte, dico bene?"
 
 msgctxt "20||speech_list_main08||table||45||||4"
 msgid "Some of my men said they saw\nhim going into Little Asia."
-msgstr "Alcuni dei miei uomini dicono di\naverlo visto entrare nella Little Asia."
+msgstr "Alcuni dei miei uomini dicono di\naverlo visto entrare a Little Asia."
 
 msgctxt "20||speech_list_main08||table||46||||4"
 msgid "Interestingly enough, those same men\nsaid they saw you there as well."
@@ -40693,7 +40693,7 @@ msgstr "Ho sentito una voce, in giro..."
 
 msgctxt "20||speech_list_main08||table||75||||4"
 msgid "...That the fire in Little Asia that invited\nthe Saio Triad in was set by the Tojo Clan."
-msgstr "...Che l'incendio nella Little Asia che ha aperto le porte\nalla Triade Saio, sia stato appiccato dal Clan Tojo."
+msgstr "...Che l'incendio a Little Asia che ha aperto le porte\nalla Triade Saio, sia stato appiccato dal Clan Tojo."
 
 msgctxt "20||speech_list_main08||table||76||||4"
 msgid "Is that one you've heard before?"
@@ -41409,7 +41409,7 @@ msgstr "È da un pezzo che non ci si vede, Lo-san."
 
 msgctxt "20||speech_list_main08||table||266||||4"
 msgid "It's no wonder our search of Little Asia\ncame up empty if this is where you've been."
-msgstr "Non c'è da stupirsi che le nostre ricerche nella\nLittle Asia abbiano fatto un buco nell'acqua, se ti nascondevi qui."
+msgstr "Non c'è da stupirsi che le nostre ricerche a\nLittle Asia abbiano fatto un buco nell'acqua, se ti nascondevi qui."
 
 msgctxt "20||speech_list_main08||table||267||||4"
 msgid "There are still a great many places in\nKamurocho outside of Tojo control."
@@ -41445,7 +41445,7 @@ msgstr "Tu e Lo avete cospirato insieme."
 
 msgctxt "20||speech_list_main08||table||275||||4"
 msgid "First you burned down Little Asia and\nbrought the Saio in to rise from the ashes."
-msgstr "Prima avete dato fuoco alla Little Asia e\nportato i Saio a risorgere dalle ceneri."
+msgstr "Prima avete dato fuoco a Little Asia e\nportato i Saio a risorgere dalle ceneri."
 
 msgctxt "20||speech_list_main08||table||276||||4"
 msgid "Then you started a fake war\nto get the police after Daigo."
@@ -43781,7 +43781,7 @@ msgstr "Mh?"
 
 msgctxt "22||speech_list_main10||table||225||||4"
 msgid "Remember? In Little Asia, Lo was talkin' about\nhow Onomichi had some kinda secret."
-msgstr "Ricordi? Nella Little Asia, Lo parlava di\ncome Onomichi avesse una specie di segreto."
+msgstr "Ricordi? A Little Asia, Lo parlava di\ncome Onomichi avesse una specie di segreto."
 
 msgctxt "22||speech_list_main10||table||226||||4"
 msgid "[I doubt he knows the truth about Onomichi.]"
@@ -43985,7 +43985,7 @@ msgstr "Per l'appunto, non siamo stati nemmeno in grado di\n<font_kind=yakuza_it
 
 msgctxt "22||speech_list_main10||table||280||||4"
 msgid "The paradigm shifted upon your\ninvasion into Little Asia, though."
-msgstr "Il paradigma è però cambiato con la\nvostra irruzione nella Little Asia."
+msgstr "Il paradigma è però cambiato con la\nvostra irruzione a Little Asia."
 
 msgctxt "22||speech_list_main10||table||281||||4"
 msgid "After all, that was the first time\nLo had shown himself in over two months."
@@ -44113,7 +44113,7 @@ msgstr "Colui che ha supportato la vostra\nrinascita... È Tsuneo Iwami, vero?"
 
 msgctxt "22||speech_list_main10||table||315||||4"
 msgid "Indeed. After the Little Asia fire,\nIwami approached us with a proposal."
-msgstr "Certamente. Dopo l'incendio della Little Asia,\nIwami si è fatto avanti con una proposta."
+msgstr "Certamente. Dopo l'incendio di Little Asia,\nIwami si è fatto avanti con una proposta."
 
 msgctxt "22||speech_list_main10||table||316||||4"
 msgid "Our part was simply to fan the flames of\nwar between the Tojo Clan and the Saio."
@@ -44897,7 +44897,7 @@ msgstr "Yuta, andiamo al Serena."
 
 msgctxt "23||speech_list_main11||table||153||||4"
 msgid "We can't take Haruto to Little Asia, so we\nshould ask Date-san to keep him safe."
-msgstr "Non possiamo portare Haruto nella Little Asia, quindi\ndovremmo chiedere a Date-san di tenerlo al sicuro."
+msgstr "Non possiamo portare Haruto a Little Asia, quindi\ndovremmo chiedere a Date-san di tenerlo al sicuro."
 
 msgctxt "23||speech_list_main11||table||154||||4"
 msgid "Sure."
@@ -45041,7 +45041,7 @@ msgstr "È il momento peggiore possibile per fare\nirruzione dai Saio per sistem
 
 msgctxt "23||speech_list_main11||table||190||||4"
 msgid "They've got Little Asia on lockdown\nwith everything that's going on."
-msgstr "Hanno messo la Little Asia in isolamento\ncon tutto quello che sta succedendo."
+msgstr "Hanno messo Little Asia in isolamento\ncon tutto quello che sta succedendo."
 
 msgctxt "23||speech_list_main11||table||191||||4"
 msgid "Can't you guys just wait a bit?"
@@ -45077,7 +45077,7 @@ msgstr "Yuta se n'è andato.\nHa lasciato qui il suo telefono."
 
 msgctxt "23||speech_list_main11||table||199||||4"
 msgid "What do you mean, gone? Wait,\ndon't tell me he went to Little Asia alone!?"
-msgstr "Che intendi dire che se n'è andato? Aspetta,\nnon dirmi che è andato nella Little Asia da solo!?"
+msgstr "Che intendi dire che se n'è andato? Aspetta,\nnon dirmi che è andato a Little Asia da solo!?"
 
 msgctxt "23||speech_list_main11||table||200||||4"
 msgid "I'm not sure.\nDate-san, look after Haruto for me!"
@@ -45253,7 +45253,7 @@ msgstr "È ridicolo! Perché mai dovrebbe ricorrere\nall'usare Yuta in questo mo
 
 msgctxt "23||speech_list_main11||table||248||||4"
 msgid "After Little Asia was passed to me,\nand after my son Jimmy was killed..."
-msgstr "Dopo che la Little Asia mi era passata di mano,\ne dopo che mio figlio Jimmy era stato ucciso..."
+msgstr "Dopo che Little Asia mi era passata di mano,\ne dopo che mio figlio Jimmy era stato ucciso..."
 
 msgctxt "23||speech_list_main11||table||249||||4"
 msgid "Kurusu urged me to take my knowledge\nof Onomichi and flee the country."
@@ -45265,7 +45265,7 @@ msgstr "E l'uomo che agì come suo\nmessaggero... fu l'uomo chiamato Hirose."
 
 msgctxt "24||speech_list_main12||table||0||||4"
 msgid "The Saio are in a panic after the fire in\r\nLittle Asia and their boss going MIA."
-msgstr "I Saio sono nel panico dopo l'incendio nella\r\nLittle Asia e la sparizione del loro capo."
+msgstr "I Saio sono nel panico dopo l'incendio a\r\nLittle Asia e la sparizione del loro capo."
 
 msgctxt "24||speech_list_main12||table||1||||4"
 msgid "They assume he's been kidnapped."
@@ -45493,7 +45493,7 @@ msgstr "Più di ogni altra cosa sono grato."
 
 msgctxt "24||speech_list_main12||table||66||||4"
 msgid "Sorry to ask you this so soon, but I need\r\nto continue our conversation from Little Asia."
-msgstr "Mi spiace chiedertelo così presto, ma ho bisogno\r\ndi riprendere il discorso iniziato nella Little Asia."
+msgstr "Mi spiace chiedertelo così presto, ma ho bisogno\r\ndi riprendere il discorso iniziato a Little Asia."
 
 msgctxt "24||speech_list_main12||table||67||||4"
 msgid "Can you talk?"
@@ -45761,7 +45761,7 @@ msgstr "Allora perché la tua organizzazione\r\nha deciso di presentarsi in Giap
 
 msgctxt "24||speech_list_main12||table||135||||4"
 msgid "I mean, the Tojo caused that fire in Little Asia\r\nspecifically so you'd have room to take root."
-msgstr "Voglio dire, il Tojo ha causato quell'incendio nella Little Asia\r\nspecificamente affinché aveste spazio per mettere radici."
+msgstr "Voglio dire, il Tojo ha causato quell'incendio a Little Asia\r\nspecificamente affinché aveste spazio per mettere radici."
 
 msgctxt "24||speech_list_main12||table||136||||4"
 msgid "And don't even try playing dumb."
@@ -45829,7 +45829,7 @@ msgstr "...La mia utilità era venuta meno, ed è così che\r\nha attentato alla
 
 msgctxt "24||speech_list_main12||table||188||||4"
 msgid "He was presumably plotting to kill me\r\nfrom the moment he invited us into Little Asia."
-msgstr "Presumibilmente stava complottando di uccidermi dal\r\nmomento in cui ci ha invitati nella Little Asia."
+msgstr "Presumibilmente stava complottando di uccidermi dal\r\nmomento in cui ci ha invitati a Little Asia."
 
 msgctxt "24||speech_list_main12||table||189||||4"
 msgid "But he wasn't actually able to get to you.\r\nInstead, he killed your son. Jimmy Lo."
@@ -45933,7 +45933,7 @@ msgstr "Dici sul serio!?"
 
 msgctxt "24||speech_list_main12||table||215||||4"
 msgid "While you were over in Little Asia, I left\r\nHaruto in the care of the police hospital."
-msgstr "Mentre eri nella Little Asia, ho lasciato Haruto\r\nin custodia presso l'ospedale della polizia."
+msgstr "Mentre eri a Little Asia, ho lasciato Haruto\r\nin custodia presso l'ospedale della polizia."
 
 msgctxt "24||speech_list_main12||table||216||||4"
 msgid "It might be nothing, but a tear rolled\r\ndown Haruka's face when he was with her."
@@ -46073,7 +46073,7 @@ msgstr "Un sicario della Triade Saio arriverà per porre fine alla mia vita.\r\n
 
 msgctxt "24||speech_list_main12||table||252||||4"
 msgid "I also expect the Saio to retreat from Little Asia."
-msgstr "Mi aspetto anche che i Saio si ritirino dalla Little Asia."
+msgstr "Mi aspetto anche che i Saio si ritirino da Little Asia."
 
 msgctxt "24||speech_list_main12||table||253||||4"
 msgid "My only regret... is that I couldn't kill Tsuneo Iwami\r\nand bring him to justice for the slaughter of my son."
@@ -46233,7 +46233,7 @@ msgstr "No, ma io non..."
 
 msgctxt "24||speech_list_main12||table||297||||4"
 msgid "Yuta Usami. I'm gonna have to question you\r\nabout that Little Asia fire down at the station."
-msgstr "Yuta Usami. Dovrò farti un po' di domande\r\nin centrale riguardo all'incendio nella Little Asia."
+msgstr "Yuta Usami. Dovrò farti un po' di domande\r\nin centrale riguardo all'incendio a Little Asia."
 
 msgctxt "24||speech_list_main12||table||298||||4"
 msgid "H-Hold on a sec!"
@@ -69625,7 +69625,7 @@ msgstr "Mhm, ti calza a pennello! Non che io sia sorpreso."
 
 msgctxt "67||speech_list_sub_b06||table||32||||4"
 msgid "It's still heavy. And hot. And hard to breathe in.\nAnyway, where's this concert?"
-msgstr "È pur sempre pesante. E fa caldo. Ed è difficile respirarci dentro.\nComunque, dov'è questo concerto?"
+msgstr "È ancora pesante. E fa caldo. Ed è difficile respirarci dentro.\nComunque, dov'è questo concerto?"
 
 msgctxt "67||speech_list_sub_b06||table||33||||4"
 msgid "Well... It's right here!"
@@ -69649,7 +69649,7 @@ msgstr "O-Okay..."
 
 msgctxt "67||speech_list_sub_b06||table||38||||4"
 msgid "Kiryu-san, please!\nBe Michio-kun for our concert!"
-msgstr "Kiryu-san, ti prego!\nSii Michio-kun per il nostro concerto!"
+msgstr "Kiryu-san, ti prego!\nFai la parte di Michio-kun per il nostro concerto!"
 
 msgctxt "67||speech_list_sub_b06||table||39||||4"
 msgid "Hi there! Thanks for letting us perform here!"
