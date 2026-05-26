@@ -25,7 +25,7 @@ msgstr "Taglia il rosso"
 #. Max bytes: 18
 msgctxt "Offset_0x648_Len_18"
 msgid "Cut the Green Wire"
-msgstr "Taglia cavo verde"
+msgstr "Taglia il verde"
 
 #. Max bytes: 20
 msgctxt "Offset_0x688_Len_20"

@@ -50,7 +50,7 @@ msgstr "Munan Sato"
 #. Max bytes: 12
 msgctxt "Offset_0x55E93C_Len_12"
 msgid "Brainwashing"
-msgstr "Lavaggio"
+msgstr "Lavaggio C."
 
 #. Max bytes: 12
 msgctxt "Offset_0x55E97C_Len_12"

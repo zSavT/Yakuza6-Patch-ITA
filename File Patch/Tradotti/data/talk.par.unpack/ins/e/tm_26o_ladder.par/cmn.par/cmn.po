@@ -10,7 +10,7 @@ msgstr ""
 #. Max bytes: 90
 msgctxt "Offset_0x3B8_Len_90"
 msgid "(I can't climb the ladder with this extinguisher.\nI should go look for one up at the top.)"
-msgstr "(Non salgo la scala con l'estintore.\nNe cercherò un altro in cima.)"
+msgstr "(Non posso salire la scala con l'estintore.\nNe cercherò un altro in cima.)"
 
 #. Max bytes: 44
 msgctxt "Offset_0x518_Len_44"

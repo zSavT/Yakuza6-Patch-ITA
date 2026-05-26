@@ -10,7 +10,7 @@ msgstr ""
 #. Max bytes: 19
 msgctxt "Offset_0x2E0_Len_19"
 msgid "I'm so glad we met."
-msgstr "Che bello vederti!"
+msgstr "Bello conoscerti!"
 
 #. Max bytes: 67
 msgctxt "Offset_0x460_Len_67"

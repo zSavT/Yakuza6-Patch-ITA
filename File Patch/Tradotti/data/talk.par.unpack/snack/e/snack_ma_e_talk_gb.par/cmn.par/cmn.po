@@ -625,7 +625,7 @@ msgstr "Volete solo una scusa per bere!"
 #. Max bytes: 7
 msgctxt "Offset_0x42888_Len_7"
 msgid "Busted."
-msgstr "Preso."
+msgstr "Beccato"
 
 #. Max bytes: 5
 msgctxt "Offset_0x429A8_Len_5"

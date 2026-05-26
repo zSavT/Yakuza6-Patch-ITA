@@ -115,7 +115,7 @@ msgstr "Uh oh."
 #. Max bytes: 8
 msgctxt "Offset_0x41280_Len_8"
 msgid "Ruh roh."
-msgstr "Ruh roh."
+msgstr "Oh-oh."
 
 #. Max bytes: 38
 msgctxt "Offset_0x412A0_Len_38"

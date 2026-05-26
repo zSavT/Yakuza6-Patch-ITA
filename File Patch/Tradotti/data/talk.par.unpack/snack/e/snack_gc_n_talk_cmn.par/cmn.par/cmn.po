@@ -20,7 +20,7 @@ msgstr "Fammi unire a voi."
 #. Max bytes: 41
 msgctxt "Offset_0xCA24_Len_41"
 msgid "Gen-san has joined the Setouchi Warriors."
-msgstr "Gen-san entra nei Setouchi Warriors."
+msgstr "Gen-san si unisce ai Setouchi Warriors."
 
 #. Max bytes: 23
 msgctxt "Offset_0xCDC4_Len_23"
