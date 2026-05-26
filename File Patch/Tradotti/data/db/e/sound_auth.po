@@ -29617,7 +29617,7 @@ msgstr "(Dice che stanno accettando richieste per l'affitto.\r\nImmagino che Aki
 
 msgctxt "13||speech_list_main01||table||268||||4"
 msgid "Wait, did you seriously get hammered\r\nover in Little Asia last night?"
-msgstr "Aspetta, ti sei davvero ubriacato\r\nalla Little Asia ieri sera?"
+msgstr "Aspetta, ti sei davvero ubriacato\r\na Little Asia ieri sera?"
 
 msgctxt "13||speech_list_main01||table||269||||4"
 msgid "Y-Yeah. I started drinking around here..."
