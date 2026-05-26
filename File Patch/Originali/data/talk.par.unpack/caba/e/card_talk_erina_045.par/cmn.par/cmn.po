@@ -22,3 +22,8 @@ msgctxt "Offset_0x1CD38_Len_18"
 msgid "It ended in blows."
 msgstr ""
 
+#. Max bytes: 23
+msgctxt "Offset_0x1D0C8_Len_23"
+msgid "曾一起去唱卡拉OK"
+msgstr ""
+

@@ -7,6 +7,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1940_Len_5"
+msgid "kiryu"
+msgstr ""
+
 #. Max bytes: 23
 msgctxt "Offset_0x9C9C_Len_23"
 msgid "Enter the Battle Royale"
@@ -17,8 +23,35 @@ msgctxt "Offset_0x9CDC_Len_23"
 msgid "Ask About Point Bonuses"
 msgstr ""
 
+#. Max bytes: 6
+msgctxt "Offset_0x9D1C_Len_6"
+msgid "Cancel"
+msgstr ""
+
 #. Max bytes: 32
 msgctxt "Offset_0xA21C_Len_32"
 msgid "Enter the Lullaby Battle Royale?"
+msgstr ""
+
+#. Max bytes: 3
+msgctxt "Offset_0xA31C_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0xA35C_Len_2"
+msgid "No"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xA91C_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 7
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xA93C_Len_7"
+msgid "mahjong"
 msgstr ""
 

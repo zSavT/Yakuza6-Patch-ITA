@@ -7,6 +7,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x35E_Len_8"
+msgid "playspot"
+msgstr ""
+
 #. Max bytes: 35
 msgctxt "Offset_0x620_Len_35"
 msgid "(I'll let my fists do the talking!)"
@@ -32,8 +38,25 @@ msgctxt "Offset_0x9F0_Len_15"
 msgid "Check the Rules"
 msgstr ""
 
+#. Max bytes: 6
+msgctxt "Offset_0xA30_Len_6"
+msgid "Cancel"
+msgstr ""
+
 #. Max bytes: 45
 msgctxt "Offset_0xDC0_Len_45"
 msgid "遊玩Virtua Fighter 5 Final Showdown[NORMAL]"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xFB0_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xFF0_Len_6"
+msgid "normal"
 msgstr ""
 

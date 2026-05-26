@@ -12,19 +12,20 @@ msgctxt "Offset_0x13C36_Len_6"
 msgid " >UdM="
 msgstr ""
 
-#. Max bytes: 11
-msgctxt "Offset_0x85851_Len_11"
-msgid "ď> 	!>\\A9>"
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x7F448_Len_4"
+msgid "miku"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x8364F_Len_5"
+msgid "Efb'E"
 msgstr ""
 
 #. Max bytes: 20
 msgctxt "Offset_0x93F53_Len_20"
 msgid "GJMPjtqile^WPIB;4-' "
-msgstr ""
-
-#. Max bytes: 31
-msgctxt "Offset_0x94008_Len_31"
-msgid "&''''(((())))***++g}tfvth\\PD8, "
 msgstr ""
 
 #. Max bytes: 23
@@ -72,8 +73,15 @@ msgctxt "Offset_0x99358_Len_38"
 msgid "You know, you're actually pretty cute."
 msgstr ""
 
-#. Max bytes: 6
-msgctxt "Offset_0x9B332_Len_6"
-msgid " ?|V2?"
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x99858_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x99958_Len_8"
+msgid "substory"
 msgstr ""
 

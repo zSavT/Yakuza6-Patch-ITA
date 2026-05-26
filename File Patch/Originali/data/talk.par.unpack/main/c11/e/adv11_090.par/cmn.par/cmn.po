@@ -7,13 +7,188 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x21C4E_Len_6"
-msgid " >33s?"
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x4E08_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x5128_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x60C8_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x9528_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x183B8_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x192F8_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x22108_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x22428_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x23238_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x23F98_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x24858_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x3A070_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x3EEF0_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x40BB0_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x4A8C0_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x4BDB0_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x4CCC0_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x55740_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x55EB0_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x56C70_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x59140_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x59460_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x5A400_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x5E19C_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x6A32C_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x6BE0C_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x6C25C_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x6EFA4_Len_4"
+msgid "yuta"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x6FCB0_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x6FFD0_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x70F70_Len_4"
+msgid "loop"
 msgstr ""
 
 #. Max bytes: 6
-msgctxt "Offset_0x6FAD2_Len_6"
-msgid " >33s?"
+msgctxt "Offset_0x860F0_Len_6"
+msgid "Assets"
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x865A0_Len_6"
+msgid "Assets"
 msgstr ""
 

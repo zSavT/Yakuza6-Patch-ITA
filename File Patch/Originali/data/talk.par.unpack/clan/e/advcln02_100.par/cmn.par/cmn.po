@@ -8,12 +8,20 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 21
+#. WARNING: Might be a system string/identifier (do not translate).
 msgctxt "Offset_0x21682_Len_21"
 msgid ".9@evwqlf`ZTOIC=82,& "
 msgstr ""
 
 #. Max bytes: 7
+#. WARNING: Might be a system string/identifier (do not translate).
 msgctxt "Offset_0x44504_Len_7"
 msgid "rdWI<. "
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x5D868_Len_5"
+msgid "masao"
 msgstr ""
 

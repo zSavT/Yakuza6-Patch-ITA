@@ -7,6 +7,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x25E_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x312_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x3E6_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x49A_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x56E_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x622_Len_8"
+msgid "minigame"
+msgstr ""
+
 #. Max bytes: 70
 msgctxt "Offset_0x25AEC_Len_70"
 msgid "Kiryu-san, you should eat whatever\nyou think is the healthiest option."
@@ -20,6 +56,11 @@ msgstr ""
 #. Max bytes: 88
 msgctxt "Offset_0x2C0D4_Len_88"
 msgid "If you successfully follow these hints,\nyour RIZAP training will be much more effective."
+msgstr ""
+
+#. Max bytes: 98
+msgctxt "Offset_0x2C134_Len_98"
+msgid "健身後首次進食若能\n遵照建議選擇菜色，\n將對RIZAP的成果\n帶來好的影響。"
 msgstr ""
 
 #. Max bytes: 93

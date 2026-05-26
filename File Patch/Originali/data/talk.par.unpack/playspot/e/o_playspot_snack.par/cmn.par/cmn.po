@@ -7,9 +7,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xDE_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x4CE_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x53E_Len_8"
+msgid "minigame"
+msgstr ""
+
 #. Max bytes: 51
 msgctxt "Offset_0x744_Len_51"
 msgid "Head into New Gaudi?\nThe cover charge is 3,000 yen."
+msgstr ""
+
+#. Max bytes: 3
+msgctxt "Offset_0x844_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x884_Len_2"
+msgid "No"
 msgstr ""
 
 #. Max bytes: 33

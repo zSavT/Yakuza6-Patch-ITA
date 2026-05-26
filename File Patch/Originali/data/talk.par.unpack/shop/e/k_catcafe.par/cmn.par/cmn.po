@@ -7,6 +7,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x14E_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x2BE_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x77E_Len_8"
+msgid "playspot"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x80A_Len_8"
+msgid "playspot"
+msgstr ""
+
 #. Max bytes: 13
 msgctxt "Offset_0x52D64_Len_13"
 msgid "Feed the Cats"
@@ -15,5 +39,17 @@ msgstr ""
 #. Max bytes: 12
 msgctxt "Offset_0x52DA4_Len_12"
 msgid "Buy Cat Food"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x533D4_Len_8"
+msgid "playspot"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x534D4_Len_8"
+msgid "playspot"
 msgstr ""
 

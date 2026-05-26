@@ -7,6 +7,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x7C6_Len_4"
+msgid "main"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x842_Len_4"
+msgid "main"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x902_Len_4"
+msgid "main"
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x940_Len_17"
+msgid "セレナ会話on"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x986_Len_4"
+msgid "main"
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x9C4_Len_17"
+msgid "セレナ会話on"
+msgstr ""
+
 #. Max bytes: 17
 msgctxt "Offset_0x1FEB4_Len_17"
 msgid "Ask About Akiyama"
@@ -15,5 +49,29 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0x1FEF4_Len_16"
 msgid "Ask About Haruka"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1FFC6_Len_4"
+msgid "main"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x20006_Len_4"
+msgid "main"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x204AC_Len_4"
+msgid "main"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x205AC_Len_4"
+msgid "main"
 msgstr ""
 

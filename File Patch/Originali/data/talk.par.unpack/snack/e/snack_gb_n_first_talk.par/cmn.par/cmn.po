@@ -7,6 +7,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xA3C8_Len_6"
+msgid "player"
+msgstr ""
+
 #. Max bytes: 263
 msgctxt "Offset_0x132F8_Len_263"
 msgid "You can now drink with Akiyoshi-san!\n\nAs you become closer to the customers, your rank within\nthe bar will increase. As your rank increases, you'll\nbe able to drink with more people.\n\nBe assertive about approaching people, or form a bond\nthrough karaoke or darts."

@@ -7,9 +7,52 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-msgctxt "Offset_0x50FF_Len_5"
-msgid "> ?a>"
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x9BB4_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 7
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x9BD4_Len_7"
+msgid "karaoke"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x9D68_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 7
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x9D88_Len_7"
+msgid "karaoke"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x9E68_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 7
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x9E88_Len_7"
+msgid "karaoke"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x9F68_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 7
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x9F88_Len_7"
+msgid "karaoke"
 msgstr ""
 
 #. Max bytes: 30

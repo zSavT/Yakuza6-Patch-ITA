@@ -8,12 +8,55 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 5
-msgctxt "Offset_0x16D1F_Len_5"
-msgid ">b; ="
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x150E0_Len_5"
+msgid "kiryu"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x295C4_Len_4"
+msgid "miya"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x3C950_Len_5"
+msgid "otuka"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x50168_Len_5"
+msgid "chiba"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x66EC0_Len_4"
+msgid "mori"
+msgstr ""
+
+#. Max bytes: 3
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x79714_Len_3"
+msgid "oka"
+msgstr ""
+
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x8C1C4_Len_6"
+msgid "hamana"
 msgstr ""
 
 #. Max bytes: 291
 msgctxt "Offset_0xE5A48_Len_291"
 msgid "Your players' stats will grow as you utilize them in games.\n\nIf you think an individual player shows some promise,\nuse the Training Tickets you win after games to give\nthem a significant stat boost.\n\nGet your team ready to face the next challenge by\nplaying some ball and training your team!"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xE5D08_Len_8"
+msgid "substory"
 msgstr ""
 

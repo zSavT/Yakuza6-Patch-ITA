@@ -12,6 +12,16 @@ msgctxt "Offset_0x6844_Len_64"
 msgid "(This is the Children's Park.\nMaybe I should give Hiji a try...)"
 msgstr ""
 
+#. Max bytes: 104
+msgctxt "Offset_0x6894_Len_104"
+msgid "（……兒童公園啊。這麼說來，我之前打算\n　在這裡試試看那個叫Hiji的App吧）"
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x872A_Len_6"
+msgid "JEÝNE"
+msgstr ""
+
 #. Max bytes: 78
 msgctxt "Offset_0x9658_Len_78"
 msgid "(This thing is pretty impressive.\nIt's hard to believe it's just a phone app.)"
@@ -70,5 +80,16 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0x8EBB0_Len_16"
 msgid "Hiji's the best."
+msgstr ""
+
+#. Max bytes: 22
+msgctxt "Offset_0x8EFC0_Len_22"
+msgid "「Hiji最棒啦！」"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x8F0B0_Len_8"
+msgid "substory"
 msgstr ""
 

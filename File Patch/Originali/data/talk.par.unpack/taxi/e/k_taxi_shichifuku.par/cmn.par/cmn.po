@@ -7,6 +7,48 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x466_Len_4"
+msgid "main"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x486_Len_4"
+msgid "padv"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x4A4_Len_4"
+msgid "padv"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x63E_Len_4"
+msgid "main"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x65E_Len_4"
+msgid "padv"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x67C_Len_4"
+msgid "padv"
+msgstr ""
+
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x898_Len_6"
+msgid "camera"
+msgstr ""
+
 #. Max bytes: 20
 msgctxt "Offset_0x677C_Len_20"
 msgid "Depart for Onomichi?"
@@ -20,5 +62,41 @@ msgstr ""
 #. Max bytes: 30
 msgctxt "Offset_0x6F4C_Len_30"
 msgid "(I don't have enough money...)"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x718C_Len_4"
+msgid "taxi"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x71AC_Len_4"
+msgid "taxi"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x728C_Len_4"
+msgid "taxi"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x72AC_Len_4"
+msgid "taxi"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x738C_Len_4"
+msgid "taxi"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x73AC_Len_4"
+msgid "taxi"
 msgstr ""
 

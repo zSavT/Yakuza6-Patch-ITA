@@ -12,8 +12,31 @@ msgctxt "Offset_0x8084_Len_39"
 msgid "We gotta complain to Joon-gi Han later!"
 msgstr ""
 
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x8124_Len_6"
+msgid "player"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xE404_Len_4"
+msgid "yuta"
+msgstr ""
+
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x127FC_Len_6"
+msgid "nagumo"
+msgstr ""
+
 #. Max bytes: 4
 msgctxt "Offset_0x4C9A0_Len_4"
 msgid "! zD"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x4EC78_Len_4"
+msgid "QZOC"
 msgstr ""
 

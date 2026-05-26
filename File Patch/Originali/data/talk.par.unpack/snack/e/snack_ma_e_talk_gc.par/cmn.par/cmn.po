@@ -7,6 +7,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xA504_Len_4"
+msgid "mama"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xE410_Len_5"
+msgid "kiryu"
+msgstr ""
+
+#. Max bytes: 10
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x21030_Len_10"
+msgid "hatakeyama"
+msgstr ""
+
 #. Max bytes: 44
 msgctxt "Offset_0x21D10_Len_44"
 msgid "What could make ya hate me so much, Gen-san?"
@@ -20,6 +38,16 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0x22230_Len_15"
 msgid "Karaoke, right?"
+msgstr ""
+
+#. Max bytes: 17
+msgctxt "Offset_0x22240_Len_17"
+msgid "唱卡拉OK吧？"
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x22320_Len_10"
+msgid "Hatakeyama"
 msgstr ""
 
 #. Max bytes: 17
@@ -92,6 +120,11 @@ msgctxt "Offset_0x23010_Len_30"
 msgid "It's way too high-tech for me."
 msgstr ""
 
+#. Max bytes: 10
+msgctxt "Offset_0x23210_Len_10"
+msgid "Hatakeyama"
+msgstr ""
+
 #. Max bytes: 15
 msgctxt "Offset_0x23250_Len_15"
 msgid "He had to pass?"
@@ -120,6 +153,11 @@ msgstr ""
 #. Max bytes: 55
 msgctxt "Offset_0x23810_Len_55"
 msgid "Sure, I like listening 'bout as much as I like singin'."
+msgstr ""
+
+#. Max bytes: 53
+msgctxt "Offset_0x23850_Len_53"
+msgid "因為我喜歡唱卡拉OK，也喜歡聽別人唱啊"
 msgstr ""
 
 #. Max bytes: 13
@@ -177,6 +215,11 @@ msgctxt "Offset_0x24550_Len_53"
 msgid "It's even got a remote control with a screen on it..."
 msgstr ""
 
+#. Max bytes: 4
+msgctxt "Offset_0x24680_Len_4"
+msgid "Mama"
+msgstr ""
+
 #. Max bytes: 8
 msgctxt "Offset_0x246C0_Len_8"
 msgid "I agree."
@@ -207,6 +250,11 @@ msgctxt "Offset_0x24B10_Len_12"
 msgid "Yeah, but..."
 msgstr ""
 
+#. Max bytes: 10
+msgctxt "Offset_0x24C00_Len_10"
+msgid "Hatakeyama"
+msgstr ""
+
 #. Max bytes: 14
 msgctxt "Offset_0x24C40_Len_14"
 msgid "Yeah, have me?"
@@ -225,6 +273,11 @@ msgstr ""
 #. Max bytes: 53
 msgctxt "Offset_0x24CA0_Len_53"
 msgid "Wait, have you even tried singin' on the new machine?"
+msgstr ""
+
+#. Max bytes: 68
+msgctxt "Offset_0x24CE0_Len_68"
+msgid "咦？你該不會從來沒有用現在的卡拉OK設備唱過吧？"
 msgstr ""
 
 #. Max bytes: 49
@@ -297,6 +350,11 @@ msgctxt "Offset_0x26A50_Len_44"
 msgid "I'm still warmin' up to my cordless phone..."
 msgstr ""
 
+#. Max bytes: 10
+msgctxt "Offset_0x26B80_Len_10"
+msgid "Hatakeyama"
+msgstr ""
+
 #. Max bytes: 17
 msgctxt "Offset_0x26BC0_Len_17"
 msgid "Time is relative."
@@ -337,6 +395,11 @@ msgctxt "Offset_0x275F0_Len_35"
 msgid "Ah, figures it comes down to money."
 msgstr ""
 
+#. Max bytes: 4
+msgctxt "Offset_0x27800_Len_4"
+msgid "Mama"
+msgstr ""
+
 #. Max bytes: 12
 msgctxt "Offset_0x27840_Len_12"
 msgid "That's true."
@@ -367,6 +430,11 @@ msgctxt "Offset_0x27E00_Len_49"
 msgid "We're just askin' for the robot uprising, y'know."
 msgstr ""
 
+#. Max bytes: 4
+msgctxt "Offset_0x28020_Len_4"
+msgid "Mama"
+msgstr ""
+
 #. Max bytes: 11
 msgctxt "Offset_0x28060_Len_11"
 msgid "Good point."
@@ -385,6 +453,11 @@ msgstr ""
 #. Max bytes: 47
 msgctxt "Offset_0x280F0_Len_47"
 msgid "The last karaoke machine was still a machine..."
+msgstr ""
+
+#. Max bytes: 44
+msgctxt "Offset_0x28120_Len_44"
+msgid "之前的卡拉OK也是一種機器啊……"
 msgstr ""
 
 #. Max bytes: 34
@@ -410,6 +483,11 @@ msgstr ""
 #. Max bytes: 29
 msgctxt "Offset_0x28810_Len_29"
 msgid "Airplanes are nice and comfy."
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x28850_Len_7"
+msgid "Yeah..."
 msgstr ""
 
 #. Max bytes: 41
@@ -440,6 +518,11 @@ msgstr ""
 #. Max bytes: 53
 msgctxt "Offset_0x297B0_Len_53"
 msgid "But y'stayed with the times, right? Y'got used to it?"
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x29900_Len_10"
+msgid "Hatakeyama"
 msgstr ""
 
 #. Max bytes: 19
@@ -477,14 +560,29 @@ msgctxt "Offset_0x2A070_Len_44"
 msgid "Not the bar's ranking! The national ranking!"
 msgstr ""
 
+#. Max bytes: 9
+msgctxt "Offset_0x2A2D0_Len_9"
+msgid "National?"
+msgstr ""
+
 #. Max bytes: 63
 msgctxt "Offset_0x2A3F0_Len_63"
 msgid "That machine ranks your score against the whole country online."
 msgstr ""
 
+#. Max bytes: 83
+msgctxt "Offset_0x2A430_Len_83"
+msgid "用那台卡拉OK唱歌，一下子就能知道自己的技巧是全國第幾名啊"
+msgstr ""
+
 #. Max bytes: 54
 msgctxt "Offset_0x2A680_Len_54"
 msgid "The bar may be small, but I can sing against everyone!"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x2A940_Len_4"
+msgid "Mama"
 msgstr ""
 
 #. Max bytes: 13
@@ -530,6 +628,11 @@ msgstr ""
 #. Max bytes: 24
 msgctxt "Offset_0x2B470_Len_24"
 msgid "Why didn't you tell me!?"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x2B6E0_Len_4"
+msgid "Mama"
 msgstr ""
 
 #. Max bytes: 12
@@ -627,6 +730,11 @@ msgctxt "Offset_0x2DA10_Len_58"
 msgid "Does that karaoke machine have \"Today is a Diamond\" in it?"
 msgstr ""
 
+#. Max bytes: 44
+msgctxt "Offset_0x2DA50_Len_44"
+msgid "那台卡拉OK有「今天是鑽石」嗎？"
+msgstr ""
+
 #. Max bytes: 42
 msgctxt "Offset_0x2DB80_Len_42"
 msgid "'Course it does! I sang it jus' yesterday."
@@ -640,6 +748,16 @@ msgstr ""
 #. Max bytes: 68
 msgctxt "Offset_0x2DE40_Len_68"
 msgid "Let's teach you karaoke and take on Japan with \"Today is a Diamond\"!"
+msgstr ""
+
+#. Max bytes: 77
+msgctxt "Offset_0x2DE90_Len_77"
+msgid "我要教源先生用卡拉OK，然後靠「今天是鑽石」征服全國！"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x2DFE0_Len_5"
+msgid "Yeah!"
 msgstr ""
 
 #. Max bytes: 46
@@ -665,6 +783,11 @@ msgstr ""
 #. Max bytes: 44
 msgctxt "Offset_0x2EA40_Len_44"
 msgid "But I'll give it a try when I'm in the mood."
+msgstr ""
+
+#. Max bytes: 9
+msgctxt "Offset_0x2EBB0_Len_9"
+msgid "Thanks..."
 msgstr ""
 
 #. Max bytes: 33

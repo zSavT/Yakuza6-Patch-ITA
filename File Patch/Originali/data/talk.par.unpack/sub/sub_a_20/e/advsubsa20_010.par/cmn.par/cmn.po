@@ -32,3 +32,19 @@ msgctxt "Offset_0x5D784_Len_34"
 msgid "Attempt Yoshida's trial challenge?"
 msgstr ""
 
+#. Max bytes: 3
+msgctxt "Offset_0x5D884_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x5D8C4_Len_2"
+msgid "No"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x5DF7C_Len_8"
+msgid "substory"
+msgstr ""
+

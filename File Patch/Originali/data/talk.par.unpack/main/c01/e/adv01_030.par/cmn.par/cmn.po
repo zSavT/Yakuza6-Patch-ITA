@@ -7,8 +7,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x1A7CE_Len_6"
-msgid " >33s?"
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x7B70_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1142C_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x1160C_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1214C_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x1275C_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1315C_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1A998_Len_4"
+msgid "door"
 msgstr ""
 

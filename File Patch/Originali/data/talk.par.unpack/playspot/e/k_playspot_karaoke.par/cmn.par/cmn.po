@@ -12,13 +12,25 @@ msgctxt "Offset_0xF60_Len_15"
 msgid "Reserve a Room?"
 msgstr ""
 
-#. Max bytes: 6
-msgctxt "Offset_0x255E_Len_6"
-msgid " >t(/>"
+#. Max bytes: 3
+msgctxt "Offset_0x1060_Len_3"
+msgid "Yes"
 msgstr ""
 
-#. Max bytes: 6
-msgctxt "Offset_0x2D7E_Len_6"
-msgid " >t(/>"
+#. Max bytes: 2
+msgctxt "Offset_0x10A0_Len_2"
+msgid "No"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x15E0_Len_8"
+msgid "playspot"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1694_Len_8"
+msgid "playspot"
 msgstr ""
 

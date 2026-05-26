@@ -7,11 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x8A7A_Len_6"
-msgid " A͌:C"
-msgstr ""
-
 #. Max bytes: 17
 msgctxt "Offset_0xE1B8_Len_17"
 msgid "I am, actually..."

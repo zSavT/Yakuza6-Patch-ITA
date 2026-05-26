@@ -27,8 +27,46 @@ msgctxt "Offset_0xB98_Len_44"
 msgid "The Clan Code was not recognized. Try again?"
 msgstr ""
 
+#. Max bytes: 3
+msgctxt "Offset_0xC98_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0xCD8_Len_2"
+msgid "No"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x11D8_Len_5"
+msgid "kiryu"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x152C_Len_5"
+msgid "masao"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1738_Len_5"
+msgid "masao"
+msgstr ""
+
 #. Max bytes: 18
 msgctxt "Offset_0x17B0_Len_18"
 msgid "Enter a Clan Code?"
+msgstr ""
+
+#. Max bytes: 3
+msgctxt "Offset_0x18B0_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x18F0_Len_2"
+msgid "No"
 msgstr ""
 

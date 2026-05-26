@@ -7,9 +7,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x10E5A_Len_6"
-msgid "\n> B@="
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xFC18_Len_5"
+msgid "rizap"
+msgstr ""
+
+#. Max bytes: 7
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x12458_Len_7"
+msgid "uketuke"
 msgstr ""
 
 #. Max bytes: 10
@@ -20,5 +27,17 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0x1274C_Len_16"
 msgid "Don't go inside."
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x12CFC_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1331C_Len_8"
+msgid "minigame"
 msgstr ""
 

@@ -17,3 +17,15 @@ msgctxt "Offset_0x70C_Len_22"
 msgid "Let me think about it."
 msgstr ""
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xC4C_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x2614_Len_8"
+msgid "gotouchi"
+msgstr ""
+

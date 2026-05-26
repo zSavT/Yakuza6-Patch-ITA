@@ -17,3 +17,9 @@ msgctxt "Offset_0x5780_Len_10"
 msgid "I'll pass."
 msgstr ""
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x5D38_Len_8"
+msgid "substory"
+msgstr ""
+

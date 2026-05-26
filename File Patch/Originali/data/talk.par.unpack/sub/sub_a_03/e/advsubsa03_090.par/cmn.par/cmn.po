@@ -12,11 +12,6 @@ msgctxt "Offset_0x712D_Len_7"
 msgid " REfJWE"
 msgstr ""
 
-#. Max bytes: 6
-msgctxt "Offset_0x24DEE_Len_6"
-msgid "P= @5:"
-msgstr ""
-
 #. Max bytes: 13
 msgctxt "Offset_0x44864_Len_13"
 msgid "So Much More!"
@@ -30,5 +25,23 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0x448E4_Len_16"
 msgid "Please, No More!"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x44DE4_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x44EE4_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x44FE4_Len_8"
+msgid "substory"
 msgstr ""
 

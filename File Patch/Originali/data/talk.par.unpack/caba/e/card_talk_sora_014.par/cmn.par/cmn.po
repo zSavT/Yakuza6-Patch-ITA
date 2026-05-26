@@ -7,6 +7,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+msgctxt "Offset_0xB74_Len_4"
+msgid "SORA"
+msgstr ""
+
 #. Max bytes: 27
 msgctxt "Offset_0xF4EC_Len_27"
 msgid "I used to be a taxi driver."

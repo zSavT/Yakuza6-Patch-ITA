@@ -7,27 +7,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 4
-msgctxt "Offset_0x518C4_Len_4"
-msgid " є?"
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xB4278_Len_5"
+msgid "kiryu"
+msgstr ""
+
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x125B28_Len_6"
+msgid "suzuki"
 msgstr ""
 
 #. Max bytes: 5
-msgctxt "Offset_0xB4B7B_Len_5"
-msgid "> ډ;"
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1AB128_Len_5"
+msgid "kanbu"
 msgstr ""
 
-#. Max bytes: 5
-msgctxt "Offset_0x13A3DB_Len_5"
-msgid "= Y+<"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x43AE24_Len_4"
-msgid " M'="
+#. Max bytes: 7
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1BDB9C_Len_7"
+msgid "akamatu"
 msgstr ""
 
 #. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
 msgctxt "Offset_0x50EA14_Len_4"
 msgid " yR<"
 msgstr ""
@@ -35,6 +40,26 @@ msgstr ""
 #. Max bytes: 10
 msgctxt "Offset_0x55D5BC_Len_10"
 msgid "Dolche Uho"
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x55D5FC_Len_8"
+msgid "Munancho"
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x55D63C_Len_10"
+msgid "Hept-onast"
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x55DC3C_Len_8"
+msgid "Kulipaas"
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x55DC7C_Len_8"
+msgid "Kulibaaf"
 msgstr ""
 
 #. Max bytes: 12
@@ -52,6 +77,16 @@ msgctxt "Offset_0x55E33C_Len_10"
 msgid "Munan Sato"
 msgstr ""
 
+#. Max bytes: 12
+msgctxt "Offset_0x55E93C_Len_12"
+msgid "Brainwashing"
+msgstr ""
+
+#. Max bytes: 12
+msgctxt "Offset_0x55E97C_Len_12"
+msgid "Re-education"
+msgstr ""
+
 #. Max bytes: 13
 msgctxt "Offset_0x55E9BC_Len_13"
 msgid "Sex Education"
@@ -65,5 +100,34 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0x55F1FC_Len_17"
 msgid "Just Say the Word"
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x55F23C_Len_6"
+msgid "Refuse"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x55F73C_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x55F7F0_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x55F8A4_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x55F958_Len_8"
+msgid "substory"
 msgstr ""
 

@@ -7,6 +7,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1F6_Len_8"
+msgid "playspot"
+msgstr ""
+
 #. Max bytes: 14
 msgctxt "Offset_0x4D8_Len_14"
 msgid "See you later."
@@ -15,5 +21,21 @@ msgstr ""
 #. Max bytes: 29
 msgctxt "Offset_0x568_Len_29"
 msgid "Head to the baseball diamond?"
+msgstr ""
+
+#. Max bytes: 3
+msgctxt "Offset_0x668_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x6A8_Len_2"
+msgid "No"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xBE8_Len_8"
+msgid "playspot"
 msgstr ""
 

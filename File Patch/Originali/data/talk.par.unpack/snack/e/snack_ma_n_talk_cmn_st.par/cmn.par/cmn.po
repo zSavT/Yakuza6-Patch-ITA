@@ -7,6 +7,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x71C_Len_4"
+msgid "mama"
+msgstr ""
+
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xB00_Len_6"
+msgid "player"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xCAF_Len_5"
+msgid "?mama"
+msgstr ""
+
 #. Max bytes: 14
 msgctxt "Offset_0x1098_Len_14"
 msgid "Place an Order"
@@ -40,5 +58,10 @@ msgstr ""
 #. Max bytes: 14
 msgctxt "Offset_0x1DD8_Len_14"
 msgid "About Regulars"
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x1E18_Len_10"
+msgid "Reputation"
 msgstr ""
 

@@ -8,8 +8,8 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 7
-msgctxt "Offset_0x2EB6D_Len_7"
-msgid " \"E\n#)E"
+msgctxt "Offset_0x2B819_Len_7"
+msgid "PME͘QE"
 msgstr ""
 
 #. Max bytes: 35
@@ -20,6 +20,11 @@ msgstr ""
 #. Max bytes: 28
 msgctxt "Offset_0x3FF40_Len_28"
 msgid "Shrines? Sometimes, I guess."
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x40130_Len_4"
+msgid "Mama"
 msgstr ""
 
 #. Max bytes: 11
@@ -57,6 +62,11 @@ msgctxt "Offset_0x40920_Len_15"
 msgid "What a jackass."
 msgstr ""
 
+#. Max bytes: 4
+msgctxt "Offset_0x40B00_Len_4"
+msgid "Mama"
+msgstr ""
+
 #. Max bytes: 13
 msgctxt "Offset_0x40B40_Len_13"
 msgid "A lucky duck?"
@@ -80,6 +90,16 @@ msgstr ""
 #. Max bytes: 46
 msgctxt "Offset_0x40DC0_Len_46"
 msgid "Not really, but I did see the strangest thing."
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x41020_Len_8"
+msgid "Strange?"
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x41200_Len_8"
+msgid "Akiyoshi"
 msgstr ""
 
 #. Max bytes: 6
@@ -177,6 +197,11 @@ msgctxt "Offset_0x42B80_Len_31"
 msgid "You just said it was strange..."
 msgstr ""
 
+#. Max bytes: 8
+msgctxt "Offset_0x42D80_Len_8"
+msgid "Akiyoshi"
+msgstr ""
+
 #. Max bytes: 20
 msgctxt "Offset_0x42DC0_Len_20"
 msgid "I boxed my lamp too."
@@ -200,6 +225,11 @@ msgstr ""
 #. Max bytes: 41
 msgctxt "Offset_0x430D0_Len_41"
 msgid "Don't compare me to your childhood! Geez."
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x432F0_Len_4"
+msgid "Mama"
 msgstr ""
 
 #. Max bytes: 17
@@ -277,6 +307,26 @@ msgctxt "Offset_0x44860_Len_55"
 msgid "A boxer, huh? Didya have'ta watch yer weight and stuff?"
 msgstr ""
 
+#. Max bytes: 6
+msgctxt "Offset_0x44AA0_Len_6"
+msgid "Kaneko"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x44AE0_Len_5"
+msgid "Whoa."
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x44B00_Len_6"
+msgid "Weird."
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x44B20_Len_4"
+msgid "Why?"
+msgstr ""
+
 #. Max bytes: 64
 msgctxt "Offset_0x44B40_Len_64"
 msgid "Of course. There were times I even had to limit my water intake."
@@ -285,6 +335,16 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0x44DC0_Len_17"
 msgid "Wow, so hardcore."
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x44FB0_Len_4"
+msgid "Mama"
+msgstr ""
+
+#. Max bytes: 9
+msgctxt "Offset_0x44FF0_Len_9"
+msgid "Probably."
 msgstr ""
 
 #. Max bytes: 14
@@ -310,6 +370,11 @@ msgstr ""
 #. Max bytes: 70
 msgctxt "Offset_0x45510_Len_70"
 msgid "After a match, the stomach rejects food, so I couldn't eat right away."
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x45760_Len_8"
+msgid "Akiyoshi"
 msgstr ""
 
 #. Max bytes: 19
@@ -425,6 +490,11 @@ msgstr ""
 #. Max bytes: 31
 msgctxt "Offset_0x47810_Len_31"
 msgid "S-Sorry, I dozed off for a bit."
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x47AC0_Len_8"
+msgid "Akiyoshi"
 msgstr ""
 
 #. Max bytes: 23
@@ -570,6 +640,11 @@ msgstr ""
 #. Max bytes: 27
 msgctxt "Offset_0x4A840_Len_27"
 msgid "Shut up! Enough about that!"
+msgstr ""
+
+#. Max bytes: 6
+msgctxt "Offset_0x4AA80_Len_6"
+msgid "Hahah!"
 msgstr ""
 
 #. Max bytes: 16

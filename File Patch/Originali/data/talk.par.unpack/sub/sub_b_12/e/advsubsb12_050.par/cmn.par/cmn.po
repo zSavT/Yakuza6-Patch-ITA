@@ -8,23 +8,39 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 5
-msgctxt "Offset_0x44397_Len_5"
-msgid "> m9="
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x41600_Len_5"
+msgid "kiryu"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0xAEEFC_Len_4"
-msgid "L` ="
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x85050_Len_8"
+msgid "moriduka"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0xB63CC_Len_4"
-msgid "L` ="
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xD44E0_Len_5"
+msgid "chiba"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0xDF270_Len_4"
-msgid " є?"
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xEBA14_Len_6"
+msgid "hamana"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xFCAE0_Len_8"
+msgid "sinozaki"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xFCCBC_Len_8"
+msgid "minigame"
 msgstr ""
 
 #. Max bytes: 43

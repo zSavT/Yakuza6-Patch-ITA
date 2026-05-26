@@ -7,19 +7,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x2260C_Len_5"
+msgid "kiryu"
+msgstr ""
+
 #. Max bytes: 8
 msgctxt "Offset_0x3DEB8_Len_8"
 msgid "dW >`ga>"
 msgstr ""
 
-#. Max bytes: 7
-msgctxt "Offset_0x41A6D_Len_7"
-msgid "R7>Ik >"
-msgstr ""
-
-#. Max bytes: 5
-msgctxt "Offset_0x43AB7_Len_5"
-msgid ">j 9="
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x4A990_Len_6"
+msgid "suzuki"
 msgstr ""
 
 #. Max bytes: 24
@@ -40,5 +42,17 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0x4B480_Len_22"
 msgid "Maybe some other time."
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x4B9C0_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x4BA74_Len_8"
+msgid "substory"
 msgstr ""
 

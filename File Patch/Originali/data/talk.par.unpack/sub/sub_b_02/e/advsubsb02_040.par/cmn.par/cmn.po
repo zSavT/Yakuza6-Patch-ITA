@@ -22,3 +22,21 @@ msgctxt "Offset_0x41C1C_Len_48"
 msgid "I want to join the Order of Munan Chohept Onast."
 msgstr ""
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x42194_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x42248_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x422FC_Len_8"
+msgid "substory"
+msgstr ""
+

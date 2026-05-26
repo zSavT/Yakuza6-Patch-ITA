@@ -7,29 +7,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 151
-msgctxt "Offset_0x3B0D2_Len_151"
-msgid "   !!!!\"\"\"###$$$$%%%&&&''''((()))****+++,,,----...///0000111222333344455556667778888999:::;;;;<<<===>>>>???@@@AAAABBBCCCDDDDEEEFFFGGGGHHHIIIJJJJKKKLLLD"
-msgstr ""
-
-#. Max bytes: 151
-msgctxt "Offset_0x3B1D6_Len_151"
-msgid "   !!!!\"\"\"###$$$$%%%&&&''''((()))****+++,,,----...///0000111222333344455556667778888999:::;;;;<<<===>>>>???@@@AAAABBBCCCDDDDEEEFFFGGGGHHHIIIJJJJKKKLLLG"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x3B8F5_Len_4"
-msgid "   C"
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x39D60_Len_8"
+msgid "hironaka"
 msgstr ""
 
 #. Max bytes: 23
 msgctxt "Offset_0x4A3B4_Len_23"
 msgid " '.GT\\a]YUQMIxtuQ[vmiL."
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x4B7C8_Len_4"
-msgid " є?"
 msgstr ""
 
 #. Max bytes: 18
@@ -40,5 +26,23 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0x686A0_Len_22"
 msgid "Let me think about it."
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x68BE0_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x68C94_Len_8"
+msgid "substory"
+msgstr ""
+
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x68E6C_Len_6"
+msgid "michio"
 msgstr ""
 

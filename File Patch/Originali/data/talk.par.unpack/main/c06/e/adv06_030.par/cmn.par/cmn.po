@@ -17,3 +17,9 @@ msgctxt "Offset_0x1ADC_Len_24"
 msgid "I should get some sleep."
 msgstr ""
 
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x20D0_Len_4"
+msgid "main"
+msgstr ""
+

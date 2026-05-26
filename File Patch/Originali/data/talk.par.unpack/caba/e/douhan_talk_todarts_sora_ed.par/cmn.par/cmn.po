@@ -7,8 +7,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xB6_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xD6_Len_5"
+msgid "darts"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x12E_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x14E_Len_5"
+msgid "darts"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x2AB4_Len_5"
+msgid "kiryu"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x50DC_Len_4"
+msgid "caba"
+msgstr ""
+
 #. Max bytes: 24
 msgctxt "Offset_0x6340_Len_24"
 msgid "You grew closer to Sora."
+msgstr ""
+
+#. Max bytes: 28
+msgctxt "Offset_0x6360_Len_28"
+msgid "已和SORA變得更加親密"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x6480_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x64A0_Len_5"
+msgid "darts"
 msgstr ""
 

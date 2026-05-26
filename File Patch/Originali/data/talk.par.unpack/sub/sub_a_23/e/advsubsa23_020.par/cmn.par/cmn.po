@@ -12,13 +12,18 @@ msgctxt "Offset_0x47990_Len_8"
 msgid "B V<qAM="
 msgstr ""
 
-#. Max bytes: 5
-msgctxt "Offset_0x81823_Len_5"
-msgid "< Ma;"
+#. Max bytes: 6
+msgctxt "Offset_0x7F152_Len_6"
+msgid "IE\n'TE"
 msgstr ""
 
 #. Max bytes: 251
 msgctxt "Offset_0xBF850_Len_251"
 msgid "The way to a cat's heart is through its stomach, so bring\r\nit some food! Once a cat has reached max affection, someone\r\nfrom the café will come to pick it up.\n\nBuy food at conveniences stores or the café\nand get out there to make some furry friends!"
+msgstr ""
+
+#. Max bytes: 268
+msgctxt "Offset_0xBF950_Len_268"
+msgid "餵貓吃飼料可以提昇親密度。\n當親密度達到MAX時，貓便會出現在貓咪咖啡廳內。\n\n在便利商店和貓咪咖啡廳中都有出售用來作為飼料的貓食罐頭。\n和街頭的貓拉近距離，讓貓咪咖啡廳中住滿這些嬌客吧！"
 msgstr ""
 

@@ -12,18 +12,32 @@ msgctxt "Offset_0x46DC_Len_4"
 msgid "Ze ?"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0x85BEC_Len_4"
-msgid "	d <"
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x228F7_Len_6"
+msgid "?okada"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0x8905C_Len_4"
-msgid "1 j="
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x413A0_Len_5"
+msgid "okada"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0x9FA40_Len_4"
-msgid "O( :"
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x5CFB0_Len_5"
+msgid "komei"
+msgstr ""
+
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x818EC_Len_8"
+msgid "katsuage"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0xBDE24_Len_2"
+msgid "Oh"
 msgstr ""
 

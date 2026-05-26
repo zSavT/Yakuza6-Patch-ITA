@@ -17,3 +17,15 @@ msgctxt "Offset_0x7B0_Len_34"
 msgid "Let's save it for some other time."
 msgstr ""
 
+#. Max bytes: 8
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xE60_Len_8"
+msgid "minigame"
+msgstr ""
+
+#. Max bytes: 5
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xE80_Len_5"
+msgid "darts"
+msgstr ""
+

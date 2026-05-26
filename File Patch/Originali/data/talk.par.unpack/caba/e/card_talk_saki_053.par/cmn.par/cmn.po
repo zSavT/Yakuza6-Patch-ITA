@@ -22,3 +22,8 @@ msgctxt "Offset_0xDE2C_Len_18"
 msgid "When I'm with you."
 msgstr ""
 
+#. Max bytes: 20
+msgctxt "Offset_0xE1FC_Len_20"
+msgid "唱卡拉OK的時候"
+msgstr ""
+

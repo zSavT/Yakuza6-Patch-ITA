@@ -7,38 +7,76 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x811A_Len_6"
-msgid " A\nף<"
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xA1F4_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0xC3D4_Len_7"
+msgid "Oneshot"
 msgstr ""
 
 #. Max bytes: 4
-msgctxt "Offset_0xD11C_Len_4"
-msgid " ^ؿ"
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0xD694_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x10634_Len_7"
+msgid "Oneshot"
 msgstr ""
 
 #. Max bytes: 4
-msgctxt "Offset_0xD2B4_Len_4"
-msgid "?W ="
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0x13A2E_Len_6"
-msgid " >ףp?"
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0x18A7A_Len_6"
-msgid "I@- +="
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x10B34_Len_4"
+msgid "loop"
 msgstr ""
 
 #. Max bytes: 4
-msgctxt "Offset_0x1C64C_Len_4"
-msgid "~ H="
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1844C_Len_4"
+msgid "loop"
 msgstr ""
 
-#. Max bytes: 36
-msgctxt "Offset_0x22B2D_Len_36"
-msgid "  !\"#$%&'()*,-.0134689;=?ACEGIKMPRUm"
+#. Max bytes: 7
+msgctxt "Offset_0x192AC_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x19F2C_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x1C5EC_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1DDFC_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x1DEEC_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 4
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x1E4DC_Len_4"
+msgid "loop"
+msgstr ""
+
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x248A8_Len_6"
+msgid "player"
 msgstr ""
 
