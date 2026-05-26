@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 6
+#. WARNING: Might be a system string/identifier (do not translate).
+msgctxt "Offset_0x3D54_Len_6"
+msgid "player"
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0xA6B8_Len_10"
+msgid "Stay back!"
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0xA758_Len_16"
+msgid "Quit it already!"
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0xA808_Len_10"
+msgid "Stay back!"
+msgstr ""
+
+#. Max bytes: 16
+msgctxt "Offset_0xA8A8_Len_16"
+msgid "Quit it already!"
+msgstr ""
+
