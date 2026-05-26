@@ -30,10 +30,10 @@ msgstr "Butti una moneta nella cassa?"
 #. Max bytes: 3
 msgctxt "Offset_0xB6C_Len_3"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #. Max bytes: 2
 msgctxt "Offset_0xBAC_Len_2"
 msgid "No"
-msgstr ""
+msgstr "No"
 

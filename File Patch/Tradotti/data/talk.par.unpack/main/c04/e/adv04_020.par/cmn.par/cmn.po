@@ -15,7 +15,7 @@ msgstr ""
 #. Max bytes: 7
 msgctxt "Offset_0x29D9D_Len_7"
 msgid "c >TÏ>"
-msgstr ""
+msgstr "c >TÏ>"
 
 #. Max bytes: 7
 msgctxt "Offset_0x2CFB0_Len_7"
@@ -40,10 +40,10 @@ msgstr ""
 #. Max bytes: 2
 msgctxt "Offset_0x6EB3C_Len_2"
 msgid "Eh"
-msgstr ""
+msgstr "Eh"
 
 #. Max bytes: 2
 msgctxt "Offset_0x6EB3F_Len_2"
 msgid "Uh"
-msgstr ""
+msgstr "Uh"
 

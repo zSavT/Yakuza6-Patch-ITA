@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 19
 msgctxt "Offset_0x16D34_Len_19"
 msgid "(Blue... Tooth...?)"
-msgstr ""
+msgstr "(Blue... Tooth...?)"
 
 #. Max bytes: 8
 msgctxt "Offset_0x45668_Len_8"
 msgid "qJd>5L >"
-msgstr ""
+msgstr "qJd>5L >"
 
 #. Max bytes: 5
 msgctxt "Offset_0x45867_Len_5"
 msgid "=DA <"
-msgstr ""
+msgstr "=DA <"
 

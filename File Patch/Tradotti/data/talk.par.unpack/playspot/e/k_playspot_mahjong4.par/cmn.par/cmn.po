@@ -20,7 +20,7 @@ msgstr "Punti bonus aggiuntivi"
 #. Max bytes: 6
 msgctxt "Offset_0x9A64_Len_6"
 msgid "Cancel"
-msgstr ""
+msgstr "Chiudi"
 
 #. Max bytes: 31
 msgctxt "Offset_0x9F64_Len_31"
@@ -30,10 +30,10 @@ msgstr "Entri in Battle Royale Moderna?"
 #. Max bytes: 3
 msgctxt "Offset_0xA064_Len_3"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #. Max bytes: 2
 msgctxt "Offset_0xA0A4_Len_2"
 msgid "No"
-msgstr ""
+msgstr "No"
 

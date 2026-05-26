@@ -10,12 +10,12 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x11EAA_Len_6"
 msgid "i=*l <"
-msgstr ""
+msgstr "i=*l <"
 
 #. Max bytes: 22
 msgctxt "Offset_0x2C895_Len_22"
 msgid "*<DFjsnid^YTOID?:4/*% "
-msgstr ""
+msgstr "*<DFjsnid^YTOID?:4/*% "
 
 #. Max bytes: 427
 msgctxt "Offset_0x44118_Len_427"

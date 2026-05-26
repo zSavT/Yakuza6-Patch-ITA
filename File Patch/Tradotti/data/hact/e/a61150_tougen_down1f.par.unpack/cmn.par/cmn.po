@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x59D8_Len_6"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 #. Max bytes: 7
 msgctxt "Offset_0x5A78_Len_7"
 msgid "Someya!"
-msgstr ""
+msgstr "Someya!"
 
 #. Max bytes: 15
 msgctxt "Offset_0x5B18_Len_15"
 msgid "Give it a rest."
-msgstr ""
+msgstr "Basta così."
 

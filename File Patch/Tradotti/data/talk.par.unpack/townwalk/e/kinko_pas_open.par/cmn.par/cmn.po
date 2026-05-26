@@ -15,12 +15,12 @@ msgstr "Riprova?"
 #. Max bytes: 3
 msgctxt "Offset_0x20AC_Len_3"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #. Max bytes: 2
 msgctxt "Offset_0x20EC_Len_2"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. Max bytes: 24
 msgctxt "Offset_0x263C_Len_24"

@@ -35,5 +35,5 @@ msgstr "Leggi le regole"
 #. Max bytes: 6
 msgctxt "Offset_0xA10_Len_6"
 msgid "Cancel"
-msgstr ""
+msgstr "Chiudi"
 

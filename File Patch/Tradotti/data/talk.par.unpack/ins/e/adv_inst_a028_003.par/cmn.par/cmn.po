@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 12
 msgctxt "Offset_0x2334_Len_12"
 msgid "I'm sorry..."
-msgstr ""
+msgstr "Scusa..."
 
 #. Max bytes: 50
 msgctxt "Offset_0x23E4_Len_50"
 msgid "Stay on the straight and narrow from now on, okay?"
-msgstr ""
+msgstr "Rigando dritto d'ora in poi, va bene?"
 
 #. Max bytes: 17
 msgctxt "Offset_0x24D4_Len_17"
 msgid "I'm really sorry."
-msgstr ""
+msgstr "Mi spiace molto."
 

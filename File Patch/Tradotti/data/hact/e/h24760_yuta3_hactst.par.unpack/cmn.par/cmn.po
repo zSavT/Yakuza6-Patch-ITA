@@ -10,20 +10,20 @@ msgstr ""
 #. Max bytes: 10
 msgctxt "Offset_0xA6B8_Len_10"
 msgid "Stay back!"
-msgstr ""
+msgstr "Indietro!"
 
 #. Max bytes: 16
 msgctxt "Offset_0xA758_Len_16"
 msgid "Quit it already!"
-msgstr ""
+msgstr "Smettila subito!"
 
 #. Max bytes: 10
 msgctxt "Offset_0xA808_Len_10"
 msgid "Stay back!"
-msgstr ""
+msgstr "Indietro!"
 
 #. Max bytes: 16
 msgctxt "Offset_0xA8A8_Len_16"
 msgid "Quit it already!"
-msgstr ""
+msgstr "Smettila subito!"
 

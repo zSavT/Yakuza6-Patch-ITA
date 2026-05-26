@@ -10,40 +10,40 @@ msgstr ""
 #. Max bytes: 5
 msgctxt "Offset_0x6F50_Len_5"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 #. Max bytes: 8
 msgctxt "Offset_0x7E18_Len_8"
 msgid "Tagasira"
-msgstr ""
+msgstr "Tagasira"
 
 #. Max bytes: 8
 msgctxt "Offset_0x86CC_Len_8"
 msgid "Matunaga"
-msgstr ""
+msgstr "Matunaga"
 
 #. Max bytes: 4
 msgctxt "Offset_0x97D4_Len_4"
 msgid "Yuta"
-msgstr ""
+msgstr "Yuta"
 
 #. Max bytes: 6
 msgctxt "Offset_0x9F5C_Len_6"
 msgid "Nagumo"
-msgstr ""
+msgstr "Nagumo"
 
 #. Max bytes: 32
 msgctxt "Offset_0xA998_Len_32"
 msgid "Leave this t'us and find Someya!"
-msgstr ""
+msgstr "Lascia fare a noi, trova Someya!"
 
 #. Max bytes: 6
 msgctxt "Offset_0xAA58_Len_6"
 msgid "Aniki!"
-msgstr ""
+msgstr "Aniki!"
 
 #. Max bytes: 16
 msgctxt "Offset_0xAAF8_Len_16"
 msgid "You've got this."
-msgstr ""
+msgstr "Ce la farai!"
 

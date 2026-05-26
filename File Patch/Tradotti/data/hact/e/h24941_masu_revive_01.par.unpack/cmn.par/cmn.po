@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0x26A4_Len_22"
 msgid "The hell're ya doin'!?"
-msgstr ""
+msgstr "Che diavolo fai!?"
 
 #. Max bytes: 17
 msgctxt "Offset_0x2754_Len_17"
 msgid "Get yer asses up!"
-msgstr ""
+msgstr "In piedi!"
 
 #. Max bytes: 13
 msgctxt "Offset_0x2804_Len_13"
 msgid "I'll kill ya!"
-msgstr ""
+msgstr "Ti ammazzo!"
 

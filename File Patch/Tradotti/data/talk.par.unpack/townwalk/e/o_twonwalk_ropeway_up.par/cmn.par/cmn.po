@@ -15,5 +15,5 @@ msgstr "Compra solo andata"
 #. Max bytes: 6
 msgctxt "Offset_0x39E8_Len_6"
 msgid "Cancel"
-msgstr ""
+msgstr "Chiudi"
 

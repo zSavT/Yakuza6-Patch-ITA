@@ -65,10 +65,10 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x860F0_Len_6"
 msgid "Assets"
-msgstr ""
+msgstr "Beni"
 
 #. Max bytes: 6
 msgctxt "Offset_0x865A0_Len_6"
 msgid "Assets"
-msgstr ""
+msgstr "Beni"
 

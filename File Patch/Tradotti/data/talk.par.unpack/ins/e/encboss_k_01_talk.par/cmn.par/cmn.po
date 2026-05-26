@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 5
 msgctxt "Offset_0x6708_Len_5"
 msgid "Fight"
-msgstr ""
+msgstr "Lotta"
 
 #. Max bytes: 7
 msgctxt "Offset_0x6748_Len_7"
 msgid "Decline"
-msgstr ""
+msgstr "Rifiuta"
 

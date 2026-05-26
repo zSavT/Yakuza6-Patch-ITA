@@ -25,7 +25,7 @@ msgstr "Karaoke, vero?"
 #. Max bytes: 10
 msgctxt "Offset_0x22320_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 17
 msgctxt "Offset_0x22360_Len_17"
@@ -100,7 +100,7 @@ msgstr "È troppo hi-tech per me."
 #. Max bytes: 10
 msgctxt "Offset_0x23210_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 15
 msgctxt "Offset_0x23250_Len_15"
@@ -190,7 +190,7 @@ msgstr "Ha pure un telecomando con uno schermo..."
 #. Max bytes: 4
 msgctxt "Offset_0x24680_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 8
 msgctxt "Offset_0x246C0_Len_8"
@@ -225,7 +225,7 @@ msgstr "Sì, ma..."
 #. Max bytes: 10
 msgctxt "Offset_0x24C00_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 14
 msgctxt "Offset_0x24C40_Len_14"
@@ -320,7 +320,7 @@ msgstr "Mi sto ancora abituando al mio cordless..."
 #. Max bytes: 10
 msgctxt "Offset_0x26B80_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 17
 msgctxt "Offset_0x26BC0_Len_17"
@@ -365,7 +365,7 @@ msgstr "Ah, alla fine c'entrano i soldi."
 #. Max bytes: 4
 msgctxt "Offset_0x27800_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 12
 msgctxt "Offset_0x27840_Len_12"
@@ -400,7 +400,7 @@ msgstr "Chiediamo solo che i robot si ribellino, sai."
 #. Max bytes: 4
 msgctxt "Offset_0x28020_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 11
 msgctxt "Offset_0x28060_Len_11"
@@ -450,7 +450,7 @@ msgstr "Gli aerei sono comodi."
 #. Max bytes: 7
 msgctxt "Offset_0x28850_Len_7"
 msgid "Yeah..."
-msgstr ""
+msgstr "Sì..."
 
 #. Max bytes: 41
 msgctxt "Offset_0x28A60_Len_41"
@@ -485,7 +485,7 @@ msgstr "Ma ti sei aggiornata, giusto? Ti ci sei abituata?"
 #. Max bytes: 10
 msgctxt "Offset_0x29900_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 19
 msgctxt "Offset_0x29940_Len_19"
@@ -525,7 +525,7 @@ msgstr "Non il grado del bar! Quello nazionale!"
 #. Max bytes: 9
 msgctxt "Offset_0x2A2D0_Len_9"
 msgid "National?"
-msgstr ""
+msgstr "Naz.le?"
 
 #. Max bytes: 63
 msgctxt "Offset_0x2A3F0_Len_63"
@@ -540,7 +540,7 @@ msgstr "Il bar sarà piccolo, ma sfido chiunque!"
 #. Max bytes: 4
 msgctxt "Offset_0x2A940_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 13
 msgctxt "Offset_0x2A980_Len_13"
@@ -590,7 +590,7 @@ msgstr "Perché non l'hai detto?"
 #. Max bytes: 4
 msgctxt "Offset_0x2B6E0_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 12
 msgctxt "Offset_0x2B720_Len_12"
@@ -705,7 +705,7 @@ msgstr "Spieghiamotelo e sfidiamo il paese con \"Today is a Diamond\"!"
 #. Max bytes: 5
 msgctxt "Offset_0x2DFE0_Len_5"
 msgid "Yeah!"
-msgstr ""
+msgstr "Sì!"
 
 #. Max bytes: 46
 msgctxt "Offset_0x2E100_Len_46"
@@ -735,7 +735,7 @@ msgstr "Ma ci proverò quando sarò dell'umore."
 #. Max bytes: 9
 msgctxt "Offset_0x2EBB0_Len_9"
 msgid "Thanks..."
-msgstr ""
+msgstr "Grazie..."
 
 #. Max bytes: 33
 msgctxt "Offset_0x2ECD0_Len_33"

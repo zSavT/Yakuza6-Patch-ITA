@@ -45,5 +45,5 @@ msgstr "Sui clienti"
 #. Max bytes: 10
 msgctxt "Offset_0x1E18_Len_10"
 msgid "Reputation"
-msgstr ""
+msgstr "Reputaz."
 

@@ -15,12 +15,12 @@ msgstr "Vuoi giocare a freccette?"
 #. Max bytes: 3
 msgctxt "Offset_0x84C_Len_3"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #. Max bytes: 2
 msgctxt "Offset_0x88C_Len_2"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. Max bytes: 10
 msgctxt "Offset_0xECC_Len_10"
@@ -40,7 +40,7 @@ msgstr "Con Ando-san"
 #. Max bytes: 4
 msgctxt "Offset_0xF8C_Len_4"
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 
 #. Max bytes: 10
 msgctxt "Offset_0x154C_Len_10"
@@ -55,7 +55,7 @@ msgstr "Con Mama"
 #. Max bytes: 4
 msgctxt "Offset_0x15CC_Len_4"
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 
 #. Max bytes: 54
 msgctxt "Offset_0x1CFC_Len_54"

@@ -10,25 +10,25 @@ msgstr ""
 #. Max bytes: 13
 msgctxt "Offset_0x388_Len_13"
 msgid "(Here it is!)"
-msgstr ""
+msgstr "(Eccolo qui!)"
 
 #. Max bytes: 26
 msgctxt "Offset_0x458_Len_26"
 msgid "(Which wire should I cut?)"
-msgstr ""
+msgstr "(Che cavo taglio?)"
 
 #. Max bytes: 16
 msgctxt "Offset_0x608_Len_16"
 msgid "Cut the Red Wire"
-msgstr ""
+msgstr "Taglia il rosso"
 
 #. Max bytes: 18
 msgctxt "Offset_0x648_Len_18"
 msgid "Cut the Green Wire"
-msgstr ""
+msgstr "Taglia cavo verde"
 
 #. Max bytes: 20
 msgctxt "Offset_0x688_Len_20"
 msgid "Don't Cut Either Yet"
-msgstr ""
+msgstr "Non tagliare ancora"
 

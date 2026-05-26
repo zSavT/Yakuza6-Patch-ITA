@@ -10,25 +10,25 @@ msgstr ""
 #. Max bytes: 61
 msgctxt "Offset_0x2E0_Len_61"
 msgid "I love this place.\nI come here a lot when I want to be alone."
-msgstr ""
+msgstr "Amo questo posto.\nCi vengo spesso quando voglio stare sola."
 
 #. Max bytes: 82
 msgctxt "Offset_0x490_Len_82"
 msgid "But I always figured that when I found someone\nto love... that I'd bring him here."
-msgstr ""
+msgstr "Ma ho sempre pensato che se avessi trovato\nl'amore... lo avrei portato qui."
 
 #. Max bytes: 34
 msgctxt "Offset_0x680_Len_34"
 msgid "...Kiryu-san, thank you for today."
-msgstr ""
+msgstr "...Kiryu-san, grazie per oggi."
 
 #. Max bytes: 39
 msgctxt "Offset_0x800_Len_39"
 msgid "Um... Can I ask you to close your eyes?"
-msgstr ""
+msgstr "Ehm... Puoi chiudere gli occhi?"
 
 #. Max bytes: 31
 msgctxt "Offset_0xA10_Len_31"
 msgid "Don't ever leave my side, okay?"
-msgstr ""
+msgstr "Non lasciarmi mai, d'accordo?"
 

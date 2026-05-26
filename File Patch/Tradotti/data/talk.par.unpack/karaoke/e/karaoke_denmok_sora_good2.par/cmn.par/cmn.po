@@ -10,7 +10,7 @@ msgstr ""
 #. Max bytes: 4
 msgctxt "Offset_0x6840_Len_4"
 msgid "SORA"
-msgstr ""
+msgstr "Sora"
 
 #. Max bytes: 29
 msgctxt "Offset_0xA834_Len_29"

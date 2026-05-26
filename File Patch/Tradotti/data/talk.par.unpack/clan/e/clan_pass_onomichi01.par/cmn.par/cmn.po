@@ -60,12 +60,12 @@ msgstr "Codice clan non riconosciuto. Riprovare?"
 #. Max bytes: 3
 msgctxt "Offset_0xC98_Len_3"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #. Max bytes: 2
 msgctxt "Offset_0xCD8_Len_2"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. Max bytes: 18
 msgctxt "Offset_0x17B0_Len_18"
@@ -75,10 +75,10 @@ msgstr "Usa codice clan?"
 #. Max bytes: 3
 msgctxt "Offset_0x18B0_Len_3"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #. Max bytes: 2
 msgctxt "Offset_0x18F0_Len_2"
 msgid "No"
-msgstr ""
+msgstr "No"
 

@@ -10,17 +10,17 @@ msgstr ""
 #. Max bytes: 4
 msgctxt "Offset_0x41C4_Len_4"
 msgid "c n<"
-msgstr ""
+msgstr "c n<"
 
 #. Max bytes: 5
 msgctxt "Offset_0xF59B_Len_5"
 msgid "5QE ?"
-msgstr ""
+msgstr "5QE ?"
 
 #. Max bytes: 5
 msgctxt "Offset_0xF5AB_Len_5"
 msgid "5Lq ?"
-msgstr ""
+msgstr "5Lq ?"
 
 #. Max bytes: 54
 msgctxt "Offset_0x25198_Len_54"
@@ -86,7 +86,7 @@ msgstr "\"Guaio in casa.\""
 #. Max bytes: 12
 msgctxt "Offset_0x25AA8_Len_12"
 msgid "\"Kamurocho.\""
-msgstr ""
+msgstr "Kamurocho"
 
 #. Max bytes: 46
 msgctxt "Offset_0x25B68_Len_46"

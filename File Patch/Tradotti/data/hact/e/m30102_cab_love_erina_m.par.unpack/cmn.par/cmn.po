@@ -10,40 +10,40 @@ msgstr ""
 #. Max bytes: 41
 msgctxt "Offset_0x2E0_Len_41"
 msgid "Kiryu-san... Thank you so much for today."
-msgstr ""
+msgstr "Kiryu-san... Grazie mille per oggi."
 
 #. Max bytes: 55
 msgctxt "Offset_0x460_Len_55"
 msgid "It made me really happy when you said\nwe were together."
-msgstr ""
+msgstr "Mi ha reso felice sentirti dire\nche stavamo insieme."
 
 #. Max bytes: 73
 msgctxt "Offset_0x600_Len_73"
 msgid "That was the first time someone I've loved\nhas ever said that about me..."
-msgstr ""
+msgstr "È la prima volta che qualcuno che amo\ndice questo di me..."
 
 #. Max bytes: 25
 msgctxt "Offset_0x7C0_Len_25"
 msgid "My heart is still racing."
-msgstr ""
+msgstr "Ho ancora il batticuore."
 
 #. Max bytes: 66
 msgctxt "Offset_0x930_Len_66"
 msgid "The only one who was able to see the\nreal me... was you all along."
-msgstr ""
+msgstr "L'unico a vedere la mia vera natura... sei sempre stato tu."
 
 #. Max bytes: 48
 msgctxt "Offset_0xAD0_Len_48"
 msgid "Kiryu-san... I'm going to be brave today,\nand..."
-msgstr ""
+msgstr "Kiryu-san... Oggi sarò coraggiosa\ne..."
 
 #. Max bytes: 26
 msgctxt "Offset_0xD00_Len_26"
 msgid "This is so embarrassing..."
-msgstr ""
+msgstr "Che imbarazzo..."
 
 #. Max bytes: 50
 msgctxt "Offset_0xE70_Len_50"
 msgid "I would like it if you'd...\nkeep on protecting me."
-msgstr ""
+msgstr "Vorrei che tu...\ncontinuassi a proteggermi."
 

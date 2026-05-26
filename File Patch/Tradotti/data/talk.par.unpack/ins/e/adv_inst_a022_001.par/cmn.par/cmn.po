@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 54
 msgctxt "Offset_0x1C4_Len_54"
 msgid "(Wait, my wallet's gone!\nI must've been pickpocketed!)"
-msgstr ""
+msgstr "(Portafoglio sparito!\nMi avranno borseggiato!)"
 

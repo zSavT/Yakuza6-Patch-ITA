@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 80
 msgctxt "Offset_0x1C4_Len_80"
 msgid "(I can't touch it with my bare hands.\nMaybe I can destroy the source somehow...)"
-msgstr ""
+msgstr "(Non posso toccarlo a mani nude.\nForse posso distruggere la fonte...)"
 

@@ -20,5 +20,5 @@ msgstr "Fino a sera"
 #. Max bytes: 6
 msgctxt "Offset_0x450_Len_6"
 msgid "Cancel"
-msgstr ""
+msgstr "Chiudi"
 

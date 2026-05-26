@@ -30,10 +30,10 @@ msgstr "Pescare la sorte a 100 yen?"
 #. Max bytes: 3
 msgctxt "Offset_0xA20_Len_3"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #. Max bytes: 2
 msgctxt "Offset_0xA60_Len_2"
 msgid "No"
-msgstr ""
+msgstr "No"
 

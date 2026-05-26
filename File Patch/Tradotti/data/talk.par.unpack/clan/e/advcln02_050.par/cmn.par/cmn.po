@@ -15,7 +15,7 @@ msgstr "Sei pronto a farlo?"
 #. Max bytes: 4
 msgctxt "Offset_0x3348_Len_4"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 #. Max bytes: 11
 msgctxt "Offset_0x3388_Len_11"

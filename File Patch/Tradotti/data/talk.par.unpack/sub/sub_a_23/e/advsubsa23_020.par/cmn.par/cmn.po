@@ -10,17 +10,17 @@ msgstr ""
 #. Max bytes: 8
 msgctxt "Offset_0x47990_Len_8"
 msgid "B V<qAM="
-msgstr ""
+msgstr "B V<qAM="
 
 #. Max bytes: 6
 msgctxt "Offset_0x7F152_Len_6"
 msgid "IE\n'TE"
-msgstr ""
+msgstr "IE\n'TE"
 
 #. Max bytes: 5
 msgctxt "Offset_0x81823_Len_5"
 msgid "< Ma;"
-msgstr ""
+msgstr "< Ma;"
 
 #. Max bytes: 251
 msgctxt "Offset_0xBF850_Len_251"

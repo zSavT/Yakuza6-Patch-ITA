@@ -15,7 +15,7 @@ msgstr "Certo."
 #. Max bytes: 5
 msgctxt "Offset_0x12254_Len_5"
 msgid "Nope."
-msgstr ""
+msgstr "No."
 
 #. Max bytes: 29
 msgctxt "Offset_0x12294_Len_29"

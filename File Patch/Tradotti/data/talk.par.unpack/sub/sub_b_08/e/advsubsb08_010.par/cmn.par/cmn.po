@@ -10,27 +10,27 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x5BAEE_Len_6"
 msgid "EFH\\IF"
-msgstr ""
+msgstr "EFH\\IF"
 
 #. Max bytes: 6
 msgctxt "Offset_0x641A2_Len_6"
 msgid " >UdM="
-msgstr ""
+msgstr " >UdM="
 
 #. Max bytes: 9
 msgctxt "Offset_0x755FF_Len_9"
 msgid ">8OA>K @="
-msgstr ""
+msgstr ">8OA>K @="
 
 #. Max bytes: 20
 msgctxt "Offset_0x8D77F_Len_20"
 msgid "GJMPjtqile^WPIB;4-' "
-msgstr ""
+msgstr "GJMPjtqile^WPIB;4-' "
 
 #. Max bytes: 23
 msgctxt "Offset_0x8DD7C_Len_23"
 msgid "@CFJMPSwkkcZRbk^TWLA6+ "
-msgstr ""
+msgstr "@CFJMPSwkkcZRbk^TWLA6+ "
 
 #. Max bytes: 14
 msgctxt "Offset_0xDAC14_Len_14"

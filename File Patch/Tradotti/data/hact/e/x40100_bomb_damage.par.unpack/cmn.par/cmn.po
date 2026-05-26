@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 5
 msgctxt "Offset_0x15FC_Len_5"
 msgid "Crap!"
-msgstr ""
+msgstr "Acc!"
 

@@ -15,22 +15,22 @@ msgstr "Dolche uho"
 #. Max bytes: 8
 msgctxt "Offset_0x55D5FC_Len_8"
 msgid "Munancho"
-msgstr ""
+msgstr "Munancho"
 
 #. Max bytes: 10
 msgctxt "Offset_0x55D63C_Len_10"
 msgid "Hept-onast"
-msgstr ""
+msgstr "Hept-onast"
 
 #. Max bytes: 8
 msgctxt "Offset_0x55DC3C_Len_8"
 msgid "Kulipaas"
-msgstr ""
+msgstr "Kulipaas"
 
 #. Max bytes: 8
 msgctxt "Offset_0x55DC7C_Len_8"
 msgid "Kulibaaf"
-msgstr ""
+msgstr "Kulibaaf"
 
 #. Max bytes: 12
 msgctxt "Offset_0x55E2BC_Len_12"
@@ -50,12 +50,12 @@ msgstr "Munan Sato"
 #. Max bytes: 12
 msgctxt "Offset_0x55E93C_Len_12"
 msgid "Brainwashing"
-msgstr ""
+msgstr "Lavaggio"
 
 #. Max bytes: 12
 msgctxt "Offset_0x55E97C_Len_12"
 msgid "Re-education"
-msgstr ""
+msgstr "Rieducazione"
 
 #. Max bytes: 13
 msgctxt "Offset_0x55E9BC_Len_13"
@@ -75,5 +75,5 @@ msgstr "Basta la parola"
 #. Max bytes: 6
 msgctxt "Offset_0x55F23C_Len_6"
 msgid "Refuse"
-msgstr ""
+msgstr "No"
 

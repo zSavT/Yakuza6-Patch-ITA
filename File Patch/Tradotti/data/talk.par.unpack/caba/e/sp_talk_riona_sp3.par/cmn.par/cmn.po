@@ -10,7 +10,7 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x142F6_Len_6"
 msgid " AffQB"
-msgstr ""
+msgstr " AffQB"
 
 #. Max bytes: 40
 msgctxt "Offset_0x20D78_Len_40"

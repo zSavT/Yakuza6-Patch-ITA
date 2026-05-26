@@ -15,5 +15,5 @@ msgstr "Fino a notte"
 #. Max bytes: 4
 msgctxt "Offset_0x3BC_Len_4"
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 

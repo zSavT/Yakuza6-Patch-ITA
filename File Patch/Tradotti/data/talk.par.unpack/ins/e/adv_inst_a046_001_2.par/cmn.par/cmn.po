@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 5
 msgctxt "Offset_0x370_Len_5"
 msgid "Enter"
-msgstr ""
+msgstr "Entra"
 
 #. Max bytes: 11
 msgctxt "Offset_0x3B0_Len_11"
 msgid "Don't Enter"
-msgstr ""
+msgstr "Non entrare"
 
 #. Max bytes: 27
 msgctxt "Offset_0x910_Len_27"
 msgid "(All right, I should go...)"
-msgstr ""
+msgstr "(Va bene, dovrei andare...)"
 

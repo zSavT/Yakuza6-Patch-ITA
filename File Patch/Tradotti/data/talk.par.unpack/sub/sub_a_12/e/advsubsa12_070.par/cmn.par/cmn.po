@@ -10,12 +10,12 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x9B3A_Len_6"
 msgid "I@ {R="
-msgstr ""
+msgstr "I@ {R="
 
 #. Max bytes: 6
 msgctxt "Offset_0x9BBA_Len_6"
 msgid "I@ u[="
-msgstr ""
+msgstr "I@ u[="
 
 #. Max bytes: 48
 msgctxt "Offset_0x3D780_Len_48"

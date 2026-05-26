@@ -10,7 +10,7 @@ msgstr ""
 #. Max bytes: 7
 msgctxt "Offset_0x2B819_Len_7"
 msgid "PME͘QE"
-msgstr ""
+msgstr "PME͘QE"
 
 #. Max bytes: 35
 msgctxt "Offset_0x3FCF0_Len_35"
@@ -25,7 +25,7 @@ msgstr "Ai santuari? A volte, sì."
 #. Max bytes: 4
 msgctxt "Offset_0x40130_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 11
 msgctxt "Offset_0x40170_Len_11"
@@ -65,7 +65,7 @@ msgstr "Che idiota."
 #. Max bytes: 4
 msgctxt "Offset_0x40B00_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 13
 msgctxt "Offset_0x40B40_Len_13"
@@ -95,12 +95,12 @@ msgstr "Non proprio, ma ho visto una cosa ben strana."
 #. Max bytes: 8
 msgctxt "Offset_0x41020_Len_8"
 msgid "Strange?"
-msgstr ""
+msgstr "Strano?"
 
 #. Max bytes: 8
 msgctxt "Offset_0x41200_Len_8"
 msgid "Akiyoshi"
-msgstr ""
+msgstr "Akiyoshi"
 
 #. Max bytes: 6
 msgctxt "Offset_0x41240_Len_6"
@@ -200,7 +200,7 @@ msgstr "Hai detto che era strano."
 #. Max bytes: 8
 msgctxt "Offset_0x42D80_Len_8"
 msgid "Akiyoshi"
-msgstr ""
+msgstr "Akiyoshi"
 
 #. Max bytes: 20
 msgctxt "Offset_0x42DC0_Len_20"
@@ -230,7 +230,7 @@ msgstr "Non paragonarmi alla tua infanzia! Uff."
 #. Max bytes: 4
 msgctxt "Offset_0x432F0_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 17
 msgctxt "Offset_0x43330_Len_17"
@@ -310,22 +310,22 @@ msgstr "Un pugile, eh? Dovevi badare al peso e cose così?"
 #. Max bytes: 6
 msgctxt "Offset_0x44AA0_Len_6"
 msgid "Kaneko"
-msgstr ""
+msgstr "Kaneko"
 
 #. Max bytes: 5
 msgctxt "Offset_0x44AE0_Len_5"
 msgid "Whoa."
-msgstr ""
+msgstr "Whoa."
 
 #. Max bytes: 6
 msgctxt "Offset_0x44B00_Len_6"
 msgid "Weird."
-msgstr ""
+msgstr "Buffo."
 
 #. Max bytes: 4
 msgctxt "Offset_0x44B20_Len_4"
 msgid "Why?"
-msgstr ""
+msgstr "Why?"
 
 #. Max bytes: 64
 msgctxt "Offset_0x44B40_Len_64"
@@ -340,12 +340,12 @@ msgstr "Wow, che duro."
 #. Max bytes: 4
 msgctxt "Offset_0x44FB0_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 9
 msgctxt "Offset_0x44FF0_Len_9"
 msgid "Probably."
-msgstr ""
+msgstr "Forse."
 
 #. Max bytes: 14
 msgctxt "Offset_0x45010_Len_14"
@@ -375,7 +375,7 @@ msgstr "Dopo un match, lo stomaco rifiuta il cibo, non potevo mangiare subito."
 #. Max bytes: 8
 msgctxt "Offset_0x45760_Len_8"
 msgid "Akiyoshi"
-msgstr ""
+msgstr "Akiyoshi"
 
 #. Max bytes: 19
 msgctxt "Offset_0x457A0_Len_19"
@@ -495,7 +495,7 @@ msgstr "S-Scusa, mi ero appisolato."
 #. Max bytes: 8
 msgctxt "Offset_0x47AC0_Len_8"
 msgid "Akiyoshi"
-msgstr ""
+msgstr "Akiyoshi"
 
 #. Max bytes: 23
 msgctxt "Offset_0x47B00_Len_23"
@@ -645,7 +645,7 @@ msgstr "Zitti! Ora basta!"
 #. Max bytes: 6
 msgctxt "Offset_0x4AA80_Len_6"
 msgid "Hahah!"
-msgstr ""
+msgstr "Hahah!"
 
 #. Max bytes: 16
 msgctxt "Offset_0x4AC90_Len_16"

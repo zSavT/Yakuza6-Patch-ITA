@@ -162,7 +162,7 @@ msgstr ""
 #. Max bytes: 20
 msgctxt "Offset_0x4ED73_Len_20"
 msgid " #&)+.147:=@CFHKNQTR"
-msgstr ""
+msgstr " #&)+.147:=@CFHKNQTR"
 
 #. Max bytes: 18
 msgctxt "Offset_0x6A080_Len_18"
@@ -177,7 +177,7 @@ msgstr "Sembra Haruto."
 #. Max bytes: 19
 msgctxt "Offset_0x6A100_Len_19"
 msgid "Sounds like Taichi."
-msgstr ""
+msgstr "Sembra Taichi."
 
 #. Max bytes: 19
 msgctxt "Offset_0x6A700_Len_19"
@@ -187,7 +187,7 @@ msgstr "Sembra Haruto."
 #. Max bytes: 19
 msgctxt "Offset_0x6A740_Len_19"
 msgid "Sounds like Taichi."
-msgstr ""
+msgstr "Sembra Taichi."
 
 #. Max bytes: 18
 msgctxt "Offset_0x6AD80_Len_18"
@@ -197,12 +197,12 @@ msgstr "Sembra Daigo."
 #. Max bytes: 19
 msgctxt "Offset_0x6ADC0_Len_19"
 msgid "Sounds like Taichi."
-msgstr ""
+msgstr "Sembra Taichi."
 
 #. Max bytes: 19
 msgctxt "Offset_0x6B400_Len_19"
 msgid "Sounds like Taichi."
-msgstr ""
+msgstr "Sembra Taichi."
 
 #. Max bytes: 30
 msgctxt "Offset_0x6BA80_Len_30"
@@ -247,5 +247,5 @@ msgstr "È di sicuro una truffa!"
 #. Max bytes: 8
 msgctxt "Offset_0x6CE80_Len_8"
 msgid "Mensore!"
-msgstr ""
+msgstr "Mensore!"
 

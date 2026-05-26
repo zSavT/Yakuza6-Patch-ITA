@@ -35,5 +35,5 @@ msgstr "Un giorno."
 #. Max bytes: 5
 msgctxt "Offset_0x52333_Len_5"
 msgid "F=R F"
-msgstr ""
+msgstr "F=R F"
 

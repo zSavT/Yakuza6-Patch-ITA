@@ -10,67 +10,67 @@ msgstr ""
 #. Max bytes: 4
 msgctxt "Offset_0x195_Len_4"
 msgid "TUFq"
-msgstr ""
+msgstr "TUFq"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3DEAC_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3E30C_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3E76C_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3EBCC_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3F02C_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3F48C_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3F8EC_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3FD4C_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 4
 msgctxt "Offset_0x401AC_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 4
 msgctxt "Offset_0x4060C_Len_4"
 msgid "k M?"
-msgstr ""
+msgstr "k M?"
 
 #. Max bytes: 6
 msgctxt "Offset_0xB737A_Len_6"
 msgid "EF׀FF"
-msgstr ""
+msgstr "EF׀FF"
 
 #. Max bytes: 6
 msgctxt "Offset_0xD1616_Len_6"
 msgid " ?UUU?"
-msgstr ""
+msgstr " ?UUU?"
 
 #. Max bytes: 27
 msgctxt "Offset_0x11A6F0_Len_27"

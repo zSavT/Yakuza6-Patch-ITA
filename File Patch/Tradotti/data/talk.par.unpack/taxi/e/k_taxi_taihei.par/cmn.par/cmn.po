@@ -10,17 +10,17 @@ msgstr ""
 #. Max bytes: 4
 msgctxt "Offset_0x818_Len_4"
 msgid " YV="
-msgstr ""
+msgstr " YV="
 
 #. Max bytes: 4
 msgctxt "Offset_0x840_Len_4"
 msgid " YV="
-msgstr ""
+msgstr " YV="
 
 #. Max bytes: 20
 msgctxt "Offset_0x6FEC_Len_20"
 msgid "Depart for Onomichi?"
-msgstr ""
+msgstr "Parti per Onomichi?"
 
 #. Max bytes: 8
 msgctxt "Offset_0x712C_Len_8"

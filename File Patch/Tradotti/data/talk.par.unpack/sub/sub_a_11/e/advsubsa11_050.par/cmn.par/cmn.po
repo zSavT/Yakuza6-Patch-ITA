@@ -10,27 +10,27 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x9655E_Len_6"
 msgid "[>XA >"
-msgstr ""
+msgstr "[>XA >"
 
 #. Max bytes: 6
 msgctxt "Offset_0xB0F32_Len_6"
 msgid "I?u *>"
-msgstr ""
+msgstr "I?u *>"
 
 #. Max bytes: 6
 msgctxt "Offset_0xB0F42_Len_6"
 msgid "I?u 5>"
-msgstr ""
+msgstr "I?u 5>"
 
 #. Max bytes: 6
 msgctxt "Offset_0xB1C72_Len_6"
 msgid "I?u *>"
-msgstr ""
+msgstr "I?u *>"
 
 #. Max bytes: 6
 msgctxt "Offset_0xB1C82_Len_6"
 msgid "I?u 5>"
-msgstr ""
+msgstr "I?u 5>"
 
 #. Max bytes: 24
 msgctxt "Offset_0xDBD10_Len_24"

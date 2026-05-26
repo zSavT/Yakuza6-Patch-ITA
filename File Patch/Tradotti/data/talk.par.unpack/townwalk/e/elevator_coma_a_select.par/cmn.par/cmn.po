@@ -10,7 +10,7 @@ msgstr ""
 #. Max bytes: 7
 msgctxt "Offset_0x968_Len_7"
 msgid "Rooftop"
-msgstr ""
+msgstr "Tetto"
 
 #. Max bytes: 9
 msgctxt "Offset_0x9A8_Len_9"
@@ -20,5 +20,5 @@ msgstr "Piano 1"
 #. Max bytes: 8
 msgctxt "Offset_0x9E8_Len_8"
 msgid "Basement"
-msgstr ""
+msgstr "Sotterr."
 

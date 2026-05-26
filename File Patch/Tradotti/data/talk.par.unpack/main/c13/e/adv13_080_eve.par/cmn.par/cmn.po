@@ -25,5 +25,5 @@ msgstr "Vai a Kamurocho"
 #. Max bytes: 6
 msgctxt "Offset_0x251C_Len_6"
 msgid "Cancel"
-msgstr ""
+msgstr "Chiudi"
 

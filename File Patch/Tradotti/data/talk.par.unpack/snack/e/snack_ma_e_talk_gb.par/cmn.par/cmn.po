@@ -30,7 +30,7 @@ msgstr "Eh? Di che si tratta?"
 #. Max bytes: 4
 msgctxt "Offset_0x391F8_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 8
 msgctxt "Offset_0x39238_Len_8"
@@ -65,7 +65,7 @@ msgstr "Vero? Mi immaginavo sempre sotto i riflettori."
 #. Max bytes: 4
 msgctxt "Offset_0x39B78_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 15
 msgctxt "Offset_0x39BB8_Len_15"
@@ -110,7 +110,7 @@ msgstr "Ma avevo paura delle audizioni. Sono timida."
 #. Max bytes: 10
 msgctxt "Offset_0x3A808_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 22
 msgctxt "Offset_0x3A848_Len_22"
@@ -120,7 +120,7 @@ msgstr "Perché diciamo eh?"
 #. Max bytes: 13
 msgctxt "Offset_0x3A878_Len_13"
 msgid "Unacceptable."
-msgstr ""
+msgstr "Inaccettabile"
 
 #. Max bytes: 48
 msgctxt "Offset_0x3AC38_Len_48"
@@ -130,17 +130,17 @@ msgstr "Che? Vi siete accordati per rispondere così?"
 #. Max bytes: 10
 msgctxt "Offset_0x3AE68_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 8
 msgctxt "Offset_0x3AEA8_Len_8"
 msgid "Totally."
-msgstr ""
+msgstr "Esatto."
 
 #. Max bytes: 5
 msgctxt "Offset_0x3AED8_Len_5"
 msgid "Liar!"
-msgstr ""
+msgstr "Liar!"
 
 #. Max bytes: 20
 msgctxt "Offset_0x3AEF8_Len_20"
@@ -235,7 +235,7 @@ msgstr "Così ero curioso della tua infanzia."
 #. Max bytes: 10
 msgctxt "Offset_0x3CE18_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 13
 msgctxt "Offset_0x3CE58_Len_13"
@@ -275,7 +275,7 @@ msgstr "No, manca ancora un po'."
 #. Max bytes: 8
 msgctxt "Offset_0x3D678_Len_8"
 msgid "Akiyoshi"
-msgstr ""
+msgstr "Akiyoshi"
 
 #. Max bytes: 16
 msgctxt "Offset_0x3D6B8_Len_16"
@@ -305,7 +305,7 @@ msgstr "Non voglio vedere invecchiata una persona che ammiravo..."
 #. Max bytes: 4
 msgctxt "Offset_0x3D9D8_Len_4"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 #. Max bytes: 12
 msgctxt "Offset_0x3DA18_Len_12"
@@ -335,7 +335,7 @@ msgstr "Già, sei invecchiato altrettanto, sai."
 #. Max bytes: 8
 msgctxt "Offset_0x3DEA8_Len_8"
 msgid "Akiyoshi"
-msgstr ""
+msgstr "Akiyoshi"
 
 #. Max bytes: 13
 msgctxt "Offset_0x3DEE8_Len_13"
@@ -375,7 +375,7 @@ msgstr "Tranne lo \"stranamente\"."
 #. Max bytes: 10
 msgctxt "Offset_0x3E498_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 20
 msgctxt "Offset_0x3E4D8_Len_20"
@@ -415,7 +415,7 @@ msgstr "Che cavolo stai dicendo?"
 #. Max bytes: 10
 msgctxt "Offset_0x3EBC8_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 11
 msgctxt "Offset_0x3EC08_Len_11"
@@ -450,7 +450,7 @@ msgstr "Cerchi di consolarti, Mama?"
 #. Max bytes: 8
 msgctxt "Offset_0x3F6A8_Len_8"
 msgid "Akiyoshi"
-msgstr ""
+msgstr "Akiyoshi"
 
 #. Max bytes: 23
 msgctxt "Offset_0x3F6E8_Len_23"
@@ -465,7 +465,7 @@ msgstr "Perché sei immortale?"
 #. Max bytes: 8
 msgctxt "Offset_0x3F748_Len_8"
 msgid "Explain."
-msgstr ""
+msgstr "Spiega."
 
 #. Max bytes: 45
 msgctxt "Offset_0x3F768_Len_45"
@@ -535,7 +535,7 @@ msgstr "Dovresti proprio ascoltarlo."
 #. Max bytes: 10
 msgctxt "Offset_0x41268_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 10
 msgctxt "Offset_0x412A8_Len_10"
@@ -545,7 +545,7 @@ msgstr "Davvero?"
 #. Max bytes: 6
 msgctxt "Offset_0x412C8_Len_6"
 msgid "Yikes."
-msgstr ""
+msgstr "Yikes."
 
 #. Max bytes: 21
 msgctxt "Offset_0x412E8_Len_21"
@@ -590,7 +590,7 @@ msgstr "Dice che l'età non conta!"
 #. Max bytes: 10
 msgctxt "Offset_0x41F48_Len_10"
 msgid "Hatakeyama"
-msgstr ""
+msgstr "Hatakeyama"
 
 #. Max bytes: 19
 msgctxt "Offset_0x41F88_Len_19"
@@ -625,12 +625,12 @@ msgstr "Volete solo una scusa per bere!"
 #. Max bytes: 7
 msgctxt "Offset_0x42888_Len_7"
 msgid "Busted."
-msgstr ""
+msgstr "Preso."
 
 #. Max bytes: 5
 msgctxt "Offset_0x429A8_Len_5"
 msgid "Haha!"
-msgstr ""
+msgstr "Haha!"
 
 #. Max bytes: 58
 msgctxt "Offset_0x42AC8_Len_58"
@@ -640,7 +640,7 @@ msgstr "Non vuoi vedere la tua prof vecchia ora, eh?"
 #. Max bytes: 8
 msgctxt "Offset_0x42D08_Len_8"
 msgid "Akiyoshi"
-msgstr ""
+msgstr "Akiyoshi"
 
 #. Max bytes: 12
 msgctxt "Offset_0x42D48_Len_12"
@@ -675,7 +675,7 @@ msgstr "Fallo, Akiyoshi-san."
 #. Max bytes: 12
 msgctxt "Offset_0x43598_Len_12"
 msgid "Kiryu-san..."
-msgstr ""
+msgstr "Kiryu-san..."
 
 #. Max bytes: 58
 msgctxt "Offset_0x43838_Len_58"
@@ -735,7 +735,7 @@ msgstr "Te lo immagini. Brindiamo alla bella rimpatriata di Akiyoshi-kun..."
 #. Max bytes: 7
 msgctxt "Offset_0x44A98_Len_7"
 msgid "Cheers!"
-msgstr ""
+msgstr "Salute!"
 
 #. Max bytes: 48
 msgctxt "Offset_0x44BB8_Len_48"

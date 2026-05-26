@@ -10,12 +10,12 @@ msgstr ""
 #. Max bytes: 4
 msgctxt "Offset_0x63B68_Len_4"
 msgid "XF >"
-msgstr ""
+msgstr "XF >"
 
 #. Max bytes: 5
 msgctxt "Offset_0x99CB7_Len_5"
 msgid "E), E"
-msgstr ""
+msgstr "E), E"
 
 #. Max bytes: 15
 msgctxt "Offset_0x175B5C_Len_15"

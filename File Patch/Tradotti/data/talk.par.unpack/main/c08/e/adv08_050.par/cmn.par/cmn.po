@@ -10,7 +10,7 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x276C_Len_6"
 msgid "Cancel"
-msgstr ""
+msgstr "Chiudi"
 
 #. Max bytes: 20
 msgctxt "Offset_0x27AC_Len_20"
