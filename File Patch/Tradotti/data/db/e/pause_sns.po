@@ -81,7 +81,7 @@ msgstr "Quella persona era davvero un piromane. Peccato\r\nche sia scappato. È 
 
 msgctxt "59||tm_12_houkama||table||3||failure||1"
 msgid "A small fire broke out. I saw a firetruck\r\nheading in that direction. I knew I should've\r\ncalled the police sooner."
-msgstr "È scoppiato un piccolo incendio. Ho visto un'autopompa\r\ndirigersi da quelle parti. Lo sapevo che avrei\r\ndovuto chiamare prima la polizia."
+msgstr "È scoppiato un piccolo incendio. Ho visto\r\nun'autopompa dirigersi da quelle parti.\r\nLo sapevo che avrei dovuto chiamare\r\nprima la polizia."
 
 msgctxt "59||tm_12_houkama||table||4||accept||1"
 msgid "Sounds dangerous. I'll check it out."

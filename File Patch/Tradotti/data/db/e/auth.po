@@ -7677,7 +7677,7 @@ msgstr "I miei sottoposti sono tutti armati."
 
 msgctxt "94||a11_070||cinema_telop||44||||4"
 msgid "Y'think I care what they're packing?"
-msgstr "Pensi che mi importi qualcosa di cosa abbiano con sé?"
+msgstr "Pensi che me ne freghi qualcosa di cosa si portano dietro?"
 
 msgctxt "94||a11_070||cinema_telop||45||||4"
 msgid "I didn't expect Kurusu to have\r\nsuch a reptile in his den."
@@ -7689,7 +7689,7 @@ msgstr "Oh, e quei due scagnozzi che hai messo a\r\nsorvegliare il mio nascondig
 
 msgctxt "94||a11_070||cinema_telop||47||||4"
 msgid "Pull 'em off me."
-msgstr "Toglieteli dai piedi."
+msgstr "Toglimeli di torno."
 
 msgctxt "94||a11_070||cinema_telop||48||||4"
 msgid "The Saio Triad's days\r\nin Kamurocho are numbered."
@@ -7741,7 +7741,7 @@ msgstr "Dopo la conclusione delle mie trattative\r\ncon Hirose..."
 
 msgctxt "95||a11_080||cinema_telop||2||||4"
 msgid "...I immediately retracted the order I had given\r\nfor Masuzoe and Tatsukawa to kill the child."
-msgstr "...ho immediatamente ritirato l'ordine che avevo dato\r\na Masuzoe e Tatsukawa di uccidere il bambino."
+msgstr "...ho immediatamente revocato l'ordine che avevo dato\r\na Masuzoe e Tatsukawa di uccidere il bambino."
 
 msgctxt "95||a11_080||cinema_telop||3||||4"
 msgid "However, Tsuneo Iwami had already\r\nsunk his fangs into Tatsukawa by then."
@@ -7749,11 +7749,11 @@ msgstr "Tuttavia, a quel punto Tsuneo Iwami aveva\r\ngià affondato le sue zanne
 
 msgctxt "95||a11_080||cinema_telop||4||||4"
 msgid "Then came the hit-and-run in Kamurocho."
-msgstr "Poi c'è stato l'incidente a Kamurocho."
+msgstr "Poi c'è stato l'investimento a Kamurocho."
 
 msgctxt "95||a11_080||cinema_telop||5||||4"
 msgid "And the child slipped through Hirose's fingers."
-msgstr "E il bambino è sfuggito alle mani di Hirose."
+msgstr "E il bambino è scivolato tra le dita di Hirose."
 
 msgctxt "95||a11_080||cinema_telop||6||||4"
 msgid "He likely thought he had lost\r\nhis sole bargaining chip."
@@ -7761,11 +7761,11 @@ msgstr "Probabilmente pensava di aver perso\r\nla sua unica merce di scambio."
 
 msgctxt "95||a11_080||cinema_telop||7||||4"
 msgid "Hence, there was only one way for him\r\nto ensure the secret of Onomichi stayed safe."
-msgstr "Perciò, gli restava solo un modo per\r\nassicurarsi che il segreto di Onomichi fosse al sicuro."
+msgstr "Perciò, gli restava solo un modo per\r\nassicurarsi che il segreto di Onomichi rimanesse al sicuro."
 
 msgctxt "95||a11_080||cinema_telop||8||||4"
 msgid "He needed me dead."
-msgstr "Aveva bisogno che io morissi."
+msgstr "Gli servivo morto."
 
 msgctxt "95||a11_080||cinema_telop||9||||4"
 msgid "And you're saying Patriarch Hirose turned\r\nYuta against you to do that?"
@@ -7813,7 +7813,7 @@ msgstr "...È il segreto di Onomichi."
 
 msgctxt "95||a11_080||cinema_telop||20||||4"
 msgid "That's what drives Hirose."
-msgstr "È questo ciò che guida Hirose."
+msgstr "È questo che spinge Hirose."
 
 msgctxt "95||a11_080||cinema_telop||21||||4"
 msgid "He even sacrificed Yuta,\r\none of his own."
@@ -7821,7 +7821,7 @@ msgstr "Ha sacrificato persino Yuta,\r\nuno dei suoi."
 
 msgctxt "95||a11_080||cinema_telop||22||||4"
 msgid "That is how low he could sink."
-msgstr "È fino a questo punto che poteva spingersi in basso."
+msgstr "Ecco quanto in basso è disposto a spingersi."
 
 msgctxt "95||a11_080||cinema_telop||23||||4"
 msgid "You think I'm gonna believe that!?"
@@ -7845,23 +7845,23 @@ msgstr "Quale?"
 
 msgctxt "95||a11_080||cinema_telop||28||||4"
 msgid "Reveal the secret of Onomichi."
-msgstr "Rivela il segreto di Onomichi."
+msgstr "Svelare il segreto di Onomichi."
 
 msgctxt "95||a11_080||cinema_telop||29||||4"
 msgid "That will bring the nature of\r\nHiroshima's true authority to light."
-msgstr "Ciò riporterà alla luce la vera natura\r\ndell'autorità di Hiroshima."
+msgstr "Questo porterà alla luce la vera natura\r\ndell'autorità di Hiroshima."
 
 msgctxt "95||a11_080||cinema_telop||30||||4"
 msgid "But be warned..."
-msgstr "Ma fa' attenzione..."
+msgstr "Ma ti avverto..."
 
 msgctxt "95||a11_080||cinema_telop||31||||4"
 msgid "If you do this..."
-msgstr "Se farai questo..."
+msgstr "Se lo farai..."
 
 msgctxt "95||a11_080||cinema_telop||32||||4"
 msgid "...No amount of preparation\r\nwill be enough to face it."
-msgstr "...Nessuna preparazione\r\nsarà sufficiente per affrontarlo."
+msgstr "...nessuna preparazione\r\nsarà sufficiente per affrontarlo."
 
 msgctxt "95||a11_080||cinema_telop||66||||4"
 msgid "Yuta Usami."
@@ -8053,7 +8053,7 @@ msgstr "Tu...!"
 
 msgctxt "99||a12_020||cinema_telop||45||||4"
 msgid "Men who talk too much after\r\na drink are easy to manipulate."
-msgstr "Gli uomini che parlano troppo dopo\r\nun drink sono facili da manipolare."
+msgstr "Gli uomini che parlano troppo dopo\r\naver bevuto sono facili da manipolare."
 
 msgctxt "99||a12_020||cinema_telop||46||||4"
 msgid "Kurusu remains in the dark, though!\r\nIt'll be fine."
@@ -8065,11 +8065,11 @@ msgstr "Ora capisci perché tuo padre ha proibito alla\r\nTriade Saio di venire 
 
 msgctxt "99||a12_020||cinema_telop||48||||4"
 msgid "It was all to keep Takeru Kurusu from learning\r\nthat he didn't know the truth of the secret."
-msgstr "Tutto per impedire a Takeru Kurusu di scoprire che in realtà\r\nlui (Lo) non conosceva la verità su quel segreto."
+msgstr "Tutto per impedire a Takeru Kurusu di scoprire che tuo padre\r\nnon conosceva la verità su quel segreto."
 
 msgctxt "99||a12_020||cinema_telop||49||||4"
 msgid "That is why he was so intent on limiting\r\nhis interactions with my father."
-msgstr "Questo è il motivo per cui era così intento a\r\nlimitare le sue interazioni con mio padre."
+msgstr "Ecco perché era così determinato a\r\nlimitare le sue interazioni con mio padre."
 
 msgctxt "99||a12_020||cinema_telop||50||||4"
 msgid "You needn't worry, though."
@@ -10977,7 +10977,7 @@ msgstr "Laggiù si cela un segreto che non\r\ndeve mai vedere la luce del sole."
 
 msgctxt "139||a12_010||cinema_telop||3||||4"
 msgid "To this end, Yuta Usami's failure\r\nto end Lo is a thorn in our side."
-msgstr "A tal fine, il fallimento di Yuta Usami nell'eliminare\r\nLo rappresenta una spina nel fianco per noi."
+msgstr "A tal fine, il fallimento di Yuta Usami nell'eliminare\r\nLo è una spina nel fianco per noi."
 
 msgctxt "139||a12_010||cinema_telop||4||||4"
 msgid "Lo will attempt to\r\nreveal the truth."
@@ -10985,19 +10985,19 @@ msgstr "Lo tenterà di\r\nrivelare la verità."
 
 msgctxt "139||a12_010||cinema_telop||5||||4"
 msgid "70 years ago..."
-msgstr "Settant'anni fa..."
+msgstr "70 anni fa..."
 
 msgctxt "139||a12_010||cinema_telop||6||||4"
 msgid "We really gonna let all that\r\nwork amount to nothing?"
-msgstr "Lasceremo davvero che tutto quel\r\nlavoro si riduca a nulla?"
+msgstr "Lasceremo davvero che tutto quel\r\nlavoro vada in fumo?"
 
 msgctxt "139||a12_010||cinema_telop||7||||4"
 msgid "Protecting the secret of Onomichi has required\r\nsacrifices from our very own flesh and blood."
-msgstr "Proteggere il segreto di Onomichi ha richiesto\r\nsacrifici dal nostro stesso sangue."
+msgstr "Proteggere il segreto di Onomichi ci ha costretti\r\na sacrificare il nostro stesso sangue."
 
 msgctxt "139||a12_010||cinema_telop||8||||4"
 msgid "Protecting the secret of Onomichi has required\r\nsacrifices from our very own flesh and blood."
-msgstr "Proteggere il segreto di Onomichi ha richiesto\r\nsacrifici dal nostro stesso sangue."
+msgstr "Proteggere il segreto di Onomichi ci ha costretti\r\na sacrificare il nostro stesso sangue."
 
 msgctxt "139||a12_010||cinema_telop||9||||4"
 msgid "Isn't that right?"
@@ -11009,7 +11009,7 @@ msgstr "Ma ora..."
 
 msgctxt "139||a12_010||cinema_telop||11||||4"
 msgid "...A new sacrifice must be made\r\nin order to keep it hidden."
-msgstr "...Dovrà essere compiuto un nuovo sacrificio\r\nper mantenerlo nascosto."
+msgstr "...Sarà necessario un nuovo sacrificio\r\nper mantenerlo nascosto."
 
 msgctxt "139||a12_010||cinema_telop||12||||4"
 msgid "Can I put my faith in you, Hirose?"
@@ -11017,19 +11017,19 @@ msgstr "Posso fidarmi di te, Hirose?"
 
 msgctxt "139||a12_010||cinema_telop||14||||4"
 msgid "Protecting the secret of Onomichi has required\r\nsacrifices from our very own flesh and blood."
-msgstr "Proteggere il segreto di Onomichi ha richiesto\r\nsacrifici dal nostro stesso sangue."
+msgstr "Proteggere il segreto di Onomichi ci ha costretti\r\na sacrificare il nostro stesso sangue."
 
 msgctxt "140||a13_090||cinema_telop||1||||4"
 msgid "Iwami Shipbuilding,\r\nat their Onomichi headquarters..."
-msgstr "La Iwami Shipbuilding,\r\nnel suo quartier generale di Onomichi..."
+msgstr "La Iwami Shipbuilding,\r\npresso il suo quartier generale di Onomichi..."
 
 msgctxt "140||a13_090||cinema_telop||2||||4"
 msgid "Iwami Shipbuilding,\r\nat their Onomichi headquarters..."
-msgstr "La Iwami Shipbuilding,\r\nnel suo quartier generale di Onomichi..."
+msgstr "La Iwami Shipbuilding,\r\npresso il suo quartier generale di Onomichi..."
 
 msgctxt "140||a13_090||cinema_telop||3||||4"
 msgid "...today held a funeral for their former\r\nchairman, Heizo Iwami."
-msgstr "...oggi ha tenuto i funerali del suo ex\r\npresidente, Heizo Iwami."
+msgstr "...ha celebrato oggi i funerali del suo ex\r\npresidente, Heizo Iwami."
 
 msgctxt "140||a13_090||cinema_telop||4||||4"
 msgid "After the surfacing of the mysterious\r\nship dubbed the Yamato Mark II..."
@@ -11037,7 +11037,7 @@ msgstr "Dopo l'emersione della misteriosa\r\nnave ribattezzata Yamato Mark II...
 
 msgctxt "140||a13_090||cinema_telop||5||||4"
 msgid "...Chairman Iwami unexpectedly committed\r\nsuicide in his home with a small handgun."
-msgstr "...il Presidente Iwami si è suicidato inaspettatamente\r\nnella sua abitazione con una piccola pistola."
+msgstr "...il Presidente Iwami si è inaspettatamente tolto la vita\r\nnella sua abitazione con un'arma di piccolo calibro."
 
 msgctxt "140||a13_090||cinema_telop||6||||4"
 msgid "Huh?"
