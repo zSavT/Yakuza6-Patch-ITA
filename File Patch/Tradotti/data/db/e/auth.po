@@ -5725,15 +5725,15 @@ msgstr "Mh? Non ricordo di avere\r\nappuntamenti oggi."
 
 msgctxt "66||a07_020||cinema_telop||2||||4"
 msgid "You are?"
-msgstr "Tu sei?"
+msgstr "E tu saresti?"
 
 msgctxt "66||a07_020||cinema_telop||3||||4"
 msgid "Who do you think?\r\nYou can't put the pieces together?"
-msgstr "Chi credi?\r\nNon riesci a mettere insieme i pezzi?"
+msgstr "Chi credi che sia?\r\nNon riesci a fare due più due?"
 
 msgctxt "66||a07_020||cinema_telop||4||||4"
 msgid "Ah, now I see.\r\nI do know that voice."
-msgstr "Ah, ora capisco.\r\nConosco questa voce."
+msgstr "Ah, ora capisco.\r\nRiconosco questa voce."
 
 msgctxt "66||a07_020||cinema_telop||5||||4"
 msgid "Kazuma Kiryu."
@@ -5745,7 +5745,7 @@ msgstr "Il Drago di Dojima."
 
 msgctxt "66||a07_020||cinema_telop||7||||4"
 msgid "I'm in need of some answers...\r\nAnd I'll do what it takes to get them."
-msgstr "Ho bisogno di alcune risposte...\r\nE farò il necessario per ottenerle."
+msgstr "Ho bisogno di alcune risposte...\r\nE farò tutto il necessario per ottenerle."
 
 msgctxt "66||a07_020||cinema_telop||8||||4"
 msgid "We need to talk."
@@ -5753,11 +5753,11 @@ msgstr "Dobbiamo parlare."
 
 msgctxt "67||a07_030||cinema_telop||1||||4"
 msgid "[D-Dammit! How could we let\r\nthese fucking whelps humiliate us!?]"
-msgstr "[D-Dannazione! Come abbiamo potuto lasciare\r\nche questi fottuti mocciosi ci umiliassero!?]"
+msgstr "[M-Maledizione! Come abbiamo fatto a\r\nfarci umiliare da questi fottuti mocciosi!?]"
 
 msgctxt "67||a07_030||cinema_telop||2||||4"
 msgid "Kiryu-aniki. This is Ed?"
-msgstr "Kiryu-aniki. Questo è Ed?"
+msgstr "Kiryu-aniki. È lui Ed?"
 
 msgctxt "67||a07_030||cinema_telop||3||||4"
 msgid "Yeah. He's the one who killed Tatsukawa."
@@ -5825,7 +5825,7 @@ msgstr "Dovreste farvi vedere qui?"
 
 msgctxt "68||a07_035||cinema_telop||3||||4"
 msgid "I am the head of the Saio Triad.\r\nYou may call me Lo."
-msgstr "Sono il capo della Triade Saio.\r\nPuò chiamarmi Lo."
+msgstr "Sono il capo della Triade Saio.\r\nPuoi chiamarmi Lo."
 
 msgctxt "68||a07_035||cinema_telop||4||||4"
 msgid "So you're the boss of\r\nthis organization?"
@@ -5833,7 +5833,7 @@ msgstr "Quindi sei tu il boss di\r\nquesta organizzazione?"
 
 msgctxt "68||a07_035||cinema_telop||5||||4"
 msgid "Indeed. I've heard a great deal\r\nabout you from Masuzoe."
-msgstr "Esattamente. Ho sentito parlare molto\r\ndi te da Masuzoe."
+msgstr "Esattamente. Ho sentito molto parlare\r\ndi te da Masuzoe."
 
 msgctxt "68||a07_035||cinema_telop||6||||4"
 msgid "Every yakuza in the country acknowledges\r\nthe strength you possess, Kiryu-san."
@@ -5865,11 +5865,11 @@ msgstr "Kiryu-san."
 
 msgctxt "68||a07_035||cinema_telop||13||||4"
 msgid "I recognize that this meeting has not\r\ncome at the best of times for either of us."
-msgstr "Riconosco che questo incontro non è avvenuto\r\nnel momento migliore per nessuno di noi due."
+msgstr "Riconosco che questo incontro non capiti\r\nnel momento migliore per nessuno di noi due."
 
 msgctxt "68||a07_035||cinema_telop||14||||4"
 msgid "However, I believe we can still\r\nsalvage a beneficial relationship."
-msgstr "Tuttavia, credo che possiamo ancora\r\nsalvare una relazione vantaggiosa."
+msgstr "Tuttavia, credo che possiamo ancora\r\nrecuperare un rapporto vantaggioso."
 
 msgctxt "68||a07_035||cinema_telop||15||||4"
 msgid "Once you have calmed down a bit,\r\nI would like to meet with you again."
@@ -5877,11 +5877,11 @@ msgstr "Una volta che ti sarai calmato un po',\r\nmi piacerebbe incontrarti di n
 
 msgctxt "68||a07_035||cinema_telop||16||||4"
 msgid "Tomorrow night.\r\nIt will be only the two of us."
-msgstr "Domani notte.\r\nSaremo solo noi due."
+msgstr "Domani sera.\r\nSaremo solo noi due."
 
 msgctxt "68||a07_035||cinema_telop||17||||4"
 msgid "I would be glad to give answers\r\nto several of your questions there."
-msgstr "Sarei lieto di darti le risposte\r\na diverse tue domande lì."
+msgstr "In quell'occasione, sarò lieto di rispondere\r\na molte delle tue domande."
 
 msgctxt "68||a07_035||cinema_telop||18||||4"
 msgid "That's a good deal for me."
@@ -5893,7 +5893,7 @@ msgstr "Ma dimmi, tu cosa ci guadagni?"
 
 msgctxt "68||a07_035||cinema_telop||20||||4"
 msgid "First off, I don't have to sully the fine\r\nwood floors of this place with your blood."
-msgstr "In primo luogo, non devo sporcare i bei\r\npavimenti in legno di questo posto con il tuo sangue."
+msgstr "Tanto per cominciare, eviterò di sporcare i pregiati\r\npavimenti in legno di questo posto con il tuo sangue."
 
 msgctxt "68||a07_035||cinema_telop||21||||4"
 msgid "There is more to it than that, though."
@@ -5905,11 +5905,11 @@ msgstr "Al momento siamo in guerra col Clan Tojo.\r\nAnche l'Alleanza Yomei è c
 
 msgctxt "68||a07_035||cinema_telop||23||||4"
 msgid "You have the ability to speak to the leaders\r\nof both organizations equally, Kiryu-san."
-msgstr "Hai la capacità di parlare con i leader\r\ndi entrambe le organizzazioni alla pari, Kiryu-san."
+msgstr "Hai la possibilità di parlare da pari a pari con i leader\r\ndi entrambe le organizzazioni, Kiryu-san."
 
 msgctxt "68||a07_035||cinema_telop||24||||4"
 msgid "There is great value in\r\nmy showing you hospitality."
-msgstr "C'è un grande valore nel\r\nmostrarti ospitalità."
+msgstr "Per me ha un grande valore\r\nmostrarti la mia ospitalità."
 
 msgctxt "68||a07_035||cinema_telop||25||||4"
 msgid "Do you accept my invitation?"
@@ -5929,7 +5929,7 @@ msgstr "Ricorda... Il boss\r\nha invitato solo te, Kiryu-san."
 
 msgctxt "71||a08_005||cinema_telop||1||||4"
 msgid "What's the latest on the Tojo Clan's\r\nlittle war in Kamurocho?"
-msgstr "Quali sono le ultime notizie sulla\r\npiccola guerra del Clan Tojo a Kamurocho?"
+msgstr "Quali sono le ultime novità sulla\r\npiccola guerra del Clan Tojo a Kamurocho?"
 
 msgctxt "71||a08_005||cinema_telop||2||||4"
 msgid "How long is it going to drag on?"
@@ -5945,11 +5945,11 @@ msgstr "So che ha causato molta tensione\r\nnel Kanto. Hai tutta la mia solidari
 
 msgctxt "71||a08_005||cinema_telop||6||||4"
 msgid "It's nice to be wined-and-dined like this..."
-msgstr "È bello essere ospitati e serviti così..."
+msgstr "È bello essere trattati con tutti questi riguardi..."
 
 msgctxt "71||a08_005||cinema_telop||7||||4"
 msgid "...But if the triads keep fucking with us,\r\nwe're gonna get laughed at in Kansai."
-msgstr "...Ma se le triadi continuano a fregarci,\r\nfiniremo per farci deridere nel Kansai."
+msgstr "...Ma se le triadi continuano a prenderci per il culo,\r\nfiniranno per riderci dietro in tutto il Kansai."
 
 msgctxt "71||a08_005||cinema_telop||8||||4"
 msgid "Kamurocho is the heart of Kanto's yakuza.\r\nWe need it to be stable."

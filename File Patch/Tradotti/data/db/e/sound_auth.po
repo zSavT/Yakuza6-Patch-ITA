@@ -1501,7 +1501,7 @@ msgstr "Scendiamo laggiù!"
 
 msgctxt "4||speech_list_btl_hact||table||3||||4"
 msgid "Y'better not've forgotten 'bout us!"
-msgstr "Vedi di non esserti scordato di noi!"
+msgstr "Vedi di non dimenticarti di noi!"
 
 msgctxt "4||speech_list_btl_hact||table||4||||4"
 msgid "Get ready for a righteous\nwhoopin'!"
@@ -38933,19 +38933,19 @@ msgstr "Devi passare attraverso un'intera rete di\npersone se vuoi sperare di co
 
 msgctxt "19||speech_list_main07||table||148||||4"
 msgid "Right. After all, the triads\nstill have him in their crosshairs."
-msgstr "Giusto. Dopo tutto, le triadi\nlo hanno ancora nel mirino."
+msgstr "Giusto. Dopotutto, le triadi\nlo hanno ancora nel mirino."
 
 msgctxt "19||speech_list_main07||table||149||||4"
 msgid "Honestly, I think he should just get outta\nKamurocho entirely if it's that bad."
-msgstr "Sinceramente, credo che dovrebbe lasciare\ndel tutto Kamurocho se le cose si mettono male."
+msgstr "Sinceramente, credo che dovrebbe andarsene\ndel tutto da Kamurocho, se le cose stanno così."
 
 msgctxt "19||speech_list_main07||table||150||||4"
 msgid "Anyway, do you think you could\ntell Akiyama to give me a call?"
-msgstr "In ogni caso, credi di poter dire\nad Akiyama di farmi una chiamata?"
+msgstr "Comunque, credi di poter dire\nad Akiyama di chiamarmi?"
 
 msgctxt "19||speech_list_main07||table||151||||4"
 msgid "Can do. Just give me some time."
-msgstr "Posso farlo. Dammi solo un po' di tempo."
+msgstr "Nessun problema. Dammi solo un po' di tempo."
 
 msgctxt "19||speech_list_main07||table||152||||4"
 msgid "Okay. Thanks."
@@ -38957,7 +38957,7 @@ msgstr "(Non mi resta che fare un giro in città\ne aspettare che Akiyama mi chi
 
 msgctxt "19||speech_list_main07||table||154||||4"
 msgid "(Hm? They blocked the exit.\nI guess I have to go the other way...)"
-msgstr "(Mh? Hanno bloccato l'uscita.\nImmagino di dover andare dall'altra parte...)"
+msgstr "(Mh? Hanno bloccato l'uscita.\nImmagino mi tocchi andare dall'altra parte...)"
 
 msgctxt "19||speech_list_main07||table||155||||4"
 msgid "This is Kiryu."
@@ -39125,7 +39125,7 @@ msgstr "Akiyama!?"
 
 msgctxt "19||speech_list_main07||table||196||||4"
 msgid "Hey. Kinda like a spy, yeah?"
-msgstr "Ehi. Sembro una spia, eh?"
+msgstr "Ehi. Sembro un po' una spia, eh?"
 
 msgctxt "19||speech_list_main07||table||197||||4"
 msgid "Sad part is that I'm not joking."
@@ -39133,15 +39133,15 @@ msgstr "La cosa triste è che non sto scherzando."
 
 msgctxt "19||speech_list_main07||table||198||||4"
 msgid "You say that, but it looks like\nyou're enjoying yourself."
-msgstr "Dici così, ma sembra che\ntu ti stia divertendo."
+msgstr "Dici così, ma sembra proprio che\nti stia divertendo."
 
 msgctxt "19||speech_list_main07||table||199||||4"
 msgid "On a more serious note, it's been a real\npain for me to get around Kamurocho."
-msgstr "Parlando seriamente, muoversi per Kamurocho\nè diventata una vera seccatura per me."
+msgstr "Scherzi a parte, muoversi per Kamurocho\nè diventata una vera seccatura."
 
 msgctxt "19||speech_list_main07||table||200||||4"
 msgid "Plus, today I thought I should play it\nextra safe. I have a guest with me."
-msgstr "E poi, per oggi ho pensato fosse meglio usare\nun po' di prudenza in più. Ho un ospite con me."
+msgstr "E poi, oggi ho preferito andare ancora più\nsul sicuro. Ho un ospite con me."
 
 msgctxt "19||speech_list_main07||table||201||||4"
 msgid "A guest?"
@@ -39161,11 +39161,11 @@ msgstr "Aspetta... Che ci fai qui?"
 
 msgctxt "19||speech_list_main07||table||205||||4"
 msgid "Well, Murota-kun and I started talking\nwhen he saw through my disguise."
-msgstr "Beh, Murota-kun ed io abbiamo iniziato a parlare\nquando mi ha riconosciuto sotto questo travestimento."
+msgstr "Beh, Murota-kun ed io abbiamo iniziato a parlare\nquando mi ha riconosciuto nonostante il travestimento."
 
 msgctxt "19||speech_list_main07||table||206||||4"
 msgid "He mentioned how he led you to me when\nI was living in the sewer, and we hit it off."
-msgstr "Ha menzionato come ti avesse condotto da me quando\nvivevo nelle fogne, e siamo andati subito d'accordo."
+msgstr "Mi ha raccontato di quando ti ha portato da me mentre\nvivevo nelle fogne, e siamo andati subito d'accordo."
 
 msgctxt "19||speech_list_main07||table||208||||4"
 msgid "Apparently the triads aren't the only\nones we need to be worrying about."
@@ -39177,7 +39177,7 @@ msgstr "Anche Sugai del Clan Tojo\nè altrettanto pericoloso."
 
 msgctxt "19||speech_list_main07||table||210||||4"
 msgid "But anyway, it might be best for you to hear\nall the details directly from Murota-kun."
-msgstr "Ma in ogni caso, forse è meglio che tu senta\ntutti i dettagli direttamente da Murota-kun."
+msgstr "Comunque, forse è meglio che tu senta\ntutti i dettagli direttamente da Murota-kun."
 
 msgctxt "19||speech_list_main07||table||211||||4"
 msgid "What can you tell me?"
@@ -39233,7 +39233,7 @@ msgstr "Mi stai dicendo che è stato il Clan Tojo\na dare fuoco a Little Asia?"
 
 msgctxt "19||speech_list_main07||table||224||||4"
 msgid "Exactly. After the fire, Little Asia was ripe\nfor the Saio Triad to move into the ruins."
-msgstr "Esatto. Dopo l'incendio, Little Asia era pronta\na far insediare la Triade Saio tra le rovine."
+msgstr "Esatto. Dopo l'incendio, Little Asia era il posto perfetto\nin cui far insediare la Triade Saio tra le rovine."
 
 msgctxt "19||speech_list_main07||table||225||||4"
 msgid "That's when the turf war erupted."
@@ -39241,7 +39241,7 @@ msgstr "È allora che è scoppiata la guerra per il territorio."
 
 msgctxt "19||speech_list_main07||table||226||||4"
 msgid "When that conflict escalated, the cops blamed\nthe Tojo Clan sixth chairman and arrested him."
-msgstr "Quando il conflitto si è inasprito, la polizia ha incolpato\nil sesto presidente del Clan Tojo e lo ha arrestato."
+msgstr "Quando il conflitto è degenerato, la polizia ha incolpato\nil sesto presidente del Clan Tojo e lo ha arrestato."
 
 msgctxt "19||speech_list_main07||table||227||||4"
 msgid "The power vacuum that arrest created was\nsoon filled by a lifelong advisor, Sugai-san."
@@ -39257,11 +39257,11 @@ msgstr "Lo scopo dell'incendio a Little Asia era di\ncreare uno spazio dove i Sa
 
 msgctxt "19||speech_list_main07||table||230||||4"
 msgid "And the \"war\" he incited was all staged\nin order to bring down the sixth chairman."
-msgstr "E la \"guerra\" da lui fomentata era solo una messa in scena\nper poter sbarazzarsi del sesto presidente."
+msgstr "E la \"guerra\" da lui fomentata era solo una messa in scena\nper sbarazzarsi del sesto presidente."
 
 msgctxt "19||speech_list_main07||table||232||||4"
 msgid "So imagine how Sugai must've felt when you\nshowed up just as he drove Daigo-san out."
-msgstr "Immagina dunque come deve essersi sentito Sugai quando sei\ncomparso tu, proprio mentre faceva fuori Daigo-san."
+msgstr "Immagina dunque come deve essersi sentito Sugai quando sei\ncomparso tu, proprio mentre toglieva di mezzo Daigo-san."
 
 msgctxt "19||speech_list_main07||table||233||||4"
 msgid "It's no surprise he wanted to keep\nhis distance from you, Kiryu-san."
@@ -39341,15 +39341,15 @@ msgstr "Vedi, l'ho avviata solo per fare prestiti a\ncoloro che sognavano di sal
 
 msgctxt "19||speech_list_main07||table||254||||4"
 msgid "This place picked me back up when I was\nat rock bottom, so it's only fair I repay it."
-msgstr "Questo posto mi ha rimesso in piedi quando ho toccato\nil fondo, quindi mi sembra giusto ripagarlo."
+msgstr "Questo posto mi ha rimesso in piedi quando ho toccato\nil fondo, quindi mi sembra giusto sdebitarmi."
 
 msgctxt "19||speech_list_main07||table||255||||4"
 msgid "But not only is it apparently open-season on\ncrime, but the Jingweon are on a spending spree."
-msgstr "Ma a quanto pare non solo la criminalità è fuori\ncontrollo, persino la Jingweon spende e spande."
+msgstr "Ma a quanto pare non solo la criminalità ha campo\nlibero, persino la Jingweon spende e spande."
 
 msgctxt "19||speech_list_main07||table||256||||4"
 msgid "As you might have heard,\neven Stardust fell victim to that."
-msgstr "Come avrai saputo, anche lo Stardust\nne è caduto vittima."
+msgstr "Come avrai saputo, anche lo Stardust\nne è rimasto vittima."
 
 msgctxt "19||speech_list_main07||table||257||||4"
 msgid "Yeah, I've heard."
@@ -39369,11 +39369,11 @@ msgstr "Lo so, lo so. Porre fine a questo conflitto\nè probabilmente l'ultimo d
 
 msgctxt "19||speech_list_main07||table||261||||4"
 msgid "But to be blunt with you,\nI kinda hope you'll do it anyway."
-msgstr "Ma per essere onesto con te,\nspero in cuor mio che tu lo faccia lo stesso."
+msgstr "Ma a dirtela tutta,\nsotto sotto spero che tu lo faccia lo stesso."
 
 msgctxt "19||speech_list_main07||table||263||||4"
 msgid "Sorry. That was selfish of me."
-msgstr "Scusa. È stato molto egoista da parte mia."
+msgstr "Scusa. È stato egoista da parte mia."
 
 msgctxt "19||speech_list_main07||table||264||||4"
 msgid "I've looked into Little Asia."
@@ -39385,15 +39385,15 @@ msgstr "Sfondare la porta principale potrebbe non\nessere l'unico modo per arriv
 
 msgctxt "19||speech_list_main07||table||266||||4"
 msgid "There's an alternate route."
-msgstr "C'è un percorso alternativo."
+msgstr "C'è una via alternativa."
 
 msgctxt "19||speech_list_main07||table||267||||4"
 msgid "An alternate route?"
-msgstr "Un percorso alternativo?"
+msgstr "Una via alternativa?"
 
 msgctxt "19||speech_list_main07||table||268||||4"
 msgid "One that'll help us avoid\nthe Saio mob at the entrance."
-msgstr "Uno che ci aiuterà a evitare\nla marmaglia Saio all'ingresso."
+msgstr "Una che ci aiuterà a evitare\nla marmaglia Saio all'ingresso."
 
 msgctxt "19||speech_list_main07||table||269||||4"
 msgid "They'll never see us coming."
@@ -39401,7 +39401,7 @@ msgstr "Non ci vedranno mai arrivare."
 
 msgctxt "19||speech_list_main07||table||270||||4"
 msgid "By the way, what is it you're\nhoping to ask Ed?"
-msgstr "A proposito, cos'è che\nsperi di chiedere a Ed?"
+msgstr "A proposito, cos'è che\nhai intenzione di chiedere a Ed?"
 
 msgctxt "19||speech_list_main07||table||271||||4"
 msgid "I want to know why the Saio Triad\nkilled a man named Tatsukawa."
@@ -39649,27 +39649,27 @@ msgstr "Ed io sono Yuta Usami. Kiryu-aniki ci ha detto\nmolto sul tuo conto, Aki
 
 msgctxt "19||speech_list_main07||table||333||||4"
 msgid "He said yer a lender 'round these parts?"
-msgstr "Ha detto che fai prestiti da queste parti?"
+msgstr "Ha detto che presti soldi da queste parti?"
 
 msgctxt "19||speech_list_main07||table||334||||4"
 msgid "I was. I'm not much more than\na homeless bum nowadays."
-msgstr "Lo facevo. Oggigiorno non sono molto\ndi più di un senzatetto."
+msgstr "Lo facevo. Oggi come oggi non\nsono poco più di un senzatetto."
 
 msgctxt "19||speech_list_main07||table||335||||4"
 msgid "That aside, lemme explain how we reach Ed.\nThis building will be our entry point."
-msgstr "A parte questo, lasciate che vi spieghi come arrivare da Ed.\nQuesto edificio sarà il nostro punto di ingresso."
+msgstr "A parte questo, vi spiego come arriviamo da Ed.\nQuesto edificio sarà il nostro punto di ingresso."
 
 msgctxt "19||speech_list_main07||table||336||||4"
 msgid "From there we'll pass through a few others."
-msgstr "Da lì passeremo attraverso un paio di altri."
+msgstr "Da lì ne attraverseremo un altro paio."
 
 msgctxt "19||speech_list_main07||table||337||||4"
 msgid "That will lead us right to a window on\nthe third story where we slip right through."
-msgstr "Che ci condurranno dritti a una finestra al\nterzo piano dove ci infileremo di soppiatto."
+msgstr "E arriveremo dritti a una finestra del\nterzo piano da cui ci infileremo."
 
 msgctxt "19||speech_list_main07||table||338||||4"
 msgid "Assuming all goes well, we should be able\nto get inside without any triads noticing."
-msgstr "Dando per scontato che tutto fili liscio, dovremmo riuscire\nad entrare senza che nessun membro delle triadi ci noti."
+msgstr "Se tutto fila liscio, dovremmo riuscire a\nentrare senza che le triadi ci notino."
 
 msgctxt "19||speech_list_main07||table||339||||4"
 msgid "How d'we know that Ed guy's\neven there right now?"
@@ -39717,11 +39717,11 @@ msgstr "Il quarto presidente del Clan Tojo che fa irruzione nel\nquartier genera
 
 msgctxt "19||speech_list_main07||table||350||||4"
 msgid "Give me some peace of mind.\nPretty good, yeah?"
-msgstr "Fammi stare tranquillo.\nNiente male, eh?"
+msgstr "Fallo per farmi stare tranquillo.\nNiente male, eh?"
 
 msgctxt "19||speech_list_main07||table||351||||4"
 msgid "I didn't think I'd end up wearing\nanother one of these things."
-msgstr "Non pensavo sarei finito a\nindossare un'altra di queste cose."
+msgstr "Non pensavo di ritrovarmi a indossare\nun'altra di queste cose."
 
 msgctxt "19||speech_list_main07||table||352||||4"
 msgid "Our old man had it figured out, huh?"
@@ -39741,7 +39741,7 @@ msgstr "Daremmo davvero nell'occhio se\nentrassimo tutti e quattro insieme."
 
 msgctxt "19||speech_list_main07||table||356||||4"
 msgid "Once we're on the roof, we'll lower a rope\ndown. You two can use that to climb up."
-msgstr "Una volta sul tetto, caleremo una fune.\nVoi due la userete per salire."
+msgstr "Una volta sul tetto, caleremo una fune.\nVoi due potrete usarla per salire."
 
 msgctxt "19||speech_list_main07||table||357||||4"
 msgid "No prob!"
