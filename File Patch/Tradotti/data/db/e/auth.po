@@ -6405,7 +6405,7 @@ msgstr "Non è ancora finita!"
 
 msgctxt "78||a09_040||cinema_telop||3||||4"
 msgid "I think you're about to see otherwise."
-msgstr "Credo che starai per vedere il contrario."
+msgstr "Credo che scoprirai il contrario."
 
 msgctxt "78||a09_040||cinema_telop||4||||4"
 msgid "Huh?"
@@ -6413,7 +6413,7 @@ msgstr "Eh?"
 
 msgctxt "78||a09_040||cinema_telop||5||||4"
 msgid "What the heck, Aniki!? Why'd ya go n' say that?\r\nKoshimizu totally saw my face!"
-msgstr "Che diamine, Aniki!? Perché l'hai detto?\r\nKoshimizu mi ha visto in faccia!"
+msgstr "Ma che cavolo, Aniki!? Perché l'hai detto?\r\nKoshimizu mi ha visto in faccia!"
 
 msgctxt "78||a09_040||cinema_telop||6||||4"
 msgid "Too late now."
@@ -6805,7 +6805,7 @@ msgstr "Merda! Chi diavolo sono questi!?"
 
 msgctxt "82||a10_030||cinema_telop||17||||4"
 msgid "All of you stand back!"
-msgstr "Restate tutti indietro!"
+msgstr "State tutti indietro!"
 
 msgctxt "82||a10_030||cinema_telop||18||||4"
 msgid "Keep Hirose-san and Haruto safe!"
@@ -6905,7 +6905,7 @@ msgstr "Solo uno di noi ha il diritto di colpirlo, adesso."
 
 msgctxt "84||a10_050||cinema_telop||7||||4"
 msgid "And that's me, Nagumo."
-msgstr "E quello sono io, Nagumo."
+msgstr "E ci sono anche io. E Nagumo."
 
 msgctxt "84||a10_050||cinema_telop||8||||4"
 msgid "Yuta."
@@ -6913,7 +6913,7 @@ msgstr "Yuta."
 
 msgctxt "84||a10_050||cinema_telop||9||||4"
 msgid "Care to guess what I'm\r\nupset about right now?"
-msgstr "Ti va di indovinare per cosa\r\nsono arrabbiato in questo momento?"
+msgstr "Vuoi provare a indovinare per cosa\r\nsono arrabbiato in questo momento?"
 
 msgctxt "84||a10_050||cinema_telop||10||||4"
 msgid "It's not what you did with Haruka,\r\nor the fact that you hid it from us."
@@ -6925,7 +6925,7 @@ msgstr "E allora? Cos'è?"
 
 msgctxt "84||a10_050||cinema_telop||12||||4"
 msgid "Before today,\r\nif a baby had been kidnapped..."
-msgstr "Fino a prima di oggi,\r\nse un bambino fosse stato rapito..."
+msgstr "Prima di oggi,\r\nse un bambino fosse stato rapito..."
 
 msgctxt "84||a10_050||cinema_telop||13||||4"
 msgid "...You would've risked your life to\r\nsave him without a second thought."
@@ -6941,7 +6941,7 @@ msgstr "Ma ora è diverso."
 
 msgctxt "84||a10_050||cinema_telop||16||||4"
 msgid "Why can't you bring yourself\r\nto help him anymore?"
-msgstr "Perché non riesci più a\r\nconvincerti ad aiutarlo?"
+msgstr "Perché non riesci più a\r\ntrovare la forza di aiutarlo?"
 
 msgctxt "84||a10_050||cinema_telop||17||||4"
 msgid "Is it because you found out\r\nyou have a triad's blood?"
@@ -6949,7 +6949,7 @@ msgstr "È perché hai scoperto di\r\navere il sangue di una triade?"
 
 msgctxt "84||a10_050||cinema_telop||18||||4"
 msgid "Or is it because you know Haruto\r\nshares that same bloodline?"
-msgstr "O è perché sai che Haruto\r\ncondivide la stessa stirpe?"
+msgstr "O è perché sai che Haruto\r\ncondivide quello stesso sangue?"
 
 msgctxt "84||a10_050||cinema_telop||19||||4"
 msgid "In the end, it doesn't matter."
@@ -6961,7 +6961,7 @@ msgstr "Perciò non permettere a una cosa così superficiale..."
 
 msgctxt "84||a10_050||cinema_telop||21||||4"
 msgid "...Make you act like less of a father!"
-msgstr "...di farti comportare meno da padre!"
+msgstr "...di impedirti di comportarti da padre!"
 
 msgctxt "84||a10_050||cinema_telop||22||||4"
 msgid "Aniki..."
@@ -6969,11 +6969,11 @@ msgstr "Aniki..."
 
 msgctxt "84||a10_050||cinema_telop||23||||4"
 msgid "Blood shouldn't change\r\nhow you live your life."
-msgstr "Il sangue non dovrebbe cambiare\r\nil modo in cui vivi la tua vita."
+msgstr "Il sangue non dovrebbe cambiare\r\ncome vivi la tua vita."
 
 msgctxt "84||a10_050||cinema_telop||24||||4"
 msgid "And it damn well shouldn't\r\nchange how you judge others."
-msgstr "E di certo non dovrebbe\r\ncambiare il modo in cui giudichi gli altri."
+msgstr "E di certo non dovrebbe\r\ncambiare come giudichi gli altri."
 
 msgctxt "84||a10_050||cinema_telop||25||||4"
 msgid "If you can't see past that,\r\nthen you're no better than Lo."
@@ -6989,7 +6989,7 @@ msgstr "Dovesse costarmi la vita,\r\nriporterò indietro Haruto."
 
 msgctxt "84||a10_050||cinema_telop||28||||4"
 msgid "You can stay here\r\nsulking for all I care."
-msgstr "Tu puoi rimanere qui\r\na piangerti addosso per quel che mi importa."
+msgstr "Puoi anche restartene qui\r\na piangerti addosso per quel che mi importa."
 
 msgctxt "84||a10_050||cinema_telop||29||||4"
 msgid "But..."
@@ -7053,11 +7053,11 @@ msgstr "Quando lo hanno portato via,\r\nho perso ogni speranza."
 
 msgctxt "85||a10_060||cinema_telop||11||||4"
 msgid "It seemed like we'd never get him back."
-msgstr "Sembrava che non lo avremmo mai più riavuto."
+msgstr "Sembrava che non l'avremmo mai più ripreso."
 
 msgctxt "85||a10_060||cinema_telop||12||||4"
 msgid "That's why I was such a coward!"
-msgstr "Ecco perché sono stato un tale codardo!"
+msgstr "Ecco perché sono stato un vigliacco!"
 
 msgctxt "85||a10_060||cinema_telop||13||||4"
 msgid "Y'know I..."

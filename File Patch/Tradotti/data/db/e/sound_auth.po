@@ -41909,7 +41909,7 @@ msgstr "Avrei dovuto prendermi cura io di Haruto,\ne invece ho permesso che acca
 
 msgctxt "21||speech_list_main09||table||66||||4"
 msgid "Wh-What're y'talkin' about, Kiyo-chan?\nNobody's tryin' t'blame ya fer this."
-msgstr "M-Ma che dici, Kiyo-chan?\nNessuno ti sta incolpando per questo."
+msgstr "M-Ma che dici, Kiyo-chan?\nNessuno ti sta dando la colpa."
 
 msgctxt "21||speech_list_main09||table||67||||4"
 msgid "I do gotta wonder what happened, though."
@@ -41917,11 +41917,11 @@ msgstr "Però mi chiedo proprio cosa sia successo."
 
 msgctxt "21||speech_list_main09||table||68||||4"
 msgid "Did y'see the boss run off\nwith the kid yerself?"
-msgstr "Hai visto il capo scappare\ncon il bambino con i tuoi stessi occhi?"
+msgstr "Hai visto tu stessa il capo scappare\ncol bambino?"
 
 msgctxt "21||speech_list_main09||table||70||||4"
 msgid "Why don't y'take a seat first?\nThis could be a while, eh?"
-msgstr "Perché non ti siedi prima?\nPotrebbe volerci un po', no?"
+msgstr "Perché prima non ti siedi?\nPotrebbe volerci un po', no?"
 
 msgctxt "21||speech_list_main09||table||71||||4"
 msgid "It was getting late, right as I was\ngetting ready to open the bar."
@@ -41929,7 +41929,7 @@ msgstr "Si stava facendo tardi, proprio mentre\nmi stavo preparando ad aprire il
 
 msgctxt "21||speech_list_main09||table||72||||4"
 msgid "That's when Patriarch Hirose dropped by.\nHe said he wanted to see Haruto-kun."
-msgstr "Ed è stato in quel momento che è passato il Patriarca Hirose.\nHa detto che voleva vedere Haruto-kun."
+msgstr "È stato allora che è passato il Patriarca Hirose.\nHa detto che voleva vedere Haruto-kun."
 
 msgctxt "21||speech_list_main09||table||73||||4"
 msgid "I didn't really think much of it, since he\ndoes stop by my bar every so often."
@@ -42109,7 +42109,7 @@ msgstr "Mi dispiace."
 
 msgctxt "21||speech_list_main09||table||118||||4"
 msgid "He... means nothing to me now."
-msgstr "Lui... non significa più niente per me adesso."
+msgstr "Lui... ormai non significa più nulla per me."
 
 msgctxt "21||speech_list_main09||table||119||||4"
 msgid "But, isn't he the father of your child?"
@@ -42177,27 +42177,27 @@ msgstr "Quando mi ha vista finire in un mare di debiti\nper colpa di quell'agent
 
 msgctxt "21||speech_list_main09||table||136||||4"
 msgid "...He risked his life behind the scenes\nto settle things with those yakuza."
-msgstr "...Ha rischiato la vita dietro le quinte per\nsistemare le cose con quegli yakuza."
+msgstr "...Ha rischiato la vita agendo nell'ombra per\nsistemare le cose con quegli yakuza."
 
 msgctxt "21||speech_list_main09||table||137||||4"
 msgid "Kiyo-chan... I didn't realize you\nn' Someya had that kinda history."
-msgstr "Kiyo-chan... Non mi ero reso conto che tu\ne Someya aveste quel tipo di trascorsi."
+msgstr "Kiyo-chan... Non immaginavo che tu\ne Someya aveste quel tipo di trascorsi."
 
 msgctxt "21||speech_list_main09||table||138||||4"
 msgid "I'm sure your image of me\nhas changed, Nagumo-kun."
-msgstr "Sono certa che l'immagine che hai di me\nsia cambiata, Nagumo-kun."
+msgstr "Sono certa che l'idea che ti eri fatto\ndi me sia cambiata, Nagumo-kun."
 
 msgctxt "21||speech_list_main09||table||139||||4"
 msgid "I'm just a fool who abandoned this town,\nwent to Tokyo, and got herself scammed."
-msgstr "Sono solo una stupida che ha abbandonato questa\ncittà, è andata a Tokyo, e si è fatta truffare."
+msgstr "Sono solo una stupida che ha abbandonato questa\ncittà, è andata a Tokyo e si è fatta truffare."
 
 msgctxt "21||speech_list_main09||table||141||||4"
 msgid "Soon after Someya saved me,\nwe married and had a daughter together."
-msgstr "Poco dopo che Someya mi aveva salvata,\nci siamo sposati e abbiamo avuto una figlia."
+msgstr "Poco dopo che Someya mi ha salvata,\nci siamo sposati e abbiamo avuto una figlia."
 
 msgctxt "21||speech_list_main09||table||142||||4"
 msgid "But my life with him was terrifying."
-msgstr "Ma la mia vita con lui era spaventosa."
+msgstr "Ma la mia vita con lui è stata un incubo."
 
 msgctxt "21||speech_list_main09||table||143||||4"
 msgid "I asked him countless times to quit the yakuza\nfor our daughter's sake, but he never listened."
@@ -42881,11 +42881,11 @@ msgstr "Non ne sarei così sicuro!"
 
 msgctxt "21||speech_list_main09||table||326||||4"
 msgid "Well then, where should I start?"
-msgstr "Molto bene, da dove dovrei iniziare?"
+msgstr "Bene allora, da dove comincio?"
 
 msgctxt "21||speech_list_main09||table||327||||4"
 msgid "Oh, right. I should probly apologize\nto you before any of that."
-msgstr "Oh, giusto. Dovrei probabilmente scusarmi\ncon te prima di ogni altra cosa."
+msgstr "Oh, giusto. Probabilmente dovrei scusarmi\ncon te prima di tutto."
 
 msgctxt "21||speech_list_main09||table||329||||4"
 msgid "Kiryu-san. I'm sorry fer taking your kid.\nI shouldn't have gone dark like that."
@@ -42897,15 +42897,15 @@ msgstr "I ragazzi di Koshimizu erano là fuori a cercarlo,\nperò. Non avevo mol
 
 msgctxt "21||speech_list_main09||table||331||||4"
 msgid "Y'could at least've let us know\nwhat y'were thinkin'."
-msgstr "Avresti almeno potuto farci sapere\na cosa stavi pensando."
+msgstr "Avresti almeno potuto farci sapere\ncos'avevi in mente."
 
 msgctxt "21||speech_list_main09||table||332||||4"
 msgid "We thought you'd up n' kidnapped\nHaruto or somethin' at first."
-msgstr "All'inizio pensavamo che ti fossi alzato e avessi\nrapito Haruto o qualcosa del genere."
+msgstr "All'inizio pensavamo che avessi preso e rapito\nHaruto o qualcosa del genere."
 
 msgctxt "21||speech_list_main09||table||333||||4"
 msgid "But there's more to it than that.\nI wasn't sure if I should involve you guys."
-msgstr "Ma c'è molto di più sotto.\nNon ero sicuro se avessi dovuto coinvolgervi."
+msgstr "Ma c'è molto di più sotto.\nNon ero sicuro se fosse il caso di coinvolgervi."
 
 msgctxt "21||speech_list_main09||table||334||||4"
 msgid "Whaddya mean?"
@@ -42913,11 +42913,11 @@ msgstr "Che intendi dire?"
 
 msgctxt "21||speech_list_main09||table||335||||4"
 msgid "Well, I've been hidin' something from\nall of you for a long time now."
-msgstr "Beh, vi ho nascosto qualcosa per\nmolto tempo ormai."
+msgstr "Beh, è da molto tempo che\nvi nascondo qualcosa."
 
 msgctxt "21||speech_list_main09||table||336||||4"
 msgid "That includes you, Kiryu-san."
-msgstr "Questo include anche te, Kiryu-san."
+msgstr "E questo vale anche per te, Kiryu-san."
 
 msgctxt "21||speech_list_main09||table||338||||4"
 msgid "It's about Haruka Sawamura\nand her baby."
@@ -42945,11 +42945,11 @@ msgstr "Perché non ce l'hai detto!?"
 
 msgctxt "21||speech_list_main09||table||344||||4"
 msgid "I had my reasons for keeping all\nthis surveillance a secret."
-msgstr "Avevo le mie ragioni per mantenere\ntutta questa sorveglianza un segreto."
+msgstr "Avevo le mie ragioni per tenere\nsegreta tutta questa sorveglianza."
 
 msgctxt "21||speech_list_main09||table||345||||4"
 msgid "From the second that kid was born,\nhe's been destined t'have people after him."
-msgstr "Dal secondo in cui quel bambino è nato,\nè stato destinato ad avere persone alle calcagna."
+msgstr "Dal primo istante in cui quel bambino è nato,\nera destinato ad avere qualcuno alle calcagna."
 
 msgctxt "21||speech_list_main09||table||346||||4"
 msgid "And as Kiryu-san figured out in Kamurocho,\nTatsukawa isn't the boy's father."
@@ -42961,27 +42961,27 @@ msgstr "Ma questa è una questione a parte."
 
 msgctxt "21||speech_list_main09||table||348||||4"
 msgid "As for the kid's value... It all comes\nback to the true identity of his father."
-msgstr "Per quanto riguarda il valore del bambino... Tutto torna\nalla vera identità di suo padre."
+msgstr "Per quanto riguarda il valore del bambino... Tutto ruota\nattorno alla vera identità di suo padre."
 
 msgctxt "22||speech_list_main10||table||0||||4"
 msgid "Now then, we were just gettin' to\nhow I can be sure Yuta is the father."
-msgstr "Orbene, stavamo giusto arrivando a come\nfaccio ad essere sicuro che Yuta sia il padre."
+msgstr "Dunque, stavamo giusto arrivando al perché\nsono così sicuro che Yuta sia il padre."
 
 msgctxt "22||speech_list_main10||table||1||||4"
 msgid "It all has to do with when Masuzoe and\nTatsukawa first noticed Haruka's pregnancy."
-msgstr "Ha tutto a che fare con quando Masuzoe e\nTatsukawa si sono accorti della gravidanza di Haruka."
+msgstr "Tutto dipende dal momento in cui Masuzoe e\nTatsukawa si sono accorti della gravidanza di Haruka."
 
 msgctxt "22||speech_list_main10||table||2||||4"
 msgid "Truth is, they've been keeping an eye\non Yuta since he was a little boy."
-msgstr "La verità è che tengono d'occhio Yuta\nfin da quando era un ragazzino."
+msgstr "La verità è che tenevano d'occhio Yuta\nfin da quando era un ragazzino."
 
 msgctxt "22||speech_list_main10||table||3||||4"
 msgid "You watched Yuta?"
-msgstr "Sorvegliavate Yuta?"
+msgstr "Tenevate d'occhio Yuta?"
 
 msgctxt "22||speech_list_main10||table||4||||4"
 msgid "Wh-Why is that?\nWhy were the two of them watching me!?"
-msgstr "E-E perché mai?\nPerché loro due mi stavano sorvegliando!?"
+msgstr "P-Perché mai?\nPerché quei due mi sorvegliavano!?"
 
 msgctxt "22||speech_list_main10||table||5||||4"
 msgid "Because, you are the heir\nto the Saio Triad."
@@ -43173,7 +43173,7 @@ msgstr "Non potevamo permettere che il lignaggio della famiglia\nvenisse macchia
 
 msgctxt "22||speech_list_main10||table||58||||4"
 msgid "And worse still, it'd be disastrous for our\nbackup heir to go around pumping out kids."
-msgstr "E, cosa ancora peggiore, sarebbe stato disastroso se il nostro\nerede di riserva andasse in giro a sfornare mocciosi."
+msgstr "E, peggio ancora, sarebbe stato disastroso se il nostro\nerede di riserva fosse andato in giro a sfornare mocciosi."
 
 msgctxt "22||speech_list_main10||table||59||||4"
 msgid "It was our job to pluck out\nthose weeds before they grew."
@@ -43181,7 +43181,7 @@ msgstr "Era nostro compito sradicare quelle\nerbacce prima che crescessero."
 
 msgctxt "22||speech_list_main10||table||60||||4"
 msgid "Y'can't talk about kids like that, asshole!"
-msgstr "Non puoi parlare dei bambini così, bastardo!"
+msgstr "Non puoi parlare così dei bambini, bastardo!"
 
 msgctxt "22||speech_list_main10||table||61||||4"
 msgid "But before we could do that, Haruka\ndisappeared from town without a trace."
@@ -43305,7 +43305,7 @@ msgstr "Tatsukawa è stato colui che\nalla fine ha trovato Haruka e il bambino."
 
 msgctxt "22||speech_list_main10||table||95||||4"
 msgid "Hirose-san had hidden them in a tiny rural\nvillage just a stone's throw away from here."
-msgstr "Hirose-san li aveva nascosti in un minuscolo villaggio rurale\na due passi da qui."
+msgstr "Hirose-san li aveva nascosti in una minuscola cittadina rurale\na due passi da qui."
 
 msgctxt "22||speech_list_main10||table||97||||4"
 msgid "Soon as we had that, we reported it\nup, in detail, to the boss. His order?"
@@ -43489,7 +43489,7 @@ msgstr "Ma che diavolo!?"
 
 msgctxt "22||speech_list_main10||table||149||||4"
 msgid "N' after they took 'im,\nthey sped off in some kinda boat."
-msgstr "E dopo che l'hanno preso,\nsono sfrecciati via su una specie di barca."
+msgstr "E dopo averlo preso,\nse la sono svignata su una specie di barca."
 
 msgctxt "22||speech_list_main10||table||150||||4"
 msgid "A boat? We'll never catch them now!"
@@ -43497,23 +43497,23 @@ msgstr "Una barca? Ora non li prenderemo mai!"
 
 msgctxt "22||speech_list_main10||table||151||||4"
 msgid "Y'can't jus' give up like that!\nDon't y'care about what happens t'yer kid!?"
-msgstr "Non puoi mica arrenderti così!\nNon ti importa di cosa succede a tuo figlio!?"
+msgstr "Non puoi mica arrenderti così!\nNon ti frega niente di cosa succederà a tuo figlio!?"
 
 msgctxt "22||speech_list_main10||table||152||||4"
 msgid "Of course I do! I jus' don't know\nhow to process all this, though."
-msgstr "Certo che mi importa! È che non\nso proprio come elaborare la cosa."
+msgstr "Certo che mi importa! È solo che non\nso proprio come metabolizzare tutto questo."
 
 msgctxt "22||speech_list_main10||table||153||||4"
 msgid "Not only is Haruto my son, but I'm\nalso the heir to a freakin' Chinese mafia?"
-msgstr "Non solo Haruto è mio figlio, ma sono anche\nl'erede di una fottuta mafia cinese?"
+msgstr "Non solo Haruto è mio figlio, ma sono pure\nl'erede di una fottuta mafia cinese?"
 
 msgctxt "22||speech_list_main10||table||154||||4"
 msgid "The words hardly make sense."
-msgstr "Hanno a malapena senso, queste parole."
+msgstr "Queste parole non hanno quasi senso."
 
 msgctxt "22||speech_list_main10||table||156||||4"
 msgid "Get it together, y'sad sack!\nIno's gettin' a boat ready fer us."
-msgstr "Ripigliati, razza di rammollito!\nIno sta preparando una barca per noi."
+msgstr "Ripigliati, razza di rammollito!\nIno ci sta preparando una barca."
 
 msgctxt "22||speech_list_main10||table||157||||4"
 msgid "'Parently the fishermen're\ngonna pitch in on the search too."
@@ -43601,7 +43601,7 @@ msgstr "Dove sono diretti?"
 
 msgctxt "22||speech_list_main10||table||180||||4"
 msgid "Well y'know how they keep the cargo floatin'\non a separate island by the shipyard?"
-msgstr "Beh, sai come tengono il carico a galla\nsu un'isola separata dal cantiere navale?"
+msgstr "Beh, sai come tengono il carico depositato\nsu un'isola separata vicino al cantiere navale?"
 
 msgctxt "22||speech_list_main10||table||181||||4"
 msgid "'Parently they're tryin' t'hide there!"
@@ -43613,7 +43613,7 @@ msgstr "Un'isola separata per il carico?\nCosa intendi?"
 
 msgctxt "22||speech_list_main10||table||183||||4"
 msgid "It'll make sense soon. Come t'think of it,\nthat'd be a great place t'store a boat."
-msgstr "Avrà senso tra poco. A pensarci bene,\nsarebbe un ottimo posto per nascondere una barca."
+msgstr "Ti sarà tutto chiaro tra un attimo. A pensarci bene,\nsarebbe un ottimo posto per nascondere una barca."
 
 msgctxt "22||speech_list_main10||table||184||||4"
 msgid "By the way, where's Masuzoe?"
@@ -43625,7 +43625,7 @@ msgstr "È scappato quando hanno iniziato\nad attaccarci al santuario."
 
 msgctxt "22||speech_list_main10||table||186||||4"
 msgid "Y'oughta jus' forget about him. We don't\ngotta protect that monster, boss."
-msgstr "Dovresti proprio dimenticarti di lui. Non dobbiamo\nmica proteggere quel mostro, capo."
+msgstr "Dovresti proprio dimenticarti di lui. Non siamo mica\ntenuti a proteggere quel mostro, capo."
 
 msgctxt "22||speech_list_main10||table||187||||4"
 msgid "Don't be mean, Tagashira."
@@ -43633,7 +43633,7 @@ msgstr "Non fare il crudele, Tagashira."
 
 msgctxt "22||speech_list_main10||table||188||||4"
 msgid "I'm wonderin' who took Haruto t'begin\nwith, though. D'ya know, Aniki?"
-msgstr "Tuttavia, mi domando chi abbia preso Haruto\ntanto per cominciare. Lo sai, Aniki?"
+msgstr "Tuttavia, mi domando chi sia stato a rapire\nHaruto, in fin dei conti. Lo sai, Aniki?"
 
 msgctxt "22||speech_list_main10||table||189||||4"
 msgid "It was the Jingweon Mafia."
@@ -43853,11 +43853,11 @@ msgstr "Praticamente è un vecchio bacucco che non piace a nessuno."
 
 msgctxt "22||speech_list_main10||table||243||||4"
 msgid "But he's a government shadow, guys."
-msgstr "Ma è un'ombra del governo, ragazzi."
+msgstr "Ma è un'ombra del governo, gente."
 
 msgctxt "22||speech_list_main10||table||244||||4"
 msgid "They say the oil crisis n' the bubble collapse\nwere both conspiracies by the Fixer."
-msgstr "Dicono che la crisi petrolifera e lo scoppio della bolla\nsiano stati entrambi cospirazioni del Fixer."
+msgstr "Dicono che la crisi petrolifera e lo scoppio della bolla\nsiano stati entrambe macchinazioni del Fixer."
 
 msgctxt "22||speech_list_main10||table||245||||4"
 msgid "Sounds like horse shit t'me. Y'been readin'\nthose damn tabloids again, huh?"
@@ -44165,19 +44165,19 @@ msgstr "Semplice, è stato un errore.\nÈ stato un esito che nessuno voleva."
 
 msgctxt "22||speech_list_main10||table||329||||4"
 msgid "A few days before the accident, Tatsukawa-kun\nfound Haruka in the town where Hirose hid her."
-msgstr "Pochi giorni prima dell'incidente, Tatsukawa-kun aveva trovato\nHaruka nel villaggio dove Hirose l'aveva nascosta."
+msgstr "Pochi giorni prima dell'incidente, Tatsukawa-kun aveva trovato\nHaruka nella cittadina dove Hirose l'aveva nascosta."
 
 msgctxt "22||speech_list_main10||table||330||||4"
 msgid "It must have been an extraordinary\nsurprise for her to see him there."
-msgstr "Dev'essere stata una sorpresa a dir\npoco straordinaria vederlo lì per lei."
+msgstr "Dev'essere stata una sorpresa enorme\nper lei vederlo lì."
 
 msgctxt "22||speech_list_main10||table||331||||4"
 msgid "But, he made quite a compelling\nargument to gain Haruka's trust."
-msgstr "Ma lui le ha fornito argomenti piuttosto\nconvincenti per guadagnarsi la fiducia di Haruka."
+msgstr "Ma ha saputo usare parole convincenti\nper guadagnarsi la fiducia di Haruka."
 
 msgctxt "22||speech_list_main10||table||332||||4"
 msgid "He claimed he would help her, even\nif it meant disobeying orders."
-msgstr "Le ha detto che l'avrebbe aiutata,\nanche a costo di disobbedire agli ordini."
+msgstr "Le ha promesso di aiutarla, anche\na costo di disobbedire agli ordini."
 
 msgctxt "22||speech_list_main10||table||333||||4"
 msgid "Apparently that's the reason he gave for\nwanting to move her somewhere \"safer.\""
@@ -44201,7 +44201,7 @@ msgstr "Tatsukawa... Perché ha dovuto\nattirare Haruka fino a Kamurocho?"
 
 msgctxt "22||speech_list_main10||table||338||||4"
 msgid "The village she was hiding in was minuscule.\nEven a minor disturbance would be big news."
-msgstr "Il villaggio in cui si nascondeva era minuscolo.\nAnche un piccolo trambusto avrebbe fatto notizia."
+msgstr "La cittadina in cui si nascondeva era minuscola.\nAnche un piccolo trambusto avrebbe fatto notizia."
 
 msgctxt "22||speech_list_main10||table||339||||4"
 msgid "If we wanted Yuta-kun to succeed\nin his assassination of Lo..."
@@ -44273,7 +44273,7 @@ msgstr "Han. Mi stai raccontando tutto questo ora per\nfarmi sentire in pace qua
 
 msgctxt "22||speech_list_main10||table||358||||4"
 msgid "Not at all. I told you because I'll no longer\nhave the chance once I reduce you to a corpse."
-msgstr "Niente affatto. Te l'ho detto perché non ne avrò\npiù l'opportunità una volta che ti avrò ridotto a un cadavere."
+msgstr "Affatto. Te l'ho detto perché non ne avrò\npiù l'opportunità una volta che ti avrò ridotto a un cadavere."
 
 msgctxt "22||speech_list_main10||table||359||||4"
 msgid "And to die not knowing would be a shame."
@@ -44281,7 +44281,7 @@ msgstr "E morire senza sapere sarebbe un vero peccato."
 
 msgctxt "22||speech_list_main10||table||360||||4"
 msgid "Now then, we can finally settle\nthis quarrel once and for all."
-msgstr "Orbene, possiamo finalmente sistemare\nla nostra diatriba una volta per tutte."
+msgstr "Ebbene, possiamo finalmente sistemare\ni nostri conti una volta per tutte."
 
 msgctxt "22||speech_list_main10||table||361||||4"
 msgid "Nobody can get in our way anymore."
@@ -44529,7 +44529,7 @@ msgstr "...Ma è difficile negare quanto ti faccia\nsentire bene l'avere un figl
 
 msgctxt "23||speech_list_main11||table||58||||4"
 msgid "I'd do whatever it takes to protect him,\ndown to putting my own life on the line."
-msgstr "Farei qualsiasi cosa per proteggerlo,\nfino a mettere a repentaglio la mia stessa vita."
+msgstr "Farei qualsiasi cosa per proteggerlo,\nfino a rischiare la mia stessa vita."
 
 msgctxt "23||speech_list_main11||table||59||||4"
 msgid "Good to hear."
@@ -44537,11 +44537,11 @@ msgstr "Mi fa piacere sentirlo."
 
 msgctxt "23||speech_list_main11||table||60||||4"
 msgid "Truth is, I was kind of an angry kid."
-msgstr "La verità è che ero un ragazzino un po' rabbioso."
+msgstr "La verità è che ero un ragazzino pieno di rabbia."
 
 msgctxt "23||speech_list_main11||table||61||||4"
 msgid "The orphanage was the only home I knew,\nand that punk Tatsukawa was my only friend."
-msgstr "L'orfanotrofio era l'unica casa che io conoscessi,\ne quel teppistello di Tatsukawa era il mio unico amico."
+msgstr "L'orfanotrofio era l'unica casa che avessi mai conosciuto,\ne quel diavolo di Tatsukawa era il mio unico amico."
 
 msgctxt "23||speech_list_main11||table||62||||4"
 msgid "I wanted to hate my parents for abandoning me,\nbut I couldn't even remember their faces."
