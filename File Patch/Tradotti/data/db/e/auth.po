@@ -6073,19 +6073,19 @@ msgstr "Sconfiggendomi davanti a Lo-san, potresti\r\npotenzialmente guadagnarti 
 
 msgctxt "72||a08_020||cinema_telop||16||||4"
 msgid "It wouldn't be the first time your integrity\r\nhas charmed men who were once your foes."
-msgstr "Non sarebbe la prima volta che la tua integrità\r\naffascina uomini che un tempo erano tuoi nemici."
+msgstr "Non sarebbe la prima volta che la tua integrità\r\nha conquistato uomini che un tempo erano tuoi nemici."
 
 msgctxt "72||a08_020||cinema_telop||17||||4"
 msgid "It's that charisma that helped you\r\nascend the ranks all those years ago."
-msgstr "È questo carisma che ti ha aiutato a\r\nsalire di grado tutti quegli anni fa."
+msgstr "È quel carisma che ti ha aiutato a\r\nscalare i ranghi tanti anni fa."
 
 msgctxt "72||a08_020||cinema_telop||18||||4"
 msgid "I only seek the same for myself,\r\nthough my methods are more calculated."
-msgstr "Io cerco solo la stessa cosa per me stesso,\r\nanche se i miei metodi sono più calcolati."
+msgstr "Io cerco solo la stessa cosa per me,\r\nanche se i miei metodi sono più calcolati."
 
 msgctxt "72||a08_020||cinema_telop||19||||4"
 msgid "What are you trying to say?"
-msgstr "Cosa stai cercando di dire?"
+msgstr "Dove vuoi arrivare?"
 
 msgctxt "72||a08_020||cinema_telop||20||||4"
 msgid "Fourth Chairman..."
@@ -6097,15 +6097,15 @@ msgstr "Io e te non siamo così diversi.\r\nSolo mezzi diversi per lo stesso fin
 
 msgctxt "72||a08_020||cinema_telop||22||||4"
 msgid "Don't flatter yourself."
-msgstr "Non lusingarti."
+msgstr "Non montarti la testa."
 
 msgctxt "72||a08_020||cinema_telop||23||||4"
 msgid "This should be a fascinating sight."
-msgstr "Dovrebbe essere uno spettacolo affascinante."
+msgstr "Si prospetta uno spettacolo affascinante."
 
 msgctxt "72||a08_020||cinema_telop||24||||4"
 msgid "So the fourth chairman is going to\r\ngrace me with the honor of a duel."
-msgstr "Quindi il quarto presidente mi\r\nonorerà di un duello."
+msgstr "Quindi il quarto presidente mi\r\nconcederà l'onore di un duello."
 
 msgctxt "72||a08_020||cinema_telop||25||||4"
 msgid "I won't be needing this, then."
@@ -6149,7 +6149,7 @@ msgstr "O forse tu, Lo-san?"
 
 msgctxt "74||a08_035||cinema_telop||1||||4"
 msgid "Apologies, but I cannot offer you\r\nany knowledge of Tatsukawa's betrayal."
-msgstr "Le mie scuse, ma non posso offrirti alcuna\r\nconoscenza sul tradimento di Tatsukawa."
+msgstr "Le mie scuse, ma non posso darti alcuna\r\nspiegazione sul tradimento di Tatsukawa."
 
 msgctxt "74||a08_035||cinema_telop||2||||4"
 msgid "Though it might be different if you joined\r\nthe Saio Triad by swearing allegiance to me."
@@ -6193,7 +6193,7 @@ msgstr "Inoltre..."
 
 msgctxt "74||a08_035||cinema_telop||13||||4"
 msgid "...It seems others are slowly becoming\r\naware of his true value."
-msgstr "...Sembra che altri stiano lentamente\r\nprendendo coscienza del suo vero valore."
+msgstr "...Sembra che altri si stiano lentamente\r\nrendendo conto del suo vero valore."
 
 msgctxt "74||a08_035||cinema_telop||14||||4"
 msgid "What value are you talking about?\r\nWho the hell is this kid's father!?"

@@ -40465,15 +40465,15 @@ msgstr "Perché mai lo avrebbero fatto?"
 
 msgctxt "20||speech_list_main08||table||16||||4"
 msgid "Even you're stumped, Date-san?"
-msgstr "Senza parole anche tu, Date-san?"
+msgstr "Non sai che pesci pigliare neanche tu, Date-san?"
 
 msgctxt "20||speech_list_main08||table||17||||4"
 msgid "I'm speechless about all this."
-msgstr "Non ho parole riguardo a tutto ciò."
+msgstr "Sono davvero senza parole per tutta questa storia."
 
 msgctxt "20||speech_list_main08||table||18||||4"
 msgid "It's hard to believe there were really\ntriads livin' among us this whole time."
-msgstr "È difficile credere che le triadi vivessero\ndavvero in mezzo a noi per tutto questo tempo."
+msgstr "È difficile credere che ci fossero davvero le\ntriadi a vivere in mezzo a noi per tutto questo tempo."
 
 msgctxt "20||speech_list_main08||table||19||||4"
 msgid "I mean, Tatsukawa n' I have been\nfriends since we were kids."
@@ -40489,11 +40489,11 @@ msgstr "E quale potrebbe essere il segreto\ndi Onomichi di cui ha parlato Lo?"
 
 msgctxt "20||speech_list_main08||table||22||||4"
 msgid "Who knows. All I care about is why\nthe Saio decided to kill Tatsukawa."
-msgstr "Chissà. A me importa solo perché\ni Saio abbiano deciso di uccidere Tatsukawa."
+msgstr "Chissà. A me interessa solo capire perché\ni Saio abbiano deciso di uccidere Tatsukawa."
 
 msgctxt "20||speech_list_main08||table||23||||4"
 msgid "If it doesn't involve Haruka, they can\nkeep their secrets to themselves."
-msgstr "Se la cosa non riguarda Haruka, possono\ntenersi i loro segreti per conto loro."
+msgstr "Se la cosa non riguarda Haruka, possono\npure tenersi i loro segreti."
 
 msgctxt "20||speech_list_main08||table||24||||4"
 msgid "Hm?"
@@ -40569,19 +40569,19 @@ msgstr "Andrò dritto al sodo, Quarto Presidente.\nCosa ne penserebbe di un'alle
 
 msgctxt "20||speech_list_main08||table||42||||4"
 msgid "What the hell?"
-msgstr "Che diamine dici?"
+msgstr "Che diavolo dici?"
 
 msgctxt "20||speech_list_main08||table||43||||4"
 msgid "You met with Lo from the Saio Triad\nlast night, did you not?"
-msgstr "Lei ha incontrato Lo della Triade Saio\nla scorsa notte, dico bene?"
+msgstr "Lei ha incontrato Lo della Triade Saio\nieri notte, dico bene?"
 
 msgctxt "20||speech_list_main08||table||45||||4"
 msgid "Some of my men said they saw\nhim going into Little Asia."
-msgstr "Alcuni dei miei uomini dicono di\naverlo visto entrare a Little Asia."
+msgstr "Alcuni dei miei uomini hanno detto di\naverlo visto entrare a Little Asia."
 
 msgctxt "20||speech_list_main08||table||46||||4"
 msgid "Interestingly enough, those same men\nsaid they saw you there as well."
-msgstr "È interessante notare come quegli stessi uomini\nabbiano affermato di aver visto anche lei lì."
+msgstr "Curiosamente, quegli stessi uomini\nhanno affermato di aver visto lì anche lei."
 
 msgctxt "20||speech_list_main08||table||47||||4"
 msgid "And?"
@@ -40605,15 +40605,15 @@ msgstr "Come ben sa, il Clan Tojo è impantanato\nin una guerra brutale contro l
 
 msgctxt "20||speech_list_main08||table||52||||4"
 msgid "Neither side seems satisfied with the\nbloodshed, and there's no end in sight."
-msgstr "Nessuna delle due parti sembra essersi saziata\ndi sangue, e la fine non è ancora in vista."
+msgstr "Nessuna delle due parti sembra essersi saziata\ndi sangue, e non se ne vede la fine."
 
 msgctxt "20||speech_list_main08||table||53||||4"
 msgid "I'd hoped to strike a deal with Lo,\nbut he's been quite secretive."
-msgstr "Speravo di stringere un patto con Lo,\nma si è dimostrato piuttosto elusivo."
+msgstr "Speravo di trovare un accordo con Lo,\nma si è dimostrato piuttosto sfuggente."
 
 msgctxt "20||speech_list_main08||table||54||||4"
 msgid "That is, ever since that\nincident occurred."
-msgstr "Questo da quando si è\nverificato quell'incidente."
+msgstr "O perlomeno, da quando si è\nverificato quell'incidente."
 
 msgctxt "20||speech_list_main08||table||55||||4"
 msgid "What incident?"
@@ -40621,7 +40621,7 @@ msgstr "Quale incidente?"
 
 msgctxt "20||speech_list_main08||table||56||||4"
 msgid "Didn't you hear?"
-msgstr "Non ha saputo nulla?"
+msgstr "Non ne ha saputo nulla?"
 
 msgctxt "20||speech_list_main08||table||57||||4"
 msgid "His son, Jimmy Lo,\nwas murdered in Kamurocho."
@@ -40633,7 +40633,7 @@ msgstr "Jimmy era un ufficiale Saio incaricato di\norganizzare le loro forze a K
 
 msgctxt "20||speech_list_main08||table||59||||4"
 msgid "He stood to inherit the triad, but instead\nhe wound up full of maggots in some dark alley."
-msgstr "Lui era destinato a ereditare la triade, ma invece\nè finito divorato dai vermi in qualche vicolo buio."
+msgstr "Era destinato a ereditare la triade, e invece\nè finito divorato dai vermi in qualche vicolo buio."
 
 msgctxt "20||speech_list_main08||table||60||||4"
 msgid "So, did the Tojo Clan kill Lo's son?"
@@ -40641,15 +40641,15 @@ msgstr "Dunque, è stato il Clan Tojo a uccidere il figlio di Lo?"
 
 msgctxt "20||speech_list_main08||table||61||||4"
 msgid "I'd rather not answer that in front\nof our detective friend here."
-msgstr "Preferirei non rispondere in presenza\ndel nostro amico detective, qui presente."
+msgstr "Preferirei non rispondere davanti\nal nostro amico detective, qui presente."
 
 msgctxt "20||speech_list_main08||table||62||||4"
 msgid "Consider this conversation off the record.\nNot like we could pursue it without evidence."
-msgstr "Considera questa conversazione confidenziale.\nInoltre, non potremmo certo procedere senza prove."
+msgstr "Considera questa conversazione non ufficiale.\nNon che potremmo procedere senza prove."
 
 msgctxt "20||speech_list_main08||table||63||||4"
 msgid "In that case, I have no idea\nwho killed Jimmy Lo."
-msgstr "In tal caso, non ho alcuna idea\ndi chi abbia ucciso Jimmy Lo."
+msgstr "In tal caso, non ho la minima idea\ndi chi abbia ucciso Jimmy Lo."
 
 msgctxt "20||speech_list_main08||table||64||||4"
 msgid "His father seems quite certain\nthe Tojo Clan were behind it, though."
@@ -41025,15 +41025,15 @@ msgstr "Siamo arrivati. Lo Shangri-La."
 
 msgctxt "20||speech_list_main08||table||162||||4"
 msgid "Lo has probably already noticed that\nI've come with you, Fourth Chairman."
-msgstr "Lo avrà probabilmente già notato che\nsono venuto con lei, Quarto Presidente."
+msgstr "Probabilmente Lo avrà già notato che\nsono venuto con lei, Quarto Presidente."
 
 msgctxt "20||speech_list_main08||table||163||||4"
 msgid "Let's hope he still wants to talk,\nnow that you've broken your word."
-msgstr "Speriamo che voglia ancora parlare, ora\nche lei è venuto meno alla parola data."
+msgstr "Speriamo che abbia ancora voglia di parlare,\nora che è venuto meno alla parola data."
 
 msgctxt "20||speech_list_main08||table||164||||4"
 msgid "I hope so. This would be\na complete waste of time if not."
-msgstr "Spero di sì. Se no, questa\nsarebbe una completa perdita di tempo."
+msgstr "Spero di sì. Altrimenti questa\nsarebbe una totale perdita di tempo."
 
 msgctxt "20||speech_list_main08||table||165||||4"
 msgid "Well, I suppose we'll learn\nthe truth once we're inside."
@@ -41041,7 +41041,7 @@ msgstr "Beh, suppongo che scopriremo\nla verità non appena saremo dentro."
 
 msgctxt "20||speech_list_main08||table||166||||4"
 msgid "I'm shocked he asked to meet you here, though.\nLo clearly doesn't know how to treat his guests."
-msgstr "Sono sorpreso che abbia chiesto di incontrarla qui, però.\nLo chiaramente non sa come trattare i propri ospiti."
+msgstr "Mi sorprende che abbia chiesto di incontrarla qui, però.\nÈ evidente che Lo non sa come trattare i propri ospiti."
 
 msgctxt "20||speech_list_main08||table||167||||4"
 msgid "Yeah, for once I agree with you."
@@ -41549,7 +41549,7 @@ msgstr "In altre parole, sono pedine,\nindegne dei miei proiettili."
 
 msgctxt "20||speech_list_main08||table||305||||4"
 msgid "I'll make sure you regret\nthose words, Lo-san."
-msgstr "Mi assicurerò che ti penta di\nquelle parole, Lo-san."
+msgstr "Ti farò pentire di\nquelle parole, Lo-san."
 
 msgctxt "20||speech_list_main08||table||306||||4"
 msgid "You really think it wise to free\nthe man who just tried to kill you?"
@@ -41561,7 +41561,7 @@ msgstr "Se dovessi uccidere ogni uomo che mi\nvuole morto, non dormirei mai più
 
 msgctxt "20||speech_list_main08||table||308||||4"
 msgid "More men have conspired against me\nthan there are stars in the sky."
-msgstr "Ci sono stati più uomini a cospirare contro di me\ndi quante siano le stelle nel cielo."
+msgstr "Hanno cospirato contro di me più uomini\ndi quante siano le stelle in cielo."
 
 msgctxt "20||speech_list_main08||table||310||||4"
 msgid "It would be simple to kill you here, yes."
@@ -41569,11 +41569,11 @@ msgstr "Sarebbe fin troppo semplice ucciderti qui, sì."
 
 msgctxt "20||speech_list_main08||table||311||||4"
 msgid "However, that would only serve to prod\nthe hornet's nest that is the Tojo Clan."
-msgstr "Tuttavia, non farebbe che dare una scossa\nal nido di vespe che è il Clan Tojo."
+msgstr "Tuttavia, non farebbe altro che stuzzicare\nil nido di calabroni che è il Clan Tojo."
 
 msgctxt "20||speech_list_main08||table||312||||4"
 msgid "It would be foolish to incite the hive\njust to crush one large bee underfoot."
-msgstr "Sarebbe da stolti stuzzicare l'alveare solo per\nschiacciare una grossa ape sotto i propri piedi."
+msgstr "Sarebbe da stolti scatenare l'alveare solo per\nschiacciare una grossa ape sotto i piedi."
 
 msgctxt "20||speech_list_main08||table||313||||4"
 msgid "That's all I am?\nOne bee in a hive?"
@@ -41613,19 +41613,19 @@ msgstr "Mi assicurerò di farglielo sapere. La ringrazio per la\nlezione di oggi
 
 msgctxt "20||speech_list_main08||table||323||||4"
 msgid "Kiryu-san. Do you object to how\nI chose to deal with him?"
-msgstr "Kiryu-san. Hai delle obiezioni riguardo a\ncome ho scelto di sistemare le cose con lui?"
+msgstr "Kiryu-san. Hai qualcosa in contrario su\ncome ho deciso di sistemarlo?"
 
 msgctxt "20||speech_list_main08||table||324||||4"
 msgid "No, not at all."
-msgstr "No, per niente."
+msgstr "No, affatto."
 
 msgctxt "20||speech_list_main08||table||325||||4"
 msgid "Watching you fight him gave me a good\nimpression of the kind of man you are."
-msgstr "Guardarti combattere contro di lui mi ha fatto fare\nun'ottima idea del tipo di persona che sei."
+msgstr "Vedere come l'hai affrontato mi ha fatto\ncapire che tipo di uomo sei."
 
 msgctxt "20||speech_list_main08||table||326||||4"
 msgid "That was ultimately all I wanted\nout of our meeting today anyway."
-msgstr "Che, in fin dei conti, era tutto quello che\nvolevo da questo nostro incontro oggi."
+msgstr "Che, in fin dei conti, era tutto quello che\nvolevo dal nostro incontro di oggi."
 
 msgctxt "20||speech_list_main08||table||327||||4"
 msgid "Unfortunately, I didn't come all this\nway to learn more about you."
@@ -41641,7 +41641,7 @@ msgstr "È l'unico motivo per cui sono qui."
 
 msgctxt "20||speech_list_main08||table||331||||4"
 msgid "Why exactly did you feel it\nnecessary to kill him?"
-msgstr "Perché esattamente avete\nritenuto necessario ucciderlo?"
+msgstr "Perché esattamente hai\nritenuto necessario ucciderlo?"
 
 msgctxt "20||speech_list_main08||table||332||||4"
 msgid "What did he do to betray the Saio?"
@@ -41649,7 +41649,7 @@ msgstr "Che cosa ha fatto per tradire i Saio?"
 
 msgctxt "21||speech_list_main09||table||0||||4"
 msgid "(Why would Hirose-san kidnap Haruto?\nI need to go meet up with Yuta at Serena!)"
-msgstr "(Perché Hirose-san dovrebbe rapire Haruto?\nDevo raggiungere subito Yuta al Serena!)"
+msgstr "(Perché Hirose-san avrebbe dovuto rapire Haruto?\nDevo raggiungere subito Yuta al Serena!)"
 
 msgctxt "21||speech_list_main09||table||1||||4"
 msgid "Kiryu-aniki!"
@@ -41665,19 +41665,19 @@ msgstr "Avete scoperto qualcosa di nuovo?"
 
 msgctxt "21||speech_list_main09||table||4||||4"
 msgid "We tried to contact Hirose-san, but he's\nbeen off the grid since he took Haruto."
-msgstr "Abbiamo provato a contattare Hirose-san, ma è irreperibile\nda quando ha preso Haruto."
+msgstr "Abbiamo provato a contattare Hirose-san, ma è\n irreperibile da quando ha preso Haruto."
 
 msgctxt "21||speech_list_main09||table||5||||4"
 msgid "What exactly is the boss playin' at here?"
-msgstr "A che diavolo sta giocando il capo qui?"
+msgstr "A che diavolo sta giocando il capo?"
 
 msgctxt "21||speech_list_main09||table||6||||4"
 msgid "Why d'ya think he'd jus' take\nthe kid without even a word?"
-msgstr "Perché credi abbia preso\nil bambino senza dire una parola?"
+msgstr "Perché pensi che si sia preso\nil bambino senza dire neanche una parola?"
 
 msgctxt "21||speech_list_main09||table||7||||4"
 msgid "According to Lo, Haruto has some kind of\nhidden significance to the yakuza."
-msgstr "Secondo Lo, Haruto ha una sorta di\nsignificato nascosto per la yakuza."
+msgstr "Secondo Lo, Haruto ha una specie di\nimportanza segreta per la yakuza."
 
 msgctxt "21||speech_list_main09||table||8||||4"
 msgid "Huh?"
@@ -41689,7 +41689,7 @@ msgstr "Oltre a questo, a quanto pare\nTatsukawa non è nemmeno il padre di Haru
 
 msgctxt "21||speech_list_main09||table||10||||4"
 msgid "Say what now!?"
-msgstr "Come hai detto, scusa!?"
+msgstr "Cosa hai detto, scusa!?"
 
 msgctxt "21||speech_list_main09||table||11||||4"
 msgid "N-No way..."
@@ -41701,7 +41701,7 @@ msgstr "Parleremo di Lo più tardi. Per ora,\nil patriarca Hirose è la nostra p
 
 msgctxt "21||speech_list_main09||table||13||||4"
 msgid "Oh yeah, Aniki, we did actually hear\nsomethin' from Hiroshima earlier."
-msgstr "Oh sì, Aniki, in effetti prima\nabbiamo sentito qualcuno da Hiroshima."
+msgstr "Ah già, Aniki, in realtà prima\nabbiamo avuto notizie da Hiroshima."
 
 msgctxt "21||speech_list_main09||table||14||||4"
 msgid "Matsunaga n' Tagashira said the main\nfamily's on the hunt fer Hirose-san, too."
@@ -41709,7 +41709,7 @@ msgstr "Matsunaga e Tagashira dicono che anche la\nfamiglia principale è a cacc
 
 msgctxt "21||speech_list_main09||table||15||||4"
 msgid "'Parently Captain Koshimizu came\n'round the office n' started hollerin'."
-msgstr "A quanto pare il Capitano Koshimizu è passato\ndall'ufficio e ha iniziato a urlare come un pazzo."
+msgstr "A quanto pare il Capitano Koshimizu è passato\ndall'ufficio e ha iniziato a sbraitare."
 
 msgctxt "21||speech_list_main09||table||16||||4"
 msgid "Koshimizu?"
@@ -41717,19 +41717,19 @@ msgstr "Koshimizu?"
 
 msgctxt "21||speech_list_main09||table||17||||4"
 msgid "What would a Yomei captain\nwant with Patriarch Hirose?"
-msgstr "Cosa vorrebbe un capitano dei Yomei\ndal Patriarca Hirose?"
+msgstr "Cosa vorrebbe un capitano dell'Alleanza\nYomei dal Patriarca Hirose?"
 
 msgctxt "21||speech_list_main09||table||18||||4"
 msgid "I ain't really sure, but considerin'\nwhat y'said Lo told ya..."
-msgstr "Non ne sono molto sicuro, ma considerando\nquello che hai detto che Lo ti ha riferito..."
+msgstr "Non ne sono sicuro, ma considerando\nquello che ti ha detto Lo..."
 
 msgctxt "21||speech_list_main09||table||19||||4"
 msgid "...The kid's probly part o' somethin'\nway bigger than he even knows."
-msgstr "...Il bambino fa probabilmente parte di\nqualcosa di molto più grande di lui."
+msgstr "...Il bambino fa probabilmente parte di\nqualcosa di molto più grande di quel che pensiamo."
 
 msgctxt "21||speech_list_main09||table||20||||4"
 msgid "I reckon it's possible the Yomei aren't\nreally goin' fer the boss, but fer the kid."
-msgstr "Credo sia possibile che gli Yomei non stiano dando la\ncaccia al capo per lui, ma per via del bambino."
+msgstr "Mi sa che è possibile che gli Yomei non stiano dando la\ncaccia al capo per lui, ma per via del bambino."
 
 msgctxt "21||speech_list_main09||table||21||||4"
 msgid "We just need to get to Hiroshima."
@@ -41741,7 +41741,7 @@ msgstr "Che mi dite del resto della famiglia, però?\nMatsunaga e Tagashira sono
 
 msgctxt "21||speech_list_main09||table||23||||4"
 msgid "Yeah. They're hiding at Moreno\nso the main family doesn't find 'em."
-msgstr "Sì. Si stanno nascondendo al Moreno\ncosì la famiglia principale non li trova."
+msgstr "Sì. Si stanno nascondendo al Moreno\nper non farsi trovare dalla famiglia principale."
 
 msgctxt "21||speech_list_main09||table||24||||4"
 msgid "Moreno? Ain't that gonna be the first\nplace they go lookin' for the boss?"
@@ -41749,7 +41749,7 @@ msgstr "Il Moreno? Non sarà il primo posto in cui\nandranno a cercare il capo?"
 
 msgctxt "21||speech_list_main09||table||25||||4"
 msgid "Those knuckleheads are gonna\nget themselves caught."
-msgstr "Quei testoni\nsi faranno beccare."
+msgstr "Quegli idioti finiranno\nper farsi beccare."
 
 msgctxt "21||speech_list_main09||table||26||||4"
 msgid "You're right about that. And even if they\ndon't know where Hirose-san went..."
@@ -41757,7 +41757,7 @@ msgstr "Su questo hai ragione. E anche se non\nsanno dove sia andato Hirose-san.
 
 msgctxt "21||speech_list_main09||table||27||||4"
 msgid "...The Yomei Alliance isn't\nreally going to care."
-msgstr "...All'Alleanza Yomei\nnon importerà molto."
+msgstr "...All'Alleanza Yomei\nnon importerà un bel niente."
 
 msgctxt "21||speech_list_main09||table||28||||4"
 msgid "Either way, our first stop is Moreno.\nGet ready to leave Kamurocho, you two."
@@ -41765,11 +41765,11 @@ msgstr "In ogni caso, la nostra prima tappa è il Moreno.\nPreparatevi a lasciar
 
 msgctxt "21||speech_list_main09||table||29||||4"
 msgid "We're ready t'head back to Hiroshima\nwhenever y'wanna leave."
-msgstr "Siamo pronti a tornare a Hiroshima\nquando vuoi."
+msgstr "Siamo pronti a tornare a Hiroshima\nquando vuoi tu."
 
 msgctxt "21||speech_list_main09||table||30||||4"
 msgid "Jus' lemme know when\nyer finished preppin'."
-msgstr "Fammi solo sapere quando\nhai finito di prepararti."
+msgstr "Facci un fischio quando\nhai finito i preparativi."
 
 msgctxt "21||speech_list_main09||table||31||||4"
 msgid "Aniki. Are y'ready fer our trip\nback t'Hiroshima?"
