@@ -48317,7 +48317,7 @@ msgstr "Non so voi,\nma è così che mi sento da quando sono arrivato qui."
 
 msgctxt "25||speech_list_main13||table||176||||4"
 msgid "All right, let's crush 'em!\nThis one's fer Patriarch Hirose!"
-msgstr "D'accordo, facciamoli a pezzi!\nQuesto è per il Patriarca Hirose!"
+msgstr "D'accordo, facciamoli a pezzi!\nQuesta è per il Patriarca Hirose!"
 
 msgctxt "25||speech_list_main13||table||177||||4"
 msgid "These fuckin' fuckheads..."
@@ -48325,7 +48325,7 @@ msgstr "Queste fottute teste di cazzo..."
 
 msgctxt "25||speech_list_main13||table||178||||4"
 msgid "Keep an eye outside for me.\nI need to get in touch with Yuta."
-msgstr "Date un'occhiata fuori per me.\nDevo mettermi in contatto con Yuta."
+msgstr "Fate la guardia fuori per me.\nDevo mettermi in contatto con Yuta."
 
 msgctxt "25||speech_list_main13||table||179||||4"
 msgid "Why Yuta?"
@@ -48333,15 +48333,15 @@ msgstr "Perché Yuta?"
 
 msgctxt "25||speech_list_main13||table||180||||4"
 msgid "The Tojo Clan is coming for Haruka."
-msgstr "Il Clan Tojo sta cercando Haruka."
+msgstr "Il Clan Tojo sta venendo a prendere Haruka."
 
 msgctxt "25||speech_list_main13||table||181||||4"
 msgid "They mean business, too. I doubt\nthe police hospital will be safe anymore."
-msgstr "E fanno sul serio. Dubito che\nl'ospedale della polizia sarà più al sicuro."
+msgstr "E fanno sul serio. Dubito che\nl'ospedale della polizia sia ancora un posto sicuro."
 
 msgctxt "25||speech_list_main13||table||182||||4"
 msgid "Tagashira. More o' those main family guys'll\nprobly swing by. Keep an eye on the streets."
-msgstr "Tagashira. Probabilmente passeranno altri tizi della\nfamiglia principale. Tieni d'occhio le strade."
+msgstr "Tagashira. Probabilmente si faranno vivi altri tizi della\nfamiglia principale. Tieni d'occhio le strade."
 
 msgctxt "25||speech_list_main13||table||183||||4"
 msgid "Aniki? It's Yuta."

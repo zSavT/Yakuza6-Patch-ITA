@@ -8301,15 +8301,15 @@ msgstr "Aniki! Da questa parte!"
 
 msgctxt "101||a12_040||cinema_telop||3||||4"
 msgid "This is the spot the code was pointin' to."
-msgstr "Questo è il posto indicato dal codice."
+msgstr "Questo è il posto che indicava il codice."
 
 msgctxt "101||a12_040||cinema_telop||4||||4"
 msgid "The secret's in here.\r\nIt's gotta be!"
-msgstr "Il segreto è qui dentro.\r\nDeve esserlo!"
+msgstr "Il segreto è qui dentro.\r\nDeve esserci per forza!"
 
 msgctxt "101||a12_040||cinema_telop||5||||4"
 msgid "It's real freakin' rusty...!"
-msgstr "È dannatamente arrugginito...!"
+msgstr "È tutto arrugginito...!"
 
 msgctxt "101||a12_040||cinema_telop||6||||4"
 msgid "Aniki!"
@@ -8401,7 +8401,7 @@ msgstr "Ti spiegherò tutto questo casino più tardi."
 
 msgctxt "101||a12_040||cinema_telop||29||||4"
 msgid "B-Boss..."
-msgstr "B-Boss..."
+msgstr "C-Capo..."
 
 msgctxt "101||a12_040||cinema_telop||30||||4"
 msgid "Yer really the one who's been\r\nprotectin' the secret o' Onomichi."
@@ -8413,11 +8413,11 @@ msgstr "E che mi dici di Yuta, eh?\r\nHai cercato di trasformarlo in un assassin
 
 msgctxt "101||a12_040||cinema_telop||32||||4"
 msgid "Get outta my way."
-msgstr "Spostatevi."
+msgstr "Toglietevi di mezzo."
 
 msgctxt "101||a12_040||cinema_telop||33||||4"
 msgid "Tagashira'll find it soon enough."
-msgstr "Tagashira lo troverà abbastanza in fretta."
+msgstr "Tagashira lo troverà tra non molto."
 
 msgctxt "101||a12_040||cinema_telop||34||||4"
 msgid "I got no time to waste on you."
@@ -8457,15 +8457,15 @@ msgstr "Ti ho detto di farti da parte, cazzo!"
 
 msgctxt "101||a12_040||cinema_telop||43||||4"
 msgid "You want past...\r\nYou'll have to go through me!"
-msgstr "Se volete passare...\r\nDovrete passare sul mio cadavere!"
+msgstr "Se vuoi passare...\r\nDovrai passare sul mio cadavere!"
 
 msgctxt "101||a12_040||cinema_telop||44||||4"
 msgid "You want past...\r\nYou'll have to go through me!"
-msgstr "Se volete passare...\r\nDovrete passare sul mio cadavere!"
+msgstr "Se vuoi passare...\r\nDovrai passare sul mio cadavere!"
 
 msgctxt "101||a12_040||cinema_telop||45||||4"
 msgid "You want past...\r\nYou'll have to go through me!"
-msgstr "Se volete passare...\r\nDovrete passare sul mio cadavere!"
+msgstr "Se vuoi passare...\r\nDovrai passare sul mio cadavere!"
 
 msgctxt "102||a12_060||cinema_telop||1||||4"
 msgid "Patriarch... Hirose."
@@ -8481,7 +8481,7 @@ msgstr "Aniki!"
 
 msgctxt "102||a12_060||cinema_telop||4||||4"
 msgid "B-Boss!"
-msgstr "B-Boss!"
+msgstr "C-Capo!"
 
 msgctxt "102||a12_060||cinema_telop||5||||4"
 msgid "Wh-What's that?"
@@ -8493,15 +8493,15 @@ msgstr "Sembra che... abbia fallito..."
 
 msgctxt "102||a12_060||cinema_telop||7||||4"
 msgid "The hell's goin' on!?"
-msgstr "Che diavolo succede!?"
+msgstr "Che diavolo sta succedendo!?"
 
 msgctxt "102||a12_060||cinema_telop||8||||4"
 msgid "Y-You guys!"
-msgstr "V-Voi ragazzi!"
+msgstr "R-Ragazzi!"
 
 msgctxt "102||a12_060||cinema_telop||9||||4"
 msgid "I pulled this giant lever back there.\r\nThat's what set off this alarm!"
-msgstr "Ho tirato questa leva gigante là dietro.\r\nÈ questo che ha fatto scattare l'allarme!"
+msgstr "Ho tirato quest'enorme leva là dietro.\r\nÈ questo che ha fatto scattare l'allarme!"
 
 msgctxt "102||a12_060||cinema_telop||10||||4"
 msgid "Tagashira. This is yer fault?"
@@ -8517,7 +8517,7 @@ msgstr "Ecco cos'è!\r\nLa corazzata Yamato!"
 
 msgctxt "102||a12_060||cinema_telop||13||||4"
 msgid "That's..."
-msgstr "Quello è..."
+msgstr "Quella è..."
 
 msgctxt "102||a12_060||cinema_telop||14||||4"
 msgid "The secret of Onomichi?"
@@ -8537,7 +8537,7 @@ msgstr "Per essere più precisi,\r\nè la Yamato Mark II."
 
 msgctxt "102||a12_060||cinema_telop||18||||4"
 msgid "The most classified military secret in Japan."
-msgstr "Il segreto militare più classificato in Giappone."
+msgstr "Il segreto militare più gelosamente custodito del Giappone."
 
 msgctxt "102||a12_060||cinema_telop||19||||4"
 msgid "Patriarch... Hirose."
@@ -8549,7 +8549,7 @@ msgstr "Maledetto moccioso!\r\nNon te la faremo passare liscia, lo sai!"
 
 msgctxt "103||a12_070||cinema_telop||2||||4"
 msgid "The hell's this? I didn't realize\r\nthey were hirin' yakuza around here."
-msgstr "Che cos'è questo? Non sapevo che\r\nassumessero degli yakuza da queste parti."
+msgstr "Ma che diavolo...? Non sapevo che\r\nassumessero degli yakuza da queste parti."
 
 msgctxt "103||a12_070||cinema_telop||3||||4"
 msgid "Right? No bullshit thug can lecture me!"
@@ -8557,7 +8557,7 @@ msgstr "Vero? Nessun teppista da strapazzo può farmi la predica!"
 
 msgctxt "103||a12_070||cinema_telop||4||||4"
 msgid "That's enough outta you."
-msgstr "Ne ho abbastanza di te."
+msgstr "Adesso basta."
 
 msgctxt "103||a12_070||cinema_telop||5||||4"
 msgid "Really? Yer gonna pull a gun on a kid?"
@@ -8573,11 +8573,11 @@ msgstr "Brutto stronzetto..."
 
 msgctxt "103||a12_070||cinema_telop||8||||4"
 msgid "Let's not."
-msgstr "Cerchiamo di non farlo."
+msgstr "Meglio di no."
 
 msgctxt "103||a12_070||cinema_telop||9||||4"
 msgid "Why you little..."
-msgstr "Perché tu, piccolo..."
+msgstr "Brutto piccolo..."
 
 msgctxt "103||a12_070||cinema_telop||10||||4"
 msgid "Who the hell're you?"
@@ -8589,7 +8589,7 @@ msgstr "Vi intrufolate in questa fabbrica\r\ne non riconoscete il suo proprietar
 
 msgctxt "103||a12_070||cinema_telop||12||||4"
 msgid "No matter.\r\nJust hand the gun to me."
-msgstr "Non importa.\r\nDammela la pistola."
+msgstr "Non importa.\r\nDammi la pistola."
 
 msgctxt "103||a12_070||cinema_telop||13||||4"
 msgid "Stay back!"
@@ -8605,11 +8605,11 @@ msgstr "Ora..."
 
 msgctxt "103||a12_070||cinema_telop||16||||4"
 msgid "My apologies for him."
-msgstr "Le mie scuse per lui."
+msgstr "La prego di scusarlo."
 
 msgctxt "103||a12_070||cinema_telop||17||||4"
 msgid "This only happened because you tried\r\nto punch above your weight, though."
-msgstr "Tuttavia, questo è successo solo perché hai\r\ncercato di dare pugni oltre la tua portata."
+msgstr "Tuttavia, questo è successo solo perché hai\r\ncercato di fare il passo più lungo della gamba."
 
 msgctxt "103||a12_070||cinema_telop||18||||4"
 msgid "However, you have guts for a youngster."
@@ -8621,7 +8621,7 @@ msgstr "Hai fegato per essere così giovane, però."
 
 msgctxt "103||a12_070||cinema_telop||20||||4"
 msgid "You seem strong as well."
-msgstr "Sembri anche forte."
+msgstr "E sembri anche forte."
 
 msgctxt "103||a12_070||cinema_telop||21||||4"
 msgid "What's yer point?"
@@ -8653,7 +8653,7 @@ msgstr "I miei amici?\r\nCosa gli avete fatto!?"
 
 msgctxt "103||a12_070||cinema_telop||28||||4"
 msgid "Nothing. Just a little slap on the wrist."
-msgstr "Niente. Solo un piccolo buffetto sul polso."
+msgstr "Niente. Solo una piccola lezione."
 
 msgctxt "103||a12_070||cinema_telop||29||||4"
 msgid "They're gone already."
@@ -8669,7 +8669,7 @@ msgstr "Quando è stato chiesto loro chi avesse guidato questa piccola operazion
 
 msgctxt "103||a12_070||cinema_telop||32||||4"
 msgid "...They didn't hesitate to pin the whole\r\nplan on you."
-msgstr "...non hanno esitato ad affibbiare tutta\r\nla colpa del piano a te."
+msgstr "...non hanno esitato a scaricare\r\ntutta la colpa su di te."
 
 msgctxt "103||a12_070||cinema_telop||33||||4"
 msgid "Each one said the same thing."
@@ -8681,7 +8681,7 @@ msgstr "Tu chiami quelle persone i tuoi amici..."
 
 msgctxt "103||a12_070||cinema_telop||35||||4"
 msgid "...But considering their betrayal,\r\nperhaps you should reconsider."
-msgstr "...Ma considerando il loro tradimento,\r\nforse dovresti riconsiderare la cosa."
+msgstr "...Ma considerando il loro tradimento,\r\nforse dovresti ripensarci."
 
 msgctxt "103||a12_070||cinema_telop||36||||4"
 msgid "Is that what real friends would do?"
@@ -8693,11 +8693,11 @@ msgstr "Cosa ci guadagni da loro?"
 
 msgctxt "103||a12_070||cinema_telop||38||||4"
 msgid "What's the point of it?"
-msgstr "Qual è il senso?"
+msgstr "Che senso ha?"
 
 msgctxt "103||a12_070||cinema_telop||39||||4"
 msgid "Discard your former self.\r\nJoin me."
-msgstr "Abbandona il te stesso di prima.\r\nUnisciti a me."
+msgstr "Abbandona il tuo passato.\r\nUnisciti a me."
 
 msgctxt "103||a12_070||cinema_telop||40||||4"
 msgid "I will make you into a real man."
@@ -8717,7 +8717,7 @@ msgstr "Farò di te un vero uomo."
 
 msgctxt "104||a12_080||cinema_telop||1||||4"
 msgid "That's it."
-msgstr "Tutto qui."
+msgstr "È andata così."
 
 msgctxt "104||a12_080||cinema_telop||2||||4"
 msgid "That's how I joined the Yomei Alliance."
@@ -8729,31 +8729,31 @@ msgstr "Eppure..."
 
 msgctxt "104||a12_080||cinema_telop||4||||4"
 msgid "I didn't fit in too good there."
-msgstr "Non mi sono ambientato molto bene lì."
+msgstr "Non mi sono integrato molto bene lì."
 
 msgctxt "104||a12_080||cinema_telop||5||||4"
 msgid "I was always fightin' my aniki."
-msgstr "Litigavo sempre coi miei aniki."
+msgstr "Facevo sempre a pugni coi miei aniki."
 
 msgctxt "104||a12_080||cinema_telop||6||||4"
 msgid "If I didn't like 'em, I'd hit 'em."
-msgstr "Se qualcuno non mi andava a genio, lo colpivo."
+msgstr "Se qualcuno non mi andava a genio, lo picchiavo."
 
 msgctxt "104||a12_080||cinema_telop||7||||4"
 msgid "Cause of that, I only ever got sent\r\non the most dangerous missions."
-msgstr "Per questo, venivo inviato sempre e\r\nsolo nelle missioni più pericolose."
+msgstr "Per via di questo, venivo mandato sempre e\r\nsolo nelle missioni più pericolose."
 
 msgctxt "104||a12_080||cinema_telop||8||||4"
 msgid "Havin' a \"people\" problem?\r\n\"Hirose, get on it.\""
-msgstr "Qualcuno creava \"problemi\"?\r\n\"Hirose, occupatene tu.\""
+msgstr "C'era un problema con qualcuno?\r\n\"Hirose, occupatene tu.\""
 
 msgctxt "104||a12_080||cinema_telop||9||||4"
 msgid "Havin' a \"people\" problem?\r\n\"Hirose, get on it.\""
-msgstr "Qualcuno creava \"problemi\"?\r\n\"Hirose, occupatene tu.\""
+msgstr "C'era un problema con qualcuno?\r\n\"Hirose, occupatene tu.\""
 
 msgctxt "104||a12_080||cinema_telop||10||||4"
 msgid "It was bad, but..."
-msgstr "Andava male, ma..."
+msgstr "Era una brutta vita, ma..."
 
 msgctxt "104||a12_080||cinema_telop||11||||4"
 msgid "Kurusu-san took real good care of me."
@@ -8761,7 +8761,7 @@ msgstr "Kurusu-san si prendeva davvero cura di me."
 
 msgctxt "104||a12_080||cinema_telop||12||||4"
 msgid "After I came back,\r\nhe'd always treat me to a fancy meal."
-msgstr "Dopo che tornavo, mi offriva\r\nsempre un pasto di lusso."
+msgstr "Quando tornavo, mi offriva\r\nsempre una cena di lusso."
 
 msgctxt "104||a12_080||cinema_telop||13||||4"
 msgid "Kept my pockets full, too."
@@ -8769,15 +8769,15 @@ msgstr "E mi riempiva pure le tasche."
 
 msgctxt "104||a12_080||cinema_telop||14||||4"
 msgid "But t'be honest, I was only happy\r\nwhen he approved of me."
-msgstr "Ma ad essere onesti, ero felice\r\nsolo quando mi approvava."
+msgstr "Ma ad essere onesti, ero felice\r\nsolo quando ottenevo la sua approvazione."
 
 msgctxt "104||a12_080||cinema_telop||15||||4"
 msgid "I woulda done anythin'\r\njust t'hear his praise."
-msgstr "Avrei fatto qualsiasi cosa\r\npur di sentire i suoi elogi."
+msgstr "Avrei fatto qualsiasi cosa\r\npur di ricevere le sue lodi."
 
 msgctxt "104||a12_080||cinema_telop||16||||4"
 msgid "All I could be proud of\r\nwas bein' good at fighting."
-msgstr "L'unica cosa di cui potessi essere orgoglioso\r\nera di esser bravo a fare a pugni."
+msgstr "L'unica cosa di cui potessi andare fiero\r\nera saperci fare a pugni."
 
 msgctxt "104||a12_080||cinema_telop||17||||4"
 msgid "But Kurusu-san gave me a reason to live."
@@ -8785,19 +8785,19 @@ msgstr "Ma Kurusu-san mi ha dato una ragione di vita."
 
 msgctxt "104||a12_080||cinema_telop||18||||4"
 msgid "It might've been hard\r\nto say at the time..."
-msgstr "Sarebbe stato difficile\r\ndirlo al tempo..."
+msgstr "Magari a quei tempi\r\nera difficile ammetterlo..."
 
 msgctxt "104||a12_080||cinema_telop||19||||4"
 msgid "...But I was real grateful fer that."
-msgstr "...Ma gli ero davvero grato per questo."
+msgstr "...Ma gliene ero davvero grato."
 
 msgctxt "104||a12_080||cinema_telop||20||||4"
 msgid "One night though,\r\nhe called me in fer a meeting."
-msgstr "Una notte però, mi chiamò per un incontro."
+msgstr "Una sera, però,\r\nmi chiamò per parlarmi."
 
 msgctxt "104||a12_080||cinema_telop||21||||4"
 msgid "One night though,\r\nhe called me in fer a meeting."
-msgstr "Una notte però, mi chiamò per un incontro."
+msgstr "Una sera, però,\r\nmi chiamò per parlarmi."
 
 msgctxt "104||a12_080||cinema_telop||22||||4"
 msgid "Everythin' changed."
@@ -8805,11 +8805,11 @@ msgstr "E tutto cambiò."
 
 msgctxt "104||a12_080||cinema_telop||23||||4"
 msgid "Havin' a \"people\" problem?\r\n\"Hirose, get on it.\""
-msgstr "Qualcuno creava \"problemi\"?\r\n\"Hirose, occupatene tu.\""
+msgstr "C'era un problema con qualcuno?\r\n\"Hirose, occupatene tu.\""
 
 msgctxt "104||a12_080||cinema_telop||24||||4"
 msgid "One night though,\r\nhe called me in fer a meeting."
-msgstr "Una notte però, mi chiamò per un incontro."
+msgstr "Una sera, però,\r\nmi chiamò per parlarmi."
 
 msgctxt "105||a12_090||cinema_telop||1||||4"
 msgid "Sorry I'm late."
@@ -8829,7 +8829,7 @@ msgstr "Eh?"
 
 msgctxt "105||a12_090||cinema_telop||5||||4"
 msgid "Oh, uh... I'm scrapin' by."
-msgstr "Oh, uh... me la cavo."
+msgstr "Oh, uh... tiro avanti."
 
 msgctxt "105||a12_090||cinema_telop||6||||4"
 msgid "Hirose."
@@ -8861,15 +8861,15 @@ msgstr "E oltre a questo..."
 
 msgctxt "105||a12_090||cinema_telop||13||||4"
 msgid "W-Well, you're a really good guy."
-msgstr "B-Beh, che lei è davvero un brav'uomo."
+msgstr "B-Beh, è davvero un brav'uomo."
 
 msgctxt "105||a12_090||cinema_telop||14||||4"
 msgid "You've got money and power, too.\r\nThat's it! Yer the perfect man!"
-msgstr "Ha pure i soldi e il potere.\r\nQuesto è quanto! È un uomo perfetto!"
+msgstr "Ha pure soldi e potere.\r\nEcco! È l'uomo perfetto!"
 
 msgctxt "105||a12_090||cinema_telop||15||||4"
 msgid "You've got money and power, too.\r\nThat's it! Yer the perfect man!"
-msgstr "Ha pure i soldi e il potere.\r\nQuesto è quanto! È un uomo perfetto!"
+msgstr "Ha pure soldi e potere.\r\nEcco! È l'uomo perfetto!"
 
 msgctxt "105||a12_090||cinema_telop||16||||4"
 msgid "And..."
@@ -8877,11 +8877,11 @@ msgstr "E..."
 
 msgctxt "105||a12_090||cinema_telop||17||||4"
 msgid "You're the only guy\r\nI could ever think of as my dad."
-msgstr "È l'unico uomo che potrei mai\r\nconsiderare come un padre per me."
+msgstr "È l'unico uomo che potrei mai\r\nconsiderare un padre."
 
 msgctxt "105||a12_090||cinema_telop||18||||4"
 msgid "You're the only guy\r\nI could ever think of as my dad."
-msgstr "È l'unico uomo che potrei mai\r\nconsiderare come un padre per me."
+msgstr "È l'unico uomo che potrei mai\r\nconsiderare un padre."
 
 msgctxt "105||a12_090||cinema_telop||19||||4"
 msgid "Hirose."
@@ -8893,7 +8893,7 @@ msgstr "Io adoro Hiroshima."
 
 msgctxt "105||a12_090||cinema_telop||21||||4"
 msgid "I adore its natural beauty."
-msgstr "Adoro la sua bellezza naturale."
+msgstr "Adoro le sue bellezze naturali."
 
 msgctxt "105||a12_090||cinema_telop||22||||4"
 msgid "Furthermore, I adore the honest,\r\nhardworking people of this town."
@@ -8909,19 +8909,19 @@ msgstr "La Iwami Shipbuilding è\r\ndavvero cresciuta col tempo."
 
 msgctxt "105||a12_090||cinema_telop||25||||4"
 msgid "I've gained more wealth than\r\nmost people can imagine."
-msgstr "Ho accumulato più ricchezze di\r\nquanto la maggior parte possa immaginare."
+msgstr "Ho accumulato più ricchezze di\r\nquanto la maggior parte della gente possa immaginare."
 
 msgctxt "105||a12_090||cinema_telop||26||||4"
 msgid "However, riches pale in comparison\r\nto the livelihoods we give those people."
-msgstr "Tuttavia, le ricchezze svaniscono di fronte ai\r\nmezzi di sostentamento che offriamo a quelle persone."
+msgstr "Tuttavia, le ricchezze impallidiscono di fronte ai\r\nmezzi di sostentamento che offriamo a quella gente."
 
 msgctxt "105||a12_090||cinema_telop||27||||4"
 msgid "That is where the true joy in life lies."
-msgstr "È lì che risiede la vera gioia della vita."
+msgstr "È lì che risiede la vera gioia nella vita."
 
 msgctxt "105||a12_090||cinema_telop||28||||4"
 msgid "And the Yomei Alliance is no different."
-msgstr "E per l'Alleanza Yomei non è diverso."
+msgstr "E per l'Alleanza Yomei vale lo stesso."
 
 msgctxt "105||a12_090||cinema_telop||29||||4"
 msgid "Even kids like you need work."
@@ -8929,7 +8929,7 @@ msgstr "Anche ragazzini come te hanno bisogno di lavorare."
 
 msgctxt "105||a12_090||cinema_telop||30||||4"
 msgid "Hiroshima could only benefit by taking you\r\noff the street and into my organization."
-msgstr "A Hiroshima non poteva che giovare toglierti\r\ndalla strada e accoglierti nella mia organizzazione."
+msgstr "Hiroshima non poteva che trarre beneficio dal toglierti\r\ndalla strada e accoglierti nella mia organizzazione."
 
 msgctxt "105||a12_090||cinema_telop||31||||4"
 msgid "You're right.\r\nI'll never forget what I owe you."
@@ -8941,7 +8941,7 @@ msgstr "Tuttavia..."
 
 msgctxt "105||a12_090||cinema_telop||33||||4"
 msgid "...Both Iwami Shipbuilding and the Yomei Alliance\r\nmay soon meet their end."
-msgstr "...Sia la Iwami Shipbuilding che l'Alleanza Yomei\r\npotrebbero presto giungere al termine."
+msgstr "...Sia la Iwami Shipbuilding che l'Alleanza Yomei\r\npotrebbero presto giungere alla fine."
 
 msgctxt "105||a12_090||cinema_telop||34||||4"
 msgid "Huh!? Wh-Why's that?"
@@ -8993,7 +8993,7 @@ msgstr "Eh? M-Ma..."
 
 msgctxt "105||a12_090||cinema_telop||46||||4"
 msgid "Oh. I think I understand."
-msgstr "Oh. Penso di capire."
+msgstr "Oh. Penso di aver capito."
 
 msgctxt "105||a12_090||cinema_telop||47||||4"
 msgid "Someone's blackmailin' you."
@@ -9005,7 +9005,7 @@ msgstr "Usa quel segreto per tenerla in pugno, eh?"
 
 msgctxt "105||a12_090||cinema_telop||49||||4"
 msgid "Screw that!\r\nY'don't gotta worry, though!"
-msgstr "Al diavolo!\r\nNon deve preoccuparsi, però!"
+msgstr "Al diavolo!\r\nPerò non si preoccupi!"
 
 msgctxt "105||a12_090||cinema_telop||50||||4"
 msgid "I'll take out every last one of 'em!"
@@ -9025,7 +9025,7 @@ msgstr "Ti sbagli."
 
 msgctxt "105||a12_090||cinema_telop||54||||4"
 msgid "This isn't a problem a few\r\ndeaths will solve, Hirose."
-msgstr "Questo non è un problema che si\r\nrisolverà con qualche morte, Hirose."
+msgstr "Questo non è un problema che si\r\npuò risolvere con qualche morto, Hirose."
 
 msgctxt "105||a12_090||cinema_telop||55||||4"
 msgid "Huh? Then..."
@@ -9033,11 +9033,11 @@ msgstr "Eh? E allora..."
 
 msgctxt "105||a12_090||cinema_telop||56||||4"
 msgid "...What can we do?"
-msgstr "...Cosa possiamo fare?"
+msgstr "...Che possiamo fare?"
 
 msgctxt "105||a12_090||cinema_telop||57||||4"
 msgid "Boss! I'll do whatever it takes!"
-msgstr "Boss! Farò qualsiasi cosa!"
+msgstr "Boss! Farò tutto il necessario!"
 
 msgctxt "105||a12_090||cinema_telop||58||||4"
 msgid "Jus' tell me how to fix it!\r\nC'mon, Boss!"
@@ -9049,15 +9049,15 @@ msgstr "Hirose."
 
 msgctxt "105||a12_090||cinema_telop||60||||4"
 msgid "I know this may not make much sense,\r\nbut I have a request to make of you."
-msgstr "So che potrebbe non avere molto senso,\r\nma ho una richiesta da farti."
+msgstr "So che potrebbe sembrarti assurdo,\r\nma ho una richiesta da farti."
 
 msgctxt "105||a12_090||cinema_telop||61||||4"
 msgid "I know this may not make much sense,\r\nbut I have a request to make of you."
-msgstr "So che potrebbe non avere molto senso,\r\nma ho una richiesta da farti."
+msgstr "So che potrebbe sembrarti assurdo,\r\nma ho una richiesta da farti."
 
 msgctxt "105||a12_090||cinema_telop||62||||4"
 msgid "What?"
-msgstr "Cosa?"
+msgstr "Quale?"
 
 msgctxt "105||a12_090||cinema_telop||63||||4"
 msgid "It involves the secret of Onomichi."
@@ -9065,15 +9065,15 @@ msgstr "Riguarda il segreto di Onomichi."
 
 msgctxt "105||a12_090||cinema_telop||64||||4"
 msgid "The thing that could bring down\r\nIwami Shipbuilding and the Yomei Alliance."
-msgstr "La cosa che potrebbe far crollare\r\nla Iwami Shipbuilding e l'Alleanza Yomei."
+msgstr "Quello che potrebbe far crollare\r\nla Iwami Shipbuilding e l'Alleanza Yomei."
 
 msgctxt "105||a12_090||cinema_telop||65||||4"
 msgid "And the thing that could rock\r\nthe very foundation of Hiroshima."
-msgstr "E la cosa che potrebbe scuotere\r\nle fondamenta stesse di Hiroshima."
+msgstr "E che potrebbe scuotere\r\nle fondamenta stesse di Hiroshima."
 
 msgctxt "105||a12_090||cinema_telop||66||||4"
 msgid "I'd like you to protect it with me."
-msgstr "Vorrei che tu lo proteggessi insieme a me."
+msgstr "Vorrei che lo proteggessi insieme a me."
 
 msgctxt "105||a12_090||cinema_telop||67||||4"
 msgid "A secret..."
@@ -9093,7 +9093,7 @@ msgstr "Non conoscerai mai il segreto in sé..."
 
 msgctxt "105||a12_090||cinema_telop||71||||4"
 msgid "...But you will need to risk your life\r\nto guarantee its safety all the same."
-msgstr "...Ma dovrai comunque rischiare la\r\ntua vita per garantirne la sicurezza."
+msgstr "...Ma dovrai rischiare la vita\r\nper garantirne comunque la sicurezza."
 
 msgctxt "105||a12_090||cinema_telop||72||||4"
 msgid "Until your dying breath."
@@ -9129,7 +9129,7 @@ msgstr "Molto bene."
 
 msgctxt "105||a12_090||cinema_telop||80||||4"
 msgid "I hope that remains true once\r\nyou see the commitment I expect."
-msgstr "Spero che sia ancora così una volta\r\nche vedrai l'impegno che pretendo."
+msgstr "Spero che continuerai a pensarlo\r\nuna volta visto l'impegno che pretendo."
 
 msgctxt "105||a12_090||cinema_telop||81||||4"
 msgid "Huh?"
@@ -9137,11 +9137,11 @@ msgstr "Eh?"
 
 msgctxt "105||a12_090||cinema_telop||82||||4"
 msgid "As I demand a great deal from you,\r\nI want to show how invested I am as well."
-msgstr "Poiché pretendo molto da te,\r\nvoglio mostrarti quanto io stesso ci tenga."
+msgstr "Poiché pretendo moltissimo da te,\r\nvoglio mostrarti quanto io stesso sia coinvolto."
 
 msgctxt "105||a12_090||cinema_telop||83||||4"
 msgid "It is only fair."
-msgstr "È solo giusto."
+msgstr "Mi sembra giusto."
 
 msgctxt "105||a12_090||cinema_telop||84||||4"
 msgid "Don't worry, B-Boss."
@@ -9149,7 +9149,7 @@ msgstr "Non si preoccupi, B-Boss."
 
 msgctxt "105||a12_090||cinema_telop||85||||4"
 msgid "I can keep whatever secret y'have."
-msgstr "Posso mantenere qualsiasi segreto lei abbia."
+msgstr "Posso custodire qualsiasi segreto lei abbia."
 
 msgctxt "105||a12_090||cinema_telop||86||||4"
 msgid "It's me."
@@ -9185,7 +9185,7 @@ msgstr "Perché!? Perché l'ha fatto!?"
 
 msgctxt "105||a12_090||cinema_telop||94||||4"
 msgid "I needed to prove a point."
-msgstr "Dovevo dimostrare una cosa."
+msgstr "Dovevo dimostrarti una cosa."
 
 msgctxt "105||a12_090||cinema_telop||95||||4"
 msgid "You saw it, right?"
@@ -9201,19 +9201,19 @@ msgstr "Mi denuncerai alla polizia?"
 
 msgctxt "105||a12_090||cinema_telop||98||||4"
 msgid "Or can you commit to taking\r\nthis secret to your grave?"
-msgstr "Oppure puoi impegnarti a portare\r\nquesto segreto nella tomba?"
+msgstr "O ti impegnerai a portare\r\nquesto segreto nella tomba?"
 
 msgctxt "105||a12_090||cinema_telop||99||||4"
 msgid "Or can you commit to taking\r\nthis secret to your grave?"
-msgstr "Oppure puoi impegnarti a portare\r\nquesto segreto nella tomba?"
+msgstr "O ti impegnerai a portare\r\nquesto segreto nella tomba?"
 
 msgctxt "105||a12_090||cinema_telop||100||||4"
 msgid "Compared to the secret of Onomichi, this..."
-msgstr "Rispetto al segreto di Onomichi, questo..."
+msgstr "In confronto al segreto di Onomichi, questo..."
 
 msgctxt "105||a12_090||cinema_telop||101||||4"
 msgid "This means nothing at all!"
-msgstr "Questo non significa nulla!"
+msgstr "Questo non è assolutamente nulla!"
 
 msgctxt "105||a12_090||cinema_telop||102||||4"
 msgid "I will do <font_kind=yakuza_italic>anything</font_kind> to protect it."
@@ -9221,15 +9221,15 @@ msgstr "Farò <font_kind=yakuza_italic>qualsiasi cosa</font_kind> per proteggerl
 
 msgctxt "105||a12_090||cinema_telop||103||||4"
 msgid "I would discard my humanity if need be!"
-msgstr "Se necessario, rinuncerò alla mia umanità!"
+msgstr "Rinuncerei alla mia stessa umanità, se necessario!"
 
 msgctxt "105||a12_090||cinema_telop||104||||4"
 msgid "Now please."
-msgstr "Ora, per favore."
+msgstr "Ora ti prego."
 
 msgctxt "105||a12_090||cinema_telop||105||||4"
 msgid "You see what it will take."
-msgstr "Capisci cosa ci vorrà."
+msgstr "Ora capisci cosa ci vorrà."
 
 msgctxt "105||a12_090||cinema_telop||106||||4"
 msgid "This town, this company<symbol=em_dash_with_outline> No,\r\nHiroshima requires our protection."
@@ -9245,11 +9245,11 @@ msgstr "Il presidente dell'Alleanza Yomei.\r\nOh, e il presidente della Iwami Sh
 
 msgctxt "105||a12_090||cinema_telop||109||||4"
 msgid "You've got money and power, too.\r\nThat's it! Yer the perfect man!"
-msgstr "Ha pure i soldi e il potere.\r\nQuesto è quanto! È un uomo perfetto!"
+msgstr "Ha pure soldi e potere.\r\nEcco! È l'uomo perfetto!"
 
 msgctxt "105||a12_090||cinema_telop||110||||4"
 msgid "You're the only guy\r\nI could ever think of as my dad."
-msgstr "È l'unico uomo che potrei mai\r\nconsiderare come un padre per me."
+msgstr "È l'unico uomo che potrei mai\r\nconsiderare un padre."
 
 msgctxt "105||a12_090||cinema_telop||111||||4"
 msgid "There is a great secret hidden in Onomichi."
@@ -9265,7 +9265,7 @@ msgstr "Questo non posso dirlo."
 
 msgctxt "105||a12_090||cinema_telop||114||||4"
 msgid "I know this may not make much sense,\r\nbut I have a request to make of you."
-msgstr "So che potrebbe non avere molto senso,\r\nma ho una richiesta da farti."
+msgstr "So che potrebbe sembrarti assurdo,\r\nma ho una richiesta da farti."
 
 msgctxt "105||a12_090||cinema_telop||115||||4"
 msgid "I'll never know what it is,\r\nfor the rest of my life...?"
@@ -9273,7 +9273,7 @@ msgstr "Non saprò mai cosa sia,\r\nper il resto della mia vita...?"
 
 msgctxt "105||a12_090||cinema_telop||116||||4"
 msgid "Or can you commit to taking\r\nthis secret to your grave?"
-msgstr "Oppure puoi impegnarti a portare\r\nquesto segreto nella tomba?"
+msgstr "O ti impegnerai a portare\r\nquesto segreto nella tomba?"
 
 msgctxt "105||a12_090||cinema_telop||117||||4"
 msgid "This town, this company<symbol=em_dash_with_outline> No,\r\nHiroshima requires our protection."
@@ -9445,19 +9445,19 @@ msgstr "Haruka."
 
 msgctxt "110||a13_040||cinema_telop||2||||4"
 msgid "Apparently Hirose-san's gone now."
-msgstr "A quanto pare Hirose-san se n'è andato ora."
+msgstr "A quanto pare Hirose-san non c'è più."
 
 msgctxt "110||a13_040||cinema_telop||3||||4"
 msgid "But... I won't give up on you."
-msgstr "Ma... Non mi arrenderò con te."
+msgstr "Ma... non rinuncerò a te."
 
 msgctxt "110||a13_040||cinema_telop||4||||4"
 msgid "But... I won't give up on you."
-msgstr "Ma... Non mi arrenderò con te."
+msgstr "Ma... non rinuncerò a te."
 
 msgctxt "110||a13_040||cinema_telop||5||||4"
 msgid "I need you to get up."
-msgstr "Ho bisogno che tu ti alzi."
+msgstr "Ho bisogno che ti svegli."
 
 msgctxt "110||a13_040||cinema_telop||6||||4"
 msgid "Please..."
@@ -9477,7 +9477,7 @@ msgstr "È Haruka! Haruka si è<symbol=em_dash_with_outline>"
 
 msgctxt "110||a13_040||cinema_telop||10||||4"
 msgid "Go get the doctor!\r\nHurry!"
-msgstr "Vai a chiamare il dottore!\r\nSbrigati!"
+msgstr "Vai a chiamare un medico!\r\nSbrigati!"
 
 msgctxt "110||a13_040||cinema_telop||11||||4"
 msgid "Huh!?"
@@ -9485,7 +9485,7 @@ msgstr "Eh!?"
 
 msgctxt "110||a13_040||cinema_telop||12||||4"
 msgid "But... I won't give up on you."
-msgstr "Ma... Non mi arrenderò con te."
+msgstr "Ma... non rinuncerò a te."
 
 msgctxt "111||a13_050||cinema_telop||1||||4"
 msgid "Ah!"
@@ -9505,7 +9505,7 @@ msgstr "Ehm..."
 
 msgctxt "111||a13_050||cinema_telop||5||||4"
 msgid "I should probly step out for a bit."
-msgstr "Probabilmente dovrei uscire un momento."
+msgstr "Forse è meglio se esco un momento."
 
 msgctxt "111||a13_050||cinema_telop||6||||4"
 msgid "No, it's okay."
@@ -9513,19 +9513,19 @@ msgstr "No, va bene così."
 
 msgctxt "111||a13_050||cinema_telop||7||||4"
 msgid "I want you to be here."
-msgstr "Voglio che tu sia qui."
+msgstr "Voglio che resti qui."
 
 msgctxt "111||a13_050||cinema_telop||8||||4"
 msgid "I thought when you woke up..."
-msgstr "Pensavo che quando ti saresti svegliata..."
+msgstr "Pensavo che, quando ti fossi svegliata..."
 
 msgctxt "111||a13_050||cinema_telop||9||||4"
 msgid "...The first thing I'd do was lecture you."
-msgstr "...La prima cosa che avrei fatto sarebbe stata farti la ramanzina."
+msgstr "...la prima cosa che avrei fatto sarebbe stata farti una ramanzina."
 
 msgctxt "111||a13_050||cinema_telop||10||||4"
 msgid "I can't believe you just disappeared like that."
-msgstr "Non ci posso credere che tu sia sparita così."
+msgstr "Non posso credere che tu sia sparita così."
 
 msgctxt "111||a13_050||cinema_telop||11||||4"
 msgid "The kids and I were worried to death."
@@ -9533,7 +9533,7 @@ msgstr "I bambini e io eravamo preoccupati da morire."
 
 msgctxt "111||a13_050||cinema_telop||12||||4"
 msgid "I had a lot I wanted to say to you."
-msgstr "Avevo un sacco di cose che volevo dirti."
+msgstr "Avevo un sacco di cose da dirti."
 
 msgctxt "111||a13_050||cinema_telop||13||||4"
 msgid "But now..."
@@ -9541,11 +9541,11 @@ msgstr "Ma ora..."
 
 msgctxt "111||a13_050||cinema_telop||14||||4"
 msgid "Now that I see your face alive and well..."
-msgstr "Ora che vedo il tuo viso sano e salvo..."
+msgstr "Ora che ti vedo sana e salva..."
 
 msgctxt "111||a13_050||cinema_telop||15||||4"
 msgid "...I can't find the words to say."
-msgstr "...Non riesco a trovare le parole da dire."
+msgstr "...non trovo le parole."
 
 msgctxt "111||a13_050||cinema_telop||16||||4"
 msgid "Uncle Kaz."
@@ -9565,7 +9565,7 @@ msgstr "Lei è il quarto presidente, vero?"
 
 msgctxt "112||a13_060||cinema_telop||3||||4"
 msgid "What business do you have here today?"
-msgstr "Che affari la portano qui oggi?"
+msgstr "Cosa la porta qui oggi?"
 
 msgctxt "112||a13_060||cinema_telop||4||||4"
 msgid "I need to talk to Sugai."
