@@ -497,7 +497,7 @@ msgstr "Per caricare questi dati di salvataggio, il gioco deve essere completame
 
 msgctxt "10||save_data||table||22||||1"
 msgid "Use this save file to start a new game? Select \"No\" to continue\r\nexploring the world at your leisure."
-msgstr "Usare questo file di salvataggio per iniziare una nuova partita? Seleziona \"No\" per continuare a\r\nesplorare il mondo a tuo piacimento."
+msgstr "Usare questo file di salvataggio per iniziare una nuova partita?\r\nSeleziona \"No\" per continuare a esplorare il mondo a tuo piacimento."
 
 msgctxt "10||save_data||table||23||||1"
 msgid "This game uses an autosave feature. When the autosave icon is displayed,\r\nplease do not quit the game or turn power off."

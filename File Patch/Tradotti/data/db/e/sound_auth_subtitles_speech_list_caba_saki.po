@@ -1489,7 +1489,7 @@ msgstr "Vai in posti simili...? Oh no,\r\nsto iniziando a immaginarmelo! Cambiam
 
 msgctxt "372||||4"
 msgid "Huh!? You wrecked a convenience store?\r\nYou sure you don't wanna be a pro wrestler?"
-msgstr "Cosa!? Hai distrutto un minimarket?\r\nSicuro di non voler fare il wrestler?"
+msgstr "Cosa!? Hai distrutto un konbini?\r\nSicuro di non voler fare il wrestler?"
 
 msgctxt "373||||4"
 msgid "Hmm, well, it wasn't intentional..."
@@ -1497,7 +1497,7 @@ msgstr "Uhm, beh, non è stato intenzionale..."
 
 msgctxt "374||||4"
 msgid "Destroying a convenience store... Actually,\r\na convenience store death match could totally work!"
-msgstr "Distruggere un minimarket... In effetti, un death\r\nmatch in un minimarket ci starebbe alla grande!"
+msgstr "Distruggere un konbini... In effetti, un death\r\nmatch in un konbini ci starebbe alla grande!"
 
 msgctxt "375||||4"
 msgid "That's a great idea! Thank you!"

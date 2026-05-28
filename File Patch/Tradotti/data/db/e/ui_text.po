@@ -3269,11 +3269,11 @@ msgstr "Schermata missione"
 
 msgctxt "854||||text"
 msgid "Convenience Stores are unavailable in the demo."
-msgstr "I minimarket non sono disponibili nella demo."
+msgstr "I konbini non sono disponibili nella demo."
 
 msgctxt "855||||text"
 msgid "Convenience Store"
-msgstr "Minimarket"
+msgstr "Konbini"
 
 msgctxt "856||||text"
 msgid "Cancel"

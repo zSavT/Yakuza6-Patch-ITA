@@ -429,7 +429,7 @@ msgstr "Conosci qualcuno\r\ndi QUEI posti?"
 
 msgctxt "10||talk_card||table||67||card_no_43||text"
 msgid "I wrecked a\r\nconvenience store..."
-msgstr "Ho distrutto\r\nun minimarket..."
+msgstr "Ho distrutto\r\nun konbini..."
 
 msgctxt "10||talk_card||table||68||card_no_44||text"
 msgid "I've committed\r\nsins in my time..."
@@ -801,7 +801,7 @@ msgstr "Conosci qualcuno\r\ndi QUEI posti?"
 
 msgctxt "10||talk_card||table||67||card_no_43||caption"
 msgid "I wrecked a\r\nconvenience store..."
-msgstr "Ho distrutto\r\nun minimarket..."
+msgstr "Ho distrutto\r\nun konbini..."
 
 msgctxt "10||talk_card||table||68||card_no_44||caption"
 msgid "I've committed\r\nsins in my time..."

@@ -5069,7 +5069,7 @@ msgstr "Afferra il braccio del nemico con le bacchette, poi sfrutta la sua \r\ni
 
 msgctxt "728||hct_trick15||explanation"
 msgid "Throw an enemy head first into a convenience store microwave,\r\nhave a store clerk turn it on and let radiation do the rest."
-msgstr "Infila la testa di un nemico in un microonde in un minimarket,\r\nfai in modo che il commesso lo accenda e lascia che le radiazioni facciano il resto."
+msgstr "Infila la testa di un nemico in un microonde in un konbini,\r\nfai in modo che il commesso lo accenda e lascia che le radiazioni facciano il resto."
 
 msgctxt "729||hct_trick16||explanation"
 msgid "Use this merciless attack to kick an enemy down the stairs from\r\nthe top step without remorse."
@@ -5633,7 +5633,7 @@ msgstr "<Sign:1,Combat> mentre impugni delle bacchette."
 
 msgctxt "728||hct_trick15||unlocked_message"
 msgid "Grab an enemy and press <Sign:1,Combat> near a microwave at a convenience store."
-msgstr "Afferra un nemico e premi <Sign:1,Combat> vicino a un microonde in un minimarket."
+msgstr "Afferra un nemico e premi <Sign:1,Combat> vicino a un microonde in un konbini."
 
 msgctxt "729||hct_trick16||unlocked_message"
 msgid "Grab an enemy while on top of the stairs and press <Sign:1,Combat>."

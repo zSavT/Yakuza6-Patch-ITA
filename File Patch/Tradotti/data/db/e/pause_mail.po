@@ -1425,7 +1425,7 @@ msgstr "Ehi, sei libero?\r\nMi servirebbe una mano con una cosa."
 
 msgctxt "14||sub_a12_00||table||2||||2"
 msgid "Can you head over to a convenience store\r\nand buy me some prepaid cards?"
-msgstr "Puoi andare in un minimarket e comprarmi delle\r\ncarte prepagate?"
+msgstr "Puoi andare in un konbini e comprarmi delle\r\ncarte prepagate?"
 
 msgctxt "14||sub_a12_00||table||3||||2"
 msgid "Don't worry what they are.\r\nJust get them for me."

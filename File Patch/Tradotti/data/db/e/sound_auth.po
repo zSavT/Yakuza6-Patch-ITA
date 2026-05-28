@@ -3549,7 +3549,7 @@ msgstr "Aspetta, ma che sto dicendo...?\r\nN-Niente, lascia perdere!"
 
 msgctxt "6||speech_list_caba_erina||table||442||||4"
 msgid "Huh? You destroyed a convenience store? \r\nHow does something like that even happen!?"
-msgstr "Eh? Hai distrutto un minimarket?\r\nCome diamine può succedere una cosa del genere!?"
+msgstr "Eh? Hai distrutto un konbini?\r\nCome diamine può succedere una cosa del genere!?"
 
 msgctxt "6||speech_list_caba_erina||table||443||||4"
 msgid "It's kind of complicated..."
@@ -6213,7 +6213,7 @@ msgstr "Ehm... Certo..."
 
 msgctxt "7||speech_list_caba_hikaru||table||478||||4"
 msgid "What!? You made a mess of a convenience store?\nI really feel for the poor employees..."
-msgstr "Cosa!? Hai distrutto un minimarket?\nMi dispiace davvero per i poveri dipendenti..."
+msgstr "Cosa!? Hai distrutto un konbini?\nMi dispiace davvero per i poveri dipendenti..."
 
 msgctxt "7||speech_list_caba_hikaru||table||479||||4"
 msgid "But, you regret doing it, right?"
@@ -10317,7 +10317,7 @@ msgstr "Tu vai in posti del genere...? Oh no,\ninizio a immaginarmelo! Cambiamo 
 
 msgctxt "9||speech_list_caba_saki||table||372||||4"
 msgid "Huh!? You wrecked a convenience store?\nYou sure you don't wanna be a pro wrestler?"
-msgstr "Eh!? Hai distrutto un minimarket?\nSicuro di non voler fare il pro wrestler?"
+msgstr "Eh!? Hai distrutto un konbini?\nSicuro di non voler fare il pro wrestler?"
 
 msgctxt "9||speech_list_caba_saki||table||373||||4"
 msgid "Hmm, well, it wasn't intentional..."
@@ -10325,7 +10325,7 @@ msgstr "Mhm, beh, non è stato intenzionale..."
 
 msgctxt "9||speech_list_caba_saki||table||374||||4"
 msgid "Destroying a convenience store... Actually,\na convenience store death match could totally work!"
-msgstr "Distruggere un minimarket... In effetti, un death match\nin un minimarket potrebbe assolutamente funzionare!"
+msgstr "Distruggere un konbini... In effetti, un death match\nin un konbini potrebbe assolutamente funzionare!"
 
 msgctxt "9||speech_list_caba_saki||table||375||||4"
 msgid "That's a great idea! Thank you!"
@@ -30229,7 +30229,7 @@ msgstr "Cosa ti serve?"
 
 msgctxt "13||speech_list_main01||table||427||||4"
 msgid "Could you maybe grab me one of\r\nthem convenience store bentos?"
-msgstr "Potresti magari prendermi uno di\r\nquei bento del minimarket?"
+msgstr "Potresti magari prendermi uno di\r\nquei bento del konbini?"
 
 msgctxt "13||speech_list_main01||table||428||||4"
 msgid "Hm? That's all?"
@@ -32289,7 +32289,7 @@ msgstr "Mi sono appena trasferita in zona."
 
 msgctxt "15||speech_list_main03||table||186||||4"
 msgid "If only there were\nconvenience stores here..."
-msgstr "Se solo ci fossero dei\nminimarket, da queste parti..."
+msgstr "Se solo ci fossero dei\nkonbini, da queste parti..."
 
 msgctxt "15||speech_list_main03||table||187||||4"
 msgid "Do you know anywhere that might\nsell powdered milk near here?"
@@ -36793,7 +36793,7 @@ msgstr "Sei un capitano premuroso, Nagumo."
 
 msgctxt "18||speech_list_main06||table||175||||4"
 msgid "Fer real though, convenience stores in Tokyo\ndon't even let y'shit in 'em? That's harsh."
-msgstr "Però, sul serio, i minimarket a Tokyo non ti\nlasciano nemmeno cagare? È crudele."
+msgstr "Però, sul serio, i konbini a Tokyo non ti\nlasciano nemmeno cagare? È crudele."
 
 msgctxt "18||speech_list_main06||table||176||||4"
 msgid "Huh?"
@@ -57717,7 +57717,7 @@ msgstr "Mi sono spiegato?"
 
 msgctxt "45||speech_list_sub_a08||table||14||||4"
 msgid "To fund them is to be complicit.\nEven those who pay them for \"protection.\""
-msgstr "Finanziarli significa essere complici.\nAnche per coloro che li pagano per \"protezione\"."
+msgstr "Finanziarli significa essere complici.\nPersino chi li paga per la \"protezione\"."
 
 msgctxt "45||speech_list_sub_a08||table||15||||4"
 msgid "If you wish to live, cut all ties with the Saio Triad.\nOnly then will our city be cleansed of them."
@@ -57761,7 +57761,7 @@ msgstr "Pensavo che quel sacchetto fosse sospetto..."
 
 msgctxt "45||speech_list_sub_a08||table||26||||4"
 msgid "I didn't think it'd actually explode, though...\nThere must've been a bomb in there!"
-msgstr "Però non pensavo che sarebbe esploso davvero...\nDeve esserci stata una bomba lì dentro!"
+msgstr "Non pensavo esplodesse davvero, però...\nDeve esserci stata una bomba lì dentro!"
 
 msgctxt "45||speech_list_sub_a08||table||27||||4"
 msgid "The bag, huh...\nThere's no way to trace it, then."
@@ -57769,7 +57769,7 @@ msgstr "Il sacchetto, eh...\nNon c'è modo di rintracciarlo, allora."
 
 msgctxt "45||speech_list_sub_a08||table||28||||4"
 msgid "I saw the guy, though!\nI watched him put that bag there!"
-msgstr "Ma io ho visto il tizio!\nL'ho visto mettere quel sacchetto lì!"
+msgstr "Ma io ho visto il tizio!\nL'ho visto piazzare quel sacchetto lì!"
 
 msgctxt "45||speech_list_sub_a08||table||29||||4"
 msgid "What...?"
@@ -57797,7 +57797,7 @@ msgstr "E dove l'hai sentito?"
 
 msgctxt "45||speech_list_sub_a08||table||35||||4"
 msgid "Over at the Yoshida Batting Center."
-msgstr "Laggiù, al Batting Center Yoshida."
+msgstr "Al Batting Center Yoshida."
 
 msgctxt "45||speech_list_sub_a08||table||36||||4"
 msgid "Thanks for the info."
@@ -57841,7 +57841,7 @@ msgstr "(Dovrebbe indossare una tuta gialla.)"
 
 msgctxt "45||speech_list_sub_a08||table||46||||4"
 msgid "What you want?"
-msgstr "Che cosa tu volere?"
+msgstr "Cosa volere tu?"
 
 msgctxt "45||speech_list_sub_a08||table||47||||4"
 msgid "You're Chinese, right?\nAre you with the Saio Triad?"
@@ -57849,11 +57849,11 @@ msgstr "Sei cinese, giusto?\nSei con la Triade Saio?"
 
 msgctxt "45||speech_list_sub_a08||table||48||||4"
 msgid "Excuse me?"
-msgstr "Come, prego?"
+msgstr "Come, scusa?"
 
 msgctxt "45||speech_list_sub_a08||table||49||||4"
 msgid "I've run into all sorts of Chinese here,\nbut every one of them was Saio."
-msgstr "Mi sono imbattuto in ogni sorta di cinese qui,\nma ognuno di loro era della Saio."
+msgstr "Ho incontrato ogni genere di cinese qui,\nma tutti quanti erano della Saio."
 
 msgctxt "45||speech_list_sub_a08||table||50||||4"
 msgid "I not part of Saio Triad.\nI no think like them."
@@ -57905,7 +57905,7 @@ msgstr "Chi <font_kind=yakuza_italic>siete</font_kind> voi!?"
 
 msgctxt "45||speech_list_sub_a08||table||63||||4"
 msgid "That's what I want you to tell me.\nIf you're not Saio, who are you with?"
-msgstr "Questo è quello che voglio che mi dica tu.\nSe non sei della Saio, con chi stai?"
+msgstr "È proprio quello che voglio sapere.\nSe non sei della Saio, con chi stai?"
 
 msgctxt "45||speech_list_sub_a08||table||64||||4"
 msgid "Planting bombs isn't exactly a civilian thing."
@@ -57961,7 +57961,7 @@ msgstr "Erano la mafia più brutale in città,\nguidata da un tizio di nome Lau 
 
 msgctxt "45||speech_list_sub_a08||table||78||||4"
 msgid "Yes, exactly!\nOh man, I so happy now!"
-msgstr "Sì, esatto!\nOh amico, io così felice ora!"
+msgstr "Sì, esatto!\nOh cavolo, io così felice ora!"
 
 msgctxt "45||speech_list_sub_a08||table||79||||4"
 msgid "Lau tried to murder me when I was still a\njunior Dojima Family man. I'm Kazuma Kiryu."
@@ -57981,7 +57981,7 @@ msgstr "Ce ne sono altri di voi?"
 
 msgctxt "45||speech_list_sub_a08||table||86||||4"
 msgid "Not really. Our leader is guy in mask\nwho was on the big screen before explosion."
-msgstr "Non molto. Nostro leader è tizio con maschera\nche era su grande schermo prima di esplosione."
+msgstr "Non proprio. Nostro leader è tizio con maschera\nche era su grande schermo prima di esplosione."
 
 msgctxt "45||speech_list_sub_a08||table||87||||4"
 msgid "Right. Makes sense."
@@ -58037,7 +58037,7 @@ msgstr "Noi vuole far pagare Triade Saio\nper imbarazzo che loro causa noi!"
 
 msgctxt "45||speech_list_sub_a08||table||100||||4"
 msgid "...I almost understand how slighted you feel,\nbut you need to stop antagonizing the Saio."
-msgstr "...Quasi capisco quanto ti senta snobbato,\nma devi smetterla di provocare i Saio."
+msgstr "...Quasi capisco quanto vi sentiate snobbati,\nma devi smetterla di provocare i Saio."
 
 msgctxt "45||speech_list_sub_a08||table||101||||4"
 msgid "<font_kind=yakuza_italic>I</font_kind> managed to find you with barely any effort.\nImagine how easy it would be for them."
@@ -58713,7 +58713,7 @@ msgstr "\"D'accordo. Ci sentiamo più tardi.\""
 
 msgctxt "48||speech_list_sub_a12||table||15||||4"
 msgid "So, 50 grand's worth of prepaid cards...\nI should head over to a convenience store."
-msgstr "(Quindi, carte prepagate per un valore di 50.000 yen...\nDovrei andare in un convenience store.)"
+msgstr "(Quindi, carte prepagate per un valore di 50.000 yen...\nDovrei andare in un konbini.)"
 
 msgctxt "48||speech_list_sub_a12||table||16||||4"
 msgid "Welcome."
