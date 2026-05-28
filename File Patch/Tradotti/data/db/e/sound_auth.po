@@ -5489,7 +5489,7 @@ msgstr "Non mi piacciono molto le donne che implorano attenzioni."
 
 msgctxt "7||speech_list_caba_hikaru||table||297||||4"
 msgid "Whaaat? You don't like me, Kiryu-san?\nMeow I'm all sad... <symbol=note_with_outline> I apawlogize... <symbol=note_with_outline>"
-msgstr "Cooosa? Non ti piaccio, Kiryu-san?\nMi-a-o mi sento così triste... <symbol=note_with_outline> Chiedo purr-dono... <symbol=note_with_outline>"
+msgstr "Cooosa? Non ti piaccio, Kiryu-san?\nMiao-ra sono tutta triste... <symbol=note_with_outline> Chiedo purr-dono... <symbol=note_with_outline>"
 
 msgctxt "7||speech_list_caba_hikaru||table||298||||4"
 msgid "I forgive you."
@@ -6101,7 +6101,7 @@ msgstr "Probabilmente lo dici a tutte, non è vero?"
 
 msgctxt "7||speech_list_caba_hikaru||table||450||||4"
 msgid "[Beautiful eyes...]"
-msgstr "[Begli occhi...]"
+msgstr "[Beautiful eyes...]"
 
 msgctxt "7||speech_list_caba_hikaru||table||451||||4"
 msgid "How nice... <symbol=heart_with_outline>"
@@ -12633,7 +12633,7 @@ msgstr "Eh...? Cosa?\nPotresti ripeterlo?"
 
 msgctxt "10||speech_list_caba_sora||table||415||||4"
 msgid "[Beautiful eyes...]"
-msgstr "[Begli occhi...]"
+msgstr "[Beautiful eyes...]"
 
 msgctxt "10||speech_list_caba_sora||table||416||||4"
 msgid "[Oh, thank you.] <symbol=note_with_outline>"
@@ -61425,7 +61425,7 @@ msgstr "<font_kind=yakuza_italic>Presto</font_kind>!? Non prendermi per una scem
 
 msgctxt "58||speech_list_sub_a23||table||4||||4"
 msgid "Can't say I blame her..."
-msgstr "Non mi sento di biasimarla..."
+msgstr "Non posso biasimarla..."
 
 msgctxt "58||speech_list_sub_a23||table||5||||4"
 msgid "A cat café with no cats...?"
@@ -61433,7 +61433,7 @@ msgstr "Un cat café senza gatti...?"
 
 msgctxt "58||speech_list_sub_a23||table||6||||4"
 msgid "What am I gonna do...?"
-msgstr "Come farò...?"
+msgstr "Che cosa faccio ora...?"
 
 msgctxt "58||speech_list_sub_a23||table||7||||4"
 msgid "Hey."
@@ -61477,11 +61477,11 @@ msgstr "Benvenuto, signore, al Nyan Nyan Café!"
 
 msgctxt "58||speech_list_sub_a23||table||17||||4"
 msgid "What is this place?"
-msgstr "Nyan Nyan Café?"
+msgstr "Che posto è questo?"
 
 msgctxt "58||speech_list_sub_a23||table||18||||4"
 msgid "I'm glad you asked, sir! The Nyan Nyan Café\nis a paradise for coffee and cat lovers alike!"
-msgstr "Sono felice che lo chieda, signore! Il Nyan Nyan Café\nè un paradiso sia per gli amanti del caffè che dei gatti!"
+msgstr "Sono felice che lo chieda, signore! Il Nyan Nyan Café\nè un paradiso sia per gli amanti del caffè che per quelli dei gatti!"
 
 msgctxt "58||speech_list_sub_a23||table||19||||4"
 msgid "The combination of cute and caffeinated will\nleave you energized all day long. At least, it <font_kind=yakuza_italic>would</font_kind>..."
@@ -61489,7 +61489,7 @@ msgstr "La combinazione di tenerezza e caffeina\nla lascerà carico di energia p
 
 msgctxt "58||speech_list_sub_a23||table||20||||4"
 msgid "You certainly talk big, buddy...\nbut I don't see any cats."
-msgstr "Certamente fai un sacco di chiacchiere, amico...\nma non vedo nessun gatto."
+msgstr "Sei un gran chiacchierone, amico...\nma non vedo nessun gatto."
 
 msgctxt "58||speech_list_sub_a23||table||21||||4"
 msgid "Look right this way, sir!"
@@ -61517,19 +61517,19 @@ msgstr "Uhm..."
 
 msgctxt "58||speech_list_sub_a23||table||27||||4"
 msgid "Man. This isn't your thing, huh?"
-msgstr "Amico. Questa non è cosa per te, eh?"
+msgstr "Amico. Non è proprio cosa tua, eh?"
 
 msgctxt "58||speech_list_sub_a23||table||28||||4"
 msgid "I adore my feline friends, sir,\nbut I'm honestly bad with them."
-msgstr "Io adoro i nostri amici della razza felina, signore,\nma a essere onesto non ci so proprio fare."
+msgstr "Adoro i nostri amici felini, signore,\nma onestamente non ci so proprio fare."
 
 msgctxt "58||speech_list_sub_a23||table||29||||4"
 msgid "Even though you're the manager of a cat café?"
-msgstr "Nonostante tu sia il manager di un cat café?"
+msgstr "Anche se sei il manager di un cat café?"
 
 msgctxt "58||speech_list_sub_a23||table||30||||4"
 msgid "Yes, sir. I adore my feline friends,\nbut <font_kind=yakuza_italic>they</font_kind> don't care for </font_kind>me very much."
-msgstr "Sì, signore. Io adoro la razza felina,\nma a <font_kind=yakuza_italic>loro</font_kind> non importa molto di </font_kind>me."
+msgstr "Sì, signore. Adoro i miei amici felini,\nma a <font_kind=yakuza_italic>loro</font_kind> non importo molto."
 
 msgctxt "58||speech_list_sub_a23||table||31||||4"
 msgid "I'm okay with domesticated cats,\nbut other cats won't even look at me."
@@ -61553,7 +61553,7 @@ msgstr "Esatto. Avevo radunato alcune adorabili\npalle di pelo per la nostra gra
 
 msgctxt "58||speech_list_sub_a23||table||36||||4"
 msgid "...but none of them respected me.\nWhen I wasn't looking, they all darted off."
-msgstr "...ma nessuno di loro mi rispettava.\nQuando non guardavo, sono sfrecciati via tutti."
+msgstr "...ma nessuno di loro mi rispettava.\nQuando non guardavo, sono scappati via tutti."
 
 msgctxt "58||speech_list_sub_a23||table||37||||4"
 msgid "And so Brittany is the only one who's left..."
@@ -61561,7 +61561,7 @@ msgstr "E così Brittany è l'unica rimasta..."
 
 msgctxt "58||speech_list_sub_a23||table||38||||4"
 msgid "Yeah... Brittany-chan doesn't really like me\neither, though. She just failed to escape."
-msgstr "Sì... Anche se in realtà a Brittany-chan non piaccio\nmolto. Ha solo fallito nel tentativo di scappare."
+msgstr "Sì... Anche se in realtà non piaccio molto nemmeno\na Brittany-chan. Non è riuscita a scappare, tutto qui."
 
 msgctxt "58||speech_list_sub_a23||table||39||||4"
 msgid "I guess I just can't really hang\nin this cutthroat industry, huh?"
@@ -61589,15 +61589,15 @@ msgstr "Perché randagi?"
 
 msgctxt "58||speech_list_sub_a23||table||45||||4"
 msgid "Well, most cafés are devoted to high-pedigree breeds,\nso street walkers never get any love."
-msgstr "Beh, la maggior parte dei café è dedicata a razze di alto pedigree,\nquindi i randagi di strada non ricevono mai alcun amore."
+msgstr "Beh, la maggior parte dei café è dedicata a razze di alto pedigree,\nquindi i gatti di strada non ricevono mai alcun amore."
 
 msgctxt "58||speech_list_sub_a23||table||46||||4"
 msgid "I'm gonna set myself apart by bringing\nthe runts out into the spotlight!"
-msgstr "Volevo distinguermi portando\ni più piccoli sotto i riflettori!"
+msgstr "Voglio distinguermi portando\ni cuccioli randagi sotto i riflettori!"
 
 msgctxt "58||speech_list_sub_a23||table||47||||4"
 msgid "Naturally, any paw-pals we bring in will\nget a full grooming and special orientation."
-msgstr "Naturalmente, tutti gli amici a quattro zampe che accogliamo\nriceveranno una toelettatura completa e un orientamento speciale."
+msgstr "Naturalmente, tutti gli amici a quattro zampe che accogliamo\nriceveranno una toelettatura completa e un addestramento speciale."
 
 msgctxt "58||speech_list_sub_a23||table||48||||4"
 msgid "Huh... So it's a humanitarian thing, too.\nI've never heard of something like this."
@@ -61609,7 +61609,7 @@ msgstr "Ma i randagi sono bravissimi a evitare le persone.\nOgni volta che mi av
 
 msgctxt "58||speech_list_sub_a23||table||50||||4"
 msgid "I wish I could find ones that would be okay\nwith spending their lives pleasing the public."
-msgstr "Vorrei poter trovare quelli a cui stia bene\npassare la vita a compiacere il pubblico."
+msgstr "Vorrei poter trovare quelli a cui non dispiaccia\npassare la vita in mezzo alla gente."
 
 msgctxt "58||speech_list_sub_a23||table||51||||4"
 msgid "Don't be ridiculous. That's not possible."
@@ -61661,11 +61661,11 @@ msgstr "Ho bisogno... che lei raduni dei gatti randagi per me."
 
 msgctxt "58||speech_list_sub_a23||table||63||||4"
 msgid "Excuse me?"
-msgstr "Prego?"
+msgstr "Come, scusa?"
 
 msgctxt "58||speech_list_sub_a23||table||64||||4"
 msgid "That's right. With my frankly lacking charm,\nit's impossible for me to round them up."
-msgstr "Proprio così. Con il mio scarso fascino in tutta franchezza,\nmi è impossibile radunarli."
+msgstr "Esatto. Con il mio fascino pressocché inesistente,\nmi è impossibile radunarli."
 
 msgctxt "58||speech_list_sub_a23||table||65||||4"
 msgid "But you, you have the skills to get them\nused to spending time with people...!"
@@ -61689,7 +61689,7 @@ msgstr "La preeeeego! Ne va della mia vita...!"
 
 msgctxt "58||speech_list_sub_a23||table||70||||4"
 msgid "I don't care. Why should I go through all that trouble?"
-msgstr "Non m'interessa. Perché dovrei sobbarcarmi tutta questa fatica?"
+msgstr "Non m'interessa. Perché dovrei prendermi questo disturbo?"
 
 msgctxt "58||speech_list_sub_a23||table||71||||4"
 msgid "You should just give up on being a stray cat\nspecialist and borrow money to buy cats instead."
@@ -61705,7 +61705,7 @@ msgstr "Perché devono essere randagi?"
 
 msgctxt "58||speech_list_sub_a23||table||74||||4"
 msgid "I mean... don't you feel bad for them?"
-msgstr "Voglio dire... non si dispiace per loro?"
+msgstr "Voglio dire... non le dispiace per loro?"
 
 msgctxt "58||speech_list_sub_a23||table||75||||4"
 msgid "Hm?"
@@ -61725,7 +61725,7 @@ msgstr "Se c'è un amico peloso in difficoltà,\nvoglio aiutarlo ad andare avant
 
 msgctxt "58||speech_list_sub_a23||table||80||||4"
 msgid "But strays get rounded up by animal control...\nand almost always get put to sleep."
-msgstr "Ma i randagi vengono catturati dal controllo animali...\ne quasi sempre vengono soppressi."
+msgstr "Ma i randagi vengono catturati dall'accalappiacani...\ne quasi sempre vengono soppressi."
 
 msgctxt "58||speech_list_sub_a23||table||81||||4"
 msgid "They're especially strict on that in Kamurocho.\nI can't let that continue."
@@ -61825,7 +61825,7 @@ msgstr "Dovrebbe andare bene così."
 
 msgctxt "58||speech_list_sub_a23||table||105||||4"
 msgid "Okay, time to get in touch with that café manager."
-msgstr "(Okay, è ora di mettersi in contatto con il manager del café.)"
+msgstr "Okay, è ora di mettersi in contatto con il manager del café."
 
 msgctxt "58||speech_list_sub_a23||table||106||||4"
 msgid "Kiryu-san! Thank you so much!\nI'll make sure this little guy loves his new home!"
@@ -61833,7 +61833,7 @@ msgstr "Kiryu-san! Grazie mille!\nMi assicurerò che questo piccolino adori la s
 
 msgctxt "58||speech_list_sub_a23||table||107||||4"
 msgid "Let me know if you find any more kitty cats!\nThanks in advance!"
-msgstr "Fammi sapere se trovi altri micetti!\nGrazie in anticipo!"
+msgstr "Mi faccia sapere se trova altri micetti!\nGrazie in anticipo!"
 
 msgctxt "58||speech_list_sub_a23||table||108||||4"
 msgid "That should be good."
@@ -61841,7 +61841,7 @@ msgstr "Dovrebbe andare bene così."
 
 msgctxt "58||speech_list_sub_a23||table||109||||4"
 msgid "Okay, time to get in touch with that café manager."
-msgstr "(Okay, è ora di mettersi in contatto con il manager del café.)"
+msgstr "Okay, è ora di mettersi in contatto con il manager del café."
 
 msgctxt "58||speech_list_sub_a23||table||110||||4"
 msgid "It's Kiryu.\nI found a cat for you."
@@ -61849,7 +61849,7 @@ msgstr "Sono Kiryu.\nHo trovato un gatto per te."
 
 msgctxt "58||speech_list_sub_a23||table||111||||4"
 msgid "That's great news, Kiryu-san!\nWhere are you right now?"
-msgstr "È una notizia fantastica, Kiryu-san!\nDove sei in questo momento?"
+msgstr "È una notizia fantastica, Kiryu-san!\nDov'è in questo momento?"
 
 msgctxt "58||speech_list_sub_a23||table||112||||4"
 msgid "Onomichi."
@@ -61877,7 +61877,7 @@ msgstr "Q-Questo è vero... ma non pensavo davvero\nche sarebbe andato così lon
 
 msgctxt "58||speech_list_sub_a23||table||118||||4"
 msgid "Regardless, I'll keep my promise!\nJust wait there, I'll send someone!"
-msgstr "A prescindere da questo, manterrò la mia promessa!\nAspetti lì, le manderò qualcuno!"
+msgstr "A prescindere da questo, manterrò la mia promessa!\nAspetti lì, manderò qualcuno!"
 
 msgctxt "58||speech_list_sub_a23||table||119||||4"
 msgid "I'll make sure they're there soon.\nThanks again for this, Kiryu-san!"
@@ -61929,7 +61929,7 @@ msgstr "Ehi, che vi succede, piccolini?"
 
 msgctxt "58||speech_list_sub_a23||table||131||||4"
 msgid "Whoa! They haven't been this amped for a while!\nThey must've really missed you, Kiryu-san."
-msgstr "Caspita! Non erano così su di giri da un pezzo!\nDevi essergli mancato davvero tanto, Kiryu-san."
+msgstr "Caspita! Non erano così su di giri da un pezzo!\nDeve essergli mancato davvero tanto, Kiryu-san."
 
 msgctxt "58||speech_list_sub_a23||table||132||||4"
 msgid "Hm? Why do you say that?"
@@ -61949,7 +61949,7 @@ msgstr "Questo mi ricorda una cosa, Kiryu-san! Cosa ne direbbe\ndi passare a dar
 
 msgctxt "58||speech_list_sub_a23||table||136||||4"
 msgid "That way they won't miss you so much!\nI don't want 'em running out on me again..."
-msgstr "Così non le mancherà così tanto!\nNon voglio che mi scappino di nuovo..."
+msgstr "Così non sentiranno troppo la sua mancanza!\nNon voglio che mi scappino di nuovo..."
 
 msgctxt "58||speech_list_sub_a23||table||137||||4"
 msgid "I'm not so sure."
@@ -61969,7 +61969,7 @@ msgstr "Immagino di non poter dire di no.\nSono arrivato fin qui. Non posso tira
 
 msgctxt "58||speech_list_sub_a23||table||141||||4"
 msgid "Y-You really mean it!?\nYou're the cat's meow, Kiryu-san!"
-msgstr "D-Dice sul serio!?\nSei un vero mito, Kiryu-san!"
+msgstr "D-Dice sul serio!?\nÈ un vero mito, Kiryu-san!"
 
 msgctxt "58||speech_list_sub_a23||table||142||||4"
 msgid "Well, just come see me when you're available!\nLet's make these little guys purr!"
