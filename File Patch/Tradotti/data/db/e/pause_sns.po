@@ -541,7 +541,7 @@ msgstr "Vado io. Aspettatemi."
 
 msgctxt "112||tm_32_hankouyokoku2||table||1||start||1"
 msgid "Kiryu-san,\r\nIt's me, Torafuru. This is a DM, so only you\r\ncan see it. I traced that serial bomber's IP,\r\nand it seems like he's posting to Troublr\r\nfrom an internet café. Maybe you could\r\ncatch him if you dropped in at the right\r\ncafé!"
-msgstr "Kiryu-san,\r\nsono Torafuru. Questo è un DM, solo tu\r\npuoi vederlo. Ho tracciato l'IP del bombarolo seriale\r\ne sembra stia postando su Troublr\r\da un internet café. Forse potresti\r\nbeccarlo facendo un salto nel\r\ncafé giusto!"
+msgstr "Kiryu-san,\r\nsono Torafuru. Questo è un DM, solo tu\r\npuoi vederlo. Ho tracciato l'IP del bombarolo seriale\r\ne sembra stia postando su Troublr\r\nda un internet café. Forse potresti\r\nbeccarlo facendo un salto nel\r\ncafé giusto!"
 
 msgctxt "112||tm_32_hankouyokoku2||table||2||success||1"
 msgid "You did it, Kiryu-san. I knew you could.\r\nThat guy was pretty terrible, huh?"
