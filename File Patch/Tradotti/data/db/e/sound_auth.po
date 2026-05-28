@@ -49145,11 +49145,11 @@ msgstr "I prossimi saremo noi."
 
 msgctxt "25||speech_list_main13||table||397||||4"
 msgid "They won't stop until they get revenge\nfor revealing the secret of Onomichi."
-msgstr "Non si fermeranno finché non si saranno vendicati\nperché abbiamo rivelato il segreto di Onomichi."
+msgstr "Non si fermeranno finché non si saranno vendicati\nper aver rivelato il segreto di Onomichi."
 
 msgctxt "25||speech_list_main13||table||398||||4"
 msgid "It's dangerous to be all in the same place like this.\nWe need to hide separately for a while."
-msgstr "È pericoloso stare tutti insieme in questo modo.\nDobbiamo nasconderci separatamente per un po'."
+msgstr "È pericoloso stare tutti insieme in questo modo.\nDobbiamo dividerci e nasconderci per un po'."
 
 msgctxt "25||speech_list_main13||table||400||||4"
 msgid "You're right."
@@ -49181,15 +49181,15 @@ msgstr "Quando le acque si saranno calmate,\npotremo incontrarci di nuovo."
 
 msgctxt "25||speech_list_main13||table||407||||4"
 msgid "Don't y'get it!? This ain't the time\nt'be sittin' on our asses!"
-msgstr "Non capite!? Non è il momento\ndi starsene con le mani in mano!"
+msgstr "Non capite!? Non è il momento\ndi starsene qui a non fare un cazzo!"
 
 msgctxt "25||speech_list_main13||table||408||||4"
 msgid "Get the fuck outta here!\nI ain't lettin' them kill anyone else, y'hear me!?"
-msgstr "Toglietevi dai coglioni!\nNon permetterò che uccidano qualcun altro, mi sentite!?"
+msgstr "Toglietevi dai coglioni!\nNon permetterò che uccidano nessun altro, mi sentite!?"
 
 msgctxt "25||speech_list_main13||table||409||||4"
 msgid "Akiyama. Can you take care of Yuta for me? You should be\nsafe from both the Tojo and the Yomei down in that sewer."
-msgstr "Akiyama. Puoi occuparti di Yuta per me? Dovreste essere\nal sicuro sia dal Tojo che dalla Yomei, giù in quelle fogne."
+msgstr "Akiyama. Puoi occuparti di Yuta per me? Dovreste essere\nal sicuro sia dal Tojo che dalla Yomei, giù in quella fogna."
 
 msgctxt "25||speech_list_main13||table||410||||4"
 msgid "Will do."
@@ -49277,7 +49277,7 @@ msgstr "Non mettermi su un piedistallo."
 
 msgctxt "25||speech_list_main13||table||434||||4"
 msgid "I can't protect my own friends, let alone\nthe whole city. I'm just a washed-up yakuza."
-msgstr "Non riesco a proteggere i miei amici, figuriamoci\nl'intera città. Sono solo uno yakuza finito."
+msgstr "Non riesco nemmeno a proteggere i miei amici, figuriamoci\nl'intera città. Sono solo uno yakuza finito."
 
 msgctxt "25||speech_list_main13||table||435||||4"
 msgid "You can say that all you want,\nbut I'm not giving up on you."

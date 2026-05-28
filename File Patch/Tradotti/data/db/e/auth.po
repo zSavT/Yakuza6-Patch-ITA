@@ -9669,7 +9669,7 @@ msgstr "Non sei tu quello che cerco."
 
 msgctxt "115||a13_080||cinema_telop||2||||4"
 msgid "It's that sneering asshole behind you!"
-msgstr "È quello stronzo ghignante dietro di te!"
+msgstr "È quello stronzo col ghigno dietro di te!"
 
 msgctxt "115||a13_080||cinema_telop||3||||4"
 msgid "You'll die if you keep this up."
@@ -9677,7 +9677,7 @@ msgstr "Morirai se continui così."
 
 msgctxt "115||a13_080||cinema_telop||4||||4"
 msgid "Just stop already!"
-msgstr "Smettila, e basta!"
+msgstr "Smettila e basta!"
 
 msgctxt "115||a13_080||cinema_telop||5||||4"
 msgid "I'm... not finished yet!"
@@ -9685,7 +9685,7 @@ msgstr "Io... non ho ancora finito!"
 
 msgctxt "115||a13_080||cinema_telop||6||||4"
 msgid "Oh dear, Kiryu."
-msgstr "Oh cielo, Kiryu."
+msgstr "Povero Kiryu."
 
 msgctxt "115||a13_080||cinema_telop||7||||4"
 msgid "You have no idea what you've done."
@@ -9891,9 +9891,9 @@ msgctxt "115||a13_080||cinema_telop||58||||4"
 msgid "I beg of you."
 msgstr "Vi prego."
 
-msgctxt "115||a13_080||cinema_telop||59||||4"
+mmsgctxt "115||a13_080||cinema_telop||59||||4"
 msgid "What're y'talkin' about!?\r\nYer gonna be fine!"
-msgstr "Che stai dicendo!?\r\nTe la caverai!"
+msgstr "Ma che stai dicendo!?\r\nTe la caverai!"
 
 msgctxt "115||a13_080||cinema_telop||60||||4"
 msgid "We can still save ya!"
@@ -9905,7 +9905,7 @@ msgstr "Promettetemelo."
 
 msgctxt "115||a13_080||cinema_telop||62||||4"
 msgid "Promise me... You'll take care of her."
-msgstr "Promettetemi... Che vi prenderete cura di lei."
+msgstr "Promettetemi... che vi prenderete cura di lei."
 
 msgctxt "115||a13_080||cinema_telop||63||||4"
 msgid "I need to hear it."
@@ -9917,11 +9917,11 @@ msgstr "Nagumo!"
 
 msgctxt "115||a13_080||cinema_telop||65||||4"
 msgid "I'll do it."
-msgstr "Lo farò."
+msgstr "Te lo prometto."
 
 msgctxt "115||a13_080||cinema_telop||66||||4"
 msgid "She's gonna be jus' fine."
-msgstr "Andrà tutto bene per lei."
+msgstr "Starà bene."
 
 msgctxt "115||a13_080||cinema_telop||67||||4"
 msgid "Y'can rest easy."
@@ -10057,7 +10057,7 @@ msgstr "Conoscendo Kiyo-chan..."
 
 msgctxt "124||a13_120||cinema_telop||2||||4"
 msgid "...I'm sure she was always thinkin' about ya."
-msgstr "...Sono sicuro che pensasse sempre a te."
+msgstr "...Sono sicuro che ti pensasse sempre."
 
 msgctxt "124||a13_120||cinema_telop||3||||4"
 msgid "Y'were jus' three when\r\ny'got separated, right?"
@@ -10141,7 +10141,7 @@ msgstr "Voglio dire, aveva appena visto\r\nSomeya uccidersi per salvarla."
 
 msgctxt "124||a13_120||cinema_telop||23||||4"
 msgid "Musta made him consider a better way."
-msgstr "Deve avergli fatto considerare un modo migliore."
+msgstr "Deve avergli fatto pensare a un'alternativa."
 
 msgctxt "124||a13_120||cinema_telop||24||||4"
 msgid "If we were livin' in a different world, maybe\r\nhe wouldn'ta gotten mixed up in all this."
@@ -10153,7 +10153,7 @@ msgstr "Probabilmente era stufo di fare il cagnolino di Iwami.\r\nE chi non lo s
 
 msgctxt "124||a13_120||cinema_telop||26||||4"
 msgid "Why he did it doesn't matter."
-msgstr "Il motivo per cui lo ha fatto non importa."
+msgstr "Perché lo abbia fatto non ha importanza."
 
 msgctxt "124||a13_120||cinema_telop||27||||4"
 msgid "It's thanks to him that Kiyomi-san's still alive."
@@ -10161,7 +10161,7 @@ msgstr "È grazie a lui se Kiyomi-san è ancora viva."
 
 msgctxt "124||a13_120||cinema_telop||28||||4"
 msgid "Y'gotta feel fer Cap, though."
-msgstr "Però ti deve dispiacere per il Capitano."
+msgstr "C'è da dispiacersi per il Capitano, però."
 
 msgctxt "124||a13_120||cinema_telop||29||||4"
 msgid "His rival fer Kiyomi-san's heart\r\nkilled himself t'save her."
@@ -10301,7 +10301,7 @@ msgstr "Quelli di Hiroshima si aspetteranno\r\nche andiamo a bussare prima o poi
 
 msgctxt "125||a13_130||cinema_telop||17||||4"
 msgid "Sooner makes a shitton more sense to me."
-msgstr "E prima ci andiamo, più fottutamente ha senso per me."
+msgstr "Agire il prima possibile ha fottutamente più senso per me."
 
 msgctxt "125||a13_130||cinema_telop||18||||4"
 msgid "And this Koshimizu guy has yet to take\r\nfull control of the Yomei Alliance."
@@ -10325,15 +10325,15 @@ msgstr "Le cose che avrei dovuto dirti negli\r\nanni si sono accumulate come una
 
 msgctxt "126||a13_140||cinema_telop||5||||4"
 msgid "I failed you, though.\r\nSo much has been left unsaid."
-msgstr "Ti ho deluso, però.\r\nCosì tante cose non sono state dette."
+msgstr "Ti ho deluso, però.\r\nCosì tante cose sono rimaste non dette."
 
 msgctxt "126||a13_140||cinema_telop||6||||4"
 msgid "I failed you, though.\r\nSo much has been left unsaid."
-msgstr "Ti ho deluso, però.\r\nCosì tante cose non sono state dette."
+msgstr "Ti ho deluso, però.\r\nCosì tante cose sono rimaste non dette."
 
 msgctxt "126||a13_140||cinema_telop||7||||4"
 msgid "In the past few weeks, I've seen so\r\nmany different kinds of relationships."
-msgstr "Nelle ultime settimane, ho visto\r\ncosì tanti tipi diversi di relazioni."
+msgstr "Nelle ultime settimane, ho visto\r\ncosì tanti tipi diversi di rapporti."
 
 msgctxt "126||a13_140||cinema_telop||8||||4"
 msgid "Different types of parents."
@@ -10353,7 +10353,7 @@ msgstr "Figli che, soprattutto, volevano dimostrare il loro valore."
 
 msgctxt "126||a13_140||cinema_telop||12||||4"
 msgid "Show their parents they were capable.\r\nProve that they deserved their love."
-msgstr "Mostrare ai genitori di essere capaci.\r\nDimostrare di meritare il loro amore."
+msgstr "Mostrare ai genitori di essere all'altezza.\r\nDimostrare di meritare il loro amore."
 
 msgctxt "126||a13_140||cinema_telop||13||||4"
 msgid "So much grief came of it, the rift between\r\nparent and child. I saw it firsthand."
@@ -10365,7 +10365,7 @@ msgstr "Queste famiglie non avevano fiducia nei loro legami?"
 
 msgctxt "126||a13_140||cinema_telop||15||||4"
 msgid "That wasn't it."
-msgstr "Non era quello."
+msgstr "Non era così."
 
 msgctxt "126||a13_140||cinema_telop||16||||4"
 msgid "They had absolute faith in those bonds."
@@ -10373,7 +10373,7 @@ msgstr "Avevano una fede assoluta in quei legami."
 
 msgctxt "126||a13_140||cinema_telop||17||||4"
 msgid "Even in this harsh reality, they tried to affirm\r\ntheir bonds. Labored, agonized over them."
-msgstr "Persino in questa dura realtà, cercavano di affermare\r\ni loro legami. Ci faticavano, ci si struggevano."
+msgstr "Persino in questa dura realtà, cercavano di affermare\r\ni loro legami. Hanno faticato, si sono tormentati per essi."
 
 msgctxt "126||a13_140||cinema_telop||18||||4"
 msgid "But... that wasn't the answer."
@@ -10385,7 +10385,7 @@ msgstr "Semplicemente non passavano abbastanza tempo insieme\r\ncome famiglia. E
 
 msgctxt "126||a13_140||cinema_telop||20||||4"
 msgid "If you ask me..."
-msgstr "Se me lo chiedi..."
+msgstr "Se vuoi la mia opinione..."
 
 msgctxt "126||a13_140||cinema_telop||21||||4"
 msgid "...Nothing is more vital than time."
@@ -10393,7 +10393,7 @@ msgstr "...Non c'è niente di più vitale del tempo."
 
 msgctxt "126||a13_140||cinema_telop||22||||4"
 msgid "To that end, I think we made\r\nthe same mistakes they did."
-msgstr "A tal fine, penso che abbiamo commesso\r\ngli stessi loro errori."
+msgstr "In tal senso, penso che abbiamo commesso\r\ni loro stessi errori."
 
 msgctxt "126||a13_140||cinema_telop||23||||4"
 msgid "I never expected to become\r\nthe Tojo Clan's fourth chairman."
@@ -10421,7 +10421,7 @@ msgstr "Ma non era abbastanza."
 
 msgctxt "126||a13_140||cinema_telop||29||||4"
 msgid "Instead of cherishing our time together,\r\nI threw it all away. Rejected our bond."
-msgstr "Invece di custodire il nostro tempo insieme,\r\nho buttato via tutto. Ho respinto il nostro legame."
+msgstr "Invece di fare tesoro del nostro tempo insieme,\r\nho buttato via tutto. Ho respinto il nostro legame."
 
 msgctxt "126||a13_140||cinema_telop||30||||4"
 msgid "Instead of facing my past, I ran.\r\nAnd ran from you as well."
@@ -10433,7 +10433,7 @@ msgstr "Pensando ai genitori che ho incontrato..."
 
 msgctxt "126||a13_140||cinema_telop||32||||4"
 msgid "I don't even have the words."
-msgstr "Non ho nemmeno le parole."
+msgstr "Mi mancano le parole."
 
 msgctxt "126||a13_140||cinema_telop||33||||4"
 msgid "I don't have the right to call myself a\r\nfather to either you or the Tojo Clan."
@@ -10445,7 +10445,7 @@ msgstr "Perciò, quando leggerai questa lettera,\r\npotrei già non esserci più
 
 msgctxt "126||a13_140||cinema_telop||35||||4"
 msgid "But please, don't try to avenge me\r\nas a son would his father."
-msgstr "Ma ti prego, non cercare di vendicarmi\r\ncome un figlio farebbe per il padre."
+msgstr "Ma ti prego, non cercare di vendicarmi\r\ncome un figlio farebbe per il proprio padre."
 
 msgctxt "126||a13_140||cinema_telop||36||||4"
 msgid "My life isn't worth that much."
@@ -10465,7 +10465,7 @@ msgstr "Non ho alcun diritto di dirlo, ma\r\nmi consideravo tuo padre."
 
 msgctxt "126||a13_140||cinema_telop||40||||4"
 msgid "I failed you, though.\r\nSo much has been left unsaid."
-msgstr "Ti ho deluso, però.\r\nCosì tante cose non sono state dette."
+msgstr "Ti ho deluso, però.\r\nCosì tante cose sono rimaste non dette."
 
 msgctxt "127||a13_150||cinema_telop||1||||4"
 msgid "My father has made a request of me."
@@ -11193,15 +11193,15 @@ msgstr "Date-san, perché!?"
 
 msgctxt "141||a13_100||cinema_telop||18||||4"
 msgid "You've been caught in the act of\r\nillegal confinement. Don't try to resist."
-msgstr "Sei stato colto in flagrante per\r\nsequestro di persona. Non cercare di resistere."
+msgstr "Sei stato colto in flagrante per\r\nsequestro di persona. Non opporre resistenza."
 
 msgctxt "141||a13_100||cinema_telop||19||||4"
 msgid "You've got it wrong, Honjo!"
-msgstr "Hai frainteso, Honjo!"
+msgstr "Ti sbagli, Honjo!"
 
 msgctxt "141||a13_100||cinema_telop||20||||4"
 msgid "This is exactly what the people\r\nwho are after Haruka want!"
-msgstr "Questo è esattamente quello che vogliono\r\nle persone che danno la caccia ad Haruka!"
+msgstr "Questo è esattamente quello che vogliono\r\nquelli che danno la caccia a Haruka!"
 
 msgctxt "141||a13_100||cinema_telop||21||||4"
 msgid "Someone must have paid off the chief!"
@@ -11209,7 +11209,7 @@ msgstr "Qualcuno deve aver corrotto il capo!"
 
 msgctxt "141||a13_100||cinema_telop||22||||4"
 msgid "I assure you, my orders came through\r\nthe appropriate channels."
-msgstr "Ti assicuro che i miei ordini sono arrivati tramite\r\ni canali appropriati."
+msgstr "Ti assicuro che i miei ordini sono arrivati tramite\r\ni canali ufficiali."
 
 msgctxt "141||a13_100||cinema_telop||23||||4"
 msgid "Take them!"
@@ -11305,7 +11305,7 @@ msgstr "Limitare la mobilità di un figlio non fa altro\r\nche spingerlo verso l
 
 msgctxt "141||a13_100||cinema_telop||46||||4"
 msgid "This is where I belong."
-msgstr "È qui che appartengo."
+msgstr "Questo è il mio posto."
 
 msgctxt "141||a13_100||cinema_telop||47||||4"
 msgid "With the talent I possess, my father\r\nshould have realized that years ago."
@@ -11313,7 +11313,7 @@ msgstr "Con il talento che possiedo, mio padre\r\navrebbe dovuto capirlo anni fa
 
 msgctxt "141||a13_100||cinema_telop||48||||4"
 msgid "The legendary yakuza name Takeru Kurusu..."
-msgstr "Il leggendario nome yakuza Takeru Kurusu..."
+msgstr "Il leggendario nome da yakuza Takeru Kurusu..."
 
 msgctxt "141||a13_100||cinema_telop||49||||4"
 msgid "...is rightfully mine!"
@@ -11389,11 +11389,11 @@ msgstr "Stai per capire..."
 
 msgctxt "141||a13_100||cinema_telop||67||||4"
 msgid "Just who you picked a fight with."
-msgstr "Con chi hai esattamente cercato briga."
+msgstr "Con chi ti sei messo."
 
 msgctxt "141||a13_100||cinema_telop||68||||4"
 msgid "Don't fuck with me!"
-msgstr "Non fottetemi il cazzo!"
+msgstr "Non rompetemi il cazzo!"
 
 msgctxt "141||a13_100||cinema_telop||69||||4"
 msgid "Iwami-san!"
@@ -11449,11 +11449,11 @@ msgstr "Questo pomeriggio ha ricevuto un ordine speciale,\r\ndirettamente dai su
 
 msgctxt "141||a13_100||cinema_telop||82||||4"
 msgid "All my life he pushed me toward an honest career,\r\nbut that only led me to resent him."
-msgstr "Per tutta la vita mi ha spinto verso una carriera onesta,\r\nma questo mi ha portato solo a risentirmi verso di lui."
+msgstr "Per tutta la vita mi ha spinto verso una carriera onesta,\r\nma questo mi ha portato solo a portargli rancore."
 
 msgctxt "142||a13_160||cinema_telop||1||||4"
 msgid "Sky Finance is gonna be making\r\na comeback just a couple floors up."
-msgstr "La Sky Finance farà il suo\r\nritorno appena un paio di piani più su."
+msgstr "La Sky Finance riaprirà\r\nappena un paio di piani più su."
 
 msgctxt "142||a13_160||cinema_telop||2||||4"
 msgid "Thought it'd only be right to stop in."
@@ -11537,7 +11537,7 @@ msgstr "C'è solo un uomo che può confermare la morte di Kiryu-san,\r\ne quello
 
 msgctxt "142||a13_160||cinema_telop||22||||4"
 msgid "Then they cremate the body like they're\r\n<font_kind=yakuza_italic>trying</font_kind> to be fishy."
-msgstr "E poi ne cremano il corpo, come se si stessero\r\n<font_kind=yakuza_italic>sforzando</font_kind> di sembrare loschi."
+msgstr "E poi ne cremano il corpo, come se si stessero\r\n<font_kind=yakuza_italic>sforzando</font_kind> di destare sospetti."
 
 msgctxt "142||a13_160||cinema_telop||23||||4"
 msgid "Kiryu has no living relatives."
@@ -11549,7 +11549,7 @@ msgstr "Non c'era motivo di mantenere intatto il suo corpo."
 
 msgctxt "142||a13_160||cinema_telop||25||||4"
 msgid "I only got to see him because of my connections."
-msgstr "L'ho potuto vedere solo grazie alle mie conoscenze."
+msgstr "Ho potuto vederlo solo grazie alle mie conoscenze."
 
 msgctxt "142||a13_160||cinema_telop||26||||4"
 msgid "That the line you're going to feed me every time?"
@@ -11557,7 +11557,7 @@ msgstr "È questa la scusa che mi propinerai ogni volta?"
 
 msgctxt "142||a13_160||cinema_telop||27||||4"
 msgid "Someday, once things are a little different..."
-msgstr "Un giorno, quando le পশ্চcose saranno un po' diverse..."
+msgstr "Un giorno, quando le cose saranno un po' diverse..."
 
 msgctxt "142||a13_160||cinema_telop||28||||4"
 msgid "...I hope you'll tell me what really happened."
@@ -11657,7 +11657,7 @@ msgstr "...Sei uno di quei politici?"
 
 msgctxt "142||a13_160||cinema_telop||52||||4"
 msgid "And, this would be hush money."
-msgstr "E questo sarebbe il denaro per comprare il mio silenzio."
+msgstr "E questi sarebbero i soldi per comprare il mio silenzio."
 
 msgctxt "142||a13_160||cinema_telop||53||||4"
 msgid "I've done a great deal of research on you."
@@ -11701,7 +11701,7 @@ msgstr "...Ho delle condizioni."
 
 msgctxt "142||a13_160||cinema_telop||63||||4"
 msgid "E-Excuse me!?"
-msgstr "S-Scusa!?"
+msgstr "C-Come, scusa!?"
 
 msgctxt "142||a13_160||cinema_telop||64||||4"
 msgid "Do you know who you're talking to!?"
@@ -11737,7 +11737,7 @@ msgstr "Potrete vivere il resto della vostra vita nel terrore."
 
 msgctxt "142||a13_160||cinema_telop||72||||4"
 msgid "Are all yakuza this stupid?"
-msgstr "Gli yakuza sono tutti così stupidi?"
+msgstr "Siete tutti così stupidi, voi yakuza?"
 
 msgctxt "142||a13_160||cinema_telop||73||||4"
 msgid "You shouldn't take me so lightly.\r\nDon't you value your life?"
@@ -11957,7 +11957,7 @@ msgstr "Fuori. Ora. Kiryu."
 
 msgctxt "143||a01_015||cinema_telop||8||||4"
 msgid "Thought I told you I don't wanna\r\nsee yer sorry ass in here again."
-msgstr "Pensavo di averti detto che non volevo\r\npiù vedere il tuo inutile culo qui dentro."
+msgstr "Pensavo di averti detto che non volevo\r\npiù vedere la tua brutta faccia qui dentro."
 
 msgctxt "143||a01_015||cinema_telop||9||||4"
 msgid "Could you at least try to be\r\na little polite to my customers?"
@@ -12025,7 +12025,7 @@ msgstr "Sei pronto a fare a botte? Eh!?"
 
 msgctxt "143||a01_015||cinema_telop||25||||4"
 msgid "I'm gonna teach ya good, punks\r\nwho mess with me don't get off easy."
-msgstr "Ti darò una lezione. I pivelli\r\nche mi si mettono contro non la passano liscia."
+msgstr "Ti darò una bella lezione. I pivelli\r\nche si mettono contro di me non la passano liscia."
 
 msgctxt "143||a01_015||cinema_telop||26||||4"
 msgid "Best start prayin' now."
@@ -12069,7 +12069,7 @@ msgstr "Sbrigati e battiti con me."
 
 msgctxt "143||a01_015||cinema_telop||36||||4"
 msgid "It's really gonna mess up my plans if I\r\nhave to listen to any more of this hot air."
-msgstr "Mi sballerai tutti i piani se dovrò\r\nascoltare ancora le tue chiacchiere."
+msgstr "Mi rovinerai i piani se dovrò\r\nascoltare altre tue chiacchiere."
 
 msgctxt "143||a01_015||cinema_telop||37||||4"
 msgid "Well y'don't gotta worry then."
