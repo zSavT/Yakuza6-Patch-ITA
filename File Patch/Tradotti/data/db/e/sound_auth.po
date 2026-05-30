@@ -2481,7 +2481,7 @@ msgstr "Sì. Vederti così felice fa venire voglia anche a me\r\ndi impegnarmi u
 
 msgctxt "6||speech_list_caba_erina||table||174||||4"
 msgid "When I thought about it, I realized I\r\ndon't have a lot of decent friends right now..."
-msgstr "Quando ci ho pensato, ho realizzato di non\r\navere molti amici decenti, di questi tempi..."
+msgstr "Quando ci ho pensato, mi sono resa conto di non\r\navere molti amici decenti, di questi tempi..."
 
 msgctxt "6||speech_list_caba_erina||table||175||||4"
 msgid "O-Oh, really...?\r\nThen, you and I should make tons of new friends!"
@@ -3065,7 +3065,7 @@ msgstr "Oh, davvero?"
 
 msgctxt "6||speech_list_caba_erina||table||320||||4"
 msgid "I got so excited I bought two controllers!\r\nBut then I realized I have no one to play with..."
-msgstr "Ero così elettrizzata che ho comprato due controller!\r\nMa poi ho realizzato di non avere nessuno con cui giocare..."
+msgstr "Ero così elettrizzata che ho comprato due controller!\r\nMa poi mi sono resa conto di non avere nessuno con cui giocare..."
 
 msgctxt "6||speech_list_caba_erina||table||321||||4"
 msgid "Erina..."
@@ -7541,7 +7541,7 @@ msgstr "Mhm? E cosa faresti se lo sapessi?\nQualcosa in particolare?"
 
 msgctxt "8||speech_list_caba_riona||table||225||||4"
 msgid "I'm the type who likes to dote on people,\nso I'd want to offer my advice and support."
-msgstr "Sono il tipo a cui piace viziare le persone,\nquindi vorrei offrirgli i miei consigli e il mio supporto."
+msgstr "Sono il tipo a cui piace viziare le persone,\nquindi vorrei offrirgli i miei consigli e il mio sostegno."
 
 msgctxt "8||speech_list_caba_riona||table||226||||4"
 msgid "But maybe they'd find that annoying? What do you\nthink of a woman who wants to support her man?"
@@ -11833,7 +11833,7 @@ msgstr "Grazie per avermelo detto!\n...Sento di aver trovato il coraggio, adesso
 
 msgctxt "10||speech_list_caba_sora||table||213||||4"
 msgid "Good to hear, and glad I can support you."
-msgstr "Mi fa piacere sentirlo, e sono felice di poterti supportare."
+msgstr "Mi fa piacere sentirlo, e sono felice di poterti sostenere."
 
 msgctxt "10||speech_list_caba_sora||table||214||||4"
 msgid "Yeah... I have to say, though,\nyou're pretty dense, Kiryu-san..."
@@ -28801,7 +28801,7 @@ msgstr "Quando ci siamo conosciuti, era solo una bambina finita\r\nnel mezzo di 
 
 msgctxt "13||speech_list_main01||table||57||||4"
 msgid "She was the only emotional support I had\r\nas I lost nearly everyone dear to me."
-msgstr "È stata il mio unico supporto emotivo\r\nmentre perdevo quasi tutti i miei cari."
+msgstr "È stata il mio unico sostegno emotivo\r\nmentre perdevo quasi tutti i miei cari."
 
 msgctxt "13||speech_list_main01||table||58||||4"
 msgid "If there's one thing I'm proud of in life..."
@@ -44109,7 +44109,7 @@ msgstr "Ho una domanda per te, però."
 
 msgctxt "22||speech_list_main10||table||314||||4"
 msgid "The one who's been supporting your\nresurgence... It's Tsuneo Iwami, isn't it?"
-msgstr "Colui che ha supportato la vostra\nrinascita... È Tsuneo Iwami, vero?"
+msgstr "Colui che ha sostenuto la vostra\nrinascita... È Tsuneo Iwami, vero?"
 
 msgctxt "22||speech_list_main10||table||315||||4"
 msgid "Indeed. After the Little Asia fire,\nIwami approached us with a proposal."
@@ -45689,7 +45689,7 @@ msgstr "Gli <font_kind=yakuza_italic>heihaizi</font_kind> sono bambini che esist
 
 msgctxt "24||speech_list_main12||table||116||||4"
 msgid "They have no documents. No education.\r\nThey are born destined for a life of crime."
-msgstr "Non hanno documenti. Nessuna educazione.\r\nNascono destinati a una vita criminale."
+msgstr "Non hanno documenti. Nessuna istruzione.\r\nNascono destinati a una vita criminale."
 
 msgctxt "24||speech_list_main12||table||117||||4"
 msgid "However, these children knew we could\r\ngive them new lives as citizens of Japan."
@@ -45701,7 +45701,7 @@ msgstr "E pur di cogliere quell'opportunità\r,\nsi sono indebitati volentieri c
 
 msgctxt "24||speech_list_main12||table||119||||4"
 msgid "So the only reason you helped them\nwas for\r the eventual payday."
-msgstr "Quindi l'unica ragione per cui li hai aiutati\nè stata per\r l'eventuale guadagno."
+msgstr "Quindi l'unica ragione per cui li hai aiutati\nè stata per\r il guadagno finale."
 
 msgctxt "24||speech_list_main12||table||120||||4"
 msgid "We are not a charity. We do earnestly\nhope to save those children, though."
@@ -48125,7 +48125,7 @@ msgstr "Avevo in programma di strappare il controllo del Clan Tojo\na Sugai ment
 
 msgctxt "25||speech_list_main13||table||127||||4"
 msgid "However, if Sugai has Iwami's support,\nit won't be as easy as I had expected."
-msgstr "Tuttavia, se Sugai ha il supporto di Iwami,\nnon sarà facile come avevo previsto."
+msgstr "Tuttavia, se Sugai ha il sostegno di Iwami,\nnon sarà facile come avevo previsto."
 
 msgctxt "25||speech_list_main13||table||128||||4"
 msgid "And why come to me with all this?\nWhat's your goal here?"
@@ -52529,7 +52529,7 @@ msgstr "Davvero? Allora ha senso restare qui."
 
 msgctxt "36||speech_list_snack_b22||table||55||||4"
 msgid "You guys better keep stopping by to support me."
-msgstr "Sarà meglio che continuiate a passare a supportarmi."
+msgstr "Sarà meglio che continuiate a passare a sostenermi."
 
 msgctxt "36||speech_list_snack_b22||table||56||||4"
 msgid "We know that."
@@ -58265,7 +58265,7 @@ msgstr "T-Tu...!"
 
 msgctxt "46||speech_list_sub_a09||table||58||||4"
 msgid "This traitor wanted to kill me.\nI saved because of you, Kiryu."
-msgstr "Questo traditore voleva uccidermi.\nIo salvo grazie a te, Kiryu."
+msgstr "Questo traditore voleva uccidermi.\nSono salvo grazie a te, Kiryu."
 
 msgctxt "46||speech_list_sub_a09||table||59||||4"
 msgid "You think I moron, huh?\nYou think you so much smarter than me!?"
@@ -63973,7 +63973,7 @@ msgstr "È comprensibile."
 
 msgctxt "62||speech_list_sub_b01||table||41||||4"
 msgid "He's been so supportive about me realizing my\ndream, though. He was there when nobody else was."
-msgstr "Lui mi ha sempre supportato nel realizzare il mio\nsogno, però. C'è stato quando nessun altro c'era."
+msgstr "Lui mi ha sempre sostenuta nel realizzare il mio\nsogno, però. C'è stato quando nessun altro c'era."
 
 msgctxt "62||speech_list_sub_b01||table||42||||4"
 msgid "Now that I think about it, he was the first person\nI told about me moving to Tokyo after the audition, too."
@@ -64037,7 +64037,7 @@ msgstr "È meglio che tu non vada a vederlo."
 
 msgctxt "62||speech_list_sub_b01||table||58||||4"
 msgid "If you give up on your idol dream now,\nall the support he gave you will have been for nothing."
-msgstr "Se rinunci al tuo sogno di diventare idol adesso,\ntutto il supporto che ti ha dato sarà stato inutile."
+msgstr "Se rinunci al tuo sogno di diventare idol adesso,\ntutto il sostegno che ti ha dato sarà stato inutile."
 
 msgctxt "62||speech_list_sub_b01||table||59||||4"
 msgid "But if I go to Tokyo now, who knows if\nI'll ever be able to see him again..."
@@ -71057,7 +71057,7 @@ msgstr "Sei così calmo al riguardo.\nImmagino che tu non mi creda affatto, eh?"
 
 msgctxt "69||speech_list_sub_b08||table||70||||4"
 msgid "Hold on a sec. I just realized, nothing you say\ncan really prove you're from the future."
-msgstr "Aspetta un attimo. Ho appena realizzato che niente di\nciò che dirai potrà mai provare che vieni dal futuro."
+msgstr "Aspetta un attimo. Mi sono appena reso conto che niente di\nciò che dirai potrà mai provare che vieni dal futuro."
 
 msgctxt "69||speech_list_sub_b08||table||71||||4"
 msgid "Don't you have any physical proof?\nSomething that's definitely from 2017?"
@@ -77393,7 +77393,7 @@ msgstr "Probabilmente è così!\nAndiamo."
 
 msgctxt "82||speech_list_sub_b22||table||158||||4"
 msgid "You know, I just realized I've never\nasked how old you are."
-msgstr "Sai, ho appena realizzato di non\naverti mai chiesto quanti anni hai."
+msgstr "Sai, mi sono appena reso conto di non\naverti mai chiesto quanti anni hai."
 
 msgctxt "82||speech_list_sub_b22||table||159||||4"
 msgid "Wise choice! <symbol=note_with_outline>"
