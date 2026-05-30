@@ -12,3 +12,13 @@ msgctxt "Offset_0x1378_Len_18"
 msgid "Request a hostess?"
 msgstr ""
 
+#. Max bytes: 3
+msgctxt "Offset_0x1478_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x14B8_Len_2"
+msgid "No"
+msgstr ""
+

@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 9
 msgctxt "Offset_0x968_Len_9"
 msgid "6th Floor"
-msgstr ""
+msgstr "Piano 6"
 
 #. Max bytes: 9
 msgctxt "Offset_0x9A8_Len_9"
 msgid "2nd Floor"
-msgstr ""
+msgstr "Piano 2"
 
 #. Max bytes: 9
 msgctxt "Offset_0x9E8_Len_9"
 msgid "1st Floor"
-msgstr ""
+msgstr "Piano 1"
 

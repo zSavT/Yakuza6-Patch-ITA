@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 37
 msgctxt "Offset_0x21E0_Len_37"
 msgid "Would you like to return to the city?"
-msgstr ""
+msgstr "Vuoi tornare in città?"
 
 #. Max bytes: 7
 msgctxt "Offset_0x2320_Len_7"
 msgid "Not Yet"
-msgstr ""
+msgstr "Non ora"
 

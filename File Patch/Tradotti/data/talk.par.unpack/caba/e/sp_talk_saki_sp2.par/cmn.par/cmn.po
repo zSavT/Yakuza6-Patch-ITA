@@ -10,30 +10,25 @@ msgstr ""
 #. Max bytes: 5
 msgctxt "Offset_0x169FF_Len_5"
 msgid "Ef^ E"
-msgstr ""
+msgstr "Ef^ E"
 
 #. Max bytes: 26
 msgctxt "Offset_0x1DACC_Len_26"
 msgid "I want you to move me too."
-msgstr ""
+msgstr "Voglio una mossa anch'io."
 
 #. Max bytes: 23
 msgctxt "Offset_0x1DB0C_Len_23"
 msgid "I want to move you too."
-msgstr ""
+msgstr "Ti faccio una mossa."
 
 #. Max bytes: 16
 msgctxt "Offset_0x1DB4C_Len_16"
 msgid "Do a move on me!"
-msgstr ""
+msgstr "Fammi una mossa!"
 
 #. Max bytes: 36
 msgctxt "Offset_0x1E05C_Len_36"
 msgid "Saki's rank has increased to Silver."
-msgstr ""
-
-#. Max bytes: 41
-msgctxt "Offset_0x1E08C_Len_41"
-msgid "沙希的階級已成為「Silver Cast」"
-msgstr ""
+msgstr "Saki è salita al grado Argento."
 

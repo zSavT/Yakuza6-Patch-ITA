@@ -9,11 +9,11 @@ msgstr ""
 
 msgctxt "1||button_info_hitting||text"
 msgid "Hit"
-msgstr "Batti"
+msgstr "Colpisci"
 
 msgctxt "17||unit_meter||text"
 msgid "M"
-msgstr "m"
+msgstr "M"
 
 msgctxt "18||residue_num_1||text"
 msgid "${residue_num} balls remaining"
@@ -33,7 +33,7 @@ msgstr "<color=${pitch_color}>${type_of_pitch}</color>　${speed} km/h"
 
 msgctxt "23||score_title_challenge||text"
 msgid "Score"
-msgstr "Punteggio"
+msgstr "Punteggio:"
 
 msgctxt "24||score_title_homerun||text"
 msgid "Score:"
@@ -41,7 +41,7 @@ msgstr "Punteggio:"
 
 msgctxt "25||score_unit_challenge||text"
 msgid "Runs"
-msgstr "Punti"
+msgstr "Run"
 
 msgctxt "26||score_unit_homerun||text"
 msgid "Home Runs"

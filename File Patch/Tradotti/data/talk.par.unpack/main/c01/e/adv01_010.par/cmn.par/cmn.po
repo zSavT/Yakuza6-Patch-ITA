@@ -7,8 +7,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 7
+msgctxt "Offset_0x15660_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x3A2C8_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x58054_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x72248_Len_7"
+msgid "Oneshot"
+msgstr ""
+
 #. Max bytes: 81
 msgctxt "Offset_0x875E0_Len_81"
-msgid "Former Tojo Clan chairman, Kazuma Kiryu,\nhas been arrested on incitement charges."
+msgid ""
+"Former Tojo Clan chairman, Kazuma Kiryu,\n"
+"has been arrested on incitement charges."
 msgstr ""
+"L'ex presidente del Clan Tojo, Kazuma Kiryu,\n"
+"è in arresto per istigazione."
 

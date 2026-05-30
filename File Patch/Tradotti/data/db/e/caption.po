@@ -353,7 +353,7 @@ msgstr "VAI AL QUARTIER GENERALE DEL CLAN TOJO"
 
 msgctxt "91||go_toutobyouin||message"
 msgid "GO TO TOUTO HOSPITAL"
-msgstr "VAI ALL'OSPEDALE TOUTO"
+msgstr "VAI AL TOUTO HOSPITAL"
 
 msgctxt "92||go_yakkyoku||message"
 msgid "GO TO THE PHARMACY"

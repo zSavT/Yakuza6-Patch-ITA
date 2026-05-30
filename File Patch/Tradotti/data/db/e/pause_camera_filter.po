@@ -9,7 +9,7 @@ msgstr ""
 
 msgctxt "1||monochro||name"
 msgid "Monochrome"
-msgstr "Monocromo"
+msgstr "Monocromatico"
 
 msgctxt "2||toy||name"
 msgid "Toy Camera"

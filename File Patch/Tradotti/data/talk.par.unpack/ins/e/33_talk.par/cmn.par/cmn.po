@@ -10,25 +10,40 @@ msgstr ""
 #. Max bytes: 47
 msgctxt "Offset_0xF2C_Len_47"
 msgid "(He looks hungry. Should I give him something?)"
-msgstr ""
+msgstr "(Sembra affamato. Dovrei dargli qualcosa?)"
 
 #. Max bytes: 19
 msgctxt "Offset_0x102C_Len_19"
 msgid "Hand Over Some Food"
-msgstr ""
+msgstr "Dagli del cibo"
 
 #. Max bytes: 17
 msgctxt "Offset_0x106C_Len_17"
 msgid "Hand Over a Drink"
-msgstr ""
+msgstr "Dagli da bere"
 
 #. Max bytes: 13
 msgctxt "Offset_0x15CC_Len_13"
 msgid "Th-Thank you!"
-msgstr ""
+msgstr "G-Grazie!"
+
+#. Max bytes: 7
+msgctxt "Offset_0x168C_Len_7"
+msgid "Thanks!"
+msgstr "Grazie!"
+
+#. Max bytes: 8
+msgctxt "Offset_0x173C_Len_8"
+msgid "Subtitle"
+msgstr "Subtitle"
 
 #. Max bytes: 14
 msgctxt "Offset_0x17EC_Len_14"
 msgid "What was that?"
-msgstr ""
+msgstr "Che cos'era?"
+
+#. Max bytes: 8
+msgctxt "Offset_0x189C_Len_8"
+msgid "Subtitle"
+msgstr "Subtitle"
 

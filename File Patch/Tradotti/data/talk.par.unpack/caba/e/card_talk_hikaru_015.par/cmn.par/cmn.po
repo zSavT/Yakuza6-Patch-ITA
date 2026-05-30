@@ -10,10 +10,15 @@ msgstr ""
 #. Max bytes: 9
 msgctxt "Offset_0xE768_Len_9"
 msgid "A dragon."
-msgstr ""
+msgstr "Un drago"
 
 #. Max bytes: 12
 msgctxt "Offset_0xE7A8_Len_12"
 msgid "Angel wings."
-msgstr ""
+msgstr "Ali d'angelo"
+
+#. Max bytes: 4
+msgctxt "Offset_0xE7E8_Len_4"
+msgid "You."
+msgstr "Tu."
 

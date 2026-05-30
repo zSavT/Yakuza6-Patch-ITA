@@ -10,15 +10,20 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0x245C_Len_15"
 msgid "Rest Until Dusk"
-msgstr ""
+msgstr "Fino a sera"
 
 #. Max bytes: 20
 msgctxt "Offset_0x249C_Len_20"
 msgid "Rest Until Nighttime"
-msgstr ""
+msgstr "Fino a notte"
 
 #. Max bytes: 15
 msgctxt "Offset_0x24DC_Len_15"
 msgid "Go to Kamurocho"
-msgstr ""
+msgstr "Vai a Kamurocho"
+
+#. Max bytes: 6
+msgctxt "Offset_0x251C_Len_6"
+msgid "Cancel"
+msgstr "Chiudi"
 

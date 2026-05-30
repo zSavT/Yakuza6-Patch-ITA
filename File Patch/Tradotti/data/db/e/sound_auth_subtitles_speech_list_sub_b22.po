@@ -637,7 +637,7 @@ msgstr "Probabile!\r\nAndiamo."
 
 msgctxt "158||||4"
 msgid "You know, I just realized I've never\r\nasked how old you are."
-msgstr "Sai, ho appena realizzato di non\r\naverti mai chiesto quanti anni hai."
+msgstr "Sai, mi sono appena reso conto di non\r\naverti mai chiesto quanti anni hai."
 
 msgctxt "159||||4"
 msgid "Wise choice! <symbol=note_with_outline>"

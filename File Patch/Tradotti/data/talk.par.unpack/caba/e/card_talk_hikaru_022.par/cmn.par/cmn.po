@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0xBDD8_Len_15"
 msgid "You're lying..."
-msgstr ""
+msgstr "Menti..."
 
 #. Max bytes: 21
 msgctxt "Offset_0xBE18_Len_21"
 msgid "That's pretty cool..."
-msgstr ""
+msgstr "Che forte..."
 
 #. Max bytes: 12
 msgctxt "Offset_0xBE58_Len_12"
 msgid "I volunteer."
-msgstr ""
+msgstr "Mi offro."
 

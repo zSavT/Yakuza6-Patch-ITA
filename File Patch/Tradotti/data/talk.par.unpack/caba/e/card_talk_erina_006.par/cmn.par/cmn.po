@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 13
 msgctxt "Offset_0xB0E0_Len_13"
 msgid "I read manga."
-msgstr ""
+msgstr "Leggo manga."
 
 #. Max bytes: 14
 msgctxt "Offset_0xB120_Len_14"
 msgid "I read novels."
-msgstr ""
+msgstr "Leggo romanzi."
 
 #. Max bytes: 16
 msgctxt "Offset_0xB160_Len_16"
 msgid "I read the mood."
-msgstr ""
+msgstr "Leggo la stanza."
 

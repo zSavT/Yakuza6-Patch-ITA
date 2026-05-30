@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 25
 msgctxt "Offset_0x1CCB8_Len_25"
 msgid "We sang karaoke together."
-msgstr ""
+msgstr "Cantato al karaoke."
 
 #. Max bytes: 29
 msgctxt "Offset_0x1CCF8_Len_29"
 msgid "We drank at our favorite bar."
-msgstr ""
+msgstr "Bevuto al solito bar."
 
 #. Max bytes: 18
 msgctxt "Offset_0x1CD38_Len_18"
 msgid "It ended in blows."
-msgstr ""
+msgstr "Finita a botte."
 

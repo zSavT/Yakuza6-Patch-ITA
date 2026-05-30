@@ -10,25 +10,25 @@ msgstr ""
 #. Max bytes: 90
 msgctxt "Offset_0x3B8_Len_90"
 msgid "(I can't climb the ladder with this extinguisher.\nI should go look for one up at the top.)"
-msgstr ""
+msgstr "(Non posso salire la scala con l'estintore.\nNe cercherò un altro in cima.)"
 
 #. Max bytes: 44
 msgctxt "Offset_0x518_Len_44"
 msgid "(Should I get rid of the fire extinguisher?)"
-msgstr ""
+msgstr "(Dovrei sbarazzarmi dell'estintore?)"
 
 #. Max bytes: 23
 msgctxt "Offset_0x618_Len_23"
 msgid "(All right, it's gone.)"
-msgstr ""
+msgstr "(D'accordo, è andato.)"
 
 #. Max bytes: 27
 msgctxt "Offset_0x7C8_Len_27"
 msgid "Get Rid of the Extinguisher"
-msgstr ""
+msgstr "Getta via l'estintore"
 
 #. Max bytes: 29
 msgctxt "Offset_0x808_Len_29"
 msgid "Keep the Extinguisher For Now"
-msgstr ""
+msgstr "Tieni l'estintore per ora"
 

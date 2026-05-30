@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0xDFF4_Len_16"
 msgid "Become a member."
-msgstr ""
+msgstr "Diventa membro."
 
 #. Max bytes: 22
 msgctxt "Offset_0xE034_Len_22"
 msgid "Don't become a member."
-msgstr ""
+msgstr "Non diventare membro."
 

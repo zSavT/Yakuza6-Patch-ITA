@@ -49,7 +49,7 @@ msgstr "Abbracciami!"
 
 msgctxt "17||mob_03||message"
 msgid "grown up in all the right places"
-msgstr "matura nei punti giusti"
+msgstr "sviluppata nei punti giusti"
 
 msgctxt "18||mob_04||message"
 msgid "pinch me"
@@ -97,7 +97,7 @@ msgstr "Sono felice che siate tornati! <symbol=heart_with_outline>"
 
 msgctxt "29||anri_13||message"
 msgid "You smooth-talker, you."
-msgstr "Siete dei veri rubacuori."
+msgstr "Siete dei gran ruffiani."
 
 msgctxt "30||anri_14||message"
 msgid "Let's enjoy ourselves today, okay?"
@@ -125,7 +125,7 @@ msgstr "Anche voi mi siete mancati."
 
 msgctxt "37||anri_21||message"
 msgid "Now, let's go to heaven... together. <symbol=heart_with_outline>"
-msgstr "Ora andiamo in paradiso... insieme. <symbol=heart_with_outline>"
+msgstr "Ora andiamo in paradiso... tutti insieme. <symbol=heart_with_outline>"
 
 msgctxt "38||anri_22||message"
 msgid "I can't wait."
@@ -133,7 +133,7 @@ msgstr "Non vedo l'ora."
 
 msgctxt "39||anri_23||message"
 msgid "Take me sky high... <symbol=heart_with_outline>"
-msgstr "Portami fino al cielo... <symbol=heart_with_outline>"
+msgstr "Portatemi fino al cielo... <symbol=heart_with_outline>"
 
 msgctxt "40||anri_24||message"
 msgid "My heart's beating really fast! <symbol=heart_with_outline>"
@@ -197,7 +197,7 @@ msgstr "Perché siete tutti così eccitati all'idea?"
 
 msgctxt "55||anri_39||message"
 msgid "Do I look <font_kind=yakuza_italic>that</font_kind> much like an S?"
-msgstr "Sembro <font_kind=yakuza_italic>davvero</font_kind> così tanto una S?"
+msgstr "Sembro <font_kind=yakuza_italic>così tanto</font_kind> una S?"
 
 msgctxt "56||anri_40||message"
 msgid "You guys are so desperate."
@@ -213,15 +213,15 @@ msgstr "Sapete, questo sito di live chat ultimamente"
 
 msgctxt "59||anri_43||message"
 msgid "going for younger girls lately."
-msgstr "sta puntando molto sulle ragazze più giovani."
+msgstr "preferisce le ragazze più giovani."
 
 msgctxt "60||anri_44||message"
 msgid "I was thinking"
-msgstr "Stavo pensando"
+msgstr "E stavo pensando..."
 
 msgctxt "61||anri_45||message"
 msgid "Would you guys"
-msgstr "Vi piacerebbe"
+msgstr "Scegliereste..."
 
 msgctxt "62||anri_46||message"
 msgid "Yay! <symbol=heart_with_outline>"
@@ -305,15 +305,15 @@ msgstr "Eh? Dai. Intendevo le loro braccia."
 
 msgctxt "83||anri_67||message"
 msgid "I like guys with firm muscles. <symbol=heart_with_outline>"
-msgstr "Mi piacciono i ragazzi coi muscoli sodi. <symbol=heart_with_outline>"
+msgstr "Mi piacciono i ragazzi con i muscoli sodi. <symbol=heart_with_outline>"
 
 msgctxt "84||anri_68||message"
 msgid "Though... I like guys who are firm"
-msgstr "Anche se... mi piacciono i ragazzi belli sodi"
+msgstr "Anche se... i ragazzi mi piacciono duri"
 
 msgctxt "85||anri_69||message"
 msgid "down there even more... <symbol=heart_with_outline>"
-msgstr "laggiù ancora di più... <symbol=heart_with_outline>"
+msgstr "laggiù, ancora di più... <symbol=heart_with_outline>"
 
 msgctxt "86||anri_70||message"
 msgid "Stop making me talk about this stuff...! <symbol=heart_with_outline>"
@@ -325,7 +325,7 @@ msgstr "Wow. Siete tutti così"
 
 msgctxt "88||anri_72||message"
 msgid "I think I'm getting in the mood..."
-msgstr "Credo mi stia venendo voglia..."
+msgstr "Credo mi stia venendo la voglia..."
 
 msgctxt "89||anri_73||message"
 msgid "Hmmm. Maybe..."
@@ -337,7 +337,7 @@ msgstr "Potrei spogliarmi un po' per voi."
 
 msgctxt "91||anri_75||message"
 msgid "You guys are coming on way too strong!"
-msgstr "Ci andate giù decisamente troppo pesanti, ragazzi!"
+msgstr "Siete un po' troppo irruenti, ragazzi!"
 
 msgctxt "92||anri_76||message"
 msgid "Anyway, here I go."
@@ -353,11 +353,11 @@ msgstr "Grazie, ragazzi."
 
 msgctxt "95||anri_79||message"
 msgid "There's a lot more where that came from."
-msgstr "C'è molto di più da dove viene questo."
+msgstr "Questo è solo un assaggio."
 
 msgctxt "96||anri_80||message"
 msgid "So? How are you guys feeling?"
-msgstr "Quindi? Come vi sentite ragazzi?"
+msgstr "Allora? Come vi sentite, ragazzi?"
 
 msgctxt "97||anri_81||message"
 msgid "I love hearing how excited you are."
@@ -369,7 +369,7 @@ msgstr "Solo immaginarlo"
 
 msgctxt "99||anri_83||message"
 msgid "Huh? And <font_kind=yakuza_italic>what</font_kind> exactly is growing?"
-msgstr "Eh? E <font_kind=yakuza_italic>cosa</font_kind> starebbe crescendo di preciso?"
+msgstr "Eh? E <font_kind=yakuza_italic>cosa</font_kind> si starebbe ingrossando di preciso?"
 
 msgctxt "100||anri_84||message"
 msgid "Oooh. I see."
@@ -401,7 +401,7 @@ msgstr "Vi piacciono davvero <font_kind=yakuza_italic>così</font_kind> tanto?"
 
 msgctxt "107||anri_91||message"
 msgid "Good thing I showed you, then."
-msgstr "Meno male che ve le ho mostrate, allora."
+msgstr "Sono felice di avervele mostrate, allora."
 
 msgctxt "108||anri_92||message"
 msgid "If that's how you all feel,"
@@ -449,7 +449,7 @@ msgstr "Voglio davvero vedere"
 
 msgctxt "119||anri_103||message"
 msgid "Oh yeah? Now <font_kind=yakuza_italic>that's</font_kind> confidence."
-msgstr "Oh sì? <font_kind=yakuza_italic>Questa</font_kind> sì che è sicurezza in se stessi."
+msgstr "Oh sì? <font_kind=yakuza_italic>Questa</font_kind> sì che è sicurezza in sé."
 
 msgctxt "120||anri_104||message"
 msgid "You must be incredible... <symbol=heart_with_outline>"
@@ -493,7 +493,7 @@ msgstr "Cosa ne pensate, miei amanti delle gambe?"
 
 msgctxt "130||anri_114||message"
 msgid "Are you satisfied?"
-msgstr "Siete soddisfatti?"
+msgstr "Soddisfatti?"
 
 msgctxt "132||anri_116||message"
 msgid "Hiya!"
@@ -601,7 +601,7 @@ msgstr "Il mio corpo si sente benissimo..."
 
 msgctxt "158||anri_142||message"
 msgid "Hey... Do you think I'm attractive?"
-msgstr "Ehi... Pensate che io sia attraente?"
+msgstr "Ehi... Pensate che io sia bella?"
 
 msgctxt "159||anri_143||message"
 msgid "You mean it?"
@@ -649,7 +649,7 @@ msgstr "Vi voglio."
 
 msgctxt "170||anri_154||message"
 msgid "Such a strong man..."
-msgstr "Un uomo così forte..."
+msgstr "Un uomo così forzuto..."
 
 msgctxt "171||anri_155||message"
 msgid "Maybe I'll let you... feel every inch of me..."
@@ -725,7 +725,7 @@ msgstr "Tornate un'altra volta, ok?"
 
 msgctxt "189||anri_173||message"
 msgid "Aw, I'm not really feeling it today."
-msgstr "Ah, oggi non me la sento proprio."
+msgstr "Aw, oggi non me la sento proprio."
 
 msgctxt "190||anri_174||message"
 msgid "Sorry, I'm gonna log off for now."
@@ -769,7 +769,7 @@ msgstr "Non vedo l'ora della prossima volta."
 
 msgctxt "200||anri_184||message"
 msgid "We can have lots more fun together."
-msgstr "Potremo divertirci molto di più insieme."
+msgstr "Potremo divertirci ancora di più insieme."
 
 msgctxt "201||anri_185||message"
 msgid "Anyway, thanks for the amazing time... <symbol=heart_with_outline>"
@@ -805,7 +805,7 @@ msgstr "Eh? Beh... parlando?"
 
 msgctxt "209||yua_08||message"
 msgid "And maybe some dirty stuff, too?"
-msgstr "E magari anche facendo roba sporca?"
+msgstr "E magari facendo anche qualche porcheria?"
 
 msgctxt "210||yua_09||message"
 msgid "I wonder how it'll go..."
@@ -945,7 +945,7 @@ msgstr "Mi piacciono i ragazzi divertenti... <symbol=note_with_outline>"
 
 msgctxt "244||yua_43||message"
 msgid "Is that a pun!?"
-msgstr "Era una battuta!?"
+msgstr "È un gioco di parole!?"
 
 msgctxt "245||yua_44||message"
 msgid "You're so weird. But kinda interesting, too. <symbol=heart_with_outline>"
@@ -1045,7 +1045,7 @@ msgstr "Hmmm, la gente divertente va bene..."
 
 msgctxt "269||yua_68||message"
 msgid "No...! Like their arms!"
-msgstr "No...! Intendevo le braccia!"
+msgstr "No...! Intendo le braccia!"
 
 msgctxt "270||yua_69||message"
 msgid "Don't tease me like that!"
@@ -1157,7 +1157,7 @@ msgstr "Ma mi sto pure un po' eccitando... <symbol=heart_with_outline>"
 
 msgctxt "297||yua_96||message"
 msgid "Um..."
-msgstr "Uhm..."
+msgstr "Ehm..."
 
 msgctxt "298||yua_97||message"
 msgid "What do you guys want to see?"
@@ -1189,7 +1189,7 @@ msgstr "Me lo lasciate fare? Voglio <font_kind=yakuza_italic>davvero</font_kind>
 
 msgctxt "305||yua_104||message"
 msgid "Show me... Every. Last. Inch. <symbol=heart_with_outline>"
-msgstr "Mostratemi... Ogni. Singolo. Centimetro. <symbol=heart_with_outline>"
+msgstr "Mostrami... Ogni. Singolo. Centimetro. <symbol=heart_with_outline>"
 
 msgctxt "306||yua_105||message"
 msgid "All this fun means it's time for..."
@@ -1265,7 +1265,7 @@ msgstr "Mi va bene, ma... Uhm..."
 
 msgctxt "324||yua_123||message"
 msgid "Make sure it doesn't hurt, okay?"
-msgstr "Assicuratevi che non faccia male, ok?"
+msgstr "Assicurati che non faccia male, ok?"
 
 msgctxt "325||yua_124||message"
 msgid "You guys have so much energy."
@@ -1389,7 +1389,7 @@ msgstr "Voglio che mi tocchiate anche voi..."
 
 msgctxt "356||yua_155||message"
 msgid "From up here..."
-msgstr "Da qui su..."
+msgstr "Fin da qui su..."
 
 msgctxt "357||yua_156||message"
 msgid "I wanna feel your hands all over me... <symbol=heart_with_outline>"
@@ -1425,7 +1425,7 @@ msgstr "L'ho notato."
 
 msgctxt "365||yua_164||message"
 msgid "can satisfy our urges... <symbol=heart_with_outline>"
-msgstr "può soddisfare i nostri impulsi... <symbol=heart_with_outline>"
+msgstr "possiamo soddisfare i nostri impulsi... <symbol=heart_with_outline>"
 
 msgctxt "366||yua_165||message"
 msgid "Oh yeah?"
@@ -1625,7 +1625,7 @@ msgstr "( . Y . )"
 
 msgctxt "428||mob_36||message"
 msgid "Man I love boobs"
-msgstr "Adoro le tette cavolo"
+msgstr "Cavolo, adoro le tette"
 
 msgctxt "429||mob_37||message"
 msgid "( . Y . ) ( . Y . ) ( . Y . ) ( . Y . ) ( . Y . )"
@@ -1689,7 +1689,7 @@ msgstr "I tempi stanno cambiando."
 
 msgctxt "445||mob_53||message"
 msgid "age doesnt matter to me"
-msgstr "l'età non mi importa"
+msgstr "l'età non mi interessa"
 
 msgctxt "446||mob_54||message"
 msgid "i prefer you anrichan"
@@ -1785,7 +1785,7 @@ msgstr "Beh, tempo di andare in palestra"
 
 msgctxt "470||mob_78||message"
 msgid "Duuuuuuude."
-msgstr "Frateeeello."
+msgstr "Caaavolo."
 
 msgctxt "471||mob_79||message"
 msgid "WOOOW"
@@ -1833,7 +1833,7 @@ msgstr "(o.o;)"
 
 msgctxt "485||mob_93||message"
 msgid "my power level is rising"
-msgstr "il mio livello di potenza sta salendo"
+msgstr "il mio livello di combattimento sta salendo"
 
 msgctxt "486||mob_94||message"
 msgid "It's a secret"
@@ -1877,7 +1877,7 @@ msgstr "sono dei tesori nazionali"
 
 msgctxt "496||mob_104||message"
 msgid "so goddamn hot"
-msgstr "maledettamente sexy"
+msgstr "così dannatamente sexy"
 
 msgctxt "497||mob_105||message"
 msgid "IT'S HAPPENING"
@@ -1913,7 +1913,7 @@ msgstr "Potrebbe essere qualunque cosa"
 
 msgctxt "508||mob_116||message"
 msgid "It's gonna be real steamy!"
-msgstr "Sarà davvero eccitante!"
+msgstr "Sarà davvero super eccitante!"
 
 msgctxt "509||mob_117||message"
 msgid "Wait really"
@@ -1945,7 +1945,7 @@ msgstr "Amo le spalle. E le gambe."
 
 msgctxt "516||mob_124||message"
 msgid "I mean if you want. No pressure"
-msgstr "Cioè, se ti va. Nessuna pressione"
+msgstr "Cioè, se ti va. Senza fretta"
 
 msgctxt "517||mob_125||message"
 msgid "all right"
@@ -1953,7 +1953,7 @@ msgstr "d'accordo"
 
 msgctxt "518||mob_126||message"
 msgid "Hold up hold up hold up"
-msgstr "Fermo fermo fermo"
+msgstr "Ferma ferma ferma"
 
 msgctxt "519||mob_127||message"
 msgid "o.o;;;"
@@ -1997,7 +1997,7 @@ msgstr "togliti quella roba di dosso"
 
 msgctxt "529||mob_137||message"
 msgid "Is that even possible"
-msgstr "È anche solo possibile"
+msgstr "È umanamente possibile"
 
 msgctxt "530||mob_138||message"
 msgid "Your body is dynamite."
@@ -2025,7 +2025,7 @@ msgstr "lasciami mettere le mani su quel corpo"
 
 msgctxt "545||mob_153||message"
 msgid "so jelly"
-msgstr "così geloso"
+msgstr "troppa invidia"
 
 msgctxt "546||mob_154||message"
 msgid "are you gonna touch her... there?"
@@ -2061,11 +2061,11 @@ msgstr "Così attraente. <symbol=heart_with_outline>"
 
 msgctxt "554||mob_162||message"
 msgid "I'm serious."
-msgstr "Sono serio."
+msgstr "Dico sul serio."
 
 msgctxt "556||mob_164||message"
 msgid "youre the breast. i mean... best"
-msgstr "sei la tett... volevo dire... il top"
+msgstr "sei una tetta... volevo dire... perfetta"
 
 msgctxt "558||mob_166||message"
 msgid "i love getting stepped on"
@@ -2081,7 +2081,7 @@ msgstr "Seriamente?"
 
 msgctxt "561||mob_169||message"
 msgid "Wait, ALL OF HER!?"
-msgstr "Aspetta, TUTTO QUANTO!?"
+msgstr "Aspetta, TUTTA QUANTA!?"
 
 msgctxt "562||mob_170||message"
 msgid "Take that armor off!"
@@ -2093,15 +2093,15 @@ msgstr "Vorrei poterti abbracciare."
 
 msgctxt "564||mob_172||message"
 msgid "i wanna feel you spanking me"
-msgstr "voglio sentirti sculacciarmi"
+msgstr "voglio che mi sculacci"
 
 msgctxt "565||mob_173||message"
 msgid "where are you talking about"
-msgstr "di dove stai parlando"
+msgstr "di quale posto stai parlando"
 
 msgctxt "566||mob_174||message"
 msgid "im so curious"
-msgstr "sono così curioso"
+msgstr "sono troppo curioso"
 
 msgctxt "567||mob_175||message"
 msgid "I want to touch you."
@@ -2109,7 +2109,7 @@ msgstr "Voglio toccarti."
 
 msgctxt "568||mob_176||message"
 msgid "Well, it would be more of a gentle careFssss."
-msgstr "Beh, sarebbe più una dolce accareZzzzz."
+msgstr "Beh, sarebbe più una dolce accareZzzzza."
 
 msgctxt "569||mob_177||message"
 msgid "I'm about to diiiiive in"
@@ -2173,7 +2173,7 @@ msgstr "mi sa che vado anch'io allora"
 
 msgctxt "587||mob_195||message"
 msgid "Next time I'll see the sexy"
-msgstr "La prossima volta vedrò il sexy"
+msgstr "La prossima volta vedrò la parte sexy"
 
 msgctxt "588||mob_196||message"
 msgid "Oh..."
@@ -2265,7 +2265,7 @@ msgstr "Che shampoo usi?"
 
 msgctxt "610||anri_45_2||message"
 msgid "prefer me"
-msgstr "preferiscimi"
+msgstr "...piuttosto me?"
 
 msgctxt "611||anri_46_2||message"
 msgid "You're right. I can't give up now!"
@@ -2325,7 +2325,7 @@ msgstr "Cosa volete che faccia adesso?"
 
 msgctxt "627||anri_105_2||message"
 msgid "you guys <font_kind=yakuza_italic>really</font_kind> love boobs."
-msgstr "ragazzi, amate <font_kind=yakuza_italic>davvero</font_kind> le tette."
+msgstr "amate <font_kind=yakuza_italic>davvero</font_kind> le tette, eh ragazzi."
 
 msgctxt "628||anri_114_||message"
 msgid "That makes me so happy. <symbol=heart_with_outline>"
@@ -2529,7 +2529,7 @@ msgstr "Magari un drink o due?"
 
 msgctxt "680||yua_mob_35||message"
 msgid "getting naekd makes me rlaxed"
-msgstr "stare nudo mi rilssasa"
+msgstr "stare nudo mi rlssasa"
 
 msgctxt "681||yua_mob_36||message"
 msgid "What an adorable girl."
@@ -2549,7 +2549,7 @@ msgstr "UN BACIO!?"
 
 msgctxt "685||yua_mob_40||message"
 msgid "dude taht was sweet"
-msgstr "amico e ststo dolcissimo"
+msgstr "amico e stato dolcissimo"
 
 msgctxt "686||yua_38_2||message"
 msgid "What do you wanna know?"
@@ -2577,7 +2577,7 @@ msgstr "che taglia porti di reggiseno"
 
 msgctxt "692||yua_mob_46||message"
 msgid "pick between cats dogs or me"
-msgstr "scegli tra gatti cani o me"
+msgstr "scegli tra gatti, cani o me"
 
 msgctxt "693||yua_mob_47||message"
 msgid "shit i gotta find some jokes"
@@ -2621,7 +2621,7 @@ msgstr "che genere di cose ti piacciono"
 
 msgctxt "704||yua_mob_56||message"
 msgid "dude so obviously an m"
-msgstr "decisamente una m"
+msgstr "amico, palesemente una m"
 
 msgctxt "705||yua_mob_57||message"
 msgid "probaly m"
@@ -2657,7 +2657,7 @@ msgstr "ho sempre creduto in te bb"
 
 msgctxt "713||yua_mob_59||message"
 msgid "plase lemme hurt u"
-msgstr "it prego fammiti fare del male"
+msgstr "ti prego fammiti fare del male"
 
 msgctxt "714||yua_mob_60||message"
 msgid "I THOUGHT YOU WERE AN S"
@@ -3261,7 +3261,7 @@ msgstr "ANCH'IO DESIDERO MASSAGGIARTI"
 
 msgctxt "866||yua_mob_177||message"
 msgid "did that dude just steal her from us"
-msgstr "quel tizio ce l'ha appena rubata"
+msgstr "quel tizio ce l'ha appena soffiata"
 
 msgctxt "867||yua_mob_178||message"
 msgid "What...?"

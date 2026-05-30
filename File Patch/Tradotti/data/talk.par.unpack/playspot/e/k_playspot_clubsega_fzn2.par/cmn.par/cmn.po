@@ -10,25 +10,30 @@ msgstr ""
 #. Max bytes: 25
 msgctxt "Offset_0x620_Len_25"
 msgid "(Let's do this, Opa Opa!)"
-msgstr ""
+msgstr "(Facciamolo, Opa Opa!)"
 
 #. Max bytes: 30
 msgctxt "Offset_0x710_Len_30"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 #. Max bytes: 22
 msgctxt "Offset_0x800_Len_22"
 msgid "(Actually, maybe not.)"
-msgstr ""
+msgstr "(Anzi, forse no.)"
 
 #. Max bytes: 24
 msgctxt "Offset_0x9B0_Len_24"
 msgid "Play Fantasy Zone [EASY]"
-msgstr ""
+msgstr "Fantasy Zone [FACILE]"
 
 #. Max bytes: 15
 msgctxt "Offset_0x9F0_Len_15"
 msgid "Check the Rules"
-msgstr ""
+msgstr "Leggi le regole"
+
+#. Max bytes: 6
+msgctxt "Offset_0xA30_Len_6"
+msgid "Cancel"
+msgstr "Chiudi"
 

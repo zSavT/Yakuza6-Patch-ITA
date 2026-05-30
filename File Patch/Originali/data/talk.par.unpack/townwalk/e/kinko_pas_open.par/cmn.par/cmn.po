@@ -12,6 +12,16 @@ msgctxt "Offset_0x1FAC_Len_10"
 msgid "Try again?"
 msgstr ""
 
+#. Max bytes: 3
+msgctxt "Offset_0x20AC_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x20EC_Len_2"
+msgid "No"
+msgstr ""
+
 #. Max bytes: 24
 msgctxt "Offset_0x263C_Len_24"
 msgid "Please enter a passcode."

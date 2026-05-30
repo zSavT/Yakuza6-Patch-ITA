@@ -7,43 +7,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-msgctxt "Offset_0x523BF_Len_5"
-msgid "> =n<"
-msgstr ""
-
 #. Max bytes: 4
 msgctxt "Offset_0x63B68_Len_4"
 msgid "XF >"
-msgstr ""
+msgstr "XF >"
 
 #. Max bytes: 5
 msgctxt "Offset_0x99CB7_Len_5"
 msgid "E), E"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0xC3BFC_Len_4"
-msgid " є?"
-msgstr ""
+msgstr "E), E"
 
 #. Max bytes: 15
 msgctxt "Offset_0x175B5C_Len_15"
 msgid "Honestly, I am."
-msgstr ""
+msgstr "Sì, lo sono."
 
 #. Max bytes: 11
 msgctxt "Offset_0x175B9C_Len_11"
 msgid "Not at all."
-msgstr ""
+msgstr "Per niente."
 
 #. Max bytes: 6
 msgctxt "Offset_0x175BDC_Len_6"
 msgid "Oh no!"
-msgstr ""
+msgstr "Oh no!"
 
 #. Max bytes: 11
 msgctxt "Offset_0x175FEC_Len_11"
 msgid "Oh no……"
-msgstr ""
+msgstr "Oh no..."
 

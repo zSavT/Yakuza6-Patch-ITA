@@ -2485,7 +2485,7 @@ msgstr "Rimuovi"
 
 msgctxt "650||||text"
 msgid "Battle Skills"
-msgstr "Abilità di battaglia"
+msgstr "Tecniche di battaglia"
 
 msgctxt "651||||text"
 msgid "Heat Actions"
@@ -2497,11 +2497,11 @@ msgstr "Statistiche"
 
 msgctxt "653||||text"
 msgid "Other Skills"
-msgstr "Altre abilità"
+msgstr "Tecniche varie"
 
 msgctxt "654||||text"
 msgid "Equip"
-msgstr "Equipaggia"
+msgstr "Equipaggiamento"
 
 msgctxt "658||||text"
 msgid "Stats"
@@ -2509,7 +2509,7 @@ msgstr "Statistiche"
 
 msgctxt "659||||text"
 msgid "Battle Skills"
-msgstr "Abilità di battaglia"
+msgstr "Tecniche di battaglia"
 
 msgctxt "660||||text"
 msgid "Heat Actions"
@@ -2517,7 +2517,7 @@ msgstr "Azioni Furore"
 
 msgctxt "661||||text"
 msgid "Other Skills"
-msgstr "Altre abilità"
+msgstr "Tecniche varie"
 
 msgctxt "662||||text"
 msgid "Total Rank:"
@@ -2653,7 +2653,7 @@ msgstr "Oggetti"
 
 msgctxt "696||||text"
 msgid "Equip"
-msgstr "Equipaggia"
+msgstr "Equipaggiamento"
 
 msgctxt "697||||text"
 msgid "Effect"
@@ -3269,11 +3269,11 @@ msgstr "Schermata missione"
 
 msgctxt "854||||text"
 msgid "Convenience Stores are unavailable in the demo."
-msgstr "I minimarket non sono disponibili nella demo."
+msgstr "I konbini non sono disponibili nella demo."
 
 msgctxt "855||||text"
 msgid "Convenience Store"
-msgstr "Minimarket"
+msgstr "Konbini"
 
 msgctxt "856||||text"
 msgid "Cancel"

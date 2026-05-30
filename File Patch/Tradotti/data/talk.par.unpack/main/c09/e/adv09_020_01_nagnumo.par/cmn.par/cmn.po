@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 26
 msgctxt "Offset_0x1EBC_Len_26"
 msgid "I have things to do first."
-msgstr ""
+msgstr "Ho altro da fare prima."
 
 #. Max bytes: 16
 msgctxt "Offset_0x1EFC_Len_16"
 msgid "I'm ready to go."
-msgstr ""
+msgstr "Sono pronto."
 

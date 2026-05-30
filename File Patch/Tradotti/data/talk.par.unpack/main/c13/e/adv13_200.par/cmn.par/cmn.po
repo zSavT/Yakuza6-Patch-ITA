@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 26
 msgctxt "Offset_0x26DC_Len_26"
 msgid "I still need to get ready."
-msgstr ""
+msgstr "Devo ancora prepararmi."
 
 #. Max bytes: 16
 msgctxt "Offset_0x271C_Len_16"
 msgid "I'm ready to go."
-msgstr ""
+msgstr "Sono pronto."
 

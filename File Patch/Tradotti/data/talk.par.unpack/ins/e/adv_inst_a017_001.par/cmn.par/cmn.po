@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 60
 msgctxt "Offset_0x1C4_Len_60"
-msgid "(I don't feel great... I should have\nsome medicine, though.)"
+msgid ""
+"(I don't feel great... I should have\n"
+"some medicine, though.)"
 msgstr ""
+"(Non mi sento bene... Ma dovrei\n"
+"prendere una medicina.)"
 

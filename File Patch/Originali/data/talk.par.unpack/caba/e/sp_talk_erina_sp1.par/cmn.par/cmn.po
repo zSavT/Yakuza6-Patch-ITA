@@ -27,18 +27,8 @@ msgctxt "Offset_0x365B8_Len_37"
 msgid "Erina's rank has increased to Bronze."
 msgstr ""
 
-#. Max bytes: 44
-msgctxt "Offset_0x365E8_Len_44"
-msgid "艾莉娜的階級已成為「Bronze Cast」"
-msgstr ""
-
 #. Max bytes: 37
 msgctxt "Offset_0x369B8_Len_37"
 msgid "Erina's rank has increased to Bronze."
-msgstr ""
-
-#. Max bytes: 44
-msgctxt "Offset_0x369E8_Len_44"
-msgid "艾莉娜的階級已成為「Bronze Cast」"
 msgstr ""
 

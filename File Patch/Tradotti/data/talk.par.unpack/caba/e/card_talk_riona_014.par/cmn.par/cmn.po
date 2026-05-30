@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 24
 msgctxt "Offset_0xFA98_Len_24"
 msgid "I used to be a chairman."
-msgstr ""
+msgstr "Ero un presidente."
 
 #. Max bytes: 29
 msgctxt "Offset_0xFAD8_Len_29"
 msgid "I was raised in an orphanage."
-msgstr ""
+msgstr "Cresciuto in orfanotrofio."
 
 #. Max bytes: 11
 msgctxt "Offset_0xFB18_Len_11"
 msgid "Never mind."
-msgstr ""
+msgstr "Niente."
 

@@ -1773,7 +1773,7 @@ msgstr "Aspetta, cosa sto dicendo...?\r\nN-Niente, lascia perdere!"
 
 msgctxt "442||||4"
 msgid "Huh? You destroyed a convenience store? \r\nHow does something like that even happen!?"
-msgstr "Eh? Hai distrutto un minimarket?\r\nCome fai a fare una cosa del genere!?"
+msgstr "Eh? Hai distrutto un konbini?\r\nCome fai a fare una cosa del genere!?"
 
 msgctxt "443||||4"
 msgid "It's kind of complicated..."
@@ -1965,7 +1965,7 @@ msgstr "Di solito mi piacciono le persone che prendono l'iniziativa, ma...\r\nse
 
 msgctxt "490||||4"
 msgid "Thanks for the support..."
-msgstr "Grazie per il supporto..."
+msgstr "Grazie per il sostegno..."
 
 msgctxt "491||||4"
 msgid "You never gave me that impression, Kiryu-san.\r\nI can talk to pretty much anybody!"

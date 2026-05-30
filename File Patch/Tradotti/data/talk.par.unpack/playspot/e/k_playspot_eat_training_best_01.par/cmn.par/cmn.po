@@ -9,96 +9,152 @@ msgstr ""
 
 #. Max bytes: 70
 msgctxt "Offset_0x7734_Len_70"
-msgid "All right, that's it for today's session!\nNow let's see how you did..."
+msgid ""
+"All right, that's it for today's session!\n"
+"Now let's see how you did..."
 msgstr ""
+"Fine della sessione di oggi!\n"
+"Ora vediamo come sei andato..."
 
 #. Max bytes: 60
 msgctxt "Offset_0x7864_Len_60"
-msgid "That was perfect, Kiryu-san!\nYou must be in excellent shape!"
+msgid ""
+"That was perfect, Kiryu-san!\n"
+"You must be in excellent shape!"
 msgstr ""
+"È stato perfetto, Kiryu-san!\n"
+"Devi essere in ottima forma!"
 
 #. Max bytes: 33
 msgctxt "Offset_0x7984_Len_33"
 msgid "Next, let's talk about your diet!"
-msgstr ""
+msgstr "Ora, parliamo della tua dieta!"
 
 #. Max bytes: 70
 msgctxt "Offset_0x7A74_Len_70"
-msgid "Kiryu-san, you should eat whatever\nyou think is the healthiest option."
+msgid ""
+"Kiryu-san, you should eat whatever\n"
+"you think is the healthiest option."
 msgstr ""
+"Kiryu-san, dovresti mangiare ciò che\n"
+"credi sia più salutare."
 
 #. Max bytes: 90
 msgctxt "Offset_0x7BA4_Len_90"
-msgid "Oh, but be sure to take photos of your food!\nI need to see everything to assess your diet!"
+msgid ""
+"Oh, but be sure to take photos of your food!\n"
+"I need to see everything to assess your diet!"
 msgstr ""
+"Ah, assicurati di fotografare i tuoi pasti!\n"
+"Devo vedere tutto per valutare la tua dieta!"
 
 #. Max bytes: 40
 msgctxt "Offset_0x7CF4_Len_40"
 msgid "That's it? I'm not so sure about this..."
-msgstr ""
+msgstr "Tutto qua? Non sono così sicuro..."
 
 #. Max bytes: 83
 msgctxt "Offset_0x7E04_Len_83"
-msgid "I thought you'd be telling me what to eat.\nThis doesn't sound like training at all."
+msgid ""
+"I thought you'd be telling me what to eat.\n"
+"This doesn't sound like training at all."
 msgstr ""
+"Pensavo mi avresti detto cosa mangiare.\n"
+"Questo non sembra affatto un allenamento."
 
 #. Max bytes: 65
 msgctxt "Offset_0x8074_Len_65"
-msgid "However, I'd much rather you make\na habit of doing that yourself."
+msgid ""
+"However, I'd much rather you make\n"
+"a habit of doing that yourself."
 msgstr ""
+"Tuttavia, preferirei che prendessi\n"
+"l'abitudine di farlo da te."
 
 #. Max bytes: 25
 msgctxt "Offset_0x81A4_Len_25"
 msgid "Myself? What do you mean?"
-msgstr ""
+msgstr "Da me? Che cosa intendi?"
 
 #. Max bytes: 84
 msgctxt "Offset_0x8284_Len_84"
-msgid "Well, constantly thinking about your diet\nwill affect how you choose to approach it."
+msgid ""
+"Well, constantly thinking about your diet\n"
+"will affect how you choose to approach it."
 msgstr ""
+"Beh, pensare sempre alla dieta\n"
+"influenzerà il tuo approccio."
 
 #. Max bytes: 88
 msgctxt "Offset_0x83D4_Len_88"
-msgid "If your diet takes top priority in your mind,\nyou'll stay fit even without RIZAP's help."
+msgid ""
+"If your diet takes top priority in your mind,\n"
+"you'll stay fit even without RIZAP's help."
 msgstr ""
+"Se la dieta è in cima ai tuoi pensieri,\n"
+"resterai in forma anche senza RIZAP."
 
 #. Max bytes: 75
 msgctxt "Offset_0x8534_Len_75"
-msgid "So I'm training my mind for the future.\nThat's actually a pretty good plan."
+msgid ""
+"So I'm training my mind for the future.\n"
+"That's actually a pretty good plan."
 msgstr ""
+"Quindi alleno la mente per il futuro.\n"
+"In realtà è un ottimo piano."
 
 #. Max bytes: 48
 msgctxt "Offset_0x8684_Len_48"
-msgid "Didn't I tell you?\nI'm the best trainer in town!"
+msgid ""
+"Didn't I tell you?\n"
+"I'm the best trainer in town!"
 msgstr ""
+"Visto?\n"
+"Sono il miglior trainer in città!"
 
 #. Max bytes: 81
 msgctxt "Offset_0x87A4_Len_81"
-msgid "I'm sure this won't be easy at first.\nBut helping you through is a trainer's job!"
+msgid ""
+"I'm sure this won't be easy at first.\n"
+"But helping you through is a trainer's job!"
 msgstr ""
+"So che all'inizio non sarà facile.\n"
+"Ma aiutarti è il mio lavoro di trainer!"
 
 #. Max bytes: 85
 msgctxt "Offset_0x8914_Len_85"
-msgid "I'll be giving you little hints here and there\non what you should eat. Try your best!"
+msgid ""
+"I'll be giving you little hints here and there\n"
+"on what you should eat. Try your best!"
 msgstr ""
+"Ti darò piccoli consigli qui e là\n"
+"su cosa dovresti mangiare. Fai del tuo meglio!"
 
 #. Max bytes: 23
 msgctxt "Offset_0x8A54_Len_23"
 msgid "All right. Let's do it."
-msgstr ""
+msgstr "D'accordo. Facciamolo."
 
 #. Max bytes: 73
 msgctxt "Offset_0x8B34_Len_73"
-msgid "Now then, let's talk about your diet!\nYour recommendation for today is..."
+msgid ""
+"Now then, let's talk about your diet!\n"
+"Your recommendation for today is..."
 msgstr ""
+"E ora, parliamo della tua dieta!\n"
+"Oggi ti raccomando questo..."
 
 #. Max bytes: 52
 msgctxt "Offset_0x8C64_Len_52"
-msgid "Here, this is my email address.\nDon't lose it, okay?"
+msgid ""
+"Here, this is my email address.\n"
+"Don't lose it, okay?"
 msgstr ""
+"Questa è la mia email.\n"
+"Non perderla, okay?"
 
 #. Max bytes: 35
 msgctxt "Offset_0x8D84_Len_35"
 msgid "Farewell, Kiryu-san!\nYou can do it!"
-msgstr ""
+msgstr "A presto, Kiryu-san!\nCe la farai!"
 

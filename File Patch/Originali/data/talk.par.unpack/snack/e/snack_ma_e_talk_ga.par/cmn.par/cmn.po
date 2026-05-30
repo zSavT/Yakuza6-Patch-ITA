@@ -7,6 +7,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 5
+msgctxt "Offset_0x1AAAF_Len_5"
+msgid "ERH\"E"
+msgstr ""
+
 #. Max bytes: 7
 msgctxt "Offset_0x51F99_Len_7"
 msgid "| FRa!F"
@@ -20,6 +25,21 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0x63074_Len_22"
 msgid "What's got ya so down?"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x63274_Len_5"
+msgid "Kiryu"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x632B4_Len_5"
+msgid "Yeah."
+msgstr ""
+
+#. Max bytes: 3
+msgctxt "Offset_0x632D4_Len_3"
+msgid "No."
 msgstr ""
 
 #. Max bytes: 50
@@ -57,6 +77,16 @@ msgctxt "Offset_0x63C54_Len_42"
 msgid "They can have my knives. I buy 'em online."
 msgstr ""
 
+#. Max bytes: 4
+msgctxt "Offset_0x63E74_Len_4"
+msgid "Mama"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x63EB4_Len_5"
+msgid "True."
+msgstr ""
+
 #. Max bytes: 12
 msgctxt "Offset_0x63EF4_Len_12"
 msgid "Sorry, what?"
@@ -80,6 +110,11 @@ msgstr ""
 #. Max bytes: 46
 msgctxt "Offset_0x646B4_Len_46"
 msgid "My little girl might have herself a boyfriend!"
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x649B4_Len_8"
+msgid "Everyone"
 msgstr ""
 
 #. Max bytes: 15
@@ -160,6 +195,11 @@ msgstr ""
 #. Max bytes: 33
 msgctxt "Offset_0x65F64_Len_33"
 msgid "Were ya pretty popular back then?"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x66174_Len_4"
+msgid "Mama"
 msgstr ""
 
 #. Max bytes: 25
@@ -305,6 +345,11 @@ msgstr ""
 #. Max bytes: 52
 msgctxt "Offset_0x68B54_Len_52"
 msgid "So, the boyfriend thing, whatchya gonna do about it?"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x68E04_Len_4"
+msgid "Mama"
 msgstr ""
 
 #. Max bytes: 20
@@ -547,6 +592,11 @@ msgctxt "Offset_0x6C614_Len_30"
 msgid "Oh, that's definitely a \"yes.\""
 msgstr ""
 
+#. Max bytes: 10
+msgctxt "Offset_0x6C714_Len_10"
+msgid "Hatakeyama"
+msgstr ""
+
 #. Max bytes: 26
 msgctxt "Offset_0x6C754_Len_26"
 msgid "I've been on one of those!"
@@ -577,11 +627,6 @@ msgctxt "Offset_0x6CCC4_Len_43"
 msgid "Where'd they even go 'round here? La Pente?"
 msgstr ""
 
-#. Max bytes: 50
-msgctxt "Offset_0x6CCF4_Len_50"
-msgid "這附近說到約會，應該就是去La Pente吧"
-msgstr ""
-
 #. Max bytes: 22
 msgctxt "Offset_0x6CFA4_Len_22"
 msgid "That's a classic spot."
@@ -595,6 +640,11 @@ msgstr ""
 #. Max bytes: 28
 msgctxt "Offset_0x6D234_Len_28"
 msgid "Could be he's just a friend."
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x6D344_Len_10"
+msgid "Hatakeyama"
 msgstr ""
 
 #. Max bytes: 27
@@ -642,6 +692,11 @@ msgctxt "Offset_0x6DFF4_Len_59"
 msgid "Be a man of action. It's time to head over, Hatakeyama-san."
 msgstr ""
 
+#. Max bytes: 12
+msgctxt "Offset_0x6E2E4_Len_12"
+msgid "Kiryu-san..."
+msgstr ""
+
 #. Max bytes: 45
 msgctxt "Offset_0x6E414_Len_45"
 msgid "Nothin' wrong with jus' scopin' it out a bit."
@@ -675,6 +730,11 @@ msgstr ""
 #. Max bytes: 14
 msgctxt "Offset_0x6EC54_Len_14"
 msgid "I-I know that."
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x6ED84_Len_7"
+msgid "Hahaha!"
 msgstr ""
 
 #. Max bytes: 35

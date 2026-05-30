@@ -2761,15 +2761,15 @@ msgstr "Ha"
 
 msgctxt "9||clan||table||1||||1"
 msgid "Brawler"
-msgstr "Attaccabrighe"
+msgstr "Lottatore"
 
 msgctxt "9||clan||table||2||||1"
 msgid "Gunner"
-msgstr "Tiratore"
+msgstr "Artigliere"
 
 msgctxt "9||clan||table||3||||1"
 msgid "Heavy"
-msgstr "Colosso"
+msgstr "Pesante"
 
 msgctxt "9||clan||table||4||||1"
 msgid "Rusher"

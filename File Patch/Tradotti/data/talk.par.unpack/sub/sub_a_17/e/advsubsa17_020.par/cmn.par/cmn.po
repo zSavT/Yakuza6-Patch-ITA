@@ -10,35 +10,30 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0x1750_Len_22"
 msgid "Pure, energetic women."
-msgstr ""
+msgstr "Donne pure e vitali."
 
 #. Max bytes: 21
 msgctxt "Offset_0x1790_Len_21"
 msgid "Pure, ladylike women."
-msgstr ""
+msgstr "Donne pure e fini."
 
 #. Max bytes: 37
 msgctxt "Offset_0x1F20_Len_37"
 msgid "There's something I need to do first."
-msgstr ""
+msgstr "C'è una cosa che devo fare prima."
 
 #. Max bytes: 20
 msgctxt "Offset_0x1F60_Len_20"
 msgid "I can't right now..."
-msgstr ""
+msgstr "Ora non posso..."
 
 #. Max bytes: 14
 msgctxt "Offset_0x1FA0_Len_14"
 msgid "Maybe someday."
-msgstr ""
+msgstr "Un giorno."
 
 #. Max bytes: 5
 msgctxt "Offset_0x52333_Len_5"
 msgid "F=R F"
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0x53202_Len_6"
-msgid " >ףp?"
-msgstr ""
+msgstr "F=R F"
 

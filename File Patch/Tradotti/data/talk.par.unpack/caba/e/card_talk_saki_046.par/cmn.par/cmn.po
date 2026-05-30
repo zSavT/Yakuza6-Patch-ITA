@@ -7,8 +7,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+msgctxt "Offset_0x16E98_Len_4"
+msgid "Yes."
+msgstr "Sì."
+
+#. Max bytes: 3
+msgctxt "Offset_0x16ED8_Len_3"
+msgid "No."
+msgstr "No."
+
 #. Max bytes: 36
 msgctxt "Offset_0x16F18_Len_36"
 msgid "I couldn't be just friends with you."
-msgstr ""
+msgstr "Non potrei essere solo tuo amico."
 

@@ -32,8 +32,3 @@ msgctxt "Offset_0x39468_Len_37"
 msgid "Erina's rank has increased to Silver."
 msgstr ""
 
-#. Max bytes: 44
-msgctxt "Offset_0x39498_Len_44"
-msgid "艾莉娜的階級已成為「Silver Cast」"
-msgstr ""
-

@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 91
 msgctxt "Offset_0xB1C_Len_91"
-msgid "Congratulations on defeating a high-rank player!\nYou obtained a Technique Tome as a reward."
+msgid ""
+"Congratulations on defeating a high-rank player!\n"
+"You obtained a Technique Tome as a reward."
 msgstr ""
+"Complimenti, hai sconfitto un esperto!\n"
+"Hai ottenuto un Tomo Tecnico in premio."
 

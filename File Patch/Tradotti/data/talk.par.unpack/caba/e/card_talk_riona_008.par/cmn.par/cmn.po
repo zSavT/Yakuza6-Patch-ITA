@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0x1E2D8_Len_15"
 msgid "Become a model."
-msgstr ""
+msgstr "Diventa modello"
 
 #. Max bytes: 19
 msgctxt "Offset_0x1E318_Len_19"
 msgid "Open your own club."
-msgstr ""
+msgstr "Apri il tuo club."
 
 #. Max bytes: 15
 msgctxt "Offset_0x1E358_Len_15"
 msgid "Become an idol."
-msgstr ""
+msgstr "Diventa un idol"
 

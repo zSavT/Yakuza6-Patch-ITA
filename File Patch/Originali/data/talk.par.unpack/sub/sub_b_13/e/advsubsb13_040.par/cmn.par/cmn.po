@@ -7,11 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-msgctxt "Offset_0x16D1F_Len_5"
-msgid ">b; ="
-msgstr ""
-
 #. Max bytes: 291
 msgctxt "Offset_0xE5A48_Len_291"
 msgid "Your players' stats will grow as you utilize them in games.\n\nIf you think an individual player shows some promise,\nuse the Training Tickets you win after games to give\nthem a significant stat boost.\n\nGet your team ready to face the next challenge by\nplaying some ball and training your team!"

@@ -17,3 +17,13 @@ msgctxt "Offset_0x568_Len_29"
 msgid "Head to the baseball diamond?"
 msgstr ""
 
+#. Max bytes: 3
+msgctxt "Offset_0x668_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x6A8_Len_2"
+msgid "No"
+msgstr ""
+

@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 14
 msgctxt "Offset_0x2D8_Len_14"
 msgid "Tutorial Begin"
-msgstr ""
+msgstr "Avvia tutorial"
 

@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 31
 msgctxt "Offset_0x2874_Len_31"
 msgid "Did you send that bomb threat!?"
-msgstr ""
+msgstr "Hai lanciato l'allarme bomba!?"
 
 #. Max bytes: 25
 msgctxt "Offset_0x2954_Len_25"
 msgid "Shit, you're a real pain!"
-msgstr ""
+msgstr "Accidenti, che rottura!"
 
 #. Max bytes: 26
 msgctxt "Offset_0x2A24_Len_26"
 msgid "You're gonna pay for this!"
-msgstr ""
+msgstr "Me la pagherai!"
 

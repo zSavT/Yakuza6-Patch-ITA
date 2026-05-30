@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 31
 msgctxt "Offset_0x22F4_Len_31"
 msgid "Place the Letter onto the Table"
-msgstr ""
+msgstr "Metti la lettera sul tavolo"
 
 #. Max bytes: 14
 msgctxt "Offset_0x2334_Len_14"
 msgid "Look Elsewhere"
-msgstr ""
+msgstr "Guarda altrove"
 

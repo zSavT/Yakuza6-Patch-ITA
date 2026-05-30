@@ -13,7 +13,7 @@ msgstr "Piacere di conoscerti"
 
 msgctxt "12||anri_start_second_play||chapterText"
 msgid "Hello Again"
-msgstr "Di nuovo ciao"
+msgstr "Ciao di nuovo"
 
 msgctxt "13||anri_clear_after||chapterText"
 msgid "To Heaven"
@@ -65,7 +65,7 @@ msgstr "Fiducia in se stessi"
 
 msgctxt "25||anri_movie2_04||chapterText"
 msgid "Leg-lovers Unite"
-msgstr "Amanti delle gambe unitevi"
+msgstr "Amanti delle gambe, unitevi"
 
 msgctxt "26||anri_movie2_05||chapterText"
 msgid "A Trip to China"

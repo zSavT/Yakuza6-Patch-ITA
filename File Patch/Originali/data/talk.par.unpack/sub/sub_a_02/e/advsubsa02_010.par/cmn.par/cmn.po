@@ -117,19 +117,9 @@ msgctxt "Offset_0x4CE30_Len_68"
 msgid "(I should play along and show him\nwhat happens to people like that.)"
 msgstr ""
 
-#. Max bytes: 5
-msgctxt "Offset_0x4E1E7_Len_5"
-msgid ">\n J<"
-msgstr ""
-
 #. Max bytes: 20
 msgctxt "Offset_0x4ED73_Len_20"
 msgid " #&)+.147:=@CFHKNQTR"
-msgstr ""
-
-#. Max bytes: 7
-msgctxt "Offset_0x51A6C_Len_7"
-msgid "~yobP: "
 msgstr ""
 
 #. Max bytes: 18
@@ -143,13 +133,33 @@ msgid "Sounds like Haruto."
 msgstr ""
 
 #. Max bytes: 19
+msgctxt "Offset_0x6A100_Len_19"
+msgid "Sounds like Taichi."
+msgstr ""
+
+#. Max bytes: 19
 msgctxt "Offset_0x6A700_Len_19"
 msgid "Sounds like Haruto."
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x6A740_Len_19"
+msgid "Sounds like Taichi."
 msgstr ""
 
 #. Max bytes: 18
 msgctxt "Offset_0x6AD80_Len_18"
 msgid "Sounds like Daigo."
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x6ADC0_Len_19"
+msgid "Sounds like Taichi."
+msgstr ""
+
+#. Max bytes: 19
+msgctxt "Offset_0x6B400_Len_19"
+msgid "Sounds like Taichi."
 msgstr ""
 
 #. Max bytes: 30
@@ -190,5 +200,10 @@ msgstr ""
 #. Max bytes: 26
 msgctxt "Offset_0x6CE40_Len_26"
 msgid "This is definitely a scam!"
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x6CE80_Len_8"
+msgid "Mensore!"
 msgstr ""
 

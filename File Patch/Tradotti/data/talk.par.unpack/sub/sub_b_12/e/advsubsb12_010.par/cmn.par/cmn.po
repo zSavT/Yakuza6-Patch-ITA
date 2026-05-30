@@ -9,11 +9,19 @@ msgstr ""
 
 #. Max bytes: 79
 msgctxt "Offset_0x20FC4_Len_79"
-msgid "(Right... In a strange turn of events,\nI was appointed as this team's captain.)"
+msgid ""
+"(Right... In a strange turn of events,\n"
+"I was appointed as this team's captain.)"
 msgstr ""
+"(Giusto... In una strana serie di eventi,\n"
+"sono diventato il capitano del team.)"
 
 #. Max bytes: 63
 msgctxt "Offset_0x27BF0_Len_63"
-msgid "(Damn it. I guess I'll look for\nsomewhere I can get a drink...)"
+msgid ""
+"(Damn it. I guess I'll look for\n"
+"somewhere I can get a drink...)"
 msgstr ""
+"(Dannazione. Penso cercherò\n"
+"un posto dove bere qualcosa...)"
 

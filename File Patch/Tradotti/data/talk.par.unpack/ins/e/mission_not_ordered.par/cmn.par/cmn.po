@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 75
 msgctxt "Offset_0x1C4_Len_75"
 msgid "(It looks like there's some trouble here.\nI should take a look at Troublr.)"
-msgstr ""
+msgstr "(Sembra esserci un problema.\nDovrei controllare Troublr.)"
 

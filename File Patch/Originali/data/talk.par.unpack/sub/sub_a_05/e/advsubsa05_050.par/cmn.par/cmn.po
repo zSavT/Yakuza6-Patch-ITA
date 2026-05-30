@@ -12,6 +12,11 @@ msgctxt "Offset_0x6844_Len_64"
 msgid "(This is the Children's Park.\nMaybe I should give Hiji a try...)"
 msgstr ""
 
+#. Max bytes: 6
+msgctxt "Offset_0x872A_Len_6"
+msgid "JEÝNE"
+msgstr ""
+
 #. Max bytes: 78
 msgctxt "Offset_0x9658_Len_78"
 msgid "(This thing is pretty impressive.\nIt's hard to believe it's just a phone app.)"

@@ -10,25 +10,20 @@ msgstr ""
 #. Max bytes: 24
 msgctxt "Offset_0x1EF50_Len_24"
 msgid "Seems like it's working."
-msgstr ""
+msgstr "Sembra che funzioni."
 
 #. Max bytes: 22
 msgctxt "Offset_0x1EF90_Len_22"
 msgid "You've got confidence."
-msgstr ""
+msgstr "Sei sicura di te."
 
 #. Max bytes: 22
 msgctxt "Offset_0x1EFD0_Len_22"
 msgid "You're bothering them."
-msgstr ""
+msgstr "Li stai disturbando."
 
 #. Max bytes: 37
 msgctxt "Offset_0x1F4E0_Len_37"
 msgid "Riona's rank has increased to Silver."
-msgstr ""
-
-#. Max bytes: 44
-msgctxt "Offset_0x1F510_Len_44"
-msgid "蕾歐娜的階級已成為「Silver Cast」"
-msgstr ""
+msgstr "Riona è salita al grado Argento."
 

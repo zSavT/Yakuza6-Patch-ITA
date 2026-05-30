@@ -52,11 +52,6 @@ msgctxt "Offset_0x3D20_Len_47"
 msgid "(Wait, maybe I shouldn't give it to him yet...)"
 msgstr ""
 
-#. Max bytes: 7
-msgctxt "Offset_0x1A115_Len_7"
-msgid " bE\\ChE"
-msgstr ""
-
 #. Max bytes: 42
 msgctxt "Offset_0x2C2A4_Len_42"
 msgid "Kawamura has joined the Setouchi Warriors."

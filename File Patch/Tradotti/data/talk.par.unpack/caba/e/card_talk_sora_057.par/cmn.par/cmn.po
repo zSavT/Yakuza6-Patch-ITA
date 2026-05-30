@@ -7,18 +7,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+msgctxt "Offset_0xA34_Len_4"
+msgid "SORA"
+msgstr "Sora"
+
 #. Max bytes: 18
 msgctxt "Offset_0xEC6C_Len_18"
 msgid "Never stop loving."
-msgstr ""
+msgstr "Continua ad amare."
 
 #. Max bytes: 16
 msgctxt "Offset_0xECAC_Len_16"
 msgid "Fight every day."
-msgstr ""
+msgstr "Combatti sempre."
 
 #. Max bytes: 29
 msgctxt "Offset_0xECEC_Len_29"
 msgid "It's basically just collagen."
-msgstr ""
+msgstr "In fondo è solo collagene."
 

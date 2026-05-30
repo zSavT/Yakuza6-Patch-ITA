@@ -7,8 +7,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x1A7CE_Len_6"
-msgid " >33s?"
+#. Max bytes: 7
+msgctxt "Offset_0x1160C_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x1275C_Len_7"
+msgid "Oneshot"
 msgstr ""
 

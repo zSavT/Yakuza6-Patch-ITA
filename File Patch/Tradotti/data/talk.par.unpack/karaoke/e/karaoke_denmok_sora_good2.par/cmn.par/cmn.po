@@ -7,18 +7,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-msgctxt "Offset_0x6583_Len_5"
-msgid "> ?a>"
-msgstr ""
+#. Max bytes: 4
+msgctxt "Offset_0x6840_Len_4"
+msgid "SORA"
+msgstr "Sora"
 
 #. Max bytes: 29
 msgctxt "Offset_0xA834_Len_29"
 msgid "You grew even closer to Sora."
-msgstr ""
+msgstr "Sempre più intimi con Sora."
 
 #. Max bytes: 29
 msgctxt "Offset_0xA9FC_Len_29"
 msgid "You grew even closer to Sora."
-msgstr ""
+msgstr "Sempre più intimi con Sora."
 

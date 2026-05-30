@@ -7,63 +7,73 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 4
-msgctxt "Offset_0x518C4_Len_4"
-msgid " є?"
-msgstr ""
-
-#. Max bytes: 5
-msgctxt "Offset_0xB4B7B_Len_5"
-msgid "> ډ;"
-msgstr ""
-
-#. Max bytes: 5
-msgctxt "Offset_0x13A3DB_Len_5"
-msgid "= Y+<"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x43AE24_Len_4"
-msgid " M'="
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x50EA14_Len_4"
-msgid " yR<"
-msgstr ""
-
 #. Max bytes: 10
 msgctxt "Offset_0x55D5BC_Len_10"
 msgid "Dolche Uho"
-msgstr ""
+msgstr "Dolche uho"
+
+#. Max bytes: 8
+msgctxt "Offset_0x55D5FC_Len_8"
+msgid "Munancho"
+msgstr "Munancho"
+
+#. Max bytes: 10
+msgctxt "Offset_0x55D63C_Len_10"
+msgid "Hept-onast"
+msgstr "Hept-onast"
+
+#. Max bytes: 8
+msgctxt "Offset_0x55DC3C_Len_8"
+msgid "Kulipaas"
+msgstr "Kulipaas"
+
+#. Max bytes: 8
+msgctxt "Offset_0x55DC7C_Len_8"
+msgid "Kulibaaf"
+msgstr "Kulibaaf"
 
 #. Max bytes: 12
 msgctxt "Offset_0x55E2BC_Len_12"
 msgid "Munan Suzuki"
-msgstr ""
+msgstr "Munan Suzuki"
 
 #. Max bytes: 14
 msgctxt "Offset_0x55E2FC_Len_14"
 msgid "Munan Akamatsu"
-msgstr ""
+msgstr "Munan Akamatsu"
 
 #. Max bytes: 10
 msgctxt "Offset_0x55E33C_Len_10"
 msgid "Munan Sato"
-msgstr ""
+msgstr "Munan Sato"
+
+#. Max bytes: 12
+msgctxt "Offset_0x55E93C_Len_12"
+msgid "Brainwashing"
+msgstr "Lavaggio C."
+
+#. Max bytes: 12
+msgctxt "Offset_0x55E97C_Len_12"
+msgid "Re-education"
+msgstr "Rieducazione"
 
 #. Max bytes: 13
 msgctxt "Offset_0x55E9BC_Len_13"
 msgid "Sex Education"
-msgstr ""
+msgstr "Ed. sessuale"
 
 #. Max bytes: 20
 msgctxt "Offset_0x55F1BC_Len_20"
 msgid "Say It with the Pose"
-msgstr ""
+msgstr "Dillo con la posa"
 
 #. Max bytes: 17
 msgctxt "Offset_0x55F1FC_Len_17"
 msgid "Just Say the Word"
-msgstr ""
+msgstr "Basta la parola"
+
+#. Max bytes: 6
+msgctxt "Offset_0x55F23C_Len_6"
+msgid "Refuse"
+msgstr "No"
 

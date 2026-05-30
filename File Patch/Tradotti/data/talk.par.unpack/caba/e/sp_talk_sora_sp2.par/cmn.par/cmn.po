@@ -7,33 +7,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+msgctxt "Offset_0x1044_Len_4"
+msgid "SORA"
+msgstr "Sora"
+
 #. Max bytes: 6
 msgctxt "Offset_0x21B7A_Len_6"
 msgid " ARxQC"
-msgstr ""
+msgstr " ARxQC"
 
 #. Max bytes: 27
 msgctxt "Offset_0x28708_Len_27"
 msgid "I'm jealous of all the fun."
-msgstr ""
+msgstr "Invidio quel divertimento."
 
 #. Max bytes: 24
 msgctxt "Offset_0x28748_Len_24"
 msgid "I want to try it myself."
-msgstr ""
+msgstr "Ci voglio provare io."
 
 #. Max bytes: 22
 msgctxt "Offset_0x28788_Len_22"
 msgid "I don't really get it."
-msgstr ""
+msgstr "Non capisco proprio."
 
 #. Max bytes: 36
 msgctxt "Offset_0x28C98_Len_36"
 msgid "Sora's rank has increased to Silver."
-msgstr ""
-
-#. Max bytes: 39
-msgctxt "Offset_0x28CC8_Len_39"
-msgid "SORA的階級已成為「Silver Cast」"
-msgstr ""
+msgstr "Sora è salita al grado Argento."
 

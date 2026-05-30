@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0x1C98_Len_16"
 msgid "Stay in Onomichi"
-msgstr ""
+msgstr "Resta a Onomichi"
 
 #. Max bytes: 15
 msgctxt "Offset_0x1CD8_Len_15"
 msgid "Go to Kamurocho"
-msgstr ""
+msgstr "Vai a Kamurocho"
 

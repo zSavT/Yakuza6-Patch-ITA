@@ -27,8 +27,3 @@ msgctxt "Offset_0x2BF18_Len_38"
 msgid "Saki's rank has increased to Platinum."
 msgstr ""
 
-#. Max bytes: 43
-msgctxt "Offset_0x2BF48_Len_43"
-msgid "沙希的階級已成為「Platinum Cast」"
-msgstr ""
-

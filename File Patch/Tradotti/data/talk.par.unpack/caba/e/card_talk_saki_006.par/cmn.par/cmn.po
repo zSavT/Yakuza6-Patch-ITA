@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0xE800_Len_15"
 msgid "You mean manly?"
-msgstr ""
+msgstr "Intendi virile?"
 
 #. Max bytes: 25
 msgctxt "Offset_0xE840_Len_25"
 msgid "You mean someone like me?"
-msgstr ""
+msgstr "Intendi uno come me?"
 
 #. Max bytes: 8
 msgctxt "Offset_0xE880_Len_8"
 msgid "Ook ook!"
-msgstr ""
+msgstr "Uh uh!"
 

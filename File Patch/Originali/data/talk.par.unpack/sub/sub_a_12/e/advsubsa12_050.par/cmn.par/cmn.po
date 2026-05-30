@@ -67,6 +67,11 @@ msgctxt "Offset_0x259D8_Len_16"
 msgid "\"Family issues.\""
 msgstr ""
 
+#. Max bytes: 12
+msgctxt "Offset_0x25AA8_Len_12"
+msgid "\"Kamurocho.\""
+msgstr ""
+
 #. Max bytes: 46
 msgctxt "Offset_0x25B68_Len_46"
 msgid "\"Just send them already.\nI'm in a hurry here.\""

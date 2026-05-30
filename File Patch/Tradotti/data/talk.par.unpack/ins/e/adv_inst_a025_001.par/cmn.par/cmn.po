@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 18
 msgctxt "Offset_0x1C4_Len_18"
 msgid "Give me a break..."
-msgstr ""
+msgstr "Dammi una tregua."
 
 #. Max bytes: 19
 msgctxt "Offset_0x294_Len_19"
 msgid "Don't mess with me!"
-msgstr ""
+msgstr "Non provocarmi!"
 

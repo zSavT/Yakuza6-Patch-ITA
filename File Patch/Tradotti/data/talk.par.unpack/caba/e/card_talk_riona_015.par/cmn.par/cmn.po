@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 27
 msgctxt "Offset_0x10200_Len_27"
 msgid "I don't intend to complain."
-msgstr ""
+msgstr "Non intendo lamentarmi."
 
 #. Max bytes: 17
 msgctxt "Offset_0x10240_Len_17"
 msgid "It's disgraceful."
-msgstr ""
+msgstr "È vergognoso."
 

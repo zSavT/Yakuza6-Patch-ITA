@@ -10,30 +10,25 @@ msgstr ""
 #. Max bytes: 4
 msgctxt "Offset_0x2B91C_Len_4"
 msgid "Q Z<"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x2BBDC_Len_4"
-msgid " k6<"
-msgstr ""
+msgstr "Q Z<"
 
 #. Max bytes: 26
 msgctxt "Offset_0x7C579_Len_26"
 msgid " #'+34Udl^mreg[NBORai[M?2$"
-msgstr ""
+msgstr " #'+34Udl^mreg[NBORai[M?2$"
 
 #. Max bytes: 25
 msgctxt "Offset_0xBA388_Len_25"
 msgid "Go tell him how you feel."
-msgstr ""
+msgstr "Digli cosa provi."
 
 #. Max bytes: 36
 msgctxt "Offset_0xBA3C8_Len_36"
 msgid "It's better if you don't go see him."
-msgstr ""
+msgstr "È meglio non andare da lui."
 
 #. Max bytes: 38
 msgctxt "Offset_0xBA408_Len_38"
 msgid "Why don't I help you forget about him?"
-msgstr ""
+msgstr "Ti aiuto a dimenticarti di lui?"
 

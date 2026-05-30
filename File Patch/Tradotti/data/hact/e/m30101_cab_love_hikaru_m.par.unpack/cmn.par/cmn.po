@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 73
+msgctxt "Offset_0x2E0_Len_73"
+msgid "I was surprised that you came for me,\nbut it also made me really happy..."
+msgstr "Mi ha stupito che tu sia venuto,\nma mi ha anche reso molto felice..."
+
+#. Max bytes: 69
+msgctxt "Offset_0x4B0_Len_69"
+msgid "I realized that you're the Prince Charming\nwho's going to protect me."
+msgstr "Ho capito che sei il principe azzurro\nche mi proteggerà."
+
+#. Max bytes: 70
+msgctxt "Offset_0x670_Len_70"
+msgid "This might be the first time...\nthat I've felt this way about someone."
+msgstr "Forse è la prima volta...\nche provo qualcosa per qualcuno."
+
+#. Max bytes: 86
+msgctxt "Offset_0x830_Len_86"
+msgid "Idols aren't allowed to be in romantic relationships...\nSo I figured I'd say this now."
+msgstr "Le idol non possono avere relazioni...\nQuindi ho pensato di dirtelo ora."
+
+#. Max bytes: 53
+msgctxt "Offset_0xA00_Len_53"
+msgid "Kiryu-san... this is the present I mentioned earlier."
+msgstr "Kiryu-san... questo è il regalo di cui parlavo."
+
+#. Max bytes: 25
+msgctxt "Offset_0xC20_Len_25"
+msgid "...I love you, Kiryu-san."
+msgstr "...Ti amo, Kiryu-san."
+
+#. Max bytes: 48
+msgctxt "Offset_0xD90_Len_48"
+msgid "Please don't ever stop being my Prince Charming."
+msgstr "Ti prego, sii sempre il mio principe azzurro."
+

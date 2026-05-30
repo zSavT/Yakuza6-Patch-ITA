@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 7
 msgctxt "Offset_0x14EE1_Len_7"
 msgid " UERDaE"
-msgstr ""
+msgstr " UERDaE"
 
 #. Max bytes: 28
 msgctxt "Offset_0x2BAC0_Len_28"
 msgid "Yeah, enter it again for me."
-msgstr ""
+msgstr "Sì, inseriscilo di nuovo."
 
 #. Max bytes: 31
 msgctxt "Offset_0x2BB00_Len_31"
 msgid "No, let's leave it be actually."
-msgstr ""
+msgstr "No, in realtà lasciamo stare."
 

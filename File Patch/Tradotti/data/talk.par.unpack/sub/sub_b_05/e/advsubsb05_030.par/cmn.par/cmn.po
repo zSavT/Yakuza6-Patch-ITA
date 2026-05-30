@@ -7,38 +7,98 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+msgctxt "Offset_0x195_Len_4"
+msgid "TUFq"
+msgstr "TUFq"
+
+#. Max bytes: 4
+msgctxt "Offset_0x3DEAC_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x3E30C_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x3E76C_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x3EBCC_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x3F02C_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x3F48C_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x3F8EC_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x3FD4C_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x401AC_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x4060C_Len_4"
+msgid "k M?"
+msgstr "k M?"
+
+#. Max bytes: 6
+msgctxt "Offset_0xB737A_Len_6"
+msgid "EF׀FF"
+msgstr "EF׀FF"
+
 #. Max bytes: 6
 msgctxt "Offset_0xD1616_Len_6"
 msgid " ?UUU?"
-msgstr ""
+msgstr " ?UUU?"
 
 #. Max bytes: 27
 msgctxt "Offset_0x11A6F0_Len_27"
 msgid "Introduce Yourself Casually"
-msgstr ""
+msgstr "Presentati con calma"
 
 #. Max bytes: 31
 msgctxt "Offset_0x11A730_Len_31"
 msgid "Introduce Yourself Passionately"
-msgstr ""
+msgstr "Presentati con passione"
 
 #. Max bytes: 17
 msgctxt "Offset_0x11AD70_Len_17"
 msgid "Nice to meet you."
-msgstr ""
+msgstr "Piacere mio."
 
 #. Max bytes: 14
 msgctxt "Offset_0x11ADB0_Len_14"
 msgid "Nice to michi!"
-msgstr ""
+msgstr "Piacere michi!"
 
 #. Max bytes: 33
 msgctxt "Offset_0x11B3F0_Len_33"
 msgid "You brats are gonna pay for this!"
-msgstr ""
+msgstr "Mocciosi, me la pagherete!"
 
 #. Max bytes: 9
 msgctxt "Offset_0x11B430_Len_9"
 msgid "Oh no...!"
-msgstr ""
+msgstr "Oh no...!"
 

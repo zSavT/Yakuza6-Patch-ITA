@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 26
 msgctxt "Offset_0xCE50_Len_26"
 msgid "You've got 10 seconds. Go."
-msgstr ""
+msgstr "Hai 10 secondi. Via."
 
 #. Max bytes: 29
 msgctxt "Offset_0xCE90_Len_29"
 msgid "Nobody strips faster than me."
-msgstr ""
+msgstr "Mi spoglio in tempo record."
 

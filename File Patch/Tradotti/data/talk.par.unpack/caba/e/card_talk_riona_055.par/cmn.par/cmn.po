@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 29
 msgctxt "Offset_0x13EB4_Len_29"
 msgid "Think of them as a vegetable."
-msgstr ""
+msgstr "Pensali come verdure."
 
 #. Max bytes: 30
 msgctxt "Offset_0x13EF4_Len_30"
 msgid "Love them with all your heart."
-msgstr ""
+msgstr "Amali con tutto il cuore."
 
 #. Max bytes: 13
 msgctxt "Offset_0x13F34_Len_13"
 msgid "I don't know."
-msgstr ""
+msgstr "Non lo so."
 

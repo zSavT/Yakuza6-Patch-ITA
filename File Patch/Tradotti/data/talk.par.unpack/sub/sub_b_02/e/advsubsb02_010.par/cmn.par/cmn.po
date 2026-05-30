@@ -7,48 +7,38 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x4453A_Len_6"
-msgid " >ףp?"
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0x45F66_Len_6"
-msgid "n=̲ <"
-msgstr ""
-
 #. Max bytes: 8
 msgctxt "Offset_0x4A6A0_Len_8"
 msgid "dW >`ga>"
-msgstr ""
+msgstr "dW >`ga>"
 
 #. Max bytes: 7
 msgctxt "Offset_0x4E495_Len_7"
 msgid "R7>Ik >"
-msgstr ""
+msgstr "R7>Ik >"
 
-#. Max bytes: 5
-msgctxt "Offset_0x5065F_Len_5"
-msgid ">j 9="
-msgstr ""
+#. Max bytes: 2
+msgctxt "Offset_0x8A8A0_Len_2"
+msgid "Ho"
+msgstr "Ho"
 
 #. Max bytes: 24
 msgctxt "Offset_0xA7564_Len_24"
 msgid "Sure, I'll hear you out."
-msgstr ""
+msgstr "Certo, ti ascolto."
 
 #. Max bytes: 22
 msgctxt "Offset_0xA75A4_Len_22"
 msgid "Maybe some other time."
-msgstr ""
+msgstr "Forse un'altra volta."
 
 #. Max bytes: 18
 msgctxt "Offset_0xA7BE4_Len_18"
 msgid "Yeah, let's do it."
-msgstr ""
+msgstr "Sì, facciamolo."
 
 #. Max bytes: 22
 msgctxt "Offset_0xA7C24_Len_22"
 msgid "Maybe some other time."
-msgstr ""
+msgstr "Forse un'altra volta."
 

@@ -10,25 +10,20 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0x2BA5C_Len_17"
 msgid "I'll protect you!"
-msgstr ""
+msgstr "Ti proteggerò!"
 
 #. Max bytes: 25
 msgctxt "Offset_0x2BA9C_Len_25"
 msgid "The law will protect you!"
-msgstr ""
+msgstr "La legge ti proteggerà!"
 
 #. Max bytes: 16
 msgctxt "Offset_0x2BADC_Len_16"
 msgid "He's going down!"
-msgstr ""
+msgstr "È spacciato!"
 
 #. Max bytes: 39
 msgctxt "Offset_0x2BFEC_Len_39"
 msgid "Erina's rank has increased to Platinum."
-msgstr ""
-
-#. Max bytes: 46
-msgctxt "Offset_0x2C01C_Len_46"
-msgid "艾莉娜的階級已成為「Platinum Cast」"
-msgstr ""
+msgstr "Erina è salita al grado Platino."
 

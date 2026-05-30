@@ -77,19 +77,19 @@ msgstr "Prova"
 
 msgctxt "1||homerun_elementary||text_1"
 msgid "Hit as many home runs as you can in 10 pitches! Earn Rank A or above to clear!"
-msgstr "Fai più fuoricampo che puoi in 10 lanci! Ottieni il grado A o superiore per farcela!"
+msgstr "Piazza più fuoricampo che puoi su 10 lanci! Ottieni un rango A o superiore per proseguire!"
 
 msgctxt "2||homerun_intermediate||text_1"
 msgid "Hit as many home runs as you can in 10 pitches! Earn Rank A or above to clear!"
-msgstr "Fai più fuoricampo che puoi in 10 lanci! Ottieni il grado A o superiore per farcela!"
+msgstr "Piazza più fuoricampo che puoi su 10 lanci! Ottieni un rango A o superiore per proseguire!"
 
 msgctxt "3||homerun_senior||text_1"
 msgid "Hit as many home runs as you can in 10 pitches! Earn Rank A or above to clear!"
-msgstr "Fai più fuoricampo che puoi in 10 lanci! Ottieni il grado A o superiore per farcela!"
+msgstr "Piazza più fuoricampo che puoi su 10 lanci! Ottieni un rango A o superiore per proseguire!"
 
 msgctxt "4||homerun_super||text_1"
 msgid "Hit as many home runs as you can in 10 pitches! Earn Rank A or above to clear!"
-msgstr "Fai più fuoricampo che puoi in 10 lanci! Ottieni il grado A o superiore per farcela!"
+msgstr "Piazza più fuoricampo che puoi su 10 lanci! Ottieni un rango A o superiore per proseguire!"
 
 msgctxt "5||challenge_elementary_1||text_1"
 msgid "Score 3 or more runs in 10 pitches to clear!"
@@ -153,7 +153,7 @@ msgstr "In questo percorso, affronterai lanci che variano in velocità!\r\n[Lanc
 
 msgctxt "4||homerun_super||text_2"
 msgid "In this course, you'll face all sorts of breaking balls!\r\n[Pitch Type] Mystery!"
-msgstr "In questo percorso, affronterai tutti i tipi di palle a effetto!\r\n[Lanci] Mistero!"
+msgstr "In questo campo affronterai palle con ogni tipo di effetto!\r\n[Tipo di lancio] È un segreto!"
 
 msgctxt "5||challenge_elementary_1||text_2"
 msgid "In this course, you'll face only fastballs!\r\n[Pitch Type] <color=batting_pitch_white>Fastball</color>"
@@ -193,12 +193,12 @@ msgstr "In questo percorso, affronterai lanci che curvano diagonalmente!\r\n[Lan
 
 msgctxt "14||challenge_super_1||text_2"
 msgid "In this course, you'll face all sorts of breaking balls!\r\n[Pitch Type] Mystery!"
-msgstr "In questo percorso, affronterai tutti i tipi di palle a effetto!\r\n[Lanci] Mistero!"
+msgstr "In questo campo affronterai palle con ogni tipo di effetto!\r\n[Tipo di lancio] È un segreto!"
 
 msgctxt "15||challenge_super_2||text_2"
 msgid "In this course, you'll face all sorts of breaking balls!\r\n[Pitch Type] Mystery!"
-msgstr "In questo percorso, affronterai tutti i tipi di palle a effetto!\r\n[Lanci] Mistero!"
+msgstr "In questo campo affronterai palle con ogni tipo di effetto!\r\n[Tipo di lancio] È un segreto!"
 
 msgctxt "16||challenge_super_3||text_2"
 msgid "In this course, you'll face all sorts of breaking balls!\r\n[Pitch Type] Mystery!"
-msgstr "In questo percorso, affronterai tutti i tipi di palle a effetto!\r\n[Lanci] Mistero!"
+msgstr "In questo campo affronterai palle con ogni tipo di effetto!\r\n[Tipo di lancio] È un segreto!"

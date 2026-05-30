@@ -7,28 +7,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 24
-msgctxt "Offset_0x65A3D_Len_24"
-msgid " !\"#%')+.147;>BFJMQTX[]."
-msgstr ""
+#. Max bytes: 4
+msgctxt "Offset_0x54634_Len_4"
+msgid "Hiji"
+msgstr "Hiji"
 
-#. Max bytes: 24
-msgctxt "Offset_0x66BC5_Len_24"
-msgid " !\"#%')+.147;>BFJMQTX[]."
-msgstr ""
-
-#. Max bytes: 24
-msgctxt "Offset_0x67CD9_Len_24"
-msgid " !\"#%')+.147;>BFJMQTX[]."
-msgstr ""
+#. Max bytes: 4
+msgctxt "Offset_0x69CA0_Len_4"
+msgid "Hiji"
+msgstr "Hiji"
 
 #. Max bytes: 14
 msgctxt "Offset_0x6ABF4_Len_14"
 msgid "Sure, why not."
-msgstr ""
+msgstr "Perché no."
 
 #. Max bytes: 22
 msgctxt "Offset_0x6AC34_Len_22"
 msgid "Maybe some other time."
-msgstr ""
+msgstr "Forse un'altra volta."
 

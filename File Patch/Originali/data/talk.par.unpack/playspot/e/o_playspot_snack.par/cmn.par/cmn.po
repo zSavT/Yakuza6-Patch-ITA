@@ -12,6 +12,16 @@ msgctxt "Offset_0x744_Len_51"
 msgid "Head into New Gaudi?\nThe cover charge is 3,000 yen."
 msgstr ""
 
+#. Max bytes: 3
+msgctxt "Offset_0x844_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x884_Len_2"
+msgid "No"
+msgstr ""
+
 #. Max bytes: 33
 msgctxt "Offset_0x1824_Len_33"
 msgid "(Maybe I'll drop in for a drink.)"

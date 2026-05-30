@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 35
 msgctxt "Offset_0x113B8_Len_35"
 msgid "Why don't you talk to me for a bit?"
-msgstr ""
+msgstr "Perché non parli un po' con me?"
 
 #. Max bytes: 35
 msgctxt "Offset_0x113F8_Len_35"
 msgid "Cheer up, kid. I'll see you around."
-msgstr ""
+msgstr "Su col morale, bimba. Ci vediamo."
 

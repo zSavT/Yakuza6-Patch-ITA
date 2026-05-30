@@ -7,11 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 20
-msgctxt "Offset_0x530CF_Len_20"
-msgid " !\"#$%&()f[jmpbpkXC."
-msgstr ""
-
 #. Max bytes: 34
 msgctxt "Offset_0x1DE570_Len_34"
 msgid "Crying isn't gonna solve anything."

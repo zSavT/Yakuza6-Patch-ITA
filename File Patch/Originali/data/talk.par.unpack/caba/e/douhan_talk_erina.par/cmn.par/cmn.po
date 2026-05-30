@@ -12,3 +12,13 @@ msgctxt "Offset_0xA8FC_Len_17"
 msgid "What will you do?"
 msgstr ""
 
+#. Max bytes: 5
+msgctxt "Offset_0xA9FC_Len_5"
+msgid "Darts"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0xAA3C_Len_7"
+msgid "Karaoke"
+msgstr ""
+

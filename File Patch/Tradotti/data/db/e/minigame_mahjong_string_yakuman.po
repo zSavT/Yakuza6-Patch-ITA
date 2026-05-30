@@ -13,24 +13,24 @@ msgstr "Yakuman"
 
 msgctxt "2||double_yakuman||text"
 msgid "Double Yakuman"
-msgstr "Doppio Yakuman"
+msgstr "Doppio yakuman"
 
 msgctxt "3||triple_yakuman||text"
 msgid "Triple Yakuman"
-msgstr "Triplo Yakuman"
+msgstr "Triplo yakuman"
 
 msgctxt "4||yonbai_yakuman||text"
 msgid "4x Yakuman"
-msgstr "4x Yakuman"
+msgstr "Yakuman x4"
 
 msgctxt "5||gobai_yakuman||text"
 msgid "5x Yakuman"
-msgstr "5x Yakuman"
+msgstr "Yakuman x5"
 
 msgctxt "6||rokubai_yakuman||text"
 msgid "6x Yakuman"
-msgstr "6x Yakuman"
+msgstr "Yakuman x6"
 
 msgctxt "7||nanabai_yakuman||text"
 msgid "7x Yakuman"
-msgstr "7x Yakuman"
+msgstr "Yakuman x7"

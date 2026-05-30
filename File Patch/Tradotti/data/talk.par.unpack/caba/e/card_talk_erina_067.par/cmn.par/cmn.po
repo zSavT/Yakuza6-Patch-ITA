@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 21
 msgctxt "Offset_0xA8FC_Len_21"
 msgid "At the movie theater."
-msgstr ""
+msgstr "Al cinema."
 
 #. Max bytes: 12
 msgctxt "Offset_0xA93C_Len_12"
 msgid "At the pier."
-msgstr ""
+msgstr "Al molo."
 
 #. Max bytes: 19
 msgctxt "Offset_0xA97C_Len_19"
 msgid "In a previous life."
-msgstr ""
+msgstr "In un'altra vita."
 

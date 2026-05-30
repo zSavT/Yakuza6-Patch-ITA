@@ -33,11 +33,11 @@ msgstr "Esci"
 
 msgctxt "7||check_sight||info"
 msgid "Check"
-msgstr "Osserva"
+msgstr "Controlla"
 
 msgctxt "8||look_around||info"
 msgid "Look Around"
-msgstr "Guardati attorno"
+msgstr "Guardati intorno"
 
 msgctxt "9||answer_a_phone||info"
 msgid "Answer"
@@ -133,7 +133,7 @@ msgstr "Parla"
 
 msgctxt "32||shoot||info"
 msgid "Take Photo"
-msgstr "Scatta foto"
+msgstr "Scatta una foto"
 
 msgctxt "33||special_favor||info"
 msgid "Small Parcel"
@@ -161,11 +161,11 @@ msgstr "Al 6° piano"
 
 msgctxt "40||go_2f||info"
 msgid "To 2nd Floor"
-msgstr "Al 2° piano"
+msgstr "Al 2P"
 
 msgctxt "41||go_1f||info"
 msgid "To 1st Floor"
-msgstr "Al 1° piano"
+msgstr "Al 1P"
 
 msgctxt "42||go_senkouji||info"
 msgid "To Senkoji"
@@ -209,11 +209,11 @@ msgstr "Spegni"
 
 msgctxt "53||daynight||info"
 msgid "Pass Time"
-msgstr "Fai passare il tempo"
+msgstr "Cambia ora"
 
 msgctxt "54||costume||info"
 msgid "Change Outfit"
-msgstr "Cambia abito"
+msgstr "Cambia vestiti"
 
 msgctxt "55||look_nml||info"
 msgid "Look"

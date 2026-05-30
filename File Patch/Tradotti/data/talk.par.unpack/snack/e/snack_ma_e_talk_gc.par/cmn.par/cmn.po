@@ -10,665 +10,735 @@ msgstr ""
 #. Max bytes: 44
 msgctxt "Offset_0x21D10_Len_44"
 msgid "What could make ya hate me so much, Gen-san?"
-msgstr ""
+msgstr "Perché mi odi così tanto, Gen-san?"
 
 #. Max bytes: 30
 msgctxt "Offset_0x21F60_Len_30"
 msgid "Mama, y'know what my hobby is?"
-msgstr ""
+msgstr "Mama, sai che hobby ho?"
 
 #. Max bytes: 15
 msgctxt "Offset_0x22230_Len_15"
 msgid "Karaoke, right?"
-msgstr ""
+msgstr "Karaoke, vero?"
+
+#. Max bytes: 10
+msgctxt "Offset_0x22320_Len_10"
+msgid "Hatakeyama"
+msgstr "Hatakeyama"
 
 #. Max bytes: 17
 msgctxt "Offset_0x22360_Len_17"
 msgid "Tell me about it."
-msgstr ""
+msgstr "A chi lo dici."
 
 #. Max bytes: 26
 msgctxt "Offset_0x22390_Len_26"
 msgid "The neighbors know it too."
-msgstr ""
+msgstr "Lo sanno anche i vicini."
 
 #. Max bytes: 17
 msgctxt "Offset_0x223C0_Len_17"
 msgid "Even I know that."
-msgstr ""
+msgstr "Questo lo so io."
 
 #. Max bytes: 44
 msgctxt "Offset_0x223F0_Len_44"
 msgid "Anyone who's ever set foot here'd know that."
-msgstr ""
+msgstr "Chiunque entri qui lo sa."
 
 #. Max bytes: 44
 msgctxt "Offset_0x22550_Len_44"
 msgid "He's been practicin' his vocal stylings too."
-msgstr ""
+msgstr "Si è anche esercitato a cantare."
 
 #. Max bytes: 18
 msgctxt "Offset_0x227B0_Len_18"
 msgid "Yeah? That's good."
-msgstr ""
+msgstr "Ah sì? Ottimo."
 
 #. Max bytes: 30
 msgctxt "Offset_0x228E0_Len_30"
 msgid "Aren't y'glad it got upgraded?"
-msgstr ""
+msgstr "Felice per l'aggiornamento?"
 
 #. Max bytes: 55
 msgctxt "Offset_0x22A20_Len_55"
 msgid "I splurged on it! Y'best be gettin' your money's worth."
-msgstr ""
+msgstr "Follia pura! Vedi di far fruttare i miei soldi."
 
 #. Max bytes: 12
 msgctxt "Offset_0x22BB0_Len_12"
 msgid "Too chicken?"
-msgstr ""
+msgstr "Hai fifa?"
 
 #. Max bytes: 16
 msgctxt "Offset_0x22BD0_Len_16"
 msgid "Too intimidated?"
-msgstr ""
+msgstr "Sei spaventato?"
 
 #. Max bytes: 8
 msgctxt "Offset_0x22C00_Len_8"
 msgid "Why not?"
-msgstr ""
+msgstr "Perché?"
 
 #. Max bytes: 34
 msgctxt "Offset_0x22C20_Len_34"
 msgid "I can't sing on it! No darn way..."
-msgstr ""
+msgstr "Non ci canto! Col cavolo..."
 
 #. Max bytes: 14
 msgctxt "Offset_0x22E00_Len_14"
 msgid "Yeah, why not?"
-msgstr ""
+msgstr "Sì, come mai?"
 
 #. Max bytes: 30
 msgctxt "Offset_0x23010_Len_30"
 msgid "It's way too high-tech for me."
-msgstr ""
+msgstr "È troppo hi-tech per me."
+
+#. Max bytes: 10
+msgctxt "Offset_0x23210_Len_10"
+msgid "Hatakeyama"
+msgstr "Hatakeyama"
 
 #. Max bytes: 15
 msgctxt "Offset_0x23250_Len_15"
 msgid "He had to pass?"
-msgstr ""
+msgstr "Ha rinunciato?"
 
 #. Max bytes: 11
 msgctxt "Offset_0x23270_Len_11"
 msgid "He has gas!"
-msgstr ""
+msgstr "Ha aria!"
 
 #. Max bytes: 10
 msgctxt "Offset_0x23290_Len_10"
 msgid "He hasn't?"
-msgstr ""
+msgstr "Non l'ha?"
 
 #. Max bytes: 52
 msgctxt "Offset_0x232B0_Len_52"
 msgid "Ah, come to think of it, Gen-san hasn't sung lately."
-msgstr ""
+msgstr "A pensarci, Gen-san non ha cantato ultimamente."
 
 #. Max bytes: 51
 msgctxt "Offset_0x235A0_Len_51"
 msgid "But don't y'enjoy listenin' to other folks singing?"
-msgstr ""
+msgstr "Ma non ti piace ascoltare gli altri?"
 
 #. Max bytes: 55
 msgctxt "Offset_0x23810_Len_55"
 msgid "Sure, I like listening 'bout as much as I like singin'."
-msgstr ""
+msgstr "Certo, mi piace ascoltare quanto cantare."
 
 #. Max bytes: 13
 msgctxt "Offset_0x23A80_Len_13"
 msgid "It really is."
-msgstr ""
+msgstr "È così."
 
 #. Max bytes: 12
 msgctxt "Offset_0x23AA0_Len_12"
 msgid "It kinda is."
-msgstr ""
+msgstr "Un po' sì."
 
 #. Max bytes: 15
 msgctxt "Offset_0x23AC0_Len_15"
 msgid "It kinda sucks."
-msgstr ""
+msgstr "Fa un po' pena."
 
 #. Max bytes: 56
 msgctxt "Offset_0x23AE0_Len_56"
 msgid "The thing sounds great. I can tell it's a great machine."
-msgstr ""
+msgstr "Suona da dio. È un'ottima macchina."
 
 #. Max bytes: 41
 msgctxt "Offset_0x23D50_Len_41"
 msgid "Then sing already. Why waste those lungs?"
-msgstr ""
+msgstr "Allora canta. Perché sprecare il fiato?"
 
 #. Max bytes: 12
 msgctxt "Offset_0x23FB0_Len_12"
 msgid "Relax, Mama."
-msgstr ""
+msgstr "Calma, Mama."
 
 #. Max bytes: 22
 msgctxt "Offset_0x241D0_Len_22"
 msgid "If I can't, you can't."
-msgstr ""
+msgstr "Se io non posso, no."
 
 #. Max bytes: 18
 msgctxt "Offset_0x24200_Len_18"
 msgid "If I can, you can."
-msgstr ""
+msgstr "Se posso, puoi."
 
 #. Max bytes: 20
 msgctxt "Offset_0x24230_Len_20"
 msgid "If you can't, I can."
-msgstr ""
+msgstr "Tu non puoi, io sì."
 
 #. Max bytes: 49
 msgctxt "Offset_0x24260_Len_49"
 msgid "There's jus' no way I can use that fancy machine."
-msgstr ""
+msgstr "Non c'è verso che io usi quell'aggeggio."
 
 #. Max bytes: 53
 msgctxt "Offset_0x24550_Len_53"
 msgid "It's even got a remote control with a screen on it..."
-msgstr ""
+msgstr "Ha pure un telecomando con uno schermo..."
+
+#. Max bytes: 4
+msgctxt "Offset_0x24680_Len_4"
+msgid "Mama"
+msgstr "Mama"
 
 #. Max bytes: 8
 msgctxt "Offset_0x246C0_Len_8"
 msgid "I agree."
-msgstr ""
+msgstr "Vero."
 
 #. Max bytes: 11
 msgctxt "Offset_0x246E0_Len_11"
 msgid "I disagree."
-msgstr ""
+msgstr "Non credo."
 
 #. Max bytes: 14
 msgctxt "Offset_0x24700_Len_14"
 msgid "I need to pee."
-msgstr ""
+msgstr "Vado in bagno."
 
 #. Max bytes: 28
 msgctxt "Offset_0x24720_Len_28"
 msgid "That's what makes it useful!"
-msgstr ""
+msgstr "È questo a renderlo utile!"
 
 #. Max bytes: 29
 msgctxt "Offset_0x249D0_Len_29"
 msgid "It's easier to choose a song."
-msgstr ""
+msgstr "È più facile scegliere."
 
 #. Max bytes: 12
 msgctxt "Offset_0x24B10_Len_12"
 msgid "Yeah, but..."
-msgstr ""
+msgstr "Sì, ma..."
+
+#. Max bytes: 10
+msgctxt "Offset_0x24C00_Len_10"
+msgid "Hatakeyama"
+msgstr "Hatakeyama"
 
 #. Max bytes: 14
 msgctxt "Offset_0x24C40_Len_14"
 msgid "Yeah, have me?"
-msgstr ""
+msgstr "Sì, e me?"
 
 #. Max bytes: 14
 msgctxt "Offset_0x24C60_Len_14"
 msgid "Yeah, are you?"
-msgstr ""
+msgstr "Sì, e tu?"
 
 #. Max bytes: 15
 msgctxt "Offset_0x24C80_Len_15"
 msgid "Yeah, have you?"
-msgstr ""
+msgstr "Sì, tu l'hai?"
 
 #. Max bytes: 53
 msgctxt "Offset_0x24CA0_Len_53"
 msgid "Wait, have you even tried singin' on the new machine?"
-msgstr ""
+msgstr "Aspetta, ci hai mai cantato con quella nuova?"
 
 #. Max bytes: 49
 msgctxt "Offset_0x25090_Len_49"
 msgid "I haven't. The shower's my only concert hall now."
-msgstr ""
+msgstr "No. La doccia è il mio unico palco ora."
 
 #. Max bytes: 9
 msgctxt "Offset_0x25300_Len_9"
 msgid "For real?"
-msgstr ""
+msgstr "Davvero?"
 
 #. Max bytes: 58
 msgctxt "Offset_0x25510_Len_58"
 msgid "I can't believe you're complainin' about a better machine."
-msgstr ""
+msgstr "Non credo ti lamenti di una macchina migliore."
 
 #. Max bytes: 17
 msgctxt "Offset_0x25770_Len_17"
 msgid "I like spaghetti."
-msgstr ""
+msgstr "Amo gli spaghetti"
 
 #. Max bytes: 37
 msgctxt "Offset_0x257B0_Len_37"
 msgid "It's better to try on shoes at night."
-msgstr ""
+msgstr "Meglio misurare scarpe di sera."
 
 #. Max bytes: 29
 msgctxt "Offset_0x25810_Len_29"
 msgid "Why don't you give it a shot?"
-msgstr ""
+msgstr "Perché non fai una prova?"
 
 #. Max bytes: 29
 msgctxt "Offset_0x25860_Len_29"
 msgid "What do you think, Kiryu-san?"
-msgstr ""
+msgstr "Che ne pensi, Kiryu-san?"
 
 #. Max bytes: 29
 msgctxt "Offset_0x25AA0_Len_29"
 msgid "Why don't you give it a shot?"
-msgstr ""
+msgstr "Perché non fai una prova?"
 
 #. Max bytes: 26
 msgctxt "Offset_0x25CD0_Len_26"
 msgid "Yeah, ya ain't even tried."
-msgstr ""
+msgstr "Già, non c'hai provato."
 
 #. Max bytes: 47
 msgctxt "Offset_0x25FC0_Len_47"
 msgid "Huh? Kiryu-san, were you even paying attention?"
-msgstr ""
+msgstr "Eh? Kiryu-san, mi stavi ascoltando?"
 
 #. Max bytes: 40
 msgctxt "Offset_0x26210_Len_40"
 msgid "Oh, sorry... What were we talking about?"
-msgstr ""
+msgstr "Oh, scusa... Di che parlavamo?"
 
 #. Max bytes: 54
 msgctxt "Offset_0x264E0_Len_54"
 msgid "Gen-san's hating on the new machine without trying it."
-msgstr ""
+msgstr "Gen-san odia la macchina nuova senza provarla."
 
 #. Max bytes: 47
 msgctxt "Offset_0x26800_Len_47"
 msgid "I jus' don't care much fer newfangled gadgetry."
-msgstr ""
+msgstr "Non amo molto queste diavolerie moderne."
 
 #. Max bytes: 44
 msgctxt "Offset_0x26A50_Len_44"
 msgid "I'm still warmin' up to my cordless phone..."
-msgstr ""
+msgstr "Mi sto ancora abituando al mio cordless..."
+
+#. Max bytes: 10
+msgctxt "Offset_0x26B80_Len_10"
+msgid "Hatakeyama"
+msgstr "Hatakeyama"
 
 #. Max bytes: 17
 msgctxt "Offset_0x26BC0_Len_17"
 msgid "Time is relative."
-msgstr ""
+msgstr "Tempo relativo."
 
 #. Max bytes: 31
 msgctxt "Offset_0x26C00_Len_31"
 msgid "I may have met a time leaper..."
-msgstr ""
+msgstr "Ho visto un viaggiatore..."
 
 #. Max bytes: 14
 msgctxt "Offset_0x26C30_Len_14"
 msgid "Well, are you?"
-msgstr ""
+msgstr "Beh, lo sei?"
 
 #. Max bytes: 39
 msgctxt "Offset_0x26C50_Len_39"
 msgid "Gen-san, are ya some kinda time leaper?"
-msgstr ""
+msgstr "Gen-san, sei un viaggiatore temporale?"
 
 #. Max bytes: 12
 msgctxt "Offset_0x26F30_Len_12"
 msgid "'Course not."
-msgstr ""
+msgstr "Ovvio di no."
 
 #. Max bytes: 50
 msgctxt "Offset_0x27140_Len_50"
 msgid "Geez! I mostly bought it for you, y'know, Gen-san!"
-msgstr ""
+msgstr "Cavolo! L'ho presa soprattutto per te, Gen-san!"
 
 #. Max bytes: 28
 msgctxt "Offset_0x273C0_Len_28"
 msgid "Now I'm gonna be in the red!"
-msgstr ""
+msgstr "Finirò in rosso così!"
 
 #. Max bytes: 35
 msgctxt "Offset_0x275F0_Len_35"
 msgid "Ah, figures it comes down to money."
-msgstr ""
+msgstr "Ah, alla fine c'entrano i soldi."
+
+#. Max bytes: 4
+msgctxt "Offset_0x27800_Len_4"
+msgid "Mama"
+msgstr "Mama"
 
 #. Max bytes: 12
 msgctxt "Offset_0x27840_Len_12"
 msgid "That's true."
-msgstr ""
+msgstr "È vero."
 
 #. Max bytes: 22
 msgctxt "Offset_0x27860_Len_22"
 msgid "I ran a business once."
-msgstr ""
+msgstr "Avevo un'attività."
 
 #. Max bytes: 17
 msgctxt "Offset_0x27890_Len_17"
 msgid "A shady business!"
-msgstr ""
+msgstr "Affari loschi!"
 
 #. Max bytes: 33
 msgctxt "Offset_0x278C0_Len_33"
 msgid "Hey, I'm runnin' a business here."
-msgstr ""
+msgstr "Ehi, io gestisco un bar."
 
 #. Max bytes: 60
 msgctxt "Offset_0x27B90_Len_60"
 msgid "C'mon, I jus' don't wanna depend on machines fer everything!"
-msgstr ""
+msgstr "Dai, non voglio dipendere dalle macchine per tutto!"
 
 #. Max bytes: 49
 msgctxt "Offset_0x27E00_Len_49"
 msgid "We're just askin' for the robot uprising, y'know."
-msgstr ""
+msgstr "Chiediamo solo che i robot si ribellino, sai."
+
+#. Max bytes: 4
+msgctxt "Offset_0x28020_Len_4"
+msgid "Mama"
+msgstr "Mama"
 
 #. Max bytes: 11
 msgctxt "Offset_0x28060_Len_11"
 msgid "Good point."
-msgstr ""
+msgstr "Ben detto."
 
 #. Max bytes: 26
 msgctxt "Offset_0x28090_Len_26"
 msgid "Good robots would save us."
-msgstr ""
+msgstr "I buoni robot ci salvano."
 
 #. Max bytes: 26
 msgctxt "Offset_0x280C0_Len_26"
 msgid "Good thing I punch robots."
-msgstr ""
+msgstr "Meno male che li picchio."
 
 #. Max bytes: 47
 msgctxt "Offset_0x280F0_Len_47"
 msgid "The last karaoke machine was still a machine..."
-msgstr ""
+msgstr "Anche l'altro karaoke era una macchina..."
 
 #. Max bytes: 34
 msgctxt "Offset_0x283C0_Len_34"
 msgid "Now now, let's calm down, Gen-san."
-msgstr ""
+msgstr "Su, su, calmiamoci, Gen-san."
 
 #. Max bytes: 48
 msgctxt "Offset_0x28610_Len_48"
 msgid "Yeah, machines just take getting used to. Right?"
-msgstr ""
+msgstr "Già, devi solo abituarti alle macchine. Vero?"
 
 #. Max bytes: 29
 msgctxt "Offset_0x28780_Len_29"
 msgid "A landmine is a powerful too."
-msgstr ""
+msgstr "Anche una mina è potente."
 
 #. Max bytes: 31
 msgctxt "Offset_0x287D0_Len_31"
 msgid "Machines are pretty useful too."
-msgstr ""
+msgstr "Anche le macchine sono utili."
 
 #. Max bytes: 29
 msgctxt "Offset_0x28810_Len_29"
 msgid "Airplanes are nice and comfy."
-msgstr ""
+msgstr "Gli aerei sono comodi."
+
+#. Max bytes: 7
+msgctxt "Offset_0x28850_Len_7"
+msgid "Yeah..."
+msgstr "Sì..."
 
 #. Max bytes: 41
 msgctxt "Offset_0x28A60_Len_41"
 msgid "Machines have their uses if you let them."
-msgstr ""
+msgstr "Le macchine hanno il loro scopo."
 
 #. Max bytes: 13
 msgctxt "Offset_0x28CB0_Len_13"
 msgid "Yup, I agree."
-msgstr ""
+msgstr "Sì, vero."
 
 #. Max bytes: 22
 msgctxt "Offset_0x28F70_Len_22"
 msgid "Huh? What did you say?"
-msgstr ""
+msgstr "Eh? Cosa hai detto?"
 
 #. Max bytes: 47
 msgctxt "Offset_0x291A0_Len_47"
 msgid "S-Sorry, I was thinking about something else..."
-msgstr ""
+msgstr "S-Scusa, stavo pensando ad altro..."
 
 #. Max bytes: 50
 msgctxt "Offset_0x294B0_Len_50"
 msgid "It took me by surprise when it showed up here too."
-msgstr ""
+msgstr "Mi ha sorpreso molto quando è apparsa anche qui."
 
 #. Max bytes: 53
 msgctxt "Offset_0x297B0_Len_53"
 msgid "But y'stayed with the times, right? Y'got used to it?"
-msgstr ""
+msgstr "Ma ti sei aggiornata, giusto? Ti ci sei abituata?"
+
+#. Max bytes: 10
+msgctxt "Offset_0x29900_Len_10"
+msgid "Hatakeyama"
+msgstr "Hatakeyama"
 
 #. Max bytes: 19
 msgctxt "Offset_0x29940_Len_19"
 msgid "I know the feeling."
-msgstr ""
+msgstr "So cosa si prova."
 
 #. Max bytes: 24
 msgctxt "Offset_0x29980_Len_24"
 msgid "I know the karaoke king."
-msgstr ""
+msgstr "Il re del karaoke."
 
 #. Max bytes: 22
 msgctxt "Offset_0x299B0_Len_22"
 msgid "I know a lot of songs."
-msgstr ""
+msgstr "So molte canzoni."
 
 #. Max bytes: 53
 msgctxt "Offset_0x299E0_Len_53"
 msgid "Yeah, I got real worked up trying to get a good rank."
-msgstr ""
+msgstr "Sì, mi sono impegnata per salire di grado."
 
 #. Max bytes: 60
 msgctxt "Offset_0x29BF0_Len_60"
 msgid "Ain't like this bar has a lot of customers t'compete with..."
-msgstr ""
+msgstr "Non che qui ci siano molti clienti con cui competere..."
 
 #. Max bytes: 14
 msgctxt "Offset_0x29E60_Len_14"
 msgid "Shut yer trap."
-msgstr ""
+msgstr "Sta' zitto."
 
 #. Max bytes: 44
 msgctxt "Offset_0x2A070_Len_44"
 msgid "Not the bar's ranking! The national ranking!"
-msgstr ""
+msgstr "Non il grado del bar! Quello nazionale!"
+
+#. Max bytes: 9
+msgctxt "Offset_0x2A2D0_Len_9"
+msgid "National?"
+msgstr "Naz.le?"
 
 #. Max bytes: 63
 msgctxt "Offset_0x2A3F0_Len_63"
 msgid "That machine ranks your score against the whole country online."
-msgstr ""
+msgstr "Ti mette in classifica con tutto il paese online."
 
 #. Max bytes: 54
 msgctxt "Offset_0x2A680_Len_54"
 msgid "The bar may be small, but I can sing against everyone!"
-msgstr ""
+msgstr "Il bar sarà piccolo, ma sfido chiunque!"
+
+#. Max bytes: 4
+msgctxt "Offset_0x2A940_Len_4"
+msgid "Mama"
+msgstr "Mama"
 
 #. Max bytes: 13
 msgctxt "Offset_0x2A980_Len_13"
 msgid "Size matters."
-msgstr ""
+msgstr "Conta eccome."
 
 #. Max bytes: 20
 msgctxt "Offset_0x2A9A0_Len_20"
 msgid "Size doesn't matter."
-msgstr ""
+msgstr "La taglia non conta."
 
 #. Max bytes: 29
 msgctxt "Offset_0x2A9D0_Len_29"
 msgid "It's the motion in the ocean."
-msgstr ""
+msgstr "Conta come lo si usa."
 
 #. Max bytes: 48
 msgctxt "Offset_0x2AA00_Len_48"
 msgid "D'ya guys got a problem with the size of my bar?"
-msgstr ""
+msgstr "Avete problemi con le dimensioni del mio bar?"
 
 #. Max bytes: 29
 msgctxt "Offset_0x2AC00_Len_29"
 msgid "N-National karaoke ranking..."
-msgstr ""
+msgstr "C-Classifica nazionale..."
 
 #. Max bytes: 9
 msgctxt "Offset_0x2B060_Len_9"
 msgid "Good one!"
-msgstr ""
+msgstr "Bella!"
 
 #. Max bytes: 43
 msgctxt "Offset_0x2B080_Len_43"
 msgid "That's incredible! Is that really a thing!?"
-msgstr ""
+msgstr "Incredibile! Esiste davvero?"
 
 #. Max bytes: 12
 msgctxt "Offset_0x2B260_Len_12"
 msgid "Yeah, it is."
-msgstr ""
+msgstr "Già."
 
 #. Max bytes: 24
 msgctxt "Offset_0x2B470_Len_24"
 msgid "Why didn't you tell me!?"
-msgstr ""
+msgstr "Perché non l'hai detto?"
+
+#. Max bytes: 4
+msgctxt "Offset_0x2B6E0_Len_4"
+msgid "Mama"
+msgstr "Mama"
 
 #. Max bytes: 12
 msgctxt "Offset_0x2B720_Len_12"
 msgid "She's right."
-msgstr ""
+msgstr "Ha ragione."
 
 #. Max bytes: 25
 msgctxt "Offset_0x2B740_Len_25"
 msgid "She's busting your balls."
-msgstr ""
+msgstr "Ti sta prendendo in giro"
 
 #. Max bytes: 17
 msgctxt "Offset_0x2B770_Len_17"
 msgid "She's gonna blow!"
-msgstr ""
+msgstr "Esploderà!"
 
 #. Max bytes: 48
 msgctxt "Offset_0x2B7A0_Len_48"
 msgid "Maybe because y'were too busy whinin' to listen!"
-msgstr ""
+msgstr "Forse eri troppo occupato a lagnarti!"
 
 #. Max bytes: 33
 msgctxt "Offset_0x2BAC0_Len_33"
 msgid "It really ain't that complicated."
-msgstr ""
+msgstr "Non è mica così difficile."
 
 #. Max bytes: 22
 msgctxt "Offset_0x2BF10_Len_22"
 msgid "Let's just sing on it!"
-msgstr ""
+msgstr "Cantaci e basta!"
 
 #. Max bytes: 58
 msgctxt "Offset_0x2C130_Len_58"
 msgid "Let's sing on it, Gen-san. I do karaoke from time to time."
-msgstr ""
+msgstr "Cantaci, Gen-san. Faccio karaoke ogni tanto."
 
 #. Max bytes: 34
 msgctxt "Offset_0x2C3A0_Len_34"
 msgid "Yeah... Guess I'll give it a shot."
-msgstr ""
+msgstr "Sì... Immagino che ci proverò."
 
 #. Max bytes: 36
 msgctxt "Offset_0x2C670_Len_36"
 msgid "Yup, you'll have it down in no time."
-msgstr ""
+msgstr "Sì, imparerai in un attimo."
 
 #. Max bytes: 47
 msgctxt "Offset_0x2C7C0_Len_47"
 msgid "Say, Gen-san... What kind of songs do you sing?"
-msgstr ""
+msgstr "Dimmi, Gen-san... Che canzoni canti?"
 
 #. Max bytes: 36
 msgctxt "Offset_0x2C920_Len_36"
 msgid "Y'used to sing a lot of enka, right?"
-msgstr ""
+msgstr "Cantavi molta musica enka, giusto?"
 
 #. Max bytes: 54
 msgctxt "Offset_0x2CA70_Len_54"
 msgid "I do like me some enka, but I wanna do the other song."
-msgstr ""
+msgstr "Mi piace l'enka, ma voglio fare l'altra canzone."
 
 #. Max bytes: 10
 msgctxt "Offset_0x2CBF0_Len_10"
 msgid "Which one?"
-msgstr ""
+msgstr "Quale?"
 
 #. Max bytes: 33
 msgctxt "Offset_0x2CD10_Len_33"
 msgid "It's called \"Today is a Diamond.\""
-msgstr ""
+msgstr "È \"Today is a Diamond\"."
 
 #. Max bytes: 37
 msgctxt "Offset_0x2D150_Len_37"
 msgid "Gen-san, you actually like pop music?"
-msgstr ""
+msgstr "Gen-san, ti piace il pop?"
 
 #. Max bytes: 21
 msgctxt "Offset_0x2D3B0_Len_21"
 msgid "First I'm hearin' it."
-msgstr ""
+msgstr "Mi è nuova."
 
 #. Max bytes: 41
 msgctxt "Offset_0x2D5E0_Len_41"
 msgid "Yeah, I listen to pop every now n' again."
-msgstr ""
+msgstr "Sì, ascolto pop di tanto in tanto."
 
 #. Max bytes: 62
 msgctxt "Offset_0x2D8A0_Len_62"
 msgid "It's been stuck in my head ever since I heard it on the radio."
-msgstr ""
+msgstr "Ce l'ho in testa da quando l'ho sentita alla radio."
 
 #. Max bytes: 58
 msgctxt "Offset_0x2DA10_Len_58"
 msgid "Does that karaoke machine have \"Today is a Diamond\" in it?"
-msgstr ""
+msgstr "Quel karaoke ha anche \"Today is a Diamond\"?"
 
 #. Max bytes: 42
 msgctxt "Offset_0x2DB80_Len_42"
 msgid "'Course it does! I sang it jus' yesterday."
-msgstr ""
+msgstr "Ovvio che c'è! L'ho cantata ieri."
 
 #. Max bytes: 39
 msgctxt "Offset_0x2DCE0_Len_39"
 msgid "All right, then I'm gonna give it a go!"
-msgstr ""
+msgstr "Va bene, allora farò un tentativo!"
 
 #. Max bytes: 68
 msgctxt "Offset_0x2DE40_Len_68"
 msgid "Let's teach you karaoke and take on Japan with \"Today is a Diamond\"!"
-msgstr ""
+msgstr "Spieghiamotelo e sfidiamo il paese con \"Today is a Diamond\"!"
+
+#. Max bytes: 5
+msgctxt "Offset_0x2DFE0_Len_5"
+msgid "Yeah!"
+msgstr "Sì!"
 
 #. Max bytes: 46
 msgctxt "Offset_0x2E100_Len_46"
 msgid "But then, something about using a new machine."
-msgstr ""
+msgstr "Ma usare una nuova macchina è strano."
 
 #. Max bytes: 44
 msgctxt "Offset_0x2E360_Len_44"
 msgid "I'd probably make it explode if I used it..."
-msgstr ""
+msgstr "La farei di certo esplodere usandola..."
 
 #. Max bytes: 23
 msgctxt "Offset_0x2E5B0_Len_23"
 msgid "It's not gonna explode!"
-msgstr ""
+msgstr "Non esploderà!"
 
 #. Max bytes: 44
 msgctxt "Offset_0x2E7E0_Len_44"
 msgid "I'm sure I'll be fine once I start using it."
-msgstr ""
+msgstr "Andrà tutto bene quando la userò."
 
 #. Max bytes: 44
 msgctxt "Offset_0x2EA40_Len_44"
 msgid "But I'll give it a try when I'm in the mood."
-msgstr ""
+msgstr "Ma ci proverò quando sarò dell'umore."
+
+#. Max bytes: 9
+msgctxt "Offset_0x2EBB0_Len_9"
+msgid "Thanks..."
+msgstr "Grazie..."
 
 #. Max bytes: 33
 msgctxt "Offset_0x2ECD0_Len_33"
 msgid "That didn't really go anywhere..."
-msgstr ""
+msgstr "Non ha portato a niente..."
 

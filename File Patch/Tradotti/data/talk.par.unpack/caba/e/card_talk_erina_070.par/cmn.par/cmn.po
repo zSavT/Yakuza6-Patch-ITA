@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 10
 msgctxt "Offset_0x11D54_Len_10"
 msgid "The ocean."
-msgstr ""
+msgstr "Oceano."
 
 #. Max bytes: 14
 msgctxt "Offset_0x11D94_Len_14"
 msgid "The mountains."
-msgstr ""
+msgstr "Montagne."
 
 #. Max bytes: 7
 msgctxt "Offset_0x11DD4_Len_7"
 msgid "A pond."
-msgstr ""
+msgstr "Stagno."
 

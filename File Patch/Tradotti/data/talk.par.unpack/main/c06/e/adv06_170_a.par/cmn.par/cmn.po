@@ -7,58 +7,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x6F7CE_Len_6"
-msgid " ?33s?"
+#. Max bytes: 7
+msgctxt "Offset_0x41F0C_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x4FBB8_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x526D8_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x699C8_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0x88414_Len_7"
+msgid "Oneshot"
 msgstr ""
 
 #. Max bytes: 4
 msgctxt "Offset_0x8911C_Len_4"
 msgid "J[ A"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x8941C_Len_4"
-msgid "} %A"
-msgstr ""
+msgstr "J[ A"
 
 #. Max bytes: 4
 msgctxt "Offset_0x8991C_Len_4"
 msgid "*h A"
-msgstr ""
+msgstr "*h A"
 
 #. Max bytes: 4
 msgctxt "Offset_0x8993C_Len_4"
 msgid "U+ A"
+msgstr "U+ A"
+
+#. Max bytes: 7
+msgctxt "Offset_0x9F808_Len_7"
+msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0x97545_Len_4"
-msgid " );H"
+#. Max bytes: 7
+msgctxt "Offset_0xB02A8_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0xC7998_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0xCC348_Len_7"
+msgid "Oneshot"
+msgstr ""
+
+#. Max bytes: 7
+msgctxt "Offset_0xCD9F8_Len_7"
+msgid "Oneshot"
 msgstr ""
 
 #. Max bytes: 5
 msgctxt "Offset_0xD104F_Len_5"
 msgid ">x s;"
-msgstr ""
+msgstr ">x s;"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3A3B14_Len_4"
 msgid "6Y D"
-msgstr ""
+msgstr "6Y D"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3A3D7C_Len_4"
 msgid "6Y D"
-msgstr ""
+msgstr "6Y D"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3A3FE4_Len_4"
 msgid "6Y D"
-msgstr ""
+msgstr "6Y D"
+
+#. Max bytes: 2
+msgctxt "Offset_0x3A4E5B_Len_2"
+msgid "AH"
+msgstr "AH"
+
+#. Max bytes: 2
+msgctxt "Offset_0x3A64E3_Len_2"
+msgid "AH"
+msgstr "AH"
+
+#. Max bytes: 2
+msgctxt "Offset_0x3A77E7_Len_2"
+msgid "AH"
+msgstr "AH"
+
+#. Max bytes: 2
+msgctxt "Offset_0x3A83D7_Len_2"
+msgid "AH"
+msgstr "AH"
+
+#. Max bytes: 2
+msgctxt "Offset_0x3ACE2B_Len_2"
+msgid "AH"
+msgstr "AH"
+
+#. Max bytes: 2
+msgctxt "Offset_0x3AD093_Len_2"
+msgid "AH"
+msgstr "AH"
+
+#. Max bytes: 2
+msgctxt "Offset_0x3AD1C7_Len_2"
+msgid "AH"
+msgstr "AH"
 
 #. Max bytes: 4
 msgctxt "Offset_0x3C044C_Len_4"
 msgid " OG>"
-msgstr ""
+msgstr " OG>"
 

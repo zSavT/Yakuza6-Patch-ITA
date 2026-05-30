@@ -12,8 +12,3 @@ msgctxt "Offset_0x874_Len_105"
 msgid "Incidents around Kamurocho will now be posted to Troublr.\nSelect a post from the list to begin a mission."
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0x15CE4_Len_4"
-msgid " є?"
-msgstr ""
-

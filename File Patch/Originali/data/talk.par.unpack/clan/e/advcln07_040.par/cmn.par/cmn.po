@@ -17,18 +17,3 @@ msgctxt "Offset_0x24A48_Len_4"
 msgid "i H;"
 msgstr ""
 
-#. Max bytes: 6
-msgctxt "Offset_0x4DCBA_Len_6"
-msgid " >ףp?"
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0x4DDAE_Len_6"
-msgid " >ףp?"
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0x4DEA2_Len_6"
-msgid " >ףp?"
-msgstr ""
-

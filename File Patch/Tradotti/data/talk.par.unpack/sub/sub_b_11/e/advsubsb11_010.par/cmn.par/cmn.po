@@ -10,15 +10,14 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x1681A_Len_6"
 msgid " >L.T="
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x1964C_Len_4"
-msgid " є?"
-msgstr ""
+msgstr " >L.T="
 
 #. Max bytes: 76
 msgctxt "Offset_0x30ECC_Len_76"
-msgid "(I have to take a taxi to the baseball\nfield. I should go before it's dark.)"
+msgid ""
+"(I have to take a taxi to the baseball\n"
+"field. I should go before it's dark.)"
 msgstr ""
+"(Devo prendere un taxi per il campo\n"
+"da baseball. Andrò prima di sera.)"
 
