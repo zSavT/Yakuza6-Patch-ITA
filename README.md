@@ -19,6 +19,8 @@ Analizzando i file, mi sono accorto che il gioco utilizza principalmente i file 
 
 ![](img/cutscene2.jpg)
 
+![](img/negozio.jpg)
+
 
 # Come installare la patch
 
@@ -52,11 +54,26 @@ La posizione dei file di salvataggio di Yakuza 6: The Song of Life su PC può va
 
 Il tool utilizzato per la traduzione si può trovare [qui](https://github.com/zSavT/Yakuza-6-Localization-Tool.git).
 
-## Struttura dei file (Noti al momento)
+## Struttura dei file
 
 Qui sotto è riportata la struttura dei file modificabili, con descrizione breve del file e l'avanzamento della traduzione/valutazione se tradurre o meno il file.
 
->= Sezione in elaborazione
+- __Yakuza 6 - The Song of Life\data\db\e*__
+    - All'interno sono presenti quasi tutti i dialoghi principali del gioco.
+    - [x] Tradotto
+- __Yakuza 6 - The Song of Life\data\auth\e*__
+    - All'interno sono presenti le immagini dei nomi dei personaggi con il ruolo.
+    - [x] Tradotto
+- __Yakuza 6 - The Song of Life\data\hact\e*__
+    - All'interno sono presenti le immagini dei nomi dei personaggi con il ruolo e alcuni testi relativi alle scelte.
+    - [x] Tradotto
+- __Yakuza 6 - The Song of Life\data\talk.par__
+    - All'interno sono alcuni testi relativi alle scelte e dialoghi random.
+    - [x] Tradotto
+- __Yakuza 6 - The Song of Life\data\ui.par__
+    - All'interno sono presenti le grafiche del gioco.
+    - [x] Tradotto
+
 
 # Funzionamento estrazione PAR
 
