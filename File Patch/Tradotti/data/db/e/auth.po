@@ -2225,7 +2225,7 @@ msgstr "L'unico che può tenere al sicuro\r\nquesto bambino... sono io."
 
 msgctxt "28||a02_040||cinema_telop||4||||4"
 msgid "Maybe, but the guy did have\r\n<font_kind=yakuza_italic>some</font_kind> logic behind him."
-msgstr "Forse, ma quel tizio aveva\r\n<font_kind=yakuza_italic>un minimo</font_kind> di logica dalla sua."
+msgstr "Forse, ma il ragionamento di quel tizio\r\naveva <font_kind=yakuza_italic>un minimo</font_kind> di logica."
 
 msgctxt "28||a02_040||cinema_telop||5||||4"
 msgid "People who know you personally are\r\none thing, but to the rest of the world..."
@@ -2601,7 +2601,7 @@ msgstr "Sonno!?"
 
 msgctxt "34||a03_030||cinema_telop||13||||4"
 msgid "Best thing to do now is hold\r\nhim close and wait a while."
-msgstr "La cosa migliore da fare ora è tenerlo\r\nstretto a te e aspettare un po'."
+msgstr "La cosa migliore da fare ora è prenderlo\r\nin braccio e aspettare un po'."
 
 msgctxt "34||a03_030||cinema_telop||14||||4"
 msgid "That's it...?"
@@ -3277,7 +3277,7 @@ msgstr "Andiamo, falle respirare un po'."
 
 msgctxt "42||a04_020||cinema_telop||8||||4"
 msgid "Y'little punks. What're y'thinkin',\r\nhittin' one o' yer customers? Huh!?"
-msgstr "Piccoli teppisti. Che vi salta in mente,\r\ncolpire una vostra cliente? Eh!?"
+msgstr "Piccoli teppisti. Che vi salta in mente,\r\nalzare le mani su una vostra cliente? Eh!?"
 
 msgctxt "42||a04_020||cinema_telop||9||||4"
 msgid "Y'can't get away with shit like that.\r\nI'm gonna break every last one o' ya!"
@@ -3805,7 +3805,7 @@ msgstr "S-Sei stato tu, Capitano?\r\nPerché l'hai fatto?"
 
 msgctxt "45||a04_045||cinema_telop||53||||4"
 msgid "Koshimizu was here. Matsunaga'd be\r\na finger short if I didn't do somethin'."
-msgstr "C'era Koshimizu. Matsunaga avrebbe avuto\r\nun dito in meno se non avessi fatto qualcosa."
+msgstr "C'era Koshimizu. Matsunaga ci avrebbe\r\nrimesso un dito se non avessi fatto qualcosa."
 
 msgctxt "45||a04_045||cinema_telop||54||||4"
 msgid "This whuppin' was all outta the\r\nkindness o' my heart. Ain't that right?"
@@ -4017,7 +4017,7 @@ msgstr "S-Sei stato tu, Capitano?\r\nPerché l'hai fatto?"
 
 msgctxt "46||a04_050||cinema_telop||39||||4"
 msgid "Koshimizu was here. Matsunaga'd be\r\na finger short if I didn't do somethin'."
-msgstr "C'era Koshimizu. Matsunaga avrebbe avuto\r\nun dito in meno se non avessi fatto qualcosa."
+msgstr "C'era Koshimizu. Matsunaga ci avrebbe\r\nrimesso un dito se non avessi fatto qualcosa."
 
 msgctxt "46||a04_050||cinema_telop||40||||4"
 msgid "This whuppin' was all outta the\r\nkindness o' my heart. Ain't that right?"
@@ -4845,7 +4845,7 @@ msgstr "Sai come si dice, non è vero?"
 
 msgctxt "55||a05_070||cinema_telop||34||||4"
 msgid "Live to fight another day!"
-msgstr "Batti in ritirata oggi per combattere domani!"
+msgstr "Chi si ritira oggi, vive per combattere domani!"
 
 msgctxt "55||a05_070||cinema_telop||36||||4"
 msgid "Bastard!"
@@ -5153,7 +5153,7 @@ msgstr "Questa doveva essere una celebrazione.\r\nStai spaventando Kiyomi-san."
 
 msgctxt "57||a05_090||cinema_telop||44||||4"
 msgid "Let's bury the hatchet for today."
-msgstr "Seppelliamo l'ascia di guerra, per oggi."
+msgstr "Mettiamoci una pietra sopra, per oggi."
 
 msgctxt "57||a05_090||cinema_telop||45||||4"
 msgid "But Chairman..."
@@ -5585,7 +5585,7 @@ msgstr "Sei stato un'esca molto efficace, amico."
 
 msgctxt "63||a06_050||cinema_telop||12||||4"
 msgid "By making the Dragon of Dojima kneel to me,\r\nI'll bring the Jingweon into a new epoch."
-msgstr "Facendo inginocchiare a me il Drago di Dojima,\r\nporterò la Jingweon in una nuova era."
+msgstr "Costringendo il Drago di Dojima a inginocchiarsi\r\nal mio cospetto, porterò la Jingweon in una nuova era."
 
 msgctxt "63||a06_050||cinema_telop||13||||4"
 msgid "We will finally forget our grudges of the\r\npast and push forward into the modern era."
@@ -5645,7 +5645,7 @@ msgstr "Andiamo!"
 
 msgctxt "63||a06_050||cinema_telop||27||||4"
 msgid "Everyone here will bear witness.\r\nThe dragon of legend shall be put to rest!"
-msgstr "Tutti i presenti saranno testimoni.\r\nIl drago della leggenda sarà messo a riposo!"
+msgstr "Tutti i presenti saranno testimoni.\r\nIl drago della leggenda sarà sepolto qui oggi!"
 
 msgctxt "63||a06_050||cinema_telop||28||||4"
 msgid "Go, go, go!"
@@ -6029,7 +6029,7 @@ msgstr "Mh?"
 
 msgctxt "72||a08_020||cinema_telop||5||||4"
 msgid "If what you just said is true, you're the\r\nreason Daigo is behind bars right now."
-msgstr "Se quello che hai appena detto è vero, tu sei\r\nil motivo per cui Daigo è dietro le sbarre in questo momento."
+msgstr "Se quello che hai appena detto è vero, è colpa tua se\r\nDaigo è dietro le sbarre in questo momento."
 
 msgctxt "72||a08_020||cinema_telop||6||||4"
 msgid "You know, he was only a child\r\nwhen we first met."
@@ -6425,7 +6425,7 @@ msgstr "Come facevate a sapere di venire qui?"
 
 msgctxt "78||a09_040||cinema_telop||8||||4"
 msgid "The lady over at Snack Hourglass\r\ntold us. Boss loves that place."
-msgstr "Ce l'ha detto la signora dello Snack Hourglass.\r\nIl boss adora quel posto."
+msgstr "Ce l'ha detto la Mama dello Snack Hourglass.\r\nIl boss adora quel posto."
 
 msgctxt "78||a09_040||cinema_telop||9||||4"
 msgid "I see."
@@ -6681,7 +6681,7 @@ msgstr "Se Yuta stesso non sapeva di essere\r\nil padre di Haruto, come fa a ess
 
 msgctxt "81||a10_020||cinema_telop||25||||4"
 msgid "Th-That's a good point!"
-msgstr "Q-Questa è un'ottima osservazione!"
+msgstr "I-Il suo ragionamento non fa una piega!"
 
 msgctxt "81||a10_020||cinema_telop||26||||4"
 msgid "It's sorta hard to explain."
@@ -7657,7 +7657,7 @@ msgstr "Vuoi provarci?"
 
 msgctxt "94||a11_070||cinema_telop||39||||4"
 msgid "I promise you'll be the dead one."
-msgstr "Ti prometto che sarai tu quello morto."
+msgstr "Ti garantisco che a rimetterci la pelle sarai tu."
 
 msgctxt "94||a11_070||cinema_telop||40||||4"
 msgid "Don't think I'll spare yer men, either."
@@ -7677,11 +7677,11 @@ msgstr "I miei sottoposti sono tutti armati."
 
 msgctxt "94||a11_070||cinema_telop||44||||4"
 msgid "Y'think I care what they're packing?"
-msgstr "Pensi che me ne freghi qualcosa di cosa si portano dietro?"
+msgstr "Pensi che mi freghi qualcosa delle loro armi?"
 
 msgctxt "94||a11_070||cinema_telop||45||||4"
 msgid "I didn't expect Kurusu to have\r\nsuch a reptile in his den."
-msgstr "Non mi aspettavo che Kurusu avesse\r\nun simile rettile nella sua tana."
+msgstr "Non mi aspettavo che Kurusu avesse\r\nuna simile serpe nella sua tana."
 
 msgctxt "94||a11_070||cinema_telop||46||||4"
 msgid "Oh, and those two goons y'have watchin'\r\nmy hideout... Tatsukawa n' Masuzoe?"
@@ -8337,7 +8337,7 @@ msgstr "I segreti sono cose divertenti."
 
 msgctxt "101||a12_040||cinema_telop||13||||4"
 msgid "They only stay secret 'cause someone\r\nworks to keep 'em that way."
-msgstr "Restano segreti solo perché qualcuno\r\nlavora per farli rimanere tali."
+msgstr "Restano segreti solo perché qualcuno\r\nsi impegna a mantenerli tali."
 
 msgctxt "101||a12_040||cinema_telop||14||||4"
 msgid "So it really is you."
@@ -9645,7 +9645,7 @@ msgstr "Ora fa' il bravo ragazzo e lascia che Someya ti uccida."
 
 msgctxt "113||a13_070||cinema_telop||16||||4"
 msgid "What happened to you?"
-msgstr "Cosa ti è successo?"
+msgstr "Che ti è preso?"
 
 msgctxt "113||a13_070||cinema_telop||17||||4"
 msgid "Someya!"
@@ -9837,7 +9837,7 @@ msgstr "Credimi..."
 
 msgctxt "115||a13_080||cinema_telop||45||||4"
 msgid "What a tender moment."
-msgstr "Che momento tenero."
+msgstr "Che scena toccante."
 
 msgctxt "115||a13_080||cinema_telop||46||||4"
 msgid "That was a rather touching\r\ndisplay of familial love."
@@ -10169,7 +10169,7 @@ msgstr "Il suo rivale per il cuore di Kiyomi-san\r\nsi è ucciso per salvarla."
 
 msgctxt "124||a13_120||cinema_telop||30||||4"
 msgid "Ain't exactly a level he can compete on."
-msgstr "Non è esattamente un livello a cui possa competere."
+msgstr "Non può di certo competere con un gesto del genere."
 
 msgctxt "124||a13_120||cinema_telop||31||||4"
 msgid "But fer now, he's gotta focus\r\non rebuildin' the Hirose Family."
@@ -11293,15 +11293,15 @@ msgstr "La mia sete di potere è insaziabile."
 
 msgctxt "141||a13_100||cinema_telop||43||||4"
 msgid "All my life he pushed me toward an honest career,\r\nbut that only led me to resent him."
-msgstr "Per tutta la vita mi ha spinto verso una carriera onesta,\r\nma questo mi ha portato solo a risentirmi verso di lui."
+msgstr "Per tutta la vita mi ha spinto verso una carriera onesta,\r\nma questo mi ha portato solo a portargli rancore."
 
 msgctxt "141||a13_100||cinema_telop||44||||4"
 msgid "All my life he pushed me toward an honest career,\r\nbut that only led me to resent him."
-msgstr "Per tutta la vita mi ha spinto verso una carriera onesta,\r\nma questo mi ha portato solo a risentirmi verso di lui."
+msgstr "Per tutta la vita mi ha spinto verso una carriera onesta,\r\nma questo mi ha portato solo a portargli rancore."
 
 msgctxt "141||a13_100||cinema_telop||45||||4"
 msgid "Restricting a child's mobility only\r\npushes them toward rebellion."
-msgstr "Limitare la mobilità di un figlio non fa altro\r\nche spingerlo verso la ribellione."
+msgstr "Limitare la libertà di un figlio non fa altro\r\nche spingerlo verso la ribellione."
 
 msgctxt "141||a13_100||cinema_telop||46||||4"
 msgid "This is where I belong."
