@@ -5,6 +5,7 @@
 </p>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Yakuza6-Patch-ITA)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zSavT/Yakuza6-Patch-ITA/total)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
@@ -40,14 +41,14 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
 
 La posizione dei file di salvataggio di Yakuza 6: The Song of Life su PC può variare a seconda della piattaforma e del metodo di installazione:
 
-*   **Steam:** I file di salvataggio principali si trovano in:
-    `&lt;Percorso installazione Steam&gt;\userdata\&lt;Tuo ID Steam&gt;\1388590\remote\`
-*   **GOG.com:** I salvataggi si trovano tipicamente in:
-    `%LOCALAPPDATA%\GOG.com\Galaxy\Applications\56296606511683989\Storage\Shared\Files\`
-*   **Microsoft Store:** I file di salvataggio sono memorizzati in:
-    `%LOCALAPPDATA%\Packages\SEGAofAmericaInc.Yakuza6PC_s751p9cej88mt\LocalCache\Local\SEGA\Yakuza6\`
-*   **Cartelle Alternative/Locali:** Alcune versioni potrebbero anche salvare i dati in:
-    `%APPDATA%\Sega\Yakuza6\` (Windows) o `%LOCALAPPDATA%\Yakuza 6: The Song of Life\SaveGames\`
+* **Steam:** I file di salvataggio principali si trovano in:
+  `<Percorso installazione Steam>\userdata\<Tuo ID Steam>\1388590\remote\`
+* **GOG.com:** I salvataggi si trovano tipicamente in:
+  `%LOCALAPPDATA%\GOG.com\Galaxy\Applications\56296606511683989\Storage\Shared\Files\`
+* **Microsoft Store:** I file di salvataggio sono memorizzati in:
+  `%LOCALAPPDATA%\Packages\SEGAofAmericaInc.Yakuza6PC_s751p9cej88mt\LocalCache\Local\SEGA\Yakuza6\`
+* **Cartelle Alternative/Locali:** Alcune versioni potrebbero anche salvare i dati in:
+  `%APPDATA%\Sega\Yakuza6\` (Windows) o `%LOCALAPPDATA%\Yakuza 6: The Song of Life\SaveGames\`
 
 
 ## Tool di decodifica
@@ -169,7 +170,7 @@ Lista dei progetti di patch in italiano per i giochi della serie:
     - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 4.
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
     - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5.
-- [Yakuza 6](https://github.com/zSavT/Yakuza6-Patch-ITA)
+- Yakuza 6
     - Questo progetto.
 
 
