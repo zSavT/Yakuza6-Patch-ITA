@@ -1102,35 +1102,35 @@ msgstr "Insegui quel drone!"
 
 msgctxt "427||s_SUB_A_08_01||title"
 msgid "Baring Their Fangs"
-msgstr "A zanne scoperte"
+msgstr "Mostrare le zanne"
 
 msgctxt "428||s_SUB_A_08_02||title"
 msgid "Baring Their Fangs"
-msgstr "A zanne scoperte"
+msgstr "Mostrare le zanne"
 
 msgctxt "429||s_SUB_A_08_03||title"
 msgid "Baring Their Fangs"
-msgstr "A zanne scoperte"
+msgstr "Mostrare le zanne"
 
 msgctxt "430||s_SUB_A_08_04||title"
 msgid "Baring Their Fangs"
-msgstr "A zanne scoperte"
+msgstr "Mostrare le zanne"
 
 msgctxt "431||s_SUB_A_08_05||title"
 msgid "Baring Their Fangs"
-msgstr "A zanne scoperte"
+msgstr "Mostrare le zanne"
 
 msgctxt "434||s_SUB_A_09_01||title"
 msgid "A Rivalry Reborn"
-msgstr "Rinascita di una rivalità"
+msgstr "Una rivalità rinata"
 
 msgctxt "435||s_SUB_A_09_02||title"
 msgid "A Rivalry Reborn"
-msgstr "Rinascita di una rivalità"
+msgstr "Una rivalità rinata"
 
 msgctxt "436||s_SUB_A_09_03||title"
 msgid "A Rivalry Reborn"
-msgstr "Rinascita di una rivalità"
+msgstr "Una rivalità rinata"
 
 msgctxt "437||s_SUB_A_11_01||title"
 msgid "Swipe Right"
@@ -1182,11 +1182,11 @@ msgstr "Un affare losco"
 
 msgctxt "449||s_SUB_A_18_01||title"
 msgid "Caught in a Love Triangle"
-msgstr "In un triangolo amoroso"
+msgstr "Preso in un triangolo amoroso"
 
 msgctxt "450||s_SUB_A_24_01||title"
 msgid "The Temptation of Live Chat"
-msgstr "La tentazione della live chat"
+msgstr "La tentazione della Live Chat"
 
 msgctxt "451||s_SUB_A_26_01||title"
 msgid "A Man Rises Up"
@@ -1754,7 +1754,7 @@ msgstr "Affronta le tue paure"
 
 msgctxt "597||s_SUB_A_18_02||title"
 msgid "Caught in a Love Triangle"
-msgstr "In un triangolo amoroso"
+msgstr "Preso in un triangolo amoroso"
 
 msgctxt "598||s_SUB_A_19_03||title"
 msgid "Hostess with a Heart of Gold"
@@ -1850,7 +1850,7 @@ msgstr "Ritorna a Onomichi"
 
 msgctxt "621||s_SUB_A_23_01||title"
 msgid "Look What the Dragon Dragged In"
-msgstr "Guarda cosa ha portato il drago"
+msgstr "Guarda cosa ha portato il Drago"
 
 msgctxt "623||m_adv12_115||title"
 msgid "Go to the Hirose Family Office"
@@ -1934,7 +1934,7 @@ msgstr "Trova Yuta"
 
 msgctxt "644||s_SUB_A_18_00||title"
 msgid "Caught in a Love Triangle"
-msgstr "In un triangolo amoroso"
+msgstr "Preso in un triangolo amoroso"
 
 msgctxt "645||s_SUB_A_03_08||title"
 msgid "Haruka's Biggest Fan"
