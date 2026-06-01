@@ -777,7 +777,7 @@ msgstr "A certe cose non ci avevo mai davvero\r\npensato, prima d'ora."
 
 msgctxt "7||a01_060||cinema_telop||33||||4"
 msgid "But that's why even if we're not\r\ntogether... I'll keep my chin up."
-msgstr "Ma è per questo che, anche se non siamo\r\ninsieme... terrò la testa alta."
+msgstr "Ma è per questo che, anche se non siamo\r\ninsieme... non mi abbatterò."
 
 msgctxt "7||a01_060||cinema_telop||34||||4"
 msgid "No matter how far apart we are,\r\nwe're still family. I know that in my heart."
@@ -1401,7 +1401,7 @@ msgstr "Se siete davvero qui per parlare, che ci\r\nfate con quella pistola in t
 
 msgctxt "18||a01_120||cinema_telop||8||||4"
 msgid "You'd have us stroll into triad turf\r\nwithout some form of self-defense?"
-msgstr "Vorresti che passeggiassimo nel territorio della Triade\r\nsenza alcun tipo di difesa personale?"
+msgstr "Vorresti che mettessimo piede nel territorio della Triade\r\nsenza alcun tipo di difesa personale?"
 
 msgctxt "18||a01_120||cinema_telop||9||||4"
 msgid "Let's just keep this civil."
@@ -1513,7 +1513,7 @@ msgstr "Ehm... Beh..."
 
 msgctxt "19||a01_130||cinema_telop||6||||4"
 msgid "Come on in.\r\nTake a load off."
-msgstr "Vieni dentro.\r\nRiposati."
+msgstr "Vieni dentro.\r\nMettiti comodo."
 
 msgctxt "19||a01_130||cinema_telop||7||||4"
 msgid "As you can probably tell,\r\nthat's about all I can offer."
@@ -2741,7 +2741,7 @@ msgstr "Pensavo che Nagumo dovesse\r\nprendere il baseball sul serio."
 
 msgctxt "36||a03_050||cinema_telop||4||||4"
 msgid "He usually does, but today he's\r\nreally out for blood."
-msgstr "Di solito lo fa, ma oggi è\r\ndavvero in cerca di sangue."
+msgstr "Di solito lo fa, ma oggi\r\nha il sangue agli occhi."
 
 msgctxt "36||a03_050||cinema_telop||6||||4"
 msgid "C'mon! Y'hurtin'?\r\nDon't y'wanna fight me, Ino!?"
@@ -2821,7 +2821,7 @@ msgstr "Niente di personale, chiaro?"
 
 msgctxt "36||a03_050||cinema_telop||25||||4"
 msgid "I'm gon' smash yer goddamn face in.\r\nWatch close, y'lousy rat!"
-msgstr "Ti spaccherò quella dannata faccia.\r\nGuarda bene, lurido ratto!"
+msgstr "Ti spaccherò quella dannata faccia.\r\nStai a guardare, lurido verme!"
 
 msgctxt "36||a03_050||cinema_telop||26||||4"
 msgid "Dieee!"
@@ -2961,7 +2961,7 @@ msgstr "Ehi, Nagumo.\r\nProprio il tizio di cui avevo bisogno."
 
 msgctxt "39||a03_080||cinema_telop||1||||4"
 msgid "I'm done waitin' on yer sorry ass!"
-msgstr "Mi sono stancato di aspettare il tuo inutile culo!"
+msgstr "Mi sono rotto le palle di aspettare i tuoi comodi!"
 
 msgctxt "39||a03_080||cinema_telop||2||||4"
 msgid "Please, I'll pay what I owe."
@@ -3205,7 +3205,7 @@ msgstr "Davvero? È così?"
 
 msgctxt "41||a04_010||cinema_telop||23||||4"
 msgid "Coulda fooled me, right?"
-msgstr "Mi aveva quasi fregato, eh?"
+msgstr "Non l'avrei mai detto, eh?"
 
 msgctxt "41||a04_010||cinema_telop||24||||4"
 msgid "Can't say I blame ya for thinkin he's yakuza.\r\nAniki here's tough as they come, boss."
@@ -3525,7 +3525,7 @@ msgstr "Erano decisamente coinvolti con\r\nHaruka in qualche modo mentre era qui
 
 msgctxt "44||a04_040||cinema_telop||7||||4"
 msgid "I can't really talk,\r\nbut they're pretty bad liars."
-msgstr "Non sono uno che parla molto,\r\nma sono dei pessimi bugiardi."
+msgstr "Non che io possa fare prediche,\r\nma sono dei pessimi bugiardi."
 
 msgctxt "44||a04_040||cinema_telop||8||||4"
 msgid "If they're going to lie,\r\nthey should learn to act."
@@ -3773,7 +3773,7 @@ msgstr "Matsunaga-aniki.\r\nNon hai dovuto tagliarti il dito?"
 
 msgctxt "45||a04_045||cinema_telop||45||||4"
 msgid "They really let you off the hook."
-msgstr "Ti hanno davvero lasciato andare."
+msgstr "Te l'hanno davvero fatta passare liscia."
 
 msgctxt "45||a04_045||cinema_telop||46||||4"
 msgid "Wait, but..."
@@ -3809,7 +3809,7 @@ msgstr "C'era Koshimizu. Matsunaga avrebbe avuto\r\nun dito in meno se non avess
 
 msgctxt "45||a04_045||cinema_telop||54||||4"
 msgid "This whuppin' was all outta the\r\nkindness o' my heart. Ain't that right?"
-msgstr "Questa batosta gliel'ho data solo per la\r\nbontà del mio cuore. Non è vero?"
+msgstr "Questa batosta gliel'ho data solo per il\r\nsuo bene. Non è vero?"
 
 msgctxt "45||a04_045||cinema_telop||55||||4"
 msgid "U-Uh, right..."
@@ -4021,7 +4021,7 @@ msgstr "C'era Koshimizu. Matsunaga avrebbe avuto\r\nun dito in meno se non avess
 
 msgctxt "46||a04_050||cinema_telop||40||||4"
 msgid "This whuppin' was all outta the\r\nkindness o' my heart. Ain't that right?"
-msgstr "Questa batosta è stata tutta per la\r\nbontà del mio cuore. Non è vero?"
+msgstr "Questa batosta gliel'ho data solo per il\r\nsuo bene. Non è vero?"
 
 msgctxt "46||a04_050||cinema_telop||41||||4"
 msgid "U-Uh, right..."
@@ -4177,7 +4177,7 @@ msgstr "È senza speranza!"
 
 msgctxt "48||a05_010||cinema_telop||8||||4"
 msgid "A face like that ain't gonna stop\r\na baby from cryin', Cap."
-msgstr "Una faccia del genere non fermerà\r\nun bambino dal piangere, Capitano."
+msgstr "Una faccia del genere non farà smettere\r\ndi piangere un bambino, Capitano."
 
 msgctxt "48||a05_010||cinema_telop||9||||4"
 msgid "What's that s'posed t'mean!?"
@@ -4293,7 +4293,7 @@ msgstr "Voglio sapere perché un patriarca del\r\nClan Tojo si trova qui ad Hiro
 
 msgctxt "50||a05_030||cinema_telop||17||||4"
 msgid "Easy now, it's nothing you need\r\nto put up your fists about."
-msgstr "Calma, non è niente per cui tu debba\r\nalzare i pugni."
+msgstr "Calma, non è il caso di\r\narrivare alle mani."
 
 msgctxt "50||a05_030||cinema_telop||18||||4"
 msgid "I'm here to swear an oath. Between myself\r\nand the Yomei Alliance's Koshimizu-san."
@@ -4425,7 +4425,7 @@ msgstr "Voglio sapere perché un patriarca del\r\nClan Tojo si trova qui ad Hiro
 
 msgctxt "51||a05_035||cinema_telop||6||||4"
 msgid "Easy now, it's nothing you need\r\nto put up your fists about."
-msgstr "Calma, non è niente per cui tu debba\r\nalzare i pugni."
+msgstr "Calma, non è il caso di\r\narrivare alle mani."
 
 msgctxt "51||a05_035||cinema_telop||7||||4"
 msgid "I'm here to swear an oath. Between myself\r\nand the Yomei Alliance's Koshimizu-san."
@@ -4733,7 +4733,7 @@ msgstr "Immagino dobbiamo comunque cercare lì dentro, però."
 
 msgctxt "55||a05_070||cinema_telop||5||||4"
 msgid "This shit's intense.\r\nWhat kinda room is this!?"
-msgstr "Questa merda è intensa.\r\nChe razza di stanza è!?"
+msgstr "È una roba allucinante.\r\nChe razza di stanza è!?"
 
 msgctxt "55||a05_070||cinema_telop||6||||4"
 msgid "It's too freakin' hot!\r\nSorry, I gotta get outta here."
@@ -4833,7 +4833,7 @@ msgstr "Stai dicendo di essere un codardo, allora."
 
 msgctxt "55||a05_070||cinema_telop||31||||4"
 msgid "Let's not jump to any conclusions.\r\nI haven't lost this fight just yet."
-msgstr "Non saltiamo a conclusioni affrettate.\r\nNon ho ancora perso questo scontro."
+msgstr "Non traiamo conclusioni affrettate.\r\nNon ho ancora perso questo scontro."
 
 msgctxt "55||a05_070||cinema_telop||32||||4"
 msgid "Hm?"
@@ -4845,7 +4845,7 @@ msgstr "Sai come si dice, non è vero?"
 
 msgctxt "55||a05_070||cinema_telop||34||||4"
 msgid "Live to fight another day!"
-msgstr "Vivi per combattere un altro giorno!"
+msgstr "Batti in ritirata oggi per combattere domani!"
 
 msgctxt "55||a05_070||cinema_telop||36||||4"
 msgid "Bastard!"
@@ -5369,7 +5369,7 @@ msgstr "Mh?"
 
 msgctxt "59||a06_010||cinema_telop||4||||4"
 msgid "I can't let Tatsukawa go."
-msgstr "Non posso lasciar correre su Tatsukawa."
+msgstr "Non posso farla passare liscia a Tatsukawa."
 
 msgctxt "59||a06_010||cinema_telop||5||||4"
 msgid "That son of a bitch. He's gonna pay\r\nfer what he did to Haruka-chan."
@@ -5529,7 +5529,7 @@ msgstr "Un posto piuttosto volgare, vero?"
 
 msgctxt "62||a06_040||cinema_telop||4||||4"
 msgid "But I must say, this stimulation is\r\nexactly what Stardust was missing."
-msgstr "Ma devo dire che questi stimoli sono\r\nesattamente ciò che mancava allo Stardust."
+msgstr "Ma devo dire che questa eccitazione è\r\nesattamente ciò che mancava allo Stardust."
 
 msgctxt "62||a06_040||cinema_telop||5||||4"
 msgid "They even call it..."
@@ -5977,11 +5977,11 @@ msgstr "Non puoi lasciare che un civile continui a girare\r\ncome se fosse il pa
 
 msgctxt "71||a08_005||cinema_telop||14||||4"
 msgid "This is the dawn of your time at\r\nthe head of the clan, Someya-san."
-msgstr "Questa è l'alba del tuo periodo\r\nalla guida del clan, Someya-san."
+msgstr "Sei solo agli albori della tua\r\nguida del clan, Someya-san."
 
 msgctxt "71||a08_005||cinema_telop||15||||4"
 msgid "Tell that washed-up old fuck to\r\ncrawl back into his hole."
-msgstr "Di' a quel vecchio rincoglionito finito\r\ndi strisciare di nuovo nel suo buco."
+msgstr "Di' a quel vecchio rincoglionito finito\r\ndi tornarsene a strisciare nel buco da cui è uscito."
 
 msgctxt "71||a08_005||cinema_telop||16||||4"
 msgid "Old fuck?"
@@ -6061,7 +6061,7 @@ msgstr "Questo non dovrebbe essere una sorpresa."
 
 msgctxt "72||a08_020||cinema_telop||13||||4"
 msgid "Your ability to succeed with such\r\nminimal planning... It's impressive."
-msgstr "La tua capacità di avere successo con una\r\npianificazione così minima... è impressionante."
+msgstr "La tua capacità di trionfare con\r\ncosì poca pianificazione... è impressionante."
 
 msgctxt "72||a08_020||cinema_telop||14||||4"
 msgid "Hm?"
@@ -6505,7 +6505,7 @@ msgstr "Yuta Usami."
 
 msgctxt "79||a09_050||cinema_telop||11||||4"
 msgid "It's been under yer noses all along."
-msgstr "È stato sotto i vostri nasi per tutto questo tempo."
+msgstr "Lo avete avuto sotto il naso per tutto questo tempo."
 
 msgctxt "79||a09_050||cinema_telop||12||||4"
 msgid "You are Haruto Sawamura's father."
@@ -6589,7 +6589,7 @@ msgstr "Yuta Usami."
 
 msgctxt "81||a10_020||cinema_telop||2||||4"
 msgid "It's been under yer noses all along.\r\nYou are Haruto Sawamura's father."
-msgstr "È stato sotto i vostri nasi per tutto questo tempo.\r\nTu sei il padre di Haruto Sawamura."
+msgstr "Lo avete avuto sotto il naso per tutto questo tempo.\r\nTu sei il padre di Haruto Sawamura."
 
 msgctxt "81||a10_020||cinema_telop||3||||4"
 msgid "F-For real?"
@@ -6637,7 +6637,7 @@ msgstr "Quando sei stato con Haruka-chan, uh..."
 
 msgctxt "81||a10_020||cinema_telop||14||||4"
 msgid "Y'didn't think to bag it up?"
-msgstr "Non hai pensato a mettere il cappuccio?"
+msgstr "Non ti è venuto in mente di usare delle precauzioni?"
 
 msgctxt "81||a10_020||cinema_telop||15||||4"
 msgid "C'mon, Yuta."
@@ -6681,7 +6681,7 @@ msgstr "Se Yuta stesso non sapeva di essere\r\nil padre di Haruto, come fa a ess
 
 msgctxt "81||a10_020||cinema_telop||25||||4"
 msgid "Th-That's a good point!"
-msgstr "Q-Questo è un ottimo punto!"
+msgstr "Q-Questa è un'ottima osservazione!"
 
 msgctxt "81||a10_020||cinema_telop||26||||4"
 msgid "It's sorta hard to explain."
@@ -7077,7 +7077,7 @@ msgstr "Ma ogni volta..."
 
 msgctxt "85||a10_060||cinema_telop||17||||4"
 msgid "...He'd give me the brightest little smile."
-msgstr "...Mi regalava un sorrisino luminoso."
+msgstr "...Mi regalava il più bello dei sorrisi."
 
 msgctxt "85||a10_060||cinema_telop||18||||4"
 msgid "I don't know what I'd do\r\nif I couldn't see that smile again!"
@@ -7629,7 +7629,7 @@ msgstr "La tua preziosa linea di sangue\r\ngiungerà al termine."
 
 msgctxt "94||a11_070||cinema_telop||32||||4"
 msgid "And I know how much\r\nyou value that blood stuff."
-msgstr "E so quanto ci tieni\r\na questa roba del sangue."
+msgstr "E so quanto tu tenga\r\na quelle storie sui legami di sangue."
 
 msgctxt "94||a11_070||cinema_telop||33||||4"
 msgid "That what you want?"
@@ -7729,7 +7729,7 @@ msgstr "Sono certo che le sembrerà abbastanza strano."
 
 msgctxt "94||a11_070||cinema_telop||57||||4"
 msgid "I was in my compound guarded by\r\nover a hundred able men."
-msgstr "Mi trovavo nel mio complesso, sorvegliato da\r\noltre cento uomini addestrati."
+msgstr "Mi trovavo nella mia tenuta, sorvegliato da\r\noltre cento uomini addestrati."
 
 msgctxt "94||a11_070||cinema_telop||58||||4"
 msgid "And yet, a single old man with a gun\r\nforced me to accept his terms."
@@ -7745,7 +7745,7 @@ msgstr "...ho immediatamente revocato l'ordine che avevo dato\r\na Masuzoe e Tat
 
 msgctxt "95||a11_080||cinema_telop||3||||4"
 msgid "However, Tsuneo Iwami had already\r\nsunk his fangs into Tatsukawa by then."
-msgstr "Tuttavia, a quel punto Tsuneo Iwami aveva\r\ngià affondato le sue zanne in Tatsukawa."
+msgstr "Tuttavia, a quel punto Tsuneo Iwami aveva\r\ngià messo gli artigli su Tatsukawa."
 
 msgctxt "95||a11_080||cinema_telop||4||||4"
 msgid "Then came the hit-and-run in Kamurocho."
@@ -10321,7 +10321,7 @@ msgstr "Non ho alcun diritto di dirlo, ma\r\nmi consideravo tuo padre."
 
 msgctxt "126||a13_140||cinema_telop||4||||4"
 msgid "The things I should have told you over\r\nthe years have piled up like a mountain."
-msgstr "Le cose che avrei dovuto dirti negli\r\nanni si sono accumulate come una montagna."
+msgstr "Le cose che avrei dovuto dirti negli\r\nanni si sono accumulate a dismisura."
 
 msgctxt "126||a13_140||cinema_telop||5||||4"
 msgid "I failed you, though.\r\nSo much has been left unsaid."
@@ -10377,7 +10377,7 @@ msgstr "Persino in questa dura realtà, cercavano di affermare\r\ni loro legami.
 
 msgctxt "126||a13_140||cinema_telop||18||||4"
 msgid "But... that wasn't the answer."
-msgstr "Ma... non era quella la risposta."
+msgstr "Ma... non era quella la soluzione."
 
 msgctxt "126||a13_140||cinema_telop||19||||4"
 msgid "They simply didn't spend enough time together\r\nas a family. And it ruined them."
@@ -11609,7 +11609,7 @@ msgstr "Stiamo spegnendo incendi a destra e a manca."
 
 msgctxt "142||a13_160||cinema_telop||40||||4"
 msgid "But I suppose all fires burn out in time.\r\nWe simply have to wait."
-msgstr "Ma suppongo che tutti i fuochi si estinguano col tempo.\r\nDobbiamo semplicemente aspettare."
+msgstr "Ma suppongo che tutti gli incendi si estinguano col tempo.\r\nDobbiamo semplicemente aspettare."
 
 msgctxt "142||a13_160||cinema_telop||41||||4"
 msgid "It's also possible for a small spark to\r\nerupt into a swirling inferno."
@@ -11861,7 +11861,7 @@ msgstr "Cavolo..."
 
 msgctxt "142||a13_160||cinema_telop||103||||4"
 msgid "I'm really sticking my neck out for him."
-msgstr "Sto davvero rischiando il collo per lui."
+msgstr "Sto davvero rischiando grosso per lui."
 
 msgctxt "142||a13_160||cinema_telop||104||||4"
 msgid "Stubborn sonuvabitch."
