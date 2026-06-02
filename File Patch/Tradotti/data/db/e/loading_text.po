@@ -29,7 +29,7 @@ msgstr "Questa demo rappresenta un lavoro in corso.\r\nLa versione finale potreb
 
 msgctxt "6||hiroshima_prefecture||text"
 msgid "Hiroshima Prefecture\r\n\r\nNamed for its capital city meaning \"broad island,\" this region of Japan\r\nis known for its oysters, ocean views, rolling mountains, and its\r\nbaked treat, the \"momiji manju,\" a type of steamed bun.\r\n"
-msgstr "Prefettura di Hiroshima\r\n\r\nPrende il nome dal suo capoluogo, il cui nome significa \"isola ampia\".\r\nQuesta regione del Giappone è nota per le sue ostriche, i panorami oceanici,\r\nle montagne ondeggianti e il suo dolce tipico, il \"momiji manju\",\r\nun tipo di panino cotto al vapore.\r\n"
+msgstr "Prefettura di Hiroshima\r\n\r\nPrende il nome dal suo capoluogo, il cui nome significa \"isola ampia\".\r\nQuesta regione del Giappone è nota per le sue ostriche, i panorami oceanici,\r\ni dolci rilievi e il suo dolce tipico, il \"momiji manju\",\r\nun tipo di panino cotto al vapore.\r\n"
 
 msgctxt "7||the_omi_alliance||text"
 msgid "The Omi Alliance\r\n\r\nThe reigning yakuza faction in the Kansai region, based in\r\nSotenbori, Osaka. Their power rivals that of the Tojo Clan."
@@ -101,7 +101,7 @@ msgstr "Storia del Clan Tojo\r\n\r\nKazuma Kiryu passò la presidenza al quinto 
 
 msgctxt "24||history_of_the_tojo_clan_6||text"
 msgid "History of the Tojo Clan\r\n\r\nWithout a chairman in 2006, the Tojo Clan was held together by\r\nOsamu Kashiwagi and Sohei Dojima's widow, Yayoi Dojima, until her\r\nson, Daigo Dojima, became the sixth chairman at Kiryu's insistence."
-msgstr "Storia del Clan Tojo\r\n\r\nRasto senza un presidente nel 2006, il Clan Tojo fu tenuto unito da\r\nOsamu Kashiwagi e dalla vedova di Sohei Dojima, Yayoi Dojima, finché\r\nsuo figlio, Daigo Dojima, divenne il sesto presidente su insistenza di Kiryu."
+msgstr "Storia del Clan Tojo\r\n\r\nRimasto senza un presidente nel 2006, il Clan Tojo fu tenuto unito da\r\nOsamu Kashiwagi e dalla vedova di Sohei Dojima, Yayoi Dojima, finché\r\nsuo figlio, Daigo Dojima, divenne il sesto presidente su insistenza di Kiryu."
 
 msgctxt "25||the_jingweon_mafia||text"
 msgid "The Jingweon Mafia\r\n\r\nA Korean crime syndicate that was all but eradicated by the Dojima\r\nFamily in the early 80s but resurfaced in 2006 in a plot to destroy \r\nthe entire Tojo Clan. They were pushed back by Kazuma Kiryu and\r\nhis allies."
@@ -113,7 +113,7 @@ msgstr "Il massacro dei Jingweon\r\n\r\nNei primi anni '80, due membri della Fam
 
 msgctxt "27||poem_stones||text"
 msgid "Poem Stones\r\n\r\nInspired by Onomichi's natural beauty, many famous poets have had\r\ntheir verses inscribed on the stones dotting the streets. Pause for\r\na moment and read them if you spot one."
-msgstr "Pietre dei poeti\r\n\r\nIspirati dalla bellezza naturale di Onomichi, molti famosi poeti hanno fatto\r\nincidere i propri versi sulle pietre che costellano le strade. Fermati un\r\nmomento a leggerli se ne avvisti uno."
+msgstr "Pietre dei poeti\r\n\r\nIspirati dalla bellezza naturale di Onomichi, molti famosi poeti hanno fatto\r\nincidere i propri versi sulle pietre che costellano le strade. Fermati un\r\nmomento a leggerli se ne avvisti una."
 
 msgctxt "28||the_ropeway||text"
 msgid "The Ropeway\r\n\r\nWhile visiting Onomichi, one would be remiss not to ride\r\nthe ropeway on their trip up the hillside to Senkoji Temple.\r\nMost who visit choose to ride up and walk back down."
@@ -133,7 +133,7 @@ msgstr "Mikan\r\n\r\nUno dei frutti invernali preferiti nel Giappone occidentale
 
 msgctxt "32||onomichi_ramen||text"
 msgid "Onomichi Ramen\r\n\r\nEvery region of Japan has its own style of noodles, and Onomichi is\r\nno different. This ramen is notable for its straight noodles and bits\r\nof pork fat floating in soy-sauce-based broth."
-msgstr "Onomichi Ramen\r\n\r\nOgni regione del Giappone ha il suo stile di spaghetti, e Onomichi non\r\nfa eccezione. Questo ramen è noto per i suoi spaghetti dritti e pezzetti\r\ndi grasso di maiale che galleggiano nel brodo a base di salsa di soia."
+msgstr "Onomichi Ramen\r\n\r\nOgni regione del Giappone ha i propri tipi di noodle, e Onomichi non\r\nfa eccezione. Questo ramen è noto per i suoi noodle dritti e pezzetti\r\ndi grasso di maiale che galleggiano nel brodo a base di salsa di soia."
 
 msgctxt "33||jingaicho_onomichi||text"
 msgid "Jingaicho, Onomichi\r\n\r\nQuiet streets lined by the softly glowing signs of snack bars, \r\nJingaicho is home to numerous dives that service the locals.\r\nOften run by a single \"mama,\" they cater to clientele looking for\r\na drink and a conversation."
@@ -141,7 +141,7 @@ msgstr "Jingaicho, Onomichi\r\n\r\nStrade tranquille costeggiate dalle insegne s
 
 msgctxt "34||senkoji_temple||text"
 msgid "Senkoji Temple\r\n\r\nSaid to have been established over 1200 years ago, this temple is\r\nperched on a hill overlooking Onomichi and has been the \r\nsubject of artists and writers since times immemorable."
-msgstr "Tempio Senkoji\r\n\r\nSi dice che sia stato fondato oltre 1200 anni fa. Questo tempio è\r\narroccato su una collina che domina Onomichi ed è stato\r\nsoggetto di artisti e scrittori da tempi immemorabili."
+msgstr "Tempio Senkoji\r\n\r\nSi dice che sia stato fondato oltre 1200 anni fa. Questo tempio è\r\narroccato su una collina che domina Onomichi ed è stato\r\nfonte d'ispirazione per artisti e scrittori da tempi immemorabili."
 
 msgctxt "35||hiroshima_oysters||text"
 msgid "Hiroshima Oysters\r\n\r\nCaught fresh out of the Seto Inner Sea, Hiroshima \"kaki\" are known\r\nthroughout the country as being some of the finest.\r\n\r\n"
@@ -161,7 +161,7 @@ msgstr "Daigo Dojima\r\n\r\nIl sesto presidente del Clan Tojo, nominato nel 2006
 
 msgctxt "39||makoto_date||text"
 msgid "Makoto Date\r\n\r\nOnce in charge of Kiryu's murder case in 1995, the two became friends\r\nafter his release. Date has been a cop, a journalist, and a bartender,\r\nbut police work runs in his blood."
-msgstr "Makoto Date\r\n\r\nUn tempo incaricato del caso di omicidio di Kiryu nel 1995, i due sono\r\ndiventati amici dopo il suo rilascio. Date è stato un poliziotto, un giornalista\r\ne un barista, ma il lavoro in polizia gli scorre nel sangue."
+msgstr "Makoto Date\r\n\r\nUn tempo incaricato del caso di omicidio di Kiryu nel 1995, i due sono\r\ndiventati amici dopo il suo rilascio. Date è stato un poliziotto, un giornalista\r\ne un barista, ma il lavoro in polizia gli scorre nelle vene."
 
 msgctxt "40||shintaro_kazama||text"
 msgid "Shintaro Kazama\r\n\r\nThe founder of Sunflower Orphanage, where both Kiryu and Haruka\r\ngrew up. He was a model yakuza, earning the trust and respect of the\r\nentire city. Kiryu considered him a father."
@@ -169,11 +169,11 @@ msgstr "Shintaro Kazama\r\n\r\nIl fondatore dell'orfanotrofio Sunflower, dove so
 
 msgctxt "41||akira_nishikiyama||text"
 msgid "Akira Nishikiyama\r\n\r\nOnce Kiryu's oath brother, the two were torn apart by Nishiki's ambition\r\nto claim the Tojo Clan chairmanship. Their relationship ended in blows\r\nand an explosion atop the Millennium Tower."
-msgstr "Akira Nishikiyama\r\n\r\nUn tempo fratello di sangue di Kiryu, i due furono separati dall'ambizione\r\ndi Nishiki di reclamare la presidenza del Clan Tojo. Il loro rapporto finì\r\na colpi di scena e un'esplosione in cima alla Millennium Tower."
+msgstr "Akira Nishikiyama\r\n\r\nUn tempo fratello di sangue di Kiryu, i due furono separati dall'ambizione\r\ndi Nishiki di reclamare la presidenza del Clan Tojo. Il loro rapporto finì\r\nalle mani e un'esplosione in cima alla Millennium Tower."
 
 msgctxt "42||goro_majima||text"
 msgid "Goro Majima\r\n\r\nKnown as the Mad Dog of Shimano, his unpredictable nature\r\nhas made him a force to be reckoned with both in the Tojo\r\nClan and to Kiryu, his long-time friend and nemesis."
-msgstr "Goro Majima\r\n\r\nNoto come il Cane Pazzo di Shimano, la sua natura imprevedibile lo ha\r\nreso una forza della natura sia per il Clan Tojo che per Kiryu, suo\r\namico e nemico di lunga data."
+msgstr "Goro Majima\r\n\r\nNoto come il Cane Pazzo di Shimano, la sua natura imprevedibile lo ha\r\nreso un elemento da non sottovalutare sia per il Clan Tojo che per Kiryu,\r\nsuo amico e nemico di lunga data."
 
 msgctxt "43||taiga_saejima||text"
 msgid "Taiga Saejima\r\n\r\nOnce sentenced to death row for the murder of 18 men, this massive\r\nman became a yakuza legend. After clearing his name, Saejima has\r\nbeen in and out of prison, escaping whenever the need arises."
@@ -262,4 +262,3 @@ msgstr "Karaoke\r\n\r\nUn passatempo popolare che ha preso piede anche nelle cul
 msgctxt "64||cat_cafes||text"
 msgid "Cat Cafés\r\n\r\nLove cats but can't have one at home? Why not drop by a\r\ncat café and enjoy coffee, sweets, and amorous kitties?"
 msgstr "Neko Café\r\n\r\nAmi i gatti ma non puoi averne uno in casa? Perché non fare un salto in un\r\nneko café e gustarti un caffè e dei dolci in compagnia di affettuosi micetti?"
-

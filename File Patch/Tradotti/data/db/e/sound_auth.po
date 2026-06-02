@@ -2721,7 +2721,7 @@ msgstr "Davvero!? Kiryu-san, sei un attore!?"
 
 msgctxt "6||speech_list_caba_erina||table||234||||4"
 msgid "Nah, I just got roped in off the street to fill\r\nin for someone. It was nothing too big."
-msgstr "Macché, sono solo stato preso dalla strada per\r\nsostituire qualcuno. Niente di che."
+msgstr "Macché, mi hanno tirato in mezzo per strada\r\nper sostituire qualcuno. Niente di che."
 
 msgctxt "6||speech_list_caba_erina||table||235||||4"
 msgid "How cool! I used to make videos just for the fun\r\nof it as a kid. I wanna see your movie now!"
@@ -2849,7 +2849,7 @@ msgstr "Mi sa che stavolta l'ho letta male..."
 
 msgctxt "6||speech_list_caba_erina||table||266||||4"
 msgid "I'm the kind of girl who goes all in on the\r\nhousework and stuff. Wanna make me an offer? <symbol=heart_with_outline>"
-msgstr "Sono il tipo di ragazza che si dà da fare con le\r\nfaccende domestiche e simili. Vuoi farmi un'offerta? <symbol=heart_with_outline>"
+msgstr "Sono il tipo di ragazza che si butta a capofitto nelle\r\nfaccende domestiche. Ti vuoi fare avanti? <symbol=heart_with_outline>"
 
 msgctxt "6||speech_list_caba_erina||table||267||||4"
 msgid "I'd consider it."
@@ -4909,7 +4909,7 @@ msgstr "Io... forse sono stata un po' ingenua. Non si può puntare\na qualcosa d
 
 msgctxt "7||speech_list_caba_hikaru||table||152||||4"
 msgid "I think I need to take a long, hard look in the mirror."
-msgstr "Credo di dovermi guardare a lungo, e attentamente, allo specchio."
+msgstr "Credo di dovermi fare un bell'esame di coscienza."
 
 msgctxt "7||speech_list_caba_hikaru||table||153||||4"
 msgid "Yeah."
@@ -13713,7 +13713,7 @@ msgstr "Non mi importa quanti siano. Qualsiasi feccia che prenda\nuna ragazza in
 
 msgctxt "11||speech_list_cln||table||152||||4"
 msgid "If you ask me...\nIsn't that what being a man's about?"
-msgstr "Se chiedi a me...\nNon è questo ciò che significa essere un uomo?"
+msgstr "Per come la vedo io...\nNon è questo ciò che significa essere un uomo?"
 
 msgctxt "11||speech_list_cln||table||153||||4"
 msgid "Kiryu-san..."
@@ -29529,7 +29529,7 @@ msgstr "Più nello specifico, devo chiedergli\nse sa dove si trovi Haruka."
 
 msgctxt "13||speech_list_main01||table||246||||4"
 msgid "You lost Haruka?"
-msgstr "Hai perso Haruka?"
+msgstr "Hai perso le tracce di Haruka?"
 
 msgctxt "13||speech_list_main01||table||247||||4"
 msgid "She up and left Okinawa a while back.\nNobody knows where she is."
@@ -36889,7 +36889,7 @@ msgstr "Non accettiamo clienti maschi qui.\nStammi lontano se sai cosa è buono 
 
 msgctxt "18||speech_list_main06||table||202||||4"
 msgid "B-But I jus' wanna use the bathroom.\nGimme a break!"
-msgstr "M-Ma voglio solo usare il bagno.\nDammi un po' di tregua!"
+msgstr "M-Ma voglio solo usare il bagno.\nAbbi un po' di pietà!"
 
 msgctxt "18||speech_list_main06||table||203||||4"
 msgid "Hey."
@@ -59505,7 +59505,7 @@ msgstr "Ehm... Non ho più soldi..."
 
 msgctxt "51||speech_list_sub_a15||table||9||||4"
 msgid "Say what? Didn't we tell you that you'd\nhave to start dippin' into your mom's purse?"
-msgstr "Come scusa? Non ti avevamo detto che avresti\ndovuto iniziare ad attingere dalla borsa di tua madre?"
+msgstr "Come scusa? Non ti avevamo detto che avresti\ndovuto iniziare a fregare i soldi a tua madre?"
 
 msgctxt "51||speech_list_sub_a15||table||10||||4"
 msgid "You're not going back on the deal now, are ya?"

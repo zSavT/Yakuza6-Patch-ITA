@@ -105,7 +105,7 @@ msgstr "Andrò a fondo della questione."
 
 msgctxt "62||tm_33_harapeko||table||1||start||1"
 msgid "I saw a little boy squatting in the middle\r\nof the shopping center. Maybe he wasn't\r\nfeeling well? I hope he's all right... I didn't\r\ncheck, but now I'm kicking myself! Can\r\nsomeone look in on him?"
-msgstr "Ho visto un ragazzino rannicchiato nel bel\r\nmezzo del centro commerciale. Forse non si\r\nsentiva bene? Spero stia bene... Non ho\r\ncontrollato, ma ora me ne pento!\r\nQualcuno può andare a dare un'occhiata?"
+msgstr "Ho visto un ragazzino rannicchiato nel bel\r\nmezzo del centro commerciale. Forse non si\r\nsentiva bene? Spero stia bene... Non ho\r\ncontrollato, ma ora mi mangio le mani!\r\nQualcuno può andare a dare un'occhiata?"
 
 msgctxt "62||tm_33_harapeko||table||2||success||1"
 msgid "Apparently that little boy was just really\r\nhungry. He said a nice tourist gave him\r\nsome food. I'm glad he wasn't ill, though!"
@@ -329,7 +329,7 @@ msgstr "Questa è l'ultima goccia."
 
 msgctxt "97||tm_04_lynch_a01||table||1||start||1"
 msgid "I saw someone being attacked by a mob\r\nin the Hotel District. If nobody comes\r\nsoon, they could be killed..."
-msgstr "Ho visto qualcuno venire attaccato da un\r\ngruppo nell'Hotel District. Se nessuno\r\narriva presto, potrebbero ucciderlo..."
+msgstr "Ho visto qualcuno venire attaccato da un\r\nbranco nell'Hotel District. Se nessuno\r\narriva presto, potrebbero ucciderlo..."
 
 msgctxt "97||tm_04_lynch_a01||table||2||success||1"
 msgid "I'm sure you just saved a life, buddy. Not\r\nall heroes wear capes, apparently. Some\r\nwear really outdated suits."
@@ -545,7 +545,7 @@ msgstr "Kiryu-san,\r\nsono Torafuru. Questo è un DM, solo tu\r\npuoi vederlo. H
 
 msgctxt "112||tm_32_hankouyokoku2||table||2||success||1"
 msgid "You did it, Kiryu-san. I knew you could.\r\nThat guy was pretty terrible, huh?"
-msgstr "Ce l'hai fatta, Kiryu-san. Sapevo che ci\r\nsaresti riuscito. Quel tipo era davvero\r\npessimo, eh?"
+msgstr "Ce l'hai fatta, Kiryu-san. Sapevo che ci\r\nsaresti riuscito. Quel tipo era davvero\r\npericoloso, eh?"
 
 msgctxt "112||tm_32_hankouyokoku2||table||3||failure||1"
 msgid "It looks like he signed off, so that must\r\nmean he left the café. He got away this\r\ntime, but let's hope there's another chance!"
@@ -573,7 +573,7 @@ msgstr "Non male. Meriti un po' di riconoscimento,\r\nimmagino... Ma non è anco
 
 msgctxt "113||tm_35_hankouyokoku||table||3||failure||1"
 msgid "You disappoint me. You masquerade as\r\njustice incarnate, but fall short of the mark\r\nwhen it really counts. Pathetic."
-msgstr "Mi deludi. Ti spacci per\r\nla giustizia incarnata, ma manchi il bersaglio\r\nquando conta davvero. Patetico."
+msgstr "Mi deludi. Ti spacci per\r\nla giustizia incarnata, ma non sei all'altezza\r\nquando conta davvero. Patetico."
 
 msgctxt "113||tm_35_hankouyokoku||table||4||hint1||1"
 msgid "Here's the bomb! HaHaHa!\r\nDo you know this city well enough to figure\r\nout where it is?"

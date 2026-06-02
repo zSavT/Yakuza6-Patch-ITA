@@ -33,7 +33,7 @@ msgstr "Allora... perché non vi do un po' di spettacolo?"
 
 msgctxt "13||anri_07||message"
 msgid "Don't die on me!"
-msgstr "Non morire, eh!"
+msgstr "Non mi morire!"
 
 msgctxt "14||anri_08||message"
 msgid "You're kinda weird, you know."
@@ -97,7 +97,7 @@ msgstr "Sono felice che siate tornati! <symbol=heart_with_outline>"
 
 msgctxt "29||anri_13||message"
 msgid "You smooth-talker, you."
-msgstr "Siete dei gran ruffiani."
+msgstr "Ma che adulatore."
 
 msgctxt "30||anri_14||message"
 msgid "Let's enjoy ourselves today, okay?"
@@ -133,7 +133,7 @@ msgstr "Non vedo l'ora."
 
 msgctxt "39||anri_23||message"
 msgid "Take me sky high... <symbol=heart_with_outline>"
-msgstr "Portatemi fino al cielo... <symbol=heart_with_outline>"
+msgstr "Portatemi al settimo cielo... <symbol=heart_with_outline>"
 
 msgctxt "40||anri_24||message"
 msgid "My heart's beating really fast! <symbol=heart_with_outline>"
@@ -285,7 +285,7 @@ msgstr "Ehhh? Vi piaccio <font_kind=yakuza_italic>io</font_kind>?"
 
 msgctxt "78||anri_62||message"
 msgid "I love it when you flatter me. <symbol=heart_with_outline>"
-msgstr "Adoro quando mi adulate. <symbol=heart_with_outline>"
+msgstr "Adoro quando mi lusingate. <symbol=heart_with_outline>"
 
 msgctxt "79||anri_63||message"
 msgid "Huh? You mean my type?"
@@ -337,7 +337,7 @@ msgstr "Potrei spogliarmi un po' per voi."
 
 msgctxt "91||anri_75||message"
 msgid "You guys are coming on way too strong!"
-msgstr "Siete un po' troppo irruenti, ragazzi!"
+msgstr "Ci andate giù pesante, ragazzi!"
 
 msgctxt "92||anri_76||message"
 msgid "Anyway, here I go."
@@ -877,7 +877,7 @@ msgstr "Allora iniziamo. Verso il paradiso... <symbol=heart_with_outline>"
 
 msgctxt "227||yua_26||message"
 msgid "I know this is my job and all"
-msgstr "So che questo è il mio lavoro e tutto il resto,"
+msgstr "So che è il mio lavoro e tutto quanto,"
 
 msgctxt "228||yua_27||message"
 msgid "but having you guys watch me"
@@ -1565,7 +1565,7 @@ msgstr "Non preoccuparti per quello"
 
 msgctxt "413||mob_21||message"
 msgid "Hey girl hey."
-msgstr "Ehi ragazza ehi."
+msgstr "Ehilà bellezza."
 
 msgctxt "414||mob_22||message"
 msgid "How's it hanging?"
@@ -1573,7 +1573,7 @@ msgstr "Come butta?"
 
 msgctxt "415||mob_23||message"
 msgid "im here! <symbol=heart_with_outline>"
-msgstr "sono qui! <symbol=heart_with_outline>"
+msgstr "eccomi! <symbol=heart_with_outline>"
 
 msgctxt "416||mob_24||message"
 msgid "how bout hell instead ; )"
@@ -1637,7 +1637,7 @@ msgstr "Non vedo l'ora!!!!!!"
 
 msgctxt "431||mob_39||message"
 msgid "hoo boy"
-msgstr "oh ragazzo"
+msgstr "mamma mia"
 
 msgctxt "432||mob_40||message"
 msgid "I'm blushing <symbol=heart_with_outline>"
@@ -1781,7 +1781,7 @@ msgstr "Uh..."
 
 msgctxt "469||mob_77||message"
 msgid "Welp time to go to the gym"
-msgstr "Beh, tempo di andare in palestra"
+msgstr "Beh, mi tocca andare in palestra"
 
 msgctxt "470||mob_78||message"
 msgid "Duuuuuuude."
@@ -1945,7 +1945,7 @@ msgstr "Amo le spalle. E le gambe."
 
 msgctxt "516||mob_124||message"
 msgid "I mean if you want. No pressure"
-msgstr "Cioè, se ti va. Senza fretta"
+msgstr "Cioè, se ti va. Senza impegno"
 
 msgctxt "517||mob_125||message"
 msgid "all right"
@@ -2149,11 +2149,11 @@ msgstr "Tempo da soli può voler dire solo una cosa."
 
 msgctxt "581||mob_189||message"
 msgid "its gonna feel real good"
-msgstr "sarà davvero fantastico"
+msgstr "sarà una goduria"
 
 msgctxt "582||mob_190||message"
 msgid "Yup that shit is awesome"
-msgstr "Sì, questa roba è fighissima"
+msgstr "Sì, è una figata pazzesca"
 
 msgctxt "583||mob_191||message"
 msgid "<font_kind=yakuza_italic>I</font_kind> don't deserve this punishment..."
@@ -2205,7 +2205,7 @@ msgstr "Eravamo arrivati fin qui..."
 
 msgctxt "595||mob_203||message"
 msgid "but what about boobies"
-msgstr "ma le tette?"
+msgstr "e le tette?"
 
 msgctxt "596||mob_204||message"
 msgid "ughhh"
@@ -2549,7 +2549,7 @@ msgstr "UN BACIO!?"
 
 msgctxt "685||yua_mob_40||message"
 msgid "dude taht was sweet"
-msgstr "amico e stato dolcissimo"
+msgstr "cazzo, è stato dolcissimo"
 
 msgctxt "686||yua_38_2||message"
 msgid "What do you wanna know?"
@@ -2621,7 +2621,7 @@ msgstr "che genere di cose ti piacciono"
 
 msgctxt "704||yua_mob_56||message"
 msgid "dude so obviously an m"
-msgstr "amico, palesemente una m"
+msgstr "cavolo, palesemente una m"
 
 msgctxt "705||yua_mob_57||message"
 msgid "probaly m"
@@ -2769,7 +2769,7 @@ msgstr "Mi fa paura quanto sono eccitato. <symbol=heart_with_outline>"
 
 msgctxt "741||yua_mob_82||message"
 msgid "i mean, duh"
-msgstr "cioè, ovvio"
+msgstr "beh, mi pare ovvio"
 
 msgctxt "742||yua_mob_83||message"
 msgid "ENOUGH OF YOUR TEASING"
@@ -2989,7 +2989,7 @@ msgstr "Anche la mia ex moglie era un'infermiera..."
 
 msgctxt "798||yua_mob_126||message"
 msgid "shit looks so good on you dude"
-msgstr "merda ti sta così bene"
+msgstr "cazzo, ti sta da dio"
 
 msgctxt "799||yua_mob_127||message"
 msgid "me too!!!"
@@ -3013,7 +3013,7 @@ msgstr "ti darò un po' del mio succo"
 
 msgctxt "804||yua_mob_132||message"
 msgid "MY DIPSTICK IS READY"
-msgstr "L'ASTINA DI LIVELLO È PRONTA"
+msgstr "LA MIA ASTINA È PRONTA"
 
 msgctxt "805||yua_mob_133||message"
 msgid "It won't hurt a bit... <symbol=heart_with_outline>"
@@ -3077,7 +3077,7 @@ msgstr "beh io ho dato"
 
 msgctxt "820||yua_mob_144||message"
 msgid "im losing my goddamn mind"
-msgstr "sto perdendo la cazzo di testa"
+msgstr "sto fottutamente impazzendo"
 
 msgctxt "821||yua_144_2||message"
 msgid "I have to wonder..."
@@ -3489,7 +3489,7 @@ msgstr "Saresti un'ottima dominatrice."
 
 msgctxt "923||mob_64_3||message"
 msgid "Go Anri-chan go! You can do it!"
-msgstr "Vai Anri-chan vai! Puoi farcela!"
+msgstr "Forza Anri-chan! Puoi farcela!"
 
 msgctxt "924||mob_140_2||message"
 msgid "Where'd you get that?"
@@ -3637,7 +3637,7 @@ msgstr "( . Y . )"
 
 msgctxt "960||mob_141_6||message"
 msgid "What a sight for sore eyes!"
-msgstr "Che spettacolo per gli occhi!"
+msgstr "Una vera gioia per gli occhi!"
 
 msgctxt "961||mob_141_7||message"
 msgid "wow. Just... wow"
