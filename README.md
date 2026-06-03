@@ -20,6 +20,8 @@ Analizzando i file, mi sono accorto che il gioco utilizza principalmente i file 
 
 ![](img/cutscene2.jpg)
 
+![](img/cutscene3.jpg)
+
 ![](img/negozio.jpg)
 
 
