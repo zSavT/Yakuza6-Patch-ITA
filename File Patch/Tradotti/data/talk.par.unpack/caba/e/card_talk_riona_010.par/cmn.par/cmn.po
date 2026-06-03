@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 32
 msgctxt "Offset_0x1BB2C_Len_32"
 msgid "...used social media and a blog."
-msgstr ""
+msgstr "...ha usato i social e un blog."
 
 #. Max bytes: 29
 msgctxt "Offset_0x1BB6C_Len_29"
 msgid "...posted fliers of yourself."
-msgstr ""
+msgstr "...hai affisso volantini."
 
 #. Max bytes: 25
 msgctxt "Offset_0x1BBAC_Len_25"
 msgid "...sent out a mass email."
-msgstr ""
+msgstr "...hai inviato una mail."
 

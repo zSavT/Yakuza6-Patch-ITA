@@ -485,7 +485,7 @@ msgstr "La hostess dal cuore d'oro"
 
 msgctxt "325||sub_a_adv20||name"
 msgid "Step Up to the Plate"
-msgstr "Vai a battere"
+msgstr "Mettiti in gioco"
 
 msgctxt "326||sub_a_adv21||name"
 msgid "A Promise Between Men"
@@ -501,11 +501,11 @@ msgstr "La tentazione della Live Chat"
 
 msgctxt "330||sub_a_adv25||name"
 msgid "We're Committed to Results"
-msgstr "Garantiamo i risultati"
+msgstr "Ci impegniamo per i risultati"
 
 msgctxt "331||sub_a_adv26||name"
 msgid "A Man Rises Up"
-msgstr "La rinascita di un uomo"
+msgstr "L'ascesa di un uomo"
 
 msgctxt "333||sports_gym_get_challenge_rank_a1||name"
 msgid "Get an A rank or above in the RIZAP Challenge once"
@@ -981,7 +981,7 @@ msgstr "Le colpe del padre"
 
 msgctxt "478||sub_b_adv03||name"
 msgid "Pocket Circuit Fighter Returns"
-msgstr "Il ritorno del Pocket Circuit Fighter"
+msgstr "Il ritorno di Pocket Circuit Fighter"
 
 msgctxt "479||sub_b_adv04||name"
 msgid "The Curse of Onomichi"
@@ -997,7 +997,7 @@ msgstr "L'Ono Michio Show"
 
 msgctxt "482||sub_b_adv07||name"
 msgid "Putting on a Brave Face"
-msgstr "Fare buon viso a cattivo gioco"
+msgstr "Farsi coraggio"
 
 msgctxt "483||sub_b_adv08||name"
 msgid "The Girl Who Leapt Through Time?"
@@ -1029,11 +1029,11 @@ msgstr "Veri legami"
 
 msgctxt "491||sub_b_adv17||name"
 msgid "What's the Matter with Kids Today?"
-msgstr "Cosa succede ai ragazzi di oggi?"
+msgstr "Che problema hanno i ragazzi di oggi?"
 
 msgctxt "492||sub_b_adv18||name"
 msgid "Powerful Memories"
-msgstr "Ricordi potenti"
+msgstr "Ricordi indelebili"
 
 msgctxt "493||sub_b_adv19||name"
 msgid "Tech Support"
@@ -1049,7 +1049,7 @@ msgstr "La determinazione di Kaneko"
 
 msgctxt "496||sub_b_adv22||name"
 msgid "Thanks for Everything, Mama"
-msgstr "Grazie di tutto, Mamma"
+msgstr "Grazie di tutto, Mama"
 
 msgctxt "497||sub_b_adv23||name"
 msgid "The Old Man and the Sea"
@@ -1065,7 +1065,7 @@ msgstr "Nel profondo blu"
 
 msgctxt "500||sub_b_adv26||name"
 msgid "Crisis Management Professional"
-msgstr "Esperto di gestione delle crisi"
+msgstr "Professionista nella gestione delle crisi"
 
 msgctxt "501||sub_b_adv27||name"
 msgid "The Joys of Adulthood"

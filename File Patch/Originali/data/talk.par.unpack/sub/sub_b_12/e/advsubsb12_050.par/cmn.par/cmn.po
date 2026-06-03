@@ -7,26 +7,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-msgctxt "Offset_0x44397_Len_5"
-msgid "> m9="
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0xAEEFC_Len_4"
-msgid "L` ="
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0xB63CC_Len_4"
-msgid "L` ="
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0xDF270_Len_4"
-msgid " є?"
-msgstr ""
-
 #. Max bytes: 43
 msgctxt "Offset_0xFCDCC_Len_43"
 msgid "Moritsuka has joined the Setouchi Warriors!"

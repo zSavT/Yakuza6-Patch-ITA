@@ -10,20 +10,20 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x12FC2_Len_6"
 msgid " ARx&C"
-msgstr ""
+msgstr " ARx&C"
 
 #. Max bytes: 23
 msgctxt "Offset_0x1B498_Len_23"
 msgid "Can I see the notebook?"
-msgstr ""
+msgstr "Mi mostri il taccuino?"
 
 #. Max bytes: 31
 msgctxt "Offset_0x1B4D8_Len_31"
 msgid "Don't you fantasize about me..."
-msgstr ""
+msgstr "Non fantasticare su di me..."
 
 #. Max bytes: 27
 msgctxt "Offset_0x1B518_Len_27"
 msgid "Want to fantasize about me?"
-msgstr ""
+msgstr "Vuoi fantasticare su di me?"
 

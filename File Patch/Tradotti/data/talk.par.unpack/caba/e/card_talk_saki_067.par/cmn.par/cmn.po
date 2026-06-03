@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 28
 msgctxt "Offset_0xC714_Len_28"
 msgid "I saw you in a match, maybe."
-msgstr ""
+msgstr "Forse ti ho visto lottare."
 
 #. Max bytes: 22
 msgctxt "Offset_0xC754_Len_22"
 msgid "I was overthinking it."
-msgstr ""
+msgstr "Ci ho pensato troppo."
 
 #. Max bytes: 27
 msgctxt "Offset_0xC794_Len_27"
 msgid "Maybe... we met in a dream."
-msgstr ""
+msgstr "Forse... visti in sogno."
 

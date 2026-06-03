@@ -10,10 +10,15 @@ msgstr ""
 #. Max bytes: 18
 msgctxt "Offset_0x3D0_Len_18"
 msgid "Rest Until Morning"
-msgstr ""
+msgstr "Fino a mattina"
 
 #. Max bytes: 15
 msgctxt "Offset_0x410_Len_15"
 msgid "Rest Until Dusk"
-msgstr ""
+msgstr "Fino a sera"
+
+#. Max bytes: 6
+msgctxt "Offset_0x450_Len_6"
+msgid "Cancel"
+msgstr "Chiudi"
 

@@ -9,36 +9,35 @@ msgstr ""
 
 #. Max bytes: 72
 msgctxt "Offset_0x17D74_Len_72"
-msgid "(Those two are arguing about something...\nSome kind of lover's quarrel?)"
+msgid ""
+"(Those two are arguing about something...\n"
+"Some kind of lover's quarrel?)"
 msgstr ""
+"(Quei due stanno litigando...\n"
+"Una lite tra innamorati?)"
 
 #. Max bytes: 7
 msgctxt "Offset_0x1A2ED_Len_7"
 msgid "Kx>. m="
-msgstr ""
+msgstr "Kx>. m="
 
 #. Max bytes: 26
 msgctxt "Offset_0x1F03D_Len_26"
 msgid "%)-159]YURONMLKIHPki]QD8, "
-msgstr ""
-
-#. Max bytes: 10
-msgctxt "Offset_0x793FD_Len_10"
-msgid "yrrkceTC1 "
-msgstr ""
+msgstr "%)-159]YURONMLKIHPki]QD8, "
 
 #. Max bytes: 23
 msgctxt "Offset_0x9D100_Len_23"
 msgid "A room full of kittens."
-msgstr ""
+msgstr "Piena di gattini."
 
 #. Max bytes: 32
 msgctxt "Offset_0x9D140_Len_32"
 msgid "A place for short conversations."
-msgstr ""
+msgstr "Un posto per brevi discorsi."
 
 #. Max bytes: 26
 msgctxt "Offset_0x9D180_Len_26"
 msgid "An online messaging group."
-msgstr ""
+msgstr "Gruppo di messaggistica."
 

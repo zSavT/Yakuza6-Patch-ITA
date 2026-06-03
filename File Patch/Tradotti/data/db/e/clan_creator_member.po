@@ -9,15 +9,15 @@ msgstr ""
 
 msgctxt "1||soldier_kenka||name"
 msgid "Brawler"
-msgstr "Attaccabrighe"
+msgstr "Lottatore"
 
 msgctxt "2||soldier_gun||name"
 msgid "Gunner"
-msgstr "Tiratore"
+msgstr "Artigliere"
 
 msgctxt "3||soldier_gouwan||name"
 msgid "Heavy"
-msgstr "Colosso"
+msgstr "Pesante"
 
 msgctxt "4||soldier_rush||name"
 msgid "Rusher"

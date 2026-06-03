@@ -17,3 +17,8 @@ msgctxt "Offset_0x410_Len_15"
 msgid "Rest Until Dusk"
 msgstr ""
 
+#. Max bytes: 6
+msgctxt "Offset_0x450_Len_6"
+msgid "Cancel"
+msgstr ""
+

@@ -93,7 +93,7 @@ msgstr "Senkoji"
 
 msgctxt "29||k_taxi_touto||name"
 msgid "Touto Hospital"
-msgstr "Ospedale Touto"
+msgstr "Touto Hospital"
 
 msgctxt "30||k_taxi_tojo||name"
 msgid "Tojo Clan Headquarters"

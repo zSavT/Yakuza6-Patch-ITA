@@ -7,6 +7,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+msgctxt "Offset_0x12C4_Len_4"
+msgid "SORA"
+msgstr ""
+
 #. Max bytes: 6
 msgctxt "Offset_0x1D26A_Len_6"
 msgid " A=\nFC"
@@ -30,10 +35,5 @@ msgstr ""
 #. Max bytes: 36
 msgctxt "Offset_0x2F9A4_Len_36"
 msgid "Sora's rank has increased to Bronze."
-msgstr ""
-
-#. Max bytes: 39
-msgctxt "Offset_0x2F9D4_Len_39"
-msgid "SORA的階級已成為「Bronze Cast」"
 msgstr ""
 

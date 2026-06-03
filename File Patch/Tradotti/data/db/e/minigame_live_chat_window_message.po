@@ -25,7 +25,7 @@ msgstr "Non puoi aggiungere altri punti."
 
 msgctxt "5||really_buy_question||message"
 msgid "Enter this chat room?"
-msgstr "Entrare in questa stanza chat?"
+msgstr "Entrare in questa chat room?"
 
 msgctxt "6||really_charge_question||message"
 msgid "Add points?"
@@ -33,4 +33,4 @@ msgstr "Aggiungere punti?"
 
 msgctxt "7||really_exit_question||message"
 msgid "Leave the chat room?"
-msgstr "Uscire dalla stanza chat?"
+msgstr "Uscire dalla chat room?"

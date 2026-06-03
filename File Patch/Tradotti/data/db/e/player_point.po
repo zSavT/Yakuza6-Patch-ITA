@@ -29,7 +29,7 @@ msgstr "Tecnica"
 
 msgctxt "6||exp_charm||title"
 msgid "Charm"
-msgstr "Fascino"
+msgstr "Malia"
 
 msgctxt "7||stomach||title"
 msgid "Hunger"
@@ -37,7 +37,7 @@ msgstr "Fame"
 
 msgctxt "8||ten_mahjong||title"
 msgid "Mahjong Points"
-msgstr "Punti Mahjong"
+msgstr "Punti mahjong"
 
 msgctxt "9||ability_hit_point||title"
 msgid "Health"
@@ -61,19 +61,19 @@ msgstr "Barra Furore"
 
 msgctxt "14||ability_resist_sword||title"
 msgid "Blade Resistance"
-msgstr "Resistenza alle lame"
+msgstr "RES ad armi da taglio"
 
 msgctxt "15||ability_resist_gun||title"
 msgid "Gun Resistance"
-msgstr "Resistenza alle armi da fuoco"
+msgstr "RES ad armi da fuoco"
 
 msgctxt "16||ability_stamina||title"
 msgid "Stamina"
-msgstr "Resistenza"
+msgstr "Energia"
 
 msgctxt "44||training_ticket||title"
 msgid "Training Tickets"
-msgstr "Ticket allenamento"
+msgstr "Biglietti allenamento:"
 
 msgctxt "1||money||unit"
 msgid "yen"

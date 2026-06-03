@@ -13,11 +13,11 @@ msgstr "Un momento elegante all'Alps"
 
 msgctxt "2||k_smileburgar0||name"
 msgid "The Standard Smile Set"
-msgstr "Menu Smile standard"
+msgstr "Il Re dei sorrisi"
 
 msgctxt "3||k_smileburgar1||name"
 msgid "Healthy Smile"
-msgstr "Smile salutare"
+msgstr "Sorriso raggiante"
 
 msgctxt "4||k_sushigin||name"
 msgid "The Ultimate Sushi Gin"
@@ -29,7 +29,7 @@ msgstr "La gioia di bere da soli"
 
 msgctxt "6||k_bantam||name"
 msgid "Depth of 30 Years"
-msgstr "La profondità di 30 anni"
+msgstr "30 anni per la perfezione"
 
 msgctxt "8||k_gindaco||name"
 msgid "This is Gindaco Highball!"
@@ -81,7 +81,7 @@ msgstr "Semplice e veloce"
 
 msgctxt "25||k_fujisoba0||name"
 msgid "Harmony of Rice and Noodles"
-msgstr "Armonia di riso e noodle"
+msgstr "Armonia di riso e noodles"
 
 msgctxt "26||k_fujisoba1||name"
 msgid "Rice Lover"
@@ -93,15 +93,15 @@ msgstr "Un classico dello yakiniku"
 
 msgctxt "28||k_hanrai1||name"
 msgid "Nothing Grilled at Yakiniku!?"
-msgstr "Niente griglia allo yakiniku!?"
+msgstr "Uno yakiniku senza griglia?!?"
 
 msgctxt "29||k_ikinari_steak0||name"
 msgid "A Solid Lineup"
-msgstr "Una selezione solida"
+msgstr "Una carrellata eccellente"
 
 msgctxt "30||k_ikinari_steak1||name"
 msgid "Eating Wild"
-msgstr "Pasto selvaggio"
+msgstr "Appetito selvaggio"
 
 msgctxt "31||k_osaka_ohsho0||name"
 msgid "Spicy Combination"
@@ -113,11 +113,11 @@ msgstr "Trio alla piastra"
 
 msgctxt "33||k_yoronotaki0||name"
 msgid "I'll Have This to Start!"
-msgstr "Per iniziare prendo questo!"
+msgstr "Iniziamo con questo!"
 
 msgctxt "34||k_yoronotaki1||name"
 msgid "I've Gotta Order That!"
-msgstr "Devo assolutamente ordinarlo!"
+msgstr "Dammene uno!"
 
 msgctxt "35||o_La_Pente0||name"
 msgid "Aspiring Sommelier!?"

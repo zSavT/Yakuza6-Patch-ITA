@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 26
 msgctxt "Offset_0x1163C_Len_26"
 msgid "They don't speak properly."
-msgstr ""
+msgstr "Non si esprimono bene."
 
 #. Max bytes: 21
 msgctxt "Offset_0x1167C_Len_21"
 msgid "They lack conviction."
-msgstr ""
+msgstr "Manca convinzione."
 
 #. Max bytes: 36
 msgctxt "Offset_0x116BC_Len_36"
 msgid "The girls are letting themselves go."
-msgstr ""
+msgstr "Le ragazze si lasciano andare."
 

@@ -9,7 +9,7 @@ msgstr ""
 
 msgctxt "1||option||name"
 msgid "Game Settings"
-msgstr "Impostazioni di gioco"
+msgstr "Impostazioni gioco"
 
 msgctxt "2||save||name"
 msgid "Save"
@@ -21,7 +21,7 @@ msgstr "Carica"
 
 msgctxt "4||return_to_title||name"
 msgid "Quit Game"
-msgstr "Esci dal gioco"
+msgstr "Torna al titolo"
 
 msgctxt "5||audio_option||name"
 msgid "Audio Settings"
@@ -29,7 +29,7 @@ msgstr "Impostazioni audio"
 
 msgctxt "6||profile||name"
 msgid "Character Profiles"
-msgstr "Profili dei personaggi"
+msgstr "Profilo personaggi"
 
 msgctxt "7||controller_guide||name"
 msgid "Controls"
@@ -45,7 +45,7 @@ msgstr "Comandi"
 
 msgctxt "1||option||explanation"
 msgid "Change settings related to gameplay."
-msgstr "Modifica le impostazioni relative al gioco."
+msgstr "Modifica le impostazioni relative alla giocabilità."
 
 msgctxt "2||save||explanation"
 msgid "Select the file you would like to save current game progress to."
@@ -61,7 +61,7 @@ msgstr "Smetti di giocare e torna alla schermata del titolo."
 
 msgctxt "5||audio_option||explanation"
 msgid "Change settings related to audio."
-msgstr "Modifica le impostazioni audio."
+msgstr "Regola l'audio di gioco."
 
 msgctxt "6||profile||explanation"
 msgid "View information on primary characters."
@@ -69,7 +69,7 @@ msgstr "Visualizza le informazioni sui personaggi principali."
 
 msgctxt "7||controller_guide||explanation"
 msgid "Check how to use the controls."
-msgstr "Controlla l'utilizzo dei comandi."
+msgstr "Scopri come giocare."
 
 msgctxt "8||pause_graphics_settings||explanation"
 msgid "Configure graphics settings."

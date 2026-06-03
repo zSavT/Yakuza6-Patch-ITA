@@ -10,45 +10,49 @@ msgstr ""
 #. Max bytes: 37
 msgctxt "Offset_0x1F68_Len_37"
 msgid "(Hm, that guy looks pretty muscular.)"
-msgstr ""
+msgstr "(Hm, quel tizio sembra muscoloso.)"
 
 #. Max bytes: 51
 msgctxt "Offset_0x2058_Len_51"
 msgid "(I bet he would be a great asset for the Warriors.)"
-msgstr ""
+msgstr "(Sarebbe un gran rinforzo per i Warriors.)"
 
 #. Max bytes: 47
 msgctxt "Offset_0x2178_Len_47"
 msgid "(Okay, then. I should go see what his deal is.)"
-msgstr ""
+msgstr "(Bene, vado a vedere cosa vuole.)"
 
 #. Max bytes: 13
 msgctxt "Offset_0x38C0_Len_13"
 msgid "(A million!?)"
-msgstr ""
+msgstr "(1 milione!?)"
 
 #. Max bytes: 28
 msgctxt "Offset_0x41E0_Len_28"
 msgid "(All right, welcome aboard!)"
-msgstr ""
+msgstr "(Bene, benvenuto a bordo!)"
 
 #. Max bytes: 95
 msgctxt "Offset_0x42B0_Len_95"
-msgid "(I'll need to keep finding players for the Warriors\nif I want to help the team really succeed.)"
+msgid ""
+"(I'll need to keep finding players for the Warriors\n"
+"if I want to help the team really succeed.)"
 msgstr ""
+"(Devo continuare a cercare giocatori\n"
+"per portare i Warriors al successo.)"
 
 #. Max bytes: 41
 msgctxt "Offset_0x2C81C_Len_41"
 msgid "Maetani has joined the Setouchi Warriors."
-msgstr ""
+msgstr "Maetani entra nei Setouchi Warriors."
 
 #. Max bytes: 17
 msgctxt "Offset_0x2CB7C_Len_17"
 msgid "A million, huh..."
-msgstr ""
+msgstr "Un milione, eh..."
 
 #. Max bytes: 9
 msgctxt "Offset_0x2CC7C_Len_9"
 msgid "Don't Pay"
-msgstr ""
+msgstr "Rifiuta"
 

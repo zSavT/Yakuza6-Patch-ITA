@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0x58C_Len_16"
 msgid "(Enemy defeated)"
-msgstr ""
+msgstr "(Nemico battuto)"
 

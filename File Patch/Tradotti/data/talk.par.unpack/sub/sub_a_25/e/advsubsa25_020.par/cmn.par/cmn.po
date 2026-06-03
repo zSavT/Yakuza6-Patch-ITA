@@ -7,18 +7,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x10E5A_Len_6"
-msgid "\n> B@="
-msgstr ""
-
 #. Max bytes: 10
 msgctxt "Offset_0x1270C_Len_10"
 msgid "Go inside."
-msgstr ""
+msgstr "Entra."
 
 #. Max bytes: 16
 msgctxt "Offset_0x1274C_Len_16"
 msgid "Don't go inside."
-msgstr ""
+msgstr "Non entrare."
 

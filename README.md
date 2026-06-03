@@ -5,6 +5,7 @@
 </p>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Yakuza6-Patch-ITA)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zSavT/Yakuza6-Patch-ITA/total)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
@@ -18,6 +19,8 @@ Analizzando i file, mi sono accorto che il gioco utilizza principalmente i file 
 ![](img/cutscene1.jpg)
 
 ![](img/cutscene2.jpg)
+
+![](img/negozio.jpg)
 
 
 # Come installare la patch
@@ -38,25 +41,40 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
 
 La posizione dei file di salvataggio di Yakuza 6: The Song of Life su PC può variare a seconda della piattaforma e del metodo di installazione:
 
-*   **Steam:** I file di salvataggio principali si trovano in:
-    `&lt;Percorso installazione Steam&gt;\userdata\&lt;Tuo ID Steam&gt;\1388590\remote\`
-*   **GOG.com:** I salvataggi si trovano tipicamente in:
-    `%LOCALAPPDATA%\GOG.com\Galaxy\Applications\56296606511683989\Storage\Shared\Files\`
-*   **Microsoft Store:** I file di salvataggio sono memorizzati in:
-    `%LOCALAPPDATA%\Packages\SEGAofAmericaInc.Yakuza6PC_s751p9cej88mt\LocalCache\Local\SEGA\Yakuza6\`
-*   **Cartelle Alternative/Locali:** Alcune versioni potrebbero anche salvare i dati in:
-    `%APPDATA%\Sega\Yakuza6\` (Windows) o `%LOCALAPPDATA%\Yakuza 6: The Song of Life\SaveGames\`
+* **Steam:** I file di salvataggio principali si trovano in:
+  `<Percorso installazione Steam>\userdata\<Tuo ID Steam>\1388590\remote\`
+* **GOG.com:** I salvataggi si trovano tipicamente in:
+  `%LOCALAPPDATA%\GOG.com\Galaxy\Applications\56296606511683989\Storage\Shared\Files\`
+* **Microsoft Store:** I file di salvataggio sono memorizzati in:
+  `%LOCALAPPDATA%\Packages\SEGAofAmericaInc.Yakuza6PC_s751p9cej88mt\LocalCache\Local\SEGA\Yakuza6\`
+* **Cartelle Alternative/Locali:** Alcune versioni potrebbero anche salvare i dati in:
+  `%APPDATA%\Sega\Yakuza6\` (Windows) o `%LOCALAPPDATA%\Yakuza 6: The Song of Life\SaveGames\`
 
 
 ## Tool di decodifica
 
 Il tool utilizzato per la traduzione si può trovare [qui](https://github.com/zSavT/Yakuza-6-Localization-Tool.git).
 
-## Struttura dei file (Noti al momento)
+## Struttura dei file
 
 Qui sotto è riportata la struttura dei file modificabili, con descrizione breve del file e l'avanzamento della traduzione/valutazione se tradurre o meno il file.
 
->= Sezione in elaborazione
+- __Yakuza 6 - The Song of Life\data\db\e*__
+    - All'interno sono presenti quasi tutti i dialoghi principali del gioco.
+    - [x] Tradotto
+- __Yakuza 6 - The Song of Life\data\auth\e*__
+    - All'interno sono presenti le immagini dei nomi dei personaggi con il ruolo.
+    - [x] Tradotto
+- __Yakuza 6 - The Song of Life\data\hact\e*__
+    - All'interno sono presenti le immagini dei nomi dei personaggi con il ruolo e alcuni testi relativi alle scelte.
+    - [x] Tradotto
+- __Yakuza 6 - The Song of Life\data\talk.par__
+    - All'interno sono alcuni testi relativi alle scelte e dialoghi random.
+    - [x] Tradotto
+- __Yakuza 6 - The Song of Life\data\ui.par__
+    - All'interno sono presenti le grafiche del gioco.
+    - [x] Tradotto
+
 
 # Funzionamento estrazione PAR
 
@@ -152,7 +170,7 @@ Lista dei progetti di patch in italiano per i giochi della serie:
     - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 4.
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
     - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5.
-- [Yakuza 6](https://github.com/zSavT/Yakuza6-Patch-ITA)
+- Yakuza 6
     - Questo progetto.
 
 

@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 62
 msgctxt "Offset_0x850_Len_62"
-msgid "(I suppose I'll check out the\nbaseball field once in a while.)"
+msgid ""
+"(I suppose I'll check out the\n"
+"baseball field once in a while.)"
 msgstr ""
+"(Ogni tanto potrei fare un salto\n"
+"al campo da baseball.)"
 

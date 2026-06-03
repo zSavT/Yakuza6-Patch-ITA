@@ -7,23 +7,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 4
-msgctxt "Offset_0x528C_Len_4"
-msgid " є?"
-msgstr ""
-
 #. Max bytes: 47
 msgctxt "Offset_0x21B7C_Len_47"
 msgid "I want to join the Order of Mosan Chohip Istes."
-msgstr ""
+msgstr "Entro nell'Ordine di Mosan Chohip Istes."
 
 #. Max bytes: 48
 msgctxt "Offset_0x21BBC_Len_48"
 msgid "I want to join the Order of Miran Choakht Onest."
-msgstr ""
+msgstr "Entro nell'Ordine di Miran Choakht Onest."
 
 #. Max bytes: 48
 msgctxt "Offset_0x21BFC_Len_48"
 msgid "I want to join the Order of Munan Chohept Onast."
-msgstr ""
+msgstr "Entro nell'Ordine di Munan Chohept Onast."
 

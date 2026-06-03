@@ -27,8 +27,3 @@ msgctxt "Offset_0x49EF0_Len_38"
 msgid "Hikaru's rank has increased to Bronze."
 msgstr ""
 
-#. Max bytes: 38
-msgctxt "Offset_0x49F20_Len_38"
-msgid "光的階級已成為「Bronze Cast」"
-msgstr ""
-

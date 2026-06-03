@@ -17,3 +17,8 @@ msgctxt "Offset_0xE7A8_Len_12"
 msgid "Angel wings."
 msgstr ""
 
+#. Max bytes: 4
+msgctxt "Offset_0xE7E8_Len_4"
+msgid "You."
+msgstr ""
+

@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 36
 msgctxt "Offset_0x25BC_Len_36"
 msgid "Hide the Letter in the Darts Machine"
-msgstr ""
+msgstr "Nascondi nelle freccette"
 
 #. Max bytes: 14
 msgctxt "Offset_0x25FC_Len_14"
 msgid "Look Elsewhere"
-msgstr ""
+msgstr "Guarda altrove"
 

@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0x7170_Len_16"
 msgid "Do Some Shopping"
-msgstr ""
+msgstr "Fai acquisti"
 
 #. Max bytes: 28
 msgctxt "Offset_0x71B0_Len_28"
 msgid "Ask About Haruka Merchandise"
-msgstr ""
+msgstr "Chiedi dei gadget di Haruka"
 

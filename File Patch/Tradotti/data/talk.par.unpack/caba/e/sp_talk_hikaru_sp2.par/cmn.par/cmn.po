@@ -10,25 +10,20 @@ msgstr ""
 #. Max bytes: 18
 msgctxt "Offset_0x41F5C_Len_18"
 msgid "Chase your dreams."
-msgstr ""
+msgstr "Insegui i sogni."
 
 #. Max bytes: 22
 msgctxt "Offset_0x41F9C_Len_22"
 msgid "You should be looking."
-msgstr ""
+msgstr "Dovresti cercare."
 
 #. Max bytes: 23
 msgctxt "Offset_0x41FDC_Len_23"
 msgid "Being an idol is tough."
-msgstr ""
+msgstr "Fare l'idol è dura."
 
 #. Max bytes: 38
 msgctxt "Offset_0x424EC_Len_38"
 msgid "Hikaru's rank has increased to Silver."
-msgstr ""
-
-#. Max bytes: 38
-msgctxt "Offset_0x4251C_Len_38"
-msgid "光的階級已成為「Silver Cast」"
-msgstr ""
+msgstr "Hikaru è salita al grado Argento."
 

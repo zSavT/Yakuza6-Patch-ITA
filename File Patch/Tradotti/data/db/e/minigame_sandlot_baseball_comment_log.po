@@ -9,11 +9,11 @@ msgstr ""
 
 msgctxt "20||base_on_balls_advance||text"
 msgid "A keen eye is what got him on base that time."
-msgstr "Un occhio attento è ciò che gli ha permesso di arrivare in base, questa volta."
+msgstr "Un occhio attento gli ha permesso di arrivare in base, questa volta."
 
 msgctxt "24||error_advance||text"
 msgid "<color=baseball_player>${player_name}</color> made it on base thanks to that <color=baseball_base_on_balls>error</color>!"
-msgstr "<color=baseball_player>${player_name}</color> arriva in base grazie a questo <color=baseball_base_on_balls>errore</color>!"
+msgstr "<color=baseball_player>${player_name}</color> arriva in base grazie a quell'<color=baseball_base_on_balls>errore</color>!"
 
 msgctxt "41||playball_0||text"
 msgid "This is <color=baseball_player>Miyaken</color>, your village nobody color commentator!"
@@ -41,7 +41,7 @@ msgstr "Fuori tutti e tre! Vincono i <color=baseball_player>${team_name}</color>
 
 msgctxt "47||change_player_0||text"
 msgid "Looks like <color=baseball_player>${player_name}</color> will be filling in for <color=baseball_player>${prev_player_name}</color>."
-msgstr "Sembra che <color=baseball_player>${player_name}</color> prenderà il posto di <color=baseball_player>${prev_player_name}</color>."
+msgstr "Sembra che <color=baseball_player>${player_name}</color> sostituirà <color=baseball_player>${prev_player_name}</color>."
 
 msgctxt "48||change_player_1||text"
 msgid "Here comes <color=baseball_player>${player_name}</color> filling in for <color=baseball_player>${prev_player_name}</color>!"
@@ -57,15 +57,15 @@ msgstr "Ecco <color=baseball_player>${player_name}</color> come battitore emerge
 
 msgctxt "51||in_batter_box_0||text"
 msgid "Number ${order_index} ${position}<color=baseball_player> ${player_name}</color> is entering the batter's box."
-msgstr "Il numero ${order_index}, ${position},<color=baseball_player> ${player_name}</color> entra nel box di battuta."
+msgstr "Numero ${order_index}, ${position},<color=baseball_player> ${player_name}</color> entra nel box di battuta."
 
 msgctxt "52||in_batter_box_1||text"
 msgid "Number ${order_index} ${position}<color=baseball_player> ${player_name}</color> is at bat."
-msgstr "Il numero ${order_index}, ${position},<color=baseball_player> ${player_name}</color> è in battuta."
+msgstr "Numero ${order_index}, ${position},<color=baseball_player> ${player_name}</color> è in battuta."
 
 msgctxt "53||chance_0||text"
 msgid "Stepping up to the plate is <color=baseball_player>${player_name}</color>!"
-msgstr "Si presenta al piatto di casa base <color=baseball_player>${player_name}</color>!"
+msgstr "Si presenta al piatto <color=baseball_player>${player_name}</color>!"
 
 msgctxt "54||chance_1||text"
 msgid "<color=baseball_player>${player_name}</color> is at bat! Keep an eye on the ball now!"
@@ -133,7 +133,7 @@ msgstr "Una bella <color=baseball_hit>valida</color> verso l'esterno!"
 
 msgctxt "76||hit_outfield_2||text"
 msgid "The infield's watching it go right over 'em! It's a <color=baseball_hit>hit</color>!"
-msgstr "Gli interni la guardano passargli proprio sopra la testa! È una <color=baseball_hit>valida</color>!"
+msgstr "Gli interni la guardano passare proprio sopra la loro testa! È una <color=baseball_hit>valida</color>!"
 
 msgctxt "77||hit_2base_0||text"
 msgid "This one's going long! A <color=baseball_hit>double</color>!"
@@ -165,7 +165,7 @@ msgstr "Va... va... ed è andata! <color=baseball_hit>Fuoricampo</color>!"
 
 msgctxt "84||hoemrun_1||text"
 msgid "They know that one's gone! <color=baseball_hit>Home run</color>!"
-msgstr "Tutti sanno che è andata! <color=baseball_hit>Fuoricampo</color>!"
+msgstr "Sanno già che è andata! <color=baseball_hit>Fuoricampo</color>!"
 
 msgctxt "85||hoemrun_2||text"
 msgid "Looooong fly to the outfield... GONE! <color=baseball_hit>Home run</color>!"
@@ -197,7 +197,7 @@ msgstr "Palla recuperata e parte il tiro! <color=baseball_hit>Salvo</color> in p
 
 msgctxt "92||error_0||text"
 msgid "Right between the legs! An <color=baseball_base_on_balls>error</color>! That's gotta hurt!"
-msgstr "Proprio in mezzo alle gambe! Un <color=baseball_base_on_balls>errore</color>! Questo farà male!"
+msgstr "Proprio in mezzo alle gambe! Un <color=baseball_base_on_balls>errore</color>! Questo fa male!"
 
 msgctxt "93||error_1||text"
 msgid "He's out! Wait...! The catcher dropped it! An <color=baseball_base_on_balls>error</color> at a time like this!"
@@ -209,7 +209,7 @@ msgstr "Toccata dalla mazza ed è praticamente... caduta!? Oh mamma! Un <color=b
 
 msgctxt "95||sacrifice_fly_0||text"
 msgid "High fly! It's a <color=baseball_hit>sacrifice fly</color>! The runner on third scores!"
-msgstr "Lunga volata! È una <color=baseball_hit>volata di sacrificio</color>! Il corridore in terza segna!"
+msgstr "Alta volata! È una <color=baseball_hit>volata di sacrificio</color>! Il corridore in terza segna!"
 
 msgctxt "96||sacrifice_fly_1||text"
 msgid "To the outfield! Looks like this is about to be a <color=baseball_hit>sacrifice fly</color>! The runner makes it home!"
@@ -229,7 +229,7 @@ msgstr "<color=baseball_player>${player_name}</color> è eliminato!"
 
 msgctxt "100||strikeout_2||text"
 msgid "<color=baseball_player>${player_name}</color> needs to aim!"
-msgstr "<color=baseball_player>${player_name}</color> deve prendere la mira!"
+msgstr "<color=baseball_player>${player_name}</color> deve prendere bene la mira!"
 
 msgctxt "101||hit_advance_0||text"
 msgid "That's the kind of swing <color=baseball_player>${player_name}</color> is known for!"
@@ -249,7 +249,7 @@ msgstr "<color=baseball_player>${player_name}</color> merita una pacca sulla spa
 
 msgctxt "105||homerun_advance_1||text"
 msgid "He was batting like a pro baller with his eye on the prize!"
-msgstr "Stava battendo come un vero professionista con gli occhi sul premio!"
+msgstr "Ha battuto come un vero professionista con gli occhi puntati sul bersaglio!"
 
 msgctxt "106||homerun_advance_2||text"
 msgid "There's a sure-fire hit!"
@@ -293,7 +293,7 @@ msgstr "L'occasione è ancora aperta e l'aria è frizzante!"
 
 msgctxt "116||sacrifice_fly_advance||text"
 msgid "<color=baseball_player>${player_name}</color> got the job done, at least!"
-msgstr "Come minimo, <color=baseball_player>${player_name}</color> ha portato a termine il lavoro!"
+msgstr "Se non altro, <color=baseball_player>${player_name}</color> ha portato a termine il lavoro!"
 
 msgctxt "117||homerun_advance_chance_0||text"
 msgid "<color=baseball_player>${player_name}</color> wows the crowd with a <color=baseball_hit>home run</color>!"

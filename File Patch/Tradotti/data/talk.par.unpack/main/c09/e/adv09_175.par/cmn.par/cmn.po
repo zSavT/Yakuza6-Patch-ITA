@@ -7,34 +7,29 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 6
-msgctxt "Offset_0x811A_Len_6"
-msgid " A\nף<"
+#. Max bytes: 7
+msgctxt "Offset_0xC3D4_Len_7"
+msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0xD11C_Len_4"
-msgid " ^ؿ"
+#. Max bytes: 7
+msgctxt "Offset_0x10634_Len_7"
+msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0xD2B4_Len_4"
-msgid "?W ="
+#. Max bytes: 7
+msgctxt "Offset_0x192AC_Len_7"
+msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 6
-msgctxt "Offset_0x13A2E_Len_6"
-msgid " >ףp?"
+#. Max bytes: 7
+msgctxt "Offset_0x1C5EC_Len_7"
+msgid "Oneshot"
 msgstr ""
 
-#. Max bytes: 6
-msgctxt "Offset_0x18A7A_Len_6"
-msgid "I@- +="
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x1C64C_Len_4"
-msgid "~ H="
+#. Max bytes: 7
+msgctxt "Offset_0x1DEEC_Len_7"
+msgid "Oneshot"
 msgstr ""
 
 #. Max bytes: 36

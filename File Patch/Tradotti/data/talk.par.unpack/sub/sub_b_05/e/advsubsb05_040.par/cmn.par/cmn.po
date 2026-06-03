@@ -7,58 +7,48 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 7
-msgctxt "Offset_0x5480D_Len_7"
-msgid ". >ۏ0>"
-msgstr ""
+#. Max bytes: 5
+msgctxt "Offset_0xC4FAF_Len_5"
+msgid "Eff\"E"
+msgstr "Eff\"E"
 
 #. Max bytes: 7
 msgctxt "Offset_0xFC569_Len_7"
 msgid " ^EÑaE"
-msgstr ""
+msgstr " ^EÑaE"
 
 #. Max bytes: 5
 msgctxt "Offset_0x197AD7_Len_5"
 msgid "F{ \rF"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x2C726C_Len_4"
-msgid " є?"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x2CA0FC_Len_4"
-msgid " N{9"
-msgstr ""
+msgstr "F{ \rF"
 
 #. Max bytes: 24
 msgctxt "Offset_0x363F28_Len_24"
 msgid "Sake and cucumber salad."
-msgstr ""
+msgstr "Sake e cetrioli."
 
 #. Max bytes: 11
 msgctxt "Offset_0x363F68_Len_11"
 msgid "Sexy women."
-msgstr ""
+msgstr "Donne sexy."
 
 #. Max bytes: 21
 msgctxt "Offset_0x363FA8_Len_21"
 msgid "Onomichi ramen-michi!"
-msgstr ""
+msgstr "Ramen-michi!"
 
 #. Max bytes: 6
 msgctxt "Offset_0x3645A8_Len_6"
 msgid "Oh no!"
-msgstr ""
+msgstr "Oh no!"
 
 #. Max bytes: 23
 msgctxt "Offset_0x3645E8_Len_23"
 msgid "I once loved someone..."
-msgstr ""
+msgstr "Ho amato qualcuno..."
 
 #. Max bytes: 22
 msgctxt "Offset_0x364628_Len_22"
 msgid "I'm actually a virgin."
-msgstr ""
+msgstr "Sono ancora vergine."
 

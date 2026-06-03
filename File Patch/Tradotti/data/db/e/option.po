@@ -145,7 +145,7 @@ msgstr "SSAO"
 
 msgctxt "47||graphics_ssss||name"
 msgid "Subsurface Scattering"
-msgstr "Subsurface Scattering"
+msgstr "Subsurface scattering"
 
 msgctxt "48||graphics_render_scale||name"
 msgid "Render Scale"
@@ -509,7 +509,7 @@ msgstr "Sì"
 
 msgctxt "16||minimap_visible||subtable||2||hide||name"
 msgid "Hide"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "17||blood_type||subtable||1||normal||name"
 msgid "Normal"
@@ -541,7 +541,7 @@ msgstr "Sì"
 
 msgctxt "20||subtitles_display||subtable||2||hide||name"
 msgid "Hide"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "25||speaker_type||subtable||1||stereo||name"
 msgid "Stereo"
@@ -685,7 +685,7 @@ msgstr "Sì"
 
 msgctxt "28||auto_camera||subtable||2||disabled||name"
 msgid "Off"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "29||ringtone||subtable||1||voices||name"
 msgid "Soundwaves"
@@ -737,7 +737,7 @@ msgstr "120.0Hz"
 
 msgctxt "36||graphics_vertical_sync||subtable||1||vert_sync_off||name"
 msgid "Off"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "36||graphics_vertical_sync||subtable||2||vert_sync_on||name"
 msgid "On"
@@ -793,7 +793,7 @@ msgstr "Alta"
 
 msgctxt "41||graphics_texture_filtering||subtable||1||texture_filtering_off||name"
 msgid "Off"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "41||graphics_texture_filtering||subtable||2||texture_filtering_2x||name"
 msgid "2x"
@@ -837,7 +837,7 @@ msgstr "Alta"
 
 msgctxt "44||graphics_realtime_reflections||subtable||1||realtime_reflections_disabled||name"
 msgid "Off"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "44||graphics_realtime_reflections||subtable||2||realtime_reflections_enabled||name"
 msgid "On"
@@ -845,7 +845,7 @@ msgstr "Sì"
 
 msgctxt "45||graphics_motion_blur||subtable||1||motion_blur_disabled||name"
 msgid "Off"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "45||graphics_motion_blur||subtable||2||motion_blur_enabled||name"
 msgid "On"
@@ -853,7 +853,7 @@ msgstr "Sì"
 
 msgctxt "46||graphics_ssao||subtable||1||SSAO_off||name"
 msgid "Off"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "46||graphics_ssao||subtable||2||SSAO_on||name"
 msgid "On"
@@ -861,7 +861,7 @@ msgstr "Sì"
 
 msgctxt "47||graphics_ssss||subtable||1||SSSS_off||name"
 msgid "Off"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "47||graphics_ssss||subtable||2||SSSS_on||name"
 msgid "On"
@@ -885,7 +885,7 @@ msgstr "25%"
 
 msgctxt "50||graphics_aa||subtable||1||AA_OFF||name"
 msgid "Off"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "50||graphics_aa||subtable||2||FXAA||name"
 msgid "FXAA"
@@ -913,7 +913,7 @@ msgstr "SSAA 2.00x"
 
 msgctxt "51||graphics_dof||subtable||1||DOF_off||name"
 msgid "Off"
-msgstr "No"
+msgstr "NO"
 
 msgctxt "51||graphics_dof||subtable||2||DOF_on||name"
 msgid "On"

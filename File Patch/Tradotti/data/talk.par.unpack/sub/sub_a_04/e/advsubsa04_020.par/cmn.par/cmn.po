@@ -7,43 +7,38 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 5
-msgctxt "Offset_0xC23B_Len_5"
-msgid "= ߺ;"
-msgstr ""
-
 #. Max bytes: 6
-msgctxt "Offset_0x60622_Len_6"
-msgid " =ڼ6<"
-msgstr ""
+msgctxt "Offset_0x18062_Len_6"
+msgid "CFHQEF"
+msgstr "CFHQEF"
 
 #. Max bytes: 7
 msgctxt "Offset_0x63445_Len_7"
 msgid "DLF\n NF"
-msgstr ""
+msgstr "DLF\n NF"
 
 #. Max bytes: 29
 msgctxt "Offset_0x9E844_Len_29"
 msgid "I've had enough of your lies."
-msgstr ""
+msgstr "Basta con le tue bugie."
 
 #. Max bytes: 34
 msgctxt "Offset_0x9E884_Len_34"
 msgid "The modern world is a crazy place."
-msgstr ""
+msgstr "Il mondo moderno è da pazzi."
 
 #. Max bytes: 15
 msgctxt "Offset_0x9E8C4_Len_15"
 msgid "I'm going home."
-msgstr ""
+msgstr "Vado a casa."
 
 #. Max bytes: 14
 msgctxt "Offset_0x9EEC4_Len_14"
 msgid "I'll help you."
-msgstr ""
+msgstr "Ti aiuterò."
 
 #. Max bytes: 23
 msgctxt "Offset_0x9EF04_Len_23"
 msgid "I'm too busy right now."
-msgstr ""
+msgstr "Sono troppo occupato."
 

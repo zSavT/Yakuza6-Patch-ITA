@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0xF45C_Len_15"
 msgid "A fantasy film."
-msgstr ""
+msgstr "Film fantasy."
 
 #. Max bytes: 15
 msgctxt "Offset_0xF49C_Len_15"
 msgid "A romance film."
-msgstr ""
+msgstr "Film d'amore."
 
 #. Max bytes: 14
 msgctxt "Offset_0xF4DC_Len_14"
 msgid "A comedy film."
-msgstr ""
+msgstr "Film comico."
 

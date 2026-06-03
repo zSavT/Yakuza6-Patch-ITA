@@ -10,40 +10,44 @@ msgstr ""
 #. Max bytes: 37
 msgctxt "Offset_0x1958_Len_37"
 msgid "(Hm, that guy looks pretty muscular.)"
-msgstr ""
+msgstr "(Hm, quel tizio sembra muscoloso.)"
 
 #. Max bytes: 51
 msgctxt "Offset_0x1A48_Len_51"
 msgid "(I bet he would be a great asset for the Warriors.)"
-msgstr ""
+msgstr "(Sarebbe un gran rinforzo per i Warriors.)"
 
 #. Max bytes: 47
 msgctxt "Offset_0x1B68_Len_47"
 msgid "(Okay, then. I should go see what his deal is.)"
-msgstr ""
+msgstr "(Bene, vado a vedere cosa vuole.)"
 
 #. Max bytes: 46
 msgctxt "Offset_0x30A4_Len_46"
 msgid "(I guess I have to go buy him some alcohol...)"
-msgstr ""
+msgstr "(Mi sa che devo comprargli dell'alcol...)"
 
 #. Max bytes: 28
 msgctxt "Offset_0x3510_Len_28"
 msgid "(All right, welcome aboard!)"
-msgstr ""
+msgstr "(Bene, benvenuto a bordo!)"
 
 #. Max bytes: 95
 msgctxt "Offset_0x35E0_Len_95"
-msgid "(I'll need to keep finding players for the Warriors\nif I want to help the team really succeed.)"
+msgid ""
+"(I'll need to keep finding players for the Warriors\n"
+"if I want to help the team really succeed.)"
 msgstr ""
+"(Devo continuare a cercare giocatori\n"
+"per portare i Warriors al successo.)"
 
 #. Max bytes: 35
 msgctxt "Offset_0x3720_Len_35"
 msgid "(Wait, let's not give it to him...)"
-msgstr ""
+msgstr "(Aspetta, meglio non darglielo...)"
 
 #. Max bytes: 42
 msgctxt "Offset_0x20DBC_Len_42"
 msgid "Kuramoto has joined the Setouchi Warriors."
-msgstr ""
+msgstr "Kuramoto entra nei Setouchi Warriors."
 

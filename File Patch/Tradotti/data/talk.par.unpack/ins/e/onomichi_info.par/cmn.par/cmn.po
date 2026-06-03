@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 104
 msgctxt "Offset_0xF7E4_Len_104"
-msgid "Incidents around Onomichi will now be posted to Troublr.\nSelect a post from the list to begin a mission."
+msgid ""
+"Incidents around Onomichi will now be posted to Troublr.\n"
+"Select a post from the list to begin a mission."
 msgstr ""
+"I casi di Onomichi verranno segnalati su Troublr.\n"
+"Scegli un post dalla lista per avviare una missione."
 

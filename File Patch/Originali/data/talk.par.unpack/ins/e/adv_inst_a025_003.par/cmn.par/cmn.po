@@ -12,3 +12,8 @@ msgctxt "Offset_0x1244_Len_39"
 msgid "Hey, you can't dine and dash like that!"
 msgstr ""
 
+#. Max bytes: 7
+msgctxt "Offset_0x1334_Len_7"
+msgid "Dammit!"
+msgstr ""
+

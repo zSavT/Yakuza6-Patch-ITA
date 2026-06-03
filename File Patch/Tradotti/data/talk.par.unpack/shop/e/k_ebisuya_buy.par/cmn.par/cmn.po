@@ -10,25 +10,29 @@ msgstr ""
 #. Max bytes: 16
 msgctxt "Offset_0x4138_Len_16"
 msgid "I'm here to buy."
-msgstr ""
+msgstr "Qui per comprare"
 
 #. Max bytes: 17
 msgctxt "Offset_0x4178_Len_17"
 msgid "I'm here to sell."
-msgstr ""
+msgstr "Qui per vendere"
 
 #. Max bytes: 16
 msgctxt "Offset_0x4838_Len_16"
 msgid "I'm here to buy."
-msgstr ""
+msgstr "Qui per comprare"
 
 #. Max bytes: 17
 msgctxt "Offset_0x4878_Len_17"
 msgid "I'm here to sell."
-msgstr ""
+msgstr "Qui per vendere"
 
 #. Max bytes: 69
 msgctxt "Offset_0x4DD8_Len_69"
-msgid "(I don't have anything I can sell.\nMaybe I should come back later...)"
+msgid ""
+"(I don't have anything I can sell.\n"
+"Maybe I should come back later...)"
 msgstr ""
+"(Non ho nulla da vendere.\n"
+"Meglio tornare più tardi...)"
 

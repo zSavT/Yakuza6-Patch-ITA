@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 18
 msgctxt "Offset_0xE474_Len_18"
 msgid "I play them a lot."
-msgstr ""
+msgstr "Ci gioco molto."
 
 #. Max bytes: 14
 msgctxt "Offset_0xE4B4_Len_14"
 msgid "Not very much."
-msgstr ""
+msgstr "Non molto."
 
 #. Max bytes: 15
 msgctxt "Offset_0xE4F4_Len_15"
 msgid "Life is a game."
-msgstr ""
+msgstr "Vita? Un gioco"
 

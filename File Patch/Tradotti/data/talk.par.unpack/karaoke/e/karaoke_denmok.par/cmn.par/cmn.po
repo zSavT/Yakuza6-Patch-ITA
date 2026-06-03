@@ -9,6 +9,10 @@ msgstr ""
 
 #. Max bytes: 52
 msgctxt "Offset_0x1250_Len_52"
-msgid "Thank you for coming.\nWe hope to see you again soon."
+msgid ""
+"Thank you for coming.\n"
+"We hope to see you again soon."
 msgstr ""
+"Grazie della visita.\n"
+"Speriamo di rivederti presto."
 

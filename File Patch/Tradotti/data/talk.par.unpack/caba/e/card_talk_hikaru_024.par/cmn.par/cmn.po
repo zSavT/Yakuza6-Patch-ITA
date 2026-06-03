@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 21
 msgctxt "Offset_0x17968_Len_21"
 msgid "Communication skills?"
-msgstr ""
+msgstr "Doti comunicative?"
 
 #. Max bytes: 24
 msgctxt "Offset_0x179A8_Len_24"
 msgid "People fawning over you?"
-msgstr ""
+msgstr "Gente che ti adula?"
 
 #. Max bytes: 34
 msgctxt "Offset_0x179E8_Len_34"
 msgid "You can sleep your way to the top?"
-msgstr ""
+msgstr "Puoi far carriera a letto?"
 

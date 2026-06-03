@@ -7,23 +7,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 20
-msgctxt "Offset_0x530CF_Len_20"
-msgid " !\"#$%&()f[jmpbpkXC."
-msgstr ""
-
 #. Max bytes: 34
 msgctxt "Offset_0x1DE570_Len_34"
 msgid "Crying isn't gonna solve anything."
-msgstr ""
+msgstr "Piangere non risolverà nulla."
 
 #. Max bytes: 34
 msgctxt "Offset_0x1DE5B0_Len_34"
 msgid "There's no way you swapped bodies."
-msgstr ""
+msgstr "Non vi siete scambiati i corpi."
 
 #. Max bytes: 36
 msgctxt "Offset_0x1DE5F0_Len_36"
 msgid "I'll lend you my shoulder to cry on."
-msgstr ""
+msgstr "Ti offro una spalla per piangere."
 

@@ -32,8 +32,8 @@ msgctxt "Offset_0x9D0_Len_15"
 msgid "Check the Rules"
 msgstr ""
 
-#. Max bytes: 19
-msgctxt "Offset_0xDA0_Len_19"
-msgid "遊玩Out Run[EASY]"
+#. Max bytes: 6
+msgctxt "Offset_0xA10_Len_6"
+msgid "Cancel"
 msgstr ""
 

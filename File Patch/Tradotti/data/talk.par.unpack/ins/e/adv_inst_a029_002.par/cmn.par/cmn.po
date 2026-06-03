@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 14
 msgctxt "Offset_0x1C4_Len_14"
 msgid "Hey, open up!)"
-msgstr ""
+msgstr "Apri!)"
 
 #. Max bytes: 75
 msgctxt "Offset_0x284_Len_75"
 msgid "(I think there's someone in there...\nThey must be the person from Troublr.)"
-msgstr ""
+msgstr "(Credo ci sia qualcuno là dentro...\nSarà l'utente di Troublr.)"
 

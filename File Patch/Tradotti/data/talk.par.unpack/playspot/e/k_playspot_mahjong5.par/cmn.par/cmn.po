@@ -10,10 +10,20 @@ msgstr ""
 #. Max bytes: 5
 msgctxt "Offset_0x2AF3_Len_5"
 msgid ">CI >"
-msgstr ""
+msgstr ">CI >"
 
 #. Max bytes: 31
 msgctxt "Offset_0x3808_Len_31"
 msgid "Play mahjong at the hard table?"
-msgstr ""
+msgstr "Mahjong al tavolo difficile?"
+
+#. Max bytes: 3
+msgctxt "Offset_0x3908_Len_3"
+msgid "Yes"
+msgstr "Sì"
+
+#. Max bytes: 2
+msgctxt "Offset_0x3948_Len_2"
+msgid "No"
+msgstr "No"
 

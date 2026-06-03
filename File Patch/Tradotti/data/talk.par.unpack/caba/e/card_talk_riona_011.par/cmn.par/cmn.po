@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 25
 msgctxt "Offset_0x1ACAC_Len_25"
 msgid "Was she one of your fans?"
-msgstr ""
+msgstr "Era una tua fan?"
 
 #. Max bytes: 17
 msgctxt "Offset_0x1ACEC_Len_17"
 msgid "Was she a friend?"
-msgstr ""
+msgstr "Era un'amica?"
 
 #. Max bytes: 24
 msgctxt "Offset_0x1AD2C_Len_24"
 msgid "Was she your girlfriend?"
-msgstr ""
+msgstr "Era la tua ragazza?"
 

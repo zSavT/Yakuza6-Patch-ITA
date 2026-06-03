@@ -10,20 +10,30 @@ msgstr ""
 #. Max bytes: 40
 msgctxt "Offset_0x690_Len_40"
 msgid "(Maybe I should see what my fortune is.)"
-msgstr ""
+msgstr "(Forse dovrei farmi leggere la sorte.)"
 
 #. Max bytes: 30
 msgctxt "Offset_0x790_Len_30"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 #. Max bytes: 28
 msgctxt "Offset_0x870_Len_28"
 msgid "(I think I'll pass for now.)"
-msgstr ""
+msgstr "(Penso che per ora passerò)"
 
 #. Max bytes: 27
 msgctxt "Offset_0x920_Len_27"
 msgid "Draw a fortune for 100 yen?"
-msgstr ""
+msgstr "Pescare la sorte a 100 yen?"
+
+#. Max bytes: 3
+msgctxt "Offset_0xA20_Len_3"
+msgid "Yes"
+msgstr "Sì"
+
+#. Max bytes: 2
+msgctxt "Offset_0xA60_Len_2"
+msgid "No"
+msgstr "No"
 

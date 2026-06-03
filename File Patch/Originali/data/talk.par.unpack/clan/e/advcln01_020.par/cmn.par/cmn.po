@@ -12,18 +12,8 @@ msgctxt "Offset_0x46DC_Len_4"
 msgid "Ze ?"
 msgstr ""
 
-#. Max bytes: 4
-msgctxt "Offset_0x85BEC_Len_4"
-msgid "	d <"
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x8905C_Len_4"
-msgid "1 j="
-msgstr ""
-
-#. Max bytes: 4
-msgctxt "Offset_0x9FA40_Len_4"
-msgid "O( :"
+#. Max bytes: 2
+msgctxt "Offset_0xBDE24_Len_2"
+msgid "Oh"
 msgstr ""
 

@@ -8,6 +8,11 @@ msgstr ""
 "Language: it\n"
 
 #. Max bytes: 6
+msgctxt "Offset_0x5BAEE_Len_6"
+msgid "EFH\\IF"
+msgstr ""
+
+#. Max bytes: 6
 msgctxt "Offset_0x641A2_Len_6"
 msgid " >UdM="
 msgstr ""
@@ -17,19 +22,9 @@ msgctxt "Offset_0x755FF_Len_9"
 msgid ">8OA>K @="
 msgstr ""
 
-#. Max bytes: 11
-msgctxt "Offset_0x7EB3D_Len_11"
-msgid "ď> 	!>\\A9>"
-msgstr ""
-
 #. Max bytes: 20
 msgctxt "Offset_0x8D77F_Len_20"
 msgid "GJMPjtqile^WPIB;4-' "
-msgstr ""
-
-#. Max bytes: 31
-msgctxt "Offset_0x8D834_Len_31"
-msgid "&''''(((())))***++g}tfvth\\PD8, "
 msgstr ""
 
 #. Max bytes: 23
@@ -75,15 +70,5 @@ msgstr ""
 #. Max bytes: 39
 msgctxt "Offset_0xDB994_Len_39"
 msgid "After a closer look, she's pretty cute."
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0xDD722_Len_6"
-msgid " ?|V2?"
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0xDD7B6_Len_6"
-msgid " ?|V2?"
 msgstr ""
 

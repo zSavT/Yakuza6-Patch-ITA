@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 41
 msgctxt "Offset_0x1A980_Len_41"
 msgid "A man who's quick to strip off his shirt."
-msgstr ""
+msgstr "Un uomo che si spoglia in fretta."
 
 #. Max bytes: 15
 msgctxt "Offset_0x1A9C0_Len_15"
 msgid "A feminine man."
-msgstr ""
+msgstr "Uomo effeminato"
 
 #. Max bytes: 14
 msgctxt "Offset_0x1AA00_Len_14"
 msgid "A man like me."
-msgstr ""
+msgstr "Uno come me."
 

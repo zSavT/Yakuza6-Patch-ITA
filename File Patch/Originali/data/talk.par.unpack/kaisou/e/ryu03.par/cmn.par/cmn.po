@@ -27,19 +27,9 @@ msgctxt "Offset_0x1720_Len_447"
 msgid "The Events of Yakuza 3\n\n\"Black Monday\" was its name, and at its head, a man named\nAndre Richardson... \n\nRyuzo Tamiya, the Japanese Minister of Defense, had allied with the\nAmerican CIA to lure out Black Monday. He'd leaked information about\nthe production of a ballistic missile system to lure Richardson to Japan...\n\nAnd he took the bait. But the CIA also sent an agent to assist in his\ncapture... Joji Kazama, younger brother of Shintaro Kazama."
 msgstr ""
 
-#. Max bytes: 439
-msgctxt "Offset_0x18E0_Len_439"
-msgid "『人中之龍３』 劇情提要\n\r\n\r\n以自稱安德列‧理查森的男人為首腦的\n軍火走私組織「黑色星期一」……\n\n現任國防大臣田宮隆造和CIA（美國中情局）聯手\n希望能夠摧毀「黑色星期一」，\n於是藉由洩漏防衛彈道飛彈的開發資訊，\n打算將理查森引至日本。\n\n而CIA為此派來日本的諜報員……\n便是風間讓二，\n也就是風間新太郎的親弟弟。"
-msgstr ""
-
 #. Max bytes: 350
 msgctxt "Offset_0x1B30_Len_350"
 msgid "The Events of Yakuza 3\n\nTamiya revealed that the missile system and the resort development were\nboth, in truth, tactics deployed to bring Black Monday to the surface.\n\nBut the CIA had its own agenda, and Tamiya had no means of controlling\nthe streak of blood left in Joji Kazama's wake. To stop him, he turned to\nKiryu.\n\nMeanwhile, back in Okinawa..."
-msgstr ""
-
-#. Max bytes: 341
-msgctxt "Offset_0x1C90_Len_341"
-msgid "『人中之龍３』 劇情提要\n\r\n\r\n沖繩的度假村開發案與擴充美軍基地等關鍵字，\n全都是與「黑色星期一」相關權謀的產物。\n\n而田宮本人則私下尋求桐生協助，\n希望他能阻止不受控制的\nCIA諜報員風間讓二。\n\n此時，沖繩的琉道一家\n眼看即將被捲入另一起事件。"
 msgstr ""
 
 #. Max bytes: 516

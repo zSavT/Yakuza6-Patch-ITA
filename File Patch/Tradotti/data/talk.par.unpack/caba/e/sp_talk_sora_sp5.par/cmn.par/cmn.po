@@ -7,8 +7,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+msgctxt "Offset_0xA74_Len_4"
+msgid "SORA"
+msgstr "Sora"
+
 #. Max bytes: 37
 msgctxt "Offset_0xC334_Len_37"
 msgid "Sora's rank has increased to Diamond."
-msgstr ""
+msgstr "Sora è salita al grado Diamante."
 

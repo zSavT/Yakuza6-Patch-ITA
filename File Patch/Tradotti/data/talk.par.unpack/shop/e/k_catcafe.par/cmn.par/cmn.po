@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 13
 msgctxt "Offset_0x52D64_Len_13"
 msgid "Feed the Cats"
-msgstr ""
+msgstr "Nutri i gatti"
 
 #. Max bytes: 12
 msgctxt "Offset_0x52DA4_Len_12"
 msgid "Buy Cat Food"
-msgstr ""
+msgstr "Compra cibo"
 

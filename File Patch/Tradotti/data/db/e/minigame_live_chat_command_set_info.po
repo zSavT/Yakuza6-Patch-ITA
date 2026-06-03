@@ -13,7 +13,7 @@ msgstr "Piacere di conoscerti"
 
 msgctxt "12||anri_start_second_play||chapterText"
 msgid "Hello Again"
-msgstr "Di nuovo ciao"
+msgstr "Ciao di nuovo"
 
 msgctxt "13||anri_clear_after||chapterText"
 msgid "To Heaven"
@@ -41,7 +41,7 @@ msgstr "Il fascino di una donna più grande"
 
 msgctxt "19||anri_movie1_04||chapterText"
 msgid "Broken AC"
-msgstr "AC rotta"
+msgstr "Aria condizionata rotta"
 
 msgctxt "20||anri_movie1_05||chapterText"
 msgid "Kiryu's Banana"
@@ -61,11 +61,11 @@ msgstr "Un bel vedere"
 
 msgctxt "24||anri_movie2_03||chapterText"
 msgid "Confidence"
-msgstr "Fiducia in se stessi"
+msgstr "Sicurezza di sé"
 
 msgctxt "25||anri_movie2_04||chapterText"
 msgid "Leg-lovers Unite"
-msgstr "Amanti delle gambe unitevi"
+msgstr "Amanti delle gambe, unitevi"
 
 msgctxt "26||anri_movie2_05||chapterText"
 msgid "A Trip to China"
@@ -89,7 +89,7 @@ msgstr "Mani ovunque"
 
 msgctxt "31||anri_movie3_04||chapterText"
 msgid "Cravings"
-msgstr "Desideri"
+msgstr "Voglie"
 
 msgctxt "32||anri_movie3_05||chapterText"
 msgid "Take Me to Heaven"
@@ -97,7 +97,7 @@ msgstr "Portami in paradiso"
 
 msgctxt "33||anri_movie1_99||chapterText"
 msgid "Not in the Mood"
-msgstr "Non dell'umore"
+msgstr "Non in vena"
 
 msgctxt "34||anri_movie2_99||chapterText"
 msgid "Not Feeling It"
@@ -105,7 +105,7 @@ msgstr "Non me la sento"
 
 msgctxt "35||anri_movie3_99||chapterText"
 msgid "Logging Off"
-msgstr "Mi disconnetto"
+msgstr "Disconnessione"
 
 msgctxt "36||anri_movie4_99||chapterText"
 msgid "A Lifetime of Pleasure"
@@ -161,15 +161,15 @@ msgstr "Ogni. Singolo. Centimetro."
 
 msgctxt "49||yua_movie2_04||chapterText"
 msgid "Yua's Request Corner"
-msgstr "L'angolo delle richieste"
+msgstr "L'angolo delle richieste di Yua"
 
 msgctxt "50||yua_movie2_05||chapterText"
 msgid "Injection Time"
-msgstr "Tempo di iniezioni"
+msgstr "L'ora delle iniezioni"
 
 msgctxt "51||yua_movie2_06||chapterText"
 msgid "Naughty Together"
-msgstr "Cattivi insieme"
+msgstr "Maliziosi insieme"
 
 msgctxt "52||yua_movie3_01||chapterText"
 msgid "Kinda Sore"
@@ -189,23 +189,23 @@ msgstr "Pulsioni"
 
 msgctxt "56||yua_movie3_05||chapterText"
 msgid "Alone Time"
-msgstr "Tempo da soli"
+msgstr "Un momento per noi"
 
 msgctxt "57||yua_movie1_99||chapterText"
 msgid "Not Up To It"
-msgstr "Non all'altezza"
+msgstr "Non me la sento"
 
 msgctxt "58||yua_movie2_99||chapterText"
 msgid "Feeling Out of It"
-msgstr "Sentirsi fuori fase"
+msgstr "Fuori fase"
 
 msgctxt "59||yua_movie3_99||chapterText"
 msgid "Losing the Fire"
-msgstr "Perdere il fuoco"
+msgstr "Passione spenta"
 
 msgctxt "60||yua_movie4_99||chapterText"
 msgid "Post Climax"
-msgstr "Post orgasmo"
+msgstr "Dopo l'orgasmo"
 
 msgctxt "61||anri_movie3_06||chapterText"
 msgid "Private Time"

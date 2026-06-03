@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 4
+msgctxt "Offset_0xA8D8_Len_4"
+msgid "̋HA"
+msgstr ""
+
+#. Max bytes: 30
+msgctxt "Offset_0x3659C_Len_30"
+msgid "Entertain the fourth chairman."
+msgstr "Diverti il quarto presidente."
+

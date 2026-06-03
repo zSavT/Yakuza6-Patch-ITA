@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0x13DDC_Len_17"
 msgid "I like mysteries."
-msgstr ""
+msgstr "Amo i misteri."
 
 #. Max bytes: 26
 msgctxt "Offset_0x13E1C_Len_26"
 msgid "I like gory horror movies."
-msgstr ""
+msgstr "Amo gli horror splatter."
 
 #. Max bytes: 22
 msgctxt "Offset_0x13E5C_Len_22"
 msgid "I was in a movie once."
-msgstr ""
+msgstr "Ho fatto un film."
 

@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 27
 msgctxt "Offset_0x17A4_Len_27"
 msgid "Where would you like to go?"
-msgstr ""
+msgstr "Dove vorresti andare?"
 
 #. Max bytes: 36
 msgctxt "Offset_0x1874_Len_36"
 msgid "We look forward to seeing you again."
-msgstr ""
+msgstr "Speriamo di rivederti presto."
 
 #. Max bytes: 27
 msgctxt "Offset_0x1954_Len_27"
 msgid "Well then, let's get going."
-msgstr ""
+msgstr "Bene, allora andiamo."
 

@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 35
 msgctxt "Offset_0x11228_Len_35"
 msgid "Oh, that country in southeast Asia?"
-msgstr ""
+msgstr "Oh, il paese del sud-est asiatico?"
 
 #. Max bytes: 38
 msgctxt "Offset_0x11268_Len_38"
 msgid "The place with the famous hot springs?"
-msgstr ""
+msgstr "Il posto con le famose terme?"
 
 #. Max bytes: 18
 msgctxt "Offset_0x112A8_Len_18"
 msgid "Isn't that a tool?"
-msgstr ""
+msgstr "Non è un arnese?"
 

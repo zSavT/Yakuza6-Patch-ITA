@@ -10,20 +10,20 @@ msgstr ""
 #. Max bytes: 6
 msgctxt "Offset_0x8A7A_Len_6"
 msgid " A͌:C"
-msgstr ""
+msgstr " A͌:C"
 
 #. Max bytes: 17
 msgctxt "Offset_0xE1B8_Len_17"
 msgid "I am, actually..."
-msgstr ""
+msgstr "In realtà..."
 
 #. Max bytes: 24
 msgctxt "Offset_0xE1F8_Len_24"
 msgid "That's not what I meant!"
-msgstr ""
+msgstr "Non intendevo questo!"
 
 #. Max bytes: 27
 msgctxt "Offset_0xE238_Len_27"
 msgid "You're the only one for me."
-msgstr ""
+msgstr "Ci sei solo tu per me."
 

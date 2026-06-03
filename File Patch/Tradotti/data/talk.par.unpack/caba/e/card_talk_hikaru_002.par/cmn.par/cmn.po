@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 21
 msgctxt "Offset_0x15420_Len_21"
 msgid "Let me buy next time."
-msgstr ""
+msgstr "Offro io la prossima."
 
 #. Max bytes: 26
 msgctxt "Offset_0x15460_Len_26"
 msgid "Buy some for me next time."
-msgstr ""
+msgstr "Offri tu la prossima."
 

@@ -17,11 +17,11 @@ msgstr "Va tutto bene, va tutto bene."
 
 msgctxt "2||||telop"
 msgid "Who wants a swing?"
-msgstr "Chi vuole dondolare?"
+msgstr "Chi vuole farsi dondolare?"
 
 msgctxt "3||||telop"
 msgid "Okay, up we go!"
-msgstr "Ok, andiamo su!"
+msgstr "Ok, si va su!"
 
 msgctxt "4||||telop"
 msgid "(Does he want me to lift him?)"
@@ -29,12 +29,12 @@ msgstr "(Vuole che lo sollevi?)"
 
 msgctxt "5||||telop"
 msgid "(I think he wants me to swing him...)"
-msgstr "(Credo voglia essere dondolato...)"
+msgstr "(Credo voglia farsi dondolare...)"
 
 msgctxt "6||||telop"
 msgid "(I think he wants the upsy-daisy trick...)"
-msgstr "(Credo voglia fare oplà...)"
+msgstr "(Credo voglia che gli faccia 'oplà'...)"
 
 msgctxt "7||||telop"
 msgid "(Looks like he wants rubs...)"
-msgstr "(Sembra che voglia i grattini...)"
+msgstr "(Sembra che voglia delle carezze...)"

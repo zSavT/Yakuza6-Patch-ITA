@@ -9,21 +9,33 @@ msgstr ""
 
 #. Max bytes: 70
 msgctxt "Offset_0x1B74_Len_70"
-msgid "All right, that's it for today's session!\nNow let's see how you did..."
+msgid ""
+"All right, that's it for today's session!\n"
+"Now let's see how you did..."
 msgstr ""
+"Fine della sessione di oggi!\n"
+"Ora vediamo come sei andato..."
 
 #. Max bytes: 60
 msgctxt "Offset_0x1CA4_Len_60"
-msgid "That was perfect, Kiryu-san!\nYou must be in excellent shape!"
+msgid ""
+"That was perfect, Kiryu-san!\n"
+"You must be in excellent shape!"
 msgstr ""
+"È stato perfetto, Kiryu-san!\n"
+"Devi essere in ottima forma!"
 
 #. Max bytes: 73
 msgctxt "Offset_0x1DC4_Len_73"
-msgid "Now then, let's talk about your diet!\nYour recommendation for today is..."
+msgid ""
+"Now then, let's talk about your diet!\n"
+"Your recommendation for today is..."
 msgstr ""
+"E ora, parliamo della tua dieta!\n"
+"Oggi ti raccomando questo..."
 
 #. Max bytes: 35
 msgctxt "Offset_0x1EF4_Len_35"
 msgid "Farewell, Kiryu-san!\nYou can do it!"
-msgstr ""
+msgstr "A presto, Kiryu-san!\nCe la farai!"
 

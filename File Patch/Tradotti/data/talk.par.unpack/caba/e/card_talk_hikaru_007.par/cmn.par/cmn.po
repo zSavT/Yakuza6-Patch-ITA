@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 25
 msgctxt "Offset_0xEC20_Len_25"
 msgid "I'll be attentive to you."
-msgstr ""
+msgstr "Sarò premuroso con te."
 
 #. Max bytes: 31
 msgctxt "Offset_0xEC60_Len_31"
 msgid "I don't like attention seekers."
-msgstr ""
+msgstr "Odio chi cerca attenzioni."
 

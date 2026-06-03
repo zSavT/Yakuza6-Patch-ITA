@@ -41,7 +41,7 @@ msgstr "Non puoi sceglierne altri."
 
 msgctxt "1||shop||table||13||||1"
 msgid "Kiryu will be full if he eats any more. Eating while\r\nfull will replenish health, but will not grant\r\nextra effects like EXP or bonuses from menu\r\ncombinations."
-msgstr "Kiryu sarà sazio se mangia ancora. Mangiare a\r\nstomaco pieno ripristinerà la salute, ma non fornirà\r\neffetti extra come EXP o bonus dalle\r\ncombinazioni dei menu."
+msgstr "Con questo pasto Kiryu sarà completamente sazio. Mangiare a\r\nstomaco pieno ripristinerà la salute, ma non fornirà\r\neffetti extra come EXP o bonus dalle\r\ncombinazioni dei menu."
 
 msgctxt "1||shop||table||14||||1"
 msgid "Please select a product."
@@ -469,7 +469,7 @@ msgstr "${save_id} ${chapter_title}"
 
 msgctxt "10||save_data||table||4||||1"
 msgid "Difficulty: ${difficulty}\r\n                                 Total Play Time: ${play_time}\r\n                                 Money: ${money}\r\n[Stats]                    Overall: ${abillity_total}\r\n                                 Stats: ${abillity_skill_base}\r\n                                 Health: ${abillity_hit_point}\r\n                                 Attack: ${abillity_attack}\r\n                                 Defense: ${abillity_defence}\r\n                                 Evasion: ${abillity_agility}\r\n                                 Heat Gauge: ${abillity_heat_gauge}\r\n                                 Battle Skills: ${abillity_skill_battle}\r\n                                 Heat Actions: ${abillity_skill_heat}\r\n                                 Other Skills: ${abillity_skill_other}"
-msgstr "Difficoltà: ${difficulty}\r\n                                 Tempo di gioco totale: ${play_time}\r\n                                 Denaro: ${money}\r\n[Stat.]                    Totale: ${abillity_total}\r\n                                 Statistiche: ${abillity_skill_base}\r\n                                 Salute: ${abillity_hit_point}\r\n                                 Attacco: ${abillity_attack}\r\n                                 Difesa: ${abillity_defence}\r\n                                 Schivata: ${abillity_agility}\r\n                                 Barra Furore: ${abillity_heat_gauge}\r\n                                 Abilità di battaglia: ${abillity_skill_battle}\r\n                                 Azioni Furore: ${abillity_skill_heat}\r\n                                 Altre abilità: ${abillity_skill_other}"
+msgstr "Difficoltà: ${difficulty}\r\n                                 Tempo di gioco totale: ${play_time}\r\n                                 Denaro: ${money}\r\n[Stat.]                    Totale: ${abillity_total}\r\n                                 Statistiche: ${abillity_skill_base}\r\n                                 Salute: ${abillity_hit_point}\r\n                                 Attacco: ${abillity_attack}\r\n                                 Difesa: ${abillity_defence}\r\n                                 Schivata: ${abillity_agility}\r\n                                 Barra Furore: ${abillity_heat_gauge}\r\n                                 Tecniche di battaglia: ${abillity_skill_battle}\r\n                                 Azioni Furore: ${abillity_skill_heat}\r\n                                 Tecniche varie: ${abillity_skill_other}"
 
 msgctxt "10||save_data||table||5||||1"
 msgid "New Save Data"
@@ -497,7 +497,7 @@ msgstr "Per caricare questi dati di salvataggio, il gioco deve essere completame
 
 msgctxt "10||save_data||table||22||||1"
 msgid "Use this save file to start a new game? Select \"No\" to continue\r\nexploring the world at your leisure."
-msgstr "Usare questo file di salvataggio per iniziare una nuova partita? Seleziona \"No\" per continuare a\r\nesplorare il mondo a tuo piacimento."
+msgstr "Usare questo file di salvataggio per iniziare una nuova partita?\r\nSeleziona \"No\" per continuare a esplorare il mondo a tuo piacimento."
 
 msgctxt "10||save_data||table||23||||1"
 msgid "This game uses an autosave feature. When the autosave icon is displayed,\r\nplease do not quit the game or turn power off."
@@ -537,7 +537,7 @@ msgstr "I dati non salvati andranno persi. Sei sicuro?"
 
 msgctxt "10||save_data||table||32||||1"
 msgid "Do you want to save? Content will be lost if overwritting."
-msgstr "Vuoi salvare? I contenuti verranno persi in caso di sovrascrittura."
+msgstr "Vuoi salvare? I dati precedenti andranno persi in caso di sovrascrittura."
 
 msgctxt "10||save_data||table||33||||1"
 msgid "Are you sure you want to delete this data?"
@@ -849,7 +849,7 @@ msgstr "Non hai abbastanza leader nella tua Forza di difesa."
 
 msgctxt "15||clan_creator||table||32||||1"
 msgid "A change was made to your saved Defense Force,\r\nso your online Defense Force has been updated accordingly."
-msgstr "È stata apportata una modifica alla tua Forza di difesa salvata,\r\nperciò la tua Forza di difesa online è stata aggiornata di conseguenza."
+msgstr "Hai modificato la tua Forza di difesa salvata,\r\npertanto quella online è stata aggiornata di conseguenza."
 
 msgctxt "15||clan_creator||table||33||||1"
 msgid "EXP Acquired: ${get_exp}"
@@ -913,7 +913,7 @@ msgstr "Non ci sono amici disponibili sul PlayStation™Network.\r\nChiedi loro 
 
 msgctxt "15||clan_creator||table||48||||1"
 msgid "Your consecutive win bonus streak will be discarded.\r\nAre you sure?"
-msgstr "Il tuo bonus serie di vittorie consecutive andrà perso.\r\nSei sicuro?"
+msgstr "Il tuo bonus per la serie di vittorie consecutive andrà perso.\r\nSei sicuro?"
 
 msgctxt "15||clan_creator||table||49||||1"
 msgid "You lost the Raid. New opponents will be chosen."

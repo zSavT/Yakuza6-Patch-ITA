@@ -10,5 +10,15 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0xB654_Len_17"
 msgid "What will you do?"
-msgstr ""
+msgstr "Cosa farai?"
+
+#. Max bytes: 5
+msgctxt "Offset_0xB754_Len_5"
+msgid "Darts"
+msgstr "Dardi"
+
+#. Max bytes: 7
+msgctxt "Offset_0xB794_Len_7"
+msgid "Karaoke"
+msgstr "Karaoke"
 

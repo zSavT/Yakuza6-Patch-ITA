@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 31
 msgctxt "Offset_0x1270C_Len_31"
 msgid "Not much you can do about that."
-msgstr ""
+msgstr "Non puoi farci molto."
 
 #. Max bytes: 25
 msgctxt "Offset_0x1274C_Len_25"
 msgid "Wait, you aren't a minor?"
-msgstr ""
+msgstr "Ma non sei minorenne?"
 
 #. Max bytes: 27
 msgctxt "Offset_0x1278C_Len_27"
 msgid "I want to be age checked..."
-msgstr ""
+msgstr "Verificami l'età..."
 

@@ -32,3 +32,8 @@ msgctxt "Offset_0x9F0_Len_15"
 msgid "Check the Rules"
 msgstr ""
 
+#. Max bytes: 6
+msgctxt "Offset_0xA30_Len_6"
+msgid "Cancel"
+msgstr ""
+

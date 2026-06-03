@@ -7,9 +7,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 4
-msgctxt "Offset_0x3BC5C_Len_4"
-msgid "ף @"
+#. Max bytes: 5
+msgctxt "Offset_0x3C3C7_Len_5"
+msgid "ERd\nE"
 msgstr ""
 
 #. Max bytes: 55
@@ -35,6 +35,11 @@ msgstr ""
 #. Max bytes: 13
 msgctxt "Offset_0x47E48_Len_13"
 msgid "Heh, I dunno."
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x48028_Len_4"
+msgid "Mama"
 msgstr ""
 
 #. Max bytes: 12
@@ -72,6 +77,11 @@ msgctxt "Offset_0x48808_Len_59"
 msgid "Bein' afraid of strangers is baked into my personality now."
 msgstr ""
 
+#. Max bytes: 8
+msgctxt "Offset_0x48A48_Len_8"
+msgid "Akiyoshi"
+msgstr ""
+
 #. Max bytes: 26
 msgctxt "Offset_0x48A88_Len_26"
 msgid "At age 20 I was president."
@@ -97,6 +107,11 @@ msgctxt "Offset_0x48D78_Len_31"
 msgid "So 20's the turning point, huh?"
 msgstr ""
 
+#. Max bytes: 6
+msgctxt "Offset_0x48F78_Len_6"
+msgid "Kaneko"
+msgstr ""
+
 #. Max bytes: 10
 msgctxt "Offset_0x48FB8_Len_10"
 msgid "Yeah, man."
@@ -115,6 +130,11 @@ msgstr ""
 #. Max bytes: 42
 msgctxt "Offset_0x49288_Len_42"
 msgid "Wow, what a good way to think, Kaneko-san."
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x494A8_Len_8"
+msgid "Akiyoshi"
 msgstr ""
 
 #. Max bytes: 8
@@ -162,6 +182,11 @@ msgctxt "Offset_0x49EF8_Len_26"
 msgid "Everyone has their quirks."
 msgstr ""
 
+#. Max bytes: 7
+msgctxt "Offset_0x49F38_Len_7"
+msgid "Yeah..."
+msgstr ""
+
 #. Max bytes: 26
 msgctxt "Offset_0x4A148_Len_26"
 msgid "Everyone has their quirks."
@@ -190,6 +215,11 @@ msgstr ""
 #. Max bytes: 22
 msgctxt "Offset_0x4AD48_Len_22"
 msgid "Sheesh, pay attention."
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x4AFE8_Len_8"
+msgid "Akiyoshi"
 msgstr ""
 
 #. Max bytes: 17
@@ -257,6 +287,11 @@ msgctxt "Offset_0x4BFF8_Len_31"
 msgid "Gen-san must be a nutjob, then."
 msgstr ""
 
+#. Max bytes: 8
+msgctxt "Offset_0x4C208_Len_8"
+msgid "Akiyoshi"
+msgstr ""
+
 #. Max bytes: 17
 msgctxt "Offset_0x4C248_Len_17"
 msgid "Leave Mama alone."
@@ -277,6 +312,11 @@ msgctxt "Offset_0x4C2D8_Len_32"
 msgid "Mama, what about your ambitions?"
 msgstr ""
 
+#. Max bytes: 12
+msgctxt "Offset_0x4C528_Len_12"
+msgid "Ambitions..."
+msgstr ""
+
 #. Max bytes: 58
 msgctxt "Offset_0x4C738_Len_58"
 msgid "Maybe franchise a second n' third bar to conquer Onomichi!"
@@ -285,6 +325,11 @@ msgstr ""
 #. Max bytes: 64
 msgctxt "Offset_0x4C9C8_Len_64"
 msgid "Or Tokyo's Kamurocho! Y'could open up in the red-light district!"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x4CC18_Len_4"
+msgid "Mama"
 msgstr ""
 
 #. Max bytes: 24
@@ -320,6 +365,11 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0x4D408_Len_15"
 msgid "What!? Why not?"
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x4D5E8_Len_8"
+msgid "Akiyoshi"
 msgstr ""
 
 #. Max bytes: 13
@@ -377,6 +427,11 @@ msgctxt "Offset_0x4E0F8_Len_31"
 msgid "Stole the words outta my mouth!"
 msgstr ""
 
+#. Max bytes: 5
+msgctxt "Offset_0x4E328_Len_5"
+msgid "Liar."
+msgstr ""
+
 #. Max bytes: 22
 msgctxt "Offset_0x4E5E8_Len_22"
 msgid "Huh? What did you say?"
@@ -427,6 +482,11 @@ msgctxt "Offset_0x4F4D8_Len_61"
 msgid "A simple life by the water is perfect for me, so don't worry."
 msgstr ""
 
+#. Max bytes: 4
+msgctxt "Offset_0x4F728_Len_4"
+msgid "Mama"
+msgstr ""
+
 #. Max bytes: 8
 msgctxt "Offset_0x4F768_Len_8"
 msgid "I would."
@@ -457,6 +517,16 @@ msgctxt "Offset_0x4FCD8_Len_43"
 msgid "Really? Then stayin' here makes sense t'me."
 msgstr ""
 
+#. Max bytes: 4
+msgctxt "Offset_0x4FEE8_Len_4"
+msgid "Mama"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x4FF28_Len_5"
+msgid "Yeah."
+msgstr ""
+
 #. Max bytes: 20
 msgctxt "Offset_0x4FF68_Len_20"
 msgid "Where's the tip jar?"
@@ -475,6 +545,11 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0x50408_Len_15"
 msgid "Leave it to us."
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x505D8_Len_10"
+msgid "Hatakeyama"
 msgstr ""
 
 #. Max bytes: 21
@@ -500,6 +575,11 @@ msgstr ""
 #. Max bytes: 39
 msgctxt "Offset_0x50928_Len_39"
 msgid "Y'already got a family, Hatakeyama-san."
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x50B58_Len_10"
+msgid "Hatakeyama"
 msgstr ""
 
 #. Max bytes: 10
@@ -537,6 +617,26 @@ msgctxt "Offset_0x512A8_Len_52"
 msgid "You're not far off, though. It feels like home here."
 msgstr ""
 
+#. Max bytes: 8
+msgctxt "Offset_0x514D8_Len_8"
+msgid "Akiyoshi"
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x51518_Len_8"
+msgid "Exactly."
+msgstr ""
+
+#. Max bytes: 8
+msgctxt "Offset_0x51538_Len_8"
+msgid "Ecstasy."
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x51558_Len_10"
+msgid "Excelsior."
+msgstr ""
+
 #. Max bytes: 52
 msgctxt "Offset_0x51578_Len_52"
 msgid "My worries slip away when I drink with the regulars."
@@ -560,6 +660,21 @@ msgstr ""
 #. Max bytes: 11
 msgctxt "Offset_0x51EF8_Len_11"
 msgid "A new wind?"
+msgstr ""
+
+#. Max bytes: 4
+msgctxt "Offset_0x52108_Len_4"
+msgid "Who?"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x52128_Len_5"
+msgid "When?"
+msgstr ""
+
+#. Max bytes: 5
+msgctxt "Offset_0x52148_Len_5"
+msgid "What?"
 msgstr ""
 
 #. Max bytes: 31
@@ -607,6 +722,11 @@ msgctxt "Offset_0x533A8_Len_30"
 msgid "To more drinks and good times!"
 msgstr ""
 
+#. Max bytes: 5
+msgctxt "Offset_0x535E8_Len_5"
+msgid "Yeah!"
+msgstr ""
+
 #. Max bytes: 15
 msgctxt "Offset_0x537F8_Len_15"
 msgid "So let's toast!"
@@ -625,6 +745,11 @@ msgstr ""
 #. Max bytes: 27
 msgctxt "Offset_0x54048_Len_27"
 msgid "Y'gotta go out with a bang!"
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x54288_Len_10"
+msgid "S-Sorry..."
 msgstr ""
 
 #. Max bytes: 35

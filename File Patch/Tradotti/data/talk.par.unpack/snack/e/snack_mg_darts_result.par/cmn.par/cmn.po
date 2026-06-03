@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 23
 msgctxt "Offset_0x714_Len_23"
 msgid "(Not too bad, I guess.)"
-msgstr ""
+msgstr "(Non male, direi.)"
 
 #. Max bytes: 25
 msgctxt "Offset_0x7E4_Len_25"
 msgid "(It didn't go so well...)"
-msgstr ""
+msgstr "(Non è andata bene...)"
 
 #. Max bytes: 12
 msgctxt "Offset_0x8B4_Len_12"
 msgid "(Not bad...)"
-msgstr ""
+msgstr "(Non male.)"
 

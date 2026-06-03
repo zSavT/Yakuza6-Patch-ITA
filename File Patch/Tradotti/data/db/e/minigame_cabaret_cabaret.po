@@ -301,7 +301,7 @@ msgstr "Hai qualche\r\nabilità speciale?"
 
 msgctxt "10||talk_card||table||35||card_no_11||text"
 msgid "Anything interesting\r\nhappen lately?"
-msgstr "Niente di interessante\r\nultimamente?"
+msgstr "È successo niente di\r\ninteressante, ultimamente?"
 
 msgctxt "10||talk_card||table||36||card_no_12||text"
 msgid "Do you have\r\nmany friends?"
@@ -345,7 +345,7 @@ msgstr "Qual è il tuo\r\ngruppo sanguigno?"
 
 msgctxt "10||talk_card||table||46||card_no_22||text"
 msgid "How many guys\r\nhave you slept with?"
-msgstr "Con quanti ragazzi\r\nhai dormito?"
+msgstr "Con quanti ragazzi\r\nsei andata a letto?"
 
 msgctxt "10||talk_card||table||47||card_no_23||text"
 msgid "Do you have\r\na boyfriend?"
@@ -353,7 +353,7 @@ msgstr "Hai\r\nun fidanzato?"
 
 msgctxt "10||talk_card||table||48||card_no_24||text"
 msgid "What got you\r\ninto this job?"
-msgstr "Cosa ti ha portato\r\na questo lavoro?"
+msgstr "Cosa ti ha spinta\r\na fare questo lavoro?"
 
 msgctxt "10||talk_card||table||49||card_no_25||text"
 msgid "Let's play the king\r\ngame! I'm the king!"
@@ -413,7 +413,7 @@ msgstr "C'è qualcuno\r\nche ti piace?"
 
 msgctxt "10||talk_card||table||63||card_no_39||text"
 msgid "If you fall for me,\r\nyou'll only get burned."
-msgstr "Se ti innamori di me,\r\nfinirai solo per bruciarti."
+msgstr "Se ti innamori di me,\r\nfinirai solo per scottarti."
 
 msgctxt "10||talk_card||table||64||card_no_40||text"
 msgid "This is a nice club."
@@ -429,7 +429,7 @@ msgstr "Conosci qualcuno\r\ndi QUEI posti?"
 
 msgctxt "10||talk_card||table||67||card_no_43||text"
 msgid "I wrecked a\r\nconvenience store..."
-msgstr "Ho distrutto\r\nun minimarket..."
+msgstr "Ho distrutto\r\nun konbini..."
 
 msgctxt "10||talk_card||table||68||card_no_44||text"
 msgid "I've committed\r\nsins in my time..."
@@ -473,7 +473,7 @@ msgstr "Non mi piacciono molto\r\ni posti rumorosi."
 
 msgctxt "10||talk_card||table||78||card_no_54||text"
 msgid "I'm not aggressive\r\nfor love."
-msgstr "Non sono aggressivo\r\nin amore."
+msgstr "Non sono intraprendente\r\nin amore."
 
 msgctxt "10||talk_card||table||79||card_no_55||text"
 msgid "I don't warm up\r\nto people easily."
@@ -533,7 +533,7 @@ msgstr "Hai davvero un\r\nbel fisico!"
 
 msgctxt "10||talk_card||table||93||card_no_69||text"
 msgid "What about men\r\nwho cheat?"
-msgstr "Che ne dici degli\r\nuomini che tradiscono?"
+msgstr "Cosa ne pensi degli\r\nuomini che tradiscono?"
 
 msgctxt "10||talk_card||table||94||card_no_70||text"
 msgid "An outdoors\r\ndate is best."
@@ -673,7 +673,7 @@ msgstr "Hai qualche\r\nabilità speciale?"
 
 msgctxt "10||talk_card||table||35||card_no_11||caption"
 msgid "Anything interesting\r\nhappen lately?"
-msgstr "Niente di interessante\r\nultimamente?"
+msgstr "È successo niente di\r\ninteressante, ultimamente?"
 
 msgctxt "10||talk_card||table||36||card_no_12||caption"
 msgid "Do you have\r\nmany friends?"
@@ -717,7 +717,7 @@ msgstr "Qual è il tuo\r\ngruppo sanguigno?"
 
 msgctxt "10||talk_card||table||46||card_no_22||caption"
 msgid "How many guys\r\nhave you slept with?"
-msgstr "Con quanti ragazzi\r\nhai dormito?"
+msgstr "Con quanti ragazzi\r\nsei andata a letto?"
 
 msgctxt "10||talk_card||table||47||card_no_23||caption"
 msgid "Do you have\r\na boyfriend?"
@@ -725,7 +725,7 @@ msgstr "Hai\r\nun fidanzato?"
 
 msgctxt "10||talk_card||table||48||card_no_24||caption"
 msgid "What got you\r\ninto this job?"
-msgstr "Cosa ti ha portato\r\na questo lavoro?"
+msgstr "Cosa ti ha spinta\r\na fare questo lavoro?"
 
 msgctxt "10||talk_card||table||49||card_no_25||caption"
 msgid "Let's play the king\r\ngame! I'm the king!"
@@ -785,7 +785,7 @@ msgstr "C'è qualcuno\r\nche ti piace?"
 
 msgctxt "10||talk_card||table||63||card_no_39||caption"
 msgid "If you fall for me,\r\nyou'll only get burned."
-msgstr "Se ti innamori di me,\r\nfinirai solo per bruciarti."
+msgstr "Se ti innamori di me,\r\nfinirai solo per scottarti."
 
 msgctxt "10||talk_card||table||64||card_no_40||caption"
 msgid "This is a nice club."
@@ -801,7 +801,7 @@ msgstr "Conosci qualcuno\r\ndi QUEI posti?"
 
 msgctxt "10||talk_card||table||67||card_no_43||caption"
 msgid "I wrecked a\r\nconvenience store..."
-msgstr "Ho distrutto\r\nun minimarket..."
+msgstr "Ho distrutto\r\nun konbini..."
 
 msgctxt "10||talk_card||table||68||card_no_44||caption"
 msgid "I've committed\r\nsins in my time..."
@@ -845,7 +845,7 @@ msgstr "Non mi piacciono molto\r\ni posti rumorosi."
 
 msgctxt "10||talk_card||table||78||card_no_54||caption"
 msgid "I'm not aggressive\r\nfor love."
-msgstr "Non sono aggressivo\r\nin amore."
+msgstr "Non sono intraprendente\r\nin amore."
 
 msgctxt "10||talk_card||table||79||card_no_55||caption"
 msgid "I don't warm up\r\nto people easily."
@@ -905,7 +905,7 @@ msgstr "Hai davvero un\r\nbel fisico!"
 
 msgctxt "10||talk_card||table||93||card_no_69||caption"
 msgid "What about men\r\nwho cheat?"
-msgstr "Che ne dici degli\r\nuomini che tradiscono?"
+msgstr "Cosa ne pensi degli\r\nuomini che tradiscono?"
 
 msgctxt "10||talk_card||table||94||card_no_70||caption"
 msgid "An outdoors\r\ndate is best."

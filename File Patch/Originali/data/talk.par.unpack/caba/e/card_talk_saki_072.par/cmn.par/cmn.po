@@ -7,6 +7,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 11
+msgctxt "Offset_0x136E0_Len_11"
+msgid "Volleyball."
+msgstr ""
+
+#. Max bytes: 10
+msgctxt "Offset_0x13720_Len_10"
+msgid "Wrestling."
+msgstr ""
+
 #. Max bytes: 8
 msgctxt "Offset_0x13760_Len_8"
 msgid "No team."

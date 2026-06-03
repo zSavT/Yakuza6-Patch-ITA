@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 6 Translation\n"
+"Last-Translator: SavT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+#. Max bytes: 4
+msgctxt "Offset_0x994_Len_4"
+msgid "SORA"
+msgstr "Sora"
+
+#. Max bytes: 6
+msgctxt "Offset_0x7964_Len_6"
+msgid "White."
+msgstr "White."
+
+#. Max bytes: 6
+msgctxt "Offset_0x79A4_Len_6"
+msgid "Black."
+msgstr "Black."
+
+#. Max bytes: 9
+msgctxt "Offset_0x79E4_Len_9"
+msgid "Commando."
+msgstr "Commando."
+

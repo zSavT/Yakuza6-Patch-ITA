@@ -10,30 +10,30 @@ msgstr ""
 #. Max bytes: 25
 msgctxt "Offset_0xC794_Len_25"
 msgid "I hear you play baseball."
-msgstr ""
+msgstr "Giochi a baseball, eh?"
 
 #. Max bytes: 23
 msgctxt "Offset_0xC864_Len_23"
 msgid "Let me join in on that."
-msgstr ""
+msgstr "Fammi unire a voi."
 
 #. Max bytes: 41
 msgctxt "Offset_0xCA24_Len_41"
 msgid "Gen-san has joined the Setouchi Warriors."
-msgstr ""
+msgstr "Gen-san si unisce ai Setouchi Warriors."
 
 #. Max bytes: 23
 msgctxt "Offset_0xCDC4_Len_23"
 msgid "What do you want to do?"
-msgstr ""
+msgstr "Cosa vuoi fare?"
 
 #. Max bytes: 14
 msgctxt "Offset_0xCEC4_Len_14"
 msgid "Drink Together"
-msgstr ""
+msgstr "Bere insieme"
 
 #. Max bytes: 18
 msgctxt "Offset_0xCF04_Len_18"
 msgid "Remember Old Talks"
-msgstr ""
+msgstr "Vecchi discorsi"
 

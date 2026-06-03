@@ -645,7 +645,7 @@ msgstr "L'importanza di pasti regolari"
 
 msgctxt "17||tips_system||table||19||||1"
 msgid "Changing the Time of Day"
-msgstr "Changing l'ora del giorno"
+msgstr "Cambiare l'ora del giorno"
 
 msgctxt "17||tips_system||table||20||||1"
 msgid "Pros and Cons of Getting Drunk"
@@ -689,7 +689,7 @@ msgstr "Tecniche avanzate"
 
 msgctxt "18||tips_btlmaster||table||57||||1"
 msgid "Use Heat Actions"
-msgstr "Usare le Azioni Furore"
+msgstr "Uso delle Azioni Furore"
 
 msgctxt "18||tips_btlmaster||table||68||||1"
 msgid "Extreme Heat Mode"
@@ -717,7 +717,7 @@ msgstr "Mantenere la pace"
 
 msgctxt "19||trouble_mail||table||45||||1"
 msgid "A Danger to Dating"
-msgstr "Un pericolo per gli appuntamenti"
+msgstr "Un pericolo per le coppiette"
 
 msgctxt "19||trouble_mail||table||56||||1"
 msgid "It Looked Good On You!"
@@ -729,7 +729,7 @@ msgstr "Piromane di Kamurocho sventato"
 
 msgctxt "19||trouble_mail||table||78||||1"
 msgid "Onomichi Arsonist Foiled"
-msgstr "Piromane di Onomichi catturato"
+msgstr "Piromane di Onomichi fermato"
 
 msgctxt "19||trouble_mail||table||89||||1"
 msgid "Definitely a Problem LOL"
@@ -745,7 +745,7 @@ msgstr "Scippatore beccato"
 
 msgctxt "19||trouble_mail||table||122||||1"
 msgid "Pickpocket Sent Packing"
-msgstr "Borseggiatore mandato a fare i bagagli"
+msgstr "Borseggiatore messo al tappeto"
 
 msgctxt "19||trouble_mail||table||133||||1"
 msgid "Bomber Disarmed"
@@ -1149,7 +1149,7 @@ msgstr "Ciao, Kiryu-san! Questa volta prenderemo un\r\npiatto a base di carne e 
 
 msgctxt "5||rizap||table||98||||2"
 msgid "Hi there, Kiryu-san! Let's try an unusual dish\r\nthis time! I suggest some bite-sized grilled\r\nfish. It's chock-full of calcium and protein!\r\nThe flavorful roe will have you hooked! Well\r\nthen, best of luck!"
-msgstr "Ciao, Kiryu-san! Proviamo un piatto insolito\r\nquesta volta! Ti suggerisco del pesce grigliato\r\nformato bocconcino. È pieno zeppo di calcio\r\ne proteine! Il sapore delle uova ti\r\nconquisterà! Bene, in bocca al lupo!"
+msgstr "Ciao, Kiryu-san! Proviamo un piatto insolito\r\nquesta volta! Ti suggerisco dei bocconcini di pesce\r\ngrigliato. È pieno zeppo di calcio\r\ne proteine! Il sapore delle uova ti\r\nfarà abboccare! Bene, in bocca al lupo!"
 
 msgctxt "5||rizap||table||99||||2"
 msgid "Hi there, Kiryu-san! This time, let's focus more\r\non nutrition! How about a dish that contains a\r\nlot of scallions? You'll be tempted to drink\r\nalcohol, but please try your best to resist it.\r\nWell then, best of luck!"
@@ -1413,7 +1413,7 @@ msgstr "Kiryu-san!\r\nSono Sodachi. Sono finalmente diventato abbastanza forte\r
 
 msgctxt "12||sub_b26_00||table||1||||2"
 msgid "I've finally figured out the ultimate self-defense\r\ntechnique. However, it's not complete yet. I\r\nneed to defeat you with it to truly complete it,\r\nKiryu-san. Please accept this challenge. I'll be\r\nwaiting at the Ropeway Station."
-msgstr "Ho finalmente ideato la tecnica di autodifesa\r\nsuprema. Tuttavia, non è ancora del tutto\r\ncompleta. Ho bisogno di sconfiggerti usandola\r\nper completarla davvero, Kiryu-san. Ti prego\r\ndi accettare questa sfida. Ti aspetto alla\r\nstazione della Ropeway."
+msgstr "Ho finalmente ideato la tecnica di autodifesa\r\nsuprema. Tuttavia, non è ancora del tutto\r\ncompleta. Ho bisogno di sconfiggerti usandola\r\nper completarla davvero, Kiryu-san. Ti prego\r\ndi accettare questa sfida. Ti aspetto alla\r\nstazione della funivia."
 
 msgctxt "13||sub_b19_gen||table||1||||2"
 msgid "Smartphones are so useful! I'm at New Gaudi\r\nright now. You should come on over, too,\r\nKiryu-san!"
@@ -1425,7 +1425,7 @@ msgstr "Ehi, sei libero?\r\nMi servirebbe una mano con una cosa."
 
 msgctxt "14||sub_a12_00||table||2||||2"
 msgid "Can you head over to a convenience store\r\nand buy me some prepaid cards?"
-msgstr "Puoi andare in un minimarket e comprarmi delle\r\ncarte prepagate?"
+msgstr "Puoi andare in un konbini e comprarmi delle\r\ncarte prepagate?"
 
 msgctxt "14||sub_a12_00||table||3||||2"
 msgid "Don't worry what they are.\r\nJust get them for me."
@@ -1513,7 +1513,7 @@ msgstr "Risparmiami i dettagli, ma mi sa che ti devo \r\nda bere."
 
 msgctxt "16||sub_a99_00||table||1||||2"
 msgid "Kazuma Kiryu, my eternal rival.\r\nThe time has come yet again.\r\n\r\nI await you on my floating island.\r\n-Jo Amon"
-msgstr "Kazuma Kiryu, mio eterno rivale.\r\nÈ giunto di nuovo il momento.\r\n\r\nTi attendo sulla mia isola galleggiante.\r\n- Jo Amon"
+msgstr "Kazuma Kiryu, mio eterno rivale.\r\nÈ giunto di nuovo il momento.\r\n\r\nTi attendo sulla mia isola galleggiante.\r\n-Jo Amon"
 
 msgctxt "17||tips_system||table||2||||2"
 msgid "Nice to meet you! My name's Hiro. I distribute\r\nthe Tips Newsletter!\r\n\r\nThis newsletter will tell you everything you\r\nneed to know to get the most out of your\r\ngame. \r\n\r\nIf there's something you don't understand, I\r\nhope you'll look to us for help!"
@@ -2441,59 +2441,59 @@ msgstr "Cosa vuoi dire?"
 
 msgctxt "19||trouble_mail||table||1||||2"
 msgid "This is Torafuru.\r\n\r\nI knew you could do it, Kiryu-san! Looks like\r\nyou drove the shakedown army out of the\r\ncity. They don't want to mess with you again.\r\nYou've brought this town one step closer to\r\npeace. Thank you!"
-msgstr "Qui è Troublr.\r\n\r\nSapevo che ce l'avresti fatta, Kiryu-san!\r\nSembra che tu abbia cacciato dalla città\r\nquell'esercito di estorsori. Non oseranno più\r\nmettersi contro di te. Hai portato questa città\r\nun passo più vicina alla pace. Grazie!"
+msgstr "Qui è Torafuru.\r\n\r\nSapevo che ce l'avresti fatta, Kiryu-san!\r\nSembra che tu abbia cacciato dalla città\r\nquell'esercito di estorsori. Non oseranno più\r\nmettersi contro di te. Hai portato questa città\r\nun passo più vicina alla pace. Grazie!"
 
 msgctxt "19||trouble_mail||table||12||||2"
 msgid "This is Torafuru.\r\n\r\nWow! What an incredible job, Kiryu-san!\r\nThose guys were seeking out middle-aged\r\nmen to assault, but you sent them packing!\r\nPlease continue to help however you can!"
-msgstr "Qui è Troublr.\r\n\r\nWow! Che lavoro incredibile, Kiryu-san!\r\nQuei tizi cercavano uomini di mezza età\r\nda aggredire, ma tu li hai sistemati per bene!\r\nPer favore, continua ad aiutarci in ogni modo\r\npossibile!"
+msgstr "Qui è Torafuru.\r\n\r\nWow! Che lavoro incredibile, Kiryu-san!\r\nQuei tizi cercavano uomini di mezza età\r\nda aggredire, ma tu li hai sistemati per bene!\r\nPer favore, continua ad aiutarci in ogni modo\r\npossibile!"
 
 msgctxt "19||trouble_mail||table||23||||2"
 msgid "This is Torafuru.\r\n\r\nThose pick-up artists were going around\r\ntricking a lot of girls. Thankfully, they\r\nshouldn't con anyone else now that you've\r\ntaught them some manners. You're really\r\nturning this town around for the better.\r\nThank you!"
-msgstr "Qui è Troublr.\r\n\r\nQuei seduttori andavano in giro a ingannare un\r\nmucchio di ragazze. Meno male che ora non\r\ntrufferanno più nessuno, dopo che gli hai\r\ninsegnato le buone maniere. Stai davvero\r\ncambiando in meglio questa città. Grazie!"
+msgstr "Qui è Torafuru.\r\n\r\nQuei seduttori andavano in giro a ingannare un\r\nmucchio di ragazze. Meno male che ora non\r\ntrufferanno più nessuno, dopo che gli hai\r\ninsegnato le buone maniere. Stai davvero\r\ncambiando in meglio questa città. Grazie!"
 
 msgctxt "19||trouble_mail||table||34||||2"
 msgid "This is Torafuru.\r\n\r\nIt turns out those guys had committed a lot\r\nof assaults as a mob in this city. \r\n\r\nYou inspired some courage in people who\r\nsaw you fight without any fear against guys\r\nlike that, Kiryu-san. Thank you!"
-msgstr "Qui è Troublr.\r\n\r\nA quanto pare, quei tizi avevano commesso un\r\nsacco di aggressioni in branco qui in città.\r\n\r\nHai ispirato coraggio in chi ti ha visto\r\ncombattere senza alcuna paura contro tizi del\r\ngenere, Kiryu-san. Grazie!"
+msgstr "Qui è Torafuru.\r\n\r\nA quanto pare, quei tizi avevano commesso un\r\nsacco di aggressioni in branco qui in città.\r\n\r\nHai ispirato coraggio in chi ti ha visto\r\ncombattere senza alcuna paura contro tizi del\r\ngenere, Kiryu-san. Grazie!"
 
 msgctxt "19||trouble_mail||table||45||||2"
 msgid "This is Torafuru.\r\n\r\nThose guys were notorious as monsters who\r\ntarget couples. What do you think warped their\r\nhearts? Oh well. We don't have to worry about\r\nthem. They won't show their faces around here\r\nanymore. Thank you so much!"
-msgstr "Qui è Troublr.\r\n\r\nQuei tipi erano dei noti mostri che prendevano\r\ndi mira le coppiette. Cosa credi che abbia\r\ndistorto i loro cuori? Oh beh. Non dobbiamo più\r\npreoccuparci di loro. Non si faranno più\r\nvedere da queste parti. Grazie mille!"
+msgstr "Qui è Torafuru.\r\n\r\nQuei tipi erano dei noti mostri che prendevano\r\ndi mira le coppiette. Cosa credi che abbia\r\ndistorto i loro cuori? Oh beh. Non dobbiamo più\r\npreoccuparci di loro. Non si faranno più\r\nvedere da queste parti. Grazie mille!"
 
 msgctxt "19||trouble_mail||table||56||||2"
 msgid "This is Torafuru.\r\n\r\nI'm sorry, but I had to laugh. I never thought I\r\nwould see you deliver ramen. It might have\r\nbeen a pain in the ass, but I'm sure you saved\r\nthat restaurant... lol. You're doing great work!"
-msgstr "Qui è Troublr.\r\n\r\nScusami, ma non ho potuto fare a meno di ridere.\r\nNon avrei mai pensato di vederti consegnare\r\nramen. Potrebbe essere stata una vera\r\nseccatura, ma sono sicuro che tu abbia salvato\r\nquel ristorante... LOL. Ottimo lavoro!"
+msgstr "Qui è Torafuru.\r\n\r\nScusami, ma non ho potuto fare a meno di ridere.\r\nNon avrei mai pensato di vederti consegnare\r\nramen. Potrebbe essere stata una vera\r\nseccatura, ma sono sicuro che tu abbia salvato\r\nquel ristorante... LOL. Ottimo lavoro!"
 
 msgctxt "19||trouble_mail||table||67||||2"
 msgid "This is Torafuru.\r\n\r\nThat settles the series of arsons that had been\r\nhappening in Kamurocho. If it weren't for you,\r\nthere could have been a serious disaster in this\r\ncity. You really saved us all. Thank you!"
-msgstr "Qui è Troublr.\r\n\r\nQuesto pone fine alla serie di incendi dolosi\r\nche si stavano verificando a Kamurocho. Se non\r\nfosse stato per te, ci sarebbe potuto essere un\r\ngrave disastro in città. Ci hai davvero salvato\r\ntutti. Grazie!"
+msgstr "Qui è Torafuru.\r\n\r\nQuesto pone fine alla serie di incendi dolosi\r\nche si stavano verificando a Kamurocho. Se non\r\nfosse stato per te, ci sarebbe potuto essere un\r\ngrave disastro in città. Ci hai davvero salvato\r\ntutti. Grazie!"
 
 msgctxt "19||trouble_mail||table||78||||2"
 msgid "This is Torafuru.\r\n\r\nThat settles the series of arsons that had\r\nbeen happening in Onomichi. If it weren't\r\nfor Troublr, we might not have been able\r\nto stop it. I'm thinking of taking this system\r\nnationwide. Let's work together to keep the\r\npeace in this city. I can't thank you enough!"
-msgstr "Qui è Troublr.\r\n\r\nQuesto pone fine alla serie di incendi dolosi\r\nche si stavano verificando a Onomichi. Se non\r\nfosse stato per Troublr, forse non saremmo\r\nriusciti a fermarli. Sto pensando di espandere\r\nquesto sistema a livello nazionale. Lavoriamo\r\ninsieme per mantenere la pace in questa città.\r\nNon ti ringrazierò mai abbastanza!"
+msgstr "Qui è Torafuru.\r\n\r\nQuesto pone fine alla serie di incendi dolosi\r\nche si stavano verificando a Onomichi. Se non\r\nfosse stato per Troublr, forse non saremmo\r\nriusciti a fermarli. Sto pensando di espandere\r\nquesto sistema a livello nazionale. Lavoriamo\r\ninsieme per mantenere la pace in questa città.\r\nNon ti ringrazierò mai abbastanza!"
 
 msgctxt "19||trouble_mail||table||89||||2"
 msgid "This is Torafuru.\r\n\r\nI guess you could say you're in big trouble if\r\nyou run out of toilet paper... lol. I'm in awe of\r\nyour kindness! It's nice to solve small problems\r\nlike this once in a while for a change of pace."
-msgstr "Qui è Troublr.\r\n\r\nImmagino si possa dire che si è davvero in un\r\nbel guaio se finisce la carta igienica... LOL.\r\nSono ammirato dalla tua gentilezza! È bello\r\nrisolvere piccoli problemi come questo di\r\ntanto in tanto per cambiare un po' il ritmo."
+msgstr "Qui è Torafuru.\r\n\r\nImmagino si possa dire che si è davvero in un\r\nbel guaio se finisce la carta igienica... LOL.\r\nSono ammirato dalla tua gentilezza! È bello\r\nrisolvere piccoli problemi come questo di\r\ntanto in tanto per cambiare un po' il ritmo."
 
 msgctxt "19||trouble_mail||table||100||||2"
 msgid "This is Torafuru.\r\n\r\nThat was a really dangerous criminal. I wish\r\nthe police would catch people like that and\r\nkeep them off the streets. You've done a\r\ngreat service to your fellow man, Kiryu-san.\r\nThank you so much!"
-msgstr "Qui è Troublr.\r\n\r\nEra un criminale davvero pericoloso. Vorrei che\r\nla polizia catturasse gente del genere per\r\ntoglierla dalle strade. Hai reso un grande\r\nservizio al prossimo, Kiryu-san. Grazie mille!"
+msgstr "Qui è Torafuru.\r\n\r\nEra un criminale davvero pericoloso. Vorrei che\r\nla polizia catturasse gente del genere per\r\ntoglierla dalle strade. Hai reso un grande\r\nservizio al prossimo, Kiryu-san. Grazie mille!"
 
 msgctxt "19||trouble_mail||table||111||||2"
 msgid "This is Torafuru.\r\n\r\nThere's a correlation between the crime rate\r\nin a city and the amount of purse-snatchers.\r\nWithout any witnesses, victims generally have\r\nno option but to give up. You were able to\r\ncatch them in the act of the crime, though.\r\nThank you!"
-msgstr "Qui è Troublr.\r\n\r\nC'è una forte correlazione tra il tasso di\r\ncriminalità in una città e la quantità di\r\nscippatori. Senza testimoni, le vittime\r\ngeneralmente non hanno altra scelta se non\r\narrendersi. Tu, però, sei riuscito a coglierli\r\nin flagrante. Grazie!"
+msgstr "Qui è Torafuru.\r\n\r\nC'è una forte correlazione tra il tasso di\r\ncriminalità in una città e la quantità di\r\nscippatori. Senza testimoni, le vittime\r\ngeneralmente non hanno altra scelta se non\r\narrendersi. Tu, però, sei riuscito a coglierli\r\nin flagrante. Grazie!"
 
 msgctxt "19||trouble_mail||table||122||||2"
 msgid "This is Torafuru.\r\n\r\nI think this city is still very dangerous. The\r\nguy who was caught was apparently an infamous\r\npickpocket according to the police. Looks like\r\nhe was outclassed this time. LOL. Thank you,\r\nKiryu-san!"
-msgstr "Qui è Troublr.\r\n\r\nPenso che questa città sia ancora molto\r\npericolosa. Secondo la polizia, il tizio che è\r\nstato catturato era apparentemente un\r\nfamigerato borseggiatore. Sembra che questa\r\nvolta abbia trovato pane per i suoi denti.\r\nLOL. Grazie, Kiryu-san!"
+msgstr "Qui è Torafuru.\r\n\r\nPenso che questa città sia ancora molto\r\npericolosa. Secondo la polizia, il tizio che è\r\nstato catturato era apparentemente un\r\nfamigerato borseggiatore. Sembra che questa\r\nvolta abbia trovato pane per i suoi denti.\r\nLOL. Grazie, Kiryu-san!"
 
 msgctxt "19||trouble_mail||table||133||||2"
 msgid "This is Torafuru.\r\n\r\nYou really saved us. He might have been the\r\nmost terrifying threat so far. You can make\r\nbombs so easily nowadays... So we can't rule\r\nout the possibility that more bombers might\r\nappear later. I'll keep a look out. Thank you!"
-msgstr "Qui è Troublr.\r\n\r\nCi hai davvero salvato. Potrebbe essere stata\r\nla minaccia più terrificante finora. Al giorno\r\nd'oggi è così facile costruire bombe... Quindi\r\nnon possiamo escludere la possibilità che ne\r\nappaiano altri in futuro. Starò in guardia.\r\nGrazie!"
+msgstr "Qui è Torafuru.\r\n\r\nCi hai davvero salvato. Potrebbe essere stata\r\nla minaccia più terrificante finora. Al giorno\r\nd'oggi è così facile costruire bombe... Quindi\r\nnon possiamo escludere la possibilità che ne\r\nappaiano altri in futuro. Starò in guardia.\r\nGrazie!"
 
 msgctxt "19||trouble_mail||table||144||||2"
 msgid "This is Torafuru.\r\n\r\nThanks to you, this city has become much\r\nmore peaceful. I think as long as we keep an\r\neye on Troublr, we'll be able to manage. \r\n\r\nYou're an inspiration, Kiryu-san. I want to\r\nbecome strong like you. I want to protect\r\nthis city with my own strength, rather than\r\nalways depending on others.\r\n\r\nThat's how I feel now. I'll keep working at it.\r\nThank you for everything. Goodbye."
-msgstr "Qui è Troublr.\r\n\r\nGrazie a te, questa città è diventata molto\r\npiù pacifica. Penso che finché terremo d'occhio\r\nTroublr, saremo in grado di cavarcela.\r\n\r\nSei una fonte di ispirazione, Kiryu-san. Voglio\r\ndiventare forte come te. Voglio proteggere\r\nquesta città con le mie stesse forze,\r\npiuttosto che dipendere sempre dagli altri.\r\n\r\nÈ così che mi sento ora. Continuerò a\r\nimpegnarmi. Grazie di tutto. Addio."
+msgstr "Qui è Torafuru.\r\n\r\nGrazie a te, questa città è diventata molto\r\npiù pacifica. Penso che finché terremo d'occhio\r\nTroublr, saremo in grado di cavarcela.\r\n\r\nSei una fonte di ispirazione, Kiryu-san. Voglio\r\ndiventare forte come te. Voglio proteggere\r\nquesta città con le mie stesse forze,\r\npiuttosto che dipendere sempre dagli altri.\r\n\r\nÈ così che mi sento ora. Continuerò a\r\nimpegnarmi. Grazie di tutto. Addio."
 
 msgctxt "20||kamuinfo_mail||table||1||||2"
 msgid "This is the Kamurocho Information Service.\r\n\r\nThis service will automatically distribute\r\nupdates on Kamurocho's facilities and road\r\nconditions.\r\n\r\n***NOTICE***\r\nAccess to Park Boulevard is limited due to\r\nmajor construction on the sewers on the north\r\nside of Shichifuku Street. Pedestrians and\r\ndrivers should exercise caution while in the\r\narea."

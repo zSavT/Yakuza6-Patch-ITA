@@ -22,11 +22,6 @@ msgctxt "Offset_0x1F03D_Len_26"
 msgid "%)-159]YURONMLKIHPki]QD8, "
 msgstr ""
 
-#. Max bytes: 10
-msgctxt "Offset_0x793FD_Len_10"
-msgid "yrrkceTC1 "
-msgstr ""
-
 #. Max bytes: 23
 msgctxt "Offset_0x9D100_Len_23"
 msgid "A room full of kittens."

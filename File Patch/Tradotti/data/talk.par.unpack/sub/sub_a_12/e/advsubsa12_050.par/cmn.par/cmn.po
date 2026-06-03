@@ -10,105 +10,130 @@ msgstr ""
 #. Max bytes: 4
 msgctxt "Offset_0x41C4_Len_4"
 msgid "c n<"
-msgstr ""
+msgstr "c n<"
 
 #. Max bytes: 5
 msgctxt "Offset_0xF59B_Len_5"
 msgid "5QE ?"
-msgstr ""
+msgstr "5QE ?"
 
 #. Max bytes: 5
 msgctxt "Offset_0xF5AB_Len_5"
 msgid "5Lq ?"
-msgstr ""
+msgstr "5Lq ?"
 
 #. Max bytes: 54
 msgctxt "Offset_0x25198_Len_54"
-msgid "\"Good. Now send me photos\nof the numbers on each one.\""
+msgid ""
+"\"Good. Now send me photos\n"
+"of the numbers on each one.\""
 msgstr ""
+"\"Bene. Ora mandami le foto\n"
+"dei numeri su ciascuna.\""
 
 #. Max bytes: 35
 msgctxt "Offset_0x25298_Len_35"
 msgid "\"What the hell's going on, Kiryu!?\""
-msgstr ""
+msgstr "\"Che diavolo succede, Kiryu!?\""
 
 #. Max bytes: 62
 msgctxt "Offset_0x25388_Len_62"
-msgid "\"Kiryu, you've been had!\nMy account got hacked the other day!\""
+msgid ""
+"\"Kiryu, you've been had!\n"
+"My account got hacked the other day!\""
 msgstr ""
+"\"Kiryu, ti hanno fregato!\n"
+"Mi hanno hackerato l'account!\""
 
 #. Max bytes: 37
 msgctxt "Offset_0x254A8_Len_37"
 msgid "\"That wasn't me you were talking to!\""
-msgstr ""
+msgstr "\"Non ero io quello a cui parlavi!\""
 
 #. Max bytes: 41
 msgctxt "Offset_0x255B8_Len_41"
 msgid "\"Your 50 grand could be anywhere by now!\""
-msgstr ""
+msgstr "\"I tuoi 50.000 saranno ovunque!\""
 
 #. Max bytes: 13
 msgctxt "Offset_0x25698_Len_13"
 msgid "\"No, dammit!\""
-msgstr ""
+msgstr "\"No, cavolo!\""
 
 #. Max bytes: 68
 msgctxt "Offset_0x25758_Len_68"
-msgid "\"I'll see what I can do.\nThat scammer's not getting away with this.\""
+msgid ""
+"\"I'll see what I can do.\n"
+"That scammer's not getting away with this.\""
 msgstr ""
+"\"Vedrò che fare.\n"
+"Quel truffatore non la passerà liscia.\""
 
 #. Max bytes: 83
 msgctxt "Offset_0x25888_Len_83"
-msgid "\"Sorry, 50 grand really is a lot.\nI'll buy you a drink sometime to make up for it.\""
+msgid ""
+"\"Sorry, 50 grand really is a lot.\n"
+"I'll buy you a drink sometime to make up for it.\""
 msgstr ""
+"\"Scusa, 50.000 sono tanti.\n"
+"Ti offrirò un drink per farmi perdonare.\""
 
 #. Max bytes: 16
 msgctxt "Offset_0x259D8_Len_16"
 msgid "\"Family issues.\""
-msgstr ""
+msgstr "\"Guaio in casa.\""
+
+#. Max bytes: 12
+msgctxt "Offset_0x25AA8_Len_12"
+msgid "\"Kamurocho.\""
+msgstr "Kamurocho"
 
 #. Max bytes: 46
 msgctxt "Offset_0x25B68_Len_46"
-msgid "\"Just send them already.\nI'm in a hurry here.\""
+msgid ""
+"\"Just send them already.\n"
+"I'm in a hurry here.\""
 msgstr ""
+"\"Mandale e basta.\n"
+"Sono di fretta qui.\""
 
 #. Max bytes: 22
 msgctxt "Offset_0x25C48_Len_22"
 msgid "\"Fine. Let's meet up.\""
-msgstr ""
+msgstr "\"Va bene. Vediamoci.\""
 
 #. Max bytes: 34
 msgctxt "Offset_0x25D18_Len_34"
 msgid "\"The roof of the Senryo Building.\""
-msgstr ""
+msgstr "\"Il tetto del Senryo Building.\""
 
 #. Max bytes: 15
 msgctxt "Offset_0x26228_Len_15"
 msgid "Send the Photos"
-msgstr ""
+msgstr "Manda le foto"
 
 #. Max bytes: 21
 msgctxt "Offset_0x26268_Len_21"
 msgid "Ask Why He Wants Them"
-msgstr ""
+msgstr "Chiedi a che servono"
 
 #. Max bytes: 15
 msgctxt "Offset_0x268A8_Len_15"
 msgid "Send the Photos"
-msgstr ""
+msgstr "Manda le foto"
 
 #. Max bytes: 11
 msgctxt "Offset_0x268E8_Len_11"
 msgid "Pry Further"
-msgstr ""
+msgstr "Indaga"
 
 #. Max bytes: 15
 msgctxt "Offset_0x26F28_Len_15"
 msgid "Send the Photos"
-msgstr ""
+msgstr "Manda le foto"
 
 #. Max bytes: 16
 msgctxt "Offset_0x26F68_Len_16"
 msgid "Pry Even Further"
-msgstr ""
+msgstr "Indaga ancora"
 

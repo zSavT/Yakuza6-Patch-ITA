@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 25
 msgctxt "Offset_0x2714_Len_25"
 msgid "Hide it Behind the Poster"
-msgstr ""
+msgstr "Mettilo dietro il poster"
 
 #. Max bytes: 14
 msgctxt "Offset_0x2754_Len_14"
 msgid "Look Elsewhere"
-msgstr ""
+msgstr "Guarda altrove"
 

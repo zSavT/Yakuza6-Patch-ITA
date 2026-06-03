@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 20
 msgctxt "Offset_0x2FB4_Len_20"
 msgid "Depart for Onomichi?"
-msgstr ""
+msgstr "Parti per Onomichi?"
 
 #. Max bytes: 8
 msgctxt "Offset_0x30F4_Len_8"
 msgid "Don't Go"
-msgstr ""
+msgstr "Resta"
 
 #. Max bytes: 30
 msgctxt "Offset_0x3784_Len_30"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 

@@ -10,25 +10,10 @@ msgstr ""
 #. Max bytes: 4
 msgctxt "Offset_0x1A380_Len_4"
 msgid "M j="
-msgstr ""
+msgstr "M j="
 
 #. Max bytes: 4
 msgctxt "Offset_0x24A48_Len_4"
 msgid "i H;"
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0x4DCBA_Len_6"
-msgid " >ףp?"
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0x4DDAE_Len_6"
-msgid " >ףp?"
-msgstr ""
-
-#. Max bytes: 6
-msgctxt "Offset_0x4DEA2_Len_6"
-msgid " >ףp?"
-msgstr ""
+msgstr "i H;"
 

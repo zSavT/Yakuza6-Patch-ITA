@@ -10,5 +10,5 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0x70F0_Len_15"
 msgid "Either AB or O!"
-msgstr ""
+msgstr "O AB o O!"
 

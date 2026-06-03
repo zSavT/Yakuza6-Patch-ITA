@@ -10,20 +10,20 @@ msgstr ""
 #. Max bytes: 48
 msgctxt "Offset_0x1355C_Len_48"
 msgid "Hatakeyama-san has joined the Setouchi Warriors."
-msgstr ""
+msgstr "Hatakeyama-san entra nei Setouchi Warriors."
 
 #. Max bytes: 23
 msgctxt "Offset_0x13A9C_Len_23"
 msgid "What do you want to do?"
-msgstr ""
+msgstr "Cosa vuoi fare?"
 
 #. Max bytes: 14
 msgctxt "Offset_0x13B9C_Len_14"
 msgid "Drink Together"
-msgstr ""
+msgstr "Bere insieme"
 
 #. Max bytes: 18
 msgctxt "Offset_0x13BDC_Len_18"
 msgid "Remember Old Talks"
-msgstr ""
+msgstr "Vecchi discorsi"
 

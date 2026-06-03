@@ -10,10 +10,10 @@ msgstr ""
 #. Max bytes: 17
 msgctxt "Offset_0x1FEB4_Len_17"
 msgid "Ask About Akiyama"
-msgstr ""
+msgstr "Chiedi di Akiyama"
 
 #. Max bytes: 16
 msgctxt "Offset_0x1FEF4_Len_16"
 msgid "Ask About Haruka"
-msgstr ""
+msgstr "Chiedi di Haruka"
 

@@ -10,25 +10,20 @@ msgstr ""
 #. Max bytes: 21
 msgctxt "Offset_0x2BBB0_Len_21"
 msgid "I couldn't have that."
-msgstr ""
+msgstr "Non lo accetterei."
 
 #. Max bytes: 24
 msgctxt "Offset_0x2BBF0_Len_24"
 msgid "How about I support you?"
-msgstr ""
+msgstr "E se ti sostenessi io?"
 
 #. Max bytes: 14
 msgctxt "Offset_0x2BC30_Len_14"
 msgid "Just marry me."
-msgstr ""
+msgstr "Sposami, dai!"
 
 #. Max bytes: 34
 msgctxt "Offset_0x2C140_Len_34"
 msgid "Saki's rank has increased to Gold."
-msgstr ""
-
-#. Max bytes: 39
-msgctxt "Offset_0x2C170_Len_39"
-msgid "沙希的階級已成為「Gold Cast」"
-msgstr ""
+msgstr "Saki è salita al grado Oro."
 

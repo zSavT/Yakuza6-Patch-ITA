@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 11
 msgctxt "Offset_0xDDAC_Len_11"
 msgid "Not at all."
-msgstr ""
+msgstr "Per niente."
 
 #. Max bytes: 20
 msgctxt "Offset_0xDDEC_Len_20"
 msgid "When I sing karaoke."
-msgstr ""
+msgstr "Cantando al karaoke."
 
 #. Max bytes: 18
 msgctxt "Offset_0xDE2C_Len_18"
 msgid "When I'm with you."
-msgstr ""
+msgstr "Quando sto con te."
 

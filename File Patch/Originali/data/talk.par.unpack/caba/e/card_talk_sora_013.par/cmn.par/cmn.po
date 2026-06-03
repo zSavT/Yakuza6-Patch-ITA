@@ -7,6 +7,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
+#. Max bytes: 4
+msgctxt "Offset_0xB74_Len_4"
+msgid "SORA"
+msgstr ""
+
 #. Max bytes: 38
 msgctxt "Offset_0x14E94_Len_38"
 msgid "Games are terrible romance references."

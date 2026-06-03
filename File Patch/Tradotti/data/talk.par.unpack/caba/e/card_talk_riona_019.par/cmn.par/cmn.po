@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 21
 msgctxt "Offset_0xD994_Len_21"
 msgid "I've been in a movie."
-msgstr ""
+msgstr "Ho fatto un film."
 
 #. Max bytes: 24
 msgctxt "Offset_0xD9D4_Len_24"
 msgid "I've fought in an arena."
-msgstr ""
+msgstr "Ho lottato in un'arena."
 
 #. Max bytes: 29
 msgctxt "Offset_0xDA14_Len_29"
 msgid "I had a street race showdown."
-msgstr ""
+msgstr "Ho fatto una gara su strada."
 

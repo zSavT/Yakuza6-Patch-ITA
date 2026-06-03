@@ -37,5 +37,5 @@ msgstr "Resistenza alle armi da fuoco"
 
 msgctxt "8||stamina||name"
 msgid "Stamina"
-msgstr "Resistenza"
+msgstr "Energia"
 

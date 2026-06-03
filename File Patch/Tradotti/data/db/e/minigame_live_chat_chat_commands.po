@@ -33,7 +33,7 @@ msgstr "NATURALMENTE"
 
 msgctxt "30||anri_01_03_chat01||input_character"
 msgid "HELLO AGAIN"
-msgstr "DI NUOVO CIAO"
+msgstr "CIAO DI NUOVO"
 
 msgctxt "31||anri_01_03_chat02||input_character"
 msgid "I MISSED YOU"
@@ -65,7 +65,7 @@ msgstr "S"
 
 msgctxt "42||anri_02_02_chat03||input_character"
 msgid "HURT ME BABY"
-msgstr "FAMMI MALE BABY"
+msgstr "FAMMI MALE, BABY"
 
 msgctxt "43||anri_02_02_chat04||input_character"
 msgid "YOU BETCHA"
@@ -281,7 +281,7 @@ msgstr "FACCIAMOLO"
 
 msgctxt "108||anri_04_04_chat03||input_character"
 msgid "ALONE TIME"
-msgstr "DA SOLI"
+msgstr "MOMENTO DA SOLI"
 
 msgctxt "109||anri_04_04_chat04||input_character"
 msgid "PLEASURE"
@@ -665,7 +665,7 @@ msgstr "UN MASSAGGIO"
 
 msgctxt "231||yua_04_04_chat04||input_character"
 msgid "ALONE"
-msgstr "DA SOLI"
+msgstr "MOMENTO DA SOLI"
 
 msgctxt "232||yua_04_04_chat05||input_character"
 msgid "HOW BOUT IT?"
@@ -717,7 +717,7 @@ msgstr "Naturalmente!"
 
 msgctxt "30||anri_01_03_chat01||chat_message"
 msgid "Hello again."
-msgstr "Di nuovo ciao."
+msgstr "Ciao di nuovo."
 
 msgctxt "31||anri_01_03_chat02||chat_message"
 msgid "I missed you."
@@ -753,7 +753,7 @@ msgstr "Fammi male, baby."
 
 msgctxt "43||anri_02_02_chat04||chat_message"
 msgid "You betcha."
-msgstr "Puoi dirlo."
+msgstr "Ci puoi scommettere."
 
 msgctxt "44||anri_02_03_chat01||chat_message"
 msgid "I've noticed."
@@ -821,7 +821,7 @@ msgstr "Eccitato."
 
 msgctxt "71||anri_03_01_chat02||chat_message"
 msgid "It's growing..."
-msgstr "Sta crescendo..."
+msgstr "Si sta ingrossando..."
 
 msgctxt "72||anri_03_01_chat03||chat_message"
 msgid "My desire."
@@ -829,7 +829,7 @@ msgstr "Il mio desiderio."
 
 msgctxt "73||anri_03_01_chat04||chat_message"
 msgid "Pay attention then!"
-msgstr "Fa' attenzione allora!"
+msgstr "Fai attenzione allora!"
 
 msgctxt "74||anri_03_02_chat01||chat_message"
 msgid "Perfection..."
@@ -965,7 +965,7 @@ msgstr "Facciamolo."
 
 msgctxt "108||anri_04_04_chat03||chat_message"
 msgid "Alone time."
-msgstr "Da soli."
+msgstr "Momento da soli."
 
 msgctxt "109||anri_04_04_chat04||chat_message"
 msgid "Pleasure."
@@ -1105,7 +1105,7 @@ msgstr "Decisamente M."
 
 msgctxt "163||yua_02_03_chat04||chat_message"
 msgid "Nailed it!"
-msgstr "Ci ho preso!"
+msgstr "Hai indovinato!"
 
 msgctxt "164||yua_02_03_chat05||chat_message"
 msgid "It might hurt."
@@ -1177,7 +1177,7 @@ msgstr "Sì."
 
 msgctxt "184||yua_03_01_chat02||chat_message"
 msgid "It's growing..."
-msgstr "Sta crescendo..."
+msgstr "Si sta ingrossando..."
 
 msgctxt "185||yua_03_01_chat03||chat_message"
 msgid "My love."
@@ -1349,7 +1349,7 @@ msgstr "Un massaggio."
 
 msgctxt "231||yua_04_04_chat04||chat_message"
 msgid "...Alone."
-msgstr "...Da soli."
+msgstr "...Momento da soli."
 
 msgctxt "232||yua_04_04_chat05||chat_message"
 msgid "How 'bout it?"
@@ -1429,7 +1429,7 @@ msgstr "Sei una S? O sei una M!?"
 
 msgctxt "41||anri_02_02_chat02||failed_chat_message"
 msgid "I hope for an S!"
-msgstr "Spero per una S!"
+msgstr "Spero sia una S!"
 
 msgctxt "42||anri_02_02_chat03||failed_chat_message"
 msgid "Thank you so much!"
@@ -1437,7 +1437,7 @@ msgstr "Grazie mille!"
 
 msgctxt "43||anri_02_02_chat04||failed_chat_message"
 msgid "You are most definitely an S"
-msgstr "Sei quasi certamente una S"
+msgstr "Sei decisamente una S"
 
 msgctxt "44||anri_02_03_chat01||failed_chat_message"
 msgid "Yeah"
@@ -1465,7 +1465,7 @@ msgstr "Ti rinfrescherai di sicuro se ti spogli!"
 
 msgctxt "53||anri_02_04_chat04||failed_chat_message"
 msgid "We can look forward to this right...?"
-msgstr "Possiamo aspettarcelo vero...?"
+msgstr "Possiamo aspettarci qualcosa, vero...?"
 
 msgctxt "54||anri_02_05_chat01||failed_chat_message"
 msgid "Definitely Anri-chan!"
@@ -1521,7 +1521,7 @@ msgstr "Meraviglioso..."
 
 msgctxt "75||anri_03_02_chat02||failed_chat_message"
 msgid "It's a once in a century level"
-msgstr "È roba che si vede una volta in un secolo"
+msgstr "È a livelli da una volta al secolo"
 
 msgctxt "76||anri_03_02_chat03||failed_chat_message"
 msgid "YES!"
@@ -1585,7 +1585,7 @@ msgstr "Lo stavo aspettando."
 
 msgctxt "91||anri_03_06_chat02||failed_chat_message"
 msgid "Ogling"
-msgstr "Guarda che roba"
+msgstr "Ti mangio con gli occhi"
 
 msgctxt "92||anri_03_06_chat03||failed_chat_message"
 msgid "Fooo..."
@@ -1593,7 +1593,7 @@ msgstr "Fooo..."
 
 msgctxt "93||anri_03_06_chat04||failed_chat_message"
 msgid "Outrageous, truly outrageous."
-msgstr "Assurdo, davvero assurdo."
+msgstr "Scandaloso, davvero scandaloso."
 
 msgctxt "94||anri_04_01_chat01||failed_chat_message"
 msgid "I want to do it too!"
@@ -1609,7 +1609,7 @@ msgstr "Ti piace?"
 
 msgctxt "97||anri_04_01_chat04||failed_chat_message"
 msgid "Squeeze!"
-msgstr "Strizz!"
+msgstr "Strizza!"
 
 msgctxt "98||anri_04_02_chat01||failed_chat_message"
 msgid "You're so great."
@@ -1797,7 +1797,7 @@ msgstr "Ti dominerò."
 
 msgctxt "165||yua_02_04_chat01||failed_chat_message"
 msgid "I love AC."
-msgstr "Adoro l'aria condizionata."
+msgstr "Amo il condizionatore."
 
 msgctxt "166||yua_02_04_chat02||failed_chat_message"
 msgid "Take your clothes off!"
@@ -1861,7 +1861,7 @@ msgstr "Sì."
 
 msgctxt "184||yua_03_01_chat02||failed_chat_message"
 msgid "I'm growing!"
-msgstr "Sto crescendo!"
+msgstr "Mi sto ingrossando!"
 
 msgctxt "185||yua_03_01_chat03||failed_chat_message"
 msgid "My love! And something else too!"

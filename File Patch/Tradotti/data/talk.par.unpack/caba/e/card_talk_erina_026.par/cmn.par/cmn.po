@@ -10,15 +10,15 @@ msgstr ""
 #. Max bytes: 15
 msgctxt "Offset_0xC6AC_Len_15"
 msgid "How about rock?"
-msgstr ""
+msgstr "E il rock?"
 
 #. Max bytes: 20
 msgctxt "Offset_0xC6EC_Len_20"
 msgid "How about classical?"
-msgstr ""
+msgstr "E la classica?"
 
 #. Max bytes: 15
 msgctxt "Offset_0xC72C_Len_15"
 msgid "How about enka?"
-msgstr ""
+msgstr "E l'enka?"
 

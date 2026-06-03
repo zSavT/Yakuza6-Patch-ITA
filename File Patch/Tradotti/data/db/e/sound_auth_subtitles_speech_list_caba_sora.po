@@ -861,7 +861,7 @@ msgstr "Ti ringrazio per i consigli!\r\n...Sento di aver trovato un po' di corag
 
 msgctxt "213||||4"
 msgid "Good to hear, and glad I can support you."
-msgstr "Mi fa piacere sentirtelo dire, e sono felice di poterti supportare."
+msgstr "Mi fa piacere sentirtelo dire, e sono felice di poterti sostenere."
 
 msgctxt "214||||4"
 msgid "Yeah... I have to say, though,\r\nyou're pretty dense, Kiryu-san..."
@@ -1269,7 +1269,7 @@ msgstr "Ma parlo di <font_kind=yakuza_italic>tanta</font_kind> schiuma!"
 
 msgctxt "316||||4"
 msgid "But then when I looked at my toothpaste, I realized\r\nI'd grabbed the face cleanser! How funny is that?"
-msgstr "Ma poi ho guardato il mio dentifricio, e ho realizzato di\r\naver preso il detergente per il viso! È così divertente, no?"
+msgstr "Ma poi ho guardato il mio dentifricio, e mi sono resa conto di\r\naver preso il detergente per il viso! È così divertente, no?"
 
 msgctxt "317||||4"
 msgid "That's good."
@@ -1345,7 +1345,7 @@ msgstr "Sapevo che questi giochi si sarebbero rivelati molto utili... <symbol=no
 
 msgctxt "335||||4"
 msgid "Yeah. Those games are made with guys in mind.\r\nCould be more useful than some real life flings."
-msgstr "Certo. Quei giochi sono realizzati pensando ai ragazzi.\r\nPotrebbero essere più utili di un banale flirtreale."
+msgstr "Certo. Quei giochi sono realizzati pensando ai ragazzi.\r\nPotrebbero essere più utili di un banale flirt reale."
 
 msgctxt "336||||4"
 msgid "I see...!\r\nKiryu-san, do you play those games too?"

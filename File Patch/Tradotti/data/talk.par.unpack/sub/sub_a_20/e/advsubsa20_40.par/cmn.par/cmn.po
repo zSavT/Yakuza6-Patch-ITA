@@ -10,30 +10,34 @@ msgstr ""
 #. Max bytes: 26
 msgctxt "Offset_0x56A6C_Len_26"
 msgid "I want everything you own."
-msgstr ""
+msgstr "Voglio ciò che possiedi."
 
 #. Max bytes: 27
 msgctxt "Offset_0x56AAC_Len_27"
 msgid "I want you to be my friend."
-msgstr ""
+msgstr "Voglio che siamo amici."
 
 #. Max bytes: 31
 msgctxt "Offset_0x56AEC_Len_31"
 msgid "I want you on my baseball team."
-msgstr ""
+msgstr "Ti voglio in squadra."
 
 #. Max bytes: 27
 msgctxt "Offset_0x570EC_Len_27"
 msgid "I want you to be my friend."
-msgstr ""
+msgstr "Voglio che siamo amici."
 
 #. Max bytes: 31
 msgctxt "Offset_0x5712C_Len_31"
 msgid "I want you on my baseball team."
-msgstr ""
+msgstr "Ti voglio in squadra."
 
 #. Max bytes: 74
 msgctxt "Offset_0x578F4_Len_74"
-msgid "Yoshida, of Yoshida Batting Center fame,\nhas joined the Setouchi Warriors!"
+msgid ""
+"Yoshida, of Yoshida Batting Center fame,\n"
+"has joined the Setouchi Warriors!"
 msgstr ""
+"Yoshida, del Yoshida Batting Center,\n"
+"è nei Setouchi Warriors!"
 

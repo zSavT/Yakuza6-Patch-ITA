@@ -17,9 +17,29 @@ msgctxt "Offset_0xA78_Len_18"
 msgid "Enter a Clan Code?"
 msgstr ""
 
+#. Max bytes: 3
+msgctxt "Offset_0xB78_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0xBB8_Len_2"
+msgid "No"
+msgstr ""
+
 #. Max bytes: 41
 msgctxt "Offset_0x1188_Len_41"
 msgid "Would you like to re-enter the Clan Code?"
+msgstr ""
+
+#. Max bytes: 3
+msgctxt "Offset_0x1288_Len_3"
+msgid "Yes"
+msgstr ""
+
+#. Max bytes: 2
+msgctxt "Offset_0x12C8_Len_2"
+msgid "No"
 msgstr ""
 
 #. Max bytes: 33

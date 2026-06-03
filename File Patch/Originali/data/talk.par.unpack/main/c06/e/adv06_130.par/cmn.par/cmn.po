@@ -17,3 +17,8 @@ msgctxt "Offset_0x4C9A0_Len_4"
 msgid "! zD"
 msgstr ""
 
+#. Max bytes: 4
+msgctxt "Offset_0x4EC78_Len_4"
+msgid "QZOC"
+msgstr ""
+

@@ -29,20 +29,20 @@ msgstr "Yakuman"
 
 msgctxt "7||kouhai||text"
 msgid "Exhaustive Draw"
-msgstr "Ryukyoku"
+msgstr "Pesca esaustiva"
 
 msgctxt "8||suuchariichi||text"
 msgid "Four Riichi Draw"
-msgstr "Suucha Riichi"
+msgstr "Pesca di quattro riichi"
 
 msgctxt "9||sanchahou||text"
 msgid "Triple Ron"
-msgstr "Sancha Hou"
+msgstr "Triplo ron"
 
 msgctxt "10||suufuurenda||text"
 msgid "Wind Discard Draw"
-msgstr "Suufuu Renda"
+msgstr "Pesca con scarto vento"
 
 msgctxt "11||kyuushukyuuhai||text"
 msgid "Nine Terminal Draw"
-msgstr "Kyuushu Kyuuhai"
+msgstr "Pesca testa nove"

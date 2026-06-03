@@ -29,7 +29,7 @@ msgstr "Toru Yano dei Sei Folli!"
 
 msgctxt "8||CLN_08||name"
 msgid "Naito's Right-hand Men"
-msgstr "I bracci destri di Naito"
+msgstr "I fedelissimi di Naito"
 
 msgctxt "9||CLN_09||name"
 msgid "Tetsuya Naito, Activated"
@@ -269,7 +269,7 @@ msgstr "I Sei Folli hanno inviato il letale tag team formato da Tenzan\r\ne Koji
 
 msgctxt "14||CLN_14||explanation"
 msgid "Tenzan and Kojima have joined forces in an all-out attack.\r\nThis will be a power unlike anything you have faced yet,\r\nso annihilate them without mercy!"
-msgstr "Tenzan e Kojima hanno unito le forze in un attacco totale.\r\nQuesta sarà una forza diversa da qualsiasi cosa tu abbia mai affrontato finora,\r\nquindi annientali senza pietà!"
+msgstr "Tenzan e Kojima hanno unito le forze in un attacco totale.\r\nQuesta sarà una forza diversa da qualsiasi cosa tu\r\nabbia mai affrontato finora, quindi annientali senza pietà!"
 
 msgctxt "15||CLN_15||explanation"
 msgid "Tanahashi of the Six Lunatics has sent out his men. Bring\r\nthe power of the Kiryu Clan together and wipe them out."
@@ -289,7 +289,7 @@ msgstr "È la battaglia finale contro il leader della JUSTIS,\r\nRainmaker. Diss
 
 msgctxt "20||CLN_20||explanation"
 msgid "The true masterminds, Satsuki and Komei, have formed\r\nan alliance. The final battle is now. Defeat them and\r\nbring the neon light back to Kamurocho."
-msgstr "Le vere menti dietro a tutto, Satsuki e Komei, hanno stretto\r\nun'alleanza. È il momento della battaglia finale. Sconfiggili e\r\nriporta le luci al neon a Kamurocho."
+msgstr "Le vere menti dietro a tutto, Satsuki e Komei, hanno stretto\r\nun'alleanza. È il momento della battaglia finale. Sconfiggili e\r\nfai risplendere di nuovo le luci di Kamurocho."
 
 msgctxt "21||CLN_ED_01||explanation"
 msgid "Defeat the assassins JUSTIS sent to Onomichi!"
@@ -397,7 +397,7 @@ msgstr "Questa battaglia ti mette contro i primi in classifica!\r\nPreparati a l
 
 msgctxt "59||limited_holiday||explanation"
 msgid "Taste that fresh weekend EXP! Battle on weekends\r\nto really power up the Kiryu Clan!"
-msgstr "Assapora la fresca EXP del fine settimana! Combatti nel\r\nweekend per potenziare al massimo il Clan Kiryu!"
+msgstr "Goditi l'EXP extra del fine settimana! Combatti nel\r\nweekend per potenziare al massimo il Clan Kiryu!"
 
 msgctxt "60||limited_card||explanation"
 msgid "Complete this mission to obtain an uncommon leader.\r\nUse him to expand the Kiryu Clan's dominance!"
@@ -613,195 +613,195 @@ msgstr "Spazza via i nemici!"
 
 msgctxt "3||CLN_03||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "4||CLN_04||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "5||CLN_05||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "6||CLN_06||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "7||CLN_07||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "8||CLN_08||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "9||CLN_09||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "10||CLN_10||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "12||CLN_12||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "13||CLN_13||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "14||CLN_14||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "15||CLN_15||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "16||CLN_16||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "17||CLN_17||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "19||CLN_19||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "20||CLN_20||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "21||CLN_ED_01||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "22||CLN_ED_02||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "23||CLN_ED_03||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "24||CLN_ED_04||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "25||CLN_ED_05||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "26||CLN_ED_06||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "27||CLN_ED_07||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "28||CLN_ED_08||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "29||CLN_ED_09||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "30||CLN_ED_10||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "31||CLN_CL_01||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "32||CLN_CL_02||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "33||CLN_CL_03||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "34||CLN_CL_04||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "35||CLN_CL_05||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "36||CLN_CL_06||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "44||CLN_ONLINE_01||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "45||CLN_ONLINE_02||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "46||CLN_ONLINE_03||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "48||limited_monday||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "49||limited_tuesday||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "50||limited_wednesday||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "51||limited_thursday||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "52||limited_friday||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "57||CLN_ONLINE_FRIEND||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "58||CLN_ONLINE_RANKER||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "59||limited_holiday||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "60||limited_card||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "61||limited_mosa||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "62||limited_shinnichi||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "63||limited_rokukyoujin||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "64||limited_nisekiryu||lose_condition_explanation"
 msgid "Not fulfilling victory conditions within time limit"
-msgstr "Mancato raggiungimento delle condizioni di vittoria entro il limite di tempo"
+msgstr "Condizioni di vittoria non soddisfatte\r\nentro il limite di tempo"
 
 msgctxt "3||CLN_03||place_text"
 msgid "Onomichi Jingaicho, Jingai Main St."

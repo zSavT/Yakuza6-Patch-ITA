@@ -7,18 +7,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 
-#. Max bytes: 4
-msgctxt "Offset_0x894_Len_4"
-msgid " є?"
-msgstr ""
-
 #. Max bytes: 77
 msgctxt "Offset_0x1F08_Len_77"
-msgid "(That's the drone...! I lost track of it\nat one point, but here it is again.)"
+msgid ""
+"(That's the drone...! I lost track of it\n"
+"at one point, but here it is again.)"
 msgstr ""
+"(Ecco il drone...!\n"
+"L'avevo perso, ma eccolo qui.)"
 
 #. Max bytes: 37
 msgctxt "Offset_0x2038_Len_37"
 msgid "(I'll definitely catch it this time.)"
-msgstr ""
+msgstr "(Stavolta lo prendo di sicuro.)"
 
