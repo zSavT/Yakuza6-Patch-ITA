@@ -45781,7 +45781,7 @@ msgstr "Sono persino riusciti ad assicurarsi che Sugai del\nClan Tojo ci invitas
 
 msgctxt "24||speech_list_main12||table||175||||4"
 msgid "In Kamurocho, the Tojo Clan\nwill be reborn?"
-msgstr "A Kamurocho, il Clan Tojo\nrininascerà?"
+msgstr "A Kamurocho, il Clan Tojo\nrinascerà?"
 
 msgctxt "24||speech_list_main12||table||176||||4"
 msgid "Tsuneo planned on using Sugai and Someya\r\nto make the Tojo Clan into his puppet."
@@ -46621,11 +46621,11 @@ msgstr "Facciamolo. Voglio svelare\nil segreto di Onomichi."
 
 msgctxt "24||speech_list_main12||table||398||||4"
 msgid "But, y'best know this<symbol=em_dash_with_outline>I'm only doin'\nthis shit to clear the boss's name."
-msgstr "Ma, mettetevelo bene in testa<symbol=em_dash_with_outline>sto facendo questa\nmerda solo per riabilitare il nome del capo."
+msgstr "Ma, mettitelo bene in testa<symbol=em_dash_with_outline>sto facendo questa\nmerda solo per riabilitare il nome del capo."
 
 msgctxt "24||speech_list_main12||table||399||||4"
 msgid "N' once I manage that\r,\ny'gonna be ready fer some real damn apologies?"
-msgstr "E una volta che ci sarò riuscito,\r\nsarete pronti a farmi delle scuse come si deve?"
+msgstr "E una volta che ci sarò riuscito,\r\nsarai pronto a farmi delle scuse come si deve?"
 
 msgctxt "24||speech_list_main12||table||400||||4"
 msgid "Yeah. If that's how this goes down,\nyou have my word."
@@ -47369,11 +47369,11 @@ msgstr "Dite sul serio!?"
 
 msgctxt "24||speech_list_main12||table||615||||4"
 msgid "Wow, y'still standin'?"
-msgstr "Uao, siete ancora in piedi?"
+msgstr "Wow, sei ancora in piedi?"
 
 msgctxt "24||speech_list_main12||table||616||||4"
 msgid "But don't go thinkin' that means\r\ny'can take us down."
-msgstr "Ma non montatevi la testa pensando\r\ndi poterci mettere al tappeto."
+msgstr "Ma non montarti la testa pensando\r\ndi poterci mettere al tappeto."
 
 msgctxt "24||speech_list_main12||table||617||||4"
 msgid "Aniki. I got this tubby chump."
@@ -47473,7 +47473,7 @@ msgstr "Lo aveva detto di averlo appreso da suo padre."
 
 msgctxt "24||speech_list_main12||table||641||||4"
 msgid "Regrettably, the ship was still in its final\nstages of\r construction as the war ended."
-msgstr "Purtroppo, la nave era ancora nelle sue fasi finali\nidi\r costruzione al termine della guerra."
+msgstr "Purtroppo, la nave era ancora nelle sue fasi finali\ndi costruzione al termine della guerra."
 
 msgctxt "24||speech_list_main12||table||642||||4"
 msgid "Iwami Shipbuilding faced immeasurable losses.\nThen, a man came forth to shoulder the burden."
