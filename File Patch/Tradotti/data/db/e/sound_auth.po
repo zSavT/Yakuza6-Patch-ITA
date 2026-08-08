@@ -32901,7 +32901,7 @@ msgstr "Lo so benissimo dove sta!"
 
 msgctxt "15||speech_list_main03||table||345||||4"
 msgid "Cap, can't you give it a rest?\nEveryone's waiting for us."
-msgstr "Capo, non puoi dacci un taglio?\nCi stanno tutti aspettando."
+msgstr "Capo, non puoi darci un taglio?\nCi stanno aspettando."
 
 msgctxt "15||speech_list_main03||table||346||||4"
 msgid "Sure. This game's gon'\nbe one for the records!"
@@ -33445,7 +33445,7 @@ msgstr "Eh?"
 
 msgctxt "15||speech_list_main03||table||488||||4"
 msgid "You two lovebirds done yappin'!?\nHow long d'we gotta listen to this!?"
-msgstr "Avete finito di cianciare pomicioni!?\nQuanto dobbiamo stare ad ascoltare questa roba!?"
+msgstr "Avete finito di cianciare, pomicioni!?\nQuanto dobbiamo stare ad ascoltare questa roba!?"
 
 msgctxt "15||speech_list_main03||table||490||||4"
 msgid "Yer an interestin' fella, though.\nI'll spare yer life this time."
