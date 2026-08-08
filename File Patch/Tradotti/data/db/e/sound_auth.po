@@ -39333,7 +39333,7 @@ msgstr "Anche se volessi riaprire la Sky Finance,\nsarebbe del tutto impossibile
 
 msgctxt "19||speech_list_main07||table||252||||4"
 msgid "You'd reopen Sky Finance?"
-msgstr "Vorresti riaprire la Sky Finance?"
+msgstr "La Sky Finance?"
 
 msgctxt "19||speech_list_main07||table||253||||4"
 msgid "Well, I only started it up to give loans\nto those who dreamed of saving this city."
@@ -42001,7 +42001,7 @@ msgstr "No, per niente. Era tutto sorrisi\ne battute, proprio come sempre."
 
 msgctxt "21||speech_list_main09||table||90||||4"
 msgid "If he paid for the drink, he must've\nleft by choice, not been taken by force."
-msgstr "Se ha pagato il drink, deve essersene andato\ndi sua volontà, non essere stato portato via con la forza."
+msgstr "Se ha pagato il drink, deve essersene andato\ndi sua volontà, non può essere stato portato via con la forza."
 
 msgctxt "21||speech_list_main09||table||91||||4"
 msgid "In Kamurocho, I spoke to the\nSaio Triad boss, Lo, about Haruto."
