@@ -102,7 +102,7 @@ Per poter generare l'eseguibile dell'installer, è necessario utilizzare la libr
 
 Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il seguente comando:
 ```ps
-pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.ico --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
 ```
 
 Nella cartella "_dist_", è presente l'eseguibile.
