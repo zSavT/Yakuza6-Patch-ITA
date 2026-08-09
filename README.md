@@ -92,11 +92,11 @@ Ovviamente, le parentesi quadre non devono essere incluse nel comando.
 
 # Funzionamento installer
 
-Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella "_data_". Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
+Per poter creare correttamente l'installer, bisogna prima di tutto utilizzare `packager.py` per generare il file `patch.pkg` criptato. Lo script è guidato: chiederà il percorso della cartella contenente i file della patch (solitamente `data`) e utilizzerà la chiave di cifratura presente nel file `chiave.txt` per creare l'archivio.
 
 ## Creazione dell'eseguibile
 
-Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__pyinstaller__" e generare l'eseguibile con i comandi in base al sistema operativo di arrivo.
+Per poter generare l'eseguibile dell'installer, è necessario utilizzare la libreria `pyinstaller`. I comandi variano in base al sistema operativo di destinazione.
 
 ### Windows
 
@@ -107,10 +107,16 @@ pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzi
 
 Nella cartella "_dist_", è presente l'eseguibile.
 
-Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
-Per prima cosa bisogna creare l'ambiente virtuale per Python tramite il comando:
-```ps
-python3 -m venv venv
+### Linux
+
+Per generare l'eseguibile per Linux (ad esempio, tramite WSL su Windows), segui questi passaggi.
+
+#### Installazione dipendenze di sistema
+A seconda della tua distribuzione, installa `pip` e le librerie di sviluppo per Python:
+
+**Debian / Ubuntu e derivate:**
+```Bash
+sudo apt update && sudo apt install python3-pip python3-venv python3-dev
 ```
 **Arch Linux / SteamOS (Steam Deck):**
 
