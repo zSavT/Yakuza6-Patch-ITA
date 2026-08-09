@@ -14377,7 +14377,7 @@ msgstr "Questo mi tocca da vicino..."
 
 msgctxt "11||speech_list_cln||table||324||||4"
 msgid "All right, then. I'll help you out.\nNow lift your head back up."
-msgstr "E va bene. Vi darò una mano.\nOra rialzate la testa."
+msgstr "E va bene. Vi darò una mano.\nOra rialza la testa."
 
 msgctxt "11||speech_list_cln||table||325||||4"
 msgid "Seriously!? This is great, Joe-san!"
@@ -18769,7 +18769,7 @@ msgstr "Ad essere onesto, mi ricordano un po'\nme stesso quando ero un ragazzino
 
 msgctxt "11||speech_list_cln||table||1458||||4"
 msgid "Makes me feel all warm n' fuzzy inside.\nThat's why I let them use my place as a hideout."
-msgstr "Mi scalda il cuore.\nÈ per questo che li lascio usare il mio locale come covo."
+msgstr "Mi scalda il cuore.\nÈ per questo che gli lascio usare il mio locale come covo."
 
 msgctxt "11||speech_list_cln||table||1459||||4"
 msgid "Sheesh... I put so much effort making this place\nbeautiful, but they just go and cramp my style."
@@ -29973,7 +29973,7 @@ msgstr "Va bene, tu capire. Tu volere sapere cosa noi\navere qua dietro così ta
 
 msgctxt "13||speech_list_main01||table||361||||4"
 msgid "[Stay here.\r\nMake sure nobody else gets in.]"
-msgstr "[Restate qui.\r\nAssicuratevi che nessun altro entri.]"
+msgstr "[Resta qui.\r\nAssicuratevi che nessun altro entri.]"
 
 msgctxt "13||speech_list_main01||table||362||||4"
 msgid "[Hey, who the hell is that guy? I thought\r\nI told you not to let anyone back here!]"
@@ -32901,7 +32901,7 @@ msgstr "Lo so benissimo dove sta!"
 
 msgctxt "15||speech_list_main03||table||345||||4"
 msgid "Cap, can't you give it a rest?\nEveryone's waiting for us."
-msgstr "Capo, non puoi dacci un taglio?\nCi stanno tutti aspettando."
+msgstr "Capo, non puoi darci un taglio?\nCi stanno aspettando."
 
 msgctxt "15||speech_list_main03||table||346||||4"
 msgid "Sure. This game's gon'\nbe one for the records!"
@@ -33445,7 +33445,7 @@ msgstr "Eh?"
 
 msgctxt "15||speech_list_main03||table||488||||4"
 msgid "You two lovebirds done yappin'!?\nHow long d'we gotta listen to this!?"
-msgstr "Avete finito di cianciare pomicioni!?\nQuanto dobbiamo stare ad ascoltare questa roba!?"
+msgstr "Avete finito di cianciare, pomicioni!?\nQuanto dobbiamo stare ad ascoltare questa roba!?"
 
 msgctxt "15||speech_list_main03||table||490||||4"
 msgid "Yer an interestin' fella, though.\nI'll spare yer life this time."
@@ -35801,7 +35801,7 @@ msgstr "Inoltre, non c'è posto migliore di\nquesto per discutere di questioni i
 
 msgctxt "17||speech_list_main05||table||164||||4"
 msgid "We can speak freely here without\nfear of any eavesdropping."
-msgstr "Possiamo parlare liberamente senza\ntemore che qualcuno origli."
+msgstr "Possiamo parlare liberamente senza\ntimore che qualcuno origli."
 
 msgctxt "17||speech_list_main05||table||165||||4"
 msgid "Important matters?"
@@ -37009,7 +37009,7 @@ msgstr "Capisco. Ma tornando ad Haruka-chan...\nHa davvero un figlio, ora?"
 
 msgctxt "18||speech_list_main06||table||235||||4"
 msgid "Yeah, she really does."
-msgstr "Sì, fa proprio così."
+msgstr "Sì, è così."
 
 msgctxt "18||speech_list_main06||table||236||||4"
 msgid "Apparently this guy is the father."
@@ -37893,7 +37893,7 @@ msgstr "Uh..."
 
 msgctxt "18||speech_list_main06||table||472||||4"
 msgid "Are you trying to disgrace us!?\nLet Yuta-kun go. And drop the knife, too."
-msgstr "Stai cercando di disonorarci!?\nLascia andare Yuta-kun. E lascia cadere quel coltello."
+msgstr "State cercando di disonorarci!?\nLasciate andare Yuta-kun. E lascia cadere quel coltello."
 
 msgctxt "18||speech_list_main06||table||473||||4"
 msgid "What are all of you looking at?\nShow some respect to our victor."
@@ -39333,7 +39333,7 @@ msgstr "Anche se volessi riaprire la Sky Finance,\nsarebbe del tutto impossibile
 
 msgctxt "19||speech_list_main07||table||252||||4"
 msgid "You'd reopen Sky Finance?"
-msgstr "Vorresti riaprire la Sky Finance?"
+msgstr "La Sky Finance?"
 
 msgctxt "19||speech_list_main07||table||253||||4"
 msgid "Well, I only started it up to give loans\nto those who dreamed of saving this city."
@@ -42001,7 +42001,7 @@ msgstr "No, per niente. Era tutto sorrisi\ne battute, proprio come sempre."
 
 msgctxt "21||speech_list_main09||table||90||||4"
 msgid "If he paid for the drink, he must've\nleft by choice, not been taken by force."
-msgstr "Se ha pagato il drink, deve essersene andato\ndi sua volontà, non essere stato portato via con la forza."
+msgstr "Se ha pagato il drink, deve essersene andato\ndi sua volontà, non può essere stato portato via con la forza."
 
 msgctxt "21||speech_list_main09||table||91||||4"
 msgid "In Kamurocho, I spoke to the\nSaio Triad boss, Lo, about Haruto."
@@ -45781,7 +45781,7 @@ msgstr "Sono persino riusciti ad assicurarsi che Sugai del\nClan Tojo ci invitas
 
 msgctxt "24||speech_list_main12||table||175||||4"
 msgid "In Kamurocho, the Tojo Clan\nwill be reborn?"
-msgstr "A Kamurocho, il Clan Tojo\nrininascerà?"
+msgstr "A Kamurocho, il Clan Tojo\nrinascerà?"
 
 msgctxt "24||speech_list_main12||table||176||||4"
 msgid "Tsuneo planned on using Sugai and Someya\r\nto make the Tojo Clan into his puppet."
@@ -46621,11 +46621,11 @@ msgstr "Facciamolo. Voglio svelare\nil segreto di Onomichi."
 
 msgctxt "24||speech_list_main12||table||398||||4"
 msgid "But, y'best know this<symbol=em_dash_with_outline>I'm only doin'\nthis shit to clear the boss's name."
-msgstr "Ma, mettetevelo bene in testa<symbol=em_dash_with_outline>sto facendo questa\nmerda solo per riabilitare il nome del capo."
+msgstr "Ma, mettitelo bene in testa<symbol=em_dash_with_outline>sto facendo questa\nmerda solo per riabilitare il nome del capo."
 
 msgctxt "24||speech_list_main12||table||399||||4"
 msgid "N' once I manage that\r,\ny'gonna be ready fer some real damn apologies?"
-msgstr "E una volta che ci sarò riuscito,\r\nsarete pronti a farmi delle scuse come si deve?"
+msgstr "E una volta che ci sarò riuscito,\r\nsarai pronto a farmi delle scuse come si deve?"
 
 msgctxt "24||speech_list_main12||table||400||||4"
 msgid "Yeah. If that's how this goes down,\nyou have my word."
@@ -47369,11 +47369,11 @@ msgstr "Dite sul serio!?"
 
 msgctxt "24||speech_list_main12||table||615||||4"
 msgid "Wow, y'still standin'?"
-msgstr "Uao, siete ancora in piedi?"
+msgstr "Wow, sei ancora in piedi?"
 
 msgctxt "24||speech_list_main12||table||616||||4"
 msgid "But don't go thinkin' that means\r\ny'can take us down."
-msgstr "Ma non montatevi la testa pensando\r\ndi poterci mettere al tappeto."
+msgstr "Ma non montarti la testa pensando\r\ndi poterci mettere al tappeto."
 
 msgctxt "24||speech_list_main12||table||617||||4"
 msgid "Aniki. I got this tubby chump."
@@ -47473,7 +47473,7 @@ msgstr "Lo aveva detto di averlo appreso da suo padre."
 
 msgctxt "24||speech_list_main12||table||641||||4"
 msgid "Regrettably, the ship was still in its final\nstages of\r construction as the war ended."
-msgstr "Purtroppo, la nave era ancora nelle sue fasi finali\nidi\r costruzione al termine della guerra."
+msgstr "Purtroppo, la nave era ancora nelle sue fasi finali\ndi costruzione al termine della guerra."
 
 msgctxt "24||speech_list_main12||table||642||||4"
 msgid "Iwami Shipbuilding faced immeasurable losses.\nThen, a man came forth to shoulder the burden."
