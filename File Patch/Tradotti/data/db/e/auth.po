@@ -9581,7 +9581,7 @@ msgstr "Posso trovarlo da solo."
 
 msgctxt "112||a13_060||cinema_telop||7||||4"
 msgid "Get out of my way!"
-msgstr "Togliti di mezzo!"
+msgstr "Toglietevi di mezzo!"
 
 msgctxt "113||a13_070||cinema_telop||1||||4"
 msgid "You look well, Kiryu."
@@ -10189,7 +10189,7 @@ msgstr "Anche tu, Matsunaga-aniki."
 
 msgctxt "124||a13_120||cinema_telop||35||||4"
 msgid "Take care o' yerselves down in Okinawa, Yuta."
-msgstr "Prendetevi cura di voi stessi laggiù a Okinawa, Yuta."
+msgstr "Prendetevi cura di voi laggiù a Okinawa, Yuta."
 
 msgctxt "124||a13_120||cinema_telop||36||||4"
 msgid "Haruka-chan."
@@ -11389,11 +11389,11 @@ msgstr "Stai per capire..."
 
 msgctxt "141||a13_100||cinema_telop||67||||4"
 msgid "Just who you picked a fight with."
-msgstr "Con chi ti sei messo."
+msgstr "Contro chi ti sei messo."
 
 msgctxt "141||a13_100||cinema_telop||68||||4"
 msgid "Don't fuck with me!"
-msgstr "Non rompetemi il cazzo!"
+msgstr "Non prendermi per il culo!"
 
 msgctxt "141||a13_100||cinema_telop||69||||4"
 msgid "Iwami-san!"
